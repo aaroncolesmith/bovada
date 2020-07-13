@@ -129,8 +129,8 @@ def _max_width_():
 
 def main():
     #Get all data
-    _max_width_()
-    st.title('Updated Bovada Odds Over Time')
+    #_max_width_()
+    st.title('Bovada Odds Over Time')
     st.markdown('Welcome to Bovada Scrape!!! Select an option below and see how the betting odds have tracked over time!')
     bucket = 'bovada-scrape'
     df_file = 'bovada_requests.csv'
