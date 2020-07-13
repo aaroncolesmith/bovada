@@ -43,7 +43,8 @@ def table_output(df):
 
 def line_chart(df, option):
     g=px.line(df, x='Date', y='Price', color='Winner', title='Betting Odds Over Time')
-    g.update_traces(mode='lines+markers')
+    g.update_traces(mode='lines',opacity=.75,
+                   line = dict(width=4))
     g.update_xaxes(title='')
     st.plotly_chart(g)
 
@@ -152,7 +153,7 @@ def main():
 
     t=time_since_last_run(df)
 
-    if t > 3600:
+    if t > 10800:
         try:
             df = update_bovada(df, url)
         except:
