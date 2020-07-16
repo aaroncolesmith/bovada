@@ -48,6 +48,14 @@ def line_chart(df, option):
     g.update_xaxes(title='')
     st.plotly_chart(g)
 
+def line_chart_probability(df,option):
+    g=px.line(df, x='Date', y='Implied_Probability', color='Winner', title='Implied Probabiilty Over Time')
+    g.update_traces(mode='lines',opacity=.75,
+                   line = dict(width=4))
+    g.update_xaxes(title='')
+    st.plotly_chart(g)
+
+
 def line_chart_favorites(df, option):
     #today = pd.Timestamp.today()
     #last_7 = today - timedelta(days=7)
@@ -149,6 +157,7 @@ def main():
 ]
 
     df = get_s3_data(bucket,df_file)
+
     #df['date'] = pd.to_datetime(df['date'])
 
     t=time_since_last_run(df)
@@ -179,10 +188,13 @@ def main():
             filtered_df = df.loc[df.title == state.option]
             filtered_df = filtered_df[['date','url','title','description','price.american']].reset_index(drop=True)
             filtered_df.columns = ['Date','URL','Title','Winner','Price']
+            filtered_df.loc[filtered_df['Price'] > 0, 'Implied_Probability'] = 100 / (filtered_df['Price'] + 100)
+            filtered_df.loc[filtered_df['Price'] < 0, 'Implied_Probability'] = -filtered_df['Price'] / (-filtered_df['Price'] + 100)
             filtered_df['Date'] = pd.to_datetime(filtered_df['Date'])
 
             table_output(filtered_df)
             line_chart(filtered_df,state.option)
+            line_chart_probability(filtered_df,state.option)
 
             if filtered_df.Price.max() >= 7500:
                     line_chart_favorites(filtered_df,state.option)

@@ -19,4 +19,4 @@ pandas==0.25.1
 plotly==4.7.0
 plotly-express==0.4.1
 geocoder==1.38.1
-streamlit==0.52.2
+streamlit==0.63.0
