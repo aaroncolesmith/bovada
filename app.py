@@ -170,22 +170,24 @@ def main():
 
     track_df = get_s3_data(bucket,track_file)
 
-    state = SessionState.get(option = '', a=[])
+    # state = SessionState.get(option = '', a=[])
+    #
+    # state.a = get_select_options(df, track_df)
+    #
+    # state.option=st.selectbox('Select a bet -', state.a)
+    a=get_select_options(df, track_df)
+    option=st.selectbox('Select a bet -', a)
 
-    state.a = get_select_options(df, track_df)
-
-    state.option=st.selectbox('Select a bet -', state.a)
-
-    if len(state.option) > 0:
+    if len(option) > 0:
         try:
             track_df = track_df.append({'date' : datetime.datetime.now()
-                             ,'selection' :  state.option,
+                             ,'selection' :  option,
                              'count' : 1} , ignore_index=True)
             save_to_s3(track_df, bucket, track_file)
             #analytics(state.option)
 
-            st.title(state.option)
-            filtered_df = df.loc[df.title == state.option]
+            st.title(option)
+            filtered_df = df.loc[df.title == option]
             filtered_df = filtered_df[['date','url','title','description','price.american']].reset_index(drop=True)
             filtered_df.columns = ['Date','URL','Title','Winner','Price']
             filtered_df.loc[filtered_df['Price'] > 0, 'Implied_Probability'] = 100 / (filtered_df['Price'] + 100)
@@ -193,13 +195,13 @@ def main():
             filtered_df['Date'] = pd.to_datetime(filtered_df['Date'])
 
             table_output(filtered_df)
-            line_chart(filtered_df,state.option)
-            line_chart_probability(filtered_df,state.option)
+            line_chart(filtered_df,option)
+            line_chart_probability(filtered_df,option)
 
             if filtered_df.Price.max() >= 7500:
-                    line_chart_favorites(filtered_df,state.option)
+                    line_chart_favorites(filtered_df,option)
 
-            scatter_plot(filtered_df, state.option)
+            scatter_plot(filtered_df, option)
 
         except:
             st.markdown('Select an option above')
