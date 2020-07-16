@@ -98,6 +98,7 @@ def bovada_request(url, df):
 def update_bovada(df, url):
     for i in range(len(url)):
         df = bovada_request(url[i],df)
+
     bucket = 'bovada-scrape'
     df_file = 'bovada_requests.csv'
     save_to_s3(df, bucket, df_file)
@@ -122,6 +123,10 @@ def analytics(title):
     g_in_df['title'] = title
     g_df = pd.concat([g_df, g_in_df], sort=False)
     save_to_s3(g_df, bucket, a_file)
+
+def ga(event_category, event_action, event_label):
+    st.write('<img src="https://www.google-analytics.com/collect?v=1&tid=UA-18433914-1&cid=555&aip=1&t=event&ec='+event_category+'&ea='+event_action+'&el='+event_label+'">',unsafe_allow_html=True)
+
 
 def _max_width_():
     max_width_str = f"max-width: 2000px;"
@@ -159,7 +164,7 @@ def main():
 ]
 
     df = get_s3_data(bucket,df_file)
-
+    ga('bovada','get_data',str(df.index.size))
     #df['date'] = pd.to_datetime(df['date'])
 
     t=time_since_last_run(df)
@@ -189,6 +194,7 @@ def main():
             #analytics(state.option)
 
             st.title(option)
+            ga('bovada','view_option',option)
             filtered_df = df.loc[df.title == option]
             filtered_df = filtered_df[['date','url','title','description','price.american']].reset_index(drop=True)
             filtered_df.columns = ['Date','URL','Title','Winner','Price']
