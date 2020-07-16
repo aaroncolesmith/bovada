@@ -52,6 +52,7 @@ def line_chart_probability(df,option):
     g=px.line(df, x='Date', y='Implied_Probability', color='Winner', title='Implied Probabiilty Over Time')
     g.update_traces(mode='lines',opacity=.75,
                    line = dict(width=4))
+    g.update_yaxes(range=[0, 1])
     g.update_xaxes(title='')
     st.plotly_chart(g)
 
@@ -198,10 +199,10 @@ def main():
             line_chart(filtered_df,option)
             line_chart_probability(filtered_df,option)
 
-            if filtered_df.Price.max() >= 7500:
-                    line_chart_favorites(filtered_df,option)
-
-            scatter_plot(filtered_df, option)
+            # if filtered_df.Price.max() >= 7500:
+            #         line_chart_favorites(filtered_df,option)
+            #
+            # scatter_plot(filtered_df, option)
 
         except:
             st.markdown('Select an option above')
