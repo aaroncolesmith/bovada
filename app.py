@@ -53,6 +53,7 @@ def line_chart_probability(df,option):
     g.update_traces(mode='lines',opacity=.75,
                    line = dict(width=4))
     g.update_yaxes(range=[0, 1])
+    g.layout.yaxis.tickformat = ',.2%'
     g.update_xaxes(title='')
     st.plotly_chart(g)
 
