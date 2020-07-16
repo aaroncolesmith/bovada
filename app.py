@@ -169,11 +169,11 @@ def main():
 
     t=time_since_last_run(df)
 
-    if t > 10800:
-        try:
-            df = update_bovada(df, url)
-        except:
-            pass
+    # if t > 10800:
+    #     try:
+    #         df = update_bovada(df, url)
+    #     except:
+    #         pass
 
     track_df = get_s3_data(bucket,track_file)
 
