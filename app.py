@@ -1,6 +1,5 @@
 import pandas as pd
 import requests
-#from pandas import json_normalize
 from pandas.io.json import json_normalize
 import datetime
 import io
@@ -10,7 +9,6 @@ import streamlit as st
 import numpy as np
 import plotly_express as px
 import geocoder
-import SessionState
 
 def max_minus_min(x):
     return max(x) - min(x)
@@ -42,14 +40,24 @@ def table_output(df):
     st.write(df.groupby(['Winner']).agg({'Date':'max','Price': ['last','mean','max','min',max_minus_min,'count']}).sort_values([('Price', 'mean')], ascending=True))
 
 def line_chart(df, option):
-    g=px.line(df, x='Date', y='Price', color='Winner', title='Betting Odds Over Time')
+    g=px.line(df,
+    x='Date',
+    y='Price',
+    color='Winner',
+    color_discrete_sequence=['#5999E5','#59E5A5','#E55999','#E5A559','#A966FF'],
+    title='Betting Odds Over Time')
     g.update_traces(mode='lines',opacity=.75,
                    line = dict(width=4))
     g.update_xaxes(title='')
     st.plotly_chart(g)
 
 def line_chart_probability(df,option):
-    g=px.line(df, x='Date', y='Implied_Probability', color='Winner', title='Implied Probabiilty Over Time')
+    g=px.line(df,
+    x='Date',
+    y='Implied_Probability',
+    color='Winner',
+    color_discrete_sequence=['#5999E5','#59E5A5','#E55999','#E5A559','#A966FF'],
+    title='Implied Probabiilty Over Time')
     g.update_traces(mode='lines',opacity=.75,
                    line = dict(width=4))
     g.update_yaxes(range=[0, 1])
@@ -58,51 +66,93 @@ def line_chart_probability(df,option):
     st.plotly_chart(g)
 
 
-def line_chart_favorites(df, option):
+# def line_chart_favorites(df, option):
     #today = pd.Timestamp.today()
     #last_7 = today - timedelta(days=7)
     #g=px.line(df.loc[(df.Price < 5000) & (df.Date > last_7)], x='Date', y='Price', color='Winner', title='Betting Odds Over Time -- Recent & Favorites')
-    g=px.line(df.loc[(df.Price < 5000)], x='Date', y='Price', color='Winner', title='Betting Odds Over Time -- Recent & Favorites')
-    g.update_traces(mode='lines+markers')
-    st.plotly_chart(g)
+    # g=px.line(df.loc[(df.Price < 5000)], x='Date', y='Price', color='Winner', title='Betting Odds Over Time -- Recent & Favorites')
+    # g.update_traces(mode='lines+markers')
+    # st.plotly_chart(g)
 
-def scatter_plot(df, option):
-    s=df.groupby(['Winner']).agg({'Date':'max','Price': ['last','mean','max','min','count']}).sort_values([('Price', 'mean')], ascending=True)
-    s=s.reset_index(drop = False)
-    s.columns=['Winner','Date','Last Price','Average','Max','Min','Count']
-    g=px.scatter(s, x='Average',y='Last Price',color='Winner', title='Average Bet Price vs. Most Recent')
-    st.plotly_chart(g)
+# def scatter_plot(df, option):
+#     s=df.groupby(['Winner']).agg({'Date':'max','Price': ['last','mean','max','min','count']}).sort_values([('Price', 'mean')], ascending=True)
+#     s=s.reset_index(drop = False)
+#     s.columns=['Winner','Date','Last Price','Average','Max','Min','Count']
+#     g=px.scatter(s, x='Average',y='Last Price',color='Winner', title='Average Bet Price vs. Most Recent')
+#     st.plotly_chart(g)
 
-def bovada_request(url, df):
-    req = requests.get(url)
-    for i in range(json_normalize(req.json()).index.size):
-        for j in range(json_normalize(req.json()[i]['events']).index.size):
-            for k in range(json_normalize(req.json()[i]['events'][j]['displayGroups']).index.size):
-                for l in range(json_normalize(req.json()[i]['events'][j]['displayGroups'][k]['markets']).index.size):
-                    d=json_normalize(req.json()[i]['events'][j]['displayGroups'][k]['markets'][l]['outcomes'])
-                    a=json_normalize(req.json()[i]['path'])
-                    d['group'] = a['description'].loc[0]
-                    d['title'] = req.json()[i]['events'][j]['description'] + ' - ' + req.json()[i]['events'][j]['displayGroups'][k]['markets'][l]['description']
-                    d['url'] = url
-                    d['date'] = datetime.datetime.now()
-                    try:
-                        df = pd.concat([df, d], sort=False)
-                    except:
-                        df=d
+# def bovada_request(url, df):
+#     req = requests.get(url)
+#     for i in range(json_normalize(req.json()).index.size):
+#         for j in range(json_normalize(req.json()[i]['events']).index.size):
+#             for k in range(json_normalize(req.json()[i]['events'][j]['displayGroups']).index.size):
+#                 for l in range(json_normalize(req.json()[i]['events'][j]['displayGroups'][k]['markets']).index.size):
+#                     d=json_normalize(req.json()[i]['events'][j]['displayGroups'][k]['markets'][l]['outcomes'])
+#                     a=json_normalize(req.json()[i]['path'])
+#                     d['group'] = a['description'].loc[0]
+#                     d['title'] = req.json()[i]['events'][j]['description'] + ' - ' + req.json()[i]['events'][j]['displayGroups'][k]['markets'][l]['description']
+#                     d['url'] = url
+#                     d['date'] = datetime.datetime.now()
+#                     try:
+#                         df = pd.concat([df, d], sort=False)
+#                     except:
+#                         df=d
+#     df['price.american']=df['price.american'].replace('EVEN',0)
+#     df['price.american']=df['price.american'].astype('int')
+#     df['date'] = pd.to_datetime(df['date'])
+#
+#     l = ['Powerball','Dow','California State Lottery','Nasdaq','Ibovespa','S&P 500','Russell 2000','Mega Millions','New York Lotto']
+#
+#     for i in l:
+#         df = df.loc[-df.title.str.contains(i)]
+#     return df
+
+def bovada_data():
+    url_list = [
+    'https://www.bovada.lv/services/sports/event/coupon/events/A/description/soccer?marketFilterId=rank&preMatchOnly=true&lang=en',
+    'https://www.bovada.lv/services/sports/event/coupon/events/A/description/entertainment?marketFilterId=def&preMatchOnly=true&lang=en',
+    'https://www.bovada.lv/services/sports/event/coupon/events/A/description/basketball?marketFilterId=rank&preMatchOnly=true&lang=en',
+    'https://www.bovada.lv/services/sports/event/coupon/events/A/description/politics?marketFilterId=rank&preMatchOnly=true&lang=en',
+    'https://www.bovada.lv/services/sports/event/coupon/events/A/description/football?marketFilterId=rank&preMatchOnly=true&lang=en',
+    'https://www.bovada.lv/services/sports/event/coupon/events/A/description/baseball?marketFilterId=rank&preMatchOnly=true&lang=en',
+    'https://www.bovada.lv/services/sports/event/coupon/events/A/description/boxing?marketFilterId=def&preMatchOnly=true&lang=en',
+    'https://www.bovada.lv/services/sports/event/coupon/events/A/description/basketball/college-basketball?marketFilterId=rank&preMatchOnly=true&lang=en'
+    ]
+
+    df = pd.DataFrame()
+    for url in url_list:
+        req = requests.get(url)
+        for i in range(json_normalize(req.json()).index.size):
+            for j in range(json_normalize(req.json()[i]['events']).index.size):
+                for k in range(json_normalize(req.json()[i]['events'][j]['displayGroups']).index.size):
+                    for l in range(json_normalize(req.json()[i]['events'][j]['displayGroups'][k]['markets']).index.size):
+                        d=json_normalize(req.json()[i]['events'][j]['displayGroups'][k]['markets'][l]['outcomes'])
+                        a=json_normalize(req.json()[i]['path'])
+                        d['group'] = a['description'].loc[0]
+                        d['title'] = req.json()[i]['events'][j]['description'] + ' - ' + req.json()[i]['events'][j]['displayGroups'][k]['markets'][l]['description']
+                        d['url'] = url
+                        d['date'] = datetime.datetime.now()
+                        try:
+                            df = pd.concat([df, d], sort=False)
+                        except:
+                            df=d
     df['price.american']=df['price.american'].replace('EVEN',0)
     df['price.american']=df['price.american'].astype('int')
     df['date'] = pd.to_datetime(df['date'])
+    l = ['Powerball','Dow','California State Lottery','Nasdaq','Ibovespa','S&P 500','Russell 2000','Mega Millions','New York Lotto']
+    for i in l:
+        df = df.loc[-df.title.str.contains(i)]
     return df
 
-@st.cache
-def update_bovada(df, url):
-    for i in range(len(url)):
-        df = bovada_request(url[i],df)
-
-    bucket = 'bovada-scrape'
-    df_file = 'bovada_requests.csv'
-    save_to_s3(df, bucket, df_file)
-    return df
+# @st.cache
+# def update_bovada(df, url):
+#     for i in range(len(url)):
+#         df = bovada_request(url[i],df)
+#
+#     bucket = 'bovada-scrape'
+#     df_file = 'bovada_requests.csv'
+#     save_to_s3(df, bucket, df_file)
+#     return df
 
 
 def time_since_last_run(df):
@@ -114,15 +164,15 @@ def time_since_last_run(df):
             time_since = 86401
     return round(time_since,2)
 
-def analytics(title):
-    bucket = 'bovada-scrape'
-    a_file = 'bovada_analytics.csv'
-    g_df = get_s3_data(bucket,a_file)
-    g_in_df = json_normalize(geocoder.ip('me').json)
-    g_in_df['date'] = datetime.datetime.now()
-    g_in_df['title'] = title
-    g_df = pd.concat([g_df, g_in_df], sort=False)
-    save_to_s3(g_df, bucket, a_file)
+# def analytics(title):
+#     bucket = 'bovada-scrape'
+#     a_file = 'bovada_analytics.csv'
+#     g_df = get_s3_data(bucket,a_file)
+#     g_in_df = json_normalize(geocoder.ip('me').json)
+#     g_in_df['date'] = datetime.datetime.now()
+#     g_in_df['title'] = title
+#     g_df = pd.concat([g_df, g_in_df], sort=False)
+#     save_to_s3(g_df, bucket, a_file)
 
 def ga(event_category, event_action, event_label):
     st.write('<img src="https://www.google-analytics.com/collect?v=1&tid=UA-18433914-1&cid=555&aip=1&t=event&ec='+event_category+'&ea='+event_action+'&el='+event_label+'">',unsafe_allow_html=True)
@@ -165,23 +215,30 @@ def main():
 
     df = get_s3_data(bucket,df_file)
     ga('bovada','get_data',str(df.index.size))
-    #df['date'] = pd.to_datetime(df['date'])
+    df['date'] = pd.to_datetime(df['date'])
+    st.write('Most recent date: '+df.date.astype('str').max())
+    # t=time_since_last_run(df)
+    # st.write(t)
+    # df_update = bovada_data()
+    # st.write(df_update.head(25))
+    # st.write(df.head(25))
+    # df['date'] = pd.to_datetime(df['date'])
+    # df = df[['id','date','description','title','price.american','url']]
+    # df_update['date'] = pd.to_datetime(df_update['date'])
+    # df_update = df_update[['id','date','description','title','price.american','url']]
+    #df = pd.concat([df, df_update], sort=False)
+    # st.write(df.head(25))
 
-    t=time_since_last_run(df)
-
-    # if t > 10800:
+    # if t > 800:
     #     try:
-    #         df = update_bovada(df, url)
+    #         #df = update_bovada(df, url)
+    #         df_update = update_bovada()
+    #         st.write(df_update.head(25))
     #     except:
     #         pass
 
     track_df = get_s3_data(bucket,track_file)
 
-    # state = SessionState.get(option = '', a=[])
-    #
-    # state.a = get_select_options(df, track_df)
-    #
-    # state.option=st.selectbox('Select a bet -', state.a)
     a=get_select_options(df, track_df)
     option=st.selectbox('Select a bet -', a)
 
@@ -191,7 +248,6 @@ def main():
                              ,'selection' :  option,
                              'count' : 1} , ignore_index=True)
             save_to_s3(track_df, bucket, track_file)
-            #analytics(state.option)
 
             st.title(option)
             ga('bovada','view_option',option)
@@ -205,11 +261,6 @@ def main():
             table_output(filtered_df)
             line_chart(filtered_df,option)
             line_chart_probability(filtered_df,option)
-
-            # if filtered_df.Price.max() >= 7500:
-            #         line_chart_favorites(filtered_df,option)
-            #
-            # scatter_plot(filtered_df, option)
 
         except:
             st.markdown('Select an option above')
