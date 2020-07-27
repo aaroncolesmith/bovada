@@ -16,11 +16,12 @@ def max_minus_min(x):
 def last_minus_avg(x):
     return last(x) - mean(x)
 
-@st.cache
+@st.cache(suppress_st_warning=True)
 def get_s3_data(bucket, key):
     s3 = boto3.client('s3')
     obj = s3.get_object(Bucket=bucket, Key=key)
     df = pd.read_csv(io.BytesIO(obj['Body'].read()))
+    df['date'] = pd.to_datetime(df['date'])
     return df
 
 def save_to_s3(df, bucket, key):
@@ -211,11 +212,10 @@ def main():
     'https://www.bovada.lv/services/sports/event/coupon/events/A/description/baseball?marketFilterId=rank&preMatchOnly=true&lang=en',
     'https://www.bovada.lv/services/sports/event/coupon/events/A/description/boxing?marketFilterId=def&preMatchOnly=true&lang=en',
     'https://www.bovada.lv/services/sports/event/coupon/events/A/description/basketball/college-basketball?marketFilterId=rank&preMatchOnly=true&lang=en'
-]
+    ]
 
     df = get_s3_data(bucket,df_file)
     ga('bovada','get_data',str(df.index.size))
-    df['date'] = pd.to_datetime(df['date'])
     st.write('Most recent date: '+df.date.astype('str').max())
     # t=time_since_last_run(df)
     # st.write(t)
