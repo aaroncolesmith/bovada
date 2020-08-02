@@ -33,7 +33,13 @@ def save_to_s3(df, bucket, key):
 def get_select_options(df, track_df):
     b=track_df.groupby(['selection']).agg({'count':'sum'}).sort_values(['count'], ascending=False).reset_index(drop=False)
     a=pd.merge(df, b, left_on='title',right_on='selection', how = 'left').sort_values(['count'], ascending=False)
-    a=a['title'].unique()
+    # a=a['title'].unique()
+    # a=np.insert(a,0,'')
+    a['date'] = pd.to_datetime(a['date'])
+    a=a.groupby('title').agg({'date':'max','count':'first'}).reset_index().sort_values('count',ascending=False)
+    a['date'] = a['date'].dt.floor('Min').astype('str').str[:16].str[5:]
+    a=a['title'] + ' | ' + a['date']
+    a=a.to_list()
     a=np.insert(a,0,'')
     return a
 
@@ -156,25 +162,6 @@ def bovada_data():
 #     return df
 
 
-def time_since_last_run(df):
-    try:
-        max_date = pd.to_datetime(df.date.max())
-        now=pd.to_datetime(datetime.datetime.now())
-        time_since = (now-max_date).total_seconds()
-    except Exception:
-            time_since = 86401
-    return round(time_since,2)
-
-# def analytics(title):
-#     bucket = 'bovada-scrape'
-#     a_file = 'bovada_analytics.csv'
-#     g_df = get_s3_data(bucket,a_file)
-#     g_in_df = json_normalize(geocoder.ip('me').json)
-#     g_in_df['date'] = datetime.datetime.now()
-#     g_in_df['title'] = title
-#     g_df = pd.concat([g_df, g_in_df], sort=False)
-#     save_to_s3(g_df, bucket, a_file)
-
 def ga(event_category, event_action, event_label):
     st.write('<img src="https://www.google-analytics.com/collect?v=1&tid=UA-18433914-1&cid=555&aip=1&t=event&ec='+event_category+'&ea='+event_action+'&el='+event_label+'">',unsafe_allow_html=True)
 
@@ -201,46 +188,21 @@ def main():
     bucket = 'bovada-scrape'
     df_file = 'bovada_requests.csv'
     track_file = 'track_df.csv'
-    #analytics('Initialized')
-
-    url = [
-    'https://www.bovada.lv/services/sports/event/coupon/events/A/description/soccer?marketFilterId=rank&preMatchOnly=true&lang=en',
-    'https://www.bovada.lv/services/sports/event/coupon/events/A/description/entertainment?marketFilterId=def&preMatchOnly=true&lang=en',
-    'https://www.bovada.lv/services/sports/event/coupon/events/A/description/basketball?marketFilterId=rank&preMatchOnly=true&lang=en',
-    'https://www.bovada.lv/services/sports/event/coupon/events/A/description/politics?marketFilterId=rank&preMatchOnly=true&lang=en',
-    'https://www.bovada.lv/services/sports/event/coupon/events/A/description/football?marketFilterId=rank&preMatchOnly=true&lang=en',
-    'https://www.bovada.lv/services/sports/event/coupon/events/A/description/baseball?marketFilterId=rank&preMatchOnly=true&lang=en',
-    'https://www.bovada.lv/services/sports/event/coupon/events/A/description/boxing?marketFilterId=def&preMatchOnly=true&lang=en',
-    'https://www.bovada.lv/services/sports/event/coupon/events/A/description/basketball/college-basketball?marketFilterId=rank&preMatchOnly=true&lang=en'
-    ]
 
     df = get_s3_data(bucket,df_file)
+
+    df = df.sort_values(['title','description','date'],ascending=True).reset_index(drop=True)
     ga('bovada','get_data',str(df.index.size))
     st.write('Most recent date: '+df.date.astype('str').max())
-    # t=time_since_last_run(df)
-    # st.write(t)
-    # df_update = bovada_data()
-    # st.write(df_update.head(25))
-    # st.write(df.head(25))
-    # df['date'] = pd.to_datetime(df['date'])
-    # df = df[['id','date','description','title','price.american','url']]
-    # df_update['date'] = pd.to_datetime(df_update['date'])
-    # df_update = df_update[['id','date','description','title','price.american','url']]
-    #df = pd.concat([df, df_update], sort=False)
-    # st.write(df.head(25))
-
-    # if t > 800:
-    #     try:
-    #         #df = update_bovada(df, url)
-    #         df_update = update_bovada()
-    #         st.write(df_update.head(25))
-    #     except:
-    #         pass
+    # last_run = (datetime.now() - df.date.max()).total_seconds()/60
+    # st.write('Last run was ' + str(round(last_run,2)) + ' minutes ago')
 
     track_df = get_s3_data(bucket,track_file)
 
     a=get_select_options(df, track_df)
     option=st.selectbox('Select a bet -', a)
+    option = option[:-14]
+    print(option)
 
     if len(option) > 0:
         try:
@@ -252,10 +214,10 @@ def main():
             st.title(option)
             ga('bovada','view_option',option)
             filtered_df = df.loc[df.title == option]
-            filtered_df = filtered_df[['date','url','title','description','price.american']].reset_index(drop=True)
-            filtered_df.columns = ['Date','URL','Title','Winner','Price']
-            filtered_df.loc[filtered_df['Price'] > 0, 'Implied_Probability'] = 100 / (filtered_df['Price'] + 100)
-            filtered_df.loc[filtered_df['Price'] < 0, 'Implied_Probability'] = -filtered_df['Price'] / (-filtered_df['Price'] + 100)
+            filtered_df = filtered_df[['date','url','title','description','price.american','Implied_Probability']].reset_index(drop=True)
+            filtered_df.columns = ['Date','URL','Title','Winner','Price','Implied_Probability']
+            # filtered_df.loc[filtered_df['Price'] > 0, 'Implied_Probability'] = 100 / (filtered_df['Price'] + 100)
+            # filtered_df.loc[filtered_df['Price'] < 0, 'Implied_Probability'] = -filtered_df['Price'] / (-filtered_df['Price'] + 100)
             filtered_df['Date'] = pd.to_datetime(filtered_df['Date'])
 
             table_output(filtered_df)
