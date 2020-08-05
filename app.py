@@ -47,7 +47,6 @@ def table_output(df):
     st.write(df.groupby(['Winner']).agg({'Date':'max','Price': ['last','mean','max','min',max_minus_min,'count']}).sort_values([('Price', 'mean')], ascending=True))
 
 def line_chart(df, option):
-def line_chart(df, option):
     g=px.line(df,
     x='Date',
     y='Price',
