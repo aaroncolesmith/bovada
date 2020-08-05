@@ -47,15 +47,26 @@ def table_output(df):
     st.write(df.groupby(['Winner']).agg({'Date':'max','Price': ['last','mean','max','min',max_minus_min,'count']}).sort_values([('Price', 'mean')], ascending=True))
 
 def line_chart(df, option):
+def line_chart(df, option):
     g=px.line(df,
     x='Date',
     y='Price',
     color='Winner',
     color_discrete_sequence=['#5999E5','#59E5A5','#E55999','#E5A559','#A966FF'],
     title='Betting Odds Over Time')
-    g.update_traces(mode='lines',opacity=.75,
-                   line = dict(width=4))
-    g.update_xaxes(title='')
+    g.update_traces(mode='lines',
+                    opacity=.75,
+                    line = dict(width=4))
+    g.update_yaxes(title='Implied Probability',
+                   showgrid=True,
+                   gridwidth=1,
+                   gridcolor='#93979d'
+                  )
+    g.update_layout(plot_bgcolor='#787D85')
+    g.update_xaxes(title='Date',
+                  showgrid=True,
+                  gridwidth=1,
+                  gridcolor='#93979d')
     st.plotly_chart(g)
 
 def line_chart_probability(df,option):
@@ -63,13 +74,23 @@ def line_chart_probability(df,option):
     x='Date',
     y='Implied_Probability',
     color='Winner',
-    color_discrete_sequence=['#5999E5','#59E5A5','#E55999','#E5A559','#A966FF'],
-    title='Implied Probabiilty Over Time')
-    g.update_traces(mode='lines',opacity=.75,
-                   line = dict(width=4))
-    g.update_yaxes(range=[0, 1])
-    g.layout.yaxis.tickformat = ',.2%'
-    g.update_xaxes(title='')
+    color_discrete_sequence=['#FF1493','#120052','#652EC7','#00C2BA','#82E0BF'],
+    title='Implied Probability Over Time')
+    g.update_traces(mode='lines',
+                    opacity=.75,
+                    line = dict(width=4))
+    g.update_yaxes(range=[0, 1],
+                   title='Implied Probability',
+                   showgrid=True,
+                   gridwidth=1,
+                   gridcolor='#93979d',
+                   tickformat = ',.0%'
+                  )
+    g.update_layout(plot_bgcolor='#787D85')
+    g.update_xaxes(title='Date',
+                  showgrid=True,
+                  gridwidth=1,
+                  gridcolor='#93979d')
     st.plotly_chart(g)
 
 
