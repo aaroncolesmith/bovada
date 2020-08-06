@@ -51,7 +51,7 @@ def line_chart(df, option):
     x='Date',
     y='Price',
     color='Winner',
-    color_discrete_sequence=['#5999E5','#59E5A5','#E55999','#E5A559','#A966FF'],
+    color_discrete_sequence=['#FF1493','#120052','#652EC7','#00C2BA','#82E0BF','#55E0FF'],
     title='Betting Odds Over Time')
     g.update_traces(mode='lines',
                     opacity=.75,
@@ -59,13 +59,13 @@ def line_chart(df, option):
     g.update_yaxes(title='Implied Probability',
                    showgrid=True,
                    gridwidth=1,
-                   gridcolor='#93979d'
+                   gridcolor='#D4D4D4'
                   )
-    g.update_layout(plot_bgcolor='#787D85')
+    g.update_layout(plot_bgcolor='white')
     g.update_xaxes(title='Date',
-                  showgrid=True,
+                  showgrid=False,
                   gridwidth=1,
-                  gridcolor='#93979d')
+                  gridcolor='#D4D4D4')
     st.plotly_chart(g)
 
 def line_chart_probability(df,option):
@@ -73,7 +73,7 @@ def line_chart_probability(df,option):
     x='Date',
     y='Implied_Probability',
     color='Winner',
-    color_discrete_sequence=['#FF1493','#120052','#652EC7','#00C2BA','#82E0BF'],
+    color_discrete_sequence=['#FF1493','#120052','#652EC7','#00C2BA','#82E0BF','#55E0FF'],
     title='Implied Probability Over Time')
     g.update_traces(mode='lines',
                     opacity=.75,
@@ -82,14 +82,14 @@ def line_chart_probability(df,option):
                    title='Implied Probability',
                    showgrid=True,
                    gridwidth=1,
-                   gridcolor='#93979d',
+                   gridcolor='#D4D4D4',
                    tickformat = ',.0%'
                   )
-    g.update_layout(plot_bgcolor='#787D85')
+    g.update_layout(plot_bgcolor='white')
     g.update_xaxes(title='Date',
-                  showgrid=True,
+                  showgrid=False,
                   gridwidth=1,
-                  gridcolor='#93979d')
+                  gridcolor='#D4D4D4')
     st.plotly_chart(g)
 
 
@@ -212,12 +212,12 @@ def main():
     df = get_s3_data(bucket,df_file)
 
     df = df.sort_values(['title','description','date'],ascending=True).reset_index(drop=True)
-    ga('bovada','get_data',str(df.index.size))
-    st.write('Most recent date: '+df.date.astype('str').max())
-    # last_run = (datetime.now() - df.date.max()).total_seconds()/60
-    # st.write('Last run was ' + str(round(last_run,2)) + ' minutes ago')
+
+    last_run = (datetime.datetime.now() - df.date.max()).total_seconds()/60
+    st.write('Data updated ' + str(round(last_run,1)) + ' minutes ago')
 
     track_df = get_s3_data(bucket,track_file)
+    ga('bovada','get_data',str(df.index.size))
 
     a=get_select_options(df, track_df)
     option=st.selectbox('Select a bet -', a)
@@ -231,18 +231,16 @@ def main():
                              'count' : 1} , ignore_index=True)
             save_to_s3(track_df, bucket, track_file)
 
-            st.title(option)
-            ga('bovada','view_option',option)
+            st.markdown('# '+option)
             filtered_df = df.loc[df.title == option]
             filtered_df = filtered_df[['date','url','title','description','price.american','Implied_Probability']].reset_index(drop=True)
             filtered_df.columns = ['Date','URL','Title','Winner','Price','Implied_Probability']
-            # filtered_df.loc[filtered_df['Price'] > 0, 'Implied_Probability'] = 100 / (filtered_df['Price'] + 100)
-            # filtered_df.loc[filtered_df['Price'] < 0, 'Implied_Probability'] = -filtered_df['Price'] / (-filtered_df['Price'] + 100)
             filtered_df['Date'] = pd.to_datetime(filtered_df['Date'])
 
-            table_output(filtered_df)
             line_chart(filtered_df,option)
             line_chart_probability(filtered_df,option)
+            table_output(filtered_df)
+            ga('bovada','view_option',option)
 
         except:
             st.markdown('Select an option above')
