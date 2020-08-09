@@ -8,7 +8,8 @@ import boto3
 import streamlit as st
 import numpy as np
 import plotly_express as px
-import geocoder
+import sys
+# import geocoder
 
 def max_minus_min(x):
     return max(x) - min(x)
@@ -217,6 +218,7 @@ def main():
     st.write(str(datetime.datetime.now()))
     st.write(str(df.date.max()))
     st.write('Data updated ' + str(round(last_run,1)) + ' hours ago')
+    st.write(sys.prefix)
 
     track_df = get_s3_data(bucket,track_file)
     ga('bovada','get_data',str(df.index.size))
