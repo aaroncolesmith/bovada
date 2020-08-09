@@ -213,8 +213,10 @@ def main():
 
     df = df.sort_values(['title','description','date'],ascending=True).reset_index(drop=True)
 
-    last_run = (datetime.datetime.now() - df.date.max()).total_seconds()/60
-    st.write('Data updated ' + str(round(last_run,1)) + ' minutes ago')
+    last_run = (datetime.datetime.now() - df.date.max()).total_seconds()/60/60
+    st.write(str(datetime.datetime.now()))
+    st.write(str(df.date.max()))
+    st.write('Data updated ' + str(round(last_run,1)) + ' hours ago')
 
     track_df = get_s3_data(bucket,track_file)
     ga('bovada','get_data',str(df.index.size))
