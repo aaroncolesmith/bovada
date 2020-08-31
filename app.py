@@ -242,7 +242,6 @@ def main():
 
             st.markdown('# '+option)
             o = st.radio( "Show all or favorites only?",('Show All', 'Favorites'))
-            st.write(o)
 
             if o == 'Show All':
                 filtered_df = df.loc[df.title == option]
