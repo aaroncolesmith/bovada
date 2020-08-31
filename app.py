@@ -215,8 +215,7 @@ def main():
     df = df.sort_values(['title','description','date'],ascending=True).reset_index(drop=True)
 
     last_run = (datetime.datetime.now() - df.date.max()).total_seconds()/60/60
-    # if last_run < 1:
-    #     last_run = last_run*60
+
     if sys.prefix != '/opt/anaconda3':
         last_run = last_run - 7
 
@@ -225,10 +224,6 @@ def main():
         st.write('Data updated ' + str(round(last_run,1)) + ' minutes ago')
     else:
         st.write('Data updated ' + str(round(last_run,1)) + ' hours ago')
-
-    # st.write(str(datetime.datetime.now()))
-    # st.write(str(df.date.max()))
-    # st.write(sys.prefix)
 
     track_df = get_s3_data(bucket,track_file)
     ga('bovada','get_data',str(df.index.size))
@@ -239,25 +234,37 @@ def main():
     print(option)
 
     if len(option) > 0:
-        try:
+
             track_df = track_df.append({'date' : datetime.datetime.now()
                              ,'selection' :  option,
                              'count' : 1} , ignore_index=True)
             save_to_s3(track_df, bucket, track_file)
 
             st.markdown('# '+option)
-            filtered_df = df.loc[df.title == option]
-            filtered_df = filtered_df[['date','url','title','description','price.american','Implied_Probability']].reset_index(drop=True)
-            filtered_df.columns = ['Date','URL','Title','Winner','Price','Implied_Probability']
-            filtered_df['Date'] = pd.to_datetime(filtered_df['Date'])
+            o = st.radio( "Show all or favorites only?",('Show All', 'Favorites'))
+            st.write(o)
+
+            if o == 'Show All':
+                filtered_df = df.loc[df.title == option]
+                filtered_df = filtered_df[['date','url','title','description','price.american','Implied_Probability']].reset_index(drop=True)
+                filtered_df.columns = ['Date','URL','Title','Winner','Price','Implied_Probability']
+                filtered_df['Date'] = pd.to_datetime(filtered_df['Date'])
+
+            if o == 'Favorites':
+                filtered_df = df.loc[df.title == option]
+                filtered_df = filtered_df[['date','url','title','description','price.american','Implied_Probability']].reset_index(drop=True)
+                filtered_df.columns = ['Date','URL','Title','Winner','Price','Implied_Probability']
+                filtered_df['Date'] = pd.to_datetime(filtered_df['Date'])
+                f=filtered_df.groupby(['Winner']).agg({'Date':'max','Price': ['last','mean','max','min','count']}).sort_values([('Price', 'mean')], ascending=True).reset_index(drop=False).head(10)
+                f=f['Winner']
+                filtered_df=filtered_df.loc[filtered_df.Winner.isin(f)]
 
             line_chart(filtered_df,option)
             line_chart_probability(filtered_df,option)
             table_output(filtered_df)
             ga('bovada','view_option',option)
 
-        except:
-            st.markdown('Select an option above')
+
 
 if __name__ == "__main__":
     #execute
