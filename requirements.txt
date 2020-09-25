@@ -2,7 +2,7 @@ requests==2.20.0
 pandas==0.25.1
 plotly==4.7.0
 plotly-express==0.4.1
-streamlit==0.63.0
+streamlit==0.67.0
 boto==2.49.0
 boto3==1.11.9
 botocore==1.14.9

@@ -52,6 +52,7 @@ def line_chart(df, option):
     x='Date',
     y='Price',
     color='Winner',
+    # animation_frame='Date',
     color_discrete_sequence=['#FF1493','#120052','#652EC7','#00C2BA','#82E0BF','#55E0FF'],
     title='Betting Odds Over Time')
     g.update_traces(mode='lines',
@@ -231,7 +232,6 @@ def main():
     a=get_select_options(df, track_df)
     option=st.selectbox('Select a bet -', a)
     option = option[:-14]
-    print(option)
 
     if len(option) > 0:
 
