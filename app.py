@@ -9,7 +9,9 @@ import streamlit as st
 import numpy as np
 import plotly_express as px
 import sys
-# import geocoder
+
+
+st.beta_set_page_config(page_title="Bovada Odds",page_icon="🧊",layout="wide")
 
 def max_minus_min(x):
     return max(x) - min(x)
@@ -68,7 +70,7 @@ def line_chart(df, option):
                   showgrid=False,
                   gridwidth=1,
                   gridcolor='#D4D4D4')
-    st.plotly_chart(g)
+    st.plotly_chart(g,use_container_width=True)
 
 def line_chart_probability(df,option):
     g=px.line(df,
@@ -92,7 +94,7 @@ def line_chart_probability(df,option):
                   showgrid=False,
                   gridwidth=1,
                   gridcolor='#D4D4D4')
-    st.plotly_chart(g)
+    st.plotly_chart(g,use_container_width=True)
 
 
 # def line_chart_favorites(df, option):
@@ -229,6 +231,22 @@ def main():
     track_df = get_s3_data(bucket,track_file)
     ga('bovada','get_data',str(df.index.size))
 
+    # st.write(df.sort_values('Net_Change',ascending=False).head(10))
+
+    rise=df.loc[(df.date.dt.date == df.date.dt.date.max()) & (df.Pct_Change != 0)].sort_values('Net_Change',ascending=False).head(5)[['title_desc','Net_Change']]
+    fall=df.loc[(df.date.dt.date == df.date.dt.date.max()) & (df.Pct_Change != 0)].sort_values('Net_Change',ascending=True).head(5)[['title_desc','Net_Change']]
+
+
+
+    col1, col2 = st.beta_columns(2)
+    col1.write("### On the Rise")
+    for i, r in rise.iterrows():
+        col1.write(r['title_desc']+ ' | +' +str(round(r['Net_Change']*100,2))+'%')
+
+    col2.write("### Falling")
+    for i, r in fall.iterrows():
+        col2.write(r['title_desc']+ ' | ' +str(round(r['Net_Change']*100,2))+'%')
+
     a=get_select_options(df, track_df)
     option=st.selectbox('Select a bet -', a)
     option = option[:-14]
@@ -257,9 +275,8 @@ def main():
                 f=filtered_df.groupby(['Winner']).agg({'Date':'max','Price': ['last','mean','max','min','count']}).sort_values([('Price', 'mean')], ascending=True).reset_index(drop=False).head(10)
                 f=f['Winner']
                 filtered_df=filtered_df.loc[filtered_df.Winner.isin(f)]
-
-            line_chart(filtered_df,option)
             line_chart_probability(filtered_df,option)
+            line_chart(filtered_df,option)
             table_output(filtered_df)
             ga('bovada','view_option',option)
 
