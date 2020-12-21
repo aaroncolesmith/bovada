@@ -25,6 +25,7 @@ def get_s3_data(bucket, key):
     obj = s3.get_object(Bucket=bucket, Key=key)
     df = pd.read_csv(io.BytesIO(obj['Body'].read()))
     df['date'] = pd.to_datetime(df['date'])
+    df['seconds_ago']=(pd.to_numeric(datetime.datetime.utcnow().strftime("%s")) - pd.to_numeric(df['date'].apply(lambda x: x.strftime('%s'))))
     return df
 
 def save_to_s3(df, bucket, key):
@@ -147,9 +148,6 @@ def main():
 
     df = get_s3_data(bucket,df_file)
 
-    df['seconds_ago']=(pd.to_numeric(datetime.datetime.utcnow().strftime("%s")) - pd.to_numeric(df['date'].apply(lambda x: x.strftime('%s'))))
-
-
     track_df = get_s3_data(bucket,track_file)
     ga('bovada','get_data',str(df.index.size))
 
@@ -161,11 +159,11 @@ def main():
     for i, r in rise.iterrows():
         col1.write(r['title_desc']+ ' | +' +str(round(r['Net_Change']*100,2))+'%')
 
-    col2.warning("### Falling")
+    col2.exception("### Falling")
     for i, r in fall.iterrows():
         col2.write(r['title_desc']+ ' | ' +str(round(r['Net_Change']*100,2))+'%')
 
-    col3.write('### Recent Updates')
+    col3.info('### Recent Updates')
     for i,r in df[['title_desc','date','seconds_ago']].sort_values(['seconds_ago'],ascending=True).head(5).iterrows():
         col3.write(r['title_desc'] + ' - ' + str(round(r['seconds_ago']/60,2)) + ' minutes ago')
 
