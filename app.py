@@ -149,32 +149,19 @@ def main():
 
     df['seconds_ago']=(pd.to_numeric(datetime.datetime.utcnow().strftime("%s")) - pd.to_numeric(df['date'].apply(lambda x: x.strftime('%s'))))
 
-    last_run = df['seconds_ago'].min()
 
-    if last_run < 60:
-        st.write('Data updated ' + str(round(last_run,1)) + ' seconds ago')
-    if last_run < 3600:
-        last_run = last_run / 60
-        st.write('Data updated ' + str(round(last_run,1)) + ' minutes ago')
-    else:
-        last_run = last_run / 3600
-        st.write('Data updated ' + str(round(last_run,1)) + ' minutes ago')
-        
     track_df = get_s3_data(bucket,track_file)
     ga('bovada','get_data',str(df.index.size))
-
-    # st.write(df.sort_values('Net_Change',ascending=False).head(10))
 
     rise=df.loc[(df.date.dt.date == df.date.dt.date.max()) & (df.Pct_Change != 0)].sort_values('Net_Change',ascending=False).head(5)[['title_desc','Net_Change']]
     fall=df.loc[(df.date.dt.date == df.date.dt.date.max()) & (df.Pct_Change != 0)].sort_values('Net_Change',ascending=True).head(5)[['title_desc','Net_Change']]
 
-
     col1, col2, col3 = st.beta_columns(3)
-    col1.write("### On the Rise")
+    col1.success("### On the Rise")
     for i, r in rise.iterrows():
         col1.write(r['title_desc']+ ' | +' +str(round(r['Net_Change']*100,2))+'%')
 
-    col2.write("### Falling")
+    col2.warning("### Falling")
     for i, r in fall.iterrows():
         col2.write(r['title_desc']+ ' | ' +str(round(r['Net_Change']*100,2))+'%')
 
