@@ -165,7 +165,7 @@ def main():
 
     col3.info('### Recent Updates')
     for i,r in df[['title_desc','date','seconds_ago']].sort_values(['seconds_ago'],ascending=True).head(5).iterrows():
-        col3.write(r['title_desc'] + ' - ' + str(round(r['seconds_ago']/60,2)) + ' minutes ago')
+        col3.write(r['title_desc'] + ' - ' + str(round(r['seconds_ago']/60,2)) + ' minutes ago' + ' | ' +str(round(r['Net_Change']*100,2))+'%')
 
     a=get_select_options(df, track_df)
     option=st.selectbox('Select a bet -', a)
