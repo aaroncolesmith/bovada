@@ -147,22 +147,19 @@ def main():
 
     df = get_s3_data(bucket,df_file)
 
-    df = df.sort_values(['title','description','date'],ascending=True).reset_index(drop=True)
+    df['seconds_ago']=(pd.to_numeric(datetime.datetime.utcnow().strftime("%s")) - pd.to_numeric(df['date'].apply(lambda x: x.strftime('%s'))))
 
-    st.write(datetime.datetime.utcnow())
-    st.write(df.date.max())
+    last_run = df['seconds_ago'].min()
 
-    last_run = (datetime.datetime.utcnow() - df.date.max()).total_seconds()/60/60
-
-    if sys.prefix != '/opt/anaconda3':
-        last_run = last_run - 7
-
-    if last_run < 1:
-        last_run = last_run*60
+    if last_run < 60:
+        st.write('Data updated ' + str(round(last_run,1)) + ' seconds ago')
+    if last_run < 3600:
+        last_run = last_run / 60
         st.write('Data updated ' + str(round(last_run,1)) + ' minutes ago')
     else:
-        st.write('Data updated ' + str(round(last_run,1)) + ' hours ago')
-
+        last_run = last_run / 3600
+        st.write('Data updated ' + str(round(last_run,1)) + ' minutes ago')
+        
     track_df = get_s3_data(bucket,track_file)
     ga('bovada','get_data',str(df.index.size))
 
@@ -171,7 +168,7 @@ def main():
     rise=df.loc[(df.date.dt.date == df.date.dt.date.max()) & (df.Pct_Change != 0)].sort_values('Net_Change',ascending=False).head(5)[['title_desc','Net_Change']]
     fall=df.loc[(df.date.dt.date == df.date.dt.date.max()) & (df.Pct_Change != 0)].sort_values('Net_Change',ascending=True).head(5)[['title_desc','Net_Change']]
 
-    df['seconds_ago']=(pd.to_numeric(datetime.datetime.utcnow().strftime("%s")) - pd.to_numeric(df['date'].apply(lambda x: x.strftime('%s'))))
+
     col1, col2, col3 = st.beta_columns(3)
     col1.write("### On the Rise")
     for i, r in rise.iterrows():
