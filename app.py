@@ -159,7 +159,7 @@ def main():
     for i, r in rise.iterrows():
         col1.write(r['title_desc']+ ' | +' +str(round(r['Net_Change']*100,2))+'%')
 
-    col2.exception("### Falling")
+    col2.warning("### Falling")
     for i, r in fall.iterrows():
         col2.write(r['title_desc']+ ' | ' +str(round(r['Net_Change']*100,2))+'%')
 
