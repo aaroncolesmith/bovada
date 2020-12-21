@@ -149,8 +149,11 @@ def main():
 
     df = df.sort_values(['title','description','date'],ascending=True).reset_index(drop=True)
 
+    st.write(datetime.datetime.utcnow())
+    st.write(df.date.max())
+
     last_run = (datetime.datetime.utcnow() - df.date.max()).total_seconds()/60/60
-    
+
     if sys.prefix != '/opt/anaconda3':
         last_run = last_run - 7
 
@@ -180,7 +183,7 @@ def main():
 
     col3.write('### Recent Updates')
     for i,r in df[['title_desc','date','seconds_ago']].sort_values(['seconds_ago'],ascending=True).head(5).iterrows():
-        print(r['title_desc'] + ' - ' + str(round(r['seconds_ago']/60,2)) + ' minutes ago')
+        col3.write(r['title_desc'] + ' - ' + str(round(r['seconds_ago']/60,2)) + ' minutes ago')
 
     a=get_select_options(df, track_df)
     option=st.selectbox('Select a bet -', a)
