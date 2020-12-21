@@ -150,7 +150,7 @@ def main():
     df = df.sort_values(['title','description','date'],ascending=True).reset_index(drop=True)
 
     last_run = (datetime.datetime.utcnow() - df.date.max()).total_seconds()/60/60
-a
+    
     if sys.prefix != '/opt/anaconda3':
         last_run = last_run - 7
 
