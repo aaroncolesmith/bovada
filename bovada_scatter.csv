@@ -1,95 +1,134 @@
 title,description,Pct_Change,Implied_Probability,Prev_Probability,minutes_ago
-Women's - Tokyo 2021 - Women's 100m Freestyle - Outright,Siobhan Haughey (HKG),0.9999999999999993,0.0588,0.0294,2.07
-Men's - Tokyo 2021 - Men's 200m Individual Medley - Outright,Duncan Scott (GBR),0.6363636363636365,0.1818,0.1111,2.07
-Men's - Tokyo 2021 - Men's 200m Individual Medley - Outright,Mitch Larkin (AUS),0.5384615384615385,0.1538,0.1,2.07
-Women's - Tokyo 2021 - Women's BMX Racing - Winner,Mariana Pajon (COL),0.41666666666666674,0.1667,0.1176,83.57
-Women's - Tokyo 2021 - Women's 200m Breaststroke - Outright,Tatjana Schoenmaker (RSA),0.41428531020419745,0.6429,0.4545,2.07
-Men's - Tokyo 2021 - Men's 200m Backstroke - Outright,Ryan Murphy (USA),0.30769230769230793,0.3077,0.2353,83.6
-Men's - Tokyo 2021 - Men's Freestyle 57kg - Winner,Thomas Gilman (USA),0.2608695652173916,0.0435,0.0345,1.85
-Women's - Tokyo 2021 - Women's 100m Freestyle - Outright,Penny Oleksiak (CAN),0.22222222222222188,0.1111,0.0909,2.07
-Women's - Tokyo 2021 - Women's BMX Racing - Top 3 Finish,Mariana Pajon (COL),0.20833333333333326,0.4167,0.3448,83.57
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Minnesota Vikings,Yes,0.1524961471203834,0.5238,0.4545,83.17
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Denver Broncos,Yes,0.13636363636363602,0.4545,0.4,83.17
-Olympic Boxing - Mirazizbek Mirzakhalilov (UZB) vs Kurt Anthony Walker (IRL) - To Win the Bout,Mirazizbek Mirzakhalilov (UZB),0.13235339154417414,0.875,0.7727,82.65
-Olympic Boxing - Serik Temirzhanov (KAZ) vs Duke Ragan (USA) - To Win the Bout,Serik Temirzhanov (KAZ),0.11111111111111094,0.4444,0.4,82.65
-Olympic Boxing - Alexy Miguel de la Cruz Baez (DOM) vs Albert Batyrgaziev (ROC) - To Win the Bout,Alexy Miguel de la Cruz Baez (DOM),0.11111111111111094,0.1111,0.1,1.38
-Olympic Boxing - Bekzad Nurdauletov (KAZ) vs Imam Khataev (ROC) - To Win the Bout,Imam Khataev (ROC),0.10416666666666674,0.4167,0.3774,82.65
-Men's - Tokyo 2021 - Men's 200m Backstroke - Outright,Evgeny Rylov (ROC),0.09677399999999992,0.6667,0.6078,83.6
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Carolina Panthers,Yes,0.09380469023451177,0.3125,0.2857,83.18
-Men's - Tokyo 2021 - Men's 4x200m Freestyle Relay - Outright,Great Britain (GBR),0.09090880000000023,0.8,0.7333,83.62
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Washington Football Team,Yes,0.09082182516307769,0.4545,0.4167,83.15
-Olympic Boxing - Aoife O'Rourke (IRL) vs Qian Li (CHN) - To Win the Bout,Qian Li (CHN),0.08380952380952378,0.9524,0.8787,82.65
-Olympic Boxing - Chatchai Butdee (THA) vs Mirco Jehiel Cuello (ARG) - To Win the Bout,Mirco Jehiel Cuello (ARG),0.07407407407407418,0.3704,0.3448,82.65
-Olympic Boxing - Keno Machado (BRA) vs Daxiang Chen (CHN) - To Win the Bout,Keno Machado (BRA),0.06611564838466344,0.8182,0.7674,82.65
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Cleveland Browns,No,0.05988341282458931,0.4,0.3774,83.18
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Arizona Cardinals,Yes,0.05779808750105775,0.3846,0.3636,83.18
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - New England Patriots,Yes,0.04772382000104769,0.4762,0.4545,83.17
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - New Orleans Saints,Yes,0.047618997732428614,0.5238,0.5,83.17
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Los Angeles Chargers,Yes,0.04661628953593011,0.4651,0.4444,83.17
-Olympic Boxing - Gazimagomed Scham Jalidov Gafurova (ESP) vs Paulo Aokuso (AUS) - To Win the Bout,Gazimagomed Scham Jalidov Gafurova (ESP),0.04347826086956519,0.4348,0.4167,82.65
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Pittsburgh Steelers,Yes,0.04166666666666674,0.4167,0.4,83.17
-Olympic Boxing - Samuel Takyi (GHA) vs Jean Carlos Caicedo Pachito (ECU) - To Win the Bout,Samuel Takyi (GHA),0.041322552967737014,0.5455,0.5238,82.65
-Olympic Boxing - Luka Plantic (CRO) vs Rogelio Romero Torres (MEX) - To Win the Bout,Rogelio Romero Torres (MEX),0.0363636363636366,0.3636,0.3509,82.63
-NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Las Vegas Raiders 2021/22 Total Wins,Over 7,0.03623214618788961,0.5652,0.5455,83.2
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Atlanta Falcons,Yes,0.03327133705311014,0.3333,0.3226,83.18
-Olympic Boxing - Chatchai Butdee (THA) vs Mirco Jehiel Cuello (ARG) - To Win the Bout,Chatchai Butdee (THA),0.031745714285714266,0.7143,0.6923,1.38
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Detroit Lions,No,0.025641341222976788,0.9231,0.9,83.17
-Olympic Boxing - Ceiber David Avila Segura (COL) vs Everisto Mulenga (ZAM) - To Win the Bout,Ceiber David Avila Segura (COL),0.024345277047384872,0.6226,0.6078,82.65
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Dallas Cowboys,No,0.023845358397067695,0.4762,0.4651,83.17
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Miami Dolphins,Yes,0.023358149768464953,0.4651,0.4545,83.17
-Olympic Boxing - Naomi Graham (USA) vs Zenfira Magomedalieva (ROC) - To Win the Bout,Zenfira Magomedalieva (ROC),0.022038539444034555,0.6364,0.6226,82.65
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - New York Jets,No,0.021967915726072818,0.8857,0.8667,83.17
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Indianapolis Colts,No,0.02181576661727913,0.4348,0.4255,83.17
-Olympic Boxing - Arlen Lopez (CUB) vs Mohammed Houmri (ALG) - To Win the Bout,Arlen Lopez (CUB),0.020408571428571554,0.9524,0.9333,82.63
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - San Francisco 49ers ,No,0.01988781234064252,0.4,0.3922,83.17
-Boxing Lines - Avni Yildirim vs Jack Cullen - To Win the Bout,Jack Cullen,0.019157238736932314,0.6552,0.6429,82.63
-Boxing Lines - Jake Paul vs Tyron Woodley - To Win the Bout,Jake Paul,0.016214819069500397,0.5744,0.5652,82.63
-Olympic Boxing - Van Duong Nguyen (VIE) vs Tsendbaatar Erdenebat (MGL) - To Win the Bout,Tsendbaatar Erdenebat (MGL),0.012986567718123787,0.8571,0.8462,1.38
-Olympic Boxing - Lazaro Alvarez (CUB) vs Daniyal Shahbakhsh (IRI) - To Win the Bout,Lazaro Alvarez (CUB),0.011904761904762085,0.9524,0.9412,1.38
-Men's - Tokyo 2021 - Men's 4x200m Freestyle Relay - Top 3 Finish,Great Britain (GBR),0.011904761904762085,0.9524,0.9412,83.62
-Olympic Boxing - Gazimagomed Scham Jalidov Gafurova (ESP) vs Paulo Aokuso (AUS) - To Win the Bout,Paulo Aokuso (AUS),-0.010100997245182985,0.6364,0.6429,82.65
-Olympic Boxing - Karriss Artingstall (GBR) vs Skye Nicolson (AUS) - To Win the Bout,Skye Nicolson (AUS),-0.012820512820512553,0.2564,0.2597,82.65
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Atlanta Falcons,No,-0.013806443129450008,0.7333,0.7436,83.18
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - San Francisco 49ers ,Yes,-0.01584489715579185,0.6667,0.6774,83.17
-Olympic Boxing - Chatchai Butdee (THA) vs Mirco Jehiel Cuello (ARG) - To Win the Bout,Mirco Jehiel Cuello (ARG),-0.0181818181818183,0.3636,0.3704,1.38
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Indianapolis Colts,Yes,-0.020641240896359214,0.6296,0.6429,83.17
-Olympic Boxing - Naomi Graham (USA) vs Zenfira Magomedalieva (ROC) - To Win the Bout,Naomi Graham (USA),-0.021276595744680993,0.4255,0.4348,82.65
-Olympic Boxing - Luka Plantic (CRO) vs Rogelio Romero Torres (MEX) - To Win the Bout,Luka Plantic (CRO),-0.024242690358054042,0.697,0.7143,82.63
-Boxing Lines - Jake Paul vs Tyron Woodley - To Win the Bout,Tyron Woodley,-0.024390243902439046,0.4878,0.5,82.63
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Miami Dolphins,No,-0.025024569385726392,0.6,0.6154,83.17
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Pittsburgh Steelers,No,-0.026364761632561184,0.6491,0.6667,83.17
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Dallas Cowboys,Yes,-0.027777939814787822,0.5833,0.6,83.17
-Olympic Boxing - Serik Temirzhanov (KAZ) vs Duke Ragan (USA) - To Win the Bout,Duke Ragan (USA),-0.02870826489774614,0.6364,0.6552,82.65
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Cleveland Browns,Yes,-0.030303030303030387,0.6667,0.6875,83.18
-Olympic Boxing - Bekzad Nurdauletov (KAZ) vs Imam Khataev (ROC) - To Win the Bout,Bekzad Nurdauletov (KAZ),-0.03284116788397684,0.6552,0.6774,82.65
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Arizona Cardinals,No,-0.03309277157208412,0.6825,0.7059,83.18
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - New Orleans Saints,No,-0.0349351652014912,0.5455,0.5652,83.17
-Olympic Boxing - Benjamin Whittaker (GBR) vs Abdelrahman Salah Orabi Abdelgawwad (EGY) - To Win the Bout,Abdelrahman Salah Orabi Abdelgawwad (EGY),-0.03614457831325313,0.241,0.25,1.4
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Los Angeles Chargers,No,-0.03629958239636388,0.6,0.6226,83.17
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - New England Patriots,No,-0.03848557632213023,0.5917,0.6154,83.17
-Olympic Boxing - Samuel Takyi (GHA) vs Jean Carlos Caicedo Pachito (ECU) - To Win the Bout,Jean Carlos Caicedo Pachito (ECU),-0.03968276001510673,0.5238,0.5455,82.65
-Olympic Boxing - Chatchai Butdee (THA) vs Mirco Jehiel Cuello (ARG) - To Win the Bout,Chatchai Butdee (THA),-0.04142008966771993,0.6923,0.7222,82.65
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Carolina Panthers,No,-0.04165577881414917,0.75,0.7826,83.18
-NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Las Vegas Raiders 2021/22 Total Wins,Under 7,-0.04545449999999995,0.5,0.5238,83.2
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Washington Football Team,No,-0.05194174182003486,0.6154,0.6491,83.15
-Women's - Tokyo 2021 - Women's 100m Freestyle - Outright,Cate Campbell (AUS),-0.05882352941176472,0.2353,0.25,2.07
-Olympic Boxing - Arlen Lopez (CUB) vs Mohammed Houmri (ALG) - To Win the Bout,Mohammed Houmri (ALG),-0.05882352941176483,0.1176,0.125,82.63
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Denver Broncos,No,-0.07696922846165377,0.6154,0.6667,83.17
-Women's - Tokyo 2021 - Women's 200m Breaststroke - Outright,Lisa Mamie (SUI),-0.08695652173913038,0.0435,0.0476,2.07
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - New York Jets,Yes,-0.09090909090909083,0.1818,0.2,83.17
-Women's - Tokyo 2021 - Women's 200m Breaststroke - Outright,Molly Renshaw (GBR),-0.09090909090909094,0.1818,0.2,2.07
-Women's - Tokyo 2021 - Women's 200m Breaststroke - Outright,Lilly King (USA),-0.09999999999999987,0.1,0.1111,2.07
-Men's - Tokyo 2021 - Men's 4x200m Freestyle Relay - Outright,United States (USA),-0.09999999999999987,0.1,0.1111,83.62
-Olympic Boxing - Alexy Miguel de la Cruz Baez (DOM) vs Albert Batyrgaziev (ROC) - To Win the Bout,Alexy Miguel de la Cruz Baez (DOM),-0.09999999999999987,0.1,0.1111,82.65
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Minnesota Vikings,No,-0.11365836102028393,0.5455,0.6154,83.17
-Men's - Tokyo 2021 - Men's 4x200m Freestyle Relay - Outright,Russian Olympic Committee (ROC),-0.1333333333333332,0.0667,0.0769,83.62
-Women's - Tokyo 2021 - Women's 200m Breaststroke - Outright,Abbie Wood (GBR),-0.13333333333333341,0.0667,0.0769,2.07
-NFL Season Props - NFL 2021/22 - To Make the Playoffs - Detroit Lions,Yes,-0.14302853714971286,0.1429,0.1667,83.17
-Men's - Tokyo 2021 - Men's 4x200m Freestyle Relay - Outright,Australia (AUS),-0.15384615384615397,0.1538,0.1818,83.62
-Men's - Tokyo 2021 - Men's 200m Individual Medley - Outright,Michael Andrew (USA),-0.15872999244142894,0.5238,0.6226,2.07
-Olympic Boxing - Keno Machado (BRA) vs Daxiang Chen (CHN) - To Win the Bout,Daxiang Chen (CHN),-0.17500000000000004,0.25,0.303,82.65
-Men's - Tokyo 2021 - Men's 200m Backstroke - Outright,Luke Greenbank (GBR),-0.19999999999999996,0.1333,0.1667,83.6
-Men's - Tokyo 2021 - Men's 200m Individual Medley - Outright,Kosuke Hagino (JPN),-0.26666666666666683,0.0667,0.0909,2.07
-Women's - Tokyo 2021 - Women's 200m Breaststroke - Outright,Evgeniia Chikunova (ROC),-0.3125000000000001,0.125,0.1818,2.07
-Olympic Boxing - Mirazizbek Mirzakhalilov (UZB) vs Kurt Anthony Walker (IRL) - To Win the Bout,Kurt Anthony Walker (IRL),-0.37142857142857144,0.1905,0.303,82.65
-Olympic Boxing - Aoife O'Rourke (IRL) vs Qian Li (CHN) - To Win the Bout,Aoife O'Rourke (IRL),-0.475,0.1,0.1905,82.65
+Men's - Tokyo 2021 - Men's 800m Freestyle - Outright,Robert Finke (USA),3.8235294117647056,0.1176,0.0244,3.1
+Men's - Tokyo 2021 - Men's 200m Breaststroke - Outright,James Wilby (GBR),2.4,0.0667,0.0196,3.08
+Men's - Tokyo 2021 - Men's 800m Freestyle - Outright,Felix Aubock (AUT),1.3103448275862069,0.0345,0.0149,3.1
+Men's - Tokyo 2021 - Men's 100m Freestyle - Outright,Kliment Kolesnikov (ROC),1.2857142857142856,0.2857,0.125,3.08
+Men's - Tokyo 2021 - Men's 800m Freestyle - Outright,Mykhailo Romanchuk (UKR),0.9444444444444446,0.5556,0.2857,3.1
+Men's - Tokyo 2021 - Men's 800m Freestyle - Outright,Guilherme Costa (BRA),0.7558139534883721,0.0116,0.0066,3.1
+Men's - Tokyo 2021 - Men's 800m Freestyle - Outright,Florian Wellbrock (GER),0.7333333333333332,0.2667,0.1538,3.1
+MLB - 2021 World Series - 2021 World Series Winner,Pittsburgh Pirates,0.6655574043261232,0.0017,0.001,2.52
+Men's - Tokyo 2021 - Men's Water Polo - Winner,USA (USA),0.5882352941176472,0.0196,0.0123,2.93
+Men's - Tokyo 2021 - Men's 100m Freestyle - Outright,Hwang Sun-woo (KOR),0.5769230769230769,0.0385,0.0244,3.08
+Men's - Tokyo 2021 - Men's 200m Breaststroke - Outright,Zac Stubbelty-Cook (AUS),0.5680473372781065,0.5917,0.3774,3.08
+Women's - Tokyo 2021 - Women's 200m Butterfly - Outright,Svetlana Chimrova (ROC),0.5074626865671643,0.0149,0.0099,3.08
+Men's - Tokyo 2021 - Men's Individual - Outright,Thomas Detry (BEL),0.5074626865671643,0.0149,0.0099,3.0
+Big Brother 23 - Odds to win - Big Brother 23 - Outright,Claire Rehfuss,0.4444444444444442,0.1111,0.0769,2.87
+Big Brother 23 - Odds to win - America's Favorite Houseguest - Outright,Derek Frazier,0.40000000000000013,0.0667,0.0476,2.87
+73rd Primetime Emmy Awards - Outstanding Lead Actor - Drama - Outright,Billy Porter (Pose),0.33333333333333326,0.1667,0.125,2.87
+Superettan - Sweden Superettan 2021 - Outright,Helsingborgs IF,0.33333333333333326,0.2222,0.1667,3.18
+Men's - Tokyo 2021 - Men's 100m Butterfly - Outright,Marius Kusch (GER),0.33112582781456923,0.0066,0.005,3.08
+Men's - Tokyo 2021 - Men's 100m Butterfly - Outright,David Morgan (AUS),0.33112582781456923,0.0066,0.005,3.08
+Superettan - Sweden Superettan 2021 - Outright,Osters IF,0.30769230769230727,0.0385,0.0294,3.18
+NBA - 2021 NBA Draft - 5th Overall Pick,J. Bouknight,0.2941176470588234,0.1176,0.0909,2.85
+Men's - Tokyo 2021 - Men's 200m Backstroke - Outright,Luke Greenbank (GBR),0.25,0.1667,0.1333,3.08
+Women's - Tokyo 2021 - Women's 200m Backstroke - Outright,Kylie Masse (CAN),0.25,0.125,0.1,3.07
+NBA - 2021 NBA Draft - 3rd Overall Pick,S. Barnes,0.23529411764705888,0.0588,0.0476,2.85
+Women's - Tokyo 2021 - Women's 200m Butterfly - Outright,Zhang Yufei (CHN),0.2324328,0.8,0.6491,3.08
+NBA - 2021 NBA Draft - 4th Overall Pick,S. Barnes,0.23076923076923084,0.3077,0.25,2.85
+MLB - 2021 World Series - 2021 World Series Winner,Atlanta Braves,0.2058823529411764,0.0294,0.0244,2.52
+Men's - Tokyo 2021 - Men's 100m Freestyle - Outright,Alessandro Miressi (ITA),0.20000000000000018,0.1,0.0833,3.08
+MLB - 2021 National League East - 2021 National League East Winner,Atlanta Braves,0.16666666666666674,0.1667,0.1429,2.52
+Love Island USA Season 3 - Top Male - Outright,Will Moncada,0.16666666666666674,0.3333,0.2857,2.87
+Superettan - Sweden Superettan 2021 - Outright,Trelleborgs FF,0.15384615384615374,0.0769,0.0667,3.18
+MLB - 2021 National League Pennant - 2021 National League Winner,Cincinnati Reds,0.13043478260869557,0.0435,0.0385,2.52
+MLB - 2021 National League Pennant - 2021 National League Winner,St. Louis Cardinals,0.13043478260869557,0.0435,0.0385,2.52
+MLB - 2021 National League Pennant - 2021 National League Winner,Atlanta Braves,0.10526315789473695,0.0526,0.0476,2.52
+MLB - 2021 American League East - 2021 American League East Winner,Boston Red Sox,0.09090928925623443,0.5455,0.5,2.52
+Boxing Lines - Vito Mielnicki Jr vs James Martin - To Win the Bout,James Martin,0.09090909090909105,0.3636,0.3333,2.5
+Men's - Tokyo 2021 - Men's 200m Breaststroke - Outright,Nic Fink (USA),0.08333333333333326,0.0833,0.0769,3.08
+MLB - 2021 American League Pennant - 2021 American League Winner,New York Yankees,0.08333333333333326,0.0833,0.0769,2.52
+NBA - 2021 NBA Draft - Exact Order - Top 3 Picks,1. C.Cunningham 2. J. Green 3. E. Mobley,0.08333327083331765,0.75,0.6923,2.85
+MLB - 2021 National League West - 2021 National League West Winner,San Diego Padres,0.0769230769230771,0.1538,0.1429,2.52
+NBA - 2021 NBA Draft - 5th Overall Pick,S. Barnes,0.07142857142857162,0.7143,0.6667,2.85
+MLB - 2021 World Series - 2021 World Series Winner,Chicago White Sox,0.0714285714285714,0.1429,0.1333,2.52
+NBA - 2021 NBA Draft - 2nd Overall Pick,C. Cunningham,0.06666666666666665,0.0667,0.0625,2.85
+NBA - 2021 NBA Draft - Player Draft Position - James Bouknight Draft Position,Under 7.5,0.05148056536137746,0.6825,0.6491,2.85
+NBA - 2021 NBA Draft - 4th Overall Pick,J. Suggs,0.04761933333333346,0.6667,0.6364,2.85
+NBA - 2021 NBA Draft - Player Draft Position - Isiah Todd Draft Position,Under 36.5,0.022675713205918324,0.5238,0.5122,2.85
+College Season Props - College Football 2021/22 - Regular Season Win Total - Louisiana Tech Bulldogs 2021/22 Total Wins,Over 4.5,0.016214819069500397,0.5744,0.5652,2.63
+Men's - Tokyo 2021 - Men's 100m Butterfly - Outright,Caeleb Dressel (USA),0.015872888888888825,0.8889,0.875,3.08
+MLB - 2021 American League West - 2021 American League West Winner,Houston Astros,0.01538492781074674,0.9231,0.9091,2.52
+MLB - 2021 National League Central - 2021 National League Central Winner,Milwaukee Brewers,0.01538492781074674,0.9231,0.9091,2.52
+MLB Season Props - Odds to win 2021 American League MVP - Winner,Shohei Ohtani (LAA),0.013468002992889527,0.7778,0.7674,2.52
+NBA - 2021 NBA Draft - 2nd Overall Pick,J. Green,0.013333600000000168,0.8,0.7895,2.85
+NBA - 2021 NBA Draft - 3rd Overall Pick,E. Mobley,0.011905000000000054,0.7143,0.7059,2.85
+NBA - 2021 NBA Draft - Player Draft Position - Isiah Todd Draft Position,Over 36.5,-0.018181639669389016,0.5455,0.5556,2.85
+MLB Season Props - Odds to win 2021 National League Cy Young - Winner,Jacob DeGrom (NYM),-0.022222222222222365,0.8889,0.9091,2.52
+College Season Props - College Football 2021/22 - Regular Season Win Total - Louisiana Tech Bulldogs 2021/22 Total Wins,Under 4.5,-0.024390243902438935,0.4878,0.5,2.63
+Women's - Tokyo 2021 - Women's 200m Backstroke - Outright,Kaylee McKeown (AUS),-0.025974285714285616,0.7143,0.7333,3.07
+NBA - 2021 NBA Draft - Exact Order - Top 3 Picks,1. C.Cunningham 2. J.Green 3. J.Suggs,-0.04347826086956541,0.1739,0.1818,2.85
+MLB - 2021 National League West - 2021 National League West Winner,Los Angeles Dodgers,-0.04545480578505312,0.6364,0.6667,2.52
+NBA - 2021 NBA Draft - 3rd Overall Pick,J. Green,-0.0461538461538461,0.3077,0.3226,2.85
+MLB - 2021 American League East - 2021 American League East Winner,Tampa Bay Rays,-0.04761904761904767,0.4762,0.5,2.52
+Boxing Lines - Vito Mielnicki Jr vs James Martin - To Win the Bout,Vito Mielnicki Jr,-0.04958728950649671,0.697,0.7333,2.5
+MLB - 2021 American League West - 2021 American League West Winner,Oakland Athletics,-0.0625,0.125,0.1333,2.52
+NBA - 2021 NBA Draft - Exact Order - Top 3 Picks,1. C.Cunningham 2. E.Mobley 3. J.Kuminga,-0.0645161290322579,0.0323,0.0345,2.85
+MLB Season Props - Odds to win 2021 American League MVP - Winner,Vladimir Guerrero Jr.(TOR),-0.07142857142857151,0.2857,0.3077,2.52
+Big Brother 23 - Odds to win - Big Brother 23 - Outright,Kyland Young,-0.07142857142857151,0.1429,0.1538,2.87
+NBA - 2021 NBA Draft - Player Draft Position - James Bouknight Draft Position,Over 7.5,-0.0769230769230771,0.3846,0.4167,2.85
+NBA - 2021 NBA Draft - Exact Order - Top 3 Picks,1. J.Green 2. C.Cunningham 3. E.Mobley,-0.08695652173913038,0.0435,0.0476,2.85
+Men's - Tokyo 2021 - Men's 200m Backstroke - Outright,Evgeny Rylov (ROC),-0.08823513321796472,0.6078,0.6667,3.08
+NBA - 2021 NBA Draft - 4th Overall Pick,F. Wagner,-0.08955223880597007,0.0149,0.0164,2.85
+MLB - 2021 American League Pennant - 2021 American League Winner,Oakland Athletics,-0.09090909090909094,0.0909,0.1,2.52
+MLB - 2021 World Series - 2021 World Series Winner,Los Angeles Dodgers,-0.09090909090909094,0.1818,0.2,2.52
+Men's - Tokyo 2021 - Men's 200m Breaststroke - Outright,Arno Kamminga (NED),-0.09090909090909094,0.2597,0.2857,3.08
+Superettan - Sweden Superettan 2021 - Outright,GIF Sundsvall,-0.09090909090909094,0.0909,0.1,3.18
+Superettan - Sweden Superettan 2021 - Outright,Norrby IF,-0.09090909090909094,0.1818,0.2,3.18
+NBA - 2021 NBA Draft - Exact Order - Top 3 Picks,1. C.Cunningham 2. J.Suggs 3. J.Green,-0.09090909090909094,0.0909,0.1,2.85
+MLB - 2021 National League Pennant - 2021 National League Winner,Philadelphia Phillies,-0.09523809523809523,0.0476,0.0526,2.52
+NBA - 2021 NBA Draft - Exact Order - Top 3 Picks,1. C.Cunningham 2. J.Green 3. J.Kuminga,-0.09523809523809523,0.0476,0.0526,2.85
+MLB - 2021 World Series - 2021 World Series Winner,Oakland Athletics,-0.09523809523809523,0.0476,0.0526,2.52
+Big Brother 23 - Odds to win - Big Brother 23 - Outright,Britini D'Angelo,-0.09523809523809523,0.0476,0.0526,2.87
+Big Brother 23 - Odds to win - Big Brother 23 - Outright,Whitney Williams,-0.09523809523809523,0.0476,0.0526,2.87
+NBA - 2021 NBA Draft - Exact Order - Top 3 Picks,1. J.Green 2. C.Cunningham 3. J. Suggs,-0.0980392156862745,0.0196,0.0217,2.85
+Big Brother 23 - Odds to win - Big Brother 23 - Outright,Tiffany Mitchell,-0.09999999999999987,0.1,0.1111,2.87
+MLB - 2021 National League East - 2021 National League East Winner,Philadelphia Phillies,-0.09999999999999987,0.2,0.2222,2.52
+Men's - Tokyo 2021 - Men's 200m Breaststroke - Outright,Matti Mattsson (FIN),-0.10344827586206906,0.0345,0.0385,3.08
+NBA - 2021 NBA Draft - Exact Order - Top 3 Picks,1. C.Cunningham 2 J.Suggs 3. E.Mobley,-0.10526315789473695,0.0526,0.0588,2.85
+Big Brother 23 - Odds to win - Big Brother 23 - Outright,Derek Frazier,-0.10526315789473695,0.0526,0.0588,2.87
+NBA - 2021 NBA Draft - 4th Overall Pick,E. Mobley,-0.11111111111111116,0.2222,0.25,2.85
+MLB - 2021 American League Pennant - 2021 American League Winner,Seattle Mariners,-0.11538461538461531,0.0385,0.0435,2.52
+MLB - 2021 World Series - 2021 World Series Winner,Toronto Blue Jays,-0.11538461538461531,0.0385,0.0435,2.52
+MLB - 2021 American League Central - 2021 American League Central Winner,Cleveland Indians,-0.11764705882352955,0.0588,0.0667,2.52
+NBA - 2021 NBA Draft - 5th Overall Pick,E. Mobley,-0.11764705882352955,0.0588,0.0667,2.85
+NBA - 2021 NBA Draft - 4th Overall Pick,J. Kuminga,-0.13333333333333341,0.1333,0.1538,2.85
+Men's - Tokyo 2021 - Men's Individual - Outright,Tommy Fleetwood (GBR),-0.14705882352941158,0.0294,0.0345,3.0
+Big Brother 23 - Odds to win - Big Brother 23 - Outright,Azah Awasum,-0.15384615384615397,0.0769,0.0909,2.87
+MLB - 2021 National League Central - 2021 National League Central Winner,Cincinnati Reds,-0.16666666666666674,0.1111,0.1333,2.52
+Men's - Tokyo 2021 - Men's 100m Butterfly - Outright,Kristof Milak (HUN),-0.16666666666666674,0.1667,0.2,3.08
+NBA - 2021 NBA Draft - Exact Order - Top 3 Picks,1.C.Cunningham 2. J.Green 3. S.Barnes,-0.17073170731707343,0.0244,0.0294,2.85
+NBA - 2021 NBA Draft - Exact Order - Top 3 Picks,1. C.Cunningham 2. J. Suggs 3. J. Kuminga,-0.1728395061728396,0.0123,0.0149,2.85
+MLB - 2021 National League Central - 2021 National League Central Winner,Chicago Cubs,-0.17391304347826086,0.0435,0.0526,2.52
+MLB - 2021 American League East - 2021 American League East Winner,Toronto Blue Jays,-0.19047619047619058,0.0476,0.0588,2.52
+Superettan - Sweden Superettan 2021 - Outright,Västerås SK FK,-0.1960784313725491,0.0196,0.0244,3.18
+NBA - 2021 NBA Draft - Exact Order - Top 3 Picks,1. C.Cunningham 2. J. Suggs 3. S. Barnes,-0.19801980198019797,0.0099,0.0123,2.85
+Men's - Tokyo 2021 - Men's Water Polo - Winner,Greece (GRE),-0.2105263157894739,0.0526,0.0667,2.93
+Superettan - Sweden Superettan 2021 - Outright,Jönköpings Södra,-0.2222222222222222,0.1111,0.1429,3.18
+Love Island USA Season 3 - Top Male - Outright,Tony Caraballo,-0.23076923076923073,0.0769,0.1,2.87
+Big Brother 23 - Odds to win - Big Brother 23 - Outright,Alyssa Lopez,-0.23529411764705888,0.0588,0.0769,2.87
+Men's - Tokyo 2021 - Men's 200m Backstroke - Outright,Ryan Murphy (USA),-0.23529411764705888,0.2353,0.3077,3.08
+NBA - 2021 NBA Draft - Exact Order - Top 3 Picks,1. C.Cunningham 2. E.Mobley 3. S. Barnes,-0.23880597014925375,0.0149,0.0196,2.85
+Men's - Tokyo 2021 - Men's 100m Freestyle - Outright,Maxime Grousset (FRA),-0.23880597014925375,0.0149,0.0196,3.08
+NBA - 2021 NBA Draft - Exact Order - Top 3 Picks,1. J.Green 2. J.Suggs 3. C.Cunningham,-0.24875621890547261,0.005,0.0066,2.85
+NBA - 2021 NBA Draft - 5th Overall Pick,J. Kuminga,-0.25,0.25,0.3333,2.85
+Women's - Tokyo 2021 - Women's 200m Butterfly - Outright,Regan Smith (USA),-0.26666666666666683,0.0667,0.0909,3.08
+Women's - Tokyo 2021 - Women's 200m Butterfly - Outright,Hali Flickinger (USA),-0.27783333333333327,0.1667,0.2308,3.08
+Men's - Tokyo 2021 - Men's 100m Freestyle - Outright,David Popovici (ROU),-0.2941176470588235,0.0588,0.0833,3.08
+Men's - Tokyo 2021 - Men's 800m Freestyle - Outright,Jack McLoughlin (AUS),-0.2941176470588235,0.1176,0.1667,3.1
+NBA - 2021 NBA Draft - 2nd Overall Pick,J. Kuminga,-0.2941176470588235,0.0196,0.0278,2.85
+Love Island USA Season 3 - Top Male - Outright,Charlie Lynch,-0.3076923076923076,0.0769,0.1111,2.87
+NBA - 2021 NBA Draft - Exact Order - Top 3 Picks,1. J. Green 2. E. Mobley 3. C.Cunningham,-0.33112582781456945,0.0066,0.0099,2.85
+Love Island USA Season 3 - Top Male - Outright,Gabe Sadowsky,-0.36363636363636354,0.0909,0.1429,2.87
+Men's - Tokyo 2021 - Men's 200m Breaststroke - Outright,Ryuya Mura (JPN),-0.36585365853658536,0.0244,0.0385,3.08
+Men's - Tokyo 2021 - Men's 100m Freestyle - Outright,Kyle Chalmers (AUS),-0.3666666666666667,0.2222,0.3509,3.08
+NBA - 2021 NBA Draft - 4th Overall Pick,K. Johnson,-0.39603960396039595,0.0099,0.0164,2.85
+NBA - 2021 NBA Draft - 4th Overall Pick,M. Moody,-0.39603960396039595,0.0099,0.0164,2.85
+Women's - Tokyo 2021 - Women's 200m Butterfly - Outright,Boglarka Kapas (HUN),-0.47058823529411764,0.0588,0.1111,3.08
+NBA - 2021 NBA Draft - 2nd Overall Pick,J. Johnson,-0.49751243781094523,0.005,0.0099,2.85
+Men's - Tokyo 2021 - Men's 200m Breaststroke - Outright,Anton Chupkov (ROC),-0.5,0.125,0.25,3.08
+Men's - Tokyo 2021 - Men's 200m Breaststroke - Outright,Erik Persson (SWE),-0.580246913580247,0.0123,0.0294,3.08
+Men's - Tokyo 2021 - Men's 100m Freestyle - Outright,Nandor Nemeth (HUN),-0.5940594059405941,0.0099,0.0244,3.08
+Men's - Tokyo 2021 - Men's 800m Freestyle - Outright,Gregorio Paltinieri (ITA),-0.6363636363636364,0.0909,0.25,3.1
+Women's - Tokyo 2021 - Women's 200m Butterfly - Outright,Brianna Throssell (AUS),-0.6633663366336635,0.0099,0.0294,3.08
+Women's - Tokyo 2021 - Women's 200m Butterfly - Outright,Alys Thomas (GBR),-0.6746031746031746,0.0079,0.0244,3.08
+NBA - 2021 NBA Draft - 4th Overall Pick,D. Mitchell,-0.7920792079207921,0.0099,0.0476,2.85
