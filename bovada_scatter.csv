@@ -1,46 +1,86 @@
 title,description,Pct_Change,Implied_Probability,Prev_Probability,minutes_ago
-Women's - Tokyo 2021 - Women's Basketball - Outright Winner (Without USA),France (W),0.23740000000000006,0.6296,0.3922,196.18
-Olympics Basketball - Women - Tokyo 2021 - Women's Basketball - Outright Winner (Without USA),France (W),0.23740000000000006,0.6296,0.3922,196.13
-Women's - Tokyo 2021 - Women's Basketball - Outright Winner (Without USA),Japan (W),0.22640000000000002,0.4082,0.1818,196.18
-Olympics Basketball - Women - Tokyo 2021 - Women's Basketball - Outright Winner (Without USA),Japan (W),0.22640000000000002,0.4082,0.1818,196.13
-Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Real Madrid,0.07619999999999999,0.4762,0.4,196.35
-Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Atlético Madrid,0.0635,0.2857,0.2222,196.35
-Women's - Tokyo 2021 - Women's Handball - Winner,Norway (W),0.05559999999999998,0.5556,0.5,196.17
-Champions League - UEFA Champions League 2021/2022 - Outright,Paris Saint-Germain,0.05550000000000002,0.2222,0.1667,196.35
-Big Brother 23 - Fourth Eviction - Outright,Whitney,0.0524,0.9524,0.9,196.15
-Olympic Boxing - Keyshawn Davis (USA) vs Hovhannes Bachkov (ARM) - To Win the Bout,Keyshawn Davis (USA),0.050000000000000044,0.8,0.75,55.48
-MLB - 2021 National League West - 2021 National League West Winner,San Francisco Giants,0.04290000000000005,0.4,0.3571,0.9
-Mens - Tokyo 2021 - Men's Lightweight 63kg - Winner,Keyshawn Davis (USA),0.03570000000000001,0.2857,0.25,55.82
-Olympic Boxing - Keyshawn Davis (USA) vs Hovhannes Bachkov (ARM) - To Win the Bout,Hovhannes Bachkov (ARM),0.03470000000000001,0.3125,0.2778,195.82
-Olympic Boxing - Andy Cruz (CUB) vs Harry Garside (AUS) - To Win the Bout,Harry Garside (AUS),0.034100000000000005,0.125,0.0909,195.82
-MLB - 2021 National League East - 2021 National League East Winner,Philadelphia Phillies,0.03409999999999999,0.2667,0.2326,55.5
-Olympic Boxing - Muslim Gadzhimagomedov (ROC) vs Julio César La Cruz (CUB) - To Win the Bout,Julio César La Cruz (CUB),0.020799999999999985,0.3333,0.3125,195.82
-Olympic Boxing - Andy Cruz (CUB) vs Harry Garside (AUS) - To Win the Bout,Andy Cruz (CUB),0.019100000000000006,0.9524,0.9333,55.48
-Olympic Boxing - Kellie Anne Harrington (IRL) vs Beatriz Ferreira (BRA) - To Win the Bout,Beatriz Ferreira (BRA),0.018999999999999906,0.7333,0.7143,0.88
-Mens - Tokyo 2021 - Men's Lightweight 63kg - Winner,Hovhannes Bachkov (ARM),0.0179,0.1429,0.125,55.82
-MLB - 2021 National League East - 2021 National League East Winner,Atlanta Braves,0.0174,0.25,0.2326,55.5
-Olympic Boxing - Muslim Gadzhimagomedov (ROC) vs Julio César La Cruz (CUB) - To Win the Bout,Muslim Gadzhimagomedov (ROC),0.016700000000000048,0.75,0.7333,0.88
-Women's - Tokyo 2021 - Women's Middleweight 75kg - Winner,Qian Li (CHN),0.01469999999999999,0.25,0.2353,196.18
-Olympic Boxing - Lauren Price (GBR) vs Nouchka Fontijn (NED) - To Win the Bout,Nouchka Fontijn (NED),0.011899999999999994,0.25,0.2381,195.82
-Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Sevilla,0.011199999999999995,0.0588,0.0476,196.35
-Olympic Boxing - Lauren Price (GBR) vs Nouchka Fontijn (NED) - To Win the Bout,Lauren Price (GBR),-0.01100000000000001,0.8182,0.8292,195.82
-Women's - Tokyo 2021 - Women's Handball - Winner,France (W),-0.011700000000000016,0.2105,0.2222,1.22
-MLB - 2021 National League East - 2021 National League East Winner,Washington Nationals,-0.014499999999999999,0.0149,0.0294,55.5
-Olympic Boxing - Muslim Gadzhimagomedov (ROC) vs Julio César La Cruz (CUB) - To Win the Bout,Muslim Gadzhimagomedov (ROC),-0.016700000000000048,0.7333,0.75,195.82
-Olympic Boxing - Kellie Anne Harrington (IRL) vs Beatriz Ferreira (BRA) - To Win the Bout,Kellie Anne Harrington (IRL),-0.017600000000000005,0.3333,0.3509,0.88
-NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Saquon Barkley,-0.0179,0.125,0.1429,196.1
-Women's - Tokyo 2021 - Women's Handball - Winner,Sweden (W),-0.02049999999999999,0.1333,0.1538,196.17
-Olympic Boxing - Muslim Gadzhimagomedov (ROC) vs Julio César La Cruz (CUB) - To Win the Bout,Julio César La Cruz (CUB),-0.020799999999999985,0.3125,0.3333,0.88
-Olympic Boxing - Andy Cruz (CUB) vs Harry Garside (AUS) - To Win the Bout,Harry Garside (AUS),-0.024999999999999994,0.1,0.125,55.48
-Women's - Tokyo 2021 - Women's Handball - Winner,France (W),-0.02779999999999999,0.2222,0.25,196.17
-Boxing Lines - Lee McGregor vs Vincent Legrand - To Win the Bout,Vincent Legrand,-0.027800000000000005,0.0833,0.1111,55.48
-Olympic Boxing - Andy Cruz (CUB) vs Harry Garside (AUS) - To Win the Bout,Andy Cruz (CUB),-0.028200000000000003,0.9333,0.9615,195.82
-NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Nick Bosa,-0.034100000000000005,0.0909,0.125,196.1
-MLB - 2021 National League East - 2021 National League East Winner,New York Mets,-0.03639999999999999,0.6,0.6364,55.5
-NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Dak Prescott,-0.03710000000000002,0.3333,0.3704,196.1
-Mens - Tokyo 2021 - Men's Lightweight 63kg - Winner,Andy Cruz (CUB),-0.03710000000000002,0.6552,0.6923,55.82
-Olympic Boxing - Keyshawn Davis (USA) vs Hovhannes Bachkov (ARM) - To Win the Bout,Keyshawn Davis (USA),-0.03949999999999998,0.75,0.7895,195.82
-Olympic Boxing - Keyshawn Davis (USA) vs Hovhannes Bachkov (ARM) - To Win the Bout,Hovhannes Bachkov (ARM),-0.04580000000000001,0.2667,0.3125,55.48
-Big Brother 23 - Fourth Eviction - Outright,Hannah,-0.04909999999999999,0.1176,0.1667,196.15
-Women's - Tokyo 2021 - Women's Handball - Winner,Russian Olympic Committee (W),-0.05550000000000002,0.1667,0.2222,196.17
-Spain La Liga - Spain La Liga 2021/22 - Outright Winner,FC Barcelona,-0.11110000000000003,0.3333,0.4444,196.35
+Women's - Tokyo 2021 - Women's Individual - Outright,Annika Schleu (GER),0.7917,0.875,0.0833,2.93
+Men's - Tokyo 2021 - Men's Freestyle 74kg - Winner,Zaurbek Sidakov (ROC),0.49230000000000007,0.8,0.3077,2.93
+Men's - Tokyo 2021 - Men's Individual - Outright,Joe Choong (GBR),0.4182,0.6,0.1818,2.93
+Women's - Tokyo 2021 - Women's Freestyle 53kg - Winner,Mayu Mukaida (JPN),0.36110000000000003,0.7778,0.4167,2.93
+Men's - Tokyo 2021 - Men's Freestyle 125kg - Winner,Gable Stevenson (USA),0.25750000000000006,0.5652,0.3077,2.93
+Men's Relay Events - Tokyo 2021 - Men's 4x100m Relay - Outright,Jamaica (JAM),0.2417,0.3846,0.1429,2.95
+Women's - Tokyo 2021 - Women's Freestyle 53kg - Winner,Pang Qianyu (CHN),0.22690000000000002,0.2857,0.0588,2.93
+Men's - Tokyo 2021 - Men's Freestyle 74kg - Winner,Magomedkhabib Kadimagomedov (BLR),0.21409999999999998,0.2667,0.0526,2.93
+Men's - Tokyo 2021 - Men's Freestyle 125kg - Winner,Geno Petriashvili (GEO),0.1774,0.5,0.3226,2.93
+Men's Relay Events - Tokyo 2021 - Men's 4x100m Relay - Outright,Italy (ITA),0.15739999999999998,0.1818,0.0244,2.95
+Men's Track Events - Tokyo 2021 - Men's 1500m - Outright,Abel Kipsang (KEN),0.1518,0.1667,0.0149,2.95
+Men's Relay Events - Tokyo 2021 - Men's 4x100m Relay - Outright,China (CHN),0.1127,0.125,0.0123,2.95
+Men's Track Events - Tokyo 2021 - Men's 1500m - Outright,Jakob Ingrebrigtsen (NOR),0.09230000000000005,0.4,0.3077,2.95
+Men's Relay Events - Tokyo 2021 - Men's 4x100m Relay - Outright,Canada (CAN),0.08339999999999999,0.1667,0.0833,2.95
+Women's Field Events - Tokyo 2021 - Women's High Jump - Outright,Nicole McDermott (AUS),0.08240000000000001,0.2,0.1176,2.95
+Men's Relay Events - Tokyo 2021 - Men's 4x100m Relay - Outright,Japan (JPN),0.08170000000000001,0.1111,0.0294,2.95
+Women's - Tokyo 2021 - Women's Climbing - Outright,Seo Chae-hyun (KOR),0.0756,0.1,0.0244,2.93
+Men's - Tokyo 2021 - Men's Individual - Outright,Justinas Kinderis (LTU),0.0726,0.1111,0.0385,2.93
+Men's - Tokyo 2021 - Men's Sprint - Outright,Jack Carlin (GBR),0.0666,0.1333,0.0667,2.93
+Men's - Diving - Men's 10m Platform - Winner,Yang Jian (CHN),0.061999999999999944,0.6364,0.5744,2.93
+Women's Track Events - Tokyo 2021 - Women's 400m - Outright,Shaunae Miller-Uibo (BAH),0.059599999999999986,0.6429,0.5833,2.95
+Women's Relay Events - Tokyo 2021 - Women's 4x100m Relay - Outright,Great Britain (W),0.0588,0.1176,0.0588,2.95
+Women's Field Events - Tokyo 2021 - Women's High Jump - Outright,Yaroslava Mahuchikh (UKR),0.05559999999999998,0.5556,0.5,2.95
+Men's - Tokyo 2021 - Men's Individual - Outright,Jan Kuf (CZE),0.0475,0.0769,0.0294,2.93
+MLB - 2021 National League West - 2021 National League West Winner,San Francisco Giants,0.04290000000000005,0.4,0.3571,227.17
+Women's - Tokyo 2021 - Women's Middleweight 75kg - Winner,Lauren Price (GBR),0.03480000000000005,0.5348,0.5,2.93
+Men's Relay Events - Tokyo 2021 - Men's 4x100m Relay - Outright,Great Britain (GBR),0.033399999999999985,0.1667,0.1333,2.95
+Men's Track Events - Tokyo 2021 - Men's 1500m - Outright,Jake Wightman (GBR),0.033,0.0526,0.0196,2.95
+Women's Relay Events - Tokyo 2021 - Women's 4x100m Relay - Outright,Switzerland (W),0.0294,0.0588,0.0294,2.95
+Women's Field Events - Tokyo 2021 - Women's Javelin - Outright,Maria Andrejczyk (POL),0.028900000000000037,0.5744,0.5455,2.95
+Mens - Tokyo 2021 - Men's Lightweight 63kg - Winner,Harrison Garside (AUS),0.028399999999999995,0.0909,0.0625,2.93
+Women's Relay Events - Tokyo 2021 - Women's 4x100m Relay - Outright,Germany (W),0.0279,0.0345,0.0066,2.95
+Women's Track Events - Tokyo 2021 - Women's 4x400m Relay - Outright,Jamaica (W),0.023799999999999988,0.1667,0.1429,2.95
+Women's - Tokyo 2021 - Women's Individual - Outright,Uliana Batashova (ROC),0.023200000000000002,0.0526,0.0294,2.93
+Women's - Tokyo 2021 - Women's Climbing - Outright,Akiyo Noguchi (JPN),0.022199999999999998,0.1333,0.1111,2.93
+Men's Relay Events - Tokyo 2021 - Men's 4x400m Relay - Outright,USA (USA),0.020199999999999996,0.9091,0.8889,2.95
+Women's - Tokyo 2021 - Women's Climbing - Outright,Brooke Raboutou (USA),0.019099999999999992,0.0667,0.0476,2.93
+Olympic Boxing - Kellie Anne Harrington (IRL) vs Beatriz Ferreira (BRA) - To Win the Bout,Beatriz Ferreira (BRA),0.018999999999999906,0.7333,0.7143,227.15
+Women's - Tokyo 2021 - Women's Climbing - Outright,Miho Nonaka (JPN),0.0179,0.1429,0.125,2.93
+Olympic Boxing - Busenaz Surmeneli (TUR) vs Hong GU (CHN) - To Win the Bout,Busenaz Surmeneli (TUR),0.016700000000000048,0.75,0.7333,2.58
+Olympic Boxing - Kellie Anne Harrington (IRL) vs Beatriz Ferreira (BRA) - To Win the Bout,Beatriz Ferreira (BRA),0.016700000000000048,0.75,0.7333,2.58
+Olympic Boxing - Muslim Gadzhimagomedov (ROC) vs Julio César La Cruz (CUB) - To Win the Bout,Muslim Gadzhimagomedov (ROC),0.016700000000000048,0.75,0.7333,227.15
+Women's - Tokyo 2021 - Women's Individual - Outright,Alice Sotero (ITA),0.0131,0.0476,0.0345,2.93
+Men's Relay Events - Tokyo 2021 - Men's 4x100m Relay - Outright,Germany (GER),0.013,0.0196,0.0066,2.95
+NFL Futures - NFC West - Division Winner,San Francisco 49ers,0.012299999999999978,0.3571,0.3448,2.77
+Olympic Games Men - Olympic Men's Soccer - Gold Medal Winner - Gold Medal Winner,Spain U23,0.012199999999999989,0.5,0.4878,3.12
+Boxing Lines - Alen Babic vs Mark Bennett - To Win the Bout,Alen Babic,0.011199999999999988,0.9524,0.9412,2.58
+Women's Track Events - Tokyo 2021 - Women's 4x400m Relay - Outright,Cuba (W),0.0109,0.0149,0.004,2.95
+Mens - Tokyo 2021 - Men's Lightweight 63kg - Winner,Hovhannes Bachkov (ARM),0.010899999999999993,0.1538,0.1429,2.93
+Olympic Boxing - Muslim Gadzhimagomedov (ROC) vs Julio César La Cruz (CUB) - To Win the Bout,Julio César La Cruz (CUB),0.010099999999999998,0.3226,0.3125,2.58
+Olympic Games Men - Olympic Men's Soccer - Gold Medal Winner - Gold Medal Winner,Brazil U23,-0.010099999999999998,0.5455,0.5556,3.12
+Women's - Tokyo 2021 - Women's Handball - Winner,France (W),-0.011700000000000016,0.2105,0.2222,227.48
+Women's Track Events - Tokyo 2021 - Women's 4x400m Relay - Outright,Netherlands (W),-0.013,0.0066,0.0196,2.95
+Women's - Tokyo 2021 - Women's Climbing - Outright,Jessica Pilz (AUT),-0.014900000000000004,0.0196,0.0345,2.93
+Women's Track Events - Tokyo 2021 - Women's 400m - Outright,Marileidy Paulino (DOM),-0.016699999999999993,0.25,0.2667,2.95
+Olympic Boxing - Kellie Anne Harrington (IRL) vs Beatriz Ferreira (BRA) - To Win the Bout,Kellie Anne Harrington (IRL),-0.017600000000000005,0.3333,0.3509,227.15
+Men's Relay Events - Tokyo 2021 - Men's 4x400m Relay - Outright,Trinadad & Tobago (TTO),-0.018099999999999998,0.0588,0.0769,2.95
+Men's - Tokyo 2021 - Men's Individual - Outright,Pavlo Tymoshchenko (UKR),-0.018200000000000004,0.0294,0.0476,2.93
+Women's Field Events - Tokyo 2021 - Women's Javelin - Outright,Maggie Malone (USA),-0.01820000000000002,0.1818,0.2,2.95
+Women's Field Events - Tokyo 2021 - Women's Javelin - Outright,Christin Hussong (GER),-0.01820000000000002,0.1818,0.2,2.95
+Men's - Diving - Men's 10m Platform - Winner,Cao Yuan (CHN),-0.019000000000000017,0.2667,0.2857,2.93
+Women's Track Events - Tokyo 2021 - Women's 4x400m Relay - Outright,Great Britain (W),-0.019600000000000003,0.0149,0.0345,2.95
+Men's Track Events - Tokyo 2021 - Men's 1500m - Outright,Josh Kerr (GBR),-0.0203,0.0385,0.0588,2.95
+Women's Field Events - Tokyo 2021 - Women's High Jump - Outright,Yuliya Levchenko (UKR),-0.0203,0.0385,0.0588,2.95
+Olympic Boxing - Kellie Anne Harrington (IRL) vs Beatriz Ferreira (BRA) - To Win the Bout,Kellie Anne Harrington (IRL),-0.020799999999999985,0.3125,0.3333,2.58
+Olympic Boxing - Busenaz Surmeneli (TUR) vs Hong GU (CHN) - To Win the Bout,Hong GU (CHN),-0.020799999999999985,0.3125,0.3333,2.58
+Olympic Boxing - Muslim Gadzhimagomedov (ROC) vs Julio César La Cruz (CUB) - To Win the Bout,Julio César La Cruz (CUB),-0.020799999999999985,0.3125,0.3333,227.15
+Boxing Lines - Johnny Fisher vs Danny Whitaker - To Win the Bout,Danny Whitaker,-0.0242,0.0667,0.0909,2.58
+Women's Track Events - Tokyo 2021 - Women's 400m - Outright,Stephenie Ann McPherson (JAM),-0.02779999999999999,0.2222,0.25,2.95
+Men's Track Events - Tokyo 2021 - Men's 1500m - Outright,Cole Hocker (USA),-0.028199999999999996,0.0385,0.0667,2.95
+Men's - Tokyo 2021 - Men's Individual - Outright,Ahmed El-Gendy (EGY),-0.0294,0.0294,0.0588,2.93
+Men's Track Events - Tokyo 2021 - Men's 1500m - Outright,Stewart McSweyn (AUS),-0.0294,0.0294,0.0588,2.95
+Women's Track Events - Tokyo 2021 - Women's 4x400m Relay - Outright,USA (W),-0.03410000000000002,0.875,0.9091,2.95
+Men's - Tokyo 2021 - Men's Individual - Outright,Jamie Cooke (GBR),-0.0392,0.0196,0.0588,2.93
+Men's - Tokyo 2021 - Men's Individual - Outright,Ilya Palazkov (BLR),-0.0392,0.0196,0.0588,2.93
+Men's - Tokyo 2021 - Men's Individual - Outright,Jun Woong-tae (KOR),-0.04169999999999999,0.125,0.1667,2.93
+Women's - Tokyo 2021 - Women's Individual - Outright,Elena Micheli (ITA),-0.043899999999999995,0.0149,0.0588,2.93
+Women's Field Events - Tokyo 2021 - Women's High Jump - Outright,Vashti Cunningham (USA),-0.04620000000000002,0.1538,0.2,2.95
+Women's - Tokyo 2021 - Women's Individual - Outright,Michelle Gulyas (HUN),-0.0509,0.0667,0.1176,2.93
+Women's Relay Events - Tokyo 2021 - Women's 4x100m Relay - Outright,USA (W),-0.05710000000000001,0.1429,0.2,2.95
+Women's - Tokyo 2021 - Women's Climbing - Outright,Janja Garnbret (SLO),-0.0635,0.7143,0.7778,2.93
+Women's Relay Events - Tokyo 2021 - Women's 4x100m Relay - Outright,Jamaica (W),-0.08789999999999998,0.7692,0.8571,2.95
+Men's - Tokyo 2021 - Men's Individual - Outright,Valentin Prades (FRA),-0.1103,0.0435,0.1538,2.93
+Men's Track Events - Tokyo 2021 - Men's 1500m - Outright,Timothy Cheruiyot (KEN),-0.13,0.4444,0.5744,2.95
+Women's - Tokyo 2021 - Women's Individual - Outright,Kate French (GBR),-0.23729999999999998,0.0294,0.2667,2.93
