@@ -1,26 +1,55 @@
 title,description,Pct_Change,Implied_Probability,Prev_Probability,minutes_ago
-Political Specials - Will Andrew Cuomo be impeached before September 1st? - Outright,No,0.24420000000000008,0.9412,0.697,2.63
-MLB Season Props - Odds to win 2021 National League MVP - Winner,Bryce Harper (PHI),0.11900000000000002,0.2857,0.1667,2.32
-Political Specials - Will Andrew Cuomo resign before September 1st? - Outright,No,0.06359999999999999,0.8462,0.7826,2.63
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,West Ham United,0.027700000000000058,0.5833,0.5556,2.82
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Brighton & Hove Albion,0.02310000000000001,0.1,0.0769,2.82
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Leicester City,0.02100000000000002,0.3846,0.3636,2.82
-NFL Specials - Jason Sanders - Consecutive field goals made in the 2021-2022 NFL Season - Outright,Over 14.5,0.020799999999999985,0.3333,0.3125,2.45
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Wolverhampton Wanderers,0.020799999999999985,0.3333,0.3125,2.82
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Watford,0.02020000000000001,0.1111,0.0909,2.82
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Leeds United,0.016599999999999948,0.6,0.5834,2.82
-NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Winner,Buffalo Bills,0.011899999999999994,0.0833,0.0714,2.5
-College Season Props - 2021 Heisman Trophy Winner - Winner,CJ Stroud,-0.0102,0.0667,0.0769,2.33
-NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Winner,Indianapolis Colts,-0.012800000000000002,0.0217,0.0345,2.5
-College Season Props - 2021 Heisman Trophy Winner - Winner,D'Eriq King,-0.013999999999999999,0.0769,0.0909,2.33
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Everton,-0.015100000000000002,0.1667,0.1818,2.82
-College Season Props - 2021 Heisman Trophy Winner - Winner,Spencer Rattler,-0.01820000000000002,0.1818,0.2,2.33
-NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Winner,Denver Broncos,-0.019099999999999995,0.0244,0.0435,2.5
-NFL Specials - Jason Sanders - Consecutive field goals made in the 2021-2022 NFL Season - Outright,Under 14.5,-0.022700000000000053,0.75,0.7727,2.45
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Newcastle United,-0.023799999999999988,0.1429,0.1667,2.82
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Aston Villa,-0.028799999999999992,0.125,0.1538,2.82
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Aston Villa,-0.031799999999999995,0.4444,0.4762,2.82
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Southampton,-0.03570000000000001,0.25,0.2857,2.82
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Leeds United,-0.03670000000000001,0.1538,0.1905,2.82
-Political Specials - Will Andrew Cuomo resign before September 1st? - Outright,Yes,-0.0635,0.2222,0.2857,2.63
-Political Specials - Will Andrew Cuomo be impeached before September 1st? - Outright,Yes,-0.2454,0.125,0.3704,2.63
+Political Specials - Will Andrew Cuomo be impeached before September 1st? - Outright,No,0.24420000000000008,0.9412,0.697,90.93
+MLB Season Props - Odds to win 2021 National League MVP - Winner,Bryce Harper (PHI),0.11900000000000002,0.2857,0.1667,90.62
+NCAAF - 2021-2022 NCAAF Conference Winner - PAC-12 Conference Winner 21/22,Utah,0.0889,0.2,0.1111,1.07
+Political Specials - Will Andrew Cuomo resign before September 1st? - Outright,No,0.06359999999999999,0.8462,0.7826,90.93
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Requests/Specials - EPL 21/22 Requests/Specials: +1000 or lower,Over 49.5 total Red Cards in 21/22 season,0.044399999999999995,0.4444,0.4,1.38
+MLB - 2021 National League West - 2021 National League West Winner,San Francisco Giants,0.0378,0.4545,0.4167,0.93
+NCAAF - 2021-2022 NCAAF Division Winner - SEC East Division Winner 21/22,Florida,0.033300000000000024,0.2,0.1667,1.07
+NCAAF - 2021-2022 NCAAF Division Winner - SEC West Division Winner 21/22,LSU,0.0321,0.0909,0.0588,1.07
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,West Ham United,0.027700000000000058,0.5833,0.5556,91.12
+NCAAF - 2021-2022 NCAAF Division Winner - PAC-12 South Division Winner 21/22,UCLA,0.025300000000000003,0.1429,0.1176,1.07
+NCAAF - 2021-2022 NCAAF Division Winner - PAC-12 North Division 21/22,Oregon State,0.023200000000000002,0.0476,0.0244,1.07
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Brighton & Hove Albion,0.02310000000000001,0.1,0.0769,91.12
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Leicester City,0.02100000000000002,0.3846,0.3636,91.12
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Wolverhampton Wanderers,0.020799999999999985,0.3333,0.3125,91.12
+NCAAF - 2021-2022 NCAAF Division Winner - PAC-12 South Division Winner 21/22,Utah,0.020799999999999985,0.3333,0.3125,1.07
+NFL Specials - Jason Sanders - Consecutive field goals made in the 2021-2022 NFL Season - Outright,Over 14.5,0.020799999999999985,0.3333,0.3125,90.75
+MLB Season Props - Odds to win 2021 American League Cy Young - Winner,Lance Lynn (CWS),0.020299999999999985,0.6429,0.6226,0.93
+NCAAF - 2021-2022 NCAAF Division Winner - ACC Coastal Division WInner,Virginia Tech,0.02020000000000001,0.1111,0.0909,1.07
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Watford,0.02020000000000001,0.1111,0.0909,91.12
+NCAAF - 2021-2022 NCAAF Division Winner - ACC Coastal Division WInner,Virginia,0.018099999999999998,0.0769,0.0588,1.07
+NCAAF - 2021-2022 NCAAF Conference Winner - Big 12 Conference Winner 21/22,Iowa State,0.016699999999999993,0.2667,0.25,1.07
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Leeds United,0.016599999999999948,0.6,0.5834,91.12
+NCAAF - 2021-2022 NCAAF Conference Winner - SEC Conference Winner 21/22,Alabama,0.014200000000000101,0.6296,0.6154,1.07
+MLB Season Props - Odds to win 2021 American League Cy Young - Winner,Carlos Rodón (CWS),0.0131,0.2353,0.2222,0.93
+NCAAF - 2021-2022 NCAAF Division Winner - SEC West Division Winner 21/22,Texas A&M,0.012899999999999995,0.1667,0.1538,1.07
+NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Winner,Buffalo Bills,0.011899999999999994,0.0833,0.0714,90.8
+NCAAF - 2021-2022 NCAAF Division Winner - PAC-12 North Division 21/22,Washington State,0.011199999999999995,0.0588,0.0476,1.07
+NCAAF - 2021-2022 NCAAF Division Winner - SEC East Division Winner 21/22,Tennessee,0.010700000000000001,0.0385,0.0278,1.07
+NCAAF - 2021-2022 NCAA National Championship Winner - Winner,Clemson,0.010499999999999982,0.2105,0.2,1.07
+NCAAF - 2021-2022 NCAAF Division Winner - BIG Ten  West Division Winner 21/22,Nebraska,0.0102,0.0769,0.0667,1.07
+College Season Props - 2021 Heisman Trophy Winner - Winner,CJ Stroud,-0.0102,0.0667,0.0769,90.63
+NCAAF - 2021-2022 NCAAF Division Winner - BIG Ten  West Division Winner 21/22,Iowa,-0.012299999999999978,0.3448,0.3571,1.07
+NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Winner,Indianapolis Colts,-0.012800000000000002,0.0217,0.0345,90.8
+NCAAF - 2021-2022 NCAA National Championship Winner - Winner,Georgia,-0.012899999999999995,0.1538,0.1667,1.07
+MLB - 2021 National League West - 2021 National League West Winner,Los Angeles Dodgers,-0.013799999999999923,0.6226,0.6364,0.93
+College Season Props - 2021 Heisman Trophy Winner - Winner,D'Eriq King,-0.013999999999999999,0.0769,0.0909,90.63
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Everton,-0.015100000000000002,0.1667,0.1818,91.12
+NCAAF - 2021-2022 NCAAF Division Winner - SEC East Division Winner 21/22,Georgia,-0.015100000000000002,0.8182,0.8333,1.07
+NCAAF - 2021-2022 NCAAF Division Winner - ACC Atlantic Division Winner 21/22,Boston College,-0.015300000000000001,0.0435,0.0588,1.07
+NCAAF - 2021-2022 NCAAF Division Winner - SEC West Division Winner 21/22,Alabama,-0.018199999999999994,0.8,0.8182,1.07
+College Season Props - 2021 Heisman Trophy Winner - Winner,Spencer Rattler,-0.01820000000000002,0.1818,0.2,90.63
+NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Winner,Denver Broncos,-0.019099999999999995,0.0244,0.0435,90.8
+NCAAF - 2021-2022 NCAAF Division Winner - ACC Coastal Division WInner,North Carolina,-0.019699999999999995,0.4348,0.4545,1.07
+NFL Specials - Jason Sanders - Consecutive field goals made in the 2021-2022 NFL Season - Outright,Under 14.5,-0.022700000000000053,0.75,0.7727,90.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Newcastle United,-0.023799999999999988,0.1429,0.1667,91.12
+NCAAF - 2021-2022 NCAAF Division Winner - PAC-12 South Division Winner 21/22,Arizona State,-0.02560000000000001,0.3077,0.3333,1.07
+NCAAF - 2021-2022 NCAAF Division Winner - SEC East Division Winner 21/22,Missouri,-0.028399999999999995,0.0625,0.0909,1.07
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Aston Villa,-0.028799999999999992,0.125,0.1538,91.12
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Aston Villa,-0.031799999999999995,0.4444,0.4762,91.12
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Southampton,-0.03570000000000001,0.25,0.2857,91.12
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Leeds United,-0.03670000000000001,0.1538,0.1905,91.12
+NCAAF - 2021-2022 NCAAF Division Winner - PAC-12 North Division 21/22,Oregon ,-0.04139999999999999,0.5238,0.5652,1.07
+Political Specials - Will Andrew Cuomo resign before September 1st? - Outright,Yes,-0.0635,0.2222,0.2857,90.93
+Political Specials - Will Andrew Cuomo be impeached before September 1st? - Outright,Yes,-0.2454,0.125,0.3704,90.93
