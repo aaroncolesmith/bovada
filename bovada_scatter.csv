@@ -1,51 +1,60 @@
 title,description,Pct_Change,Implied_Probability,Prev_Probability,minutes_ago
-BKFC 20 - Alan Belcher vs Tony Lopez - To Win the Bout,Alan Belcher,0.12870000000000004,0.7778,0.6491,1.25
-France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Rennes,0.1151,0.1818,0.0667,4.27
-BKFC 20 - Harris Stephenson vs Melvin Guillard - To Win the Bout,Harris Stephenson,0.11110000000000009,0.7778,0.6667,1.25
-France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Monaco,0.10109999999999997,0.5455,0.4444,4.27
-France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Marseille,0.09889999999999999,0.3846,0.2857,4.27
-BKFC 20 - Scott O'Shaughnessy vs David Simpson - To Win the Bout,Scott O'Shaughnessy,0.06299999999999994,0.7059,0.6429,1.25
-BKFC 20 - Bobo O'Bannon vs Lewis Rumsey - To Win the Bout,Bobo O'Bannon,0.06299999999999994,0.7059,0.6429,1.25
-BKFC 20 - Bobby Taylor vs Ronnie Rogers - To Win the Bout,Ronnie Rogers,0.05520000000000003,0.6552,0.6,122.72
-BKFC 20 - Elvin Brito vs Julio Garcia - To Win the Bout,Elvin Brito,0.05349999999999999,0.8182,0.7647,1.25
-BKFC 20 - Dillon Cleckler vs Justin Thornton - To Win the Bout,Dillon Cleckler,0.04169999999999996,0.875,0.8333,122.72
-BKFC 20 - Harris Stephenson vs Melvin Guillard - To Win the Bout,Harris Stephenson,0.03709999999999991,0.6667,0.6296,122.72
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,0.03420000000000001,0.9231,0.8889,4.27
-Championship - England Championship 21/22 - To Be Promoted,Fulham,0.03179999999999994,0.5556,0.5238,4.27
-Spain La Liga - Spain La Liga 2021/22 - Outright Winner,FC Barcelona,0.02560000000000001,0.3333,0.3077,4.27
-BKFC 20 - Derrick Findley vs Kaleb Harris - To Win the Bout,Derrick Findley,0.024499999999999966,0.6078,0.5833,1.25
-BKFC 20 - Alan Belcher vs Tony Lopez - To Win the Bout,Tony Lopez,0.02360000000000001,0.4082,0.3846,122.72
-Boxing Lines - Robert Guerrero vs Victor Ortiz - To Win the Bout,Victor Ortiz,0.022699999999999998,0.4878,0.4651,122.72
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Sevilla,0.02169999999999994,0.5455,0.5238,4.27
-France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lens ,0.0203,0.0588,0.0385,4.27
-BKFC 20 - Bobo O'Bannon vs Lewis Rumsey - To Win the Bout,Bobo O'Bannon,0.020299999999999985,0.6429,0.6226,122.72
-France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Saint-Etienne,0.019099999999999995,0.0435,0.0244,4.27
-BKFC 20 - Johnny Bedford vs Reggie Barnett Jr. - To Win the Bout,Johnny Bedford,0.018999999999999906,0.7333,0.7143,1.25
-Germany Bundesliga - German Bundesliga 2021/22 - Outright,Borussia Dortmund,0.01820000000000002,0.2,0.1818,4.25
-Germany Bundesliga - German Bundesliga 2021/22 - Outright,RB Leipzig,0.018099999999999998,0.0769,0.0588,4.25
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Valencia,0.015300000000000001,0.0588,0.0435,4.27
-BKFC 20 - Elvin Brito vs Julio Garcia - To Win the Bout,Elvin Brito,0.014700000000000046,0.7647,0.75,122.72
-France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Bordeaux,0.014499999999999999,0.0294,0.0149,4.27
-France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Montpellier,0.014100000000000001,0.0526,0.0385,4.27
-Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Real Madrid,-0.010099999999999998,0.4444,0.4545,4.27
-Championship - England Championship 21/22 - Outright,Stoke City,-0.0102,0.0667,0.0769,4.27
-Championship - England Championship 21/22 - To Be Promoted,Middlesbrough,-0.012899999999999995,0.1538,0.1667,4.27
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Athletic Bilbao,-0.013899999999999996,0.1111,0.125,4.27
-Championship - England Championship 21/22 - Outright,West Bromwich Albion,-0.01469999999999999,0.2353,0.25,4.27
-France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Reims,-0.017099999999999997,0.0123,0.0294,4.27
-Boxing Lines - Robert Guerrero vs Victor Ortiz - To Win the Bout,Robert Guerrero,-0.017299999999999982,0.5744,0.5917,122.72
-BKFC 20 - Alan Belcher vs Tony Lopez - To Win the Bout,Alan Belcher,-0.01759999999999995,0.6491,0.6667,122.72
-BKFC 20 - Johnny Bedford vs Reggie Barnett Jr. - To Win the Bout,Reggie Barnett Jr.,-0.017600000000000005,0.3333,0.3509,1.25
-Championship - England Championship 21/22 - Outright,Bournemouth,-0.0179,0.125,0.1429,4.27
-Germany Bundesliga - German Bundesliga 2021/22 - Outright,Bayern Munich,-0.018199999999999994,0.8,0.8182,4.25
-BKFC 20 - Derrick Findley vs Kaleb Harris - To Win the Bout,Kaleb Harris,-0.021699999999999997,0.4545,0.4762,1.25
-BKFC 20 - Bobo O'Bannon vs Lewis Rumsey - To Win the Bout,Lewis Rumsey,-0.027700000000000002,0.4167,0.4444,122.72
-France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lille,-0.031799999999999995,0.4444,0.4762,4.27
-BKFC 20 - Harris Stephenson vs Melvin Guillard - To Win the Bout,Melvin Guillard,-0.0348,0.4,0.4348,122.72
-BKFC 20 - Dillon Cleckler vs Justin Thornton - To Win the Bout,Justin Thornton,-0.044800000000000006,0.1905,0.2353,122.72
-BKFC 20 - Elvin Brito vs Julio Garcia - To Win the Bout,Julio Garcia,-0.05299999999999999,0.25,0.303,1.25
-BKFC 20 - Scott O'Shaughnessy vs David Simpson - To Win the Bout,David Simpson,-0.05960000000000004,0.3571,0.4167,1.25
-BKFC 20 - Bobo O'Bannon vs Lewis Rumsey - To Win the Bout,Lewis Rumsey,-0.05960000000000004,0.3571,0.4167,1.25
-BKFC 20 - Bobby Taylor vs Ronnie Rogers - To Win the Bout,Bobby Taylor,-0.06509999999999999,0.4,0.4651,122.72
-BKFC 20 - Harris Stephenson vs Melvin Guillard - To Win the Bout,Melvin Guillard,-0.11430000000000001,0.2857,0.4,1.25
-BKFC 20 - Alan Belcher vs Tony Lopez - To Win the Bout,Tony Lopez,-0.1225,0.2857,0.4082,1.25
+MLB Season Props - Odds to win 2021 National League Cy Young - Winner,Walker Buehler (LAD),0.1778,0.4,0.2222,2.57
+MLB - 2021 National League West - 2021 National League West Winner,Los Angeles Dodgers,0.10159999999999991,0.6364,0.5348,2.57
+MLB - 2021 National League East - 2021 National League East Winner,Atlanta Braves,0.0857,0.8,0.7143,2.57
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Team to Clinch a Wild Card Spot,Indianapolis Colts,0.06840000000000002,0.2222,0.1538,3.33
+Big Brother 23 - Odds to win - America's Favorite Houseguest - Outright,Britini D'Angelo	,0.0585,0.1111,0.0526,5.18
+MLB Season Props - Odds to win 2021 National League Cy Young - Winner,Corbin Burnes (MIL),0.054800000000000015,0.2857,0.2309,2.57
+MLB - 2021 National League Central - 2021 National League Central Winner,Cincinnati Reds,0.0524,0.1,0.0476,2.57
+MLB - 2021 American League Pennant - 2021 American League Winner,Oakland Athletics,0.0509,0.1176,0.0667,2.57
+Jeopardy! - Who will Replace Mike Richards as Next Full Time Host of Jeopardy! - Outright,Ken Jennings,0.047599999999999976,0.3333,0.2857,5.18
+MLB - 2021 American League Pennant - 2021 American League Winner,Tampa Bay Rays,0.04040000000000002,0.2222,0.1818,2.57
+MLB Season Props - Odds to win 2021 American League Cy Young - Winner,Lance Lynn (CWS),0.03709999999999991,0.6667,0.6296,2.57
+Boxing Lines - Robert Guerrero vs Victor Ortiz - To Win the Bout,Victor Ortiz,0.03600000000000003,0.5238,0.4878,2.55
+MLB Season Props - Odds to win 2021 National League Cy Young - Winner,Jacob DeGrom (NYM),0.03439999999999999,0.0667,0.0323,2.57
+MLB - 2021 World Series - 2021 World Series Winner,Tampa Bay Rays,0.034100000000000005,0.125,0.0909,2.57
+MLB - 2021 National League West - 2021 National League West Winner,San Francisco Giants,0.030399999999999983,0.5652,0.5348,2.57
+MLB Season Props - Odds to win 2021 American League Cy Young - Winner,Gerrit Cole (NYY),0.030299999999999994,0.3636,0.3333,2.57
+MLB Season Props - Odds to win 2021 American League MVP - Winner,Shohei Ohtani (LAA),0.02969999999999995,0.9709,0.9412,2.57
+MLB - 2021 American League West - 2021 American League West Winner,Oakland Athletics,0.028700000000000003,0.2105,0.1818,2.57
+MLB - 2021 American League Pennant - 2021 American League Winner,Boston Red Sox,0.02840000000000001,0.1053,0.0769,2.57
+MLB - 2021 American League Pennant - 2021 American League Winner,Chicago White Sox,0.02739999999999998,0.2941,0.2667,2.57
+Jeopardy! - Who will Replace Mike Richards as Next Full Time Host of Jeopardy! - Outright,Aaron Rodgers,0.024999999999999994,0.125,0.1,5.18
+MLB - 2021 National League Pennant - 2021 National League Winner,Cincinnati Reds,0.024,0.0625,0.0385,2.57
+Big Brother 23 - Odds to win - America's Favorite Houseguest - Outright,Derek Frazier,0.023799999999999988,0.1667,0.1429,5.18
+MLB - 2021 American League Pennant - 2021 American League Winner,Seattle Mariners,0.0236,0.0385,0.0149,2.57
+MLB Season Props - Odds to win 2021 National League MVP - Winner,Trea Turner (WSH),0.0232,0.0667,0.0435,2.57
+MLB - 2021 American League West - 2021 American League West Winner,Seattle Mariners,0.019600000000000003,0.0345,0.0149,2.57
+Big Brother 23 - Big Brother 23 Gender of Winner - Outright,Male,0.018999999999999906,0.7333,0.7143,5.18
+MLB - 2021 American League East - 2021 American League East Winner,Tampa Bay Rays,0.018999999999999906,0.7333,0.7143,2.57
+MLB Season Props - Odds to win 2021 American League Cy Young - Winner,Chris Bassitt (OAK),0.0189,0.0385,0.0196,2.57
+Big Brother 23 - Odds to win - Big Brother 23 - Outright,Kyland Young,0.0179,0.1429,0.125,5.18
+MLB - 2021 National League Pennant - 2021 National League Winner,St. Louis Cardinals,0.017099999999999997,0.0294,0.0123,2.57
+MLB - 2021 World Series - 2021 World Series Winner,Boston Red Sox,0.015300000000000001,0.0588,0.0435,2.57
+MLB - 2021 National League Pennant - 2021 National League Winner,Philadelphia Phillies,0.014899999999999997,0.0625,0.0476,2.57
+MLB - 2021 World Series - 2021 World Series Winner,Oakland Athletics,0.014899999999999997,0.0625,0.0476,2.57
+MLB Season Props - Odds to win 2021 National League MVP - Winner,Max Muncy (LAD),0.013899999999999996,0.125,0.1111,2.57
+MLB - 2021 American League East - 2021 American League East Winner,Boston Red Sox,0.013899999999999996,0.125,0.1111,2.57
+MLB - 2021 World Series - 2021 World Series Winner,Chicago White Sox,0.012899999999999995,0.1667,0.1538,2.57
+MLB - 2021 World Series - 2021 World Series Winner,Houston Astros,0.012899999999999995,0.1667,0.1538,2.57
+MLB Season Props - Odds to win 2021 American League Cy Young - Winner,Robbie Ray (TOR),0.011899999999999994,0.0833,0.0714,2.57
+Boxing Lines - Mark Magsayo vs Julio Ceja - To Win the Bout,Mark Magsayo,0.011099999999999999,0.7333,0.7222,2.55
+Boxing Lines - Manny Pacquiao vs Yordenis Ugas - To Win the Bout,Manny Pacquiao,0.010400000000000076,0.7778,0.7674,2.55
+Big Brother 23 - Odds to win - America's Favorite Houseguest - Outright,Sarah Beth Steagall,-0.0102,0.0667,0.0769,5.18
+Boxing Lines - Mark Magsayo vs Julio Ceja - To Win the Bout,Julio Ceja,-0.01150000000000001,0.3333,0.3448,2.55
+MLB - 2021 National League Pennant - 2021 National League Winner,San Francisco Giants,-0.011700000000000016,0.2105,0.2222,2.57
+Big Brother 23 - Odds to win - America's Favorite Houseguest - Outright,Xavier Prather,-0.014100000000000001,0.0385,0.0526,5.18
+MLB - 2021 National League Pennant - 2021 National League Winner,Atlanta Braves,-0.015700000000000006,0.1176,0.1333,2.57
+Boxing Lines - Manny Pacquiao vs Yordenis Ugas - To Win the Bout,Yordenis Ugas,-0.017299999999999982,0.2857,0.303,2.55
+MLB - 2021 National League Pennant - 2021 National League Winner,Milwaukee Brewers,-0.022199999999999998,0.2,0.2222,2.57
+MLB Season Props - Odds to win 2021 National League MVP - Winner,Bryce Harper (PHI),-0.023799999999999988,0.1429,0.1667,2.57
+Boxing Lines - Robert Guerrero vs Victor Ortiz - To Win the Bout,Robert Guerrero,-0.028900000000000037,0.5455,0.5744,2.55
+MLB - 2021 American League Pennant - 2021 American League Winner,Toronto Blue Jays,-0.029299999999999993,0.0476,0.0769,2.57
+Jeopardy! - Who will Replace Mike Richards as Next Full Time Host of Jeopardy! - Outright,LeVar Burton,-0.030299999999999994,0.6364,0.6667,5.18
+MLB - 2021 American League West - 2021 American League West Winner,Houston Astros,-0.03180000000000005,0.8571,0.8889,2.57
+Big Brother 23 - Odds to win - America's Favorite Houseguest - Outright,Kyland Young,-0.03420000000000001,0.0769,0.1111,5.18
+MLB Season Props - Odds to win 2021 National League Cy Young - Winner,Brandon Woodruff (MIL),-0.036199999999999996,0.1176,0.1538,2.57
+Big Brother 23 - Big Brother 23 Gender of Winner - Outright,Female,-0.03710000000000002,0.3333,0.3704,5.18
+MLB - 2021 American League Pennant - 2021 American League Winner,Houston Astros,-0.03920000000000001,0.2941,0.3333,2.57
+MLB - 2021 National League East - 2021 National League East Winner,Philadelphia Phillies,-0.06820000000000001,0.1818,0.25,2.57
+MLB Season Props - Odds to win 2021 National League Cy Young - Winner,Zack Wheeler (PHI),-0.07789999999999997,0.2857,0.3636,2.57
