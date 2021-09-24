@@ -1,27 +1,98 @@
 title,description,Pct_Change,Implied_Probability,Prev_Probability,minutes_ago
-Superhero Movie Specials - Will Any Of These Characters Appear In 'Black Adam' movie from DC Comics - Outright,Superman,0.066,0.1429,0.0769,4.17
-Superhero Movie Specials - Will Any Of These Characters Appear In 'Spider-Man: No Way Home' - Outright,Uncle Ben,0.0392,0.0588,0.0196,4.17
-Superhero Movie Specials - Will Any Of These Characters Appear In 'Spider-Man: No Way Home' - Outright,Mysterio,0.03330000000000001,0.1,0.0667,4.17
-Superhero Movie Specials - Will Any Of These Characters Appear In 'Spider-Man: No Way Home' - Outright,Daredevil,0.031799999999999995,0.4762,0.4444,4.17
-NBA Season Props - 2022 NBA Regular Season Team Wins - WAS Wizards Regular Season Wins,Over 33.5,0.030399999999999983,0.5652,0.5348,4.1
-NBA Season Props - 2022 NBA Regular Season Team Wins - UTA Jazz Regular Season Wins,Over 51.5,0.026499999999999968,0.5917,0.5652,4.1
-NBA Season Props - 2022 NBA Regular Season Team Wins - SAC Kings Regular Season Wins,Over 36.5,0.022600000000000064,0.5348,0.5122,4.12
-NBA Season Props - 2022 NBA Regular Season Team Wins - SA Spurs Regular Season Wins,Over 28.5,0.01970000000000005,0.5652,0.5455,4.12
-NBA Season Props - 2022 NBA Regular Season Team Wins - TOR Raptors Regular Season Wins,Over 35.5,0.01880000000000004,0.5744,0.5556,4.12
-Superhero Movie Specials - Will Any Of These Characters Appear In 'Black Adam' movie from DC Comics - Outright,The Flash,0.013999999999999999,0.0909,0.0769,4.17
-NBA Season Props - 2022 NBA Regular Season Team Wins - POR Trail Blazers Regular Season Wins,Over 44.5,0.010699999999999932,0.5455,0.5348,4.12
-NBA Season Props - 2022 NBA Regular Season Team Wins - NY Knicks Regular Season Wins,Over 41.5,0.010699999999999932,0.5455,0.5348,4.12
-NBA Season Props - 2022 NBA Regular Season Team Wins - NY Knicks Regular Season Wins,Under 41.5,-0.01100000000000001,0.5238,0.5348,4.12
-NBA Season Props - 2022 NBA Regular Season Team Wins - POR Trail Blazers Regular Season Wins,Under 44.5,-0.01100000000000001,0.5238,0.5348,4.12
-NBA Season Props - 2022 NBA Regular Season Team Wins - HOU Rockets Regular Season Wins,Over 27.5,-0.012199999999999989,0.5,0.5122,4.12
-Superhero Movie Specials - Will Any Of These Characters Appear In 'Black Adam' movie from DC Comics - Outright,Doctor Mid-Night,-0.012899999999999995,0.1538,0.1667,4.17
-Superhero Movie Specials - Will Any Of These Characters Appear In 'Black Adam' movie from DC Comics - Outright,Black Canary,-0.013999999999999999,0.0769,0.0909,4.17
-Superhero Movie Specials - Will Any Of These Characters Appear In 'Spider-Man: No Way Home' - Outright,Scarlett Witch,-0.014100000000000001,0.0385,0.0526,4.17
-NBA Season Props - 2022 NBA Regular Season Team Wins - SAC Kings Regular Season Wins,Under 36.5,-0.02079999999999993,0.5348,0.5556,4.12
-Superhero Movie Specials - Will Any Of These Characters Appear In 'Black Adam' movie from DC Comics - Outright,Hawkgirl,-0.023799999999999988,0.1429,0.1667,4.17
-NBA Season Props - 2022 NBA Regular Season Team Wins - UTA Jazz Regular Season Wins,Under 51.5,-0.023799999999999988,0.4762,0.5,4.1
-NBA Season Props - 2022 NBA Regular Season Team Wins - SA Spurs Regular Season Wins,Under 28.5,-0.023800000000000043,0.5,0.5238,4.12
-NBA Season Props - 2022 NBA Regular Season Team Wins - TOR Raptors Regular Season Wins,Under 35.5,-0.024399999999999977,0.4878,0.5122,4.12
-Superhero Movie Specials - Will Any Of These Characters Appear In 'Black Adam' movie from DC Comics - Outright,Green Lantern,-0.028799999999999992,0.125,0.1538,4.17
-NBA Season Props - 2022 NBA Regular Season Team Wins - WAS Wizards Regular Season Wins,Under 33.5,-0.03480000000000005,0.5,0.5348,4.1
-Superhero Movie Specials - Will Any Of These Characters Appear In 'Spider-Man: No Way Home' - Outright,Venom,-0.044399999999999995,0.4,0.4444,4.17
+NCAAF - 2021-2022 NCAAF Conference Winner - Mountain West Conference Winner 21/22,Fresno State,0.2088,0.2857,0.0769,4.08
+NCAAF - 2021-2022 NCAAF Division Winner - ACC Coastal Division WInner,North Carolina,0.1587,0.4444,0.2857,4.08
+NCAAF - 2021-2022 NCAAF Division Winner - SEC West Division Winner 21/22,Ole MIss,0.09129999999999999,0.1538,0.0625,4.07
+MLB - 2021 National League West - 2021 National League West Winner,Los Angeles Dodgers,0.07940000000000003,0.5238,0.4444,4.03
+NCAAF - 2021-2022 NCAAF Division Winner - PAC-12 South Division Winner 21/22,USC,0.07189999999999996,0.2941,0.2222,4.07
+NCAAF - 2021-2022 NCAAF Division Winner - SEC East Division Winner 21/22,Georgia,0.05679999999999996,0.875,0.8182,4.07
+Allsvenskan - Allsvenskan 2021 - Winner,Malmö FF,0.05070000000000002,0.4762,0.4255,4.27
+NCAAF - 2021-2022 NCAAF Division Winner - PAC-12 North Division 21/22,Oregon ,0.04179999999999995,0.697,0.6552,4.08
+Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Atlético Madrid,0.04099999999999998,0.3077,0.2667,4.28
+Italy Serie A - Italy Serie A 2021/2022 - Outright,Napoli,0.04040000000000002,0.2222,0.1818,4.28
+MLB - 2021 National League East - 2021 National League East Winner,Philadelphia Phillies,0.04040000000000002,0.2222,0.1818,4.03
+NCAAF - 2021-2022 NCAAF Conference Winner - Mountain West Conference Winner 21/22,Utah State,0.037700000000000004,0.0476,0.0099,4.08
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Sociedad,0.0348,0.3333,0.2985,4.28
+Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Marco Asensio,0.0344,0.0476,0.0132,4.28
+Italy Serie A - Italy Serie A 2021/2022 - Outright,AS Roma,0.03420000000000001,0.1111,0.0769,4.28
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Sevilla,0.033399999999999985,0.6078,0.5744,4.28
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Matt Corral,0.032299999999999995,0.3448,0.3125,4.03
+Copa Libertadores - Copa Libertadores 2021 - Winner,Flamengo,0.028900000000000037,0.5744,0.5455,4.23
+Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Karim Benzema,0.027800000000000047,0.5834,0.5556,4.28
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Betis,0.027800000000000005,0.1111,0.0833,4.28
+Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Real Madrid,0.025599999999999956,0.6,0.5744,4.28
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Villarreal,0.022199999999999998,0.2222,0.2,4.28
+Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Angel Correa,0.021300000000000003,0.0345,0.0132,4.28
+NFL Futures - AFC South - Division Winner,Tennessee Titans,0.02080000000000004,0.6875,0.6667,4.07
+NFL Futures - AFC West - Division Winner,Kansas City Chiefs,0.02080000000000004,0.6875,0.6667,4.07
+NFL Futures - NFC East - Division Winner,Washington Football Team,0.020299999999999985,0.2703,0.25,4.07
+NFL Futures - NFC North - Division Winner,Green Bay Packers,0.018399999999999972,0.7059,0.6875,4.07
+NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Sean Payton,0.018099999999999998,0.0769,0.0588,4.07
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Osasuna,0.0179,0.1429,0.125,4.28
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Athletic Bilbao,0.0179,0.1429,0.125,4.28
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,0.016699999999999993,0.4167,0.4,4.28
+MLB - 2021 World Series - 2021 World Series Winner,Los Angeles Dodgers,0.01469999999999999,0.25,0.2353,4.03
+NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Carolina Panthers,0.014100000000000001,0.0526,0.0385,4.07
+NCAAF - 2021-2022 NCAAF Division Winner - ACC Atlantic Division Winner 21/22,NC State,0.014099999999999994,0.0667,0.0526,4.08
+NCAAF - 2021-2022 NCAA Championship Winner - Winner,Oregon,0.014099999999999994,0.0667,0.0526,4.08
+NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Matthew Stafford,0.013999999999999999,0.0909,0.0769,4.07
+Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Luis Suarez,0.013999999999999999,0.0909,0.0769,4.28
+Allsvenskan - Allsvenskan 2021 - Winner,Djurgarden,0.013800000000000034,0.3774,0.3636,4.27
+NFL Futures - NFC South - Division Winner,Carolina Panthers,0.012899999999999995,0.1667,0.1538,4.07
+NCAAF - 2021-2022 NCAAF Conference Winner - BIG Ten Conference Winner 21/22,Minnesota,0.011200000000000002,0.0244,0.0132,4.08
+NCAAF - 2021-2022 NCAAF Division Winner - PAC-12 South Division Winner 21/22,Arizona State,0.011099999999999999,0.2778,0.2667,4.07
+NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Patrick Mahomes,0.010899999999999993,0.1538,0.1429,4.07
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Sam Howell,0.010700000000000001,0.0385,0.0278,4.03
+MLB - 2021 National League Pennant - 2021 National League Winner,Milwaukee Brewers,0.010399999999999993,0.2326,0.2222,4.03
+NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Josh Allen,0.0102,0.0769,0.0667,4.07
+NCAAF - 2021-2022 NCAAF Division Winner - SEC East Division Winner 21/22,Kentucky,0.0102,0.0769,0.0667,4.07
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Celta de Vigo,0.010100000000000001,0.0345,0.0244,4.28
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Espanyol,0.010100000000000001,0.0345,0.0244,4.28
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,-0.010099999999999998,0.3125,0.3226,4.07
+NCAAF - 2021-2022 NCAAF Division Winner - SEC West Division Winner 21/22,Texas A&M,-0.010899999999999993,0.1429,0.1538,4.07
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Espanyol,-0.011099999999999999,0.1,0.1111,4.28
+NCAAF - 2021-2022 NCAAF Division Winner - ACC Atlantic Division Winner 21/22,Clemson,-0.011199999999999988,0.9412,0.9524,4.08
+Boxing Lines - Florian Marku vs Maxim Prodan - To Win the Bout,Maxim Prodan,-0.012899999999999995,0.1538,0.1667,4.02
+NFL Season Props - NFL 2021/22 - Specials - Proposition,New York Giants to Go 0-17 in Regular Season,-0.013,0.0066,0.0196,4.05
+NCAAF - 2021-2022 NCAAF Division Winner - ACC Coastal Division WInner,Pittsburgh,-0.013899999999999996,0.1111,0.125,4.08
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Celta de Vigo,-0.013899999999999996,0.1111,0.125,4.28
+Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Sevilla,-0.013999999999999999,0.0769,0.0909,4.28
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Athletic Bilbao,-0.014099999999999998,0.0244,0.0385,4.28
+NCAAF - 2021-2022 NCAAF Division Winner - PAC-12 North Division 21/22,Washington State,-0.014099999999999998,0.0244,0.0385,4.08
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,JT Daniels,-0.014399999999999996,0.0625,0.0769,4.03
+NFL Season Props - NFL 2021/22 - Specials - Proposition,Any Team to Go 17-0 in Regular Season,-0.014399999999999996,0.0625,0.0769,4.05
+MLB - 2021 National League Pennant - 2021 National League Winner,Cincinnati Reds,-0.014499999999999999,0.0149,0.0294,4.03
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,CJ Verdell,-0.015300000000000001,0.0323,0.0476,4.03
+NFL Season Props - NFL 2021/22 - Specials - Proposition,Detroit to Go 0-17 in Regular Season,-0.015300000000000001,0.0435,0.0588,4.05
+NFL Futures - NFC East - Division Winner,Dallas Cowboys,-0.01539999999999997,0.6,0.6154,4.07
+NFL Futures - NFC South - Division Winner,New Orleans Saints,-0.016600000000000004,0.1739,0.1905,4.07
+NFL Season Props - NFL 2021/22 - Specials - Proposition,San Francisco to Go 17-0 in Regular Season,-0.0179,0.0099,0.0278,4.05
+NCAAF - 2021-2022 NCAAF Division Winner - SEC West Division Winner 21/22,LSU,-0.018099999999999998,0.0588,0.0769,4.07
+NCAAF - 2021-2022 NCAAF Division Winner - ACC Atlantic Division Winner 21/22,Florida State,-0.018200000000000004,0.0294,0.0476,4.08
+NFL Season Props - NFL 2021/22 - Specials - Proposition,New York Jets to Go 0-17 in Regular Season,-0.018200000000000004,0.0294,0.0476,4.05
+NFL Futures - AFC South - Division Winner,Houston Texans,-0.019099999999999992,0.0476,0.0667,4.07
+NCAAF - 2021-2022 NCAAF Conference Winner - Mountain West Conference Winner 21/22,Wyoming,-0.02020000000000001,0.0909,0.1111,4.08
+NCAAF - 2021-2022 NCAAF Division Winner - PAC-12 South Division Winner 21/22,Colorado,-0.0203,0.0323,0.0526,4.07
+NCAAF - 2021-2022 NCAAF Division Winner - SEC West Division Winner 21/22,Auburn,-0.0203,0.0385,0.0588,4.07
+Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,-0.020799999999999985,0.3125,0.3333,4.28
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Alavés,-0.02200000000000002,0.6923,0.7143,4.28
+Allsvenskan - Allsvenskan 2021 - Winner,AIK,-0.022199999999999998,0.2,0.2222,4.27
+NCAAF - 2021-2022 NCAAF Conference Winner - Mountain West Conference Winner 21/22,Air Force,-0.023200000000000002,0.0244,0.0476,4.08
+Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Memphis Depay,-0.0242,0.0667,0.0909,4.28
+NFL Futures - AFC West - Division Winner,Los Angeles Chargers,-0.025300000000000003,0.1176,0.1429,4.07
+NCAAF - 2021-2022 NCAAF Division Winner - ACC Coastal Division WInner,Virginia Tech,-0.0257,0.241,0.2667,4.08
+NFL Season Props - NFL 2021/22 - Specials - Proposition,Any Team to Go 0-17 in Regular Season,-0.0267,0.0909,0.1176,4.05
+NCAAF - 2021-2022 NCAAF Division Winner - SEC East Division Winner 21/22,South Carolina,-0.0306,0.0079,0.0385,4.07
+NCAAF - 2021-2022 NCAAF Division Winner - PAC-12 North Division 21/22,Washington,-0.031799999999999995,0.2857,0.3175,4.08
+NCAAF - 2021-2022 NCAAF Division Winner - SEC East Division Winner 21/22,Missouri,-0.033,0.0196,0.0526,4.07
+NCAAF - 2021-2022 NCAAF Conference Winner - Mountain West Conference Winner 21/22,Hawaii,-0.0336,0.0099,0.0435,4.08
+NCAAF - 2021-2022 NCAAF Division Winner - SEC West Division Winner 21/22,Alabama,-0.035600000000000076,0.7826,0.8182,4.07
+Italy Serie A - Italy Serie A 2021/2022 - Outright,Atalanta,-0.03889999999999999,0.1429,0.1818,4.28
+NCAAF - 2021-2022 NCAAF Division Winner - PAC-12 South Division Winner 21/22,UCLA,-0.04099999999999998,0.3226,0.3636,4.07
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,FC Barcelona,-0.050000000000000044,0.75,0.8,4.28
+Allsvenskan - Allsvenskan 2021 - Winner,IF Elfsborg,-0.052000000000000005,0.0909,0.1429,4.27
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Bryce Young,-0.05790000000000001,0.3125,0.3704,4.03
+NCAAF - 2021-2022 NCAAF Conference Winner - Mountain West Conference Winner 21/22,Nevada,-0.06820000000000001,0.1818,0.25,4.08
+MLB - 2021 National League West - 2021 National League West Winner,San Francisco Giants,-0.07710000000000006,0.5455,0.6226,4.03
+Spain La Liga - Spain La Liga 2021/22 - Outright Winner,FC Barcelona,-0.0889,0.1111,0.2,4.28
+NCAAF - 2021-2022 NCAAF Division Winner - ACC Coastal Division WInner,Miami Florida,-0.09230000000000005,0.3077,0.4,4.08
+NCAAF - 2021-2022 NCAAF Conference Winner - Mountain West Conference Winner 21/22,Boise State,-0.10150000000000003,0.3333,0.4348,4.08
