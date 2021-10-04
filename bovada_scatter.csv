@@ -1,39 +1,705 @@
 title,description,Pct_Change,Implied_Probability,Prev_Probability,minutes_ago
-MLB Specials - To Win A Wild Card Berth - To Win A Wild Card Berth,Boston Red Sox,0.23449999999999993,0.8571,0.6226,3.18
-MLB Season Props - Odds to win 2021 National League MVP - Winner,Juan Soto (WSH),0.10709999999999997,0.3571,0.25,3.18
-MLB Specials - To Win A Wild Card Berth - To Win A Wild Card Berth,Toronto Blue Jays,0.0965,0.2632,0.1667,3.18
-MLB - 2021 National League Pennant - 2021 National League Winner,San Francisco Giants,0.05299999999999999,0.303,0.25,3.2
-MLB Specials - To Win A Wild Card Berth - To Win A Wild Card Berth,Los Angeles Dodgers,0.051899999999999946,0.9891,0.9372,3.18
-MLB - 2021 American League Pennant - 2021 American League Winner,Tampa Bay Rays,0.04580000000000001,0.3125,0.2667,3.2
-Boxing Lines - Germaine Brown vs Jamal Le Doux - To Win the Bout,Germaine Brown,0.042099999999999915,0.8824,0.8403,3.18
-MLB - 2021 World Series - 2021 World Series Winner,Tampa Bay Rays,0.04169999999999999,0.1667,0.125,3.2
-MLB Season Props - Odds to win 2021 American League Rookie of the Year - Outright,Ryan Mountcastle,0.03889999999999999,0.1818,0.1429,3.2
-US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Donald Trump,0.030299999999999994,0.3636,0.3333,3.3
-MLB - 2021 National League Pennant - 2021 National League Winner,St. Louis Cardinals,0.0267,0.1176,0.0909,3.2
-NFL Specials - Week 4 Specials - Lowest Scoring Team - Week 4 (Sunday Only),New York Jets,0.02049999999999999,0.1538,0.1333,3.22
-College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Bryce Young,0.017600000000000005,0.3509,0.3333,3.2
-MLB - 2021 World Series - 2021 World Series Winner,Chicago White Sox,0.015700000000000006,0.1333,0.1176,3.2
-Boxing Lines - Linus Udofia vs Xhuljo Vrenozi - To Win the Bout,Linus Udofia,0.014900000000000024,0.9804,0.9655,3.18
-MLB Season Props - Odds to win 2021 National League Cy Young - Winner,Zack Wheeler (PHI),0.014899999999999997,0.0625,0.0476,3.18
-MLB - 2021 World Series - 2021 World Series Winner,St. Louis Cardinals,0.014899999999999997,0.0625,0.0476,3.2
-MLB Season Props - Odds to win 2021 National League Rookie of the Year - Outright,Trevor Rogers,0.013899999999999996,0.125,0.1111,3.18
-MLB Season Props - Odds to win 2021 American League Rookie of the Year - Outright,Randy Arozarena,0.013299999999999979,0.6429,0.6296,3.2
-Euroleague - Euroleague 2021/22 - Winner,Real Madrid BC,0.012899999999999995,0.1667,0.1538,3.32
-MLB Season Props - Odds to win 2021 American League Cy Young - Winner,Robbie Ray (TOR),0.012899999999999912,0.8462,0.8333,3.18
-MLB - 2021 American League Pennant - 2021 American League Winner,Seattle Mariners,0.011199999999999995,0.0588,0.0476,3.2
-Boxing Lines - David Avanesyan vs Liam Taylor - To Win the Bout,David Avanesyan,0.011199999999999988,0.9524,0.9412,3.18
-MLB Season Props - Odds to win 2021 American League Rookie of the Year - Outright,Adolis Garcia,0.011099999999999999,0.1111,0.1,3.2
-MLB - 2021 World Series - 2021 World Series Winner,Atlanta Braves,0.0102,0.0769,0.0667,3.2
-Boxing Lines - Richard Riakporhe vs Krzysztof Twardowski - To Win the Bout,Krzysztof Twardowski,-0.0102,0.0667,0.0769,3.18
-MLB - 2021 American League Pennant - 2021 American League Winner,New York Yankees,-0.010899999999999993,0.1429,0.1538,3.2
-MLB Specials - To Win A Wild Card Berth - To Win A Wild Card Berth,San Francisco Giants,-0.011099999999999999,0.1,0.1111,3.18
-Euroleague - Euroleague 2021/22 - Winner,Zenit Saint Petersburg,-0.011199999999999995,0.0476,0.0588,3.32
-Boxing Lines - Linus Udofia vs Xhuljo Vrenozi - To Win the Bout,Xhuljo Vrenozi,-0.016600000000000004,0.0667,0.0833,3.18
-Boxing Lines - David Avanesyan vs Liam Taylor - To Win the Bout,Liam Taylor,-0.01759999999999999,0.1,0.1176,3.18
-NCAAF - 2021-2022 NCAAF Conference Winner - ACC Conference Winner 21/22,Clemson,-0.023799999999999932,0.6429,0.6667,3.28
-MLB - 2021 World Series - 2021 World Series Winner,Houston Astros,-0.023799999999999988,0.1429,0.1667,3.2
-MLB Season Props - Odds to win 2021 American League Rookie of the Year - Outright,Wander Franco,-0.033300000000000024,0.1667,0.2,3.2
-MLB - 2021 American League Pennant - 2021 American League Winner,Houston Astros,-0.03470000000000001,0.2778,0.3125,3.2
-Boxing Lines - Germaine Brown vs Jamal Le Doux - To Win the Bout,Jamal Le Doux,-0.04550000000000001,0.1818,0.2273,3.18
-MLB Season Props - Odds to win 2021 National League MVP - Winner,Fernando Tatis Jr. (SD),-0.066,0.0769,0.1429,3.18
-MLB Specials - To Win A Wild Card Berth - To Win A Wild Card Berth,Seattle Mariners,-0.13329999999999997,0.2,0.3333,3.18
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Last UndefeatedTeam,Arizona Cardinals,0.5833,0.75,0.1667,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Promoted Team,Brentford,0.253,0.8182,0.5652,3.4
+WNBA Futures - 2021 WNBA Championship Winner - Outright,Phoenix Mercury,0.2168,0.3077,0.0909,3.2
+NFL Futures - NFC North - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Bears/Packers,0.18480000000000002,0.4348,0.25,3.15
+England Championship - England Championship 21/22 - Top 6 Finish,Coventry City,0.1688,0.4545,0.2857,3.37
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Bryce Young,0.1491,0.5,0.3509,3.12
+NFL Futures - NFC West - Division Winner,Arizona Cardinals,0.1482,0.3704,0.2222,3.15
+NFL Futures - NFC North - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Packers 2nd Bears,0.14479999999999998,0.3448,0.2,3.15
+Veikkausliiga - Finland Veikkausliiga 2021 - Outright,KuPS,0.13890000000000002,0.5833,0.4444,3.37
+England Championship - England Championship 21/22 - Top 6 Finish,Bournemouth,0.13890000000000002,0.8889,0.75,3.37
+England Championship - England Championship 21/22 - Top 6 Finish,Stoke City,0.13639999999999997,0.6364,0.5,3.37
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,0.13419999999999999,0.9524,0.8182,3.38
+NFL Futures - NFC West - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Cardinals/Rams,0.13180000000000003,0.4348,0.303,3.15
+England Championship - England Championship 21/22 - To Be Promoted,Bournemouth,0.1301,0.5556,0.4255,3.37
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Dual Forecast,Manchester City & Chelsea,0.1296,0.5,0.3704,3.4
+NFL Futures - NFC West - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Cardinals/Seahawks,0.1286,0.2,0.0714,3.15
+NFL Futures - NFC East - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Cowboys/Washington,0.12380000000000002,0.5238,0.4,3.15
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tampa Bay Buccaneers 2021/22 Total Wins,Over 12.5,0.12119999999999997,0.6667,0.5455,3.13
+England Championship - England Championship 21/22 - Top 6 Finish,Millwall,0.11900000000000002,0.2857,0.1667,3.37
+NFL Futures - NFC South - Division Winner,Tampa Bay Buccaneers,0.119,0.8333,0.7143,3.15
+NFL Futures - NFC East - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Cowboys 2nd Washington,0.11430000000000001,0.3846,0.2703,3.15
+Allsvenskan - Allsvenskan 2021 - Winner,AIK,0.1111,0.2222,0.1111,3.37
+NFL Futures - AFC South - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Colts 2nd Titans,0.11109999999999998,0.3333,0.2222,3.15
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Last UndefeatedTeam,Las Vegas Raiders,0.10769999999999996,0.3077,0.2,3.15
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Over 10.5,0.1058,0.6296,0.5238,3.13
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Miami Dolphins 2021/22 Total Wins,Under 8.5,0.1058,0.6296,0.5238,3.13
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Denver Broncos 2021/22 Total Wins,Under 10.5,0.1058,0.6296,0.5238,3.13
+Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hearts,0.10360000000000003,0.4545,0.3509,3.35
+League Two - England League Two 2021/22 - Top 3 Finish,Forest Green Rovers,0.10109999999999997,0.5556,0.4545,3.33
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tennessee Titans 2021/22 Total Wins,Under 9.5,0.10010000000000002,0.5652,0.4651,3.12
+NFL Futures - AFC East - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Bills 2nd Patriots,0.09999999999999998,0.5,0.4,3.15
+League Two - England League Two 2021/22 - To Be Promoted,Forest Green Rovers,0.09999999999999998,0.6,0.5,3.35
+League Two - England League Two 2021/22 - Top 7 Finish,Harrogate Town,0.09999999999999998,0.5,0.4,3.33
+Brasileirao Série A - Campeonato Brasileiro Série A - 2021 - Outright,Atlético Mineiro,0.09960000000000002,0.6552,0.5556,3.37
+NFL Futures - AFC South - Division Winner,Indianapolis Colts,0.09719999999999998,0.3077,0.2105,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Brentford,0.09150000000000003,0.9804,0.8889,3.4
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Winning Division,AFC East,0.09029999999999999,0.3125,0.2222,3.17
+England Championship - England Championship 21/22 - To Be Promoted,Coventry City,0.0889,0.2,0.1111,3.37
+NFL Futures - NFC West - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Cardinals 2nd Rams,0.0889,0.2222,0.1333,3.15
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Over  5.5,0.08779999999999999,0.6,0.5122,3.13
+League Two - England League Two 2021/22 - Top 7 Finish,Forest Green Rovers,0.0857,0.8,0.7143,3.33
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Wolverhampton Wanderers,0.08549999999999996,0.3077,0.2222,3.4
+Eredivisie - Eredivisie 2021/2022 - Outright,PSV Eindhoven,0.08549999999999996,0.3077,0.2222,3.33
+Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Atlético Madrid,0.08359999999999998,0.2941,0.2105,3.38
+NFL Futures - AFC South - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Colts/Titans,0.08040000000000003,0.9804,0.9,3.15
+Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Arminia Bielefeld,0.07940000000000003,0.5238,0.4444,3.37
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Watford,0.07939999999999997,0.5556,0.4762,3.4
+NFL Futures - NFC West - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Cardinals 2nd Seahawks,0.0791,0.1176,0.0385,3.15
+England Championship - England Championship 21/22 - Top Goalscorer,Viktor Gyokeres (Coventry),0.0774,0.125,0.0476,3.37
+France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lens,0.0762,0.1429,0.0667,3.38
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Tottenham Hotspur,0.07619999999999999,0.4762,0.4,3.4
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Seatle Seahawks 2021/22 Total Wins,Over 9.5,0.07619999999999993,0.6,0.5238,3.13
+NFL Futures - AFC North - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Ravens/Browns,0.07519999999999993,0.7895,0.7143,3.15
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Sociedad,0.07400000000000001,0.4444,0.3704,3.38
+NFL Futures - NFC South - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Buccaneers 2nd Saints,0.06930000000000003,0.5238,0.4545,3.15
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Over 7.5,0.06929999999999997,0.5455,0.4762,3.13
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Crystal Palace,0.06820000000000004,0.8182,0.75,3.4
+England Championship - England Championship 21/22 - To Be Promoted,Stoke City,0.06669999999999998,0.2667,0.2,3.37
+League Two - England League Two 2021/22 - To Be Relegated,Bristol Rovers,0.06669999999999998,0.1667,0.1,3.33
+Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Motherwell,0.06669999999999998,0.6667,0.6,3.35
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Dual Forecast,Manchester City & Liverpool,0.06659999999999999,0.3333,0.2667,3.4
+England Championship - England Championship 21/22 - To Be Promoted,West Bromwich Albion,0.06659999999999999,0.7333,0.6667,3.37
+England Championship - England Championship 21/22 - Top 2 Finish,Coventry City,0.06620000000000001,0.125,0.0588,3.37
+League Two - England League Two 2021/22 - Top 3 Finish,Harrogate Town,0.06590000000000001,0.2326,0.1667,3.33
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Washington Football Team 2021/2 Total Wins,Over 7.5,0.06520000000000004,0.5652,0.5,3.13
+League One - England League One 2021/22 - Top 2 Finish,Wigan Athletic,0.06519999999999998,0.3509,0.2857,3.35
+MLB - 2021 National League Pennant - 2021 National League Winner,Milwaukee Brewers,0.06379999999999997,0.3077,0.2439,3.12
+League Two - England League Two 2021/22 - To Be Promoted,Port Vale,0.0635,0.2857,0.2222,3.35
+League Two - England League Two 2021/22 - Outright,Forest Green Rovers,0.0635,0.2857,0.2222,3.35
+Eliteserien - Norway Elitserien 2021 - Winner,Bodø/Glimt,0.05980000000000002,0.4444,0.3846,3.37
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Mohamed Salah,0.0596,0.1429,0.0833,3.4
+Serie B - Italy Serie B 2021/22 - Outright,Pisa,0.0596,0.1429,0.0833,3.37
+Superligaen - Denmark Superligaen 2021/22 - Outright,FC Midtjylland,0.0595,0.5833,0.5238,3.33
+NFL Futures - NFC South - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Buccaneers 2nd Panthers,0.059099999999999986,0.3448,0.2857,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Everton,0.05879999999999996,0.2941,0.2353,3.4
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Carolina Panthers 2021/22 Total Wins,Under 8.5,0.05860000000000004,0.5348,0.4762,3.13
+England Championship - England Championship 21/22 - Outright,Stoke City,0.0585,0.1111,0.0526,3.37
+NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Dak Prescott,0.0585,0.1111,0.0526,3.15
+Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Atlético Madrid,0.05740000000000001,0.6226,0.5652,3.38
+Serie B - Italy Serie B 2021/22 - Outright,Lecce,0.05710000000000001,0.2,0.1429,3.37
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Dual Forecast,Chelsea & Liverpool,0.05710000000000001,0.2,0.1429,3.4
+NFL Futures - NFC West - Division Winner,Seattle Seahawks,0.05710000000000001,0.2,0.1429,3.15
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Over 4.5,0.05689999999999995,0.5917,0.5348,3.13
+NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Kyler Murray,0.05679999999999999,0.1818,0.125,3.15
+Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Juventus,0.05590000000000006,0.6923,0.6364,3.38
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Newcastle United,0.05559999999999998,0.5556,0.5,3.4
+League Two - England League Two 2021/22 - Top 7 Finish,Port Vale,0.05559999999999998,0.5,0.4444,3.33
+Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,AC Milan,0.05550000000000002,0.2222,0.1667,3.38
+Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AC Milan,0.05520000000000003,0.6552,0.6,3.38
+League Two - England League Two 2021/22 - To Be Relegated,Oldham Athletic,0.05449999999999999,0.4545,0.4,3.33
+Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Bayer Leverkusen,0.05449999999999999,0.6,0.5455,3.37
+WNBA Futures - 2021 WNBA Championship Winner - Outright,Chicago Sky,0.05350000000000002,0.2353,0.1818,3.2
+NFL Futures - NFC West - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Seahawks 2nd Cardinals,0.052399999999999995,0.0909,0.0385,3.15
+League Two - England League Two 2021/22 - To Be Promoted,Sutton Utd,0.052000000000000005,0.1429,0.0909,3.35
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Wolverhampton Wanderers,0.051899999999999946,0.9852,0.9333,3.4
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,West Ham United,0.05130000000000001,0.3846,0.3333,3.4
+Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Ross County,0.05130000000000001,0.3846,0.3333,3.35
+NFL Futures - NFC South - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Saints/Buccaneers,0.05130000000000001,0.6667,0.6154,3.15
+League Two - England League Two 2021/22 - Top 3 Finish,Port Vale,0.05080000000000001,0.2326,0.1818,3.33
+Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Spezia,0.05070000000000002,0.4762,0.4255,3.38
+France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Monaco,0.05070000000000002,0.4762,0.4255,3.38
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Chicago Bears 2021/22 Total Wins,Over  5.5,0.05059999999999998,0.5744,0.5238,3.13
+NFL Futures - NFC South - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Panthers/Buccaneers,0.05020000000000002,0.4348,0.3846,3.15
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Under 8.5,0.05019999999999991,0.6154,0.5652,3.13
+England Championship - England Championship 21/22 - Outright,Bournemouth,0.04999999999999999,0.25,0.2,3.37
+England Championship - England Championship 21/22 - Top 2 Finish,Bournemouth,0.04910000000000003,0.4,0.3509,3.37
+England Championship - England Championship 21/22 - Top 6 Finish,Queens Park Rangers,0.04910000000000003,0.4,0.3509,3.37
+Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Luis Suarez,0.048100000000000004,0.125,0.0769,3.38
+NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Arizona Cardinals,0.048100000000000004,0.125,0.0769,3.17
+League Two - England League Two 2021/22 - Top 7 Finish,Swindon Town,0.047599999999999976,0.3333,0.2857,3.33
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Everton,0.047599999999999976,0.3333,0.2857,3.4
+NFL Futures - AFC North - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Ravens 2nd Browns,0.04630000000000001,0.4167,0.3704,3.15
+England Championship - England Championship 21/22 - Top 2 Finish,Stoke City,0.04620000000000002,0.2,0.1538,3.37
+Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Livingston,0.04620000000000002,0.2,0.1538,3.35
+NFL Futures - NFC East - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Cowboys/Giants,0.04620000000000002,0.2,0.1538,3.15
+Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Greuther Fürth,0.044500000000000095,0.7778,0.7333,3.37
+League Two - England League Two 2021/22 - Top 7 Finish,Barrow FC,0.044499999999999984,0.2667,0.2222,3.33
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Brentford,0.044499999999999984,0.2667,0.2222,3.4
+England Championship - England Championship 21/22 - To Be Promoted,Millwall,0.04440000000000001,0.1111,0.0667,3.37
+Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Hearts,0.043300000000000005,0.9524,0.9091,3.35
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Leeds United,0.043300000000000005,0.9524,0.9091,3.4
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Paul Pogba,0.04329999999999999,0.0909,0.0476,3.4
+NFL Futures - AFC North - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Browns 2nd Ravens,0.04290000000000005,0.4,0.3571,3.15
+NFL Futures - NFC Conference - NFC Conference 2021/22 - Winning Division,NFC South,0.04290000000000005,0.4,0.3571,3.15
+Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Union Berlin,0.042899999999999994,0.1429,0.1,3.37
+MLB - 2021 American League Pennant - 2021 American League Winner,Boston Red Sox,0.0417,0.125,0.0833,3.12
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Norwich City,0.04099999999999998,0.3077,0.2667,3.4
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Cristiano Ronaldo,0.04040000000000002,0.2222,0.1818,3.4
+NFL Futures - NFC West - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Rams 2nd Cardinals,0.04040000000000002,0.2222,0.1818,3.15
+Professional Baseball - NPB 2021 - Winner,Orix Buffaloes,0.04040000000000002,0.2222,0.1818,3.12
+Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Borussia Mönchengladbach,0.04040000000000002,0.2222,0.1818,3.37
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Madrid,0.03920000000000001,0.9804,0.9412,3.38
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Leicester City,0.037699999999999956,0.9901,0.9524,3.38
+Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Napoli,0.036800000000000055,0.7701,0.7333,3.38
+Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Inter Milan,0.03640000000000004,0.4,0.3636,3.38
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Leeds United,0.03640000000000004,0.4,0.3636,3.4
+Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Cagliari,0.03640000000000004,0.4,0.3636,3.38
+Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Augsburg,0.03640000000000004,0.4,0.3636,3.37
+League Two - England League Two 2021/22 - To Be Promoted,Harrogate Town,0.03570000000000001,0.2857,0.25,3.35
+NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Justin Herbert,0.03420000000000001,0.1111,0.0769,3.15
+England Championship - England Championship 21/22 - Top 6 Finish,West Bromwich Albion,0.03410000000000002,0.9091,0.875,3.37
+NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Arizona Cardinals,0.0334,0.0769,0.0435,3.17
+France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lens ,0.033399999999999985,0.1667,0.1333,3.38
+League Two - England League Two 2021/22 - To Be Relegated,Colchester United,0.03330000000000001,0.1,0.0667,3.33
+League Two - England League Two 2021/22 - Top 3 Finish,Barrow FC,0.03330000000000001,0.1,0.0667,3.33
+League Two - England League Two 2021/22 - Top 3 Finish,Sutton Utd,0.03330000000000001,0.1,0.0667,3.33
+Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Inter Milan,0.033299999999999996,0.8333,0.8,3.38
+League Two - England League Two 2021/22 - Top 3 Finish,Swindon Town,0.033299999999999996,0.1333,0.1,3.33
+NFL Futures - NFC North - Division Winner,Green Bay Packers,0.033299999999999996,0.8333,0.8,3.15
+2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Schalke 04,0.03259999999999999,0.2326,0.2,3.35
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Arsenal,0.03259999999999999,0.2326,0.2,3.4
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Alavés,0.03259999999999996,0.6552,0.6226,3.38
+League Two - England League Two 2021/22 - To Be Relegated,Carlisle Utd,0.0321,0.0909,0.0588,3.33
+NFL Futures - NFC North - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Bears 2nd Packers,0.0321,0.0909,0.0588,3.15
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Casey Thompson,0.0319,0.0385,0.0066,3.12
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Bruno Fernandes,0.031799999999999995,0.1429,0.1111,3.4
+Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Hertha BSC,0.031799999999999995,0.1429,0.1111,3.37
+Italy Serie A - Italy Serie A 2021/2022 - To Finish Bottom,Cagliari,0.031799999999999995,0.1429,0.1111,3.38
+NFL Futures - AFC North - Division Winner,Cleveland Browns,0.031799999999999995,0.4762,0.4444,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Arsenal,0.031799999999999995,0.4762,0.4444,3.4
+NFL Futures - NFC East - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Cowboys 2nd Giants,0.031799999999999995,0.1429,0.1111,3.15
+League Two - England League Two 2021/22 - To Be Promoted,Barrow FC,0.031799999999999995,0.1429,0.1111,3.35
+England Championship - England Championship 21/22 - Top 6 Finish,Nottingham Forest,0.031799999999999995,0.1429,0.1111,3.37
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Rams 2021/22 Total Wins,Over 11.5,0.03179999999999994,0.5556,0.5238,3.13
+Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Dundee United,0.030299999999999994,0.3636,0.3333,3.35
+MLB - 2021 American League Pennant - 2021 American League Winner,Houston Astros,0.029899999999999982,0.3077,0.2778,3.12
+Premier League - Russia Premier League 2021/2022 - Outright,Spartak Moscow,0.0294,0.0588,0.0294,3.35
+League Two - England League Two 2021/22 - Top Goalscorer,Luke Armstrong (Harrogate Town),0.029299999999999993,0.0769,0.0476,3.35
+NBA Season Props - 2022 NBA Awards - 2022 The Sixth Man,Patty Mills,0.029299999999999993,0.0769,0.0476,3.23
+Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Eintracht Frankfurt,0.029299999999999993,0.0769,0.0476,3.37
+France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lille,0.029000000000000026,0.4545,0.4255,3.38
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Philadelphia Eagles 2021/22 Total Wins,Under 6.5,0.028900000000000037,0.5744,0.5455,3.13
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Cleveland Browns,0.028799999999999992,0.1538,0.125,3.17
+NFL Futures - AFC West - Division Winner,Los Angeles Chargers,0.028700000000000003,0.2105,0.1818,3.15
+NFL Futures - NFC West - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Rams/Seahawks,0.028700000000000003,0.2105,0.1818,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,West Ham United,0.02859999999999996,0.9901,0.9615,3.38
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Everton,0.028000000000000025,0.9804,0.9524,3.38
+NCAAF - 2021-2022 NCAA Championship Winner - Winner,Cincinnati,0.028000000000000004,0.0476,0.0196,3.17
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Everton,0.027800000000000047,0.7778,0.75,3.4
+NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Dallas Cowboys,0.027800000000000005,0.1111,0.0833,3.17
+League Two - England League Two 2021/22 - Top 3 Finish,Salford City,0.02779999999999999,0.25,0.2222,3.33
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Aston Villa,0.027700000000000058,0.5833,0.5556,3.4
+League Two - England League Two 2021/22 - Top 7 Finish,Bradford City,0.027700000000000058,0.5833,0.5556,3.33
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Southampton,0.026800000000000046,0.8889,0.8621,3.4
+NFL Futures - NFC East - Division Winner,Dallas Cowboys,0.026800000000000046,0.7143,0.6875,3.15
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Winning Division,AFC North,0.02679999999999999,0.3125,0.2857,3.17
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Chelsea,0.026499999999999968,0.6491,0.6226,3.4
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Chargers 2021/22 Total Wins,Under 10.5,0.026499999999999968,0.5917,0.5652,3.13
+Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Genoa,0.02560000000000001,0.3333,0.3077,3.38
+Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,0.02560000000000001,0.3333,0.3077,3.38
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Getafe,0.02560000000000001,0.3333,0.3077,3.38
+Boxing Lines - Adam Kownacki vs Robert Heleniuis - To Win the Bout,Robert Heleniuis,0.02560000000000001,0.3704,0.3448,3.1
+Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,FC Porto,0.025499999999999967,0.4255,0.4,3.33
+League One - England League One 2021/22 - To Be Promoted,Wigan Athletic,0.025499999999999967,0.4255,0.4,3.35
+League One - England League One 2021/22 - To Be Relegated,Gillingham,0.025499999999999967,0.4255,0.4,3.35
+MLS - MLS 2021 Futures - Top Goalscorer,Daniel Salloi,0.025300000000000003,0.1429,0.1176,3.37
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Athletic Bilbao,0.025300000000000003,0.1429,0.1176,3.38
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,0.0252,0.303,0.2778,3.17
+League Two - England League Two 2021/22 - Top Goalscorer,Jamille Matt (Forest Green),0.024999999999999994,0.125,0.1,3.35
+France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Nice,0.024999999999999994,0.125,0.1,3.38
+Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Sampdoria,0.024999999999999994,0.125,0.1,3.38
+NFL Futures - Super Bowl LVI Specials - Division of Super Bowl winner will be?,NFC East,0.024299999999999995,0.0769,0.0526,3.15
+League Two - England League Two 2021/22 - To Be Promoted,Stevenage,0.0242,0.0909,0.0667,3.35
+2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Paderborn,0.0242,0.0909,0.0667,3.35
+England Championship - England Championship 21/22 - Top 2 Finish,Queens Park Rangers,0.0242,0.0909,0.0667,3.37
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Tottenham Hotspur,0.0242,0.9333,0.9091,3.38
+League One - England League One 2021/22 - Top 6 Finish,Wycombe,0.023800000000000043,0.5238,0.5,3.35
+League Two - England League Two 2021/22 - Top 7 Finish,Salford City,0.023800000000000043,0.5238,0.5,3.33
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Manchester City,0.023800000000000043,0.5238,0.5,3.4
+NFL Futures - Super Bowl LVI Specials - Conference of Super Bowl winner will be?,NFC,0.023800000000000043,0.5238,0.5,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Watford,0.023799999999999988,0.1667,0.1429,3.4
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Over 11.5,0.023799999999999988,0.5,0.4762,3.13
+NFL Futures - NFC East - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Washington 2nd Cowboys,0.023799999999999988,0.1667,0.1429,3.15
+England Championship - England Championship 21/22 - To Be Promoted,Queens Park Rangers,0.023799999999999988,0.1667,0.1429,3.37
+England Championship - England Championship 21/22 - Outright,Coventry City,0.023200000000000002,0.0526,0.0294,3.37
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Watford,0.0232,0.9756,0.9524,3.4
+MLB - 2021 World Series - 2021 World Series Winner,Boston Red Sox,0.0232,0.0667,0.0435,3.12
+NFL Futures - NFC North - Division Winner,Chicago Bears,0.02310000000000001,0.1,0.0769,3.15
+League One - England League One 2021/22 - To Be Relegated,Morecambe,0.02260000000000001,0.4,0.3774,3.35
+NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Patrick Mahomes,0.022199999999999998,0.1333,0.1111,3.15
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Buffalo Bills,0.022199999999999998,0.2222,0.2,3.17
+League Two - England League Two 2021/22 - To Be Relegated,Walsall,0.022199999999999998,0.2222,0.2,3.33
+France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Nice,0.022199999999999998,0.2222,0.2,3.38
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Manchester City,0.022199999999999998,0.8,0.7778,3.4
+League One - England League One 2021/22 - To Finish Bottom,Shrewsbury Town,0.022199999999999998,0.2222,0.2,3.35
+Italy Serie A - Italy Serie A 2021/2022 - Outright,Juventus,0.022199999999999998,0.2222,0.2,3.38
+NBA Season Props - 2022 NBA Playoff Props - To Make the Playoffs,Sacramento Kings,0.022199999999999998,0.2222,0.2,3.23
+NFL Futures - AFC South - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Titans 2nd Colts,0.02200000000000002,0.7143,0.6923,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Leicester City,0.021999999999999964,0.3077,0.2857,3.4
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Romelu Lukaku,0.021999999999999964,0.3077,0.2857,3.4
+League Two - England League Two 2021/22 - Top 7 Finish,Newport County,0.021999999999999964,0.3077,0.2857,3.33
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,0.021699999999999997,0.4762,0.4545,3.4
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without Man City,Chelsea,0.02169999999999994,0.5455,0.5238,3.4
+MLB - 2021 American League Pennant - 2021 American League Winner,Tampa Bay Rays,0.020799999999999985,0.3333,0.3125,3.12
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New Orleans Saints 2021/22 Total Wins,Under 9.5,0.02079999999999993,0.5556,0.5348,3.13
+England Championship - England Championship 21/22 - Top Goalscorer,Ben Brereton (Blackburn),0.02049999999999999,0.1538,0.1333,3.37
+France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Rennes,0.0203,0.0588,0.0385,3.38
+NFL Futures - AFC East - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Bills 2nd Jets,0.0203,0.0588,0.0385,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Kai Havertz,0.0203,0.0588,0.0385,3.4
+League Two - England League Two 2021/22 - Top 3 Finish,Stevenage,0.0203,0.0588,0.0385,3.33
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Crystal Palace,0.02020000000000001,0.1111,0.0909,3.4
+League Two - England League Two 2021/22 - Top Goalscorer,Andy Cook (Bradford),0.02020000000000001,0.1111,0.0909,3.35
+England Championship - England Championship 21/22 - Top 6 Finish,Fulham,0.020199999999999996,0.9091,0.8889,3.37
+NFL Futures - AFC East - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Bills/Dolphins,0.01970000000000005,0.5652,0.5455,3.15
+Boxing Lines - Tyson Fury vs Deontay Wilder - To Win the Bout,Deontay Wilder,0.019600000000000006,0.3226,0.303,3.1
+Boxing Lines - Keiron Conway vs James Metcalf - To Win the Bout,James Metcalf,0.019500000000000017,0.3704,0.3509,3.1
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Chelsea,0.019000000000000017,0.2857,0.2667,3.4
+League One - England League One 2021/22 - Top 2 Finish,Rotherham Utd,0.019000000000000017,0.2857,0.2667,3.35
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Levante,0.019000000000000017,0.2857,0.2667,3.38
+Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Sporting CP,0.019000000000000017,0.2857,0.2667,3.33
+League Two - England League Two 2021/22 - Top 3 Finish,Bradford City,0.019000000000000017,0.2857,0.2667,3.33
+League One - England League One 2021/22 - Top 6 Finish,Bolton Wanderers,0.019000000000000017,0.2857,0.2667,3.35
+England Championship - England Championship 21/22 - To Be Promoted,Fulham,0.018999999999999906,0.7333,0.7143,3.37
+Boxing Lines - Liam Smith vs Anthony Fowler - To Win the Bout,Anthony Fowler,0.018900000000000028,0.4444,0.4255,3.1
+Eliteserien - Norway Elitserien 2021 - Winner,Molde,0.018900000000000028,0.4444,0.4255,3.37
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Luke Shaw,0.0189,0.0385,0.0196,3.4
+Allsvenskan - Allsvenskan 2021 - Winner,IFK Norrköping,0.0189,0.0385,0.0196,3.37
+Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,RB Leipzig,0.01880000000000004,0.6552,0.6364,3.37
+League One - England League One 2021/22 - To Be Promoted,Oxford United,0.01820000000000002,0.2,0.1818,3.35
+MLS - MLS 2021 Futures - MLS Cup Winner,Seattle Sounders,0.01820000000000002,0.2,0.1818,3.37
+England Championship - England Championship 21/22 - Outright,Queens Park Rangers,0.018200000000000004,0.0476,0.0294,3.37
+Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,FC Köln,0.018200000000000004,0.0476,0.0294,3.37
+Premier League - Russia Premier League 2021/2022 - Outright,Sochi,0.018200000000000004,0.0476,0.0294,3.35
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Diogo Jota,0.018200000000000004,0.0476,0.0294,3.4
+Serie B - Italy Serie B 2021/22 - Outright,Frosinone,0.018099999999999998,0.0769,0.0588,3.37
+League Two - England League Two 2021/22 - Outright,Harrogate Town,0.018099999999999998,0.0769,0.0588,3.35
+NFL Futures - NFC East - Division Winner,New York Giants,0.018099999999999998,0.0769,0.0588,3.15
+France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Wissam Ben Yedder,0.018099999999999998,0.0769,0.0588,3.38
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Jayden Daniels,0.0179,0.0278,0.0099,3.12
+2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Werder Bremen,0.0179,0.1429,0.125,3.35
+Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Edin Dzeko,0.0179,0.1429,0.125,3.38
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Romelu Lukaku,0.0179,0.1429,0.125,3.4
+NFL Futures - Super Bowl LVI Specials - Division of Super Bowl winner will be?,AFC East,0.0179,0.1429,0.125,3.15
+Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Bayer Leverkusen,0.0179,0.1429,0.125,3.38
+NBA Season Props - 2022 NBA Playoff Props - To Make the Playoffs,Minnesota Timberwolves,0.0179,0.1429,0.125,3.23
+NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Buffalo Bills,0.01759999999999999,0.1176,0.1,3.17
+Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Empoli,0.0174,0.25,0.2326,3.38
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,FC Barcelona,0.01739999999999997,0.7674,0.75,3.38
+France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Monaco,0.016699999999999993,0.2667,0.25,3.38
+Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Aberdeen,0.016699999999999993,0.2667,0.25,3.35
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Mohamed Salah,0.016699999999999993,0.2667,0.25,3.4
+Italy Serie A - Italy Serie A 2021/2022 - Outright,Napoli,0.016699999999999993,0.2667,0.25,3.38
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Green Bay Packers 2021/22 Total Wins,Over 10.5,0.016699999999999937,0.6,0.5833,3.13
+NFL Futures - AFC North - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Bengals/Browns,0.015700000000000006,0.1333,0.1176,3.15
+England Championship - England Championship 21/22 - Top 6 Finish,Sheffield United,0.015400000000000025,0.4,0.3846,3.37
+League One - England League One 2021/22 - Top 6 Finish,Oxford United,0.015400000000000025,0.4,0.3846,3.35
+NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Dallas Cowboys,0.015300000000000001,0.0588,0.0435,3.17
+Serie B - Italy Serie B 2021/22 - Outright,Benevento,0.015100000000000002,0.1818,0.1667,3.37
+Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,RB Leipzig,0.015100000000000002,0.1818,0.1667,3.38
+League One - England League One 2021/22 - Outright,Wigan Athletic,0.015100000000000002,0.1818,0.1667,3.35
+England Championship - England Championship 21/22 - Top 2 Finish,Nottingham Forest,0.014900000000000004,0.0345,0.0196,3.37
+NCAAF - 2021-2022 NCAA Championship Winner - Winner,Michigan,0.014900000000000004,0.0345,0.0196,3.17
+NFL Futures - AFC East - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Bills/Jets,0.014899999999999997,0.0625,0.0476,3.15
+Boxing Lines - Shannon Courtenay vs Jamie Mitchell - To Win the Bout,Jamie Mitchell,0.01469999999999999,0.25,0.2353,3.1
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Villarreal,0.01469999999999999,0.25,0.2353,3.38
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Brian Robinson Jr,0.0145,0.0244,0.0099,3.12
+England Championship - England Championship 21/22 - Outright,Blackburn Rovers,0.014499999999999999,0.0294,0.0149,3.37
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Brighton & Hove Albion,0.014499999999999957,0.9901,0.9756,3.38
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Desmond Ridder,0.014399999999999996,0.0769,0.0625,3.12
+NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Seattle Seahawks,0.014399999999999996,0.0769,0.0625,3.17
+NBA Season Props - 2022 NBA Awards - 2022 The Sixth Man,Derrick Rose,0.014399999999999996,0.0769,0.0625,3.23
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Newcastle United,0.014100000000000001,0.9756,0.9615,3.4
+League One - England League One 2021/22 - Top Goalscorer,John Marquis (Portsmouth),0.014099999999999998,0.0435,0.0294,3.35
+2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Darmstadt,0.014099999999999998,0.0385,0.0244,3.35
+France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Rennes,0.014099999999999998,0.0385,0.0244,3.38
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Ferran Torres,0.014099999999999998,0.0385,0.0244,3.4
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Jorginho,0.014099999999999998,0.0435,0.0294,3.4
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Sean Clifford,0.014099999999999998,0.0385,0.0244,3.12
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Mason Mount,0.014099999999999998,0.0385,0.0244,3.4
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Trent Alexander Arnold,0.014099999999999998,0.0385,0.0244,3.4
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Manchester City,0.014099999999999994,0.0667,0.0526,3.38
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Chelsea,0.014000000000000012,0.9231,0.9091,3.4
+NFL Futures - NFC West - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Seahawks 2nd Rams,0.013999999999999999,0.0909,0.0769,3.15
+NCAAF - 2021-2022 NCAA Championship Winner - Winner,Ohio State,0.013999999999999999,0.0909,0.0769,3.17
+Italy Serie A - Italy Serie A 2021/2022 - Outright,AS Roma,0.013999999999999999,0.0909,0.0769,3.38
+League Two - England League Two 2021/22 - To Be Promoted,Crawley Town,0.013999999999999999,0.0909,0.0769,3.35
+NBA Season Props - 2022 NBA Awards - 2022 The Defensive Player of the Year,Myles Turner,0.013899999999999996,0.125,0.1111,3.23
+England Championship - England Championship 21/22 - Top 6 Finish,Bristol City,0.013899999999999996,0.125,0.1111,3.37
+Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Lautaro Martinez,0.013899999999999996,0.125,0.1111,3.38
+League One - England League One 2021/22 - Top 2 Finish,Oxford United,0.013899999999999996,0.125,0.1111,3.35
+Professional Baseball - NPB 2021 - Winner,Tokyo Yakult Swallows,0.0131,0.2353,0.2222,3.12
+Germany Bundesliga - German Bundesliga 2021/22 - Outright,Bayer Leverkusen,0.0131,0.0476,0.0345,3.38
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Brentford,0.0131,0.0476,0.0345,3.4
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Raheem Sterling,0.0131,0.0476,0.0345,3.4
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Sadio Mane,0.0131,0.0476,0.0345,3.4
+League One - England League One 2021/22 - Top 2 Finish,Wycombe,0.012899999999999995,0.1667,0.1538,3.35
+England Championship - England Championship 21/22 - To Be Promoted,Sheffield United,0.012899999999999995,0.1667,0.1538,3.37
+Italy Serie A - Italy Serie A 2021/2022 - To Finish Bottom,Spezia,0.012899999999999995,0.1667,0.1538,3.38
+League One - England League One 2021/22 - To Be Promoted,Portsmouth,0.012899999999999995,0.1667,0.1538,3.35
+NFL Futures - AFC West - Division Winner,Las Vegas Raiders,0.012899999999999995,0.1667,0.1538,3.15
+League One - England League One 2021/22 - Top 6 Finish,Portsmouth,0.012699999999999989,0.3636,0.3509,3.35
+NCAAF - 2021-2022 NCAA Championship Winner - Winner,Texas,0.0118,0.0217,0.0099,3.17
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Las Vegas Raiders 2021/22 Total Wins,Under 9.5,0.011600000000000055,0.5238,0.5122,3.13
+NFL Futures - AFC North - Division Winner,Baltimore Ravens,0.0116,0.4878,0.4762,3.15
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Celta de Vigo,0.011199999999999995,0.0588,0.0476,3.38
+England Championship - England Championship 21/22 - To Be Promoted,Nottingham Forest,0.011199999999999995,0.0588,0.0476,3.37
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Virgil van Dijk,0.011199999999999995,0.0588,0.0476,3.4
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Valencia,0.011199999999999995,0.0588,0.0476,3.38
+England Championship - England Championship 21/22 - To Be Promoted,Bristol City,0.011199999999999995,0.0588,0.0476,3.37
+Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Hibernian,0.011199999999999988,0.9524,0.9412,3.35
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Liverpool,0.011099999999999999,0.9,0.8889,3.4
+Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Torino,0.011099999999999999,0.1111,0.1,3.38
+NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Josh Allen,0.011099999999999999,0.1111,0.1,3.15
+England Championship - England Championship 21/22 - Top 6 Finish,Luton Town,0.011099999999999999,0.1111,0.1,3.37
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Celta de Vigo,0.011099999999999999,0.1111,0.1,3.38
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Jets 2021/22 Total Wins,Over 4.5,0.01100000000000001,0.5348,0.5238,3.13
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Pittsburgh Steelers 2021/22 Total Wins,Over 6.5,0.01100000000000001,0.5348,0.5238,3.13
+MLB - 2021 World Series - 2021 World Series Winner,Houston Astros,0.010899999999999993,0.1538,0.1429,3.12
+NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Kansas City Chiefs,0.010899999999999993,0.1538,0.1429,3.17
+League One - England League One 2021/22 - Outright,Rotherham Utd,0.010899999999999993,0.1538,0.1429,3.35
+France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Kylian Mbappe,0.010599999999999998,0.4651,0.4545,3.38
+MLS - MLS 2021 Futures - Top Goalscorer,Raul Ruidiaz,0.010399999999999993,0.2326,0.2222,3.37
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Southampton,0.010399999999999993,0.2326,0.2222,3.4
+League One - England League One 2021/22 - To Finish Bottom,Cambridge United,0.0102,0.0769,0.0667,3.35
+League One - England League One 2021/22 - To Finish Bottom,Morecambe,0.0102,0.0769,0.0667,3.35
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Harry Kane,0.0102,0.0769,0.0667,3.4
+NBA Season Props - 2022 NBA Awards - 2022 Regular Season MVP,Damian Lillard,0.0102,0.0769,0.0667,3.23
+NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Cleveland Browns,0.0102,0.0769,0.0667,3.17
+Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Duvan Zapata,0.0102,0.0769,0.0667,3.38
+League Two - England League Two 2021/22 - Outright,Salford City,0.0102,0.0769,0.0667,3.35
+Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,St. Johnstone,0.010100000000000001,0.0345,0.0244,3.35
+NFL Futures - AFC West - Division Winner,Kansas City Chiefs,0.010099999999999998,0.5556,0.5455,3.15
+Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Benfica,-0.010099999999999998,0.4444,0.4545,3.33
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Las Vegas Raiders 2021/22 Total Wins,Over 9.5,-0.010099999999999998,0.5455,0.5556,3.13
+Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Athletic Bilbao,-0.010100000000000001,0.0244,0.0345,3.38
+Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Memphis Depay,-0.0102,0.0667,0.0769,3.38
+Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Hoffenheim,-0.0102,0.0667,0.0769,3.37
+League Two - England League Two 2021/22 - Top Goalscorer,Danny Johnson (Mansfield),-0.0102,0.0667,0.0769,3.35
+League Two - England League Two 2021/22 - Top Goalscorer,Ian Henderson (Salford City),-0.0102,0.0667,0.0769,3.35
+France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Moussa Dembele,-0.0102,0.0667,0.0769,3.38
+Serie B - Italy Serie B 2021/22 - Outright,Cremonese,-0.0102,0.0667,0.0769,3.37
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,West Ham United,-0.0102,0.0667,0.0769,3.4
+England Championship - England Championship 21/22 - To Be Promoted,Derby County,-0.0103,0.002,0.0123,3.37
+NBA Season Props - 2022 NBA Awards - 2022 Regular Season MVP,Luka Doncic,-0.010499999999999982,0.2,0.2105,3.23
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Arsenal,-0.010899999999999993,0.1429,0.1538,3.4
+League One - England League One 2021/22 - To Finish Bottom,Crewe Alexandra,-0.010899999999999993,0.1429,0.1538,3.35
+League One - England League One 2021/22 - Top 2 Finish,Milton Keynes Dons,-0.010899999999999993,0.1429,0.1538,3.35
+NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Los Angeles Rams,-0.011099999999999999,0.1,0.1111,3.17
+Germany Bundesliga - German Bundesliga 2021/22 - Outright,Bayern Munich,-0.011099999999999999,0.8889,0.9,3.38
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Over 3.5,-0.011099999999999999,0.4651,0.4762,3.13
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Rayo Vallecano,-0.011099999999999999,0.1,0.1111,3.38
+League Two - England League Two 2021/22 - Top Goalscorer,Mathew Stevens (Forest Green),-0.011099999999999999,0.1,0.1111,3.35
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Green Bay Packers 2021/22 Total Wins,Under 10.5,-0.011099999999999999,0.4651,0.4762,3.13
+League Two - England League Two 2021/22 - Outright,Northampton Town,-0.011199999999999995,0.0476,0.0588,3.35
+NFL Futures - NFC West - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Seahawks 2nd 49ers,-0.011199999999999995,0.0323,0.0435,3.15
+England Championship - England Championship 21/22 - To Be Promoted,Huddersfield Town,-0.011199999999999995,0.0476,0.0588,3.37
+Germany Bundesliga - German Bundesliga 2021/22 - Outright,Wolfsburg,-0.011200000000000002,0.0132,0.0244,3.38
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Dual Forecast,Liverpool & Tottenham,-0.0114,0.005,0.0164,3.4
+NFL Futures - AFC East - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Bills/Patriots,-0.012199999999999989,0.4878,0.5,3.15
+League One - England League One 2021/22 - To Be Promoted,Rotherham Utd,-0.012699999999999989,0.3509,0.3636,3.35
+NFL Futures - AFC South - Division Winner,Jacksonville Jaguars,-0.012700000000000003,0.0196,0.0323,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Liverpool,-0.012899999999999995,0.1538,0.1667,3.38
+NFL Futures - AFC South - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Jaguars 2nd Titans,-0.012899999999999998,0.0149,0.0278,3.15
+NFL Futures - NFC North - Division Winner,Detroit Lions,-0.013,0.0066,0.0196,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Cristiano Ronaldo,-0.013600000000000001,0.2941,0.3077,3.4
+Boxing Lines - Liam Smith vs Anthony Fowler - To Win the Bout,Liam Smith,-0.013799999999999923,0.6226,0.6364,3.1
+2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Hamburger SV,-0.013899999999999996,0.1111,0.125,3.35
+NBA Season Props - 2022 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,-0.013899999999999996,0.1111,0.125,3.23
+England Championship - England Championship 21/22 - To Be Promoted,Blackburn Rovers,-0.013899999999999996,0.1111,0.125,3.37
+League Two - England League Two 2021/22 - To Be Promoted,Hartlepool United,-0.013899999999999996,0.1111,0.125,3.35
+Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Udinese,-0.013899999999999996,0.1111,0.125,3.38
+2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Karlsruher,-0.013999999999999999,0.0769,0.0909,3.35
+NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Green Bay Packers,-0.013999999999999999,0.0769,0.0909,3.17
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Leicester City,-0.013999999999999999,0.0769,0.0909,3.4
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Jack Grealish,-0.013999999999999999,0.0769,0.0909,3.4
+Professional Baseball - NPB 2021 - Winner,Fukuoka SoftBank Hawks,-0.013999999999999999,0.0769,0.0909,3.12
+MLS - MLS 2021 Futures - MLS Cup Winner,Colorado Rapids,-0.013999999999999999,0.0769,0.0909,3.37
+League One - England League One 2021/22 - Top 2 Finish,Ipswich Town,-0.013999999999999999,0.0769,0.0909,3.35
+2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Fortuna Düsseldorf,-0.013999999999999999,0.0769,0.0909,3.35
+NFL Season Props - NFL 2021/22 - Specials - Proposition,Jacksonville to Go 0-17 in Regular Season,-0.014099999999999994,0.0526,0.0667,3.15
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Las Vegas Raiders,-0.014099999999999994,0.0526,0.0667,3.17
+League One - England League One 2021/22 - Top Goalscorer,Joe Pigott (Ipswich),-0.014099999999999998,0.0294,0.0435,3.35
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Harry Maguire,-0.014099999999999998,0.0244,0.0385,3.4
+League Two - England League Two 2021/22 - To Be Relegated,Harrogate Town,-0.014099999999999998,0.0294,0.0435,3.33
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Wolverhampton Wanderers,-0.014099999999999998,0.0244,0.0385,3.4
+Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Hertha BSC,-0.014099999999999998,0.0244,0.0385,3.37
+England Championship - England Championship 21/22 - Top 2 Finish,Middlesbrough,-0.014099999999999998,0.0244,0.0385,3.37
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Espanyol,-0.014099999999999998,0.0244,0.0385,3.38
+League One - England League One 2021/22 - Top Goalscorer,Lee Gregory (Sheff Wed),-0.014099999999999998,0.0294,0.0435,3.35
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Dual Forecast,Chelsea & Leicester,-0.014400000000000001,0.002,0.0164,3.4
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Raphale Varane,-0.014499999999999999,0.0149,0.0294,3.4
+NCAAF - 2021-2022 NCAA Championship Winner - Winner,Mississippi,-0.0145,0.0099,0.0244,3.17
+England Championship - England Championship 21/22 - Top 2 Finish,Barnsley,-0.0145,0.0099,0.0244,3.37
+NFL Futures - NFC East - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Giants/Eagles,-0.014900000000000004,0.0196,0.0345,3.15
+Serie B - Italy Serie B 2021/22 - Outright,Brescia,-0.015100000000000002,0.1667,0.1818,3.37
+Boxing Lines - Shannon Courtenay vs Jamie Mitchell - To Win the Bout,Shannon Courtenay,-0.015100000000000002,0.8182,0.8333,3.1
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Brighton & Hove Albion,-0.015100000000000002,0.1667,0.1818,3.4
+NFL Futures - NFC West - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st 49ers 2nd Seahawks,-0.015300000000000001,0.0323,0.0476,3.15
+Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hibernian,-0.015400000000000025,0.3846,0.4,3.35
+NFL Futures - AFC East - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Dolphins/Patriots,-0.0157,0.0278,0.0435,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Manchester United,-0.01649999999999996,0.7647,0.7812,3.4
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Manchester United,-0.016600000000000004,0.0667,0.0833,3.4
+Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Venezia,-0.016699999999999937,0.5833,0.6,3.38
+Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Ciro Immobile,-0.016699999999999993,0.25,0.2667,3.38
+NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Tampa Bay Buccaneers,-0.016699999999999993,0.25,0.2667,3.17
+NCAAF - 2021-2022 NCAA Championship Winner - Winner,Notre Dame,-0.017099999999999997,0.0123,0.0294,3.17
+League One - England League One 2021/22 - To Be Relegated,Fleetwood Town,-0.0174,0.2326,0.25,3.35
+MLB - 2021 American League Pennant - 2021 American League Winner,Chicago White Sox,-0.0174,0.2326,0.25,3.12
+NFL Futures - AFC North - Division Winner,Cincinnati Bengals,-0.01759999999999999,0.1,0.1176,3.15
+NBA Season Props - 2022 NBA Awards - 2022 Regular Season MVP,Stephen Curry,-0.01759999999999999,0.1,0.1176,3.23
+NFL Futures - NFC South - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Panthers 2nd Buccaneers,-0.01759999999999999,0.1,0.1176,3.15
+League One - England League One 2021/22 - Top 6 Finish,Ipswich Town,-0.017600000000000005,0.3333,0.3509,3.35
+Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Dundee United,-0.017800000000000003,0.0066,0.0244,3.35
+England Championship - England Championship 21/22 - Top 6 Finish,Huddersfield Town,-0.0179,0.125,0.1429,3.37
+Eliteserien - Norway Elitserien 2021 - Winner,Rosenborg,-0.0179,0.125,0.1429,3.37
+League Two - England League Two 2021/22 - Top 3 Finish,Tranmere Rovers,-0.0179,0.125,0.1429,3.33
+NFL Futures - NFC West - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Cardinals/49ers,-0.0179,0.125,0.1429,3.15
+WNBA Futures - 2021 WNBA Championship Winner - Outright,Connecticut Sun,-0.01809999999999995,0.339,0.3571,3.2
+NFL Futures - NFC West - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st 49ers 2nd Cardinals,-0.018099999999999998,0.0588,0.0769,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Newcastle United,-0.018099999999999998,0.0588,0.0769,3.4
+France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Lionel Messi,-0.018100000000000005,0.4167,0.4348,3.38
+NFL Futures - NFC Conference - NFC Conference 2021/22 - Winning Division,NFC West,-0.018100000000000005,0.4167,0.4348,3.15
+Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Aberdeen,-0.018199999999999994,0.8,0.8182,3.35
+England Championship - England Championship 21/22 - Top 6 Finish,Peterborough United,-0.018200000000000004,0.0294,0.0476,3.37
+Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Freiburg,-0.018200000000000004,0.0294,0.0476,3.37
+Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Lazio,-0.018200000000000004,0.0294,0.0476,3.38
+League One - England League One 2021/22 - Top Goalscorer,Luke Jephcott (Plymouth),-0.018200000000000004,0.0294,0.0476,3.35
+NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Los Angeles Rams,-0.01820000000000002,0.1818,0.2,3.17
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Newcastle United,-0.01820000000000002,0.1818,0.2,3.4
+France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Marseille,-0.01820000000000002,0.1818,0.2,3.38
+NFL Futures - NFC South - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Panthers 2nd Saints,-0.0189,0.0196,0.0385,3.15
+NFL Futures - NFC South - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Saints 2nd Panthers,-0.0189,0.0196,0.0385,3.15
+NFL Futures - AFC North - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Steelers 2nd Browns,-0.0189,0.0196,0.0385,3.15
+NFL Futures - AFC North - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Steelers 2nd Ravens,-0.0189,0.0196,0.0385,3.15
+League One - England League One 2021/22 - To Be Relegated,Crewe Alexandra,-0.018900000000000028,0.4255,0.4444,3.35
+MLS - MLS 2021 Futures - Top Goalscorer,Ola Kamara,-0.018900000000000028,0.4255,0.4444,3.37
+Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Dundee United,-0.018999999999999906,0.7143,0.7333,3.35
+League One - England League One 2021/22 - To Finish Bottom,Doncaster Rovers,-0.019000000000000017,0.2667,0.2857,3.35
+Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Sevilla,-0.019000000000000017,0.2667,0.2857,3.38
+England Championship - England Championship 21/22 - Top 2 Finish,Blackburn Rovers,-0.019099999999999992,0.0476,0.0667,3.37
+League Two - England League Two 2021/22 - To Be Promoted,Walsall,-0.019099999999999992,0.0476,0.0667,3.35
+MLS - MLS 2021 Futures - Top Goalscorer,Ricardo Pepi,-0.019099999999999992,0.0476,0.0667,3.37
+NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,New Orleans Saints,-0.019099999999999992,0.0476,0.0667,3.17
+League Two - England League Two 2021/22 - To Be Relegated,Newport County,-0.019099999999999992,0.0476,0.0667,3.33
+Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Dundee United,-0.019099999999999992,0.0476,0.0667,3.35
+NFL Futures - NFC South - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Falcons/Buccaneers,-0.019099999999999992,0.0476,0.0667,3.15
+League Two - England League Two 2021/22 - Outright,Exeter City,-0.019099999999999992,0.0476,0.0667,3.35
+NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,San Francisco 49ers,-0.019099999999999992,0.0476,0.0667,3.17
+2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Heidenheim,-0.019099999999999992,0.0476,0.0667,3.35
+Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Real Betis,-0.019099999999999995,0.0244,0.0435,3.38
+NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Denver Broncos,-0.019099999999999995,0.0244,0.0435,3.17
+NFL Futures - Super Bowl LVI Specials - Conference of Super Bowl winner will be?,AFC,-0.01970000000000005,0.5455,0.5652,3.15
+NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Carolina Panthers,-0.019800000000000005,0.0278,0.0476,3.17
+NFL Futures - NFC East - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Washington 2nd Eagles,-0.019800000000000005,0.0278,0.0476,3.15
+NFL Futures - NFC East - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Eagles 2nd Washington,-0.019800000000000005,0.0278,0.0476,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Wolverhampton Wanderers,-0.02020000000000001,0.0909,0.1111,3.4
+NBA Season Props - 2022 NBA Awards - 2022 The Defensive Player of the Year,Anthony Davis,-0.02020000000000001,0.0909,0.1111,3.23
+Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Sevilla,-0.02020000000000001,0.0909,0.1111,3.38
+NFL Futures - NFC West - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),49ers/Seahawks,-0.0208,0.0625,0.0833,3.15
+France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lyon,-0.021699999999999997,0.4545,0.4762,3.38
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Crystal Palace,-0.021999999999999964,0.2857,0.3077,3.4
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Everton,-0.021999999999999964,0.2857,0.3077,3.4
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Manchester United,-0.021999999999999964,0.2857,0.3077,3.38
+Boxing Lines - Keiron Conway vs James Metcalf - To Win the Bout,Keiron Conway,-0.02200000000000002,0.6923,0.7143,3.1
+NFL Futures - AFC East - Division Winner,Miami Dolphins,-0.022199999999999998,0.1111,0.1333,3.15
+Professional Baseball - NPB 2021 - Winner,Rakuten Golden Eagles,-0.022199999999999998,0.1111,0.1333,3.12
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Liverpool,-0.022199999999999998,0.2,0.2222,3.4
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Elche,-0.02260000000000001,0.3774,0.4,3.38
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New Orleans Saints 2021/22 Total Wins,Over 9.5,-0.022600000000000064,0.5122,0.5348,3.13
+League Two - England League Two 2021/22 - Top 3 Finish,Hartlepool United,-0.02310000000000001,0.0769,0.1,3.33
+England Championship - England Championship 21/22 - To Be Promoted,Middlesbrough,-0.02310000000000001,0.0769,0.1,3.37
+League Two - England League Two 2021/22 - To Be Promoted,Oldham Athletic,-0.023200000000000002,0.0244,0.0476,3.35
+NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tennessee Titans,-0.023200000000000002,0.0244,0.0476,3.17
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Brentford,-0.023200000000000002,0.0244,0.0476,3.4
+NFL Season Props - NFL 2021/22 - Specials - Proposition,Any Team to Go 17-0 in Regular Season,-0.0233,0.0152,0.0385,3.15
+England Championship - England Championship 21/22 - Top 6 Finish,Derby County,-0.0236,0.0149,0.0385,3.37
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Chargers 2021/22 Total Wins,Over 10.5,-0.023799999999999988,0.4762,0.5,3.13
+League One - England League One 2021/22 - Top 6 Finish,Milton Keynes Dons,-0.023799999999999988,0.4762,0.5,3.35
+NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Green Bay Packers,-0.023799999999999988,0.1429,0.1667,3.17
+Spain La Liga - Spain La Liga 2021/22 - Outright Winner,FC Barcelona,-0.023799999999999988,0.1429,0.1667,3.38
+League One - England League One 2021/22 - To Be Promoted,Ipswich Town,-0.023799999999999988,0.1429,0.1667,3.35
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Aston Villa,-0.023800000000000043,0.5,0.5238,3.4
+NFL Futures - AFC North - Division Winner,Pittsburgh Steelers,-0.024,0.0385,0.0625,3.15
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Osasuna,-0.0242,0.0667,0.0909,3.38
+Premiership - Scottish Premiership 2021/22 - To Finish Bottom,St. Mirren,-0.0242,0.0667,0.0909,3.35
+England Championship - England Championship 21/22 - To Be Promoted,Luton Town,-0.024299999999999995,0.0345,0.0588,3.37
+Boxing Lines - Tyson Fury vs Deontay Wilder - To Win the Bout,Tyson Fury,-0.02440000000000009,0.7403,0.7647,3.1
+Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Motherwell,-0.0245,0.0588,0.0833,3.35
+England Championship - England Championship 21/22 - Top 2 Finish,Sheffield United,-0.0245,0.0588,0.0833,3.37
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Dual Forecast,Chelsea & Manchester Utd,-0.024999999999999994,0.1,0.125,3.4
+CFL - Odds to win 2021 Grey Cup - Winner,British Columbia Lions,-0.025300000000000003,0.1176,0.1429,3.12
+League One - England League One 2021/22 - To Be Promoted,Sheffield Wednesday,-0.02560000000000001,0.3077,0.3333,3.35
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Under 11.5,-0.026499999999999968,0.5652,0.5917,3.13
+NFL Futures - AFC North - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Browns 2nd Steelers,-0.026499999999999996,0.0323,0.0588,3.15
+League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,-0.027700000000000058,0.5556,0.5833,3.35
+League One - England League One 2021/22 - To Be Promoted,Sunderland,-0.027700000000000058,0.5556,0.5833,3.35
+England Championship - England Championship 21/22 - Top 2 Finish,West Bromwich Albion,-0.027700000000000058,0.5556,0.5833,3.37
+NFL Futures - Super Bowl LVI Specials - Division of Super Bowl winner will be?,NFC West,-0.02779999999999999,0.2222,0.25,3.15
+League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,-0.02779999999999999,0.2222,0.25,3.35
+League Two - England League Two 2021/22 - Top 7 Finish,Hartlepool United,-0.02779999999999999,0.2222,0.25,3.33
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Dual Forecast,Manchester City & Tottenham,-0.028000000000000004,0.0196,0.0476,3.4
+Eliteserien - Norway Elitserien 2021 - Winner,Lillestrøm,-0.028000000000000004,0.0196,0.0476,3.37
+England Championship - England Championship 21/22 - To Be Promoted,Swansea City,-0.028199999999999996,0.0385,0.0667,3.37
+League Two - England League Two 2021/22 - Top 7 Finish,Oldham Athletic,-0.028199999999999996,0.0385,0.0667,3.33
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Arsenal,-0.028799999999999937,0.8333,0.8621,3.4
+League One - England League One 2021/22 - Top 2 Finish,Sunderland,-0.029000000000000026,0.4255,0.4545,3.35
+England Championship - England Championship 21/22 - Top Goalscorer,Karlan Ahearne-Grant (West Brom),-0.029299999999999993,0.0476,0.0769,3.37
+League Two - England League Two 2021/22 - Top 3 Finish,Bristol Rovers,-0.029299999999999993,0.0476,0.0769,3.33
+Premiership - Scottish Premiership 2021/22 - To Finish Bottom,St. Johnstone,-0.029299999999999993,0.0476,0.0769,3.35
+League Two - England League Two 2021/22 - To Be Relegated,Swindon Town,-0.029299999999999993,0.0476,0.0769,3.33
+Boxing Lines - Adam Kownacki vs Robert Heleniuis - To Win the Bout,Adam Kownacki,-0.029899999999999927,0.6923,0.7222,3.1
+League Two - England League Two 2021/22 - To Be Promoted,Leyton Orient,-0.030299999999999994,0.3333,0.3636,3.35
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Leicester City,-0.031200000000000006,0.75,0.7812,3.4
+Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,VfB Stuttgart,-0.031799999999999995,0.1111,0.1429,3.37
+Eredivisie - Eredivisie 2021/2022 - Outright,Feyenoord,-0.031799999999999995,0.1111,0.1429,3.33
+Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Victor Osimhen,-0.031799999999999995,0.1111,0.1429,3.38
+England Championship - England Championship 21/22 - Top 6 Finish,Swansea City,-0.031799999999999995,0.1111,0.1429,3.37
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Dual Forecast,Manchester City & Leicester,-0.0319,0.0066,0.0385,3.4
+Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Eintracht Frankfurt,-0.0321,0.0588,0.0909,3.37
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Watford,-0.0321,0.0588,0.0909,3.4
+Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Wolfsburg,-0.0321,0.0588,0.0909,3.38
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Denver Broncos,-0.0321,0.0588,0.0909,3.17
+Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Dusan Vlahovic,-0.0321,0.0588,0.0909,3.38
+League One - England League One 2021/22 - To Be Relegated,Doncaster Rovers,-0.032299999999999995,0.6552,0.6875,3.35
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Rams 2021/22 Total Wins,Under 11.5,-0.033299999999999996,0.5122,0.5455,3.13
+NFL Futures - AFC East - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Dolphins 2nd Bills,-0.033299999999999996,0.1,0.1333,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Dual Forecast,Liverpool & Manchester Utd,-0.03330000000000001,0.0667,0.1,3.4
+League One - England League One 2021/22 - Outright,Milton Keynes Dons,-0.03330000000000001,0.0667,0.1,3.35
+England Championship - England Championship 21/22 - Top 6 Finish,Preston North End,-0.03330000000000001,0.0667,0.1,3.37
+League Two - England League Two 2021/22 - To Be Promoted,Mansfield Town,-0.033300000000000024,0.1667,0.2,3.35
+League One - England League One 2021/22 - To Be Relegated,Accrington Stanley,-0.033300000000000024,0.1667,0.2,3.35
+League Two - England League Two 2021/22 - To Be Promoted,Tranmere Rovers,-0.033300000000000024,0.1667,0.2,3.35
+NFL Futures - NFC Conference - NFC Conference 2021/22 - Winning Division,NFC North,-0.033300000000000024,0.1667,0.2,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Southampton,-0.033300000000000024,0.1667,0.2,3.4
+MLS - MLS 2021 Futures - Top Goalscorer,Valentin Castellanos,-0.034100000000000005,0.0909,0.125,3.37
+League Two - England League Two 2021/22 - Top 7 Finish,Walsall,-0.034100000000000005,0.0909,0.125,3.33
+League Two - England League Two 2021/22 - Outright,Leyton Orient,-0.034100000000000005,0.0909,0.125,3.35
+NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Matthew Stafford,-0.03420000000000001,0.0769,0.1111,3.15
+Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Bologna,-0.03420000000000001,0.0769,0.1111,3.38
+Serie B - Italy Serie B 2021/22 - Outright,Monza,-0.03420000000000001,0.0769,0.1111,3.37
+League One - England League One 2021/22 - Outright,Sheffield Wednesday,-0.03420000000000001,0.0769,0.1111,3.35
+NFL Futures - AFC North - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Ravens 2nd Steelers,-0.03439999999999999,0.0323,0.0667,3.15
+NFL Futures - NFC North - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Packers 2nd Lions,-0.0344,0.0244,0.0588,3.15
+NFL Futures - AFC East - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Bills 2nd Dolphins,-0.0348,0.4,0.4348,3.15
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Philadelphia Eagles 2021/22 Total Wins,Over 6.5,-0.03600000000000003,0.4878,0.5238,3.13
+League Two - England League Two 2021/22 - Top 7 Finish,Northampton Town,-0.03640000000000004,0.3636,0.4,3.33
+NCAAF - 2021-2022 NCAA Championship Winner - Winner,Oregon,-0.0373,0.0294,0.0667,3.17
+England Championship - England Championship 21/22 - To Be Promoted,Cardiff City,-0.0373,0.0294,0.0667,3.37
+England Championship - England Championship 21/22 - To Be Promoted,Barnsley,-0.037700000000000004,0.0099,0.0476,3.37
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Tennessee Titans,-0.038299999999999994,0.0526,0.0909,3.17
+NFL Futures - NFC South - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Panthers/Saints,-0.0384,0.0385,0.0769,3.15
+NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Seattle Seahawks,-0.0384,0.0385,0.0769,3.17
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,West Ham United,-0.04040000000000002,0.1818,0.2222,3.4
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,West Ham United,-0.040999999999999925,0.6923,0.7333,3.4
+NBA Season Props - 2022 NBA Awards - 2022 The Defensive Player of the Year,Rudy Gobert,-0.04099999999999998,0.2222,0.2632,3.23
+League Two - England League Two 2021/22 - Top 3 Finish,Leyton Orient,-0.04099999999999998,0.2667,0.3077,3.33
+NFL Futures - NFC East - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Eagles/Washington,-0.04120000000000001,0.0588,0.1,3.15
+Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Mainz,-0.04120000000000001,0.0588,0.1,3.37
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Brentford,-0.04169999999999999,0.125,0.1667,3.4
+League Two - England League Two 2021/22 - To Be Relegated,Stevenage,-0.04169999999999999,0.125,0.1667,3.33
+Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Verona,-0.04169999999999999,0.125,0.1667,3.38
+Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Fiorentina,-0.04169999999999999,0.125,0.1667,3.38
+England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Kevin De Bruyne,-0.04169999999999999,0.125,0.1667,3.4
+NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,San Francisco 49ers,-0.0417,0.0833,0.125,3.17
+England Championship - England Championship 21/22 - To Be Promoted,Birmingham City,-0.04239999999999999,0.0345,0.0769,3.37
+NBA Season Props - 2022 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,-0.04240000000000001,0.0909,0.1333,3.23
+League Two - England League Two 2021/22 - Top 3 Finish,Mansfield Town,-0.04269999999999999,0.1111,0.1538,3.33
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,-0.042899999999999994,0.1,0.1429,3.4
+NFL Futures - NFC South - Division Winner,Carolina Panthers,-0.042899999999999994,0.1,0.1429,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Chelsea,-0.042899999999999994,0.1,0.1429,3.38
+NFL Futures - AFC North - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Browns/Steelers,-0.04329999999999999,0.0476,0.0909,3.15
+NFL Futures - NFC North - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Lions/Packers,-0.04360000000000001,0.0278,0.0714,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Watford,-0.044399999999999995,0.5556,0.6,3.4
+England Championship - England Championship 21/22 - Top 2 Finish,Fulham,-0.044399999999999995,0.5556,0.6,3.37
+NFL Futures - AFC South - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Jaguars/Titans,-0.04440000000000001,0.0556,0.1,3.15
+England Championship - England Championship 21/22 - Top 6 Finish,Middlesbrough,-0.044499999999999984,0.2222,0.2667,3.37
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Winning Division,AFC West,-0.045499999999999985,0.4545,0.5,3.17
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Over 8.5,-0.045499999999999985,0.4545,0.5,3.13
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Brentford,-0.04619999999999991,0.8,0.8462,3.4
+League Two - England League Two 2021/22 - Top 3 Finish,Northampton Town,-0.04620000000000002,0.1538,0.2,3.33
+NFL Futures - NFC South - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Saints 2nd Buccaneers,-0.04620000000000002,0.1538,0.2,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Brighton & Hove Albion,-0.04620000000000002,0.1538,0.2,3.4
+NFL Futures - AFC North - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Ravens/Steelers,-0.047400000000000005,0.0526,0.1,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Leeds United,-0.04760000000000009,0.6667,0.7143,3.4
+Italy Serie A - Italy Serie A 2021/2022 - Outright,Atalanta,-0.048100000000000004,0.0769,0.125,3.38
+League Two - England League Two 2021/22 - To Be Relegated,Sutton Utd,-0.048100000000000004,0.0769,0.125,3.33
+Brasileirao Série A - Campeonato Brasileiro Série A - 2021 - Outright,Palmeiras,-0.048100000000000004,0.0769,0.125,3.37
+NFL Season Props - NFL 2021/22 - Specials - Proposition,Any Team to Go 0-17 in Regular Season,-0.04849999999999999,0.1333,0.1818,3.15
+NFL Futures - AFC South - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Titans 2nd Texans,-0.04970000000000001,0.0556,0.1053,3.15
+Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Lazio,-0.04999999999999999,0.2,0.25,3.38
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without Man City,Manchester United,-0.04999999999999999,0.2,0.25,3.4
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,-0.04999999999999999,0.2,0.25,3.38
+League Two - England League Two 2021/22 - To Be Promoted,Northampton Town,-0.04999999999999999,0.2,0.25,3.35
+League One - England League One 2021/22 - Top 2 Finish,Sheffield Wednesday,-0.04999999999999999,0.2,0.25,3.35
+Premier League - Russia Premier League 2021/2022 - Outright,Zenit St. Petersburg,-0.050000000000000044,0.75,0.8,3.35
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,-0.0504,0.2353,0.2857,3.4
+League Two - England League Two 2021/22 - Top 7 Finish,Leyton Orient,-0.05059999999999998,0.5238,0.5744,3.33
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,-0.05070000000000002,0.4255,0.4762,3.38
+Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Hearts,-0.052000000000000005,0.0909,0.1429,3.35
+League Two - England League Two 2021/22 - To Be Relegated,Barrow FC,-0.052300000000000006,0.0588,0.1111,3.33
+Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Real Madrid,-0.05449999999999999,0.5455,0.6,3.38
+League One - England League One 2021/22 - Top 6 Finish,Sunderland,-0.055499999999999994,0.7778,0.8333,3.35
+NFL Futures - AFC West - Division Winner,Denver Broncos,-0.05550000000000002,0.1667,0.2222,3.15
+Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Atalanta,-0.05559999999999998,0.1111,0.1667,3.38
+NFL Futures - NFC East - Division Winner,Philadelphia Eagles,-0.05559999999999998,0.1111,0.1667,3.15
+Superligaen - Denmark Superligaen 2021/22 - Outright,FC Copenhagen,-0.05559999999999998,0.5,0.5556,3.33
+England Championship - England Championship 21/22 - Top 6 Finish,Birmingham City,-0.05559999999999998,0.1111,0.1667,3.37
+League Two - England League Two 2021/22 - To Be Promoted,Carlisle Utd,-0.05559999999999998,0.1111,0.1667,3.35
+League Two - England League Two 2021/22 - To Be Promoted,Colchester United,-0.05559999999999998,0.1111,0.1667,3.35
+League Two - England League Two 2021/22 - Top 7 Finish,Rochdale,-0.055900000000000005,0.3077,0.3636,3.33
+League Two - England League Two 2021/22 - Top 7 Finish,Tranmere Rovers,-0.055900000000000005,0.3077,0.3636,3.33
+League Two - England League Two 2021/22 - Top 3 Finish,Carlisle Utd,-0.056400000000000006,0.0769,0.1333,3.33
+NFL Futures - NFC North - Division Winner,Minnesota Vikings,-0.0567,0.1538,0.2105,3.15
+NFL Futures - NFC North - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Vikings 2nd Packers,-0.0567,0.1538,0.2105,3.15
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Carolina Panthers 2021/22 Total Wins,Over 8.5,-0.05689999999999995,0.5348,0.5917,3.13
+Serie B - Italy Serie B 2021/22 - Outright,Parma,-0.05710000000000001,0.1429,0.2,3.37
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Chicago Bears 2021/22 Total Wins,Under 5.5,-0.057699999999999974,0.4878,0.5455,3.13
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Newcastle United,-0.0595,0.5238,0.5833,3.4
+Brasileirao Série A - Campeonato Brasileiro Série A - 2021 - Outright,Flamengo,-0.05980000000000002,0.3846,0.4444,3.37
+NFL Futures - AFC South - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Titans 2nd Jaguars,-0.06180000000000001,0.0435,0.1053,3.15
+NFL Futures - AFC South - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Texans/Titans,-0.0619,0.0714,0.1333,3.15
+Italy Serie A - Italy Serie A 2021/2022 - To Finish Bottom,Salernitana,-0.06190000000000001,0.3636,0.4255,3.38
+NFL Futures - Super Bowl LVI Specials - Division of Super Bowl winner will be?,AFC West,-0.0635,0.2222,0.2857,3.15
+League Two - England League Two 2021/22 - Top 7 Finish,Colchester United,-0.0635,0.2222,0.2857,3.33
+Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,FC Köln,-0.0635,0.0476,0.1111,3.37
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Washington Football Team 2021/2 Total Wins,Under 7.5,-0.06520000000000004,0.5,0.5652,3.13
+Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Salernitana,-0.06659999999999999,0.6667,0.7333,3.38
+NFL Futures - NFC East - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Eagles 2nd Cowboys,-0.06669999999999998,0.1,0.1667,3.15
+NFL Futures - NFC East - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Cowboys 2nd Eagles,-0.06769999999999998,0.2353,0.303,3.15
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Under 7.5,-0.06789999999999996,0.5238,0.5917,3.13
+NFL Futures - NFC South - Division Winner,New Orleans Saints,-0.06840000000000002,0.1538,0.2222,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Dual Forecast,Manchester City & Manchester Utd ,-0.06860000000000002,0.1667,0.2353,3.4
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Leicester City,-0.0695,0.2941,0.3636,3.4
+MLB - 2021 National League Pennant - 2021 National League Winner,San Francisco Giants,-0.07039999999999999,0.2326,0.303,3.12
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Manchester United,-0.07509999999999997,0.2326,0.3077,3.4
+Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Motherwell,-0.07619999999999999,0.4,0.4762,3.35
+England Championship - England Championship 21/22 - Outright,West Bromwich Albion,-0.07789999999999997,0.2857,0.3636,3.37
+England Championship - England Championship 21/22 - Outright,Fulham,-0.07789999999999997,0.2857,0.3636,3.37
+France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Marseille,-0.07789999999999997,0.2857,0.3636,3.38
+Eredivisie - Eredivisie 2021/2022 - Outright,Ajax,-0.07809999999999995,0.6552,0.7333,3.33
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Seatle Seahawks 2021/22 Total Wins,Under 9.5,-0.08039999999999997,0.4651,0.5455,3.13
+Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Atalanta,-0.08330000000000004,0.5,0.5833,3.38
+NFL Futures - AFC South - Division Winner,Tennessee Titans,-0.08330000000000004,0.75,0.8333,3.15
+NFL Futures - NFC North - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Packers 2nd Vikings,-0.08410000000000006,0.5455,0.6296,3.15
+England Championship - England Championship 21/22 - Top 6 Finish,Barnsley,-0.0857,0.0476,0.1333,3.37
+NFL Futures - NFC North - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Packers/Vikings,-0.0857,0.7143,0.8,3.15
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Under 4.5,-0.08900000000000002,0.4762,0.5652,3.13
+Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Aberdeen,-0.0897,0.1429,0.2326,3.35
+League Two - England League Two 2021/22 - To Be Promoted,Bristol Rovers,-0.08979999999999999,0.0769,0.1667,3.35
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Under 5.5,-0.09049999999999997,0.4651,0.5556,3.13
+League Two - England League Two 2021/22 - Top 7 Finish,Mansfield Town,-0.09230000000000005,0.3077,0.4,3.33
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Wolverhampton Wanderers,-0.09619999999999995,0.75,0.8462,3.4
+England Championship - England Championship 21/22 - Top Goalscorer,Aleksandar Mitrovic (Fulham),-0.09830000000000005,0.4255,0.5238,3.37
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tennessee Titans 2021/22 Total Wins,Over 9.5,-0.09999999999999998,0.5,0.6,3.12
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Under 10.5,-0.10000000000000003,0.4348,0.5348,3.13
+NFL Futures - NFC West - Division Winner,Los Angeles Rams,-0.1058,0.3704,0.4762,3.15
+League Two - England League Two 2021/22 - Top 7 Finish,Carlisle Utd,-0.10769999999999996,0.2,0.3077,3.33
+NFL Futures - NFC West - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st 49ers 2nd Rams,-0.1079,0.0588,0.1667,3.15
+England Championship - England Championship 21/22 - Top 6 Finish,Cardiff City,-0.10910000000000002,0.0909,0.2,3.37
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Denver Broncos 2021/22 Total Wins,Over 10.5,-0.11069999999999997,0.4348,0.5455,3.13
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Miami Dolphins 2021/22 Total Wins,Over 8.5,-0.11069999999999997,0.4348,0.5455,3.13
+Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Wolfsburg,-0.11110000000000003,0.3333,0.4444,3.37
+NFL Futures - NFC East - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Cowboys/Eagles,-0.11110000000000003,0.3333,0.4444,3.15
+NFL Futures - NFC West - Division Winner,San Francisco 49ers,-0.1129,0.1538,0.2667,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Promoted Team,Norwich City,-0.11670000000000001,0.0833,0.2,3.4
+Allsvenskan - Allsvenskan 2021 - Winner,Malmö FF,-0.12380000000000002,0.4,0.5238,3.37
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tampa Bay Buccaneers 2021/22 Total Wins,Under 12.5,-0.12380000000000002,0.4,0.5238,3.13
+Veikkausliiga - Finland Veikkausliiga 2021 - Outright,HJK,-0.13649999999999995,0.5,0.6365,3.37
+England Championship - England Championship 21/22 - Top 6 Finish,Blackburn Rovers,-0.14139999999999997,0.2222,0.3636,3.37
+NFL Futures - NFC West - Straight Forecast (Pick 1st and 2nd Place in correct finishing order),1st Rams 2nd 49ers,-0.1453,0.0769,0.2222,3.15
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Promoted Team,Watford,-0.1515,0.1818,0.3333,3.4
+League Two - England League Two 2021/22 - Top 7 Finish,Bristol Rovers,-0.20829999999999999,0.125,0.3333,3.33
+NFL Futures - NFC West - Dual Forecast (Pick the two teams to finish 1st and 2nd in any order),Rams/49ers,-0.2275,0.1429,0.3704,3.15
+WNBA Futures - 2021 WNBA Championship Winner - Outright,Las Vegas Aces,-0.254,0.2222,0.4762,3.2
