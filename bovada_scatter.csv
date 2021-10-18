@@ -1,531 +1,114 @@
 title,description,Pct_Change,Implied_Probability,Prev_Probability,minutes_ago
-England Championship - England Championship 21/22 - Top Half Finish,Nottingham Forest,0.2955,0.5455,0.25,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Mohamed Salah,0.22069999999999998,0.3636,0.1429,3.57
-Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Aberdeen,0.20950000000000002,0.4762,0.2667,3.57
-England Championship - England Championship 21/22 - Top Half Finish,Luton Town,0.18329999999999996,0.6,0.4167,3.57
-NFL Futures - AFC North - Division Winner,Baltimore Ravens,0.16880000000000006,0.7143,0.5455,3.62
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Manchester United,0.1587,0.4444,0.2857,3.57
-MLB - 2021 World Series - 2021 World Series - Winner,Atlanta Braves,0.1559,0.3226,0.1667,3.62
-England Championship - England Championship 21/22 - Top Half Finish,Blackpool,0.15089999999999998,0.3509,0.2,3.57
-England Championship - England Championship 21/22 - Top 2 Finish,Bournemouth,0.14549999999999996,0.5455,0.4,3.57
-Superettan - Sweden Superettan 2021 - Outright,IFK Värnamo,0.14480000000000004,0.8,0.6552,3.55
-England Championship - England Championship 21/22 - Top Goalscorer,Aleksandar Mitrovic (Fulham),0.12879999999999997,0.5455,0.4167,3.57
-England Championship - England Championship 21/22 - Top Half Finish,Reading,0.12869999999999998,0.3509,0.2222,3.57
-League One - England League One 2021/22 - To Be Promoted,Rotherham Utd,0.12530000000000002,0.4762,0.3509,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Tottenham Hotspur,0.12379999999999997,0.6,0.4762,3.57
-Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Ross County,0.1154,0.5,0.3846,3.57
-Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Dundee United,0.11260000000000003,0.4762,0.3636,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Leeds United,0.11110000000000009,0.7778,0.6667,3.57
-League Two - England League Two 2021/22 - To Be Relegated,Scunthorpe United,0.10899999999999999,0.6923,0.5833,3.55
-Premiership - Scottish Premiership 2021/22 - Top 6 Finish,St. Mirren,0.10769999999999996,0.3077,0.2,3.57
-League Two - England League Two 2021/22 - Top 7 Finish,Port Vale,0.10109999999999997,0.5455,0.4444,3.55
-France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lyon,0.10109999999999997,0.5556,0.4545,3.57
-Allsvenskan - Allsvenskan 2021 - Winner,Malmö FF,0.09999999999999998,0.5,0.4,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Everton,0.09889999999999999,0.3846,0.2857,3.57
-Premiership - Scottish Premiership 2021/22 - Outright,Celtic,0.09889999999999999,0.3846,0.2857,3.57
-France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Marseille,0.09889999999999999,0.3846,0.2857,3.57
-League Two - England League Two 2021/22 - Top 7 Finish,Sutton Utd,0.09230000000000005,0.4,0.3077,3.55
-MLB - 2021 World Series - 2021 World Series - Winner,Boston Red Sox,0.0889,0.2222,0.1333,3.62
-NFL Futures - AFC West - Division Winner,Kansas City Chiefs,0.08779999999999999,0.4878,0.4,3.62
-League Two - England League Two 2021/22 - To Be Promoted,Port Vale,0.08329999999999999,0.3333,0.25,3.55
-England Championship - England Championship 21/22 - To Be Promoted,Bournemouth,0.08079999999999998,0.6364,0.5556,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Tottenham Hotspur,0.07930000000000001,0.2222,0.1429,3.57
-League One - England League One 2021/22 - Top 6 Finish,Sunderland,0.07929999999999993,0.8571,0.7778,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Leicester City,0.07789999999999997,0.3636,0.2857,3.57
-France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lyon,0.07789999999999997,0.3636,0.2857,3.57
-NFL Futures - NFC West - Division Winner,Arizona Cardinals,0.07740000000000002,0.5652,0.4878,3.62
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Wolverhampton Wanderers,0.07690000000000002,0.3846,0.3077,3.57
-League Two - England League Two 2021/22 - Top 7 Finish,Tranmere Rovers,0.07690000000000002,0.3846,0.3077,3.55
-NFL Futures - NFC North - Division Winner,Green Bay Packers,0.07499999999999996,0.875,0.8,3.62
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Southampton,0.07499999999999996,0.875,0.8,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Liverpool,0.07450000000000001,0.5,0.4255,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Aston Villa,0.07189999999999996,0.6552,0.5833,3.57
-England Championship - England Championship 21/22 - Top 6 Finish,Luton Town,0.07069999999999999,0.1818,0.1111,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Leicester City,0.0695,0.3636,0.2941,3.57
-Professional Baseball - NPB 2021 - Winner,Chiba Lotte Marines,0.06860000000000002,0.2353,0.1667,3.62
-England Championship - England Championship 21/22 - Top 2 Finish,West Bromwich Albion,0.06700000000000006,0.6226,0.5556,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without Man City,Liverpool,0.06670000000000004,0.4,0.3333,3.57
-League Two - England League Two 2021/22 - Top 3 Finish,Port Vale,0.06669999999999998,0.2667,0.2,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Watford,0.06669999999999998,0.6667,0.6,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Brentford,0.06659999999999999,0.3333,0.2667,3.57
-League One - England League One 2021/22 - Top 6 Finish,Plymouth Argyle,0.06659999999999999,0.3333,0.2667,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Mohamed Salah,0.06659999999999999,0.3333,0.2667,3.57
-Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Salernitana,0.06659999999999999,0.7333,0.6667,3.57
-League Two - England League Two 2021/22 - Outright,Forest Green Rovers,0.06659999999999999,0.3333,0.2667,3.55
-Italy Serie A - Italy Serie A 2021/2022 - Outright,Napoli,0.06659999999999999,0.3333,0.2667,3.57
-England Championship - England Championship 21/22 - Top Half Finish,Stoke City,0.06600000000000006,0.9231,0.8571,3.57
-NFL Futures - NFC East - Division Winner,Dallas Cowboys,0.06290000000000007,0.9091,0.8462,3.62
-League One - England League One 2021/22 - Top 6 Finish,Rotherham Utd,0.06269999999999998,0.6923,0.6296,3.55
-League Two - England League Two 2021/22 - To Be Promoted,Forest Green Rovers,0.061999999999999944,0.6364,0.5744,3.55
-Italy Serie A - Italy Serie A 2021/2022 - To Finish Bottom,Salernitana,0.06190000000000001,0.4255,0.3636,3.57
-League Two - England League Two 2021/22 - Top 3 Finish,Forest Green Rovers,0.059799999999999964,0.6154,0.5556,3.55
-2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,St. Pauli,0.058300000000000005,0.125,0.0667,3.55
-Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Borussia Dortmund,0.057699999999999974,0.75,0.6923,3.57
-England Championship - England Championship 21/22 - Outright,Bournemouth,0.057699999999999974,0.3077,0.25,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,West Ham United,0.057699999999999974,0.75,0.6923,3.57
-League One - England League One 2021/22 - To Finish Bottom,Crewe Alexandra,0.05710000000000001,0.2,0.1429,3.55
-England Championship - England Championship 21/22 - Top Half Finish,Sheffield United,0.05709999999999993,0.8571,0.8,3.57
-England Championship - England Championship 21/22 - Top Half Finish,Swansea City,0.055900000000000005,0.3636,0.3077,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Tottenham Hotspur,0.05559999999999998,0.8889,0.8333,3.57
-Eliteserien - Norway Elitserien 2021 - Winner,Bodø/Glimt,0.05559999999999998,0.5,0.4444,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Brighton & Hove Albion,0.05559999999999998,0.5,0.4444,3.57
-League Two - England League Two 2021/22 - To Be Promoted,Tranmere Rovers,0.05550000000000002,0.2222,0.1667,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Watford,0.05550000000000002,0.2222,0.1667,3.57
-Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Motherwell,0.05449999999999999,0.4545,0.4,3.57
-England Championship - England Championship 21/22 - Top 6 Finish,Bournemouth,0.05230000000000001,0.9412,0.8889,3.57
-Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Dundee United,0.052199999999999996,0.0588,0.0066,3.57
-League One - England League One 2021/22 - To Be Relegated,Gillingham,0.05070000000000002,0.4762,0.4255,3.55
-League One - England League One 2021/22 - To Be Promoted,Wigan Athletic,0.05070000000000002,0.4762,0.4255,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Leicester City,0.050000000000000044,0.8,0.75,3.57
-Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Lazio,0.04999999999999999,0.25,0.2,3.57
-League One - England League One 2021/22 - Top 2 Finish,Wigan Athletic,0.04910000000000003,0.4,0.3509,3.55
-NFL Futures - AFC West - Division Winner,Las Vegas Raiders,0.048100000000000004,0.125,0.0769,3.62
-League One - England League One 2021/22 - To Be Relegated,Crewe Alexandra,0.04760000000000003,0.5238,0.4762,3.55
-Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Levante,0.047599999999999976,0.3333,0.2857,3.57
-England Championship - England Championship 21/22 - Outright,West Bromwich Albion,0.047599999999999976,0.3333,0.2857,3.57
-England Championship - England Championship 21/22 - Top Half Finish,Millwall,0.045499999999999985,0.5455,0.5,3.57
-England Championship - England Championship 21/22 - Top 6 Finish,Blackburn Rovers,0.044499999999999984,0.2667,0.2222,3.57
-Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Memphis Depay,0.04440000000000001,0.1111,0.0667,3.57
-England Championship - England Championship 21/22 - Top 6 Finish,Sheffield United,0.044399999999999995,0.4444,0.4,3.57
-England Championship - England Championship 21/22 - Top 2 Finish,Fulham,0.044399999999999995,0.6,0.5556,3.57
-Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Karim Benzema,0.04409999999999992,0.6667,0.6226,3.57
-England Championship - England Championship 21/22 - Top 6 Finish,Fulham,0.043300000000000005,0.9524,0.9091,3.57
-England Championship - England Championship 21/22 - Top 6 Finish,West Bromwich Albion,0.043300000000000005,0.9524,0.9091,3.57
-League Two - England League Two 2021/22 - Top Goalscorer,Matt Jay (Exeter),0.0417,0.125,0.0833,3.55
-NFL Futures - NFC South - Division Winner,Tampa Bay Buccaneers,0.04169999999999996,0.875,0.8333,3.62
-League One - England League One 2021/22 - To Finish Bottom,Doncaster Rovers,0.04099999999999998,0.3077,0.2667,3.55
-League Two - England League Two 2021/22 - To Be Promoted,Sutton Utd,0.04040000000000002,0.2222,0.1818,3.55
-League One - England League One 2021/22 - Outright,Wigan Athletic,0.04040000000000002,0.2222,0.1818,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,West Ham United,0.04040000000000002,0.2222,0.1818,3.57
-League Two - England League Two 2021/22 - Top 7 Finish,Northampton Town,0.0398,0.3846,0.3448,3.55
-League Two - England League Two 2021/22 - Top 3 Finish,Sutton Utd,0.03889999999999999,0.1818,0.1429,3.55
-Spain La Liga - Spain La Liga 2021/22 - Outright Winner,FC Barcelona,0.03889999999999999,0.1818,0.1429,3.57
-Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Union Berlin,0.03889999999999999,0.1818,0.1429,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without Man City,Chelsea,0.037800000000000056,0.5833,0.5455,3.57
-Eredivisie - Eredivisie 2021/2022 - Outright,PSV Eindhoven,0.03710000000000002,0.3448,0.3077,3.55
-League One - England League One 2021/22 - To Be Relegated,Doncaster Rovers,0.03710000000000002,0.6923,0.6552,3.55
-NFL Futures - AFC South - Division Winner,Indianapolis Colts,0.03570000000000001,0.2857,0.25,3.62
-Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Ciro Immobile,0.03570000000000001,0.2857,0.25,3.57
-League One - England League One 2021/22 - Top 6 Finish,Wigan Athletic,0.035699999999999954,0.75,0.7143,3.55
-NFL Futures - AFC East - Division Winner,Buffalo Bills,0.034399999999999986,0.9756,0.9412,3.62
-NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Arizona Cardinals,0.03420000000000001,0.1111,0.0769,3.62
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Leicester City,0.03420000000000001,0.1111,0.0769,3.57
-Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Sevilla,0.034100000000000005,0.125,0.0909,3.57
-League One - England League One 2021/22 - Top 2 Finish,Plymouth Argyle,0.03330000000000001,0.1,0.0667,3.55
-League Two - England League Two 2021/22 - Top 7 Finish,Forest Green Rovers,0.033299999999999996,0.8333,0.8,3.55
-Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Ross County,0.03279999999999994,0.9852,0.9524,3.57
-England Championship - England Championship 21/22 - To Be Promoted,Luton Town,0.03219999999999999,0.0667,0.0345,3.57
-League Two - England League Two 2021/22 - Outright,Port Vale,0.0321,0.0909,0.0588,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Jamie Vardy,0.0321,0.0909,0.0588,3.57
-England Championship - England Championship 21/22 - Top Half Finish,Coventry City,0.03180000000000005,0.8889,0.8571,3.57
-League Two - England League Two 2021/22 - To Be Relegated,Carlisle Utd,0.031799999999999995,0.1429,0.1111,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,0.03179999999999994,0.5556,0.5238,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,0.031399999999999983,0.2667,0.2353,3.57
-League One - England League One 2021/22 - To Be Promoted,Wycombe,0.030299999999999994,0.3636,0.3333,3.55
-Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Napoli,0.029900000000000038,0.8,0.7701,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Aston Villa,0.029299999999999993,0.0769,0.0476,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Chelsea,0.029299999999999993,0.9524,0.9231,3.57
-League One - England League One 2021/22 - Top 2 Finish,Sunderland,0.029000000000000026,0.4545,0.4255,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,0.028799999999999992,0.1538,0.125,3.57
-League Two - England League Two 2021/22 - Top 3 Finish,Tranmere Rovers,0.028799999999999992,0.1538,0.125,3.55
-England Championship - England Championship 21/22 - Top 6 Finish,Huddersfield Town,0.028799999999999992,0.1538,0.125,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Southampton,0.027999999999999997,0.1818,0.1538,3.57
-Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,St. Johnstone,0.027800000000000047,0.7778,0.75,3.57
-Italy Serie A - Italy Serie A 2021/2022 - Outright,Juventus,0.02779999999999999,0.25,0.2222,3.57
-League One - England League One 2021/22 - To Be Promoted,Sunderland,0.027700000000000058,0.5833,0.5556,3.55
-A1 - Greece A1 2021/22 - Outright,Olympiacos,0.025999999999999912,0.7403,0.7143,3.57
-League One - England League One 2021/22 - Outright,Sunderland,0.02560000000000001,0.3333,0.3077,3.55
-League One - England League One 2021/22 - To Finish Bottom,Gillingham,0.024999999999999994,0.125,0.1,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Newcastle United,0.024999999999999994,0.125,0.1,3.57
-CFL - Odds to win 2021 Grey Cup - Winner,Calgary Stampeders,0.024999999999999994,0.125,0.1,3.62
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,West Ham United,0.0242,0.0909,0.0667,3.57
-England Championship - England Championship 21/22 - Top Half Finish,Huddersfield Town,0.023800000000000043,0.5238,0.5,3.57
-Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Atalanta,0.023800000000000043,0.5238,0.5,3.57
-League Two - England League Two 2021/22 - Top 3 Finish,Northampton Town,0.023799999999999988,0.1667,0.1429,3.55
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Espanyol,0.023200000000000002,0.0476,0.0244,3.57
-Italy Serie A - Italy Serie A 2021/2022 - Outright,Atalanta,0.02310000000000001,0.1,0.0769,3.57
-League Two - England League Two 2021/22 - To Be Relegated,Mansfield Town,0.02310000000000001,0.1,0.0769,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Liverpool,0.02310000000000001,0.9231,0.9,3.57
-England Championship - England Championship 21/22 - Top Half Finish,Middlesbrough,0.022600000000000064,0.6226,0.6,3.57
-Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Elche,0.02260000000000001,0.4,0.3774,3.57
-Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Greuther Fürth,0.022199999999999998,0.8,0.7778,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Crystal Palace,0.022199999999999998,0.8,0.7778,3.57
-Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,0.022199999999999998,0.2222,0.2,3.57
-Serie B - Italy Serie B 2021/22 - Outright,Lecce,0.022199999999999998,0.2222,0.2,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Liverpool,0.022199999999999998,0.2222,0.2,3.57
-England Championship - England Championship 21/22 - Outright,Fulham,0.021999999999999964,0.3077,0.2857,3.57
-England Championship - England Championship 21/22 - Top 6 Finish,Coventry City,0.021699999999999997,0.4762,0.4545,3.57
-Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hearts,0.021699999999999997,0.4762,0.4545,3.57
-League Two - England League Two 2021/22 - Top 7 Finish,Salford City,0.021699999999999997,0.4762,0.4545,3.55
-League One - England League One 2021/22 - Top 6 Finish,Wycombe,0.02100000000000002,0.6364,0.6154,3.55
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Sevilla,0.02100000000000002,0.6364,0.6154,3.57
-Germany Bundesliga - German Bundesliga 2021/22 - Outright,Borussia Dortmund,0.02049999999999999,0.1538,0.1333,3.57
-MLS - MLS 2021 Futures - MLS Cup Winner,Orlando City,0.0203,0.0588,0.0385,3.57
-MLS - MLS 2021 Futures - MLS Cup Winner,Atlanta United,0.0203,0.0588,0.0385,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Brentford,0.0203,0.0588,0.0385,3.57
-Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Borussia Dortmund,0.020299999999999985,0.9615,0.9412,3.57
-Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Hibernian,0.02020000000000001,0.1111,0.0909,3.57
-England Championship - England Championship 21/22 - Top 6 Finish,Reading,0.02020000000000001,0.1111,0.0909,3.57
-Germany Bundesliga - German Bundesliga 2021/22 - Outright,Bayern Munich,0.020199999999999996,0.9091,0.8889,3.57
-NCAAF - 2021-2022 NCAA Championship Winner - Winner,Georgia,0.019699999999999995,0.4545,0.4348,3.62
-Allsvenskan - Allsvenskan 2021 - Winner,Djurgarden,0.019699999999999995,0.4545,0.4348,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Brentford,0.019100000000000006,0.9524,0.9333,3.57
-England Championship - England Championship 21/22 - To Be Promoted,Huddersfield Town,0.019099999999999992,0.0667,0.0476,3.57
-League Two - England League Two 2021/22 - Top Goalscorer,Jack Muldoon (Harrogate Town),0.019099999999999992,0.0667,0.0476,3.55
-League One - England League One 2021/22 - Top 2 Finish,Rotherham Utd,0.019000000000000017,0.2857,0.2667,3.55
-France Ligue 1 - France Ligue 1 2021/2022 - Outright,Paris Saint-Germain,0.018900000000000028,0.9804,0.9615,3.57
-MLS - MLS 2021 Futures - Top Goalscorer,Damir Kreilach,0.0189,0.0385,0.0196,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Southampton,0.0189,0.0385,0.0196,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Leeds United,0.0189,0.0385,0.0196,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Bernardo Silva,0.0189,0.0385,0.0196,3.57
-Brasileirao Série A - Campeonato Brasileiro Série A - 2021 - Outright,Atlético Mineiro,0.01880000000000004,0.6552,0.6364,3.57
-Professional Baseball - NPB 2021 - Winner,Hiroshima Toyo Carp,0.0183,0.0196,0.0013,3.62
-France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Marseille,0.01820000000000002,0.2,0.1818,3.57
-MLS - MLS 2021 Futures - MLS Cup Winner,LA Galaxy,0.018200000000000004,0.0476,0.0294,3.57
-France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Rennes,0.018099999999999998,0.0769,0.0588,3.57
-Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Freiburg,0.018099999999999998,0.0769,0.0588,3.57
-League One - England League One 2021/22 - To Be Relegated,Bolton Wanderers,0.018099999999999998,0.0769,0.0588,3.55
-England Championship - England Championship 21/22 - Top 2 Finish,Sheffield United,0.018099999999999998,0.0769,0.0588,3.57
-NCAAF - 2021-2022 NCAA Championship Winner - Winner,Oklahoma,0.018099999999999998,0.0769,0.0588,3.62
-League One - England League One 2021/22 - Top 6 Finish,Burton Albion,0.0179,0.1429,0.125,3.55
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Betis,0.0179,0.1429,0.125,3.57
-League One - England League One 2021/22 - To Be Promoted,Ipswich Town,0.0179,0.1429,0.125,3.55
-League One - England League One 2021/22 - Outright,Rotherham Utd,0.0179,0.1429,0.125,3.55
-League Two - England League Two 2021/22 - To Be Relegated,Stevenage,0.0179,0.1429,0.125,3.55
-Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Genoa,0.017600000000000005,0.3509,0.3333,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Chelsea,0.01759999999999995,0.6667,0.6491,3.57
-NFL Futures - AFC North - Division Winner,Cincinnati Bengals,0.016700000000000007,0.1,0.0833,3.62
-Italy Serie A - Italy Serie A 2021/2022 - To Finish Bottom,Venezia,0.016699999999999993,0.2667,0.25,3.57
-League One - England League One 2021/22 - To Be Relegated,Morecambe,0.016699999999999993,0.4167,0.4,3.55
-Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Venezia,0.016699999999999937,0.6,0.5833,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Everton,0.016599999999999948,0.997,0.9804,3.57
-Germany Bundesliga - German Bundesliga 2021/22 - Top Goalscorer,Erling Haaland,0.015400000000000025,0.4,0.3846,3.57
-Superligaen - Denmark Superligaen 2021/22 - Outright,FC Midtjylland,0.01539999999999997,0.6154,0.6,3.55
-League Two - England League Two 2021/22 - Outright,Sutton Utd,0.015300000000000001,0.0588,0.0435,3.55
-League One - England League One 2021/22 - To Be Relegated,Accrington Stanley,0.015100000000000002,0.1818,0.1667,3.55
-Italy Serie A - Italy Serie A 2021/2022 - Outright,AC Milan,0.015100000000000002,0.1818,0.1667,3.57
-NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Baltimore Ravens,0.015100000000000002,0.1818,0.1667,3.62
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Watford,0.014499999999999957,0.9901,0.9756,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Wolverhampton Wanderers,0.014100000000000001,0.9615,0.9474,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Wolverhampton Wanderers,0.014100000000000001,0.0526,0.0385,3.57
-Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Sergio Aguero,0.014099999999999998,0.0385,0.0244,3.57
-NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Baltimore Ravens,0.013999999999999999,0.0909,0.0769,3.62
-2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Karlsruher,0.013999999999999999,0.0909,0.0769,3.55
-Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Duvan Zapata,0.013999999999999999,0.0909,0.0769,3.57
-Premier League - Russia Premier League 2021/2022 - Outright,CSKA Moscow,0.013999999999999999,0.0909,0.0769,3.55
-NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Dallas Cowboys,0.013999999999999999,0.0909,0.0769,3.62
-Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Celta de Vigo,0.013899999999999996,0.125,0.1111,3.57
-League One - England League One 2021/22 - To Be Promoted,Bolton Wanderers,0.013899999999999996,0.125,0.1111,3.55
-League One - England League One 2021/22 - To Be Promoted,Plymouth Argyle,0.013899999999999996,0.125,0.1111,3.55
-Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Cádiz,0.013799999999999923,0.6364,0.6226,3.57
-Serie B - Italy Serie B 2021/22 - Outright,SPAL,0.0131,0.0476,0.0345,3.57
-NCAAF - 2021-2022 NCAA Championship Winner - Winner,Cincinnati,0.0131,0.0476,0.0345,3.62
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Burnley,0.012899999999999995,0.1667,0.1538,3.57
-NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Arizona Cardinals,0.012899999999999995,0.1667,0.1538,3.62
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Arsenal,0.0116,0.4878,0.4762,3.57
-Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,RB Leipzig,0.011499999999999955,0.6667,0.6552,3.57
-Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AC Milan,0.011499999999999955,0.6667,0.6552,3.57
-Premiership - Scottish Premiership 2021/22 - To Finish Bottom,St. Johnstone,0.011199999999999995,0.0588,0.0476,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Wolverhampton Wanderers,0.011199999999999995,0.0588,0.0476,3.57
-Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,FC Köln,0.011199999999999995,0.0588,0.0476,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Brentford,0.011199999999999995,0.0588,0.0476,3.57
-NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Tampa Bay Buccaneers,0.011099999999999999,0.2778,0.2667,3.62
-Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Rayo Vallecano,0.011099999999999999,0.1111,0.1,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Arsenal,0.010899999999999993,0.1538,0.1429,3.57
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Athletic Bilbao,0.010899999999999993,0.1538,0.1429,3.57
-England Championship - England Championship 21/22 - Top 6 Finish,Nottingham Forest,0.010899999999999993,0.1538,0.1429,3.57
-Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Hoffenheim,0.0102,0.0769,0.0667,3.57
-League One - England League One 2021/22 - To Be Promoted,Lincoln City,0.0102,0.0769,0.0667,3.55
-Eliteserien - Norway Elitserien 2021 - Winner,Molde,0.010099999999999998,0.4545,0.4444,3.57
-England Championship - England Championship 21/22 - To Be Promoted,Birmingham City,-0.010100000000000001,0.0244,0.0345,3.57
-England Championship - England Championship 21/22 - Top 2 Finish,Nottingham Forest,-0.010100000000000001,0.0244,0.0345,3.57
-Serie B - Italy Serie B 2021/22 - Outright,Frosinone,-0.0102,0.0667,0.0769,3.57
-League Two - England League Two 2021/22 - To Be Relegated,Rochdale,-0.0102,0.0667,0.0769,3.55
-League One - England League One 2021/22 - Top 2 Finish,Ipswich Town,-0.0102,0.0667,0.0769,3.55
-2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Fortuna Düsseldorf,-0.0102,0.0667,0.0769,3.55
-England Championship - England Championship 21/22 - To Be Promoted,Middlesbrough,-0.0102,0.0667,0.0769,3.57
-NFL Futures - AFC South - Division Winner,Tennessee Titans,-0.010400000000000076,0.8078,0.8182,3.62
-Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,VfB Stuttgart,-0.011099999999999999,0.1,0.1111,3.57
-CFL - Odds to win 2021 Grey Cup - Winner,British Columbia Lions,-0.011099999999999999,0.1,0.1111,3.62
-Professional Baseball - NPB 2021 - Winner,Rakuten Golden Eagles,-0.011099999999999999,0.1,0.1111,3.62
-League One - England League One 2021/22 - Top 6 Finish,Charlton Athletic,-0.011099999999999999,0.1,0.1111,3.55
-2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Hamburger SV,-0.011099999999999999,0.1,0.1111,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Burnley,-0.011199999999999995,0.0476,0.0588,3.57
-NFL Futures - NFC South - Division Winner,Carolina Panthers,-0.011199999999999995,0.0476,0.0588,3.62
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Valencia,-0.011199999999999995,0.0476,0.0588,3.57
-League One - England League One 2021/22 - Outright,Oxford United,-0.011199999999999995,0.0476,0.0588,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Brighton & Hove Albion,-0.011199999999999995,0.0476,0.0588,3.57
-England Championship - England Championship 21/22 - To Be Promoted,Nottingham Forest,-0.011199999999999995,0.0476,0.0588,3.57
-Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Motherwell,-0.011199999999999995,0.0476,0.0588,3.57
-Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Wolfsburg,-0.011199999999999995,0.0476,0.0588,3.57
-Japan B League - Japan League B1 2021/22 - Outright,Toyama Grouses,-0.012100000000000001,0.0123,0.0244,3.57
-League One - England League One 2021/22 - To Be Promoted,Crewe Alexandra,-0.012100000000000001,0.0123,0.0244,3.55
-League One - England League One 2021/22 - To Be Promoted,Gillingham,-0.012100000000000001,0.0123,0.0244,3.55
-NFL Futures - NFC South - Division Winner,New Orleans Saints,-0.012899999999999995,0.1538,0.1667,3.62
-Serie B - Italy Serie B 2021/22 - Outright,Brescia,-0.012899999999999995,0.1538,0.1667,3.57
-Eliteserien - Norway Elitserien 2021 - Winner,Lillestrøm,-0.013,0.0066,0.0196,3.57
-England Championship - England Championship 21/22 - Top 2 Finish,Birmingham City,-0.013,0.0066,0.0196,3.57
-England Championship - England Championship 21/22 - To Be Promoted,Hull City,-0.013,0.0066,0.0196,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Patrick Bamford,-0.013,0.0066,0.0196,3.57
-Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Luis Suarez,-0.013899999999999996,0.1111,0.125,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Crystal Palace,-0.013899999999999996,0.1111,0.125,3.57
-League Two - England League Two 2021/22 - To Be Promoted,Barrow FC,-0.013899999999999996,0.1111,0.125,3.55
-League Two - England League Two 2021/22 - To Be Promoted,Hartlepool United,-0.013899999999999996,0.1111,0.125,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Southampton,-0.013900000000000023,0.875,0.8889,3.57
-England Championship - England Championship 21/22 - Top 6 Finish,Cardiff City,-0.013999999999999999,0.0769,0.0909,3.57
-League One - England League One 2021/22 - Top 6 Finish,AFC Wimbledon,-0.013999999999999999,0.0769,0.0909,3.55
-League Two - England League Two 2021/22 - Outright,Leyton Orient,-0.013999999999999999,0.0769,0.0909,3.55
-League Two - England League Two 2021/22 - Top 3 Finish,Barrow FC,-0.013999999999999999,0.0769,0.0909,3.55
-League Two - England League Two 2021/22 - Top 3 Finish,Hartlepool United,-0.013999999999999999,0.0769,0.0909,3.55
-MLS - MLS 2021 Futures - MLS Cup Winner,Nashville SC,-0.013999999999999999,0.0769,0.0909,3.57
-Italy Serie A - Italy Serie A 2021/2022 - Outright,AS Roma,-0.013999999999999999,0.0769,0.0909,3.57
-Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Hearts,-0.013999999999999999,0.0769,0.0909,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Manchester City,-0.014099999999999994,0.0526,0.0667,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Leeds United,-0.014099999999999994,0.0526,0.0667,3.57
-League One - England League One 2021/22 - Top 6 Finish,Gillingham,-0.014099999999999998,0.0244,0.0385,3.55
-NFL Futures - AFC East - Division Winner,Miami Dolphins,-0.014099999999999998,0.0244,0.0385,3.62
-Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Sassuolo,-0.014099999999999998,0.0244,0.0385,3.57
-Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Youssef En-Nesyri,-0.014099999999999998,0.0294,0.0435,3.57
-France Ligue 1 - France Ligue 1 2021/2022 - Outright,Monaco,-0.014099999999999998,0.0294,0.0435,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Watford,-0.014100000000000001,0.0385,0.0526,3.57
-England Championship - England Championship 21/22 - Outright,Blackburn Rovers,-0.014499999999999999,0.0149,0.0294,3.57
-England Championship - England Championship 21/22 - Top Goalscorer,Rhian Brewster (Sheff Utd),-0.014499999999999999,0.0149,0.0294,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Fabinho,-0.014499999999999999,0.0149,0.0294,3.57
-England Championship - England Championship 21/22 - Top Goalscorer,Jamal Lowe (Swansea),-0.0145,0.0099,0.0244,3.57
-England Championship - England Championship 21/22 - Top 2 Finish,Swansea City,-0.014599999999999998,0.005,0.0196,3.57
-Serie B - Italy Serie B 2021/22 - Outright,Benevento,-0.015100000000000002,0.1667,0.1818,3.57
-Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,RB Leipzig,-0.015100000000000002,0.1667,0.1818,3.57
-League One - England League One 2021/22 - To Be Promoted,Charlton Athletic,-0.015300000000000001,0.0435,0.0588,3.55
-Superettan - Sweden Superettan 2021 - Outright,Norrby IF,-0.0156,0.004,0.0196,3.55
-England Championship - England Championship 21/22 - Top 2 Finish,Cardiff City,-0.0156,0.004,0.0196,3.57
-NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Cleveland Browns,-0.015700000000000006,0.1176,0.1333,3.62
-Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Bayer Leverkusen,-0.016699999999999937,0.5833,0.6,3.57
-France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Monaco,-0.016699999999999993,0.25,0.2667,3.57
-League Two - England League Two 2021/22 - Top 3 Finish,Leyton Orient,-0.016699999999999993,0.25,0.2667,3.55
-Premier League - Russia Premier League 2021/2022 - Outright,Zenit St. Petersburg,-0.016700000000000048,0.7333,0.75,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Newcastle United,-0.017600000000000005,0.3333,0.3509,3.57
-Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Bayer Leverkusen,-0.0179,0.125,0.1429,3.57
-Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Vinicius Junior,-0.018099999999999998,0.0588,0.0769,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Jack Grealish,-0.018099999999999998,0.0588,0.0769,3.57
-League Two - England League Two 2021/22 - To Be Promoted,Stevenage,-0.018099999999999998,0.0588,0.0769,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Ruben Dias,-0.018200000000000004,0.0294,0.0476,3.57
-League One - England League One 2021/22 - To Be Relegated,Plymouth Argyle,-0.018200000000000004,0.0294,0.0476,3.55
-MLS - MLS 2021 Futures - MLS Cup Winner,New York City FC,-0.018200000000000004,0.0294,0.0476,3.57
-England Championship - England Championship 21/22 - Top 6 Finish,Barnsley,-0.018200000000000004,0.0294,0.0476,3.57
-Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Dundee United,-0.018200000000000004,0.0294,0.0476,3.57
-Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Zlatan Ibrahimovic,-0.018200000000000004,0.0294,0.0476,3.57
-Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Hoffenheim,-0.018200000000000004,0.0294,0.0476,3.57
-Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Livingston,-0.01820000000000002,0.1818,0.2,3.57
-MLS - MLS 2021 Futures - MLS Cup Winner,Seattle Sounders,-0.01820000000000002,0.1818,0.2,3.57
-A1 - Greece A1 2021/22 - Outright,Panathinaikos,-0.018400000000000027,0.2941,0.3125,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Trent Alexander Arnold,-0.0189,0.0196,0.0385,3.57
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Sociedad,-0.018900000000000028,0.4255,0.4444,3.57
-Brasileirao Série A - Campeonato Brasileiro Série A - 2021 - Outright,Flamengo,-0.018900000000000028,0.4255,0.4444,3.57
-England Championship - England Championship 21/22 - To Be Promoted,Fulham,-0.018999999999999906,0.7143,0.7333,3.57
-England Championship - England Championship 21/22 - To Be Promoted,West Bromwich Albion,-0.018999999999999906,0.7143,0.7333,3.57
-League One - England League One 2021/22 - Top 6 Finish,Ipswich Town,-0.019000000000000017,0.2667,0.2857,3.55
-NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Cleveland Browns,-0.019099999999999992,0.0476,0.0667,3.62
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Southampton,-0.019099999999999992,0.0476,0.0667,3.57
-Serie B - Italy Serie B 2021/22 - Outright,Cremonese,-0.019099999999999992,0.0476,0.0667,3.57
-Premiership - Scottish Premiership 2021/22 - To Finish Bottom,St. Mirren,-0.019099999999999992,0.0476,0.0667,3.57
-League Two - England League Two 2021/22 - Top Goalscorer,Ian Henderson (Salford City),-0.019099999999999992,0.0476,0.0667,3.55
-League Two - England League Two 2021/22 - Top Goalscorer,Danny Johnson (Mansfield),-0.019099999999999992,0.0476,0.0667,3.55
-League One - England League One 2021/22 - Outright,Milton Keynes Dons,-0.019099999999999992,0.0476,0.0667,3.55
-Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Hibernian,-0.019100000000000006,0.9333,0.9524,3.57
-League Two - England League Two 2021/22 - Top 7 Finish,Barrow FC,-0.019100000000000006,0.2309,0.25,3.55
-England Championship - England Championship 21/22 - Top 2 Finish,Bristol City,-0.019499999999999997,0.0099,0.0294,3.57
-MLS - MLS 2021 Futures - Top Goalscorer,Josef Martinez,-0.019499999999999997,0.0099,0.0294,3.57
-Eredivisie - Eredivisie 2021/2022 - Outright,Feyenoord,-0.02020000000000001,0.0909,0.1111,3.55
-England Championship - England Championship 21/22 - Top 6 Finish,Birmingham City,-0.02020000000000001,0.0909,0.1111,3.57
-League Two - England League Two 2021/22 - Top 3 Finish,Rochdale,-0.02020000000000001,0.0909,0.1111,3.55
-League Two - England League Two 2021/22 - Outright,Harrogate Town,-0.02020000000000001,0.0909,0.1111,3.55
-MLS - MLS 2021 Futures - MLS Cup Winner,Sporting Kansas City,-0.02020000000000001,0.0909,0.1111,3.57
-League Two - England League Two 2021/22 - To Be Relegated,Colchester United,-0.02020000000000001,0.0909,0.1111,3.55
-League One - England League One 2021/22 - To Be Promoted,Accrington Stanley,-0.0203,0.0385,0.0588,3.55
-League One - England League One 2021/22 - Top 2 Finish,Bolton Wanderers,-0.0203,0.0385,0.0588,3.55
-League One - England League One 2021/22 - To Finish Bottom,Fleetwood Town,-0.0203,0.0385,0.0588,3.55
-League Two - England League Two 2021/22 - Top 3 Finish,Carlisle Utd,-0.0203,0.0385,0.0588,3.55
-France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Kylian Mbappe,-0.020699999999999996,0.4444,0.4651,3.57
-Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hibernian,-0.02100000000000002,0.3636,0.3846,3.57
-League Two - England League Two 2021/22 - Top 7 Finish,Exeter City,-0.02100000000000002,0.3636,0.3846,3.55
-Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Real Madrid,-0.02169999999999994,0.5238,0.5455,3.57
-League Two - England League Two 2021/22 - Top 3 Finish,Harrogate Town,-0.021999999999999964,0.2857,0.3077,3.55
-Premiership - Scottish Premiership 2021/22 - Top 6 Finish,St. Johnstone,-0.021999999999999964,0.2857,0.3077,3.57
-Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Borussia Mönchengladbach,-0.022199999999999998,0.2,0.2222,3.57
-League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,-0.022199999999999998,0.2,0.2222,3.55
-England Championship - England Championship 21/22 - Top Half Finish,Queens Park Rangers,-0.022199999999999998,0.7778,0.8,3.57
-League Two - England League Two 2021/22 - Outright,Bradford City,-0.02310000000000001,0.0769,0.1,3.55
-League Two - England League Two 2021/22 - To Be Promoted,Crawley Town,-0.02310000000000001,0.0769,0.1,3.55
-Superettan - Sweden Superettan 2021 - Outright,Helsingborgs IF,-0.02310000000000001,0.0769,0.1,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Wolverhampton Wanderers,-0.02310000000000001,0.0769,0.1,3.57
-NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Los Angeles Chargers,-0.0232,0.0435,0.0667,3.62
-League Two - England League Two 2021/22 - To Be Relegated,Tranmere Rovers,-0.023200000000000002,0.0244,0.0476,3.55
-League Two - England League Two 2021/22 - To Be Relegated,Sutton Utd,-0.023200000000000002,0.0294,0.0526,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Sadio Mane,-0.023200000000000002,0.0244,0.0476,3.57
-England Championship - England Championship 21/22 - Outright,Queens Park Rangers,-0.023200000000000002,0.0244,0.0476,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Aston Villa,-0.023200000000000002,0.0244,0.0476,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Riyad Mahrez,-0.0236,0.0149,0.0385,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Ngolo Kante,-0.0236,0.0149,0.0385,3.57
-England Championship - England Championship 21/22 - Top 2 Finish,Millwall,-0.0236,0.0149,0.0385,3.57
-France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lens ,-0.023799999999999988,0.1429,0.1667,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Brighton & Hove Albion,-0.023799999999999988,0.1429,0.1667,3.57
-League One - England League One 2021/22 - To Be Promoted,Portsmouth,-0.023799999999999988,0.1429,0.1667,3.55
-League One - England League One 2021/22 - To Be Relegated,Cheltenham Town,-0.023799999999999988,0.1429,0.1667,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Jorginho,-0.023899999999999998,0.0196,0.0435,3.57
-League Two - England League Two 2021/22 - To Be Promoted,Carlisle Utd,-0.0242,0.0667,0.0909,3.55
-League Two - England League Two 2021/22 - To Be Relegated,Bristol Rovers,-0.024999999999999994,0.1,0.125,3.55
-England Championship - England Championship 21/22 - Top 2 Finish,Coventry City,-0.024999999999999994,0.1,0.125,3.57
-League One - England League One 2021/22 - Top 6 Finish,Accrington Stanley,-0.024999999999999994,0.1,0.125,3.55
-Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Fiorentina,-0.024999999999999994,0.1,0.125,3.57
-Serie B - Italy Serie B 2021/22 - Outright,Pisa,-0.025300000000000003,0.1176,0.1429,3.57
-Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,-0.02560000000000001,0.3077,0.3333,3.57
-England Championship - England Championship 21/22 - Top Half Finish,Bristol City,-0.02560000000000001,0.3077,0.3333,3.57
-League Two - England League Two 2021/22 - To Be Promoted,Leyton Orient,-0.02560000000000001,0.3077,0.3333,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Aston Villa,-0.0267,0.0909,0.1176,3.57
-NFL Futures - NFC West - Division Winner,Los Angeles Rams,-0.027700000000000002,0.4167,0.4444,3.62
-Professional Baseball - NPB 2021 - Winner,Orix Buffaloes,-0.02779999999999999,0.2222,0.25,3.62
-Premiership - Scottish Premiership 2021/22 - Outright,Rangers FC,-0.027800000000000047,0.75,0.7778,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Norwich City,-0.027999999999999914,0.8182,0.8462,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Raheem Sterling,-0.028000000000000004,0.0196,0.0476,3.57
-NFL Futures - NFC West - Division Winner,Seattle Seahawks,-0.028199999999999996,0.0385,0.0667,3.62
-NCAAF - 2021-2022 NCAA Championship Winner - Winner,Iowa,-0.028599999999999997,0.0149,0.0435,3.62
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Jadon Sancho,-0.0286,0.0099,0.0385,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Ferran Torres,-0.0286,0.0099,0.0385,3.57
-League Two - England League Two 2021/22 - Top 7 Finish,Stevenage,-0.028799999999999992,0.125,0.1538,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Liverpool,-0.028799999999999992,0.125,0.1538,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Newcastle United,-0.028799999999999992,0.125,0.1538,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Leeds United,-0.029299999999999993,0.0476,0.0769,3.57
-Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Eintracht Frankfurt,-0.029299999999999993,0.0476,0.0769,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Newcastle United,-0.029299999999999993,0.9231,0.9524,3.57
-League Two - England League Two 2021/22 - Top 3 Finish,Crawley Town,-0.029299999999999993,0.0476,0.0769,3.55
-Eliteserien - Norway Elitserien 2021 - Winner,Kristiansund,-0.029299999999999993,0.0476,0.0769,3.57
-Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Tammy Abraham,-0.0294,0.0294,0.0588,3.57
-England Championship - England Championship 21/22 - To Be Promoted,Bristol City,-0.0294,0.0294,0.0588,3.57
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Celta de Vigo,-0.0294,0.0294,0.0588,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Virgil van Dijk,-0.0294,0.0294,0.0588,3.57
-League Two - England League Two 2021/22 - To Be Promoted,Bradford City,-0.030299999999999994,0.3333,0.3636,3.55
-League Two - England League Two 2021/22 - To Be Promoted,Harrogate Town,-0.030299999999999994,0.3333,0.3636,3.55
-League Two - England League Two 2021/22 - Top 7 Finish,Bradford City,-0.03179999999999994,0.5238,0.5556,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Burnley,-0.03179999999999994,0.5238,0.5556,3.57
-Italy Serie A - Italy Serie A 2021/2022 - To Finish Bottom,Cagliari,-0.031799999999999995,0.1111,0.1429,3.57
-League One - England League One 2021/22 - Top 2 Finish,Milton Keynes Dons,-0.031799999999999995,0.1111,0.1429,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Luke Shaw,-0.0319,0.0066,0.0385,3.57
-League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,-0.032099999999999906,0.5833,0.6154,3.55
-NFL Futures - AFC West - Division Winner,Denver Broncos,-0.033299999999999996,0.1,0.1333,3.62
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Leeds United,-0.033299999999999996,0.9,0.9333,3.57
-Superligaen - Denmark Superligaen 2021/22 - Outright,FC Copenhagen,-0.033299999999999996,0.4545,0.4878,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Everton,-0.03330000000000001,0.0667,0.1,3.57
-League Two - England League Two 2021/22 - Top 3 Finish,Mansfield Town,-0.03330000000000001,0.0667,0.1,3.55
-England Championship - England Championship 21/22 - To Be Promoted,Coventry City,-0.033300000000000024,0.1667,0.2,3.57
-League One - England League One 2021/22 - To Be Promoted,Oxford United,-0.033300000000000024,0.1667,0.2,3.55
-League One - England League One 2021/22 - To Be Relegated,Lincoln City,-0.034100000000000005,0.0909,0.125,3.55
-League One - England League One 2021/22 - To Be Relegated,Burton Albion,-0.034100000000000005,0.0909,0.125,3.55
-League Two - England League Two 2021/22 - Top Goalscorer,Mathew Stevens (Forest Green),-0.034100000000000005,0.0909,0.125,3.55
-France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Nice,-0.034100000000000005,0.0909,0.125,3.57
-England Championship - England Championship 21/22 - Top 6 Finish,Swansea City,-0.03420000000000001,0.0769,0.1111,3.57
-England Championship - England Championship 21/22 - To Be Promoted,Blackburn Rovers,-0.03420000000000001,0.0769,0.1111,3.57
-England Championship - England Championship 21/22 - Top Goalscorer,Dominic Solanke (Bournemouth),-0.03420000000000001,0.0769,0.1111,3.57
-League One - England League One 2021/22 - Outright,Sheffield Wednesday,-0.03420000000000001,0.0769,0.1111,3.55
-League Two - England League Two 2021/22 - Top 3 Finish,Bradford City,-0.03570000000000001,0.25,0.2857,3.55
-England Championship - England Championship 21/22 - Top 6 Finish,Stoke City,-0.03639999999999999,0.6,0.6364,3.57
-England Championship - England Championship 21/22 - Top 6 Finish,Queens Park Rangers,-0.03640000000000004,0.3636,0.4,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Manchester United,-0.0373,0.0294,0.0667,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,West Ham United,-0.037699999999999956,0.9524,0.9901,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Diogo Jota,-0.037700000000000004,0.0099,0.0476,3.57
-England Championship - England Championship 21/22 - Top Half Finish,Derby County,-0.0384,0.0385,0.0769,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Harry Kane,-0.0384,0.0385,0.0769,3.57
-Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Wolfsburg,-0.03920000000000001,0.2941,0.3333,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Leicester City,-0.04099999999999998,0.2667,0.3077,3.57
-Italy Serie A - Italy Serie A 2021/2022 - To Finish Bottom,Spezia,-0.04169999999999999,0.125,0.1667,3.57
-England Championship - England Championship 21/22 - To Be Promoted,Queens Park Rangers,-0.04169999999999999,0.125,0.1667,3.57
-League Two - England League Two 2021/22 - To Be Promoted,Mansfield Town,-0.04269999999999999,0.1111,0.1538,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Brighton & Hove Albion,-0.04269999999999999,0.1111,0.1538,3.57
-2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Werder Bremen,-0.042899999999999994,0.1,0.1429,3.55
-Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Hertha BSC,-0.042899999999999994,0.1,0.1429,3.57
-Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Ross County,-0.04329999999999999,0.0476,0.0909,3.57
-England Championship - England Championship 21/22 - Top 2 Finish,Queens Park Rangers,-0.04329999999999999,0.0476,0.0909,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,-0.043300000000000005,0.9091,0.9524,3.57
-CFL - Odds to win 2021 Grey Cup - Winner,Toronto Argonauts,-0.043800000000000006,0.1667,0.2105,3.62
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Kai Havertz,-0.043899999999999995,0.0149,0.0588,3.57
-Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Motherwell,-0.04409999999999992,0.6226,0.6667,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Aston Villa,-0.04440000000000001,0.0667,0.1111,3.57
-England Championship - England Championship 21/22 - To Be Promoted,Stoke City,-0.044499999999999984,0.2222,0.2667,3.57
-League One - England League One 2021/22 - To Be Relegated,Fleetwood Town,-0.044499999999999984,0.2222,0.2667,3.55
-League Two - England League Two 2021/22 - Top 7 Finish,Crawley Town,-0.04620000000000002,0.1538,0.2,3.55
-England Championship - England Championship 21/22 - Top Goalscorer,Viktor Gyokeres (Coventry),-0.048100000000000004,0.0769,0.125,3.57
-England Championship - England Championship 21/22 - Top Half Finish,Hull City,-0.04849999999999999,0.1333,0.1818,3.57
-Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Cagliari,-0.04910000000000003,0.3509,0.4,3.57
-League One - England League One 2021/22 - Top 2 Finish,Sheffield Wednesday,-0.04999999999999999,0.2,0.25,3.55
-NFL Futures - NFC North - Division Winner,Chicago Bears,-0.0509,0.0667,0.1176,3.62
-Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Dundee FC,-0.05130000000000001,0.3333,0.3846,3.57
-Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Aberdeen,-0.052000000000000005,0.0909,0.1429,3.57
-England Championship - England Championship 21/22 - Outright,Stoke City,-0.052300000000000006,0.0588,0.1111,3.57
-League Two - England League Two 2021/22 - Top 7 Finish,Oldham Athletic,-0.052399999999999995,0.0385,0.0909,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Brighton & Hove Albion,-0.053099999999999925,0.5833,0.6364,3.57
-France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Lionel Messi,-0.053100000000000036,0.3636,0.4167,3.57
-Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Inter Milan,-0.055499999999999994,0.7778,0.8333,3.57
-France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Nice,-0.05550000000000002,0.1667,0.2222,3.57
-League One - England League One 2021/22 - To Be Relegated,Shrewsbury Town,-0.05559999999999998,0.4444,0.5,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Norwich City,-0.05559999999999998,0.4444,0.5,3.57
-League Two - England League Two 2021/22 - Top 7 Finish,Carlisle Utd,-0.05559999999999998,0.1111,0.1667,3.55
-League One - England League One 2021/22 - Top 6 Finish,Portsmouth,-0.055900000000000005,0.3077,0.3636,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Leicester City,-0.05679999999999996,0.9333,0.9901,3.57
-England Championship - England Championship 21/22 - Top Goalscorer,Ben Brereton (Blackburn),-0.05710000000000001,0.1429,0.2,3.57
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Madrid,-0.05730000000000002,0.9231,0.9804,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Wolverhampton Wanderers,-0.057699999999999974,0.6923,0.75,3.57
-England Championship - England Championship 21/22 - Top 6 Finish,Bristol City,-0.058300000000000005,0.0667,0.125,3.57
-England Championship - England Championship 21/22 - To Be Promoted,Millwall,-0.0585,0.0526,0.1111,3.57
-NFL Futures - AFC West - Division Winner,Los Angeles Chargers,-0.0595,0.4167,0.4762,3.62
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Paul Pogba,-0.0615,0.0294,0.0909,3.57
-England Championship - England Championship 21/22 - Top Half Finish,Preston North End,-0.06190000000000001,0.3636,0.4255,3.57
-League One - England League One 2021/22 - Top 6 Finish,Oxford United,-0.06190000000000001,0.3636,0.4255,3.55
-Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AS Roma,-0.06190000000000001,0.3636,0.4255,3.57
-England Championship - England Championship 21/22 - Top Half Finish,Peterborough United,-0.0629,0.0909,0.1538,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Tottenham Hotspur,-0.06590000000000001,0.1667,0.2326,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Romelu Lukaku,-0.066,0.0769,0.1429,3.57
-Professional Baseball - NPB 2021 - Winner,Yomiuri Giants,-0.066,0.0769,0.1429,3.62
-Eliteserien - Norway Elitserien 2021 - Winner,Rosenborg,-0.06620000000000001,0.0588,0.125,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Brentford,-0.06670000000000009,0.7333,0.8,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Newcastle United,-0.06670000000000009,0.7333,0.8,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Southampton,-0.06820000000000001,0.1818,0.25,3.57
-England Championship - England Championship 21/22 - Top Half Finish,Blackburn Rovers,-0.06969999999999998,0.6226,0.6923,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Everton,-0.07189999999999996,0.2222,0.2941,3.57
-England Championship - England Championship 21/22 - Top 2 Finish,Stoke City,-0.07500000000000001,0.125,0.2,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Watford,-0.07619999999999999,0.4,0.4762,3.57
-England Championship - England Championship 21/22 - Top Half Finish,Birmingham City,-0.07619999999999999,0.4,0.4762,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,West Ham United,-0.07690000000000002,0.3077,0.3846,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Cristiano Ronaldo,-0.07930000000000001,0.1429,0.2222,3.57
-League One - England League One 2021/22 - To Finish Bottom,Shrewsbury Town,-0.07930000000000001,0.1429,0.2222,3.55
-Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Bochum,-0.07940000000000003,0.4444,0.5238,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Aston Villa,-0.08329999999999999,0.4167,0.5,3.57
-League Two - England League Two 2021/22 - To Be Relegated,Oldham Athletic,-0.08329999999999999,0.4167,0.5,3.55
-League One - England League One 2021/22 - Top 6 Finish,Bolton Wanderers,-0.08330000000000001,0.1667,0.25,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Bruno Fernandes,-0.08410000000000001,0.0588,0.1429,3.57
-France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lens,-0.08410000000000001,0.0588,0.1429,3.57
-League One - England League One 2021/22 - To Be Promoted,Sheffield Wednesday,-0.08549999999999996,0.2222,0.3077,3.55
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Everton,-0.08550000000000002,0.6923,0.7778,3.57
-Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Spezia,-0.09160000000000001,0.3846,0.4762,3.57
-MLB - 2021 World Series - 2021 World Series - Winner,Houston Astros,-0.0917,0.2857,0.3774,3.62
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Manchester United,-0.09800000000000009,0.6667,0.7647,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Tottenham Hotspur,-0.09999999999999998,0.8333,0.9333,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without Man City,Manchester United,-0.1,0.1,0.2,3.57
-Superettan - Sweden Superettan 2021 - Outright,GIF Sundsvall,-0.10089999999999999,0.25,0.3509,3.55
-League Two - England League Two 2021/22 - Top 7 Finish,Mansfield Town,-0.10390000000000002,0.1818,0.2857,3.55
-Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,St. Mirren,-0.10709999999999997,0.75,0.8571,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Romelu Lukaku,-0.10769999999999996,0.2,0.3077,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Everton,-0.11109999999999998,0.2222,0.3333,3.57
-Allsvenskan - Allsvenskan 2021 - Winner,AIK,-0.1111,0.1111,0.2222,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Cristiano Ronaldo,-0.11229999999999998,0.1818,0.2941,3.57
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Leeds United,-0.11430000000000001,0.2857,0.4,3.57
-Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Dundee United,-0.11430000000000007,0.6,0.7143,3.57
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,-0.11909999999999998,0.8333,0.9524,3.57
-NFL Futures - AFC North - Division Winner,Cleveland Browns,-0.12140000000000001,0.2632,0.3846,3.62
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Manchester United,-0.1215,0.1111,0.2326,3.57
-France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lille,-0.1215,0.1111,0.2326,3.57
-England Championship - England Championship 21/22 - Top Half Finish,Barnsley,-0.1238,0.1429,0.2667,3.57
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,FC Barcelona,-0.131,0.6364,0.7674,3.57
-England Championship - England Championship 21/22 - Top 6 Finish,Millwall,-0.13190000000000002,0.1538,0.2857,3.57
-MLB - 2021 World Series - 2021 World Series - Winner,Los Angeles Dodgers,-0.16450000000000004,0.2703,0.4348,3.62
-France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lille,-0.18780000000000002,0.2667,0.4545,3.57
-Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Aberdeen,-0.20000000000000007,0.6,0.8,3.57
-England Championship - England Championship 21/22 - Top Half Finish,Cardiff City,-0.24110000000000004,0.3333,0.5744,3.57
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Jordan Poole Points/Game,Over 13.8,0.06519999999999992,0.6,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Ja Morant Points/Game,Over 20.6,0.05449999999999999,0.6,0.5455,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Tristan Thompson Rebounds/Game,Under 7.9,0.05449999999999999,0.6,0.5455,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Russell Westbrook Assists/Game,Under 9.9,0.03479999999999994,0.6,0.5652,3.68
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Caleb Williams ,0.0286,0.0385,0.0099,3.72
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Wendell Carter Jr Rebounds/Game,Under 9.2,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - DeMar DeRozan Points/Game,Under 20.2,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Draymond Green Points/Game,Over 7.5,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Domantas Sabonis Points/Game,Under 20.5,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Michael Porter Jr Points/Game,Under 23.5,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - CJ McCollum Points/Game,Under 23.5,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Cade Cunningham Rebounds/Game,Under 6.1,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Fred VanVleet Points/Game,Over 20.1,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - De'Aaron Fox Rebounds/Game,Over 3.6,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Bradley Beal Points/Game,Under 31.2,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Paul George Points/Game,Over 25.8,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Anthony Edwards Points/Game,Over 21.5,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Anthony Davis Points/Game,Under 24.8,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Anthony Davis Rebounds/Game,Under 8.5,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Zion Williams Points/Scored,Under 28.2,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Russell Westbrook Points/Game,Under 21.5,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Jalen Green Points/Game,Over 17.5,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Malcolm Brogdon Points/Game,Under 20.6,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - James Harden Points/Game,Over 24.7,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Zach LaVine Points/Game,Under 26.4,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Jaren Jackson Jr. Points/Game,Over 15.5,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Shai Gilegeous-Alexander Points/Game,Over 23.3,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Stephen Curry Points/Game,Under 29.1,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Jerami Grant Points/Game,Under 21.9,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Lebron James Points/Game,Under 24.4,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Spencer Dinwiddie Points/Game,Under 19.6,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Julius Randle Points/Game,Under 23.8,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - James Harden Rebounds/Game,Under 8.1,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Kevin Durant Points/Game,Over 27.1,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Jonas Valanciunas Rebounds/Game,Under 12.6,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - LaMelo Ball Assists/Game,Over 7.3,0.02079999999999993,0.5556,0.5348,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - OG Anunoby Points/Game,Over 15.5,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Kevin Porter Jr Assists/Game,Over 6.2,0.02079999999999993,0.5556,0.5348,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player 3Pts Scored/Game - Davis Bertans 3Pts Scored/Game,Under 3.2,0.02079999999999993,0.5556,0.5348,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Josh Hart Rebounds/Game,Under 7.5,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Fred VanVleet Assists/Game,Over 6.6,0.02079999999999993,0.5556,0.5348,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Devonte Graham Assists/Game,Over 5.5,0.02079999999999993,0.5556,0.5348,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player 3Pts Scored/Game - Kemba Walker 3Pts Scored/Game,Under 3.1,0.02079999999999993,0.5556,0.5348,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Stephen Curry Rebounds/Game,Over 5.1,0.02079999999999993,0.5556,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Bam Adebayo Assists/Game,Under 5.3,0.02079999999999993,0.5556,0.5348,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player 3Pts Scored/Game - Maik Beaslley 3Pts Scored/Game,Under 3.5,0.01970000000000005,0.5652,0.5455,3.68
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Kenny Pickett,0.019099999999999995,0.0435,0.0244,3.72
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Nickeil Alexander-Walker Points/Game,Under 15.5,0.01880000000000004,0.5744,0.5556,3.7
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Matt Corral,0.01150000000000001,0.3448,0.3333,3.72
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Nikola Vucevic Points/Game,Under 21.8,0.010099999999999998,0.5556,0.5455,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Russell Westbrook Rebounds/Game,Under 9.1,0.010099999999999998,0.5556,0.5455,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Dejounte Murray Assists/Game,Over 5.8,0.010099999999999998,0.5556,0.5455,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Jimmy Butler Assists/Game,Under 6.8,0.010099999999999998,0.5556,0.5455,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - DeMar DeRozan Assists/Game,Over 5.9,-0.011099999999999999,0.4651,0.4762,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Dejounte Murray Assists/Game,Under 5.8,-0.011600000000000055,0.5122,0.5238,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Russell Westbrook Rebounds/Game,Over 9.1,-0.011600000000000055,0.5122,0.5238,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Jimmy Butler Assists/Game,Over 6.8,-0.011600000000000055,0.5122,0.5238,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Nikola Vucevic Points/Game,Over 21.8,-0.011600000000000055,0.5122,0.5238,3.7
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Dorian Thompson-Robinson,-0.013,0.0066,0.0196,3.72
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Malik Cunningham,-0.0131,0.0033,0.0164,3.72
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Kenneth Walker ,-0.014099999999999994,0.0526,0.0667,3.72
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Desmond Ridder,-0.019099999999999992,0.0476,0.0667,3.72
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Jayden Daniels,-0.019899999999999998,0.0079,0.0278,3.72
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Spencer Rattler,-0.021199999999999997,0.0066,0.0278,3.72
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Russell Westbrook Points/Game,Over 21.5,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Shai Gilegeous-Alexander Points/Game,Under 23.3,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - De'Aaron Fox Rebounds/Game,Under 3.6,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Spencer Dinwiddie Points/Game,Over 19.6,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Stephen Curry Points/Game,Over 29.1,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Zach LaVine Points/Game,Over 26.4,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Zion Williams Points/Scored,Over 28.2,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Anthony Davis Rebounds/Game,Over 8.5,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Cade Cunningham Rebounds/Game,Over 6.1,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - James Harden Rebounds/Game,Over 8.1,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Jonas Valanciunas Rebounds/Game,Over 12.6,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Josh Hart Rebounds/Game,Over 7.5,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Stephen Curry Rebounds/Game,Under 5.1,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Wendell Carter Jr Rebounds/Game,Over 9.2,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Paul George Points/Game,Under 25.8,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - James Harden Points/Game,Under 24.7,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - OG Anunoby Points/Game,Under 15.5,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Draymond Green Points/Game,Under 7.5,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player 3Pts Scored/Game - Davis Bertans 3Pts Scored/Game,Over 3.2,-0.022600000000000064,0.5122,0.5348,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player 3Pts Scored/Game - Kemba Walker 3Pts Scored/Game,Over 3.1,-0.022600000000000064,0.5122,0.5348,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Bam Adebayo Assists/Game,Over 5.3,-0.022600000000000064,0.5122,0.5348,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Devonte Graham Assists/Game,Under 5.5,-0.022600000000000064,0.5122,0.5348,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Fred VanVleet Assists/Game,Under 6.6,-0.022600000000000064,0.5122,0.5348,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Kevin Porter Jr Assists/Game,Under 6.2,-0.022600000000000064,0.5122,0.5348,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - LaMelo Ball Assists/Game,Under 7.3,-0.022600000000000064,0.5122,0.5348,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Anthony Davis Points/Game,Over 24.8,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Anthony Edwards Points/Game,Under 21.5,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Bradley Beal Points/Game,Over 31.2,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - CJ McCollum Points/Game,Over 23.5,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Domantas Sabonis Points/Game,Over 20.5,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - DeMar DeRozan Points/Game,Over 20.2,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Fred VanVleet Points/Game,Under 20.1,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Jerami Grant Points/Game,Over 21.9,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Michael Porter Jr Points/Game,Over 23.5,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Malcolm Brogdon Points/Game,Over 20.6,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Lebron James Points/Game,Over 24.4,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Kevin Durant Points/Game,Under 27.1,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Julius Randle Points/Game,Over 23.8,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Jaren Jackson Jr. Points/Game,Under 15.5,-0.022600000000000064,0.5122,0.5348,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Jalen Green Points/Game,Under 17.5,-0.022600000000000064,0.5122,0.5348,3.7
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Casey Thompson,-0.0228,0.0066,0.0294,3.72
+NBA Season Props - 2021/22 NBA Regular Season Player 3Pts Scored/Game - Maik Beaslley 3Pts Scored/Game,Over 3.5,-0.023800000000000043,0.5,0.5238,3.68
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Nickeil Alexander-Walker Points/Game,Over 15.5,-0.024399999999999977,0.4878,0.5122,3.7
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,CJ Stroud,-0.024999999999999994,0.1,0.125,3.72
+NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Russell Westbrook Assists/Game,Over 9.9,-0.03489999999999999,0.4651,0.5,3.68
+College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Bijan Robinson,-0.05859999999999999,0.0323,0.0909,3.72
+NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Tristan Thompson Rebounds/Game,Over 7.9,-0.05870000000000003,0.4651,0.5238,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Ja Morant Points/Game,Under 20.6,-0.05870000000000003,0.4651,0.5238,3.7
+NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Jordan Poole Points/Game,Under 13.8,-0.06970000000000004,0.4651,0.5348,3.7
