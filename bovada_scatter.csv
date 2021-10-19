@@ -1,148 +1,368 @@
 title,description,Pct_Change,Implied_Probability,Prev_Probability,minutes_ago
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,FC Barcelona,0.07790000000000008,0.7143,0.6364,3.62
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,0.07579999999999998,0.9091,0.8333,3.62
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Jordan Poole Points/Game,Over 13.8,0.06519999999999992,0.6,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Ja Morant Points/Game,Over 20.6,0.05449999999999999,0.6,0.5455,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Tristan Thompson Rebounds/Game,Under 7.9,0.05449999999999999,0.6,0.5455,180.85
-Superligaen - Denmark Superligaen 2021/22 - Outright,FC Copenhagen,0.045499999999999985,0.5,0.4545,3.62
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Madrid,0.03839999999999999,0.9615,0.9231,3.62
-NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Russell Westbrook Assists/Game,Under 9.9,0.03479999999999994,0.6,0.5652,180.83
-League One - England League One 2021/22 - Top Goalscorer,Michael Smith (Rotherham),0.0321,0.0909,0.0588,3.62
-College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Caleb Williams ,0.0286,0.0385,0.0099,180.87
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Watford,0.025600000000000067,0.6923,0.6667,3.62
-League One - England League One 2021/22 - Top Goalscorer,Lee Gregory (Sheff Wed),0.024299999999999995,0.0588,0.0345,3.62
-Liga MX - Apertura - Mexico Apertura 2021 - Outright,Mazatlan FC,0.023200000000000002,0.0476,0.0244,3.62
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Anthony Davis Points/Game,Under 24.8,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - James Harden Rebounds/Game,Under 8.1,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Kevin Durant Points/Game,Over 27.1,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Stephen Curry Rebounds/Game,Over 5.1,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Jonas Valanciunas Rebounds/Game,Under 12.6,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Julius Randle Points/Game,Under 23.8,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - LaMelo Ball Assists/Game,Over 7.3,0.02079999999999993,0.5556,0.5348,180.83
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Lebron James Points/Game,Under 24.4,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Kevin Porter Jr Assists/Game,Over 6.2,0.02079999999999993,0.5556,0.5348,180.83
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Paul George Points/Game,Over 25.8,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Josh Hart Rebounds/Game,Under 7.5,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Fred VanVleet Assists/Game,Over 6.6,0.02079999999999993,0.5556,0.5348,180.83
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Anthony Edwards Points/Game,Over 21.5,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Cade Cunningham Rebounds/Game,Under 6.1,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Spencer Dinwiddie Points/Game,Under 19.6,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Bradley Beal Points/Game,Under 31.2,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - De'Aaron Fox Rebounds/Game,Over 3.6,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - CJ McCollum Points/Game,Under 23.5,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Bam Adebayo Assists/Game,Under 5.3,0.02079999999999993,0.5556,0.5348,180.83
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - DeMar DeRozan Points/Game,Under 20.2,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Domantas Sabonis Points/Game,Under 20.5,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Draymond Green Points/Game,Over 7.5,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Anthony Davis Rebounds/Game,Under 8.5,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Fred VanVleet Points/Game,Over 20.1,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Jerami Grant Points/Game,Under 21.9,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Zion Williams Points/Scored,Under 28.2,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Jalen Green Points/Game,Over 17.5,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Stephen Curry Points/Game,Under 29.1,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - James Harden Points/Game,Over 24.7,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Devonte Graham Assists/Game,Over 5.5,0.02079999999999993,0.5556,0.5348,180.83
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Zach LaVine Points/Game,Under 26.4,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Russell Westbrook Points/Game,Under 21.5,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Michael Porter Jr Points/Game,Under 23.5,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - OG Anunoby Points/Game,Over 15.5,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Wendell Carter Jr Rebounds/Game,Under 9.2,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Jaren Jackson Jr. Points/Game,Over 15.5,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player 3Pts Scored/Game - Kemba Walker 3Pts Scored/Game,Under 3.1,0.02079999999999993,0.5556,0.5348,180.83
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Shai Gilegeous-Alexander Points/Game,Over 23.3,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Malcolm Brogdon Points/Game,Under 20.6,0.02079999999999993,0.5556,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player 3Pts Scored/Game - Davis Bertans 3Pts Scored/Game,Under 3.2,0.02079999999999993,0.5556,0.5348,180.83
-Liga MX - Apertura - Mexico Apertura 2021 - Top Goalscorer,Camilo Sanvezzo,0.02020000000000001,0.1111,0.0909,3.62
-NBA Season Props - 2021/22 NBA Regular Season Player 3Pts Scored/Game - Maik Beaslley 3Pts Scored/Game,Under 3.5,0.01970000000000005,0.5652,0.5455,180.83
-College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Kenny Pickett,0.019099999999999995,0.0435,0.0244,180.87
-Liga MX - Apertura - Mexico Apertura 2021 - Outright,Club América,0.019000000000000017,0.2857,0.2667,3.62
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Nickeil Alexander-Walker Points/Game,Under 15.5,0.01880000000000004,0.5744,0.5556,180.85
-Liga MX - Apertura - Mexico Apertura 2021 - Outright,Club León,0.0179,0.1429,0.125,3.62
-Liga MX - Apertura - Mexico Apertura 2021 - Outright,Chivas Guadalajara,0.015300000000000001,0.0588,0.0435,3.62
-Liga MX - Apertura - Mexico Apertura 2021 - Outright,Tigres UANL,0.013899999999999996,0.125,0.1111,3.62
-College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Matt Corral,0.01150000000000001,0.3448,0.3333,180.87
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Betis,0.010899999999999993,0.1538,0.1429,3.62
-NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Jimmy Butler Assists/Game,Under 6.8,0.010099999999999998,0.5556,0.5455,180.83
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Nikola Vucevic Points/Game,Under 21.8,0.010099999999999998,0.5556,0.5455,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Dejounte Murray Assists/Game,Over 5.8,0.010099999999999998,0.5556,0.5455,180.83
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Russell Westbrook Rebounds/Game,Under 9.1,0.010099999999999998,0.5556,0.5455,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - DeMar DeRozan Assists/Game,Over 5.9,-0.011099999999999999,0.4651,0.4762,180.83
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Nikola Vucevic Points/Game,Over 21.8,-0.011600000000000055,0.5122,0.5238,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Jimmy Butler Assists/Game,Over 6.8,-0.011600000000000055,0.5122,0.5238,180.83
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Russell Westbrook Rebounds/Game,Over 9.1,-0.011600000000000055,0.5122,0.5238,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Dejounte Murray Assists/Game,Under 5.8,-0.011600000000000055,0.5122,0.5238,180.83
-College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Dorian Thompson-Robinson,-0.013,0.0066,0.0196,180.87
-College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Malik Cunningham,-0.0131,0.0033,0.0164,180.87
-Liga MX - Apertura - Mexico Apertura 2021 - Outright,Deportivo Toluca,-0.013999999999999999,0.0769,0.0909,3.62
-College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Kenneth Walker ,-0.014099999999999994,0.0526,0.0667,180.87
-League One - England League One 2021/22 - Top Goalscorer,John Marquis (Portsmouth),-0.014099999999999998,0.0244,0.0385,3.62
-League One - England League One 2021/22 - Top Goalscorer,Mohamed Eisa (Milton Keynes Dons),-0.014099999999999998,0.0294,0.0435,3.62
-Liga MX - Apertura - Mexico Apertura 2021 - Outright,FC Juarez,-0.014099999999999998,0.0244,0.0385,3.62
-League One - England League One 2021/22 - Top Goalscorer,Matt Taylor (Oxford Utd),-0.014100000000000001,0.0385,0.0526,3.62
-League One - England League One 2021/22 - Top Goalscorer,Florian Kamberi (Sheff Wed),-0.0145,0.0099,0.0244,3.62
-Liga MX - Apertura - Mexico Apertura 2021 - Outright,CF Monterrey,-0.015100000000000002,0.1667,0.1818,3.62
-Superligaen - Denmark Superligaen 2021/22 - Outright,FC Midtjylland,-0.01539999999999997,0.6,0.6154,3.62
-College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Desmond Ridder,-0.019099999999999992,0.0476,0.0667,180.87
-League One - England League One 2021/22 - Top Goalscorer,Sam Vokes (Wycombe),-0.019099999999999995,0.0244,0.0435,3.62
-College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Jayden Daniels,-0.019899999999999998,0.0079,0.0278,180.87
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Athletic Bilbao,-0.02049999999999999,0.1333,0.1538,3.62
-Liga MX - Apertura - Mexico Apertura 2021 - Outright,Atlas FC,-0.02049999999999999,0.1333,0.1538,3.62
-College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Spencer Rattler,-0.021199999999999997,0.0066,0.0278,180.87
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Zach LaVine Points/Game,Over 26.4,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Stephen Curry Rebounds/Game,Under 5.1,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Russell Westbrook Points/Game,Over 21.5,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Wendell Carter Jr Rebounds/Game,Over 9.2,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Josh Hart Rebounds/Game,Over 7.5,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Zion Williams Points/Scored,Over 28.2,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Shai Gilegeous-Alexander Points/Game,Under 23.3,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Spencer Dinwiddie Points/Game,Over 19.6,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Jonas Valanciunas Rebounds/Game,Over 12.6,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - James Harden Rebounds/Game,Over 8.1,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - De'Aaron Fox Rebounds/Game,Under 3.6,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Stephen Curry Points/Game,Over 29.1,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Cade Cunningham Rebounds/Game,Over 6.1,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Anthony Davis Rebounds/Game,Over 8.5,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Paul George Points/Game,Under 25.8,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Draymond Green Points/Game,Under 7.5,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - OG Anunoby Points/Game,Under 15.5,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Domantas Sabonis Points/Game,Over 20.5,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player 3Pts Scored/Game - Davis Bertans 3Pts Scored/Game,Over 3.2,-0.022600000000000064,0.5122,0.5348,180.83
-NBA Season Props - 2021/22 NBA Regular Season Player 3Pts Scored/Game - Kemba Walker 3Pts Scored/Game,Over 3.1,-0.022600000000000064,0.5122,0.5348,180.83
-NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Bam Adebayo Assists/Game,Over 5.3,-0.022600000000000064,0.5122,0.5348,180.83
-NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Devonte Graham Assists/Game,Under 5.5,-0.022600000000000064,0.5122,0.5348,180.83
-NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Fred VanVleet Assists/Game,Under 6.6,-0.022600000000000064,0.5122,0.5348,180.83
-NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Kevin Porter Jr Assists/Game,Under 6.2,-0.022600000000000064,0.5122,0.5348,180.83
-NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - LaMelo Ball Assists/Game,Under 7.3,-0.022600000000000064,0.5122,0.5348,180.83
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Anthony Davis Points/Game,Over 24.8,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Anthony Edwards Points/Game,Under 21.5,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - CJ McCollum Points/Game,Over 23.5,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - DeMar DeRozan Points/Game,Over 20.2,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Bradley Beal Points/Game,Over 31.2,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Kevin Durant Points/Game,Under 27.1,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Michael Porter Jr Points/Game,Over 23.5,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Jalen Green Points/Game,Under 17.5,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Malcolm Brogdon Points/Game,Over 20.6,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - James Harden Points/Game,Under 24.7,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Jaren Jackson Jr. Points/Game,Under 15.5,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Jerami Grant Points/Game,Over 21.9,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Julius Randle Points/Game,Over 23.8,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Fred VanVleet Points/Game,Under 20.1,-0.022600000000000064,0.5122,0.5348,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Lebron James Points/Game,Over 24.4,-0.022600000000000064,0.5122,0.5348,180.85
-College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Casey Thompson,-0.0228,0.0066,0.0294,180.87
-NBA Season Props - 2021/22 NBA Regular Season Player 3Pts Scored/Game - Maik Beaslley 3Pts Scored/Game,Over 3.5,-0.023800000000000043,0.5,0.5238,180.83
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Nickeil Alexander-Walker Points/Game,Over 15.5,-0.024399999999999977,0.4878,0.5122,180.85
-College Season Props - 2021-2022 Heisman Trophy Winner - Winner,CJ Stroud,-0.024999999999999994,0.1,0.125,180.87
-Liga MX - Apertura - Mexico Apertura 2021 - Outright,Cruz Azul,-0.025300000000000003,0.1176,0.1429,3.62
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Sociedad,-0.025499999999999967,0.4,0.4255,3.62
-League One - England League One 2021/22 - Top Goalscorer,Luke Jephcott (Plymouth),-0.0282,0.0244,0.0526,3.62
-England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Crystal Palace,-0.028599999999999987,0.2381,0.2667,3.62
-League One - England League One 2021/22 - Top Goalscorer,Charlie Wyke (Wigan),-0.029299999999999993,0.0476,0.0769,3.62
-League One - England League One 2021/22 - Top Goalscorer,Jayden Stockley (Charlton),-0.0294,0.0294,0.0588,3.62
-England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Manchester United,-0.030299999999999994,0.6364,0.6667,3.62
-League One - England League One 2021/22 - Top Goalscorer,Will Grigg (Sunderland),-0.0312,0.0123,0.0435,3.62
-NBA Season Props - 2021/22 NBA Regular Season Player Assists/Game - Russell Westbrook Assists/Game,Over 9.9,-0.03489999999999999,0.4651,0.5,180.83
-Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Villarreal,-0.04999999999999999,0.2,0.25,3.62
-College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Bijan Robinson,-0.05859999999999999,0.0323,0.0909,180.87
-NBA Season Props - 2021/22 NBA Regular Season Player Rebounds/Game - Tristan Thompson Rebounds/Game,Over 7.9,-0.05870000000000003,0.4651,0.5238,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Ja Morant Points/Game,Under 20.6,-0.05870000000000003,0.4651,0.5238,180.85
-NBA Season Props - 2021/22 NBA Regular Season Player Points/Game - Jordan Poole Points/Game,Under 13.8,-0.06970000000000004,0.4651,0.5348,180.85
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing TD's,Derrick Henry ,0.1819,0.5455,0.3636,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Arizona Cardinals 2021/22 Total Wins,Over 12.5,0.1552,0.6552,0.5,3.77
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Worst Regular Season Record,Detroit Lions,0.15450000000000003,0.4878,0.3333,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Miami Dolphins,No,0.14590000000000003,0.9285,0.7826,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Derrick Henry,0.13330000000000009,0.8,0.6667,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Denver Broncos,No,0.12649999999999995,0.7561,0.6296,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Chicago Bears ,No,0.12240000000000006,0.905,0.7826,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Denver Broncos 2021/22 Total Wins,Under 8.5,0.11820000000000003,0.5833,0.4651,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Dallas Cowboys 2021/22 Total Wins,Over 11.5,0.11740000000000006,0.6296,0.5122,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Las Vegas Raiders,Yes,0.1174,0.4878,0.3704,3.75
+NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Dak Prescott,0.11360000000000003,0.75,0.6364,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Carolina Panthers,No,0.1070000000000001,0.8403,0.7333,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Washington Football Team,No,0.10039999999999993,0.9671,0.8667,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - New Orleans Saints,Yes,0.09999999999999998,0.6,0.5,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Buffalo Bills 2021/22 Total Wins,Under 12.5,0.09999999999999998,0.5,0.4,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Baltimore Ravens 2021/22 Total Wins,Over 11.5,0.09960000000000002,0.6552,0.5556,3.77
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Seattle Seahawks 2021/22 Total Wins,Under 8.5,0.0915999999999999,0.6154,0.5238,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New Orleans Saints 2021/22 Total Wins,Over 9.5,0.09049999999999997,0.5556,0.4651,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Houston Texans 2021/22 Total Wins,Under 3.5,0.08999999999999997,0.6552,0.5652,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - New England Patriots,No,0.08640000000000003,0.8197,0.7333,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Under 4.5,0.08330000000000004,0.5833,0.5,3.75
+Superettan - Sweden Superettan 2021 - Outright,GIF Sundsvall,0.08329999999999999,0.3333,0.25,3.73
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Baltimore Ravens,Yes,0.08230000000000004,0.9285,0.8462,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Chicago Bears 2021/22 Total Wins,Under 6.5,0.08039999999999997,0.5455,0.4651,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Washington Football Team 2021/22 Total Wins,Under 6.5,0.07950000000000002,0.5917,0.5122,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Kansas City Chiefs,Yes,0.07929999999999993,0.8571,0.7778,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Tennessee Titans,Yes,0.07929999999999993,0.8571,0.7778,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Los Angeles Rams,Yes,0.07910000000000006,0.9615,0.8824,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tennessee Titans 2021/Total Wins,Under 10.5,0.07710000000000006,0.6226,0.5455,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cincinnati Bengals 2021/22 Total Wins,Over 7.5,0.07619999999999993,0.6,0.5238,3.75
+Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Napoli,0.06970000000000004,0.3774,0.3077,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Carolina Panthers 2021/22 Total Wins,Under 7.5,0.06929999999999997,0.5455,0.4762,3.75
+NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Kyler Murray,0.06840000000000002,0.2222,0.1538,3.75
+NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Trevon Diggs,0.06669999999999998,0.1667,0.1,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,0.06659999999999999,0.3333,0.2667,3.73
+NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,TJ Watt,0.066,0.1429,0.0769,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Under 10.5,0.06520000000000004,0.5652,0.5,3.75
+MLB - 2021 World Series - 2021 World Series - Winner,Boston Red Sox,0.0635,0.2857,0.2222,3.82
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Cincinnati Bengals,Yes,0.059099999999999986,0.3448,0.2857,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Patrick Mahomes,0.05859999999999999,0.0909,0.0323,3.75
+Super Ligi - Turkey BSL 2021/22 - Outright,Fenerbahce,0.05790000000000001,0.3704,0.3125,3.77
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Cleveland Browns,No,0.05790000000000001,0.3704,0.3125,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Patrick Mahomes,0.05679999999999999,0.1818,0.125,3.75
+Allsvenskan - Allsvenskan 2021 - Winner,Malmö FF,0.05559999999999998,0.5556,0.5,3.73
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Green Bay Packers,Yes,0.05349999999999999,0.9285,0.875,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Arsenal,0.05310000000000001,0.2857,0.2326,3.73
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Dallas Cowboys,Yes,0.0524,0.9524,0.9,3.75
+NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Derrick Henry,0.0518,0.0667,0.0149,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Chargers 2021/22 Total Wins,Under 10.5,0.05070000000000002,0.4762,0.4255,3.75
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Villarreal,0.04999999999999999,0.25,0.2,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Ezekiel Elliot,0.048100000000000004,0.125,0.0769,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Dak Prescott,0.048100000000000004,0.125,0.0769,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Jacksonville Jaguars,Yes,0.045,0.0667,0.0217,3.75
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,0.044499999999999984,0.2667,0.2222,3.77
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Everton,0.044499999999999984,0.2667,0.2222,3.73
+NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Jayson Oweh,0.04440000000000001,0.1111,0.0667,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Arizona Cardinals,Yes,0.04399999999999993,0.9671,0.9231,3.75
+Allsvenskan - Allsvenskan 2021 - Winner,IF Elfsborg,0.04329999999999999,0.0909,0.0476,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Jonathan Taylor,0.0429,0.0625,0.0196,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Antonio Brown,0.0429,0.0625,0.0196,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Cooper Kupp,0.042899999999999994,0.1429,0.1,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Pittsburgh Steelers,Yes,0.04099999999999998,0.2632,0.2222,3.75
+Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Spezia,0.04089999999999999,0.4255,0.3846,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Wolverhampton Wanderers,0.04089999999999999,0.4255,0.3846,3.73
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Leeds United,0.04039999999999999,0.8182,0.7778,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Joe Mixon,0.0384,0.0769,0.0385,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,DeAndre Hopkins,0.038299999999999994,0.0909,0.0526,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Seattle Seahawks,No,0.03739999999999999,0.7874,0.75,3.75
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Alavés,0.03710000000000002,0.6923,0.6552,3.73
+NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Dak Prescott,0.036199999999999996,0.1538,0.1176,3.75
+NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Micah Parsons ,0.03570000000000001,0.2857,0.25,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Philadelphia Eagles 2021/22 Total Wins,Over 7.5,0.03480000000000005,0.5348,0.5,3.75
+NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Matthew Stafford,0.03420000000000001,0.1111,0.0769,3.75
+NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Derrick Henry,0.033399999999999985,0.1667,0.1333,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Myles Garrett,0.033300000000000024,0.2,0.1667,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Crystal Palace,0.033299999999999996,0.8333,0.8,3.73
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Wolverhampton Wanderers,0.0321,0.0909,0.0588,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Dawson Knox,0.0319,0.0385,0.0066,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Cooper Kupp,0.031799999999999995,0.1429,0.1111,3.75
+Allsvenskan - Allsvenskan 2021 - Winner,AIK,0.031799999999999995,0.1429,0.1111,3.73
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Norwich City,0.031799999999999995,0.4762,0.4444,3.73
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Crystal Palace,0.031799999999999995,0.1429,0.1111,3.73
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Cádiz,0.030299999999999994,0.6667,0.6364,3.73
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tampa Bay Buccaneers 2021/22 Total Wins,Over 12.5,0.030299999999999994,0.6667,0.6364,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Jason Pierre-Paul,0.0286,0.0385,0.0099,3.75
+NFL Season Props - NFL 2021/22 - Specials - Proposition,Detroit to Go 0-17 in Regular Season,0.02840000000000001,0.1053,0.0769,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing TD's,Jonathan Taylor,0.028000000000000004,0.0476,0.0196,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Khalil Mack,0.027999999999999997,0.0625,0.0345,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Taylor Heinicke,0.027999999999999997,0.0625,0.0345,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Watford,0.02779999999999999,0.25,0.2222,3.73
+NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Ja'Marr Chase,0.02779999999999999,0.25,0.2222,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Leicester City,0.02739999999999998,0.2941,0.2667,3.73
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Under 11.5,0.026499999999999968,0.5917,0.5652,3.75
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Sociedad,0.025499999999999967,0.4255,0.4,3.73
+NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Tom Brady,0.025300000000000003,0.1429,0.1176,3.75
+Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Real Sociedad,0.025300000000000003,0.1429,0.1176,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Matthew Stafford,0.024999999999999994,0.125,0.1,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Dak Prescot,0.024999999999999994,0.125,0.1,3.75
+NFL Futures - NFC East - Division Winner,Dallas Cowboys,0.0242,0.9333,0.9091,3.77
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Stefon Diggs,0.024,0.0625,0.0385,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Minnesota Vikings,Yes,0.023799999999999988,0.3571,0.3333,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Pittsburgh Steelers 2021/22 Total Wins,Over 7.5,0.023799999999999988,0.5,0.4762,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Brighton & Hove Albion,0.023799999999999988,0.1667,0.1429,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,T.J. Watt,0.023799999999999988,0.1667,0.1429,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Under 4.5,0.023699999999999943,0.6154,0.5917,3.75
+Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Atalanta,0.022199999999999998,0.1333,0.1111,3.75
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Tampa Bay Buccaneers,0.022199999999999998,0.2222,0.2,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Everton,0.02200000000000002,0.7143,0.6923,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,Tee Higgins,0.021199999999999997,0.0278,0.0066,3.75
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Tennessee Titans,0.0208,0.0833,0.0625,3.77
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Athletic Bilbao,0.02049999999999999,0.1538,0.1333,3.73
+NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,0.02049999999999999,0.1538,0.1333,3.8
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Aston Villa,0.02020000000000001,0.1111,0.0909,3.73
+NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Najee Harris,0.02020000000000001,0.1111,0.0909,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Mike Williams,0.02020000000000001,0.1111,0.0909,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,West Ham United,0.020100000000000007,0.7701,0.75,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,CeeDee Lamb,0.019800000000000005,0.0476,0.0278,3.75
+NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Matt LaFleur,0.019800000000000005,0.0476,0.0278,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,CeeDee Lamb ,0.019000000000000003,0.0625,0.0435,3.75
+Italy Serie A - Italy Serie A 2021/2022 - To Finish Bottom,Salernitana,0.018900000000000028,0.4444,0.4255,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Joe Burrow,0.0189,0.0385,0.0196,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Tom Brady,0.01820000000000002,0.2,0.1818,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Trevor Lawrence,0.01820000000000002,0.2,0.1818,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Southampton,0.01820000000000002,0.2,0.1818,3.73
+NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Josh Allen,0.01820000000000002,0.2,0.1818,3.75
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Baltimore Ravens,0.01820000000000002,0.2,0.1818,3.77
+Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Lazio,0.018200000000000004,0.0476,0.0294,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Newcastle United,0.018100000000000005,0.9412,0.9231,3.73
+NFL Futures - NFC West - Division Winner,Los Angeles Rams,0.018100000000000005,0.4348,0.4167,3.77
+NFL Futures - AFC North - Division Winner,Pittsburgh Steelers,0.018099999999999998,0.0769,0.0588,3.77
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Brentford,0.018099999999999998,0.0769,0.0588,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Joey Bosa,0.018099999999999998,0.0769,0.0588,3.75
+Italy Serie A - Italy Serie A 2021/2022 - To Finish Bottom,Spezia,0.0179,0.1429,0.125,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Courtland Sutton,0.0179,0.0278,0.0099,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Brentford,0.017600000000000005,0.3509,0.3333,3.73
+Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Salernitana,0.016700000000000048,0.75,0.7333,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Brighton & Hove Albion,0.016699999999999937,0.6,0.5833,3.73
+NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Myles Turner,0.015700000000000006,0.1333,0.1176,3.8
+NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tennessee Titans,0.0157,0.0435,0.0278,3.77
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Deforest Buckner,0.015499999999999998,0.0278,0.0123,3.75
+NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Jaylen Waddle,0.015300000000000001,0.0476,0.0323,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Tottenham Hotspur,0.015100000000000002,0.1818,0.1667,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Chase Young,0.014899999999999997,0.0625,0.0476,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Aaron Donald,0.014899999999999997,0.0625,0.0476,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Ja'Marr Chase,0.014899999999999997,0.0625,0.0476,3.75
+NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Derwin James,0.014899999999999997,0.0625,0.0476,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Kenny Golladay,0.014599999999999998,0.0196,0.005,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Mark Andrews,0.014599999999999998,0.0196,0.005,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Bud Dupree,0.0145,0.0244,0.0099,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Robert Woods,0.0145,0.0244,0.0099,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Lamar Jackson,0.0145,0.0244,0.0099,3.75
+NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Jameis Winston,0.014399999999999996,0.0769,0.0625,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Tampa Bay Buccaneers,No,0.014399999999999996,0.0769,0.0625,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing TD's,James Conner,0.014399999999999996,0.0769,0.0625,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Zach Wilson,0.01419999999999999,0.3846,0.3704,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Stefon Diggs ,0.014100000000000001,0.0526,0.0385,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Joe Burrow,0.014100000000000001,0.0526,0.0385,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Kirk Cousins,0.014100000000000001,0.0526,0.0385,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Kirk Cousins,0.014099999999999998,0.0385,0.0244,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,Adam Thielen,0.014099999999999998,0.0385,0.0244,3.75
+NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Patrick Mahomes,0.014099999999999994,0.0667,0.0526,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Sam Darnold,0.013999999999999999,0.0909,0.0769,3.75
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Baltimore Ravens,0.013999999999999999,0.0909,0.0769,3.75
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Green Bay Packers,0.013999999999999999,0.0909,0.0769,3.75
+NFL Futures - AFC East - Division Winner,New England Patriots,0.013999999999999999,0.0909,0.0769,3.77
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Southampton,0.013900000000000023,0.8889,0.875,3.73
+NFL Futures - NFC North - Division Winner,Green Bay Packers,0.013900000000000023,0.8889,0.875,3.77
+NFL Futures - NFC South - Division Winner,Tampa Bay Buccaneers,0.013900000000000023,0.8889,0.875,3.77
+Italy Serie A - Italy Serie A 2021/2022 - To Finish Bottom,Cagliari,0.013899999999999996,0.125,0.1111,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Tampa Bay Buccaneers,Yes,0.013399999999999967,0.9852,0.9718,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,Davante Adams,0.012899999999999995,0.1667,0.1538,3.75
+Boxing Lines - Shakur Stevenson vs Jamel Herring - To Win the Bout,Jamel Herring,0.012899999999999995,0.1667,0.1538,3.82
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Davante Adams,0.012899999999999995,0.1667,0.1538,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,Chris Godwin,0.012700000000000003,0.0323,0.0196,3.75
+Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Cagliari,0.012699999999999989,0.3636,0.3509,3.75
+NFL Futures - AFC West - Division Winner,Kansas City Chiefs,0.012199999999999989,0.5,0.4878,3.77
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Lamar Jackson,0.0118,0.0217,0.0099,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Kyle Pitts,0.011699999999999999,0.0196,0.0079,3.75
+NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Rondale Moore,0.011199999999999995,0.0588,0.0476,3.75
+Italy Serie A - Italy Serie A 2021/2022 - To Finish Bottom,Genoa,0.011099999999999999,0.1111,0.1,3.75
+NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Anthony Davis,0.011099999999999999,0.1111,0.1,3.8
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Under 7.5,0.01100000000000001,0.5348,0.5238,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Derek Carr,0.010700000000000001,0.0385,0.0278,3.75
+MLB - 2021 World Series - 2021 World Series - Winner,Atlanta Braves,0.010699999999999987,0.3333,0.3226,3.82
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,West Ham United,0.010399999999999993,0.2326,0.2222,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,Stefon Diggs,0.0102,0.0769,0.0667,3.75
+NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Zaven Collins,-0.010100000000000001,0.0244,0.0345,3.75
+Superettan - Sweden Superettan 2021 - Outright,Helsingborgs IF,-0.0102,0.0667,0.0769,3.73
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Over 7.5,-0.010699999999999932,0.5348,0.5455,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Kyler Murray,-0.010700000000000001,0.0278,0.0385,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing TD's,Dalvin Cook,-0.010700000000000001,0.0278,0.0385,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Rob Gronkowski,-0.010700000000000001,0.0278,0.0385,3.75
+NFL Futures - NFC South - Division Winner,New Orleans Saints,-0.010899999999999993,0.1429,0.1538,3.77
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,Tyreek Hill,-0.011099999999999999,0.1,0.1111,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Leeds United,-0.011099999999999999,0.8889,0.9,3.73
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Kansas City Chiefs,-0.011199999999999995,0.0476,0.0588,3.75
+NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Justin Herbert,-0.011199999999999995,0.0476,0.0588,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Indianapolis Colts,No,-0.011499999999999955,0.6552,0.6667,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Chelsea,-0.011499999999999955,0.6552,0.6667,3.73
+NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,OG Anunoby,-0.012100000000000001,0.0123,0.0244,3.8
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,Christian McCaffrey,-0.012100000000000001,0.0123,0.0244,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - San Francisco 49ers ,Yes,-0.012199999999999989,0.4878,0.5,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Jets 2021/22 Total Wins,Over 4.5,-0.012199999999999989,0.4878,0.5,3.75
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Worst Regular Season Record,Philadelphia Eagles,-0.012599999999999998,0.0152,0.0278,3.75
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Worst Regular Season Record,Indianapolis Colts,-0.012599999999999998,0.0152,0.0278,3.75
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Worst Regular Season Record,Pittsburgh Steelers,-0.012599999999999998,0.0152,0.0278,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Alvin Kamara,-0.012599999999999998,0.0152,0.0278,3.75
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Worst Regular Season Record,Washington Football Team,-0.012599999999999998,0.0152,0.0278,3.75
+NFL Futures - NFC North - Division Winner,Minnesota Vikings,-0.012899999999999995,0.1538,0.1667,3.77
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Detroit Lions,Yes,-0.013,0.0066,0.0196,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,West Ham United,-0.013600000000000001,0.2941,0.3077,3.73
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Newcastle United,-0.013899999999999996,0.1111,0.125,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Nick Chubb,-0.013899999999999996,0.1111,0.125,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Tottenham Hotspur,-0.013900000000000023,0.875,0.8889,3.73
+NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Monty Williams (PHO),-0.013999999999999999,0.0769,0.0909,3.8
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Tyreek Hill,-0.013999999999999999,0.0769,0.0909,3.75
+NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Dallas Cowboys,-0.013999999999999999,0.0769,0.0909,3.77
+NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Jason Kidd (DAL),-0.014099999999999994,0.0526,0.0667,3.8
+NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Ime Udoka (BOS),-0.014099999999999994,0.0526,0.0667,3.8
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,New England Patriots,-0.014099999999999998,0.0244,0.0385,3.77
+NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,DeAndre Hopkins,-0.014100000000000001,0.0385,0.0526,3.75
+NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,DeVonta Smith,-0.014100000000000001,0.0385,0.0526,3.75
+NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Frank Vogel (LAL),-0.014399999999999996,0.0625,0.0769,3.8
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,D.J. Moore ,-0.014399999999999996,0.0625,0.0769,3.75
+NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Kliff Kingsbury,-0.01440000000000001,0.0909,0.1053,3.75
+Allsvenskan - Allsvenskan 2021 - Winner,IFK Norrköping,-0.014499999999999999,0.0149,0.0294,3.73
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Real Betis,-0.014499999999999999,0.0149,0.0294,3.73
+NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Josh Allen,-0.014899999999999997,0.0476,0.0625,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Kirk Cousins,-0.014900000000000004,0.0196,0.0345,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,Amari Cooper,-0.015300000000000001,0.0323,0.0476,3.75
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Elche,-0.015400000000000025,0.3846,0.4,3.73
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Watford,-0.015400000000000025,0.3846,0.4,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Courtland Sutton,-0.017100000000000004,0.0152,0.0323,3.75
+NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Justin Fields,-0.01759999999999999,0.1,0.1176,3.75
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Denver Broncos,-0.0179,0.0099,0.0278,3.75
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,New Orleans Saints,-0.0179,0.0099,0.0278,3.75
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Tennessee Titans,-0.0179,0.0099,0.0278,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Matthew Stafford,-0.0179,0.125,0.1429,3.75
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,San Francisco 49ers,-0.0179,0.0099,0.0278,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Southampton,-0.017900000000000027,0.8571,0.875,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Mac Jones,-0.018099999999999998,0.0588,0.0769,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Adam Thielen,-0.018099999999999998,0.0588,0.0769,3.75
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Buffalo Bills,-0.01820000000000002,0.1818,0.2,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Kyler Murray,-0.018800000000000004,0.0526,0.0714,3.75
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Denver Broncos,-0.0189,0.0196,0.0385,3.77
+NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Von Miller,-0.0189,0.0196,0.0385,3.75
+NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Odell Beckham Jr,-0.0189,0.0196,0.0385,3.75
+NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Jimmy Garoppolo  ,-0.0189,0.0196,0.0385,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,DeAndre Hopkins,-0.0189,0.0196,0.0385,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Brentford,-0.018999999999999906,0.7143,0.7333,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing TD's,Austin Ekeler,-0.019000000000000003,0.0435,0.0625,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Patrick Mahomes,-0.019000000000000017,0.2667,0.2857,3.75
+NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Jaelan Phillips,-0.019800000000000005,0.0278,0.0476,3.75
+NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Saquon Barkley,-0.019800000000000005,0.0278,0.0476,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,-0.020199999999999996,0.8889,0.9091,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Josh Allen,-0.02020000000000001,0.0909,0.1111,3.75
+NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Azeez Ojulari,-0.0203,0.0385,0.0588,3.75
+NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Joey Bosa,-0.0203,0.0385,0.0588,3.75
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Los Angeles Rams,-0.02049999999999999,0.1333,0.1538,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Over 4.5,-0.021699999999999997,0.4545,0.4762,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Everton,-0.022199999999999998,0.2,0.2222,3.73
+NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Myles Garrett,-0.022199999999999998,0.2,0.2222,3.75
+NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Mac Jones,-0.022199999999999998,0.2,0.2222,3.75
+Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,AS Roma,-0.02310000000000001,0.0769,0.1,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Minnesota Vikings,No,-0.0232,0.7101,0.7333,3.75
+NFL Futures - AFC East - Division Winner,Buffalo Bills,-0.0232,0.9524,0.9756,3.77
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Cleveland Browns,-0.023200000000000002,0.0244,0.0476,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Over 11.5,-0.023799999999999988,0.4762,0.5,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Brighton & Hove Albion,-0.023799999999999988,0.4762,0.5,3.73
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Crystal Palace,-0.0242,0.9091,0.9333,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Deebo Samuel,-0.0242,0.0667,0.0909,3.75
+NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Damian Lillard,-0.024299999999999995,0.0526,0.0769,3.8
+NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,-0.024999999999999994,0.1,0.125,3.8
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Newcastle United,-0.024999999999999994,0.1,0.125,3.73
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,-0.025499999999999967,0.4,0.4255,3.73
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tampa Bay Buccaneers 2021/22 Total Wins,Under 12.5,-0.025499999999999967,0.4,0.4255,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Tyler Lockett,-0.0262,0.0123,0.0385,3.75
+NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Christian McCaffrey,-0.026499999999999996,0.0323,0.0588,3.75
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Cleveland Browns,-0.0267,0.0909,0.1176,3.77
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Justin Herbert,-0.0267,0.0909,0.1176,3.75
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Buffalo Bills,-0.02739999999999998,0.2667,0.2941,3.77
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Norwich City,-0.02779999999999999,0.2222,0.25,3.73
+NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Sam Darnold,-0.028199999999999996,0.0385,0.0667,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Ben Roethlisberger,-0.028199999999999996,0.0385,0.0667,3.75
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Osasuna,-0.028199999999999996,0.0385,0.0667,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,D.J. Moore ,-0.028399999999999995,0.0625,0.0909,3.75
+NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Nick Chubb,-0.028399999999999995,0.0625,0.0909,3.75
+NFL Futures - NFC West - Division Winner,San Francisco 49ers,-0.028399999999999995,0.0625,0.0909,3.77
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing TD's,Ezekiel Elliot,-0.028799999999999992,0.125,0.1538,3.75
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Los Angeles Chargers,-0.029299999999999993,0.0476,0.0769,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Leicester City,-0.029900000000000038,0.7701,0.8,3.73
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Leicester City,-0.030299999999999994,0.3333,0.3636,3.73
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Philadelphia Eagles 2021/22 Total Wins,Under 7.5,-0.030399999999999983,0.5348,0.5652,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Derek Carr,-0.031799999999999995,0.1111,0.1429,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,DK Metcalf,-0.0321,0.0588,0.0909,3.75
+Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Espanyol,-0.0321,0.0588,0.0909,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing TD's,Nick Chubb,-0.03420000000000001,0.0769,0.1111,3.75
+NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Los Angeles Chargers,-0.0343,0.0833,0.1176,3.77
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Chandler Jones,-0.0347,0.0278,0.0625,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Tyler Lockett,-0.0347,0.0278,0.0625,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Seattle Seahawks,Yes,-0.03470000000000001,0.2778,0.3125,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Pittsburgh Steelers 2021/22 Total Wins,Under 7.5,-0.03479999999999994,0.5652,0.6,3.75
+NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Buffalo Bills,-0.035,0.125,0.16,3.77
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Leeds United,-0.03570000000000001,0.25,0.2857,3.73
+NFL Futures - AFC South - Division Winner,Indianapolis Colts,-0.03570000000000001,0.25,0.2857,3.77
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Wolverhampton Wanderers,-0.03710000000000002,0.6552,0.6923,3.73
+NFL Futures - AFC West - Division Winner,Denver Broncos,-0.037500000000000006,0.0625,0.1,3.77
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Madrid,-0.03839999999999999,0.9231,0.9615,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Mike Evans,-0.0384,0.0385,0.0769,3.75
+Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Atlético Madrid,-0.0393,0.5833,0.6226,3.73
+England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Crystal Palace,-0.04120000000000001,0.0588,0.1,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Danielle Hunter,-0.04169999999999999,0.125,0.1667,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Pittsburgh Steelers,No,-0.042300000000000004,0.8039,0.8462,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Arizona Cardinals,No,-0.042899999999999994,0.1,0.1429,3.75
+NFL Futures - NFC East - Division Winner,Washington Football Team,-0.04440000000000001,0.0667,0.1111,3.77
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Russell Wilson,-0.0491,0.0278,0.0769,3.75
+Super Ligi - Turkey BSL 2021/22 - Outright,Anadolu Efes,-0.04910000000000003,0.6,0.6491,3.77
+NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Justin Herbert,-0.0509,0.0667,0.1176,3.75
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Justin Herbert,-0.052000000000000005,0.0909,0.1429,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Green Bay Packers,No,-0.05260000000000001,0.1379,0.1905,3.75
+NFL Futures - AFC North - Division Winner,Cleveland Browns,-0.0527,0.2105,0.2632,3.77
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Cleveland Browns,Yes,-0.05300000000000005,0.697,0.75,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Chargers 2021/22 Total Wins,Over 10.5,-0.053099999999999925,0.5833,0.6364,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Arsenal,-0.055499999999999994,0.7778,0.8333,3.73
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Dallas Cowboys,No,-0.05559999999999998,0.1111,0.1667,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Cincinnati Bengals,No,-0.06040000000000001,0.7222,0.7826,3.75
+MLB - 2021 World Series - 2021 World Series - Winner,Houston Astros,-0.0635,0.2222,0.2857,3.82
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Over 10.5,-0.06520000000000004,0.5,0.5652,3.75
+Italy Serie A - Italy Serie A 2021/2022 - To Finish Bottom,Venezia,-0.06669999999999998,0.2,0.2667,3.75
+Superettan - Sweden Superettan 2021 - Outright,IFK Värnamo,-0.06670000000000009,0.7333,0.8,3.73
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Carolina Panthers 2021/22 Total Wins,Over 7.5,-0.06789999999999996,0.5238,0.5917,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Over 4.5,-0.06929999999999997,0.4762,0.5455,3.75
+NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Patrick Surtan II,-0.07069999999999999,0.1111,0.1818,3.75
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,-0.07579999999999998,0.8333,0.9091,3.73
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Chicago Bears 2021/22 Total Wins,Over 6.5,-0.07619999999999993,0.5238,0.6,3.75
+Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Venezia,-0.07619999999999993,0.5238,0.6,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Tottenham Hotspur,-0.07619999999999993,0.5238,0.6,3.73
+Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,FC Barcelona,-0.07790000000000008,0.6364,0.7143,3.73
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Washington Football Team 2021/22 Total Wins,Over 6.5,-0.07939999999999997,0.4762,0.5556,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Kansas City Chiefs,No,-0.0794,0.2105,0.2899,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Tennessee Titans,No,-0.0794,0.2105,0.2899,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tennessee Titans 2021/Total Wins,Over 10.5,-0.07940000000000003,0.4444,0.5238,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Los Angeles Rams,No,-0.0799,0.1053,0.1852,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cincinnati Bengals 2021/22 Total Wins,Under 7.5,-0.08039999999999997,0.4651,0.5455,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Baltimore Ravens,No,-0.08430000000000001,0.1379,0.2222,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - New England Patriots,Yes,-0.08639999999999998,0.2469,0.3333,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New Orleans Saints 2021/22 Total Wins,Under 9.5,-0.08779999999999999,0.5122,0.6,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Arsenal,-0.08779999999999999,0.4,0.4878,3.73
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Seattle Seahawks 2021/22 Total Wins,Over 8.5,-0.09099999999999997,0.4545,0.5455,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Houston Texans 2021/22 Total Wins,Over 3.5,-0.09179999999999999,0.4082,0.5,3.75
+Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Inter Milan,-0.09230000000000005,0.3077,0.4,3.75
+England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Everton,-0.09889999999999999,0.2857,0.3846,3.73
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Washington Football Team,Yes,-0.1,0.1,0.2,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Buffalo Bills 2021/22 Total Wins,Over 12.5,-0.10149999999999992,0.5652,0.6667,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Baltimore Ravens 2021/22 Total Wins,Under 11.5,-0.10399999999999998,0.4082,0.5122,3.77
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Carolina Panthers,Yes,-0.10599999999999998,0.2273,0.3333,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - New Orleans Saints,No,-0.10930000000000001,0.4651,0.5744,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Dallas Cowboys 2021/22 Total Wins,Under 11.5,-0.12079999999999996,0.4348,0.5556,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Las Vegas Raiders,No,-0.12259999999999993,0.5744,0.697,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Denver Broncos 2021/22 Total Wins,Over 8.5,-0.12379999999999997,0.4762,0.6,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Chicago Bears ,Yes,-0.1257,0.16,0.2857,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Denver Broncos,Yes,-0.12710000000000005,0.3077,0.4348,3.75
+NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Worst Regular Season Record,Jacksonville Jaguars,-0.1389,0.1111,0.25,3.75
+NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Miami Dolphins,Yes,-0.14780000000000001,0.1379,0.2857,3.75
+NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Arizona Cardinals 2021/22 Total Wins,Under 12.5,-0.15700000000000003,0.4082,0.5652,3.77
+Allsvenskan - Allsvenskan 2021 - Winner,Djurgarden,-0.16040000000000004,0.2941,0.4545,3.73
+NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Carson Wentz,-0.2534,0.0323,0.2857,3.75
