@@ -1,70 +1,76 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability,minutes_ago
-2021-11-12 16:54:32.323389,BKFC 22 - Gustavo Trujillo vs Mike Kyle - To Win the Bout,Gustavo Trujillo,0.09719999999999995,0.875,0.7778,3.73
-2021-11-12 16:54:32.346709,BKFC 22 - Luis Palomino vs Dat Nguyen - To Win the Bout,Luis Palomino,0.08999999999999997,0.6552,0.5652,3.73
-2021-11-12 16:54:32.300493,BKFC 22 - Rusty Crowder vs Howard Davis - To Win the Bout,Howard Davis,0.08900000000000002,0.5652,0.4762,3.73
-2021-11-12 16:54:32.358351,BKFC 22 - Hector Lombard vs Lorenzo Hunt - To Win the Bout,Lorenzo Hunt,0.06970000000000004,0.5348,0.4651,3.73
-2021-11-12 16:54:31.401897,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Chicago Bears 2021/22 Total Wins,Under 5.5,0.057699999999999974,0.5122,0.4545,3.75
-2021-11-12 16:54:31.444788,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Over 8.5,0.057699999999999974,0.5122,0.4545,3.75
-2021-11-12 16:54:31.532135,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Pittsburgh Steelers 2021/22 Total Wins,Over 8.5,0.05019999999999991,0.6154,0.5652,3.75
-2021-11-12 16:54:32.270345,BKFC 22 - Joshuah Alvarez vs Arthur Walcott-Ceesay - To Win the Bout,Arthur Walcott-Ceesay,0.04910000000000003,0.4,0.3509,3.73
-2021-11-12 16:54:32.288655,BKFC 22 - Montaser Aboughaly vs Jonathan Noah - To Win the Bout,Montaser Aboughaly,0.04039999999999999,0.8182,0.7778,3.73
-2021-11-12 16:54:31.369280,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Washington Football Team 2021/22 Total Wins,Over  5.5,0.039600000000000024,0.4651,0.4255,3.75
-2021-11-12 16:54:33.014632,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Scottie Barnes,0.03570000000000001,0.2857,0.25,3.72
-2021-11-12 16:54:31.165326,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Tennessee Titans,0.033300000000000024,0.2,0.1667,3.75
-2021-11-12 16:54:32.334870,BKFC 22 - Britain Hart vs Pearl Gonzalez - To Win the Bout,Pearl Gonzalez,0.029600000000000015,0.4,0.3704,3.73
-2021-11-12 16:54:31.207817,NFL Futures - AFC North - Division Winner,Cleveland Browns,0.028700000000000003,0.2105,0.1818,3.75
-2021-11-12 16:54:31.207817,NFL Futures - AFC North - Division Winner,Pittsburgh Steelers,0.027999999999999997,0.1818,0.1538,3.75
-2021-11-12 16:54:31.180013,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Dallas Cowboys,0.027999999999999997,0.1818,0.1538,3.75
-2021-11-12 16:54:31.180013,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Arizona Cardinals,0.02779999999999999,0.25,0.2222,3.75
-2021-11-12 16:54:31.165326,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,0.023799999999999988,0.1667,0.1429,3.75
-2021-11-12 16:54:32.258865,BKFC 22 - James Rodriguez vs Brian Maxwell - To Win the Bout,James Rodriguez,0.02169999999999994,0.5455,0.5238,3.73
-2021-11-12 16:54:32.114207,Boxing Lines - Jaime Munguia vs Gabriel Rosado - To Win the Bout,Gabriel Rosado,0.01999999999999999,0.2105,0.1905,3.73
-2021-11-12 16:54:31.165326,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Buffalo Bills,0.019000000000000017,0.2857,0.2667,3.75
-2021-11-12 16:54:31.180013,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Tampa Bay Buccaneers,0.019000000000000017,0.2857,0.2667,3.75
-2021-11-12 16:54:33.149638,NBA Futures - 2022 NBA Southeast Division - Division Winner,Washington Wizards,0.018099999999999998,0.0769,0.0588,3.72
-2021-11-12 16:54:31.377306,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Over 7.5,0.016699999999999937,0.6,0.5833,3.75
-2021-11-12 16:54:33.027206,NBA Season Props - 2021/22 NBA Awards - 2022 The Sixth Man,Montrezl Harrell,0.013999999999999999,0.0909,0.0769,3.72
-2021-11-12 16:54:33.002651,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Michael Porter Jr.,0.0139,0.0179,0.004,3.72
-2021-11-12 16:54:33.014632,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Evan Mobley,0.0131,0.2353,0.2222,3.72
-2021-11-12 16:54:32.220551,Boxing Lines - Devin Haney vs Joseph Diaz - To Win the Bout,Devin Haney,0.012899999999999912,0.8462,0.8333,3.73
-2021-11-12 16:54:31.510539,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Jets 2021/22 Total Wins,Over 4.5,0.012199999999999989,0.5,0.4878,3.75
-2021-11-12 16:54:31.520434,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Philadelphia Eagles 2021/22 Total Wins,Over 7.5,0.012199999999999989,0.5,0.4878,3.75
-2021-11-12 16:54:31.385588,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Buffalo Bills 2021/22 Total Wins,Under 11.5,0.012199999999999989,0.5122,0.5,3.75
-2021-11-12 16:54:31.427772,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Detroit Lions 2021/22 Total Wins,Under 1.5,0.012199999999999989,0.5122,0.5,3.75
-2021-11-12 16:54:31.470405,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Minnesota Vikings 2021/22 Total Wins,Over 7.5,0.01100000000000001,0.5348,0.5238,3.75
-2021-11-12 16:54:31.311284,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Over 9.5,0.01100000000000001,0.5348,0.5238,3.75
-2021-11-12 16:54:31.194645,NFL Futures - AFC East - Division Winner,Miami Dolphins,0.0109,0.0149,0.004,3.75
-2021-11-12 16:54:32.969985,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Kevin Durant,0.010899999999999993,0.1538,0.1429,3.73
-2021-11-12 16:54:31.479277,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Over 9.5,0.010599999999999998,0.4651,0.4545,3.75
-2021-11-12 16:54:31.352533,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Over 6.5,0.010599999999999998,0.4651,0.4545,3.75
-2021-11-12 16:54:31.411393,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Dallas Cowboys 2021/22 Total Wins,Over 12.5,0.010099999999999998,0.4545,0.4444,3.75
-2021-11-12 16:54:31.452341,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Under 4.5,0.010099999999999998,0.5556,0.5455,3.75
-2021-11-12 16:54:31.292614,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Arizona Cardinals 2021/22 Total Wins,Under 13.5,-0.010099999999999998,0.5455,0.5556,3.75
-2021-11-12 16:54:31.558359,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tampa Bay Buccaneers 2021/22 Total Wins,Under 12.5,-0.010099999999999998,0.4444,0.4545,3.75
-2021-11-12 16:54:31.311284,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Under 9.5,-0.010699999999999932,0.5348,0.5455,3.75
-2021-11-12 16:54:31.470405,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Minnesota Vikings 2021/22 Total Wins,Under 7.5,-0.010699999999999932,0.5348,0.5455,3.75
-2021-11-12 16:54:31.377306,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Under 7.5,-0.011099999999999999,0.4651,0.4762,3.75
-2021-11-12 16:54:31.452341,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Over 4.5,-0.011600000000000055,0.5122,0.5238,3.75
-2021-11-12 16:54:31.342595,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Las Vegas Raiders 2021/22 Total Wins,Under 8.5,-0.012199999999999989,0.5,0.5122,3.75
-2021-11-12 16:54:31.461151,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Chargers 2021/22 Total Wins,Under 10.5,-0.012199999999999989,0.5,0.5122,3.75
-2021-11-12 16:54:31.972047,Boxing Lines - Billam-Smith Chris vs Dylan Bregeon - To Win the Bout,Billam-Smith Chris,-0.014100000000000001,0.9615,0.9756,3.75
-2021-11-12 16:54:33.014632,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Jalen Green,-0.015100000000000002,0.1667,0.1818,3.72
-2021-11-12 16:54:31.352533,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Under 6.5,-0.01539999999999997,0.6,0.6154,3.75
-2021-11-12 16:54:31.479277,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Under 9.5,-0.01539999999999997,0.6,0.6154,3.75
-2021-11-12 16:54:32.220551,Boxing Lines - Devin Haney vs Joseph Diaz - To Win the Bout,Joseph Diaz,-0.015899999999999997,0.2222,0.2381,3.73
-2021-11-12 16:54:32.114207,Boxing Lines - Jaime Munguia vs Gabriel Rosado - To Win the Bout,Jaime Munguia,-0.017900000000000027,0.8571,0.875,3.73
-2021-11-12 16:54:32.258865,BKFC 22 - James Rodriguez vs Brian Maxwell - To Win the Bout,Brian Maxwell,-0.02169999999999994,0.5238,0.5455,3.73
-2021-11-12 16:54:31.153939,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Baltimore Ravens,-0.0242,0.0667,0.0909,3.75
-2021-11-12 16:54:32.334870,BKFC 22 - Britain Hart vs Pearl Gonzalez - To Win the Bout,Britain Hart,-0.025600000000000067,0.6667,0.6923,3.73
-2021-11-12 16:54:31.165326,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Baltimore Ravens,-0.033399999999999985,0.1333,0.1667,3.75
-2021-11-12 16:54:32.288655,BKFC 22 - Montaser Aboughaly vs Jonathan Noah - To Win the Bout,Jonathan Noah,-0.03570000000000001,0.25,0.2857,3.73
-2021-11-12 16:54:31.369280,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Washington Football Team 2021/22 Total Wins,Under 5.5,-0.04290000000000005,0.6,0.6429,3.75
-2021-11-12 16:54:31.532135,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Pittsburgh Steelers 2021/22 Total Wins,Under 8.5,-0.045499999999999985,0.4545,0.5,3.75
-2021-11-12 16:54:32.270345,BKFC 22 - Joshuah Alvarez vs Arthur Walcott-Ceesay - To Win the Bout,Joshuah Alvarez,-0.04760000000000009,0.6667,0.7143,3.73
-2021-11-12 16:54:31.444788,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Under 8.5,-0.059799999999999964,0.5556,0.6154,3.75
-2021-11-12 16:54:31.401897,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Chicago Bears 2021/22 Total Wins,Over  5.5,-0.059799999999999964,0.5556,0.6154,3.75
-2021-11-12 16:54:32.358351,BKFC 22 - Hector Lombard vs Lorenzo Hunt - To Win the Bout,Hector Lombard,-0.06519999999999992,0.5348,0.6,3.73
-2021-11-12 16:54:31.207817,NFL Futures - AFC North - Division Winner,Baltimore Ravens,-0.08079999999999998,0.5556,0.6364,3.75
-2021-11-12 16:54:32.300493,BKFC 22 - Rusty Crowder vs Howard Davis - To Win the Bout,Rusty Crowder,-0.0917,0.5,0.5917,3.73
-2021-11-12 16:54:32.346709,BKFC 22 - Luis Palomino vs Dat Nguyen - To Win the Bout,Dat Nguyen,-0.09179999999999999,0.4082,0.5,3.73
-2021-11-12 16:54:32.323389,BKFC 22 - Gustavo Trujillo vs Mike Kyle - To Win the Bout,Mike Kyle,-0.0952,0.1905,0.2857,3.73
+2021-11-12 16:54:32.323389,BKFC 22 - Gustavo Trujillo vs Mike Kyle - To Win the Bout,Gustavo Trujillo,0.09719999999999995,0.875,0.7778,147.22
+2021-11-12 16:54:32.346709,BKFC 22 - Luis Palomino vs Dat Nguyen - To Win the Bout,Luis Palomino,0.08999999999999997,0.6552,0.5652,147.22
+2021-11-12 16:54:32.300493,BKFC 22 - Rusty Crowder vs Howard Davis - To Win the Bout,Howard Davis,0.08900000000000002,0.5652,0.4762,147.22
+2021-11-12 16:54:32.358351,BKFC 22 - Hector Lombard vs Lorenzo Hunt - To Win the Bout,Lorenzo Hunt,0.06970000000000004,0.5348,0.4651,147.22
+2021-11-12 16:54:31.401897,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Chicago Bears 2021/22 Total Wins,Under 5.5,0.057699999999999974,0.5122,0.4545,147.23
+2021-11-12 16:54:31.444788,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Over 8.5,0.057699999999999974,0.5122,0.4545,147.23
+2021-11-12 16:54:31.532135,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Pittsburgh Steelers 2021/22 Total Wins,Over 8.5,0.05019999999999991,0.6154,0.5652,147.23
+2021-11-12 16:54:32.270345,BKFC 22 - Joshuah Alvarez vs Arthur Walcott-Ceesay - To Win the Bout,Arthur Walcott-Ceesay,0.04910000000000003,0.4,0.3509,147.22
+2021-11-12 16:54:32.288655,BKFC 22 - Montaser Aboughaly vs Jonathan Noah - To Win the Bout,Montaser Aboughaly,0.04039999999999999,0.8182,0.7778,147.22
+2021-11-12 16:54:31.369280,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Washington Football Team 2021/22 Total Wins,Over  5.5,0.039600000000000024,0.4651,0.4255,147.23
+2021-11-12 16:54:33.014632,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Scottie Barnes,0.03570000000000001,0.2857,0.25,147.2
+2021-11-12 16:54:31.165326,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Tennessee Titans,0.033300000000000024,0.2,0.1667,147.23
+2021-11-12 16:54:32.334870,BKFC 22 - Britain Hart vs Pearl Gonzalez - To Win the Bout,Pearl Gonzalez,0.029600000000000015,0.4,0.3704,147.22
+2021-11-12 16:54:31.207817,NFL Futures - AFC North - Division Winner,Cleveland Browns,0.028700000000000003,0.2105,0.1818,147.23
+2021-11-12 16:54:31.207817,NFL Futures - AFC North - Division Winner,Pittsburgh Steelers,0.027999999999999997,0.1818,0.1538,147.23
+2021-11-12 16:54:31.180013,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Dallas Cowboys,0.027999999999999997,0.1818,0.1538,147.23
+2021-11-12 16:54:31.180013,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Arizona Cardinals,0.02779999999999999,0.25,0.2222,147.23
+2021-11-12 16:54:31.165326,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,0.023799999999999988,0.1667,0.1429,147.23
+2021-11-12 16:54:32.258865,BKFC 22 - James Rodriguez vs Brian Maxwell - To Win the Bout,James Rodriguez,0.02169999999999994,0.5455,0.5238,147.22
+2021-11-12 16:54:32.114207,Boxing Lines - Jaime Munguia vs Gabriel Rosado - To Win the Bout,Gabriel Rosado,0.01999999999999999,0.2105,0.1905,147.22
+2021-11-12 16:54:31.165326,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Buffalo Bills,0.019000000000000017,0.2857,0.2667,147.23
+2021-11-12 16:54:31.180013,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Tampa Bay Buccaneers,0.019000000000000017,0.2857,0.2667,147.23
+2021-11-12 16:54:32.419652,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Kansas,0.01820000000000002,0.2,0.1818,147.22
+2021-11-12 16:54:33.149638,NBA Futures - 2022 NBA Southeast Division - Division Winner,Washington Wizards,0.018099999999999998,0.0769,0.0588,147.2
+2021-11-12 19:18:13.682174,Boxing Lines - Jaime Munguia vs Gabriel Rosado - To Win the Bout,Jaime Munguia,0.017900000000000027,0.875,0.8571,3.53
+2021-11-12 16:54:31.377306,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Over 7.5,0.016699999999999937,0.6,0.5833,147.23
+2021-11-12 16:54:32.419652,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,St. Bonaventure,0.014399999999999996,0.0769,0.0625,147.22
+2021-11-12 16:54:33.027206,NBA Season Props - 2021/22 NBA Awards - 2022 The Sixth Man,Montrezl Harrell,0.013999999999999999,0.0909,0.0769,147.2
+2021-11-12 16:54:33.002651,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Michael Porter Jr.,0.0139,0.0179,0.004,147.2
+2021-11-12 16:54:33.014632,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Evan Mobley,0.0131,0.2353,0.2222,147.2
+2021-11-12 16:54:32.220551,Boxing Lines - Devin Haney vs Joseph Diaz - To Win the Bout,Devin Haney,0.012899999999999912,0.8462,0.8333,147.22
+2021-11-12 16:54:31.510539,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Jets 2021/22 Total Wins,Over 4.5,0.012199999999999989,0.5,0.4878,147.23
+2021-11-12 16:54:31.385588,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Buffalo Bills 2021/22 Total Wins,Under 11.5,0.012199999999999989,0.5122,0.5,147.23
+2021-11-12 16:54:31.427772,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Detroit Lions 2021/22 Total Wins,Under 1.5,0.012199999999999989,0.5122,0.5,147.23
+2021-11-12 16:54:31.520434,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Philadelphia Eagles 2021/22 Total Wins,Over 7.5,0.012199999999999989,0.5,0.4878,147.23
+2021-11-12 16:54:32.419652,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,UCLA,0.011700000000000016,0.2222,0.2105,147.22
+2021-11-12 16:54:31.470405,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Minnesota Vikings 2021/22 Total Wins,Over 7.5,0.01100000000000001,0.5348,0.5238,147.23
+2021-11-12 16:54:31.311284,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Over 9.5,0.01100000000000001,0.5348,0.5238,147.23
+2021-11-12 16:54:31.194645,NFL Futures - AFC East - Division Winner,Miami Dolphins,0.0109,0.0149,0.004,147.23
+2021-11-12 16:54:32.969985,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Kevin Durant,0.010899999999999993,0.1538,0.1429,147.22
+2021-11-12 16:54:31.479277,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Over 9.5,0.010599999999999998,0.4651,0.4545,147.23
+2021-11-12 16:54:31.352533,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Over 6.5,0.010599999999999998,0.4651,0.4545,147.23
+2021-11-12 16:54:31.452341,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Under 4.5,0.010099999999999998,0.5556,0.5455,147.23
+2021-11-12 16:54:31.411393,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Dallas Cowboys 2021/22 Total Wins,Over 12.5,0.010099999999999998,0.4545,0.4444,147.23
+2021-11-12 16:54:31.292614,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Arizona Cardinals 2021/22 Total Wins,Under 13.5,-0.010099999999999998,0.5455,0.5556,147.23
+2021-11-12 16:54:31.558359,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tampa Bay Buccaneers 2021/22 Total Wins,Under 12.5,-0.010099999999999998,0.4444,0.4545,147.23
+2021-11-12 16:54:31.470405,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Minnesota Vikings 2021/22 Total Wins,Under 7.5,-0.010699999999999932,0.5348,0.5455,147.23
+2021-11-12 16:54:31.311284,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Under 9.5,-0.010699999999999932,0.5348,0.5455,147.23
+2021-11-12 16:54:31.377306,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Under 7.5,-0.011099999999999999,0.4651,0.4762,147.23
+2021-11-12 16:54:31.452341,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Over 4.5,-0.011600000000000055,0.5122,0.5238,147.23
+2021-11-12 16:54:31.342595,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Las Vegas Raiders 2021/22 Total Wins,Under 8.5,-0.012199999999999989,0.5,0.5122,147.23
+2021-11-12 16:54:31.461151,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Chargers 2021/22 Total Wins,Under 10.5,-0.012199999999999989,0.5,0.5122,147.23
+2021-11-12 16:54:32.419652,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Michigan,-0.0131,0.2222,0.2353,147.22
+2021-11-12 16:54:31.972047,Boxing Lines - Billam-Smith Chris vs Dylan Bregeon - To Win the Bout,Billam-Smith Chris,-0.014100000000000001,0.9615,0.9756,147.23
+2021-11-12 16:54:33.014632,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Jalen Green,-0.015100000000000002,0.1667,0.1818,147.2
+2021-11-12 16:54:31.479277,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Under 9.5,-0.01539999999999997,0.6,0.6154,147.23
+2021-11-12 16:54:31.352533,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Under 6.5,-0.01539999999999997,0.6,0.6154,147.23
+2021-11-12 16:54:32.220551,Boxing Lines - Devin Haney vs Joseph Diaz - To Win the Bout,Joseph Diaz,-0.015899999999999997,0.2222,0.2381,147.22
+2021-11-12 16:54:32.114207,Boxing Lines - Jaime Munguia vs Gabriel Rosado - To Win the Bout,Jaime Munguia,-0.017900000000000027,0.8571,0.875,147.22
+2021-11-12 19:18:13.682174,Boxing Lines - Jaime Munguia vs Gabriel Rosado - To Win the Bout,Gabriel Rosado,-0.01999999999999999,0.1905,0.2105,3.53
+2021-11-12 16:54:32.258865,BKFC 22 - James Rodriguez vs Brian Maxwell - To Win the Bout,Brian Maxwell,-0.02169999999999994,0.5238,0.5455,147.22
+2021-11-12 16:54:31.153939,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Baltimore Ravens,-0.0242,0.0667,0.0909,147.23
+2021-11-12 16:54:32.334870,BKFC 22 - Britain Hart vs Pearl Gonzalez - To Win the Bout,Britain Hart,-0.025600000000000067,0.6667,0.6923,147.22
+2021-11-12 16:54:31.165326,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Baltimore Ravens,-0.033399999999999985,0.1333,0.1667,147.23
+2021-11-12 16:54:32.288655,BKFC 22 - Montaser Aboughaly vs Jonathan Noah - To Win the Bout,Jonathan Noah,-0.03570000000000001,0.25,0.2857,147.22
+2021-11-12 16:54:31.369280,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Washington Football Team 2021/22 Total Wins,Under 5.5,-0.04290000000000005,0.6,0.6429,147.23
+2021-11-12 16:54:31.532135,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Pittsburgh Steelers 2021/22 Total Wins,Under 8.5,-0.045499999999999985,0.4545,0.5,147.23
+2021-11-12 16:54:32.270345,BKFC 22 - Joshuah Alvarez vs Arthur Walcott-Ceesay - To Win the Bout,Joshuah Alvarez,-0.04760000000000009,0.6667,0.7143,147.22
+2021-11-12 16:54:31.444788,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Under 8.5,-0.059799999999999964,0.5556,0.6154,147.23
+2021-11-12 16:54:31.401897,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Chicago Bears 2021/22 Total Wins,Over  5.5,-0.059799999999999964,0.5556,0.6154,147.23
+2021-11-12 16:54:32.358351,BKFC 22 - Hector Lombard vs Lorenzo Hunt - To Win the Bout,Hector Lombard,-0.06519999999999992,0.5348,0.6,147.22
+2021-11-12 16:54:31.207817,NFL Futures - AFC North - Division Winner,Baltimore Ravens,-0.08079999999999998,0.5556,0.6364,147.23
+2021-11-12 16:54:32.300493,BKFC 22 - Rusty Crowder vs Howard Davis - To Win the Bout,Rusty Crowder,-0.0917,0.5,0.5917,147.22
+2021-11-12 16:54:32.346709,BKFC 22 - Luis Palomino vs Dat Nguyen - To Win the Bout,Dat Nguyen,-0.09179999999999999,0.4082,0.5,147.22
+2021-11-12 16:54:32.323389,BKFC 22 - Gustavo Trujillo vs Mike Kyle - To Win the Bout,Mike Kyle,-0.0952,0.1905,0.2857,147.22
