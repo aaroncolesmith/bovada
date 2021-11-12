@@ -1,52 +1,70 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability,minutes_ago
-2021-11-11 20:28:37.299765,Miscellaneous - Odds to win 2022 Presidential Election in the Philippines - Outright,Sara Duterte,0.0889,0.2222,0.1333,3.55
-2021-11-11 20:28:39.058611,BKFC 22 - Hector Lombard vs Lorenzo Hunt - To Win the Bout,Hector Lombard,0.06519999999999992,0.6,0.5348,3.52
-2021-11-11 20:28:39.001112,BKFC 22 - Rusty Crowder vs Howard Davis - To Win the Bout,Rusty Crowder,0.05689999999999995,0.5917,0.5348,3.52
-2021-11-11 20:28:38.990833,BKFC 22 - Montaser Aboughaly vs Jonathan Noah - To Win the Bout,Jonathan Noah,0.0504,0.2857,0.2353,3.53
-2021-11-11 20:28:37.272648,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Republican,0.04760000000000003,0.5238,0.4762,3.55
-2021-11-11 20:28:38.957476,BKFC 22 - Tyler Randall vs Anthony Prater - To Win the Bout,Anthony Prater,0.039600000000000024,0.4651,0.4255,3.53
-2021-11-11 20:28:37.209880,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Democratic,0.03839999999999999,0.3509,0.3125,3.55
-2021-11-11 20:28:38.424306,College Basketball - Southeastern Conference Winner - Outright,LSU,0.03420000000000001,0.1111,0.0769,3.53
-2021-11-11 20:28:39.172383,NBA Season Props - 2021/22 NBA Awards - 2022 The Sixth Man,Carmelo Anthony,0.0321,0.0909,0.0588,3.52
-2021-11-11 20:28:39.038058,BKFC 22 - Britain Hart vs Pearl Gonzalez - To Win the Bout,Britain Hart,0.025600000000000067,0.6923,0.6667,3.52
-2021-11-11 20:28:37.261670,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Donald Trump,0.022699999999999998,0.4878,0.4651,3.55
-2021-11-11 20:28:39.259089,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,0.022199999999999998,0.8,0.7778,3.52
-2021-11-11 20:28:38.534558,MLB Specials - Where will Marcus Stroman Play Game 1 of the 2022 MLB Season? - Outright,Los Angeles Angels,0.022199999999999998,0.1333,0.1111,3.53
-2021-11-11 20:28:39.012853,BKFC 22 - Marcus Brimage vs Will Shutt - To Win the Bout,Marcus Brimage,0.02080000000000004,0.6875,0.6667,3.52
-2021-11-11 20:28:39.738745,College Specials - NCAAB Awards 2021-2022 - Odds to win Naismith Men's College Player of the Year 2021-2022,Adam Flagler,0.0204,0.0244,0.004,3.52
-2021-11-11 20:28:39.738745,College Specials - NCAAB Awards 2021-2022 - Odds to win Naismith Men's College Player of the Year 2021-2022,Ochai Agbaji,0.0203,0.0588,0.0385,3.52
-2021-11-11 20:28:39.726338,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Ochai Agbaji,0.0203,0.0588,0.0385,3.52
-2021-11-11 20:28:37.286932,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Ron DeSantis,0.02020000000000001,0.1111,0.0909,3.55
-2021-11-11 20:28:39.172383,NBA Season Props - 2021/22 NBA Awards - 2022 The Sixth Man,Montrezl Harrell,0.018099999999999998,0.0769,0.0588,3.52
-2021-11-11 20:28:39.236432,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.01759999999999999,0.1176,0.1,3.52
-2021-11-11 20:28:39.327950,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,0.015100000000000002,0.1818,0.1667,3.52
-2021-11-11 20:28:37.286932,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Mike Pence,0.014100000000000001,0.0526,0.0385,3.55
-2021-11-11 20:28:39.236432,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Utah Jazz,0.013999999999999999,0.0909,0.0769,3.52
-2021-11-11 20:28:38.969610,BKFC 22 - Francesco Ricchi vs Brad Kelly - To Win the Bout,Francesco Ricchi,0.013799999999999923,0.6364,0.6226,3.53
-2021-11-11 20:28:39.292687,NBA Futures - 2022 NBA Southeast Division - Division Winner,Washington Wizards,0.011199999999999995,0.0588,0.0476,3.52
-2021-11-11 20:28:39.151065,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Anthony Edwards,0.010700000000000001,0.0385,0.0278,3.52
-2021-11-11 20:28:38.936041,BKFC 22 - James Rodriguez vs Brian Maxwell - To Win the Bout,Brian Maxwell,0.010699999999999932,0.5455,0.5348,3.53
-2021-11-11 20:28:37.272648,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Any Other,-0.0102,0.0667,0.0769,3.55
-2021-11-11 20:28:39.236432,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.0102,0.0667,0.0769,3.52
-2021-11-11 20:28:38.702469,Boxing Lines - Dina Thorslund vs Zulina Munoz - To Win the Bout,Zulina Munoz,-0.010899999999999993,0.1429,0.1538,3.53
-2021-11-11 20:28:38.936041,BKFC 22 - James Rodriguez vs Brian Maxwell - To Win the Bout,James Rodriguez,-0.01100000000000001,0.5238,0.5348,3.53
-2021-11-11 20:28:37.286932,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,John Kasich,-0.012100000000000001,0.0123,0.0244,3.55
-2021-11-11 20:28:39.281658,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,-0.013300000000000034,0.3571,0.3704,3.52
-2021-11-11 20:28:37.299765,Miscellaneous - Odds to win 2022 Presidential Election in the Philippines - Outright,Alan Peter Cayetano,-0.015499999999999998,0.0123,0.0278,3.55
-2021-11-11 20:28:39.327950,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,-0.016600000000000004,0.0667,0.0833,3.52
-2021-11-11 20:28:39.259089,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,-0.016699999999999993,0.25,0.2667,3.52
-2021-11-11 20:28:37.261670,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Ron DeSantis,-0.01820000000000002,0.1818,0.2,3.55
-2021-11-11 20:28:38.969610,BKFC 22 - Francesco Ricchi vs Brad Kelly - To Win the Bout,Brad Kelly,-0.018900000000000028,0.4255,0.4444,3.53
-2021-11-11 20:28:38.534558,MLB Specials - Where will Marcus Stroman Play Game 1 of the 2022 MLB Season? - Outright,Chicago Cubs,-0.022199999999999998,0.2,0.2222,3.53
-2021-11-11 20:28:39.151065,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Miles Bridges,-0.022199999999999998,0.2,0.2222,3.52
-2021-11-11 20:28:39.012853,BKFC 22 - Marcus Brimage vs Will Shutt - To Win the Bout,Will Shutt,-0.02260000000000001,0.3774,0.4,3.52
-2021-11-11 20:28:37.286932,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Kamala Harris,-0.023799999999999988,0.1429,0.1667,3.55
-2021-11-11 20:28:39.738745,College Specials - NCAAB Awards 2021-2022 - Odds to win Naismith Men's College Player of the Year 2021-2022,Trevion Williams,-0.0242,0.0667,0.0909,3.52
-2021-11-11 20:28:39.726338,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Trevion Williams,-0.0242,0.0667,0.0909,3.52
-2021-11-11 20:28:39.038058,BKFC 22 - Britain Hart vs Pearl Gonzalez - To Win the Bout,Pearl Gonzalez,-0.029600000000000015,0.3704,0.4,3.52
-2021-11-11 20:28:37.299765,Miscellaneous - Odds to win 2022 Presidential Election in the Philippines - Outright,Bong Go,-0.031,0.0278,0.0588,3.55
-2021-11-11 20:28:37.272648,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Democratic,-0.03479999999999994,0.5652,0.6,3.55
-2021-11-11 20:28:38.957476,BKFC 22 - Tyler Randall vs Anthony Prater - To Win the Bout,Tyler Randall,-0.03639999999999999,0.6,0.6364,3.53
-2021-11-11 20:28:38.990833,BKFC 22 - Montaser Aboughaly vs Jonathan Noah - To Win the Bout,Montaser Aboughaly,-0.055499999999999994,0.7778,0.8333,3.53
-2021-11-11 20:28:39.001112,BKFC 22 - Rusty Crowder vs Howard Davis - To Win the Bout,Howard Davis,-0.05860000000000004,0.4762,0.5348,3.52
-2021-11-11 20:28:39.058611,BKFC 22 - Hector Lombard vs Lorenzo Hunt - To Win the Bout,Lorenzo Hunt,-0.06970000000000004,0.4651,0.5348,3.52
+2021-11-12 16:54:32.323389,BKFC 22 - Gustavo Trujillo vs Mike Kyle - To Win the Bout,Gustavo Trujillo,0.09719999999999995,0.875,0.7778,3.73
+2021-11-12 16:54:32.346709,BKFC 22 - Luis Palomino vs Dat Nguyen - To Win the Bout,Luis Palomino,0.08999999999999997,0.6552,0.5652,3.73
+2021-11-12 16:54:32.300493,BKFC 22 - Rusty Crowder vs Howard Davis - To Win the Bout,Howard Davis,0.08900000000000002,0.5652,0.4762,3.73
+2021-11-12 16:54:32.358351,BKFC 22 - Hector Lombard vs Lorenzo Hunt - To Win the Bout,Lorenzo Hunt,0.06970000000000004,0.5348,0.4651,3.73
+2021-11-12 16:54:31.401897,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Chicago Bears 2021/22 Total Wins,Under 5.5,0.057699999999999974,0.5122,0.4545,3.75
+2021-11-12 16:54:31.444788,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Over 8.5,0.057699999999999974,0.5122,0.4545,3.75
+2021-11-12 16:54:31.532135,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Pittsburgh Steelers 2021/22 Total Wins,Over 8.5,0.05019999999999991,0.6154,0.5652,3.75
+2021-11-12 16:54:32.270345,BKFC 22 - Joshuah Alvarez vs Arthur Walcott-Ceesay - To Win the Bout,Arthur Walcott-Ceesay,0.04910000000000003,0.4,0.3509,3.73
+2021-11-12 16:54:32.288655,BKFC 22 - Montaser Aboughaly vs Jonathan Noah - To Win the Bout,Montaser Aboughaly,0.04039999999999999,0.8182,0.7778,3.73
+2021-11-12 16:54:31.369280,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Washington Football Team 2021/22 Total Wins,Over  5.5,0.039600000000000024,0.4651,0.4255,3.75
+2021-11-12 16:54:33.014632,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Scottie Barnes,0.03570000000000001,0.2857,0.25,3.72
+2021-11-12 16:54:31.165326,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Tennessee Titans,0.033300000000000024,0.2,0.1667,3.75
+2021-11-12 16:54:32.334870,BKFC 22 - Britain Hart vs Pearl Gonzalez - To Win the Bout,Pearl Gonzalez,0.029600000000000015,0.4,0.3704,3.73
+2021-11-12 16:54:31.207817,NFL Futures - AFC North - Division Winner,Cleveland Browns,0.028700000000000003,0.2105,0.1818,3.75
+2021-11-12 16:54:31.207817,NFL Futures - AFC North - Division Winner,Pittsburgh Steelers,0.027999999999999997,0.1818,0.1538,3.75
+2021-11-12 16:54:31.180013,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Dallas Cowboys,0.027999999999999997,0.1818,0.1538,3.75
+2021-11-12 16:54:31.180013,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Arizona Cardinals,0.02779999999999999,0.25,0.2222,3.75
+2021-11-12 16:54:31.165326,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,0.023799999999999988,0.1667,0.1429,3.75
+2021-11-12 16:54:32.258865,BKFC 22 - James Rodriguez vs Brian Maxwell - To Win the Bout,James Rodriguez,0.02169999999999994,0.5455,0.5238,3.73
+2021-11-12 16:54:32.114207,Boxing Lines - Jaime Munguia vs Gabriel Rosado - To Win the Bout,Gabriel Rosado,0.01999999999999999,0.2105,0.1905,3.73
+2021-11-12 16:54:31.165326,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Buffalo Bills,0.019000000000000017,0.2857,0.2667,3.75
+2021-11-12 16:54:31.180013,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Tampa Bay Buccaneers,0.019000000000000017,0.2857,0.2667,3.75
+2021-11-12 16:54:33.149638,NBA Futures - 2022 NBA Southeast Division - Division Winner,Washington Wizards,0.018099999999999998,0.0769,0.0588,3.72
+2021-11-12 16:54:31.377306,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Over 7.5,0.016699999999999937,0.6,0.5833,3.75
+2021-11-12 16:54:33.027206,NBA Season Props - 2021/22 NBA Awards - 2022 The Sixth Man,Montrezl Harrell,0.013999999999999999,0.0909,0.0769,3.72
+2021-11-12 16:54:33.002651,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Michael Porter Jr.,0.0139,0.0179,0.004,3.72
+2021-11-12 16:54:33.014632,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Evan Mobley,0.0131,0.2353,0.2222,3.72
+2021-11-12 16:54:32.220551,Boxing Lines - Devin Haney vs Joseph Diaz - To Win the Bout,Devin Haney,0.012899999999999912,0.8462,0.8333,3.73
+2021-11-12 16:54:31.510539,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Jets 2021/22 Total Wins,Over 4.5,0.012199999999999989,0.5,0.4878,3.75
+2021-11-12 16:54:31.520434,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Philadelphia Eagles 2021/22 Total Wins,Over 7.5,0.012199999999999989,0.5,0.4878,3.75
+2021-11-12 16:54:31.385588,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Buffalo Bills 2021/22 Total Wins,Under 11.5,0.012199999999999989,0.5122,0.5,3.75
+2021-11-12 16:54:31.427772,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Detroit Lions 2021/22 Total Wins,Under 1.5,0.012199999999999989,0.5122,0.5,3.75
+2021-11-12 16:54:31.470405,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Minnesota Vikings 2021/22 Total Wins,Over 7.5,0.01100000000000001,0.5348,0.5238,3.75
+2021-11-12 16:54:31.311284,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Over 9.5,0.01100000000000001,0.5348,0.5238,3.75
+2021-11-12 16:54:31.194645,NFL Futures - AFC East - Division Winner,Miami Dolphins,0.0109,0.0149,0.004,3.75
+2021-11-12 16:54:32.969985,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Kevin Durant,0.010899999999999993,0.1538,0.1429,3.73
+2021-11-12 16:54:31.479277,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Over 9.5,0.010599999999999998,0.4651,0.4545,3.75
+2021-11-12 16:54:31.352533,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Over 6.5,0.010599999999999998,0.4651,0.4545,3.75
+2021-11-12 16:54:31.411393,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Dallas Cowboys 2021/22 Total Wins,Over 12.5,0.010099999999999998,0.4545,0.4444,3.75
+2021-11-12 16:54:31.452341,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Under 4.5,0.010099999999999998,0.5556,0.5455,3.75
+2021-11-12 16:54:31.292614,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Arizona Cardinals 2021/22 Total Wins,Under 13.5,-0.010099999999999998,0.5455,0.5556,3.75
+2021-11-12 16:54:31.558359,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tampa Bay Buccaneers 2021/22 Total Wins,Under 12.5,-0.010099999999999998,0.4444,0.4545,3.75
+2021-11-12 16:54:31.311284,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Under 9.5,-0.010699999999999932,0.5348,0.5455,3.75
+2021-11-12 16:54:31.470405,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Minnesota Vikings 2021/22 Total Wins,Under 7.5,-0.010699999999999932,0.5348,0.5455,3.75
+2021-11-12 16:54:31.377306,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Under 7.5,-0.011099999999999999,0.4651,0.4762,3.75
+2021-11-12 16:54:31.452341,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Over 4.5,-0.011600000000000055,0.5122,0.5238,3.75
+2021-11-12 16:54:31.342595,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Las Vegas Raiders 2021/22 Total Wins,Under 8.5,-0.012199999999999989,0.5,0.5122,3.75
+2021-11-12 16:54:31.461151,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Chargers 2021/22 Total Wins,Under 10.5,-0.012199999999999989,0.5,0.5122,3.75
+2021-11-12 16:54:31.972047,Boxing Lines - Billam-Smith Chris vs Dylan Bregeon - To Win the Bout,Billam-Smith Chris,-0.014100000000000001,0.9615,0.9756,3.75
+2021-11-12 16:54:33.014632,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Jalen Green,-0.015100000000000002,0.1667,0.1818,3.72
+2021-11-12 16:54:31.352533,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Under 6.5,-0.01539999999999997,0.6,0.6154,3.75
+2021-11-12 16:54:31.479277,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Under 9.5,-0.01539999999999997,0.6,0.6154,3.75
+2021-11-12 16:54:32.220551,Boxing Lines - Devin Haney vs Joseph Diaz - To Win the Bout,Joseph Diaz,-0.015899999999999997,0.2222,0.2381,3.73
+2021-11-12 16:54:32.114207,Boxing Lines - Jaime Munguia vs Gabriel Rosado - To Win the Bout,Jaime Munguia,-0.017900000000000027,0.8571,0.875,3.73
+2021-11-12 16:54:32.258865,BKFC 22 - James Rodriguez vs Brian Maxwell - To Win the Bout,Brian Maxwell,-0.02169999999999994,0.5238,0.5455,3.73
+2021-11-12 16:54:31.153939,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Baltimore Ravens,-0.0242,0.0667,0.0909,3.75
+2021-11-12 16:54:32.334870,BKFC 22 - Britain Hart vs Pearl Gonzalez - To Win the Bout,Britain Hart,-0.025600000000000067,0.6667,0.6923,3.73
+2021-11-12 16:54:31.165326,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Baltimore Ravens,-0.033399999999999985,0.1333,0.1667,3.75
+2021-11-12 16:54:32.288655,BKFC 22 - Montaser Aboughaly vs Jonathan Noah - To Win the Bout,Jonathan Noah,-0.03570000000000001,0.25,0.2857,3.73
+2021-11-12 16:54:31.369280,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Washington Football Team 2021/22 Total Wins,Under 5.5,-0.04290000000000005,0.6,0.6429,3.75
+2021-11-12 16:54:31.532135,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Pittsburgh Steelers 2021/22 Total Wins,Under 8.5,-0.045499999999999985,0.4545,0.5,3.75
+2021-11-12 16:54:32.270345,BKFC 22 - Joshuah Alvarez vs Arthur Walcott-Ceesay - To Win the Bout,Joshuah Alvarez,-0.04760000000000009,0.6667,0.7143,3.73
+2021-11-12 16:54:31.444788,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Under 8.5,-0.059799999999999964,0.5556,0.6154,3.75
+2021-11-12 16:54:31.401897,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Chicago Bears 2021/22 Total Wins,Over  5.5,-0.059799999999999964,0.5556,0.6154,3.75
+2021-11-12 16:54:32.358351,BKFC 22 - Hector Lombard vs Lorenzo Hunt - To Win the Bout,Hector Lombard,-0.06519999999999992,0.5348,0.6,3.73
+2021-11-12 16:54:31.207817,NFL Futures - AFC North - Division Winner,Baltimore Ravens,-0.08079999999999998,0.5556,0.6364,3.75
+2021-11-12 16:54:32.300493,BKFC 22 - Rusty Crowder vs Howard Davis - To Win the Bout,Rusty Crowder,-0.0917,0.5,0.5917,3.73
+2021-11-12 16:54:32.346709,BKFC 22 - Luis Palomino vs Dat Nguyen - To Win the Bout,Dat Nguyen,-0.09179999999999999,0.4082,0.5,3.73
+2021-11-12 16:54:32.323389,BKFC 22 - Gustavo Trujillo vs Mike Kyle - To Win the Bout,Mike Kyle,-0.0952,0.1905,0.2857,3.73
