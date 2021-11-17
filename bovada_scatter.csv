@@ -1,95 +1,87 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability,minutes_ago
-2021-11-16 14:42:26.047990,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,Cooper Kupp,0.18330000000000002,0.5833,0.4,4.17
-2021-11-16 14:42:26.039532,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Cooper Kupp,0.10010000000000002,0.5652,0.4651,4.17
-2021-11-16 14:42:26.021268,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Derek Carr,0.07579999999999999,0.1667,0.0909,4.17
-2021-11-16 14:42:26.081885,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Justin Fields,0.0713,0.0909,0.0196,4.17
-2021-11-16 14:42:25.749256,NFL Futures - NFC West - Division Winner,Arizona Cardinals,0.06669999999999998,0.6667,0.6,4.18
-2021-11-16 14:42:26.030442,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Mike Evans,0.04909999999999999,0.1667,0.1176,4.17
-2021-11-16 14:42:26.021268,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Matthew Stafford,0.03950000000000001,0.25,0.2105,4.17
-2021-11-16 14:42:25.963599,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Cooper Kupp,0.03489999999999999,0.5,0.4651,4.18
-2021-11-16 14:42:26.039532,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Davante Adams,0.034100000000000005,0.125,0.0909,4.17
-2021-11-16 14:42:25.971271,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Mac Jones,0.031799999999999995,0.4762,0.4444,4.18
-2021-11-16 14:42:26.011336,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Josh Allen,0.030199999999999998,0.0625,0.0323,4.17
-2021-11-16 14:42:25.297046,Boxing Lines - Terence Crawford vs Shawn Porter - To Win the Bout,Terence Crawford,0.025000000000000022,0.9,0.875,4.18
-2021-11-16 14:42:26.064507,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Najee Harris,0.024,0.0625,0.0385,4.17
-2021-11-16 14:42:26.047990,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,Brandin Cooks,0.024,0.0625,0.0385,4.17
-2021-11-16 14:42:26.030442,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Mike Williams,0.023899999999999998,0.0435,0.0196,4.17
-2021-11-16 14:42:25.862196,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Dallas Cowboys 2021/22 Total Wins,Under 12.5,0.023799999999999988,0.5,0.4762,4.18
-2021-11-16 14:42:26.056393,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing TD's,James Conner,0.023799999999999988,0.5,0.4762,4.17
-2021-11-16 14:42:26.056393,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing TD's,Ezekiel Elliot,0.02310000000000001,0.1,0.0769,4.17
-2021-11-16 14:42:25.813161,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Miami Dolphins 2021/22 Total Wins,Under 6.5,0.022600000000000064,0.6226,0.6,4.18
-2021-11-16 14:42:25.981124,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Kyle Shanahan,0.022400000000000003,0.0323,0.0099,4.18
-2021-11-16 14:42:25.946402,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Trevon Diggs,0.022199999999999998,0.2222,0.2,4.18
-2021-11-16 14:42:25.749256,NFL Futures - NFC West - Division Winner,San Francisco 49ers,0.022099999999999998,0.0385,0.0164,4.18
-2021-11-16 14:42:25.937501,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Patrick Mahomes,0.0203,0.0588,0.0385,4.18
-2021-11-16 14:42:26.011336,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Kyler Murray,0.0189,0.0385,0.0196,4.17
-2021-11-16 14:42:26.011336,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Kirk Cousins,0.0189,0.0385,0.0196,4.17
-2021-11-16 14:42:26.056393,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing TD's,Austin Ekeler,0.0189,0.0385,0.0196,4.17
-2021-11-16 14:42:25.848182,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Chicago Bears 2021/22 Total Wins,Over 7.5,0.017299999999999982,0.5917,0.5744,4.18
-2021-11-16 14:42:25.251061,Boxing Lines - Joel Camilleri vs Koen Mazoudier - To Win the Bout,Koen Mazoudier,0.01629999999999998,0.2632,0.2469,4.18
-2021-11-16 14:42:25.804909,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Las Vegas Raiders 2021/22 Total Wins,Under 8.5,0.01539999999999997,0.6154,0.6,4.18
-2021-11-16 14:42:26.047990,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,Travis Kelce,0.014899999999999997,0.0625,0.0476,4.17
-2021-11-16 14:42:25.639296,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Green Bay Packers,0.01440000000000001,0.1053,0.0909,4.18
-2021-11-16 14:42:26.072679,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Harold Landry,0.014399999999999996,0.0769,0.0625,4.17
-2021-11-16 14:42:26.047990,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,Keenan Allen,0.013999999999999999,0.0909,0.0769,4.17
-2021-11-16 14:42:27.119954,FIFA World Cup 2022 - FIFA World Cup 2022 - Outright Winner,England,0.013899999999999996,0.125,0.1111,4.15
-2021-11-16 14:42:25.684087,NFL Futures - AFC North - Division Winner,Cincinnati Bengals,0.012899999999999995,0.1667,0.1538,4.18
-2021-11-16 14:42:26.081885,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Davis Mills,0.012700000000000003,0.0323,0.0196,4.17
-2021-11-16 14:42:26.081885,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Sam Darnold,0.012700000000000003,0.0323,0.0196,4.17
-2021-11-16 14:42:26.030442,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Marquise Brown,0.012700000000000003,0.0323,0.0196,4.17
-2021-11-16 14:42:25.971271,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Trevor Lawrence,0.012599999999999998,0.0278,0.0152,4.18
-2021-11-16 14:42:25.896756,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Under 8.5,0.011099999999999999,0.4762,0.4651,4.18
-2021-11-16 14:42:25.988917,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Derwin James,0.010700000000000001,0.0385,0.0278,4.18
-2021-11-16 14:42:25.855156,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Under 8.5,0.010599999999999998,0.4651,0.4545,4.18
-2021-11-16 14:42:25.937501,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Tom Brady,0.010499999999999982,0.2105,0.2,4.18
-2021-11-16 14:42:25.260192,Boxing Lines - Wade Ryan vs Nath Nwachukwu - To Win the Bout,Wade Ryan,-0.010099999999999998,0.6774,0.6875,4.18
-2021-11-16 14:42:25.820438,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Over 7.5,-0.010099999999999998,0.4444,0.4545,4.18
-2021-11-16 14:42:25.804909,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Las Vegas Raiders 2021/22 Total Wins,Over 8.5,-0.010599999999999998,0.4545,0.4651,4.18
-2021-11-16 14:42:25.937501,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Josh Allen,-0.010699999999999987,0.3226,0.3333,4.18
-2021-11-16 14:42:26.064507,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Darrell Henderson Jr,-0.011199999999999995,0.0476,0.0588,4.17
-2021-11-16 14:42:26.021268,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Dak Prescott,-0.011199999999999995,0.0476,0.0588,4.17
-2021-11-16 14:42:25.848182,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Chicago Bears 2021/22 Total Wins,Under 7.5,-0.0116,0.4762,0.4878,4.18
-2021-11-16 14:42:25.827358,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Baltimore Ravens 2021/22 Total Wins,Under 10.5,-0.012199999999999989,0.4878,0.5,4.18
-2021-11-16 14:42:25.651221,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,-0.0131,0.2222,0.2353,4.18
-2021-11-16 14:42:26.064507,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Ezekiel Elliot,-0.013899999999999996,0.1111,0.125,4.17
-2021-11-16 14:42:25.937501,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Matthew Stafford,-0.013899999999999996,0.1111,0.125,4.18
-2021-11-16 14:42:25.981124,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Sean McVay,-0.013999999999999999,0.0769,0.0909,4.18
-2021-11-16 14:42:26.021268,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Justin Herbert,-0.013999999999999999,0.0769,0.0909,4.17
-2021-11-16 14:42:25.981124,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Sean McDermott,-0.014399999999999996,0.0625,0.0769,4.18
-2021-11-16 14:42:25.988917,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Carson Wentz,-0.014899999999999997,0.0476,0.0625,4.18
-2021-11-16 14:42:26.030442,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Adam Thielen,-0.014899999999999997,0.0476,0.0625,4.17
-2021-11-16 14:42:26.064507,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Lamar Jackson,-0.015300000000000001,0.0323,0.0476,4.17
-2021-11-16 14:42:25.855156,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Over 8.5,-0.01539999999999997,0.6,0.6154,4.18
-2021-11-16 14:42:25.251061,Boxing Lines - Joel Camilleri vs Koen Mazoudier - To Win the Bout,Joel Camilleri,-0.016599999999999948,0.8095,0.8261,4.18
-2021-11-16 14:42:25.888190,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Green Bay Packers 2021/22 Total Wins,Over 12.5,-0.016699999999999937,0.5833,0.6,4.18
-2021-11-16 14:42:25.651221,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Buffalo Bills,-0.016699999999999993,0.25,0.2667,4.18
-2021-11-16 14:42:25.981124,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Mike Vrabel,-0.01820000000000002,0.1818,0.2,4.18
-2021-11-16 14:42:25.639296,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Los Angeles Rams,-0.019699999999999995,0.1053,0.125,4.18
-2021-11-16 14:42:25.663018,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Los Angeles Rams,-0.01999999999999999,0.1905,0.2105,4.18
-2021-11-16 14:42:25.813161,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Miami Dolphins 2021/22 Total Wins,Over 6.5,-0.020699999999999996,0.4444,0.4651,4.18
-2021-11-16 14:42:25.918186,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Rams 2021/22 Total Wins,Over 11.5,-0.02079999999999993,0.5348,0.5556,4.18
-2021-11-16 14:42:26.081885,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Matt Ryan,-0.023200000000000002,0.0244,0.0476,4.17
-2021-11-16 14:42:26.064507,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Jonathan Taylor,-0.023799999999999932,0.6429,0.6667,4.17
-2021-11-16 14:42:25.297046,Boxing Lines - Terence Crawford vs Shawn Porter - To Win the Bout,Shawn Porter,-0.023800000000000016,0.1667,0.1905,4.18
-2021-11-16 14:42:25.684087,NFL Futures - AFC North - Division Winner,Baltimore Ravens,-0.025599999999999956,0.5744,0.6,4.18
-2021-11-16 14:42:26.021268,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Tom Brady,-0.02560000000000001,0.3077,0.3333,4.17
-2021-11-16 14:42:25.862196,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Dallas Cowboys 2021/22 Total Wins,Over 12.5,-0.026499999999999968,0.5652,0.5917,4.18
-2021-11-16 14:42:26.011336,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Dak Prescot,-0.0267,0.0909,0.1176,4.17
-2021-11-16 14:42:26.030442,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,DK Metcalf,-0.0267,0.0909,0.1176,4.17
-2021-11-16 14:42:26.064507,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Joe Mixon,-0.027800000000000005,0.0833,0.1111,4.17
-2021-11-16 14:42:25.663018,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Tampa Bay Buccaneers,-0.028599999999999987,0.2381,0.2667,4.18
-2021-11-16 14:42:25.988917,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Cam Newton,-0.034100000000000005,0.0909,0.125,4.18
-2021-11-16 14:42:25.946402,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Aaron Donald,-0.034100000000000005,0.0909,0.125,4.18
-2021-11-16 14:42:26.030442,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Cooper Kupp,-0.03570000000000001,0.25,0.2857,4.17
-2021-11-16 14:42:26.081885,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Patrick Mahomes,-0.0407,0.0769,0.1176,4.17
-2021-11-16 14:42:26.021268,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Patrick Mahomes,-0.04169999999999999,0.125,0.1667,4.17
-2021-11-16 14:42:25.946402,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,TJ Watt,-0.04620000000000002,0.1538,0.2,4.18
-2021-11-16 14:42:26.081885,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Joe Burrow,-0.04999999999999999,0.2,0.25,4.17
-2021-11-16 14:42:26.011336,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Matthew Stafford,-0.05550000000000002,0.1667,0.2222,4.17
-2021-11-16 14:42:26.064507,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Nick Chubb,-0.05710000000000001,0.1429,0.2,4.17
-2021-11-16 14:42:26.081885,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Zach Wilson,-0.0635,0.2222,0.2857,4.17
-2021-11-16 14:42:26.056393,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing TD's,Jonathan Taylor,-0.0635,0.2222,0.2857,4.17
-2021-11-16 14:42:25.749256,NFL Futures - NFC West - Division Winner,Los Angeles Rams,-0.06990000000000002,0.3846,0.4545,4.18
-2021-11-16 14:42:26.072679,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,T.J. Watt,-0.08330000000000001,0.1667,0.25,4.17
-2021-11-16 14:42:26.030442,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Tyreek Hill,-0.08339999999999999,0.0833,0.1667,4.17
-2021-11-16 14:42:25.971271,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Ja'Marr Chase,-0.09999999999999998,0.5,0.6,4.18
+2021-11-17 01:32:17.044721,NFL Specials - Who will be the Pittsburgh Steelers Starting QB for Game 1 of the 2022-2023 Seaosn? - Outright,Dwayne Haskins,0.22069999999999998,0.3636,0.1429,3.97
+2021-11-17 01:32:16.428081,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Over 8.5,0.1819,0.5455,0.3636,3.98
+2021-11-17 01:32:16.271192,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Washington Football Team 2021/22 Total Wins,Over  5.5,0.11820000000000003,0.5833,0.4651,3.98
+2021-11-17 01:32:16.852380,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - San Francisco 49ers ,Yes,0.1179,0.3846,0.2667,3.98
+2021-11-17 01:32:16.836446,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Philadelphia Eagles,Yes,0.11109999999999998,0.3333,0.2222,3.98
+2021-11-17 01:32:16.631886,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Green Bay Packers,0.09939999999999999,0.2532,0.1538,3.98
+2021-11-17 01:32:16.631886,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Tennessee Titans,0.09620000000000001,0.25,0.1538,3.98
+2021-11-17 01:32:17.044721,NFL Specials - Who will be the Pittsburgh Steelers Starting QB for Game 1 of the 2022-2023 Seaosn? - Outright,Mason Rudolph,0.0857,0.2857,0.2,3.97
+2021-11-17 01:32:17.059175,College Season Props - 2021-2022 Odds to Make the 4 Team Playoff - To Make the Playoffs,Notre Dame,0.08240000000000001,0.2,0.1176,3.97
+2021-11-17 01:32:16.904037,NFL Specials - Detroit Lions First win of the Season - Outright,Vs Minnesota Vikings,0.056400000000000006,0.1333,0.0769,3.98
+2021-11-17 01:32:16.631886,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Dallas Cowboys,0.04909999999999999,0.1667,0.1176,3.98
+2021-11-17 01:32:16.639074,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Worst Regular Season Record,Detroit Lions,0.04409999999999992,0.6667,0.6226,3.98
+2021-11-17 01:32:17.440162,NBA Season Props - 2021/22 NBA Regular Season Team Wins - NO Pelicans Regular Season Wins,Under 30.5,0.04139999999999999,0.5652,0.5238,3.97
+2021-11-17 01:32:16.466307,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Cooper Kupp,0.0306,0.0385,0.0079,3.98
+2021-11-17 01:32:16.844328,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Pittsburgh Steelers,No,0.030299999999999994,0.697,0.6667,3.98
+2021-11-17 01:32:17.059175,College Season Props - 2021-2022 Odds to Make the 4 Team Playoff - To Make the Playoffs,Alabama,0.028900000000000037,0.5744,0.5455,3.97
+2021-11-17 01:32:15.371702,Boxing Lines - Dennis Hogan vs Tommy Browne - To Win the Bout,Tommy Browne,0.028799999999999992,0.1538,0.125,4.0
+2021-11-17 01:32:16.904037,NFL Specials - Detroit Lions First win of the Season - Outright,Vs Denver Broncos,0.028199999999999996,0.0667,0.0385,3.98
+2021-11-17 01:32:16.649145,NFL Season Props - NFL 2021/22 - Specials - Proposition,Any Player to Break the Regular Season Receiving Yards Record of 1964 Yards,0.02779999999999999,0.25,0.2222,3.98
+2021-11-17 01:32:16.437683,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Seattle Seahawks 2021/22 Total Wins,Under 8.5,0.023799999999999932,0.6667,0.6429,3.98
+2021-11-17 01:32:15.380008,Boxing Lines - Joel Camilleri vs Koen Mazoudier - To Win the Bout,Koen Mazoudier,0.02250000000000002,0.2857,0.2632,4.0
+2021-11-17 01:32:16.982676,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Pittsburgh Steelers,0.02239999999999999,0.1176,0.0952,3.98
+2021-11-17 01:32:16.574912,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Deebo Samuel,0.022199999999999998,0.2222,0.2,3.98
+2021-11-17 01:32:17.059175,College Season Props - 2021-2022 Odds to Make the 4 Team Playoff - To Make the Playoffs,Oregon,0.021399999999999975,0.2778,0.2564,3.97
+2021-11-17 01:32:17.148919,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,DeMar DeRozan,0.0204,0.0244,0.004,3.97
+2021-11-17 01:32:16.939859,NFL Specials - Next Coach to leave Post - Outright,Urban Meyer,0.01820000000000002,0.2,0.1818,3.98
+2021-11-17 01:32:17.059175,College Season Props - 2021-2022 Odds to Make the 4 Team Playoff - To Make the Playoffs,Michigan,0.01820000000000002,0.2,0.1818,3.97
+2021-11-17 01:32:16.769183,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Las Vegas Raiders,No,0.016700000000000048,0.75,0.7333,3.98
+2021-11-17 01:32:16.249149,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Under 6.5,0.01539999999999997,0.6154,0.6,3.98
+2021-11-17 01:32:16.713569,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Cincinnati Bengals,No,0.01539999999999997,0.6154,0.6,3.98
+2021-11-17 01:32:16.793491,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Miami Dolphins,Yes,0.015300000000000001,0.0588,0.0435,3.98
+2021-11-17 01:32:16.631886,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Kansas City Chiefs,0.0145,0.0244,0.0099,3.98
+2021-11-17 01:32:16.888028,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Washington Football Team,Yes,0.01440000000000001,0.1053,0.0909,3.98
+2021-11-17 01:32:16.939859,NFL Specials - Next Coach to leave Post - Outright,Vic Fangio,0.014100000000000001,0.0526,0.0385,3.98
+2021-11-17 01:32:16.939859,NFL Specials - Next Coach to leave Post - Outright,Pete Carroll,0.014099999999999994,0.0667,0.0526,3.98
+2021-11-17 01:32:16.811711,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - New England Patriots,No,0.014000000000000012,0.3125,0.2985,3.98
+2021-11-17 01:32:16.939859,NFL Specials - Next Coach to leave Post - Outright,Rich Bisaccia,0.013999999999999999,0.0909,0.0769,3.98
+2021-11-17 01:32:18.418021,Copa Libertadores - Copa Libertadores 2021 - Winner,Flamengo,0.013799999999999923,0.6364,0.6226,3.95
+2021-11-17 01:32:16.697297,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Carolina Panthers,Yes,0.01319999999999999,0.2632,0.25,3.98
+2021-11-17 01:32:15.387890,Boxing Lines - Wade Ryan vs Nath Nwachukwu - To Win the Bout,Nath Nwachukwu,0.012199999999999989,0.3968,0.3846,4.0
+2021-11-17 01:32:16.803151,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Minnesota Vikings,No,0.010700000000000043,0.6774,0.6667,3.98
+2021-11-17 01:32:16.777040,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Los Angeles Chargers,Yes,0.010700000000000043,0.6774,0.6667,3.98
+2021-11-17 01:32:16.083256,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Los Angeles Chargers,0.010700000000000001,0.0385,0.0278,3.98
+2021-11-17 01:32:16.939859,NFL Specials - Next Coach to leave Post - Outright,Kyle Shanahan,-0.010100000000000001,0.0244,0.0345,3.98
+2021-11-17 01:32:16.249149,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Over 6.5,-0.010599999999999998,0.4545,0.4651,3.98
+2021-11-17 01:32:16.713569,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Cincinnati Bengals,Yes,-0.010599999999999998,0.4545,0.4651,3.98
+2021-11-17 01:32:15.387890,Boxing Lines - Wade Ryan vs Nath Nwachukwu - To Win the Bout,Wade Ryan,-0.010700000000000043,0.6667,0.6774,4.0
+2021-11-17 01:32:16.939859,NFL Specials - Next Coach to leave Post - Outright,Andy Reid,-0.011199999999999995,0.0476,0.0588,3.98
+2021-11-17 01:32:16.761202,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Kansas City Chiefs,Yes,-0.011599999999999944,0.8403,0.8519,3.98
+2021-11-17 01:32:16.888028,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Washington Football Team,No,-0.014100000000000001,0.9615,0.9756,3.98
+2021-11-17 01:32:16.697297,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Carolina Panthers,No,-0.01430000000000009,0.8039,0.8182,3.98
+2021-11-17 01:32:17.044721,NFL Specials - Who will be the Pittsburgh Steelers Starting QB for Game 1 of the 2022-2023 Seaosn? - Outright,Ryan Fitzpatrick,-0.014899999999999997,0.0476,0.0625,3.97
+2021-11-17 01:32:16.420000,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Pittsburgh Steelers 2021/22 Total Wins,Over 7.5,-0.01539999999999997,0.6,0.6154,3.98
+2021-11-17 01:32:16.639074,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Worst Regular Season Record,Washington Football Team,-0.0179,0.0099,0.0278,3.98
+2021-11-17 01:32:16.939859,NFL Specials - Next Coach to leave Post - Outright,Dan Campbell,-0.018099999999999998,0.0588,0.0769,3.98
+2021-11-17 01:32:16.811711,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - New England Patriots,Yes,-0.019199999999999995,0.75,0.7692,3.98
+2021-11-17 01:32:16.939859,NFL Specials - Next Coach to leave Post - Outright,David Culley,-0.02020000000000001,0.0909,0.1111,3.98
+2021-11-17 01:32:16.631886,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Buffalo Bills,-0.02020000000000001,0.0909,0.1111,3.98
+2021-11-17 01:32:16.939859,NFL Specials - Next Coach to leave Post - Outright,Ron Rivera,-0.0203,0.0385,0.0588,3.98
+2021-11-17 01:32:16.769183,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Las Vegas Raiders,Yes,-0.020799999999999985,0.3125,0.3333,3.98
+2021-11-17 01:32:16.982676,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Denver Broncos,-0.021699999999999997,0.4545,0.4762,3.98
+2021-11-17 01:32:15.371702,Boxing Lines - Dennis Hogan vs Tommy Browne - To Win the Bout,Dennis Hogan,-0.0242,0.9091,0.9333,4.0
+2021-11-17 01:32:16.437683,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Seattle Seahawks 2021/22 Total Wins,Over 8.5,-0.025499999999999967,0.4,0.4255,3.98
+2021-11-17 01:32:16.631886,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Los Angeles Rams,-0.0267,0.0909,0.1176,3.98
+2021-11-17 01:32:16.939859,NFL Specials - Next Coach to leave Post - Outright,Nick Sirianni,-0.028000000000000004,0.0196,0.0476,3.98
+2021-11-17 01:32:17.044721,NFL Specials - Who will be the Pittsburgh Steelers Starting QB for Game 1 of the 2022-2023 Seaosn? - Outright,Matt Corral,-0.028399999999999995,0.0625,0.0909,3.97
+2021-11-17 01:32:17.059175,College Season Props - 2021-2022 Odds to Make the 4 Team Playoff - To Make the Playoffs,Michigan State,-0.029299999999999993,0.0476,0.0769,3.97
+2021-11-17 01:32:16.844328,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Pittsburgh Steelers,Yes,-0.029600000000000015,0.3704,0.4,3.98
+2021-11-17 01:32:16.939859,NFL Specials - Next Coach to leave Post - Outright,Brian Flores,-0.030699999999999998,0.0526,0.0833,3.98
+2021-11-17 01:32:15.380008,Boxing Lines - Joel Camilleri vs Koen Mazoudier - To Win the Bout,Joel Camilleri,-0.03169999999999995,0.7778,0.8095,4.0
+2021-11-17 01:32:18.418021,Copa Libertadores - Copa Libertadores 2021 - Winner,Palmeiras,-0.03290000000000004,0.4115,0.4444,3.95
+2021-11-17 01:32:16.939859,NFL Specials - Next Coach to leave Post - Outright,Mike Zimmer,-0.034100000000000005,0.0909,0.125,3.98
+2021-11-17 01:32:17.044721,NFL Specials - Who will be the Pittsburgh Steelers Starting QB for Game 1 of the 2022-2023 Seaosn? - Outright,Carson Strong,-0.037500000000000006,0.0625,0.1,3.97
+2021-11-17 01:32:16.904037,NFL Specials - Detroit Lions First win of the Season - Outright,Vs Seattle Seahawks,-0.038099999999999995,0.0244,0.0625,3.98
+2021-11-17 01:32:16.904037,NFL Specials - Detroit Lions First win of the Season - Outright,Vs Atlanta Falcons,-0.038299999999999994,0.0526,0.0909,3.98
+2021-11-17 01:32:16.639074,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Worst Regular Season Record,Houston Texans,-0.047599999999999976,0.2857,0.3333,3.98
+2021-11-17 01:32:17.440162,NBA Season Props - 2021/22 NBA Regular Season Team Wins - NO Pelicans Regular Season Wins,Over 30.5,-0.057699999999999974,0.4878,0.5455,3.97
+2021-11-17 01:32:16.631886,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Baltimore Ravens,-0.06309999999999999,0.0278,0.0909,3.98
+2021-11-17 01:32:16.631886,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Tampa Bay Buccaneers,-0.10460000000000001,0.1176,0.2222,3.98
+2021-11-17 01:32:16.836446,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Philadelphia Eagles,No,-0.1129,0.7333,0.8462,3.98
+2021-11-17 01:32:16.852380,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - San Francisco 49ers ,No,-0.11750000000000005,0.6825,0.8,3.98
+2021-11-17 01:32:16.631886,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Arizona Cardinals,-0.11900000000000002,0.1667,0.2857,3.98
+2021-11-17 01:32:16.271192,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Washington Football Team 2021/22 Total Wins,Under 5.5,-0.12379999999999997,0.4762,0.6,3.98
+2021-11-17 01:32:16.428081,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Under 8.5,-0.18209999999999993,0.5238,0.7059,3.98
+2021-11-17 01:32:17.044721,NFL Specials - Who will be the Pittsburgh Steelers Starting QB for Game 1 of the 2022-2023 Seaosn? - Outright,Aaron Rodgers,-0.2157,0.1176,0.3333,3.97
+2021-11-17 01:32:17.059175,College Season Props - 2021-2022 Odds to Make the 4 Team Playoff - To Make the Playoffs,Oklahoma,-0.3213,0.2941,0.6154,3.97
