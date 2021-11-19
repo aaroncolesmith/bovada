@@ -1,22 +1,79 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability,minutes_ago
-2021-11-19 04:57:38.869051,"MLB Specials - Will there be an MLB Lockout starting December 2, 2021? - Outright",Yes,0.020500000000000074,0.8667,0.8462,3.92
-2021-11-19 04:57:40.441810,College Specials - NCAAB Awards 2021-2022 - Odds to win Naismith Men's College Player of the Year 2021-2022,E.J. Liddell,0.019099999999999992,0.0667,0.0476,3.88
-2021-11-19 04:57:40.429847,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,E.J. Liddell,0.019099999999999992,0.0667,0.0476,3.88
-2021-11-19 04:57:39.432917,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Outright,Republican,0.018199999999999994,0.8182,0.8,3.9
-2021-11-19 04:57:39.074935,College Basketball - West Coast Conference Conference Winner - Outright,BYU,0.015300000000000001,0.0476,0.0323,3.9
-2021-11-19 04:57:39.048965,College Basketball - PAC 12 Conference  Winner - Outright,Washington State,0.015300000000000001,0.0476,0.0323,3.9
-2021-11-19 04:57:40.429847,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Max Abmas,-0.011199999999999995,0.0476,0.0588,3.88
-2021-11-19 04:57:40.441810,College Specials - NCAAB Awards 2021-2022 - Odds to win Naismith Men's College Player of the Year 2021-2022,Max Abmas,-0.011199999999999995,0.0476,0.0588,3.88
-2021-11-19 04:57:40.429847,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Marcus Carr,-0.012700000000000003,0.0196,0.0323,3.88
-2021-11-19 04:57:40.429847,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Jalen Duren,-0.012700000000000003,0.0196,0.0323,3.88
-2021-11-19 04:57:40.441810,College Specials - NCAAB Awards 2021-2022 - Odds to win Naismith Men's College Player of the Year 2021-2022,Jalen Duren,-0.012700000000000003,0.0196,0.0323,3.88
-2021-11-19 04:57:40.441810,College Specials - NCAAB Awards 2021-2022 - Odds to win Naismith Men's College Player of the Year 2021-2022,Marcus Carr,-0.012700000000000003,0.0196,0.0323,3.88
-2021-11-19 04:57:40.429847,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Chet Holmgren,-0.015300000000000001,0.0323,0.0476,3.88
-2021-11-19 04:57:40.441810,College Specials - NCAAB Awards 2021-2022 - Odds to win Naismith Men's College Player of the Year 2021-2022,Chet Holmgren,-0.015300000000000001,0.0323,0.0476,3.88
-2021-11-19 04:57:39.432917,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Outright,Democratic,-0.016699999999999993,0.25,0.2667,3.9
-2021-11-19 04:57:39.422710,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Democratic,-0.017600000000000005,0.3333,0.3509,3.9
-2021-11-19 04:57:40.441810,College Specials - NCAAB Awards 2021-2022 - Odds to win Naismith Men's College Player of the Year 2021-2022,Andre Curbelo,-0.019800000000000005,0.0278,0.0476,3.88
-2021-11-19 04:57:40.429847,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Andre Curbelo,-0.019800000000000005,0.0278,0.0476,3.88
-2021-11-19 04:57:38.869051,"MLB Specials - Will there be an MLB Lockout starting December 2, 2021? - Outright",No,-0.022199999999999998,0.2,0.2222,3.92
-2021-11-19 04:57:40.429847,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Trevion Williams,-0.028199999999999996,0.0385,0.0667,3.88
-2021-11-19 04:57:40.441810,College Specials - NCAAB Awards 2021-2022 - Odds to win Naismith Men's College Player of the Year 2021-2022,Trevion Williams,-0.028199999999999996,0.0385,0.0667,3.88
+2021-11-19 18:03:39.663965,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Mac Jones,0.07939999999999997,0.5556,0.4762,4.4
+2021-11-19 18:03:39.799192,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Atlanta Falcons,No,0.07740000000000002,0.9524,0.875,4.4
+2021-11-19 18:03:40.477058,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,0.055900000000000005,0.3636,0.3077,4.38
+2021-11-19 18:03:39.303356,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,0.043800000000000006,0.2105,0.1667,4.4
+2021-11-19 18:03:39.779110,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Matt Ryan,0.038099999999999995,0.0625,0.0244,4.4
+2021-11-19 18:03:39.328395,NFL Futures - AFC East - Division Winner,New England Patriots,0.03570000000000001,0.2857,0.25,4.4
+2021-11-19 18:03:40.651226,NBA Futures - 2022 NBA Southeast Division - Division Winner,Washington Wizards,0.03420000000000001,0.1111,0.0769,4.38
+2021-11-19 18:03:39.779110,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Taylor Heinicke,0.033300000000000024,0.2,0.1667,4.4
+2021-11-19 18:03:39.701144,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Matthew Stafford,0.033300000000000024,0.2,0.1667,4.4
+2021-11-19 18:03:39.715117,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Patrick Mahomes,0.028799999999999992,0.1538,0.125,4.4
+2021-11-19 18:03:41.785823,Brasileirao Série A - Campeonato Brasileiro Série A - 2021 - Outright,Atlético Mineiro,0.028200000000000003,0.9615,0.9333,4.37
+2021-11-19 18:03:39.303356,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,New England Patriots,0.0267,0.1176,0.0909,4.4
+2021-11-19 18:03:41.091291,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Ochai Agbaji,0.0242,0.0909,0.0667,4.37
+2021-11-19 18:03:39.671684,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Sean McDermott,0.024,0.0625,0.0385,4.4
+2021-11-19 18:03:39.287730,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,New England Patriots,0.024,0.0625,0.0385,4.4
+2021-11-19 18:03:39.755590,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing TD's,James Conner,0.023800000000000043,0.5238,0.5,4.4
+2021-11-19 18:03:39.287730,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tennessee Titans,0.02310000000000001,0.1,0.0769,4.4
+2021-11-19 18:03:39.730866,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Davante Adams,0.022400000000000003,0.0323,0.0099,4.4
+2021-11-19 18:03:39.779110,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Joe Burrow,0.022199999999999998,0.2222,0.2,4.4
+2021-11-19 18:03:39.701144,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Patrick Mahomes,0.022199999999999998,0.2222,0.2,4.4
+2021-11-19 18:03:39.671684,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Matt Rhule,0.0189,0.0385,0.0196,4.4
+2021-11-19 18:03:39.287730,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Kansas City Chiefs,0.016700000000000007,0.1,0.0833,4.4
+2021-11-19 18:03:40.115183,NFL Specials - Week 11 Specials - Highest Scoring Game (Sunday Only),Dallas Cowboys At Kansas City Chiefs,0.016699999999999993,0.2667,0.25,4.38
+2021-11-19 18:03:40.684366,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.015899999999999997,0.2381,0.2222,4.38
+2021-11-19 18:03:39.303356,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Tennessee Titans,0.015100000000000002,0.1818,0.1667,4.4
+2021-11-19 18:03:40.122797,NFL Specials - Week 11 Specials - Lowest Scoring Game (Sunday Only),Detroit Lions At Cleveland Browns,0.015100000000000002,0.1818,0.1667,4.38
+2021-11-19 18:03:39.715117,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Derek Carr,0.015100000000000002,0.1818,0.1667,4.4
+2021-11-19 18:03:40.477058,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Kevin Durant,0.015100000000000002,0.1818,0.1667,4.38
+2021-11-19 18:03:39.770507,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Haason Reddick,0.014899999999999997,0.0625,0.0476,4.4
+2021-11-19 18:03:39.671684,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Ron Rivera,0.0145,0.0244,0.0099,4.4
+2021-11-19 18:03:39.747442,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,Amari Cooper,0.0145,0.0244,0.0099,4.4
+2021-11-19 18:03:40.605750,NBA Futures - 2022 NBA Atlantic Division - Division Winner,New York Knicks,0.014399999999999996,0.0769,0.0625,4.38
+2021-11-19 18:03:39.952163,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Washington Football Team,No,0.014100000000000001,0.9756,0.9615,4.4
+2021-11-19 18:03:39.303356,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Pittsburgh Steelers,0.014099999999999998,0.0385,0.0244,4.4
+2021-11-19 18:03:39.648661,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Zaven Collins,0.014099999999999998,0.0385,0.0244,4.4
+2021-11-19 18:03:39.739500,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Justin Jefferson,0.0131,0.0476,0.0345,4.4
+2021-11-19 18:03:40.122797,NFL Specials - Week 11 Specials - Lowest Scoring Game (Sunday Only),Miami Dolphins At New York Jets,0.012899999999999995,0.1667,0.1538,4.38
+2021-11-19 18:03:39.730866,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Stefon Diggs,0.012700000000000003,0.0323,0.0196,4.4
+2021-11-19 18:03:40.174741,CFL - Odds to win 2021 Grey Cup - Winner,Winnipeg Blue Bombers,0.012199999999999989,0.5122,0.5,4.38
+2021-11-19 18:03:39.631608,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Tom Brady,0.011700000000000016,0.2222,0.2105,4.4
+2021-11-19 18:03:40.496690,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,0.011099999999999999,0.1111,0.1,4.38
+2021-11-19 18:03:39.316718,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,New Orleans Saints,0.010700000000000001,0.0385,0.0278,4.4
+2021-11-19 18:03:40.266069,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,BYU,0.010700000000000001,0.0385,0.0278,4.38
+2021-11-19 18:03:40.102459,NFL Specials - Week 11 Specials - Highest Scoring Team (Sunday Only),Miami Dolphins,0.0102,0.0769,0.0667,4.38
+2021-11-19 18:03:40.673106,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.010099999999999998,0.4444,0.4545,4.38
+2021-11-19 18:03:40.266069,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Seton Hall,-0.0102,0.0667,0.0769,4.38
+2021-11-19 18:03:39.701144,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Joe Burrow,-0.0102,0.0667,0.0769,4.4
+2021-11-19 18:03:39.779110,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Patrick Mahomes,-0.0102,0.0667,0.0769,4.4
+2021-11-19 18:03:39.316718,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Dallas Cowboys,-0.010499999999999982,0.2,0.2105,4.4
+2021-11-19 18:03:39.631608,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Dak Prescott,-0.012299999999999991,0.1053,0.1176,4.4
+2021-11-19 18:03:40.651226,NBA Futures - 2022 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.012899999999999995,0.1538,0.1667,4.38
+2021-11-19 18:03:41.785823,Brasileirao Série A - Campeonato Brasileiro Série A - 2021 - Outright,Palmeiras,-0.0139,0.001,0.0149,4.37
+2021-11-19 18:03:39.779110,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Justin Fields,-0.013999999999999999,0.0769,0.0909,4.4
+2021-11-19 18:03:39.631608,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Lamar Jackson,-0.013999999999999999,0.0769,0.0909,4.4
+2021-11-19 18:03:40.628325,NBA Futures - 2022 NBA Northwest Division - Division Winner,Portland Trail Blazers,-0.013999999999999999,0.0769,0.0909,4.38
+2021-11-19 18:03:39.952163,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Washington Football Team,Yes,-0.01440000000000001,0.0909,0.1053,4.4
+2021-11-19 18:03:40.496690,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Anthony Davis,-0.015100000000000002,0.1667,0.1818,4.38
+2021-11-19 18:03:39.631608,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Kyler Murray,-0.016600000000000004,0.0667,0.0833,4.4
+2021-11-19 18:03:40.684366,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,-0.016600000000000004,0.0667,0.0833,4.38
+2021-11-19 18:03:39.763012,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Nick Chubb,-0.0179,0.125,0.1429,4.4
+2021-11-19 18:03:39.631608,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Josh Allen,-0.019600000000000006,0.303,0.3226,4.4
+2021-11-19 18:03:39.640413,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Myles Garrett,-0.021999999999999964,0.2857,0.3077,4.4
+2021-11-19 18:03:39.779110,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Trevor Lawrence,-0.023799999999999988,0.1429,0.1667,4.4
+2021-11-19 18:03:39.648661,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Azeez Ojulari,-0.0242,0.0667,0.0909,4.4
+2021-11-19 18:03:39.303356,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Los Angeles Chargers,-0.0242,0.0667,0.0909,4.4
+2021-11-19 18:03:39.730866,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,CeeDee Lamb,-0.024299999999999995,0.0526,0.0769,4.4
+2021-11-19 18:03:39.730866,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Mike Evans,-0.027999999999999997,0.1538,0.1818,4.4
+2021-11-19 18:03:39.671684,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Mike McCarthy,-0.031799999999999995,0.1111,0.1429,4.4
+2021-11-19 18:03:41.785823,Brasileirao Série A - Campeonato Brasileiro Série A - 2021 - Outright,Flamengo,-0.03420000000000001,0.0769,0.1111,4.37
+2021-11-19 18:03:39.303356,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Buffalo Bills,-0.03570000000000001,0.25,0.2857,4.4
+2021-11-19 18:03:39.747442,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,Cooper Kupp,-0.03639999999999999,0.6,0.6364,4.4
+2021-11-19 18:03:39.730866,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,DeAndre Hopkins,-0.037500000000000006,0.0625,0.1,4.4
+2021-11-19 18:03:39.328395,NFL Futures - AFC East - Division Winner,Buffalo Bills,-0.04039999999999999,0.7778,0.8182,4.4
+2021-11-19 18:03:39.671684,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Kliff Kingsbury,-0.04849999999999999,0.1333,0.1818,4.4
+2021-11-19 18:03:39.663965,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Ja'Marr Chase,-0.05559999999999998,0.4444,0.5,4.4
+2021-11-19 18:03:39.701144,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Tom Brady,-0.06670000000000004,0.3333,0.4,4.4
+2021-11-19 18:03:39.799192,NFL Season Props - SNFL 2021/22 - To Make the Playoffs - Atlanta Falcons,Yes,-0.0794,0.1111,0.1905,4.4
+2021-11-19 18:03:39.730866,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Cooper Kupp,-0.08329999999999999,0.25,0.3333,4.4
