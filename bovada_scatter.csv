@@ -1,111 +1,135 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability,minutes_ago
-2021-11-27 01:28:38.008822,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Houston Texans 2021/22 Total Wins,Over 3.5,0.26550000000000007,0.6226,0.3571,3.28
-2021-11-27 01:28:38.015903,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Under 9.5,0.11549999999999999,0.5917,0.4762,3.28
-2021-11-27 01:28:38.043185,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Over  5.5,0.11070000000000002,0.5652,0.4545,3.28
-2021-11-27 01:28:38.944924,MLS - MLS 2021 Futures - MLS Cup Winner,Portland Timbers,0.1049,0.1818,0.0769,3.28
-2021-11-27 01:28:37.839281,NFL Futures - AFC East - Division Winner,Buffalo Bills,0.08389999999999997,0.6491,0.5652,3.3
-2021-11-27 01:28:37.879123,NFL Futures - NFC East - Division Winner,Philadelphia Eagles,0.06669999999999998,0.1667,0.1,3.3
-2021-11-27 01:28:38.022750,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Over 4.5,0.06509999999999999,0.4651,0.4,3.28
-2021-11-27 01:28:38.060033,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Pittsburgh Steelers 2021/22 Total Wins,Over 7.5,0.05559999999999998,0.5556,0.5,3.28
-2021-11-27 01:28:38.944924,MLS - MLS 2021 Futures - MLS Cup Winner,New England Revolution,0.05310000000000001,0.2857,0.2326,3.28
-2021-11-27 01:28:37.819057,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Buffalo Bills,0.04999999999999999,0.25,0.2,3.3
-2021-11-27 01:28:38.311206,College Basketball - American Athletic Conference Winner - Outright,Cincinnati,0.042899999999999994,0.1429,0.1,3.28
-2021-11-27 01:28:38.067373,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Under 8.5,0.04139999999999999,0.4762,0.4348,3.28
-2021-11-27 01:28:38.086241,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Josh Allen,0.04040000000000002,0.2222,0.1818,3.28
-2021-11-27 01:28:37.732648,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Pete Buttigieg,0.038299999999999994,0.0909,0.0526,3.3
-2021-11-27 01:28:37.994011,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Over 8.5,0.034499999999999975,0.6774,0.6429,3.3
-2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Ohio State,0.033399999999999985,0.1667,0.1333,3.28
-2021-11-27 01:28:38.050403,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Jets 2021/22 Total Wins,Under 3.5,0.033299999999999996,0.4878,0.4545,3.28
-2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Rennes,0.0321,0.0909,0.0588,3.27
-2021-11-27 01:28:37.869478,NFL Futures - AFC West - Division Winner,Las Vegas Raiders,0.0321,0.0909,0.0588,3.3
-2021-11-27 01:28:37.965276,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Philadelphia Eagles 2021/22 Total Wins,Under 8.5,0.031799999999999995,0.4762,0.4444,3.3
-2021-11-27 01:28:37.944885,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Under 11.5,0.03090000000000004,0.6226,0.5917,3.3
-2021-11-27 01:28:38.396305,College Basketball - Southeastern Conference Winner - Outright,LSU,0.02840000000000001,0.1053,0.0769,3.28
-2021-11-27 01:28:37.508922,Time Person of the Year 2021 - Who will be named Time Person of the Year 2021? - Outright,Elon Musk,0.028199999999999996,0.0667,0.0385,3.3
-2021-11-27 01:28:37.715805,Political Specials - 2022 Texas Gubernatorial Election - Odds to Win - Outright,Greg Abbott,0.027800000000000047,0.7778,0.75,3.3
-2021-11-27 01:28:38.086241,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Tom Brady,0.02560000000000001,0.3333,0.3077,3.28
-2021-11-27 01:28:37.923534,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Arizona Cardinals 2021/22 Total Wins,Under 12.5,0.025499999999999967,0.4255,0.4,3.3
-2021-11-27 01:28:37.802418,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Buffalo Bills,0.024999999999999994,0.125,0.1,3.3
-2021-11-27 01:28:37.879123,NFL Futures - NFC East - Division Winner,Washington Football Team,0.024299999999999995,0.0588,0.0345,3.3
-2021-11-27 01:28:38.359008,College Basketball - Big Ten Conference Winner - Outright,Wisconsin,0.024,0.0625,0.0385,3.28
-2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,AZ Alkmaar,0.023200000000000002,0.0526,0.0294,3.27
-2021-11-27 01:28:37.958379,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Over 10.5,0.022600000000000064,0.5348,0.5122,3.3
-2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,LASK Linkz,0.022200000000000004,0.0345,0.0123,3.27
-2021-11-27 01:28:37.972265,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Seattle Seahawks 2021/22 Total Wins,Over 6.5,0.020299999999999985,0.6429,0.6226,3.3
-2021-11-27 01:28:39.041171,Europa League - UEFA Europa League 2021/22 - Outright,Leicester City,0.019099999999999992,0.0667,0.0476,3.27
-2021-11-27 01:28:37.898341,NFL Futures - NFC South - Division Winner,Carolina Panthers,0.018200000000000004,0.0476,0.0294,3.3
-2021-11-27 01:28:39.041171,Europa League - UEFA Europa League 2021/22 - Outright,Lazio,0.018200000000000004,0.0476,0.0294,3.27
-2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Basel,0.018200000000000004,0.0476,0.0294,3.27
-2021-11-27 01:28:37.898341,NFL Futures - NFC South - Division Winner,Tampa Bay Buccaneers,0.018100000000000005,0.9412,0.9231,3.3
-2021-11-27 01:28:38.556643,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.015400000000000025,0.2857,0.2703,3.28
-2021-11-27 01:28:39.041171,Europa League - UEFA Europa League 2021/22 - Outright,Bayer Leverkusen,0.015300000000000001,0.0588,0.0435,3.27
-2021-11-27 01:28:38.944924,MLS - MLS 2021 Futures - MLS Cup Winner,Sporting Kansas City,0.015100000000000002,0.1818,0.1667,3.28
-2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,FK Qarabag,0.0145,0.0244,0.0099,3.27
-2021-11-27 01:28:37.244336,MLB - 2022 World Series - Outright,St. Louis Cardinals,0.014100000000000001,0.0526,0.0385,3.3
-2021-11-27 01:28:39.041171,Europa League - UEFA Europa League 2021/22 - Outright,Real Betis,0.014099999999999998,0.0385,0.0244,3.27
-2021-11-27 01:28:37.244336,MLB - 2022 World Series - Outright,Los Angeles Angels,0.014099999999999998,0.0385,0.0244,3.3
-2021-11-27 01:28:38.349315,College Basketball - Big East Conference  Winner - Outright,St. John's,0.014099999999999994,0.0667,0.0526,3.28
-2021-11-27 01:28:37.244336,MLB - 2022 World Series - Outright,Toronto Blue Jays,0.013999999999999999,0.0909,0.0769,3.3
-2021-11-27 01:28:39.041171,Europa League - UEFA Europa League 2021/22 - Outright,West Ham United,0.013999999999999999,0.0909,0.0769,3.27
-2021-11-27 01:28:38.086241,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Lamar Jackson,0.013999999999999999,0.0909,0.0769,3.28
-2021-11-27 01:28:37.829777,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,New Orleans Saints,0.013900000000000001,0.0164,0.0025,3.3
-2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Gent,0.0131,0.0476,0.0345,3.27
-2021-11-27 01:28:37.362404,Boxing Lines - Lyndon Arthur vs Anthony Yarde - To Win the Bout,Lyndon Arthur,0.012199999999999989,0.5,0.4878,3.3
-2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Maccabi Tel Aviv,0.012100000000000001,0.0244,0.0123,3.27
-2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Bodø/Glimt,0.012100000000000001,0.0244,0.0123,3.27
-2021-11-27 01:28:38.349315,College Basketball - Big East Conference  Winner - Outright,Butler,0.011199999999999995,0.0588,0.0476,3.28
-2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Cincinnati,0.011199999999999995,0.0435,0.0323,3.28
-2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Feyenoord,0.011199999999999995,0.0588,0.0476,3.27
-2021-11-27 01:28:38.086241,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Patrick Mahomes,0.011099999999999999,0.1111,0.1,3.28
-2021-11-27 01:28:38.074120,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tampa Bay Buccaneers 2021/22 Total Wins,Over 12.5,0.011099999999999999,0.4762,0.4651,3.28
-2021-11-27 01:28:37.715805,Political Specials - 2022 Texas Gubernatorial Election - Odds to Win - Outright,Matthew McConuaghey,0.010899999999999993,0.1538,0.1429,3.3
-2021-11-27 01:28:37.802418,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tampa Bay Buccaneers,0.010899999999999993,0.1538,0.1429,3.3
-2021-11-27 01:28:37.829777,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Arizona Cardinals,0.010499999999999982,0.2105,0.2,3.3
-2021-11-27 01:28:38.750477,Euro Cup - Euro Cup 2021/22 - Winner,Valencia,0.010499999999999982,0.2105,0.2,3.28
-2021-11-27 01:28:39.041171,Europa League - UEFA Europa League 2021/22 - Outright,Lyon,0.0102,0.0769,0.0667,3.27
-2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Slavia Prague,0.010100000000000001,0.0345,0.0244,3.27
-2021-11-27 01:28:37.951679,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Miami Dolphins 2021/22 Total Wins,Over 6.5,0.010099999999999998,0.5556,0.5455,3.3
-2021-11-27 01:28:37.802418,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Baltimore Ravens,-0.0102,0.0667,0.0769,3.3
-2021-11-27 01:28:37.819057,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Baltimore Ravens,-0.010899999999999993,0.1429,0.1538,3.3
-2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,North Carolina,-0.011099999999999999,0.1,0.1111,3.28
-2021-11-27 01:28:37.259370,Professional Baseball - NPB 2021 - Winner,Tokyo Yakult Swallows,-0.011099999999999999,0.7222,0.7333,3.3
-2021-11-27 01:28:37.951679,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Miami Dolphins 2021/22 Total Wins,Under 6.5,-0.011600000000000055,0.5122,0.5238,3.3
-2021-11-27 01:28:37.819057,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,New England Patriots,-0.012899999999999995,0.1538,0.1667,3.3
-2021-11-27 01:28:37.715805,Political Specials - 2022 Texas Gubernatorial Election - Odds to Win - Outright,Beto O'Rourke,-0.012899999999999995,0.1538,0.1667,3.3
-2021-11-27 01:28:39.041171,Europa League - UEFA Europa League 2021/22 - Outright,Real Sociedad,-0.0131,0.0345,0.0476,3.27
-2021-11-27 01:28:37.244336,MLB - 2022 World Series - Outright,Houston Astros,-0.013899999999999996,0.1111,0.125,3.3
-2021-11-27 01:28:37.802418,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Dallas Cowboys,-0.013999999999999999,0.0769,0.0909,3.3
-2021-11-27 01:28:38.086241,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Kirk Cousins,-0.0145,0.0099,0.0244,3.28
-2021-11-27 01:28:38.098051,NFL Season Props - NFL 2021/22 - Specials - Proposition,Any Player to Break the Regular Season Receiving Yards Record of 1964 Yards,-0.01469999999999999,0.2353,0.25,3.28
-2021-11-27 01:28:37.829777,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Dallas Cowboys,-0.015100000000000002,0.1667,0.1818,3.3
-2021-11-27 01:28:38.575386,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,-0.016600000000000004,0.0667,0.0833,3.28
-2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Roma,-0.0179,0.125,0.1429,3.27
-2021-11-27 01:28:38.001197,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Denver Broncos 2021/22 Total Wins,Over 8.5,-0.018100000000000005,0.4167,0.4348,3.28
-2021-11-27 01:28:38.556643,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.018199999999999994,0.8,0.8182,3.28
-2021-11-27 01:28:37.508922,Time Person of the Year 2021 - Who will be named Time Person of the Year 2021? - Outright,Alexei Navalny,-0.018200000000000004,0.0294,0.0476,3.3
-2021-11-27 01:28:38.575386,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,-0.01820000000000002,0.1818,0.2,3.28
-2021-11-27 01:28:37.972265,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Seattle Seahawks 2021/22 Total Wins,Under 6.5,-0.018900000000000028,0.4255,0.4444,3.3
-2021-11-27 01:28:38.396305,College Basketball - Southeastern Conference Winner - Outright,Mississippi State,-0.0203,0.0385,0.0588,3.28
-2021-11-27 01:28:37.958379,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Under 10.5,-0.02079999999999993,0.5348,0.5556,3.3
-2021-11-27 01:28:37.923534,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Arizona Cardinals 2021/22 Total Wins,Over 12.5,-0.023799999999999932,0.6429,0.6667,3.3
-2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Rutgers,-0.024,0.0385,0.0625,3.28
-2021-11-27 01:28:39.041171,Europa League - UEFA Europa League 2021/22 - Outright,Napoli,-0.0242,0.0667,0.0909,3.27
-2021-11-27 01:28:38.311206,College Basketball - American Athletic Conference Winner - Outright,Wichita State,-0.025300000000000003,0.1176,0.1429,3.28
-2021-11-27 01:28:38.050403,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Jets 2021/22 Total Wins,Over 3.5,-0.025599999999999956,0.5744,0.6,3.28
-2021-11-27 01:28:38.750477,Euro Cup - Euro Cup 2021/22 - Winner,Partizan,-0.02779999999999999,0.2222,0.25,3.28
-2021-11-27 01:28:37.944885,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Over 11.5,-0.031799999999999995,0.4444,0.4762,3.3
-2021-11-27 01:28:38.098051,NFL Season Props - NFL 2021/22 - Specials - Proposition,Any Player to Break the Regular Season Passing Yards Record of 5477 Yards,-0.031799999999999995,0.4444,0.4762,3.28
-2021-11-27 01:28:37.994011,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Under 8.5,-0.033299999999999996,0.3922,0.4255,3.3
-2021-11-27 01:28:38.036266,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Minnesota Vikings 2021/22 Total Wins,Over 8.5,-0.03639999999999999,0.6,0.6364,3.28
-2021-11-27 01:28:37.732648,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Kamala Harris,-0.0378,0.4167,0.4545,3.3
-2021-11-27 01:28:38.067373,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Over 8.5,-0.037900000000000045,0.5917,0.6296,3.28
-2021-11-27 01:28:37.898341,NFL Futures - NFC South - Division Winner,New Orleans Saints,-0.0407,0.0769,0.1176,3.3
-2021-11-27 01:28:37.965276,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Philadelphia Eagles 2021/22 Total Wins,Over 8.5,-0.04469999999999996,0.5917,0.6364,3.3
-2021-11-27 01:28:38.015903,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Over 9.5,-0.04760000000000003,0.4762,0.5238,3.28
-2021-11-27 01:28:38.060033,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Pittsburgh Steelers 2021/22 Total Wins,Under 7.5,-0.05300000000000005,0.5122,0.5652,3.28
-2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Tottenham,-0.05379999999999999,0.1,0.1538,3.27
-2021-11-27 01:28:38.022750,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Under 4.5,-0.06669999999999998,0.6,0.6667,3.28
-2021-11-27 01:28:37.839281,NFL Futures - AFC East - Division Winner,New England Patriots,-0.08329999999999999,0.4167,0.5,3.3
-2021-11-27 01:28:37.879123,NFL Futures - NFC East - Division Winner,Dallas Cowboys,-0.08710000000000007,0.8462,0.9333,3.3
-2021-11-27 01:28:38.043185,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Under 5.5,-0.11539999999999995,0.5,0.6154,3.28
-2021-11-27 01:28:38.008822,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Houston Texans 2021/22 Total Wins,Under 3.5,-0.26569999999999994,0.4444,0.7101,3.28
+2021-11-27 01:28:38.008822,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Houston Texans 2021/22 Total Wins,Over 3.5,0.26550000000000007,0.6226,0.3571,195.1
+2021-11-27 01:28:38.015903,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Under 9.5,0.11549999999999999,0.5917,0.4762,195.1
+2021-11-27 01:28:38.043185,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Over  5.5,0.11070000000000002,0.5652,0.4545,195.1
+2021-11-27 01:28:38.944924,MLS - MLS 2021 Futures - MLS Cup Winner,Portland Timbers,0.1049,0.1818,0.0769,195.1
+2021-11-27 01:28:37.839281,NFL Futures - AFC East - Division Winner,Buffalo Bills,0.08389999999999997,0.6491,0.5652,195.12
+2021-11-27 01:28:37.879123,NFL Futures - NFC East - Division Winner,Philadelphia Eagles,0.06669999999999998,0.1667,0.1,195.12
+2021-11-27 01:28:38.022750,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Over 4.5,0.06509999999999999,0.4651,0.4,195.1
+2021-11-27 01:28:38.060033,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Pittsburgh Steelers 2021/22 Total Wins,Over 7.5,0.05559999999999998,0.5556,0.5,195.1
+2021-11-27 01:28:38.944924,MLS - MLS 2021 Futures - MLS Cup Winner,New England Revolution,0.05310000000000001,0.2857,0.2326,195.1
+2021-11-27 01:28:37.819057,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Buffalo Bills,0.04999999999999999,0.25,0.2,195.12
+2021-11-27 01:28:38.311206,College Basketball - American Athletic Conference Winner - Outright,Cincinnati,0.042899999999999994,0.1429,0.1,195.1
+2021-11-27 01:28:38.067373,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Under 8.5,0.04139999999999999,0.4762,0.4348,195.1
+2021-11-27 01:28:38.349315,College Basketball - Big East Conference  Winner - Outright,Connecticut,0.04040000000000002,0.2222,0.1818,195.1
+2021-11-27 01:28:38.086241,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Josh Allen,0.04040000000000002,0.2222,0.1818,195.1
+2021-11-27 01:28:37.732648,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Pete Buttigieg,0.038299999999999994,0.0909,0.0526,195.12
+2021-11-27 01:28:38.311206,College Basketball - American Athletic Conference Winner - Outright,Houston,0.03470000000000001,0.3125,0.2778,195.1
+2021-11-27 01:28:37.994011,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Over 8.5,0.034499999999999975,0.6774,0.6429,195.12
+2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Ohio State,0.033399999999999985,0.1667,0.1333,195.1
+2021-11-27 01:28:38.050403,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Jets 2021/22 Total Wins,Under 3.5,0.033299999999999996,0.4878,0.4545,195.1
+2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Rennes,0.0321,0.0909,0.0588,195.08
+2021-11-27 01:28:37.869478,NFL Futures - AFC West - Division Winner,Las Vegas Raiders,0.0321,0.0909,0.0588,195.12
+2021-11-27 01:28:37.965276,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Philadelphia Eagles 2021/22 Total Wins,Under 8.5,0.031799999999999995,0.4762,0.4444,195.12
+2021-11-27 01:28:37.944885,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Under 11.5,0.03090000000000004,0.6226,0.5917,195.12
+2021-11-27 01:28:38.396305,College Basketball - Southeastern Conference Winner - Outright,LSU,0.02840000000000001,0.1053,0.0769,195.1
+2021-11-27 01:28:37.508922,Time Person of the Year 2021 - Who will be named Time Person of the Year 2021? - Outright,Elon Musk,0.028199999999999996,0.0667,0.0385,195.12
+2021-11-27 01:28:37.715805,Political Specials - 2022 Texas Gubernatorial Election - Odds to Win - Outright,Greg Abbott,0.027800000000000047,0.7778,0.75,195.12
+2021-11-27 01:28:38.086241,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Tom Brady,0.02560000000000001,0.3333,0.3077,195.1
+2021-11-27 01:28:37.923534,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Arizona Cardinals 2021/22 Total Wins,Under 12.5,0.025499999999999967,0.4255,0.4,195.12
+2021-11-27 01:28:37.802418,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Buffalo Bills,0.024999999999999994,0.125,0.1,195.12
+2021-11-27 01:28:37.879123,NFL Futures - NFC East - Division Winner,Washington Football Team,0.024299999999999995,0.0588,0.0345,195.12
+2021-11-27 01:28:38.359008,College Basketball - Big Ten Conference Winner - Outright,Wisconsin,0.024,0.0625,0.0385,195.1
+2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,AZ Alkmaar,0.023200000000000002,0.0526,0.0294,195.08
+2021-11-27 01:28:38.396305,College Basketball - Southeastern Conference Winner - Outright,Florida,0.02310000000000001,0.1,0.0769,195.1
+2021-11-27 01:28:37.958379,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Over 10.5,0.022600000000000064,0.5348,0.5122,195.12
+2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,LASK Linkz,0.022200000000000004,0.0345,0.0123,195.08
+2021-11-27 01:28:38.396305,College Basketball - Southeastern Conference Winner - Outright,Arkansas,0.022199999999999998,0.1333,0.1111,195.1
+2021-11-27 01:28:37.972265,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Seattle Seahawks 2021/22 Total Wins,Over 6.5,0.020299999999999985,0.6429,0.6226,195.12
+2021-11-27 01:28:39.041171,Europa League - UEFA Europa League 2021/22 - Outright,Leicester City,0.019099999999999992,0.0667,0.0476,195.08
+2021-11-27 01:28:37.898341,NFL Futures - NFC South - Division Winner,Carolina Panthers,0.018200000000000004,0.0476,0.0294,195.12
+2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Basel,0.018200000000000004,0.0476,0.0294,195.08
+2021-11-27 01:28:39.041171,Europa League - UEFA Europa League 2021/22 - Outright,Lazio,0.018200000000000004,0.0476,0.0294,195.08
+2021-11-27 01:28:37.898341,NFL Futures - NFC South - Division Winner,Tampa Bay Buccaneers,0.018100000000000005,0.9412,0.9231,195.12
+2021-11-27 01:28:38.349315,College Basketball - Big East Conference  Winner - Outright,Xavier,0.01759999999999999,0.1176,0.1,195.1
+2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Memphis,0.016600000000000004,0.1905,0.1739,195.1
+2021-11-27 01:28:38.556643,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.015400000000000025,0.2857,0.2703,195.1
+2021-11-27 01:28:39.041171,Europa League - UEFA Europa League 2021/22 - Outright,Bayer Leverkusen,0.015300000000000001,0.0588,0.0435,195.08
+2021-11-27 01:28:38.944924,MLS - MLS 2021 Futures - MLS Cup Winner,Sporting Kansas City,0.015100000000000002,0.1818,0.1667,195.1
+2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,FK Qarabag,0.0145,0.0244,0.0099,195.08
+2021-11-27 01:28:37.244336,MLB - 2022 World Series - Outright,St. Louis Cardinals,0.014100000000000001,0.0526,0.0385,195.12
+2021-11-27 01:28:37.244336,MLB - 2022 World Series - Outright,Los Angeles Angels,0.014099999999999998,0.0385,0.0244,195.12
+2021-11-27 01:28:39.041171,Europa League - UEFA Europa League 2021/22 - Outright,Real Betis,0.014099999999999998,0.0385,0.0244,195.08
+2021-11-27 01:28:38.349315,College Basketball - Big East Conference  Winner - Outright,St. John's,0.014099999999999994,0.0667,0.0526,195.1
+2021-11-27 01:28:37.244336,MLB - 2022 World Series - Outright,Toronto Blue Jays,0.013999999999999999,0.0909,0.0769,195.12
+2021-11-27 01:28:38.086241,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Lamar Jackson,0.013999999999999999,0.0909,0.0769,195.1
+2021-11-27 01:28:39.041171,Europa League - UEFA Europa League 2021/22 - Outright,West Ham United,0.013999999999999999,0.0909,0.0769,195.08
+2021-11-27 01:28:37.829777,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,New Orleans Saints,0.013900000000000001,0.0164,0.0025,195.12
+2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Alabama,0.013899999999999996,0.1739,0.16,195.1
+2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Gent,0.0131,0.0476,0.0345,195.08
+2021-11-27 01:28:37.362404,Boxing Lines - Lyndon Arthur vs Anthony Yarde - To Win the Bout,Lyndon Arthur,0.012199999999999989,0.5,0.4878,195.12
+2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Maccabi Tel Aviv,0.012100000000000001,0.0244,0.0123,195.08
+2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Bodø/Glimt,0.012100000000000001,0.0244,0.0123,195.08
+2021-11-27 01:28:38.349315,College Basketball - Big East Conference  Winner - Outright,Butler,0.011199999999999995,0.0588,0.0476,195.1
+2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Feyenoord,0.011199999999999995,0.0588,0.0476,195.08
+2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Cincinnati,0.011199999999999995,0.0435,0.0323,195.1
+2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Houston,0.011099999999999999,0.1111,0.1,195.1
+2021-11-27 04:40:13.157964,Boxing Lines - Joseph Parker vs Dereck Chisora - To Win the Bout,Joseph Parker,0.011099999999999999,0.7333,0.7222,3.52
+2021-11-27 01:28:38.086241,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Patrick Mahomes,0.011099999999999999,0.1111,0.1,195.1
+2021-11-27 01:28:38.074120,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tampa Bay Buccaneers 2021/22 Total Wins,Over 12.5,0.011099999999999999,0.4762,0.4651,195.1
+2021-11-27 01:28:37.715805,Political Specials - 2022 Texas Gubernatorial Election - Odds to Win - Outright,Matthew McConuaghey,0.010899999999999993,0.1538,0.1429,195.12
+2021-11-27 01:28:37.802418,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tampa Bay Buccaneers,0.010899999999999993,0.1538,0.1429,195.12
+2021-11-27 01:28:38.750477,Euro Cup - Euro Cup 2021/22 - Winner,Valencia,0.010499999999999982,0.2105,0.2,195.1
+2021-11-27 01:28:37.829777,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Arizona Cardinals,0.010499999999999982,0.2105,0.2,195.12
+2021-11-27 01:28:39.041171,Europa League - UEFA Europa League 2021/22 - Outright,Lyon,0.0102,0.0769,0.0667,195.08
+2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Slavia Prague,0.010100000000000001,0.0345,0.0244,195.08
+2021-11-27 01:28:37.951679,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Miami Dolphins 2021/22 Total Wins,Over 6.5,0.010099999999999998,0.5556,0.5455,195.12
+2021-11-27 01:28:37.802418,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Baltimore Ravens,-0.0102,0.0667,0.0769,195.12
+2021-11-27 01:28:38.396305,College Basketball - Southeastern Conference Winner - Outright,Alabama,-0.010499999999999982,0.2,0.2105,195.1
+2021-11-27 01:28:37.819057,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Baltimore Ravens,-0.010899999999999993,0.1429,0.1538,195.12
+2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,North Carolina,-0.011099999999999999,0.1,0.1111,195.1
+2021-11-27 01:28:37.259370,Professional Baseball - NPB 2021 - Winner,Tokyo Yakult Swallows,-0.011099999999999999,0.7222,0.7333,195.12
+2021-11-27 04:40:13.157964,Boxing Lines - Joseph Parker vs Dereck Chisora - To Win the Bout,Dereck Chisora,-0.01150000000000001,0.3333,0.3448,3.52
+2021-11-27 01:28:37.951679,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Miami Dolphins 2021/22 Total Wins,Under 6.5,-0.011600000000000055,0.5122,0.5238,195.12
+2021-11-27 01:28:38.396305,College Basketball - Southeastern Conference Winner - Outright,Tennessee,-0.012899999999999995,0.1538,0.1667,195.1
+2021-11-27 01:28:37.715805,Political Specials - 2022 Texas Gubernatorial Election - Odds to Win - Outright,Beto O'Rourke,-0.012899999999999995,0.1538,0.1667,195.12
+2021-11-27 01:28:37.819057,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,New England Patriots,-0.012899999999999995,0.1538,0.1667,195.12
+2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Michigan,-0.0131,0.2222,0.2353,195.1
+2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Villanova,-0.0131,0.2222,0.2353,195.1
+2021-11-27 01:28:39.041171,Europa League - UEFA Europa League 2021/22 - Outright,Real Sociedad,-0.0131,0.0345,0.0476,195.08
+2021-11-27 01:28:37.244336,MLB - 2022 World Series - Outright,Houston Astros,-0.013899999999999996,0.1111,0.125,195.12
+2021-11-27 01:28:37.802418,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Dallas Cowboys,-0.013999999999999999,0.0769,0.0909,195.12
+2021-11-27 01:28:38.284024,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Alabama,-0.014100000000000001,0.0385,0.0526,195.1
+2021-11-27 01:28:38.086241,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Kirk Cousins,-0.0145,0.0099,0.0244,195.1
+2021-11-27 01:28:38.098051,NFL Season Props - NFL 2021/22 - Specials - Proposition,Any Player to Break the Regular Season Receiving Yards Record of 1964 Yards,-0.01469999999999999,0.2353,0.25,195.1
+2021-11-27 01:28:37.829777,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Dallas Cowboys,-0.015100000000000002,0.1667,0.1818,195.12
+2021-11-27 01:28:38.284024,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Duke,-0.016600000000000004,0.0667,0.0833,195.1
+2021-11-27 01:28:38.575386,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,-0.016600000000000004,0.0667,0.0833,195.1
+2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Roma,-0.0179,0.125,0.1429,195.08
+2021-11-27 01:28:38.001197,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Denver Broncos 2021/22 Total Wins,Over 8.5,-0.018100000000000005,0.4167,0.4348,195.1
+2021-11-27 01:28:38.556643,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.018199999999999994,0.8,0.8182,195.1
+2021-11-27 01:28:37.508922,Time Person of the Year 2021 - Who will be named Time Person of the Year 2021? - Outright,Alexei Navalny,-0.018200000000000004,0.0294,0.0476,195.12
+2021-11-27 01:28:38.575386,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,-0.01820000000000002,0.1818,0.2,195.1
+2021-11-27 01:28:37.972265,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Seattle Seahawks 2021/22 Total Wins,Under 6.5,-0.018900000000000028,0.4255,0.4444,195.12
+2021-11-27 01:28:38.396305,College Basketball - Southeastern Conference Winner - Outright,Mississippi State,-0.0203,0.0385,0.0588,195.1
+2021-11-27 01:28:37.958379,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Under 10.5,-0.02079999999999993,0.5348,0.5556,195.12
+2021-11-27 01:28:37.923534,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Arizona Cardinals 2021/22 Total Wins,Over 12.5,-0.023799999999999932,0.6429,0.6667,195.12
+2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Baylor,-0.023800000000000016,0.1667,0.1905,195.1
+2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Rutgers,-0.024,0.0385,0.0625,195.1
+2021-11-27 01:28:39.041171,Europa League - UEFA Europa League 2021/22 - Outright,Napoli,-0.0242,0.0667,0.0909,195.08
+2021-11-27 01:28:38.311206,College Basketball - American Athletic Conference Winner - Outright,Wichita State,-0.025300000000000003,0.1176,0.1429,195.1
+2021-11-27 01:28:38.050403,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Jets 2021/22 Total Wins,Over 3.5,-0.025599999999999956,0.5744,0.6,195.1
+2021-11-27 01:28:38.311206,College Basketball - American Athletic Conference Winner - Outright,Memphis,-0.027500000000000024,0.3571,0.3846,195.1
+2021-11-27 01:28:38.750477,Euro Cup - Euro Cup 2021/22 - Winner,Partizan,-0.02779999999999999,0.2222,0.25,195.1
+2021-11-27 01:28:37.944885,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Over 11.5,-0.031799999999999995,0.4444,0.4762,195.12
+2021-11-27 01:28:38.098051,NFL Season Props - NFL 2021/22 - Specials - Proposition,Any Player to Break the Regular Season Passing Yards Record of 5477 Yards,-0.031799999999999995,0.4444,0.4762,195.1
+2021-11-27 01:28:37.994011,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Under 8.5,-0.033299999999999996,0.3922,0.4255,195.12
+2021-11-27 01:28:38.036266,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Minnesota Vikings 2021/22 Total Wins,Over 8.5,-0.03639999999999999,0.6,0.6364,195.1
+2021-11-27 01:28:37.732648,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Kamala Harris,-0.0378,0.4167,0.4545,195.12
+2021-11-27 01:28:38.067373,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Over 8.5,-0.037900000000000045,0.5917,0.6296,195.1
+2021-11-27 01:28:37.898341,NFL Futures - NFC South - Division Winner,New Orleans Saints,-0.0407,0.0769,0.1176,195.12
+2021-11-27 01:28:37.965276,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Philadelphia Eagles 2021/22 Total Wins,Over 8.5,-0.04469999999999996,0.5917,0.6364,195.12
+2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Texas,-0.044800000000000006,0.1905,0.2353,195.1
+2021-11-27 01:28:38.015903,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Over 9.5,-0.04760000000000003,0.4762,0.5238,195.1
+2021-11-27 01:28:38.060033,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Pittsburgh Steelers 2021/22 Total Wins,Under 7.5,-0.05300000000000005,0.5122,0.5652,195.1
+2021-11-27 01:28:39.054703,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Tottenham,-0.05379999999999999,0.1,0.1538,195.08
+2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Kansas,-0.0595,0.1905,0.25,195.1
+2021-11-27 01:28:38.022750,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Under 4.5,-0.06669999999999998,0.6,0.6667,195.1
+2021-11-27 01:28:38.284024,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Gonzaga,-0.06820000000000001,0.1818,0.25,195.1
+2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Purdue,-0.07239999999999996,0.2353,0.3077,195.1
+2021-11-27 01:28:37.839281,NFL Futures - AFC East - Division Winner,New England Patriots,-0.08329999999999999,0.4167,0.5,195.12
+2021-11-27 01:28:37.879123,NFL Futures - NFC East - Division Winner,Dallas Cowboys,-0.08710000000000007,0.8462,0.9333,195.12
+2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Duke,-0.0952,0.1905,0.2857,195.1
+2021-11-27 01:28:38.043185,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Under 5.5,-0.11539999999999995,0.5,0.6154,195.1
+2021-11-27 01:28:38.300438,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Gonzaga,-0.21969999999999995,0.4167,0.6364,195.1
+2021-11-27 01:28:38.008822,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Houston Texans 2021/22 Total Wins,Under 3.5,-0.26569999999999994,0.4444,0.7101,195.1
