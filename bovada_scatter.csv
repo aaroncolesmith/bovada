@@ -1,75 +1,88 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2021-11-27 15:32:16.607810,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Derek Carr,0.1417,0.2667,0.125
-2021-11-27 15:32:16.599046,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Tom Brady,0.09099999999999997,0.5455,0.4545
-2021-11-27 15:32:16.668105,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Zach Wilson,0.07930000000000001,0.2222,0.1429
-2021-11-27 15:32:17.664884,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,0.05709999999999993,0.8571,0.8
-2021-11-27 15:32:16.574553,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Joe Burrow,0.05559999999999998,0.1667,0.1111
-2021-11-27 15:32:17.513186,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Rudy Gobert,0.047599999999999976,0.3333,0.2857
-2021-11-27 15:32:16.566928,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Kliff Kingsbury,0.04040000000000002,0.2222,0.1818
-2021-11-27 15:32:16.616896,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Mike Evans,0.03889999999999999,0.1818,0.1429
-2021-11-27 15:32:16.541497,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Christian Barmore,0.037700000000000004,0.0476,0.0099
-2021-11-27 15:32:17.338223,College Basketball - Atlantic 10 Conference Winner - Outright,Virginia Commonwealth,0.03420000000000001,0.1111,0.0769
-2021-11-27 15:32:17.685386,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,0.028700000000000003,0.2105,0.1818
-2021-11-27 15:32:17.655800,NBA Futures - 2022 NBA Southeast Division - Division Winner,Atlanta Hawks,0.028700000000000003,0.2105,0.1818
-2021-11-27 15:32:17.876702,Euroleague - Euroleague 2021/22 - Winner,Real Madrid BC,0.028700000000000003,0.2105,0.1818
-2021-11-27 15:32:17.628537,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,0.027800000000000047,0.7778,0.75
-2021-11-27 15:32:17.618799,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,0.023800000000000043,0.8333,0.8095
-2021-11-27 15:32:16.532256,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Myles Garrett,0.023799999999999988,0.3571,0.3333
-2021-11-27 15:32:16.607810,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Tom Brady,0.023799999999999988,0.3571,0.3333
-2021-11-27 15:32:16.625759,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Cooper Kupp,0.023799999999999932,0.6667,0.6429
-2021-11-27 15:32:16.642524,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing TD's,Jalen Hurts,0.022400000000000003,0.0323,0.0099
-2021-11-27 15:32:16.668105,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Ryan Tannehill,0.022199999999999998,0.2222,0.2
-2021-11-27 15:32:16.550616,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Jonathan Taylor,0.021999999999999964,0.3077,0.2857
-2021-11-27 15:32:16.659477,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Robert Quinn,0.02020000000000001,0.1111,0.0909
-2021-11-27 15:32:16.659477,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Yannick Ngakoue,0.017400000000000002,0.0323,0.0149
-2021-11-27 15:32:17.111239,Boxing Lines - Vasyl Lomachenko vs Richard Commey - To Win the Bout,Vasyl Lomachenko,0.013900000000000023,0.8889,0.875
-2021-11-27 15:32:17.637483,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,0.013900000000000023,0.8889,0.875
-2021-11-27 15:32:17.607254,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,0.013899999999999996,0.125,0.1111
-2021-11-27 15:32:17.646676,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,0.0116,0.4878,0.4762
-2021-11-27 15:32:17.119860,Boxing Lines - Joseph Parker vs Dereck Chisora - To Win the Bout,Dereck Chisora,0.01150000000000001,0.3448,0.3333
-2021-11-27 15:32:17.655800,NBA Futures - 2022 NBA Southeast Division - Division Winner,Charlotte Hornets,0.011199999999999995,0.0588,0.0476
-2021-11-27 15:32:17.607254,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,0.011099999999999999,0.2778,0.2667
-2021-11-27 15:32:16.616896,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Ja'Marr Chase,0.0102,0.0769,0.0667
-2021-11-27 15:32:17.876702,Euroleague - Euroleague 2021/22 - Winner,Olympiakos,0.0102,0.0769,0.0667
-2021-11-27 15:32:16.650792,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Joe Mixon,0.0102,0.0769,0.0667
-2021-11-27 15:32:17.128497,Boxing Lines - Amanda Serrano vs Miriam Gutierrez - To Win the Bout,Amanda Serrano,0.010099999999999998,0.9756,0.9655
-2021-11-27 15:32:16.668105,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Justin Fields,-0.010100000000000001,0.0244,0.0345
-2021-11-27 15:32:17.876702,Euroleague - Euroleague 2021/22 - Winner,Fenerbahce,-0.010100000000000001,0.0244,0.0345
-2021-11-27 15:32:16.566928,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Mike McCarthy,-0.0102,0.0667,0.0769
-2021-11-27 15:32:17.119860,Boxing Lines - Joseph Parker vs Dereck Chisora - To Win the Bout,Joseph Parker,-0.011099999999999999,0.7222,0.7333
-2021-11-27 15:32:16.625759,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Justin Jefferson,-0.011099999999999999,0.1,0.1111
-2021-11-27 15:32:16.668105,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Jared Goff,-0.012599999999999998,0.0152,0.0278
-2021-11-27 15:32:17.876702,Euroleague - Euroleague 2021/22 - Winner,Milano,-0.013899999999999996,0.1111,0.125
-2021-11-27 15:32:16.616896,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Tyreek Hill,-0.013999999999999999,0.0769,0.0909
-2021-11-27 15:32:17.655800,NBA Futures - 2022 NBA Southeast Division - Division Winner,Washington Wizards,-0.014099999999999994,0.0526,0.0667
-2021-11-27 15:32:16.668105,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Derek Carr,-0.014099999999999998,0.0244,0.0385
-2021-11-27 15:32:16.599046,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Joe Burrow,-0.014399999999999996,0.0625,0.0769
-2021-11-27 15:32:16.625759,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Ja'Marr Chase,-0.014399999999999996,0.0625,0.0769
-2021-11-27 15:32:16.574553,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Cam Newton,-0.014899999999999997,0.0476,0.0625
-2021-11-27 15:32:17.618799,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,-0.015100000000000002,0.1667,0.1818
-2021-11-27 15:32:17.674796,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.015100000000000002,0.1667,0.1818
-2021-11-27 15:32:16.607810,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Justin Herbert,-0.015100000000000002,0.1667,0.1818
-2021-11-27 15:32:16.550616,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Kyler Murray,-0.015300000000000001,0.0435,0.0588
-2021-11-27 15:32:17.513186,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,-0.015700000000000006,0.1176,0.1333
-2021-11-27 15:32:17.685386,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.016699999999999993,0.25,0.2667
-2021-11-27 15:32:16.642524,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing TD's,Darrell Henderson Jr.,-0.0189,0.0196,0.0385
-2021-11-27 15:32:17.876702,Euroleague - Euroleague 2021/22 - Winner,Maccabi Tel-Aviv,-0.019099999999999992,0.0476,0.0667
-2021-11-27 15:32:16.650792,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Ezekiel Elliot,-0.019800000000000005,0.0278,0.0476
-2021-11-27 15:32:16.599046,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Kirk Cousins,-0.0203,0.0385,0.0588
-2021-11-27 15:32:17.513186,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Anthony Davis,-0.022199999999999998,0.1111,0.1333
-2021-11-27 15:32:17.513186,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Bam Adebayo,-0.022199999999999998,0.1111,0.1333
-2021-11-27 15:32:17.655800,NBA Futures - 2022 NBA Southeast Division - Division Winner,Miami Heat,-0.022199999999999998,0.7778,0.8
-2021-11-27 15:32:17.607254,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.023799999999999988,0.1429,0.1667
-2021-11-27 15:32:16.599046,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Kyler Murray,-0.0253,0.0132,0.0385
-2021-11-27 15:32:18.114348,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Atlético Madrid,-0.02779999999999999,0.2222,0.25
-2021-11-27 15:32:16.659477,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Chris Jones,-0.028000000000000004,0.0196,0.0476
-2021-11-27 15:32:16.607810,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Josh Allen,-0.028199999999999996,0.0385,0.0667
-2021-11-27 15:32:16.599046,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Aaron Rodgers,-0.030199999999999998,0.0323,0.0625
-2021-11-27 15:32:16.668105,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Joe Burrow,-0.033300000000000024,0.1667,0.2
-2021-11-27 15:32:17.628537,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,-0.03689999999999999,0.2857,0.3226
-2021-11-27 15:32:16.668105,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Taylor Heinicke,-0.042899999999999994,0.1,0.1429
-2021-11-27 15:32:16.599046,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Patrick Mahomes,-0.04620000000000002,0.1538,0.2
-2021-11-27 15:32:16.599046,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TD's,Dak Prescot,-0.047400000000000005,0.0526,0.1
-2021-11-27 15:32:16.607810,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Patrick Mahomes,-0.05679999999999999,0.125,0.1818
-2021-11-27 15:32:17.664884,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.0635,0.2222,0.2857
-2021-11-27 15:32:16.607810,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Matthew Stafford,-0.06669999999999998,0.2,0.2667
+2021-11-28 03:21:53.903950,League One - England League One 2021/22 - To Be Relegated,Gillingham,0.1905,0.7143,0.5238
+2021-11-28 03:21:53.903950,League One - England League One 2021/22 - To Be Relegated,Doncaster Rovers,0.14279999999999993,0.8571,0.7143
+2021-11-28 03:21:53.922044,League One - England League One 2021/22 - Top 6 Finish,Sunderland,0.10709999999999997,0.8571,0.75
+2021-11-28 03:21:53.922044,League One - England League One 2021/22 - Top 6 Finish,Milton Keynes Dons,0.10109999999999997,0.5556,0.4545
+2021-11-28 03:21:53.937704,League Two - England League Two 2021/22 - Outright,Forest Green Rovers,0.09999999999999998,0.6,0.5
+2021-11-28 03:21:53.922044,League One - England League One 2021/22 - Top 6 Finish,Portsmouth,0.09230000000000005,0.4,0.3077
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Northampton Town,0.08079999999999998,0.6364,0.5556
+2021-11-28 03:21:53.903950,League One - England League One 2021/22 - To Be Relegated,Fleetwood Town,0.07450000000000001,0.5,0.4255
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Sutton Utd,0.07450000000000001,0.5,0.4255
+2021-11-28 03:21:53.895062,League One - England League One 2021/22 - To Be Promoted,Wigan Athletic,0.06929999999999997,0.5455,0.4762
+2021-11-28 03:21:53.895062,League One - England League One 2021/22 - To Be Promoted,Sunderland,0.06519999999999998,0.5,0.4348
+2021-11-28 03:21:53.922044,League One - England League One 2021/22 - Top 6 Finish,Wigan Athletic,0.05679999999999996,0.875,0.8182
+2021-11-28 03:21:53.903950,League One - England League One 2021/22 - To Be Relegated,Lincoln City,0.056400000000000006,0.1333,0.0769
+2021-11-28 03:21:53.913200,League One - England League One 2021/22 - Top 2 Finish,Sunderland,0.055900000000000005,0.3636,0.3077
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Tranmere Rovers,0.047599999999999976,0.3333,0.2857
+2021-11-28 03:21:53.895062,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,0.04040000000000002,0.2222,0.1818
+2021-11-28 03:21:53.922044,League One - England League One 2021/22 - Top 6 Finish,Rotherham Utd,0.028200000000000003,0.9615,0.9333
+2021-11-28 03:21:53.895062,League One - England League One 2021/22 - To Be Promoted,Rotherham Utd,0.027800000000000047,0.7778,0.75
+2021-11-28 03:21:53.913200,League One - England League One 2021/22 - Top 2 Finish,Rotherham Utd,0.025600000000000067,0.6923,0.6667
+2021-11-28 03:21:53.895062,League One - England League One 2021/22 - To Be Promoted,Wycombe,0.02560000000000001,0.3333,0.3077
+2021-11-28 03:21:53.903950,League One - England League One 2021/22 - To Be Relegated,Cambridge United,0.02560000000000001,0.3333,0.3077
+2021-11-28 03:21:53.913200,League One - England League One 2021/22 - Top 2 Finish,Milton Keynes Dons,0.024999999999999994,0.125,0.1
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Walsall,0.024999999999999994,0.125,0.1
+2021-11-28 03:21:53.937704,League Two - England League Two 2021/22 - Outright,Northampton Town,0.0242,0.0909,0.0667
+2021-11-28 03:21:53.922044,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,0.023799999999999988,0.5,0.4762
+2021-11-28 03:21:53.872757,League One - England League One 2021/22 - Outright,Wigan Athletic,0.022199999999999998,0.2222,0.2
+2021-11-28 03:21:53.895062,League One - England League One 2021/22 - To Be Promoted,Sheffield Wednesday,0.022199999999999998,0.2222,0.2
+2021-11-28 03:21:53.606001,Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,0.02100000000000002,0.3846,0.3636
+2021-11-28 03:21:53.872757,League One - England League One 2021/22 - Outright,Milton Keynes Dons,0.0203,0.0588,0.0385
+2021-11-28 03:21:53.882288,League One - England League One 2021/22 - Top Goalscorer,Matt Taylor (Oxford Utd),0.0203,0.0588,0.0385
+2021-11-28 03:21:52.988939,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Kirk Cousins,0.019499999999999997,0.0294,0.0099
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Rochdale,0.019000000000000017,0.2857,0.2667
+2021-11-28 03:21:53.913200,League One - England League One 2021/22 - Top 2 Finish,Wigan Athletic,0.018900000000000028,0.4444,0.4255
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Forest Green Rovers,0.01849999999999996,0.9709,0.9524
+2021-11-28 03:21:53.964460,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Liverpool,0.01820000000000002,0.2,0.1818
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Carlisle Utd,0.018200000000000004,0.0476,0.0294
+2021-11-28 03:21:53.922044,League One - England League One 2021/22 - Top 6 Finish,Ipswich Town,0.017600000000000005,0.3509,0.3333
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Port Vale,0.016699999999999937,0.6,0.5833
+2021-11-28 03:21:52.613307,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,0.015199999999999991,0.6364,0.6212
+2021-11-28 03:21:53.589587,Germany Bundesliga - German Bundesliga 2021/22 - Outright,Bayern Munich,0.014000000000000012,0.9231,0.9091
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Crawley Town,0.013999999999999999,0.0909,0.0769
+2021-11-28 03:21:52.511234,Boxing Lines - Stephen Fulton vs Brandon Figueroa - To Win the Bout,Brandon Figueroa,0.0131,0.303,0.2899
+2021-11-28 03:21:53.872757,League One - England League One 2021/22 - Outright,Sunderland,0.012899999999999995,0.1667,0.1538
+2021-11-28 03:21:53.922044,League One - England League One 2021/22 - Top 6 Finish,Burton Albion,0.011199999999999995,0.0588,0.0476
+2021-11-28 03:21:53.606001,Italy Serie A - Italy Serie A 2021/2022 - Outright,Atalanta,0.011099999999999999,0.1111,0.1
+2021-11-28 03:21:52.588568,Boxing Lines - Amanda Serrano vs Miriam Gutierrez - To Win the Bout,Amanda Serrano,-0.010099999999999998,0.9655,0.9756
+2021-11-28 03:21:53.589587,Germany Bundesliga - German Bundesliga 2021/22 - Outright,Eintracht Frankfurt,-0.011,0.0013,0.0123
+2021-11-28 03:21:53.895062,League One - England League One 2021/22 - To Be Promoted,Bolton Wanderers,-0.011199999999999995,0.0476,0.0588
+2021-11-28 03:21:53.913200,League One - England League One 2021/22 - Top 2 Finish,Ipswich Town,-0.011199999999999995,0.0476,0.0588
+2021-11-28 03:21:53.872757,League One - England League One 2021/22 - Outright,Oxford United,-0.011199999999999995,0.0476,0.0588
+2021-11-28 03:21:53.937704,League Two - England League Two 2021/22 - Outright,Leyton Orient,-0.0131,0.0345,0.0476
+2021-11-28 03:21:53.937704,League Two - England League Two 2021/22 - Outright,Exeter City,-0.013999999999999999,0.0769,0.0909
+2021-11-28 03:21:53.606001,Italy Serie A - Italy Serie A 2021/2022 - Outright,Juventus,-0.013999999999999999,0.0769,0.0909
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Mansfield Town,-0.015100000000000002,0.1667,0.1818
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Salford City,-0.017600000000000005,0.3333,0.3509
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Bristol Rovers,-0.01820000000000002,0.1818,0.2
+2021-11-28 03:21:52.511234,Boxing Lines - Stephen Fulton vs Brandon Figueroa - To Win the Bout,Stephen Fulton,-0.01880000000000004,0.759,0.7778
+2021-11-28 03:21:53.922044,League One - England League One 2021/22 - Top 6 Finish,Wycombe,-0.01880000000000004,0.6364,0.6552
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Exeter City,-0.01880000000000004,0.6364,0.6552
+2021-11-28 03:21:53.937704,League Two - England League Two 2021/22 - Outright,Harrogate Town,-0.019099999999999992,0.0476,0.0667
+2021-11-28 03:21:53.937704,League Two - England League Two 2021/22 - Outright,Swindon Town,-0.02020000000000001,0.0909,0.1111
+2021-11-28 03:21:53.882288,League One - England League One 2021/22 - Top Goalscorer,Ross Stewart (Sunderland),-0.02020000000000001,0.0909,0.1111
+2021-11-28 03:21:53.913200,League One - England League One 2021/22 - Top 2 Finish,Sheffield Wednesday,-0.02020000000000001,0.0909,0.1111
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Stevenage,-0.0203,0.0385,0.0588
+2021-11-28 03:21:53.913200,League One - England League One 2021/22 - Top 2 Finish,Wycombe,-0.022199999999999998,0.2,0.2222
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Barrow FC,-0.02310000000000001,0.0769,0.1
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Hartlepool United,-0.023799999999999988,0.1429,0.1667
+2021-11-28 03:21:53.922044,League One - England League One 2021/22 - Top 6 Finish,Oxford United,-0.023799999999999988,0.4762,0.5
+2021-11-28 03:21:53.895062,League One - England League One 2021/22 - To Be Promoted,Charlton Athletic,-0.024299999999999995,0.0526,0.0769
+2021-11-28 03:21:53.913200,League One - England League One 2021/22 - Top 2 Finish,Oxford United,-0.024999999999999994,0.1,0.125
+2021-11-28 03:21:53.606001,Italy Serie A - Italy Serie A 2021/2022 - Outright,AC Milan,-0.02779999999999999,0.2222,0.25
+2021-11-28 03:21:53.922044,League One - England League One 2021/22 - Top 6 Finish,Lincoln City,-0.028199999999999996,0.0385,0.0667
+2021-11-28 03:21:53.872757,League One - England League One 2021/22 - Outright,Plymouth Argyle,-0.028199999999999996,0.0385,0.0667
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Swindon Town,-0.030299999999999994,0.6364,0.6667
+2021-11-28 03:21:53.922044,League One - England League One 2021/22 - Top 6 Finish,Bolton Wanderers,-0.031799999999999995,0.1111,0.1429
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Leyton Orient,-0.031799999999999995,0.4444,0.4762
+2021-11-28 03:21:53.903950,League One - England League One 2021/22 - To Be Relegated,Cheltenham Town,-0.0321,0.0588,0.0909
+2021-11-28 03:21:53.895062,League One - England League One 2021/22 - To Be Promoted,Oxford United,-0.03259999999999999,0.2,0.2326
+2021-11-28 03:21:53.922044,League One - England League One 2021/22 - Top 6 Finish,Charlton Athletic,-0.04269999999999999,0.1111,0.1538
+2021-11-28 03:21:53.903950,League One - England League One 2021/22 - To Be Relegated,Burton Albion,-0.052300000000000006,0.0588,0.1111
+2021-11-28 03:21:53.903950,League One - England League One 2021/22 - To Be Relegated,Accrington Stanley,-0.05550000000000002,0.1667,0.2222
+2021-11-28 03:21:53.903950,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,-0.05559999999999998,0.1111,0.1667
+2021-11-28 03:21:53.949730,League Two - England League Two 2021/22 - Top 7 Finish,Bradford City,-0.067,0.3774,0.4444
+2021-11-28 03:21:53.895062,League One - England League One 2021/22 - To Be Promoted,Plymouth Argyle,-0.06820000000000001,0.1818,0.25
+2021-11-28 03:21:53.913200,League One - England League One 2021/22 - Top 2 Finish,Plymouth Argyle,-0.07069999999999999,0.1111,0.1818
+2021-11-28 03:21:53.903950,League One - England League One 2021/22 - To Be Relegated,Shrewsbury Town,-0.0922,0.3333,0.4255
+2021-11-28 03:21:53.922044,League One - England League One 2021/22 - Top 6 Finish,Plymouth Argyle,-0.12260000000000004,0.5,0.6226
