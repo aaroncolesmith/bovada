@@ -215,6 +215,31 @@ Temple, #9d2235
 Tulane, #006747
 Tulsa, #002d72
 Wichita State, #000
+Boston College, #98002E
+Clemson, #f66733
+Duke, #001a57
+Florida State, #782f40
+Georgia Tech, #eeb211
+Louisville, #Ad0000
+Miami, #f47321
+North Carolina, #4b9cd3
+North Carolina State, #cc0000
+Notre Dame, #0c2340
+Pittsburgh, #003594
+Syracuse, #d44500
+Virginia,#232D4b
+Virginia Tech,#8a1e41
+Wake Forest,#a67f31
+BYU, #002255
+Gonzaga, #041E42
+Loyola Marymount, #B62B3A
+Pacific, #E35205
+Pepperdine, #00205C
+Portland, #1E1656
+Saint Mary’s, #06315B
+San Diego, #002868
+San Francisco, #00543C
+Santa Clara, #862633
 Hawks,#e03a3e
 Celtics,#007a33
 Nets,#000000
@@ -369,3 +394,16 @@ Carolina, #592a8a
 Mustangs, #0033a0
 Florida, #006747
 State, #000
+College, #98002E
+State, #782f40
+Tech, #eeb211
+Carolina, #4b9cd3
+State, #cc0000
+Dame, #0c2340
+Tech,#8a1e41
+Forest,#a67f31
+Marymount, #B62B3A
+Mary’s, #06315B
+Diego, #002868
+Francisco, #00543C
+Clara, #862633
