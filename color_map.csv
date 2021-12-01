@@ -57,9 +57,164 @@ Colorado Rockies,#33006f
 Chicago White Sox,#27251f
 Atlanta Falcons,#a71930
 Green Bay Packers,#203731
+Arizona Cardinals, #97233f
+Atlanta Falcons, #a71930
+Baltimore Ravens, #241773
+Buffalo Bills, #c60c30
+Carolina Panthers, #0085ca
+Chicago Bears, #0b162a
+Cincinnati Bengals, #fb4f14
+Cleveland Browns, #ff3c00
+Dallas Cowboys, #041e42
 Denver Broncos, #024
+Detroit Lions, #0076b6
+Green Bay Packers, #203731
+Houston Texans, #03202f
+Indianapolis Colts, #002c5f
+Jacksonville Jaguars, #006778
+Kansas City Chiefs, #e31837
+Los Angeles Chargers, #002a5e
+Los Angeles Rams, #003594
+Miami Dolphins, #008e97
+Minnesota Vikings, #512d6d
+New England Patriots, #002244
+New Orleans Saints, #d3bc8d
+New York Giants, #0b2265
+New York Jets, #003f2d
+Oakland Raiders, #000000
+Philadelphia Eagles, #004c54
 Pittsburgh Steelers, #000
+San Francisco 49ers, #aa0000
+Seattle Seahawks, #002244
+Tampa Bay Buccaneers, #d50a0a
+Tennessee Titans, #002a5c
+Washington Redskins, #773141
+Houston Oilers, #4691df
+Arsenal, #d80919
+Aston Villa, #95bfe5
+AFC Bournemouth, #d41e2a
+Brighton & Hove Albion, #0a56a3
+Burnley, #80234c
+Chelsea, #034694
+Crystal Palace FC, #1b458f
+Everton FC, #063a99
+Leicester City, #1358a1
+Liverpool, #e0202c
+Manchester City, #99c5e7
+Manchester United, #dc1f29
+Newcastle United FC, #000000
+Norwich City, #fff200
+Sheffield United, #ee2737
+Southampton FC, #d41e29
+Tottenham Hotspur, #11214b
+Watford FC, #feeb00
+West Ham United, #7a263a
+Wolverhampton, #231f20
+Cardiff City, #0070b5
+Fulham, #cc0000
+Huddersfield Town, #0e63ad
+Leeds United, #005b9e
+Stoke City FC, #d41e29
+Swansea City FC, #121212
+West Bromwich Albion, #122f67
+Ajax, #d2122e
+Atalanta, #1E71B8
+Atlético, #CB3524
+Barcelona, #A50044
+Bayern Munich, #DC052D
+Benfica, #E83030
+Beşiktaş, #000000
+Borussia Dortmund, #fde100
+Club Brugge, #0078BF
+Dynamo Kyiv, #176FC1
+Inter, #010E80
+Juventus, #000000
+Leipzig, #dd013f
+Liverpool, #C8102E
+Lille OSC, #E01E13
+Malmö, #008ECB
+Manchester City, #6CABDD
+Manchester United, #DA291C
+AC Milan, #FB090B
+Paris Saint Germain, #004170
+Porto, #00428c
+Real Madrid, #FEBE10
+Red Bull Salzburg, #DF003C
+Sevilla, #F43333
+Shakhtar Donetsk, #F0612C
+Sheriff Tiraspol, #FDCC00
+Sporting, #008057
+Villarreal, #FFE667
+Wolfsburg, #65B32E
+Young Boys, #F9CC11
+Zenit, #0097DB
+Celtic FC, #018749
+Galatasaray, #a90432
+Lyon, #da0812
+Milwall, #00367a
+Illinois, #13294B
+Indiana, #990000
+Iowa, #ffcd00
+Maryland, #e03a3e
+Michigan, #00274c
+Michigan State, #18453b
+Minnesota, #7a0019
+Nebraska, #c8102e
+Northwestern, #4e2a84
+Ohio State, #bb0000
+Penn State, #093162
+Purdue, #000000
+Rutgers, #cc0033
+Wisconsin, #c50505
+Alabama, #9e1b32
+Arkansas, #9D2235
+Auburn, #0C2350
+Florida, #fa4616
+Georgia, #ba0c2f
+Kentucky, #0033a0
+Louisiana State, #461d7c
+Mississippi, #13294b
+Mississippi State, #660000
+Missouri, #f1b82d
+South Carolina, #73000a
+Tennessee, #FF8200
+Texas A&M, #500000
 Vanderbilt,#866d4b
+Baylor, #1d3c34
+Iowa State, #c8102e
+Kansas, #0051ba
+Kansas State, #512888
+Oklahoma,#841617
+Oklahoma State, #ff7300
+Texas, #bf5700
+Texas Christian, #4d1979
+Texas Tech, #cc0000
+West Virginia,#002855
+Arizona, #cc0033
+Arizona State, #8c1d40
+California, #003262
+Colorado,#cfb87c
+Oregon, #154733
+Oregon State, #dc4405
+Stanford, #8C1515
+UCLA, #2d68c4
+USC,#9d2235
+Utah,#cc0000
+Washington,#4b2e83
+Washington State,#981e32
+Central Florida Knights, #BA9B37
+Cincinnati, #e00122
+Connecticut Huskies, #000e2f
+East Carolina, #592a8a
+Houston, #c8102e
+Memphis, #003087
+Navy, #00205b
+SMU Mustangs, #0033a0
+South Florida, #006747
+Temple, #9d2235
+Tulane, #006747
+Tulsa, #002d72
+Wichita State, #000
 Hawks,#e03a3e
 Celtics,#007a33
 Nets,#000000
@@ -117,5 +272,100 @@ Rockies,#33006f
 White Sox,#27251f
 Falcons,#a71930
 Packers,#203731
+Cardinals, #97233f
+Falcons, #a71930
+Ravens, #241773
+Bills, #c60c30
+Panthers, #0085ca
+Bears, #0b162a
+Bengals, #fb4f14
+Browns, #ff3c00
+Cowboys, #041e42
 Broncos, #024
+Lions, #0076b6
+Packers, #203731
+Texans, #03202f
+Colts, #002c5f
+Jaguars, #006778
+Chiefs, #e31837
+Chargers, #002a5e
+Rams, #003594
+Dolphins, #008e97
+Vikings, #512d6d
+Patriots, #002244
+Saints, #d3bc8d
+Giants, #0b2265
+Jets, #003f2d
+Raiders, #000000
+Eagles, #004c54
 Steelers, #000
+49ers, #aa0000
+Seahawks, #002244
+Buccaneers, #d50a0a
+Titans, #002a5c
+Washington, #773141
+Oilers, #4691df
+Villa, #95bfe5
+Bournemouth, #d41e2a
+Hove Albion, #0a56a3
+FC, #1b458f
+Everton, #063a99
+City, #1358a1
+City, #99c5e7
+United, #dc1f29
+Newcastle, #000000
+Norwich City, #fff200
+United, #ee2737
+Southampton, #d41e29
+Hotspur, #11214b
+Watford, #feeb00
+United, #7a263a
+City, #0070b5
+Town, #0e63ad
+Leeds United, #005b9e
+FC, #d41e29
+FC, #121212
+Albion, #122f67
+Atletico Madrid, #CB3524
+Munich, #DC052D
+Dortmund, #fde100
+Brugge, #0078BF
+Kyiv, #176FC1
+Internazionale, #010E80
+RB Leipzig, #dd013f
+Lille OSC, #E01E13
+City, #6CABDD
+United, #DA291C
+Milan, #FB090B
+Paris Saint-Germain, #004170
+FC Porto, #00428c
+Madrid, #FEBE10
+FC Salzburg, #DF003C
+Sevilla FC, #F43333
+Donetsk, #F0612C
+Tiraspol, #FDCC00
+Sporting CP, #008057
+Boys, #F9CC11
+FC, #018749
+State, #18453b
+State, #bb0000
+State, #093162
+State, #461d7c
+State, #660000
+Carolina, #73000a
+A&M, #500000
+State, #c8102e
+State, #512888
+State, #ff7300
+Christian, #4d1979
+Tech, #cc0000
+Virginia,#002855
+State, #8c1d40
+State, #dc4405
+State,#981e32
+Knights, #BA9B37
+Huskies, #000e2f
+Carolina, #592a8a
+Mustangs, #0033a0
+Florida, #006747
+State, #000
