@@ -15,13 +15,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-11-30 22:41:41.725694,NFL Specials - To Win a Wildcard Seed - Proposition,Washington Football Team,0.04269999999999999,0.1538,0.1111
 2021-11-30 22:41:41.704298,NFL Specials - AFC #1 Seed - Outright,New England Patriots,0.04169999999999999,0.1667,0.125
 2021-11-30 22:41:41.725694,NFL Specials - To Win a Wildcard Seed - Proposition,Miami Dolphins,0.0384,0.0769,0.0385
+2021-12-01 02:03:42.550977,Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,0.03640000000000004,0.4,0.3636
 2021-11-30 22:41:41.725694,NFL Specials - To Win a Wildcard Seed - Proposition,Cincinnati Bengals,0.03640000000000004,0.4,0.3636
+2021-12-01 02:03:43.343414,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Benfica,0.0348,0.4348,0.4
 2021-12-01 00:22:08.344036,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Newcastle United,0.032099999999999906,0.6154,0.5833
-2021-12-01 00:22:08.344036,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Brentford,0.023799999999999988,0.1667,0.1429
 2021-11-30 22:41:41.725694,NFL Specials - To Win a Wildcard Seed - Proposition,New England Patriots,0.023799999999999988,0.5,0.4762
 2021-11-30 22:41:41.704298,NFL Specials - AFC #1 Seed - Outright,Buffalo Bills,0.023799999999999988,0.1667,0.1429
+2021-12-01 00:22:08.344036,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Brentford,0.023799999999999988,0.1667,0.1429
 2021-11-30 22:41:41.704298,NFL Specials - AFC #1 Seed - Outright,Kansas City Chiefs,0.022199999999999998,0.2222,0.2
 2021-11-30 22:41:41.725694,NFL Specials - To Win a Wildcard Seed - Proposition,Chicago Bears,0.019800000000000005,0.0476,0.0278
+2021-12-01 02:03:42.550977,Italy Serie A - Italy Serie A 2021/2022 - Outright,AC Milan,0.0179,0.1429,0.125
 2021-12-01 00:22:08.384929,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Brighton & Hove Albion,0.01759999999999999,0.1176,0.1
 2021-12-01 00:22:08.384929,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,0.015100000000000002,0.8333,0.8182
 2021-11-30 22:41:42.150366,Boxing Lines - McCann Dennis vs Juan Jose Jurado - To Win the Bout,McCann Dennis,0.01429999999999998,0.9852,0.9709
@@ -30,16 +33,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-11-30 22:41:42.338959,Boxing Lines - Frank Gore vs Deron Williams - To Win the Bout,Deron Williams,0.013799999999999923,0.6364,0.6226
 2021-12-01 00:22:08.384929,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Leicester City,0.0131,0.2353,0.2222
 2021-11-30 22:41:42.208647,Boxing Lines - Devin Haney vs Joseph Diaz - To Win the Bout,Joseph Diaz,0.011700000000000016,0.2222,0.2105
+2021-12-01 02:03:38.660155,Boxing Lines - Devin Haney vs Joseph Diaz - To Win the Bout,Devin Haney,0.01090000000000002,0.8571,0.8462
 2021-11-30 22:41:42.252976,Boxing Lines - Gervonta Davis vs Isaac Cruz Gonzalez - To Win the Bout,Gervonta Davis,0.010199999999999987,0.9333,0.9231
 2021-11-30 22:41:41.714003,NFL Specials - NFC #1 Seed - Outright,Arizona Cardinals,0.010099999999999998,0.4545,0.4444
+2021-12-01 02:03:38.735247,Boxing Lines - Gervonta Davis vs Isaac Cruz Gonzalez - To Win the Bout,Gervonta Davis,-0.010199999999999987,0.9231,0.9333
 2021-11-30 22:41:41.725694,NFL Specials - To Win a Wildcard Seed - Proposition,Tennessee Titans,-0.0102,0.0667,0.0769
 2021-11-30 22:41:42.208647,Boxing Lines - Devin Haney vs Joseph Diaz - To Win the Bout,Devin Haney,-0.01090000000000002,0.8462,0.8571
-2021-11-30 22:41:41.725694,NFL Specials - To Win a Wildcard Seed - Proposition,Dallas Cowboys,-0.013999999999999999,0.0769,0.0909
+2021-12-01 02:03:38.660155,Boxing Lines - Devin Haney vs Joseph Diaz - To Win the Bout,Joseph Diaz,-0.011700000000000016,0.2105,0.2222
 2021-11-30 22:41:41.725694,NFL Specials - To Win a Wildcard Seed - Proposition,Seattle Seahawks,-0.013999999999999999,0.0769,0.0909
+2021-11-30 22:41:41.725694,NFL Specials - To Win a Wildcard Seed - Proposition,Dallas Cowboys,-0.013999999999999999,0.0769,0.0909
 2021-11-30 22:41:42.150366,Boxing Lines - McCann Dennis vs Juan Jose Jurado - To Win the Bout,Juan Jose Jurado,-0.014399999999999996,0.0625,0.0769
 2021-12-01 00:22:08.344036,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,-0.01469999999999999,0.2353,0.25
 2021-11-30 22:41:42.338959,Boxing Lines - Frank Gore vs Deron Williams - To Win the Bout,Frank Gore,-0.018900000000000028,0.4255,0.4444
 2021-12-01 00:22:08.384929,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Crystal Palace,-0.019099999999999992,0.0476,0.0667
+2021-12-01 02:03:43.343414,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Sporting CP,-0.02560000000000001,0.3077,0.3333
 2021-11-30 22:41:41.725694,NFL Specials - To Win a Wildcard Seed - Proposition,Cleveland Browns,-0.03570000000000001,0.25,0.2857
 2021-11-30 22:41:41.704298,NFL Specials - AFC #1 Seed - Outright,Los Angeles Chargers,-0.0384,0.0385,0.0769
 2021-11-30 22:41:41.725694,NFL Specials - To Win a Wildcard Seed - Proposition,Kansas City Chiefs,-0.047599999999999976,0.2857,0.3333
