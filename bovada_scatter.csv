@@ -1,151 +1,181 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2021-12-03 07:30:33.256917,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Seattle Seahawks 2021/22 Total Wins,Under 6.5,0.19710000000000005,0.6226,0.4255
-2021-12-03 07:30:33.275331,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Washington Football Team 2021/2 Total Wins,Under 7.5,0.11539999999999995,0.6154,0.5
-2021-12-03 06:30:30.576302,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Baltimore Ravens 2021/22 Total Wins,Under 11.5,0.08900000000000002,0.5652,0.4762
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Ohio State,0.0905,0.1905,0.1
 2021-12-03 10:30:35.415400,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Aberdeen,0.08410000000000001,0.1429,0.0588
 2021-12-03 10:30:35.818549,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Tottenham Hotspur,0.08330000000000004,0.5833,0.5
 2021-12-03 10:30:35.425625,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Livingston,0.07930000000000001,0.2222,0.1429
+2021-12-03 19:30:50.460159,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Josh Allen,0.0703,0.0769,0.0066
 2021-12-03 12:30:46.566448,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Cleveland Cavaliers,0.06999999999999999,0.1176,0.0476
 2021-12-03 12:30:46.566448,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Minnesota Timberwolves,0.06670000000000004,0.4,0.3333
+2021-12-03 19:30:47.380028,MLB Specials - How Long Will the MLB Lockout Last - Outright,February 27 to March 31,0.06319999999999998,0.2632,0.2
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Illinois,0.0563,0.1739,0.1176
 2021-12-03 10:30:35.818549,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,0.05559999999999998,0.8889,0.8333
-2021-12-03 07:30:33.319183,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Over 8.5,0.05449999999999999,0.6,0.5455
 2021-12-03 12:30:46.566448,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Boston Celtics,0.05449999999999999,0.6,0.5455
-2021-12-03 07:30:33.337967,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Detroit Lions 2021/22 Total Wins,Over 1.5,0.05449999999999999,0.4545,0.4
+2021-12-03 16:30:44.747885,College Basketball - Big 12 Conference Winner - Outright,Kansas,0.053100000000000036,0.4167,0.3636
+2021-12-03 16:30:44.037977,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Micah Parsons,0.052000000000000046,0.9091,0.8571
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Maryland,0.050899999999999994,0.0909,0.04
 2021-12-03 16:30:44.761395,College Basketball - Big East Conference  Winner - Outright,Creighton,0.050899999999999994,0.0909,0.04
-2021-12-03 07:30:33.293242,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Buffalo Bills 2021/22 Total Wins,Under 11.5,0.04910000000000003,0.6491,0.6
-2021-12-03 07:30:33.371520,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Under 9.5,0.04760000000000009,0.7143,0.6667
 2021-12-03 16:30:44.191873,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,Cooper Kupp,0.04760000000000009,0.7143,0.6667
 2021-12-03 10:30:35.806239,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Manchester United,0.04760000000000003,0.5238,0.4762
+2021-12-03 16:30:44.815403,College Basketball - Mountain West Conference  Winner - Outright,San Diego State,0.047599999999999976,0.3333,0.2857
+2021-12-03 16:30:44.704073,College Basketball - American Athletic Conference Winner - Outright,Memphis,0.047599999999999976,0.3333,0.2857
 2021-12-03 12:30:46.470782,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Rudy Gobert,0.047599999999999976,0.3333,0.2857
 2021-12-03 12:30:46.517595,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Evan Mobley,0.047599999999999976,0.3333,0.2857
-2021-12-03 07:30:33.474462,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Cincinnati Bengals,No,0.04630000000000001,0.4167,0.3704
-2021-12-03 07:30:33.227051,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Rams 2021/22 Total Wins,Over 10.5,0.04290000000000005,0.6429,0.6
-2021-12-03 07:30:33.414193,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Minnesota Vikings 2021/22 Total Wins,Under 8.5,0.03959999999999997,0.5744,0.5348
-2021-12-03 07:30:33.483481,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Cleveland Browns,No,0.038999999999999924,0.7826,0.7436
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Oklahoma,0.0475,0.0769,0.0294
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Virginia,0.047400000000000005,0.1,0.0526
+2021-12-03 16:30:44.747885,College Basketball - Big 12 Conference Winner - Outright,Texas,0.04580000000000001,0.3125,0.2667
+2021-12-03 16:30:44.491352,NCAA Football Specials - Where will Spencer Rattler Play Game 1 of the 2022/2023 NCAA Season? - Outright,UCLA,0.04169999999999999,0.1667,0.125
 2021-12-03 16:30:44.845107,College Basketball - Southeastern Conference Winner - Outright,LSU,0.03860000000000001,0.1053,0.0667
-2021-12-03 07:30:33.218325,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Under 11.5,0.037900000000000045,0.6296,0.5917
-2021-12-03 07:30:33.492120,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Denver Broncos,No,0.03579999999999994,0.7826,0.7468
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Colorado,0.0377,0.0526,0.0149
 2021-12-03 12:30:46.495822,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Miles Bridges,0.03570000000000001,0.2857,0.25
-2021-12-03 07:30:33.449312,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Over 9.5,0.03480000000000005,0.5348,0.5
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Georgia Tech,0.0344,0.0588,0.0244
 2021-12-03 10:30:35.830448,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Tottenham Hotspur,0.03420000000000001,0.9231,0.8889
 2021-12-03 12:30:46.495822,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Dejounte Murray,0.0334,0.0769,0.0435
 2021-12-03 10:30:31.259533,Boxing Lines - Alonso Flete Jonathan vs Mohamed El Marcouchi - To Win the Bout,Mohamed El Marcouchi,0.033300000000000024,0.2,0.1667
+2021-12-03 16:30:44.718241,College Basketball - Atlantic 10 Conference Winner - Outright,George Mason,0.03330000000000001,0.1,0.0667
 2021-12-03 16:30:44.718241,College Basketball - Atlantic 10 Conference Winner - Outright,Dayton,0.03330000000000001,0.1,0.0667
+2021-12-03 19:30:51.105753,College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Aidan Hutchinson,0.03330000000000001,0.1,0.0667
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Creighton,0.03219999999999999,0.0667,0.0345
 2021-12-03 12:30:46.566448,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Chicago Bulls,0.03180000000000005,0.8889,0.8571
 2021-12-03 16:30:45.050762,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Blocks/Game Leader,Myles Turner,0.031799999999999995,0.4762,0.4444
 2021-12-03 10:30:34.572785,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Juventus,0.03179999999999994,0.5556,0.5238
-2021-12-03 07:30:33.431691,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Philadelphia Eagles 2021/22 Total Wins,Over 7.5,0.030299999999999994,0.697,0.6667
+2021-12-03 16:30:44.761395,College Basketball - Big East Conference  Winner - Outright,Connecticut,0.031700000000000006,0.2222,0.1905
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Syracuse,0.0314,0.0769,0.0455
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Stanford,0.0312,0.0435,0.0123
 2021-12-03 10:30:35.830448,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Crystal Palace,0.030299999999999994,0.3636,0.3333
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,St. John's,0.0294,0.0588,0.0294
 2021-12-03 16:30:44.829576,College Basketball - PAC 12 Conference  Winner - Outright,Colorado,0.0294,0.0588,0.0294
 2021-12-03 16:30:44.181845,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Davante Adams,0.028799999999999992,0.1538,0.125
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Virginia Tech,0.028399999999999995,0.0909,0.0625
+2021-12-03 19:30:47.743929,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Ohio State,0.0282,0.0526,0.0244
 2021-12-03 16:30:44.004293,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Trevon Diggs,0.027999999999999997,0.1818,0.1538
-2021-12-03 07:30:33.509403,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Las Vegas Raiders,No,0.02729999999999999,0.8,0.7727
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Georgetown,0.027099999999999996,0.0435,0.0164
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Missouri,0.027099999999999996,0.0435,0.0164
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Oregon State,0.027099999999999996,0.0435,0.0164
+2021-12-03 19:30:50.050450,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Tom Brady,0.02679999999999999,0.3125,0.2857
 2021-12-03 16:30:44.152496,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TDs,Matthew Stafford,0.026500000000000024,0.2083,0.1818
 2021-12-03 10:30:35.842746,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Leicester City,0.02560000000000001,0.3333,0.3077
-2021-12-03 06:30:30.561797,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Arizona Cardinals 2021/22 Total Wins,Under 12.5,0.025499999999999967,0.4255,0.4
+2021-12-03 16:30:45.699028,NBA Specials - 2022 NBA Draft - 1st Overall Pick,Chet Holmgren,0.024399999999999977,0.5122,0.4878
 2021-12-03 16:30:45.708863,NBA Specials - 2022 NBA Draft - 2nd Overall Pick,Paolo Banchero,0.024399999999999977,0.5122,0.4878
 2021-12-03 14:30:37.183674,Boxing Lines - Isaac Lowe vs Luis Alberto Lopez - To Win the Bout,Isaac Lowe,0.024399999999999977,0.2597,0.2353
-2021-12-03 16:30:45.699028,NBA Specials - 2022 NBA Draft - 1st Overall Pick,Chet Holmgren,0.024399999999999977,0.5122,0.4878
+2021-12-03 16:30:44.761395,College Basketball - Big East Conference  Winner - Outright,Butler,0.024299999999999995,0.0588,0.0345
 2021-12-03 16:30:44.780072,College Basketball - Big Ten Conference Winner - Outright,Indiana,0.024299999999999995,0.0769,0.0526
 2021-12-03 16:30:44.761395,College Basketball - Big East Conference  Winner - Outright,St. John's,0.024299999999999995,0.0769,0.0526
-2021-12-03 16:30:44.761395,College Basketball - Big East Conference  Winner - Outright,Butler,0.024299999999999995,0.0588,0.0345
 2021-12-03 14:30:40.218196,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Dak Prescott,0.0242,0.0909,0.0667
 2021-12-03 12:30:46.566448,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Toronto Raptors,0.023799999999999988,0.1667,0.1429
-2021-12-03 16:30:44.121684,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Dak Prescott,0.023799999999999932,0.8571,0.8333
 2021-12-03 10:30:35.856390,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,West Ham United,0.023799999999999932,0.8571,0.8333
-2021-12-03 07:30:33.236837,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Over 10.5,0.023799999999999932,0.6667,0.6429
-2021-12-03 07:30:33.405619,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Miami Dolphins 2021/22 Total Wins,Under 7.5,0.023699999999999943,0.6154,0.5917
+2021-12-03 16:30:44.121684,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Dak Prescott,0.023799999999999932,0.8571,0.8333
 2021-12-03 11:30:34.060064,NBA Futures - 2022 NBA Southeast Division - Division Winner,Miami Heat,0.023399999999999976,0.7059,0.6825
-2021-12-03 06:30:30.478085,NFL Futures - NFC East - Division Winner,Dallas Cowboys,0.02310000000000001,0.9231,0.9
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,North Carolina,0.02310000000000001,0.1,0.0769
 2021-12-03 10:30:35.779542,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Newcastle United,0.022600000000000064,0.6226,0.6
-2021-12-03 07:30:33.422781,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Jets 2021/22 Total Wins,Under 4.5,0.022199999999999998,0.6774,0.6552
-2021-12-03 07:30:33.500828,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Indianapolis Colts,Yes,0.021699999999999997,0.4762,0.4545
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Dayton,0.022400000000000003,0.0323,0.0099
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Florida State,0.02239999999999999,0.1176,0.0952
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Arizona State,0.022099999999999998,0.0385,0.0164
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,SMU,0.022099999999999998,0.0385,0.0164
 2021-12-03 10:30:35.425625,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Ross County,0.021699999999999997,0.4762,0.4545
 2021-12-03 16:30:44.780072,College Basketball - Big Ten Conference Winner - Outright,Illinois,0.02049999999999999,0.1538,0.1333
 2021-12-03 10:30:31.646989,Boxing Lines - Sebastian Fundora vs Sergio Garcia - To Win the Bout,Sergio Garcia,0.02020000000000005,0.3279,0.3077
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Butler,0.020000000000000004,0.0323,0.0123
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Va Commonwealth,0.019899999999999998,0.0278,0.0079
 2021-12-03 11:30:34.032304,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.019699999999999995,0.125,0.1053
 2021-12-03 16:30:44.161539,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Tom Brady,0.019600000000000006,0.3226,0.303
-2021-12-03 07:30:33.209695,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cincinnati Bengals 2021/22 Total Wins,Under 9.5,0.018900000000000028,0.4444,0.4255
-2021-12-03 07:30:33.518057,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Los Angeles Chargers,Yes,0.01880000000000004,0.5744,0.5556
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Mississippi State,0.019099999999999995,0.0435,0.0244
 2021-12-03 16:30:44.780072,College Basketball - Big Ten Conference Winner - Outright,Maryland,0.018799999999999997,0.0588,0.04
 2021-12-03 10:30:35.806239,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Tottenham Hotspur,0.01820000000000002,0.2,0.1818
 2021-12-03 16:30:42.326663,Boxing Lines - Isaac Lowe vs Luis Alberto Lopez - To Win the Bout,Isaac Lowe,0.018100000000000005,0.2778,0.2597
 2021-12-03 12:30:46.736405,NBA Futures - 2022 NBA Southeast Division - Division Winner,Charlotte Hornets,0.018099999999999998,0.0769,0.0588
-2021-12-03 16:30:44.780072,College Basketball - Big Ten Conference Winner - Outright,Ohio State,0.0179,0.1429,0.125
 2021-12-03 12:30:46.772260,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.0179,0.2353,0.2174
+2021-12-03 16:30:44.780072,College Basketball - Big Ten Conference Winner - Outright,Ohio State,0.0179,0.1429,0.125
 2021-12-03 14:30:40.218196,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Patrick Mahomes,0.01759999999999999,0.1176,0.1
+2021-12-03 16:30:44.845107,College Basketball - Southeastern Conference Winner - Outright,Auburn,0.016700000000000007,0.1,0.0833
 2021-12-03 12:30:46.736405,NBA Futures - 2022 NBA Southeast Division - Division Winner,Atlanta Hawks,0.016699999999999993,0.2667,0.25
 2021-12-03 10:30:35.415400,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hearts,0.016699999999999937,0.6,0.5833
-2021-12-03 07:30:33.358130,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Houston Texans 2021/22 Total Wins,Under 3.5,0.015800000000000036,0.6825,0.6667
+2021-12-03 19:30:46.663737,Boxing Lines - Conor Benn vs Chris Algieri - To Win the Bout,Chris Algieri,0.016600000000000004,0.1905,0.1739
 2021-12-03 10:30:31.628477,Boxing Lines - Sergiy Derevyanchenko vs Carlos Adames - To Win the Bout,Sergiy Derevyanchenko,0.015800000000000036,0.8095,0.7937
 2021-12-03 16:30:44.815403,College Basketball - Mountain West Conference  Winner - Outright,Nevada,0.015700000000000006,0.1333,0.1176
 2021-12-03 12:30:43.547471,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Green Bay Packers,0.015700000000000006,0.1333,0.1176
-2021-12-03 07:30:33.385155,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Over 3.5,0.01539999999999997,0.6154,0.6
-2021-12-03 10:30:35.856390,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Arsenal,0.015100000000000002,0.8333,0.8182
+2021-12-03 16:30:44.845107,College Basketball - Southeastern Conference Winner - Outright,Arkansas,0.015700000000000006,0.1333,0.1176
 2021-12-03 10:30:35.779542,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Brentford,0.015100000000000002,0.1818,0.1667
+2021-12-03 10:30:35.856390,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Arsenal,0.015100000000000002,0.8333,0.8182
+2021-12-03 16:30:44.829576,College Basketball - PAC 12 Conference  Winner - Outright,Arizona,0.01469999999999999,0.25,0.2353
 2021-12-03 16:30:44.107132,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Bill Belichick,0.01469999999999999,0.25,0.2353
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Davidson,0.0145,0.0244,0.0099
 2021-12-03 16:30:44.761395,College Basketball - Big East Conference  Winner - Outright,Georgetown,0.0145,0.0244,0.0099
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,West Virginia,0.014399999999999996,0.0769,0.0625
 2021-12-03 10:30:32.567299,NFL Futures - NFC East - Division Winner,Dallas Cowboys,0.014100000000000001,0.9372,0.9231
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Wichita State,0.014099999999999998,0.0435,0.0294
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Clemson,0.014099999999999998,0.0435,0.0294
 2021-12-03 16:30:44.815403,College Basketball - Mountain West Conference  Winner - Outright,UNLV,0.014099999999999994,0.0667,0.0526
 2021-12-03 10:30:35.830448,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,West Ham United,0.014000000000000012,0.9231,0.9091
-2021-12-03 10:30:32.423993,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Dallas Cowboys,0.013999999999999999,0.0909,0.0769
 2021-12-03 10:30:35.425625,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,St. Mirren,0.013999999999999999,0.0909,0.0769
 2021-12-03 10:30:35.779542,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Crystal Palace,0.013999999999999999,0.0909,0.0769
+2021-12-03 10:30:32.423993,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Dallas Cowboys,0.013999999999999999,0.0909,0.0769
 2021-12-03 10:30:32.423993,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Baltimore Ravens,0.013999999999999999,0.0909,0.0769
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Oregon,0.013999999999999999,0.0909,0.0769
 2021-12-03 16:30:45.699028,NBA Specials - 2022 NBA Draft - 1st Overall Pick,Jaden Hardy,0.013899999999999996,0.125,0.1111
-2021-12-03 06:30:30.397644,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Arizona Cardinals,0.0131,0.2353,0.2222
-2021-12-03 12:30:46.425764,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Kevin Durant,0.012899999999999995,0.1667,0.1538
+2021-12-03 16:30:44.801417,College Basketball - Conference USA Winner - Outright,Louisiana Tech,0.0131,0.2353,0.2222
+2021-12-03 19:30:51.011421,CFL - Odds to win 2021 Grey Cup - Winner,Hamilton Tiger-Cats,0.0131,0.2353,0.2222
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Belmont,0.012899999999999998,0.0278,0.0149
 2021-12-03 11:30:32.744302,Boxing Lines - Gervonta Davis vs Isaac Cruz Gonzalez - To Win the Bout,Isaac Cruz Gonzalez,0.012899999999999995,0.1379,0.125
+2021-12-03 12:30:46.425764,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Kevin Durant,0.012899999999999995,0.1667,0.1538
 2021-12-03 12:30:46.647182,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,0.012899999999999912,0.8462,0.8333
-2021-12-03 07:30:33.347043,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Green Bay Packers 2021/22 Total Wins,Under 12.5,0.012199999999999989,0.5122,0.5
+2021-12-03 16:30:44.761395,College Basketball - Big East Conference  Winner - Outright,Xavier,0.012299999999999991,0.1176,0.1053
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Saint Louis,0.012100000000000001,0.0244,0.0123
 2021-12-03 12:30:46.671018,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,0.011899999999999994,0.25,0.2381
+2021-12-03 19:30:47.743929,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Maryland,0.0118,0.0217,0.0099
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Georgia,0.011699999999999999,0.0196,0.0079
 2021-12-03 14:30:37.480406,Boxing Lines - Sebastian Fundora vs Sergio Garcia - To Win the Bout,Sergio Garcia,0.01150000000000001,0.3448,0.3333
-2021-12-03 06:30:29.695064,Boxing Lines - Lyndon Arthur vs Anthony Yarde - To Win the Bout,Lyndon Arthur,0.011099999999999999,0.4762,0.4651
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Texas A&M,0.011399999999999997,0.0278,0.0164
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Central Florida,0.011399999999999997,0.0278,0.0164
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Cincinnati,0.011199999999999995,0.0435,0.0323
 2021-12-03 11:30:34.019335,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,0.010800000000000004,0.2381,0.2273
-2021-12-03 07:30:33.302060,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Carolina Panthers 2021/22 Total Wins,Under 6.5,0.010699999999999932,0.5455,0.5348
-2021-12-03 07:30:33.266482,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tennessee Titans 2021/22 Total Wins,Over 11.5,0.010599999999999998,0.4651,0.4545
 2021-12-03 14:30:38.711049,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.010499999999999982,0.2105,0.2
-2021-12-03 10:30:34.572785,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Fiorentina,0.0102,0.0769,0.0667
-2021-12-03 11:30:34.032304,NBA Futures - 2022 NBA Northwest Division - Division Winner,Portland Trail Blazers,0.0102,0.0769,0.0667
 2021-12-03 16:30:44.220517,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Nick Bosa,0.0102,0.0769,0.0667
+2021-12-03 11:30:34.032304,NBA Futures - 2022 NBA Northwest Division - Division Winner,Portland Trail Blazers,0.0102,0.0769,0.0667
+2021-12-03 19:30:50.460159,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Patrick Mahomes,0.0102,0.0769,0.0667
+2021-12-03 10:30:34.572785,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Fiorentina,0.0102,0.0769,0.0667
 2021-12-03 16:30:42.883605,Boxing Lines - Gervonta Davis vs Isaac Cruz Gonzalez - To Win the Bout,Gervonta Davis,0.010199999999999987,0.9333,0.9231
-2021-12-03 05:30:29.932407,Boxing Lines - Denis Radovan vs Brian Rose - To Win the Bout,Denis Radovan,0.010199999999999987,0.9333,0.9231
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Providence,0.010100000000000001,0.0323,0.0222
 2021-12-03 12:30:46.425764,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,0.010099999999999998,0.4545,0.4444
-2021-12-03 06:30:30.591614,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Over 7.5,0.010099999999999998,0.4545,0.4444
+2021-12-03 19:30:46.805866,Boxing Lines - Amanda Serrano vs Miriam Gutierrez - To Win the Bout,Amanda Serrano,0.010099999999999998,0.9756,0.9655
 2021-12-03 12:30:46.495822,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,OG Anunoby,-0.010100000000000001,0.0244,0.0345
 2021-12-03 11:30:32.744302,Boxing Lines - Gervonta Davis vs Isaac Cruz Gonzalez - To Win the Bout,Gervonta Davis,-0.010199999999999987,0.9231,0.9333
 2021-12-03 14:30:37.166412,Boxing Lines - Denis Radovan vs Brian Rose - To Win the Bout,Denis Radovan,-0.010199999999999987,0.9231,0.9333
 2021-12-03 12:30:46.425764,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,-0.0102,0.0667,0.0769
-2021-12-03 07:30:33.385155,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Under 3.5,-0.010599999999999998,0.4545,0.4651
 2021-12-03 16:30:44.070876,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Jonathan Taylor,-0.010699999999999987,0.3226,0.3333
-2021-12-03 06:30:30.397644,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Los Angeles Rams,-0.010899999999999993,0.1429,0.1538
-2021-12-03 07:30:33.302060,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Carolina Panthers 2021/22 Total Wins,Over 6.5,-0.01100000000000001,0.5238,0.5348
+2021-12-03 16:30:44.704073,College Basketball - American Athletic Conference Winner - Outright,Houston,-0.010699999999999987,0.3226,0.3333
+2021-12-03 19:30:47.313998,MLB - 2022 World Series - Outright,Los Angeles Dodgers,-0.010899999999999993,0.1429,0.1538
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Texas Tech,-0.011099999999999999,0.1,0.1111
 2021-12-03 14:30:37.480406,Boxing Lines - Sebastian Fundora vs Sergio Garcia - To Win the Bout,Sebastian Fundora,-0.011099999999999999,0.7222,0.7333
 2021-12-03 16:30:44.704073,College Basketball - American Athletic Conference Winner - Outright,SMU,-0.011099999999999999,0.1,0.1111
 2021-12-03 10:30:35.830448,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Arsenal,-0.011199999999999988,0.9412,0.9524
 2021-12-03 10:30:35.779542,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Brighton & Hove Albion,-0.011199999999999995,0.0476,0.0588
+2021-12-03 19:30:51.105753,College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Kenny Pickett,-0.011199999999999995,0.0476,0.0588
+2021-12-03 19:30:45.982394,Boxing Lines - Sheeraz Hamzah vs Bradley Skeete - To Win the Bout,Bradley Skeete,-0.011400000000000007,0.1176,0.129
 2021-12-03 16:30:45.050762,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Blocks/Game Leader,Rudy Gobert,-0.011700000000000016,0.2105,0.2222
+2021-12-03 19:30:51.105753,College Season Props - 2021-2022 Heisman Trophy Winner - Winner,Desmond Ridder,-0.0118,0.0099,0.0217
 2021-12-03 10:30:35.425625,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Hearts,-0.012199999999999999,0.001,0.0132
-2021-12-03 14:30:38.691413,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.012899999999999995,0.1538,0.1667
 2021-12-03 16:30:44.704073,College Basketball - American Athletic Conference Winner - Outright,Central Florida,-0.012899999999999995,0.125,0.1379
+2021-12-03 16:30:44.845107,College Basketball - Southeastern Conference Winner - Outright,Tennessee,-0.012899999999999995,0.1538,0.1667
 2021-12-03 16:30:44.734363,College Basketball - Atlantic Coast Conference  Winner - Outright,Florida State,-0.012899999999999995,0.1538,0.1667
+2021-12-03 14:30:38.691413,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.012899999999999995,0.1538,0.1667
 2021-12-03 16:30:45.050762,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Blocks/Game Leader,Anthony Davis,-0.0131,0.2222,0.2353
 2021-12-03 10:30:35.818549,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Arsenal,-0.013799999999999923,0.6226,0.6364
 2021-12-03 10:30:35.425625,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,St. Johnstone,-0.013899999999999996,0.1111,0.125
+2021-12-03 16:30:44.845107,College Basketball - Southeastern Conference Winner - Outright,Florida,-0.013899999999999996,0.1111,0.125
+2021-12-03 19:30:46.663737,Boxing Lines - Conor Benn vs Chris Algieri - To Win the Bout,Conor Benn,-0.013900000000000023,0.875,0.8889
 2021-12-03 10:30:35.856390,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Tottenham Hotspur,-0.013900000000000023,0.875,0.8889
-2021-12-03 12:30:43.547471,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Baltimore Ravens,-0.013999999999999999,0.0769,0.0909
-2021-12-03 12:30:43.547471,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Dallas Cowboys,-0.013999999999999999,0.0769,0.0909
 2021-12-03 10:30:35.818549,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Wolverhampton Wanderers,-0.013999999999999999,0.0769,0.0909
+2021-12-03 12:30:43.547471,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Baltimore Ravens,-0.013999999999999999,0.0769,0.0909
 2021-12-03 10:30:35.779542,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Aston Villa,-0.013999999999999999,0.0769,0.0909
+2021-12-03 12:30:43.547471,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Dallas Cowboys,-0.013999999999999999,0.0769,0.0909
 2021-12-03 16:30:44.004293,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Darius Leonard,-0.014099999999999998,0.0244,0.0385
+2021-12-03 19:30:47.797890,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Loyola Chicago,-0.014100000000000001,0.0385,0.0526
 2021-12-03 10:30:31.628477,Boxing Lines - Sergiy Derevyanchenko vs Carlos Adames - To Win the Bout,Carlos Adames,-0.014300000000000035,0.2597,0.274
 2021-12-03 12:30:46.694086,NBA Futures - 2022 NBA Northwest Division - Division Winner,Portland Trail Blazers,-0.014399999999999996,0.0625,0.0769
 2021-12-03 16:30:44.704073,College Basketball - American Athletic Conference Winner - Outright,Tulane,-0.0153,0.0141,0.0294
-2021-12-03 07:30:33.266482,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tennessee Titans 2021/22 Total Wins,Under 11.5,-0.01539999999999997,0.6,0.6154
-2021-12-03 07:30:33.358130,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Houston Texans 2021/22 Total Wins,Over 3.5,-0.015400000000000025,0.3846,0.4
 2021-12-03 16:30:42.748850,Boxing Lines - Lyndon Arthur vs Anthony Yarde - To Win the Bout,Lyndon Arthur,-0.015400000000000025,0.4608,0.4762
 2021-12-03 10:30:31.646989,Boxing Lines - Sebastian Fundora vs Sergio Garcia - To Win the Bout,Sebastian Fundora,-0.015800000000000036,0.7403,0.7561
-2021-12-03 07:30:33.422781,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Jets 2021/22 Total Wins,Over 4.5,-0.016000000000000014,0.3922,0.4082
+2021-12-03 19:30:47.313998,MLB - 2022 World Series - Outright,Atlanta Braves,-0.016600000000000004,0.0667,0.0833
 2021-12-03 10:30:35.818549,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,-0.016699999999999937,0.5833,0.6
 2021-12-03 12:30:46.495822,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Tyler Herro,-0.016700000000000007,0.0833,0.1
 2021-12-03 14:30:38.691413,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.016700000000000007,0.0833,0.1
@@ -156,60 +186,44 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-03 10:30:35.806239,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,West Ham United,-0.01820000000000002,0.1818,0.2
 2021-12-03 10:30:35.415400,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hibernian,-0.019000000000000017,0.2667,0.2857
 2021-12-03 16:30:44.718241,College Basketball - Atlantic 10 Conference Winner - Outright,Saint Louis,-0.019099999999999992,0.0476,0.0667
+2021-12-03 19:30:46.089410,Boxing Lines - Hrgovic Filip vs Emir Ahmatovic - To Win the Bout,Hrgovic Filip,-0.019199999999999995,0.9709,0.9901
 2021-12-03 16:30:42.326663,Boxing Lines - Isaac Lowe vs Luis Alberto Lopez - To Win the Bout,Luis Alberto Lopez,-0.020000000000000018,0.7895,0.8095
-2021-12-03 07:30:33.209695,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cincinnati Bengals 2021/22 Total Wins,Over 9.5,-0.020299999999999985,0.6226,0.6429
-2021-12-03 07:30:33.371520,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Over 9.5,-0.02030000000000004,0.3571,0.3774
 2021-12-03 16:30:44.815403,College Basketball - Mountain West Conference  Winner - Outright,Utah State,-0.02049999999999999,0.1333,0.1538
 2021-12-03 10:30:32.567299,NFL Futures - NFC East - Division Winner,Philadelphia Eagles,-0.0208,0.0625,0.0833
 2021-12-03 16:30:44.004293,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Myles Garrett,-0.02100000000000002,0.3636,0.3846
-2021-12-03 07:30:33.405619,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Miami Dolphins 2021/22 Total Wins,Over 7.5,-0.021699999999999997,0.4545,0.4762
-2021-12-03 10:30:31.259533,Boxing Lines - Alonso Flete Jonathan vs Mohamed El Marcouchi - To Win the Bout,Alonso Flete Jonathan,-0.022199999999999998,0.8667,0.8889
 2021-12-03 10:30:35.818549,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Leicester City,-0.022199999999999998,0.2,0.2222
-2021-12-03 12:30:46.470782,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Bam Adebayo,-0.02310000000000001,0.0769,0.1
+2021-12-03 16:30:44.845107,College Basketball - Southeastern Conference Winner - Outright,Alabama,-0.022199999999999998,0.2,0.2222
+2021-12-03 10:30:31.259533,Boxing Lines - Alonso Flete Jonathan vs Mohamed El Marcouchi - To Win the Bout,Alonso Flete Jonathan,-0.022199999999999998,0.8667,0.8889
 2021-12-03 10:30:32.567299,NFL Futures - NFC East - Division Winner,Washington Football Team,-0.02310000000000001,0.0769,0.1
-2021-12-03 07:30:33.500828,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Indianapolis Colts,No,-0.023699999999999943,0.5917,0.6154
-2021-12-03 06:30:30.561797,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Arizona Cardinals 2021/22 Total Wins,Over 12.5,-0.023799999999999932,0.6429,0.6667
+2021-12-03 12:30:46.470782,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Bam Adebayo,-0.02310000000000001,0.0769,0.1
+2021-12-03 16:30:44.718241,College Basketball - Atlantic 10 Conference Winner - Outright,Richmond,-0.023800000000000016,0.1667,0.1905
 2021-12-03 14:30:37.183674,Boxing Lines - Isaac Lowe vs Luis Alberto Lopez - To Win the Bout,Luis Alberto Lopez,-0.023800000000000043,0.8095,0.8333
 2021-12-03 12:30:46.714829,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.023800000000000043,0.5,0.5238
-2021-12-03 16:30:45.708863,NBA Specials - 2022 NBA Draft - 2nd Overall Pick,Chet Holmgren,-0.024399999999999977,0.4878,0.5122
-2021-12-03 07:30:33.518057,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Los Angeles Chargers,No,-0.024399999999999977,0.4878,0.5122
 2021-12-03 16:30:45.699028,NBA Specials - 2022 NBA Draft - 1st Overall Pick,Paolo Banchero,-0.024399999999999977,0.4878,0.5122
+2021-12-03 16:30:45.708863,NBA Specials - 2022 NBA Draft - 2nd Overall Pick,Chet Holmgren,-0.024399999999999977,0.4878,0.5122
 2021-12-03 12:30:46.517595,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Jalen Green,-0.024999999999999994,0.1,0.125
-2021-12-03 07:30:33.236837,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Under 10.5,-0.025499999999999967,0.4,0.4255
+2021-12-03 19:30:47.380028,MLB Specials - How Long Will the MLB Lockout Last - Outright,April 1 to July 19,-0.025499999999999967,0.4,0.4255
 2021-12-03 16:30:44.491352,NCAA Football Specials - Where will Spencer Rattler Play Game 1 of the 2022/2023 NCAA Season? - Outright,Arizona State,-0.02729999999999999,0.6552,0.6825
-2021-12-03 07:30:33.509403,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Las Vegas Raiders,Yes,-0.02739999999999998,0.2667,0.2941
 2021-12-03 12:30:46.470782,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Anthony Davis,-0.028399999999999995,0.0625,0.0909
 2021-12-03 16:30:44.718241,College Basketball - Atlantic 10 Conference Winner - Outright,Davidson,-0.028399999999999995,0.0625,0.0909
-2021-12-03 07:30:33.431691,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Philadelphia Eagles 2021/22 Total Wins,Under 7.5,-0.029600000000000015,0.3704,0.4
-2021-12-03 07:30:33.449312,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Under 9.5,-0.030399999999999983,0.5348,0.5652
-2021-12-03 07:30:33.328532,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Denver Broncos 2021/22 Total Wins,Over 8.5,-0.030399999999999983,0.5348,0.5652
-2021-12-03 07:30:33.492120,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Denver Broncos,Yes,-0.031799999999999995,0.2857,0.3175
+2021-12-03 19:30:51.105753,College Season Props - 2021-2022 Heisman Trophy Winner - Winner,CJ Stroud,-0.028700000000000003,0.1818,0.2105
+2021-12-03 19:30:47.380028,MLB Specials - How Long Will the MLB Lockout Last - Outright,December 1 to February 26,-0.028900000000000037,0.5455,0.5744
 2021-12-03 12:30:46.566448,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Sacramento Kings,-0.033300000000000024,0.1667,0.2
 2021-12-03 16:30:44.829576,College Basketball - PAC 12 Conference  Winner - Outright,Oregon,-0.033300000000000024,0.1667,0.2
 2021-12-03 10:30:34.572785,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Lazio,-0.034100000000000005,0.0909,0.125
-2021-12-03 07:30:33.414193,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Minnesota Vikings 2021/22 Total Wins,Over 8.5,-0.03480000000000005,0.5,0.5348
-2021-12-03 07:30:33.483481,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Cleveland Browns,Yes,-0.03689999999999999,0.2857,0.3226
 2021-12-03 12:30:46.736405,NBA Futures - 2022 NBA Southeast Division - Division Winner,Miami Heat,-0.03920000000000001,0.6667,0.7059
-2021-12-03 07:30:33.227051,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Rams 2021/22 Total Wins,Under 10.5,-0.039600000000000024,0.4255,0.4651
+2021-12-03 16:30:44.718241,College Basketball - Atlantic 10 Conference Winner - Outright,St. Bonaventure,-0.03959999999999997,0.5348,0.5744
 2021-12-03 10:30:35.779542,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,-0.04040000000000002,0.1818,0.2222
-2021-12-03 07:30:33.218325,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Over 11.5,-0.04139999999999999,0.4348,0.4762
 2021-12-03 16:30:44.704073,College Basketball - American Athletic Conference Winner - Outright,Cincinnati,-0.04169999999999999,0.125,0.1667
 2021-12-03 12:30:46.566448,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Dallas Mavericks,-0.043300000000000005,0.9091,0.9524
-2021-12-03 12:30:46.566448,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Charlotte Hornets,-0.045499999999999985,0.4545,0.5
 2021-12-03 12:30:46.566448,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,New York Knicks,-0.045499999999999985,0.5,0.5455
+2021-12-03 12:30:46.566448,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Charlotte Hornets,-0.045499999999999985,0.4545,0.5
 2021-12-03 12:30:46.566448,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Indiana Pacers (IND),-0.047599999999999976,0.2857,0.3333
-2021-12-03 07:30:33.474462,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Cincinnati Bengals,Yes,-0.04789999999999994,0.6491,0.697
-2021-12-03 07:30:33.293242,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Buffalo Bills 2021/22 Total Wins,Over 11.5,-0.0484,0.4167,0.4651
 2021-12-03 16:30:44.718241,College Basketball - Atlantic 10 Conference Winner - Outright,Virginia Commonwealth,-0.048600000000000004,0.0625,0.1111
-2021-12-03 07:30:33.337967,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Detroit Lions 2021/22 Total Wins,Under 1.5,-0.05130000000000001,0.6154,0.6667
 2021-12-03 10:30:35.806239,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Arsenal,-0.05310000000000001,0.2326,0.2857
-2021-12-03 07:30:33.319183,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Under 8.5,-0.05870000000000003,0.4651,0.5238
 2021-12-03 12:30:46.538510,NBA Season Props - 2021/22 NBA Awards - 2022 The Sixth Man,Tyler Hero,-0.06320000000000003,0.6667,0.7299
 2021-12-03 16:30:44.201311,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing TD's,James Conner,-0.06670000000000004,0.3333,0.4
 2021-12-03 10:30:35.856390,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Manchester United,-0.06700000000000006,0.5556,0.6226
-2021-12-03 06:30:30.576302,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Baltimore Ravens 2021/22 Total Wins,Over 11.5,-0.08330000000000004,0.5,0.5833
-2021-12-03 07:30:33.328532,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Denver Broncos 2021/22 Total Wins,Under 8.5,-0.0948,0.5348,0.6296
+2021-12-03 16:30:44.747885,College Basketball - Big 12 Conference Winner - Outright,Baylor,-0.07619999999999999,0.1905,0.2667
 2021-12-03 10:30:35.425625,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Dundee FC,-0.10089999999999999,0.25,0.3509
-2021-12-03 07:30:33.275331,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Washington Football Team 2021/2 Total Wins,Over 7.5,-0.11070000000000002,0.4545,0.5652
 2021-12-03 12:30:46.495822,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Ja Morant,-0.1346,0.25,0.3846
-2021-12-03 07:30:33.256917,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Seattle Seahawks 2021/22 Total Wins,Over 6.5,-0.1985,0.4444,0.6429
