@@ -16,7 +16,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-04 14:31:04.682547,NFL Futures - NFC West - Division Winner,Arizona Cardinals,0.020199999999999996,0.9091,0.8889
 2021-12-04 10:30:35.557273,Premier League - Russia Premier League 2021/2022 - Outright,Dinamo Moscow,0.0179,0.1429,0.125
 2021-12-04 13:30:50.020690,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Kevin Durant,0.015100000000000002,0.1818,0.1667
-2021-12-04 05:30:27.534399,Boxing Lines - Lyndon Arthur vs Anthony Yarde - To Win the Bout,Anthony Yarde,0.014800000000000035,0.6226,0.6078
 2021-12-04 16:30:41.297585,Boxing Lines - Sam Noakes vs Shaun Cooper - To Win the Bout,Shaun Cooper,0.014399999999999996,0.0769,0.0625
 2021-12-04 07:30:28.437691,Boxing Lines - Hrgovic Filip vs Emir Ahmatovic - To Win the Bout,Hrgovic Filip,0.01429999999999998,0.9852,0.9709
 2021-12-04 07:30:28.349484,Boxing Lines - Sam Noakes vs Shaun Cooper - To Win the Bout,Sam Noakes,0.01429999999999998,0.9852,0.9709
@@ -29,27 +28,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-04 14:31:13.171343,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,0.011099999999999999,0.9,0.8889
 2021-12-04 15:30:44.688852,Boxing Lines - Amanda Serrano vs Miriam Gutierrez - To Win the Bout,Amanda Serrano,0.010099999999999998,0.9756,0.9655
 2021-12-04 16:30:41.707350,Boxing Lines - Amanda Serrano vs Miriam Gutierrez - To Win the Bout,Amanda Serrano,-0.010099999999999998,0.9655,0.9756
-2021-12-04 05:30:27.534399,Boxing Lines - Lyndon Arthur vs Anthony Yarde - To Win the Bout,Lyndon Arthur,-0.010099999999999998,0.4444,0.4545
 2021-12-04 16:30:41.314763,Boxing Lines - Sheeraz Hamzah vs Bradley Skeete - To Win the Bout,Sheeraz Hamzah,-0.010199999999999987,0.9231,0.9333
 2021-12-04 14:31:13.648078,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,-0.010499999999999982,0.2,0.2105
 2021-12-04 09:30:37.256933,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,FC Köln,-0.011199999999999995,0.0476,0.0588
 2021-12-04 14:31:12.760748,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Steals/Game Leader,Donovan Mitchell,-0.011900000000000008,0.0833,0.0952
 2021-12-04 14:31:12.760748,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Steals/Game Leader,LaMelo Ball,-0.011900000000000008,0.0833,0.0952
-2021-12-04 05:30:27.459911,Boxing Lines - Faiga Opelu vs Lucas Browne - To Win the Bout,Lucas Browne,-0.012899999999999995,0.1538,0.1667
 2021-12-04 09:30:37.256933,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,VfB Stuttgart,-0.012899999999999995,0.1538,0.1667
-2021-12-04 05:30:27.415378,Boxing Lines - Taylah Robertson vs Kylie Fulmer - To Win the Bout,Kylie Fulmer,-0.012899999999999995,0.1538,0.1667
 2021-12-04 16:30:41.297585,Boxing Lines - Sam Noakes vs Shaun Cooper - To Win the Bout,Sam Noakes,-0.01429999999999998,0.9709,0.9852
+2021-12-04 07:30:28.437691,Boxing Lines - Hrgovic Filip vs Emir Ahmatovic - To Win the Bout,Emir Ahmatovic,-0.014399999999999996,0.0625,0.0769
 2021-12-04 07:30:28.349484,Boxing Lines - Sam Noakes vs Shaun Cooper - To Win the Bout,Shaun Cooper,-0.014399999999999996,0.0625,0.0769
 2021-12-04 13:30:50.044738,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Bam Adebayo,-0.014399999999999996,0.0625,0.0769
-2021-12-04 07:30:28.437691,Boxing Lines - Hrgovic Filip vs Emir Ahmatovic - To Win the Bout,Emir Ahmatovic,-0.014399999999999996,0.0625,0.0769
 2021-12-04 10:30:34.825677,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Wolfsburg,-0.015100000000000002,0.1667,0.1818
-2021-12-04 09:30:37.256933,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Bochum,-0.019000000000000017,0.2667,0.2857
 2021-12-04 14:31:12.266685,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Cade Cunningham,-0.019000000000000017,0.2667,0.2857
+2021-12-04 09:30:37.256933,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Bochum,-0.019000000000000017,0.2667,0.2857
 2021-12-04 10:30:34.825677,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Eintracht Frankfurt,-0.019099999999999992,0.0476,0.0667
 2021-12-04 09:30:37.256933,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Union Berlin,-0.0194,0.005,0.0244
-2021-12-04 14:31:12.413311,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Washington Wizards,-0.019699999999999995,0.4348,0.4545
-2021-12-04 13:30:50.020690,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,-0.019699999999999995,0.4348,0.4545
 2021-12-04 14:31:12.413311,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Charlotte Hornets,-0.019699999999999995,0.4348,0.4545
+2021-12-04 13:30:50.020690,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,-0.019699999999999995,0.4348,0.4545
+2021-12-04 14:31:12.413311,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Washington Wizards,-0.019699999999999995,0.4348,0.4545
 2021-12-04 14:31:04.293234,NFL Futures - AFC West - Division Winner,Las Vegas Raiders,-0.02020000000000001,0.0909,0.1111
 2021-12-04 13:30:50.044738,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Rudy Gobert,-0.020799999999999985,0.3125,0.3333
 2021-12-04 14:31:12.218444,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Tyler Herro,-0.0208,0.0625,0.0833
