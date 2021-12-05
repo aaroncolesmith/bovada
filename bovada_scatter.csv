@@ -1,21 +1,30 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2021-12-05 09:30:35.176274,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Manchester United,0.2032,0.2326,0.0294
+2021-12-05 09:30:35.128172,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without Man City,Liverpool,0.12379999999999997,0.6,0.4762
 2021-12-05 07:30:38.437170,England Championship - England Championship 21/22 - Top 2 Finish,West Bromwich Albion,0.11430000000000001,0.4,0.2857
+2021-12-05 09:30:35.192963,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,0.10899999999999999,0.6923,0.5833
 2021-12-05 03:30:36.928449,Germany Bundesliga - German Bundesliga 2021/22 - Top Goalscorer,Patrik Schick,0.1054,0.125,0.0196
 2021-12-04 23:30:44.865070,Italy Serie A - Italy Serie A 2021/2022 - Outright,Atalanta,0.09620000000000001,0.25,0.1538
-2021-12-05 03:30:37.521186,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Aberdeen,0.08339999999999992,0.6667,0.5833
 2021-12-05 03:30:37.521186,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Motherwell,0.08339999999999992,0.6667,0.5833
+2021-12-05 03:30:37.521186,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Aberdeen,0.08339999999999992,0.6667,0.5833
 2021-12-05 03:30:36.928449,Germany Bundesliga - German Bundesliga 2021/22 - Top Goalscorer,Erling Haaland,0.08179999999999998,0.1818,0.1
+2021-12-05 09:30:35.176274,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Liverpool,0.08079999999999998,0.6364,0.5556
 2021-12-05 07:30:38.423062,England Championship - England Championship 21/22 - To Be Promoted,West Bromwich Albion,0.07939999999999997,0.5556,0.4762
+2021-12-05 09:30:35.136053,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,West Ham United,0.07809999999999995,0.7333,0.6552
 2021-12-05 03:30:37.434536,Premier League - Russia Premier League 2021/2022 - Outright,Zenit St. Petersburg,0.07579999999999998,0.9091,0.8333
 2021-12-04 23:30:46.169836,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,West Ham United,0.06820000000000001,0.25,0.1818
 2021-12-04 23:30:44.898190,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Real Madrid,0.06670000000000009,0.8,0.7333
 2021-12-05 07:30:38.451699,England Championship - England Championship 21/22 - Top 6 Finish,West Bromwich Albion,0.05830000000000002,0.9333,0.875
 2021-12-04 23:30:43.165568,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,LaMelo Ball,0.0573,0.0769,0.0196
+2021-12-05 09:30:34.854933,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,St. Pauli,0.055900000000000005,0.3636,0.3077
+2021-12-05 09:30:34.479705,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Augsburg,0.055900000000000005,0.3636,0.3077
 2021-12-05 07:30:38.451699,England Championship - England Championship 21/22 - Top 6 Finish,Sheffield United,0.055900000000000005,0.3636,0.3077
+2021-12-05 09:30:34.496423,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Hoffenheim,0.05559999999999998,0.1667,0.1111
 2021-12-05 07:30:36.465886,NFL Specials - Week 13 Specials - Lowest Scoring Game (Sunday Only),Philadelphia Eagles At New York Jets,0.05550000000000002,0.2222,0.1667
 2021-12-05 03:30:37.506882,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,St. Johnstone,0.052000000000000046,0.9091,0.8571
 2021-12-05 07:30:38.451699,England Championship - England Championship 21/22 - Top 6 Finish,Middlesbrough,0.04999999999999999,0.25,0.2
 2021-12-05 03:30:37.506882,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Livingston,0.04810000000000003,0.9231,0.875
+2021-12-05 09:30:34.479705,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Arminia Bielefeld,0.04760000000000009,0.7143,0.6667
 2021-12-04 23:30:46.124421,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,0.045499999999999985,0.5,0.4545
 2021-12-05 07:30:36.481242,NFL Specials - Week 13 Specials - Lowest Scoring Team (Sunday Only),Philadelphia Eagles,0.04329999999999999,0.0909,0.0476
 2021-12-05 03:30:37.282224,England Championship - England Championship 21/22 - Outright,West Bromwich Albion,0.04240000000000001,0.1333,0.0909
@@ -24,13 +33,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-05 03:30:37.506882,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Hibernian,0.03409999999999999,0.2667,0.2326
 2021-12-05 03:30:37.506882,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,St. Mirren,0.033299999999999996,0.8333,0.8
 2021-12-05 03:30:37.434536,Premier League - Russia Premier League 2021/2022 - Outright,CSKA Moscow,0.033,0.0526,0.0196
+2021-12-05 09:30:34.854933,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,FC Nürnberg,0.0321,0.0909,0.0588
 2021-12-05 03:30:37.462353,Premiership - Scottish Premiership 2021/22 - Outright,Rangers FC,0.030299999999999994,0.6667,0.6364
 2021-12-05 07:30:38.423062,England Championship - England Championship 21/22 - To Be Promoted,Nottingham Forest,0.0294,0.0588,0.0294
 2021-12-04 23:30:44.826598,Germany Bundesliga - German Bundesliga 2021/22 - Outright,Bayern Munich,0.029299999999999993,0.9524,0.9231
 2021-12-04 23:30:44.898190,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Sevilla,0.029299999999999993,0.0769,0.0476
+2021-12-05 09:30:34.496423,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Bayer Leverkusen,0.02200000000000002,0.7143,0.6923
 2021-12-05 03:30:37.407457,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Benfica,0.020799999999999985,0.3333,0.3125
 2021-12-05 05:30:30.184889,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,0.02069999999999994,0.6503,0.6296
 2021-12-05 07:30:38.437170,England Championship - England Championship 21/22 - Top 2 Finish,Blackburn Rovers,0.0203,0.0588,0.0385
+2021-12-05 09:30:34.446999,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Bayer Leverkusen,0.02020000000000001,0.1111,0.0909
 2021-12-05 07:30:36.540934,NFL Specials - Week 13 Specials - Total Points (Sunday Only),Under 559.5,0.01970000000000005,0.5652,0.5455
 2021-12-04 23:30:43.088091,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,0.019699999999999995,0.125,0.1053
 2021-12-04 23:30:46.124421,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Norwich City,0.01969999999999994,0.8197,0.8
@@ -38,18 +50,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-05 03:30:35.604070,Boxing Lines - Sebastian Fundora vs Sergio Garcia - To Win the Bout,Sebastian Fundora,0.018999999999999906,0.7333,0.7143
 2021-12-05 07:30:38.451699,England Championship - England Championship 21/22 - Top 6 Finish,Bournemouth,0.018900000000000028,0.9804,0.9615
 2021-12-05 07:30:38.451699,England Championship - England Championship 21/22 - Top 6 Finish,Millwall,0.01820000000000002,0.2,0.1818
+2021-12-05 09:30:34.496423,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Mainz,0.018099999999999998,0.0769,0.0588
 2021-12-05 07:30:38.409257,England Championship - England Championship 21/22 - Top Goalscorer,Dominic Solanke (Bournemouth),0.0179,0.1429,0.125
 2021-12-05 03:30:37.434536,Premier League - Russia Premier League 2021/2022 - Outright,Spartak Moscow,0.017800000000000003,0.0244,0.0066
-2021-12-05 07:30:38.451699,England Championship - England Championship 21/22 - Top 6 Finish,Queens Park Rangers,0.016699999999999937,0.6,0.5833
 2021-12-05 03:30:37.521186,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Dundee United,0.016699999999999937,0.6,0.5833
+2021-12-05 07:30:38.451699,England Championship - England Championship 21/22 - Top 6 Finish,Queens Park Rangers,0.016699999999999937,0.6,0.5833
+2021-12-05 09:30:34.854933,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Paderborn,0.016600000000000004,0.0833,0.0667
 2021-12-05 07:30:38.437170,England Championship - England Championship 21/22 - Top 2 Finish,Stoke City,0.015300000000000001,0.0588,0.0435
-2021-12-05 03:30:37.434536,Premier League - Russia Premier League 2021/2022 - Outright,Krasnodar,0.014099999999999998,0.0385,0.0244
+2021-12-05 09:30:31.814552,Boxing Lines - Katie Taylor vs Firuza Sharipova - To Win the Bout,Katie Taylor,0.014100000000000001,0.9615,0.9474
 2021-12-05 03:30:37.434536,Premier League - Russia Premier League 2021/2022 - Outright,Lokomotiv Moscow,0.014099999999999998,0.0385,0.0244
-2021-12-04 20:30:51.798276,Boxing Lines - Sam Noakes vs Shaun Cooper - To Win the Bout,Shaun Cooper,0.013999999999999999,0.0909,0.0769
+2021-12-05 03:30:37.434536,Premier League - Russia Premier League 2021/2022 - Outright,Krasnodar,0.014099999999999998,0.0385,0.0244
 2021-12-05 07:30:38.437170,England Championship - England Championship 21/22 - Top 2 Finish,Queens Park Rangers,0.013999999999999999,0.0909,0.0769
+2021-12-05 09:30:35.176274,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Manchester City,0.013900000000000023,0.8889,0.875
+2021-12-05 09:30:34.479705,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Wolfsburg,0.013,0.0196,0.0066
 2021-12-04 23:30:44.898190,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Real Betis,0.013,0.0196,0.0066
-2021-12-05 07:30:38.423062,England Championship - England Championship 21/22 - To Be Promoted,Millwall,0.011199999999999995,0.0588,0.0476
+2021-12-05 09:30:34.479705,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,VfB Stuttgart,0.012899999999999995,0.1667,0.1538
+2021-12-05 09:30:31.761603,Boxing Lines - Sebastian Fundora vs Sergio Garcia - To Win the Bout,Sergio Garcia,0.01150000000000001,0.3448,0.3333
 2021-12-05 03:30:37.619454,League One - England League One 2021/22 - Outright,Oxford United,0.011199999999999995,0.0588,0.0476
+2021-12-05 07:30:38.423062,England Championship - England Championship 21/22 - To Be Promoted,Millwall,0.011199999999999995,0.0588,0.0476
+2021-12-05 09:30:34.854933,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Heidenheim,0.011199999999999995,0.0588,0.0476
 2021-12-05 05:30:29.999887,Boxing Lines - Katie Taylor vs Firuza Sharipova - To Win the Bout,Firuza Sharipova,0.011099999999999999,0.1111,0.1
 2021-12-05 03:30:37.477796,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Aberdeen,0.010899999999999993,0.1538,0.1429
 2021-12-05 03:30:37.477796,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Motherwell,0.0102,0.0769,0.0667
@@ -57,35 +76,49 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-05 07:30:36.075017,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Micah Parsons,0.010100000000000001,0.0345,0.0244
 2021-12-04 23:30:44.865070,Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,0.010099999999999998,0.4545,0.4444
 2021-12-05 03:30:35.621932,Boxing Lines - Gervonta Davis vs Isaac Cruz Gonzalez - To Win the Bout,Gervonta Davis,-0.010199999999999987,0.9231,0.9333
-2021-12-04 20:30:51.847942,Boxing Lines - Alexis Espino vs Rodolfo Gomez Jr - To Win the Bout,Rodolfo Gomez Jr,-0.010499999999999982,0.2,0.2105
+2021-12-05 09:30:35.192963,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Wolverhampton Wanderers,-0.0102,0.0667,0.0769
 2021-12-05 06:30:28.719123,Boxing Lines - Eduardo Ramirez vs Miguel Marriaga - To Win the Bout,Miguel Marriaga,-0.010499999999999982,0.2,0.2105
+2021-12-05 09:30:31.761603,Boxing Lines - Sebastian Fundora vs Sergio Garcia - To Win the Bout,Sebastian Fundora,-0.011099999999999999,0.7222,0.7333
+2021-12-05 09:30:31.814552,Boxing Lines - Katie Taylor vs Firuza Sharipova - To Win the Bout,Firuza Sharipova,-0.011099999999999999,0.1,0.1111
 2021-12-04 23:30:46.169836,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Leicester City,-0.011199999999999995,0.0476,0.0588
 2021-12-04 23:30:46.102523,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Romelu Lukaku,-0.011199999999999995,0.0476,0.0588
 2021-12-05 07:30:38.409257,England Championship - England Championship 21/22 - Top Goalscorer,Ben Brereton (Blackburn),-0.013899999999999996,0.1111,0.125
+2021-12-05 09:30:34.446999,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Borussia Dortmund,-0.013900000000000023,0.875,0.8889
+2021-12-05 09:30:35.192963,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,-0.013900000000000023,0.875,0.8889
+2021-12-05 09:30:35.192963,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Brighton & Hove Albion,-0.013999999999999999,0.0769,0.0909
 2021-12-05 07:30:38.451699,England Championship - England Championship 21/22 - Top 6 Finish,Blackpool,-0.014099999999999994,0.0526,0.0667
+2021-12-05 09:30:34.479705,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Mainz,-0.014099999999999998,0.0244,0.0385
 2021-12-05 05:30:29.999887,Boxing Lines - Katie Taylor vs Firuza Sharipova - To Win the Bout,Katie Taylor,-0.014100000000000001,0.9474,0.9615
 2021-12-04 23:30:46.124421,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,-0.015100000000000002,0.1667,0.1818
 2021-12-04 23:30:46.068937,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Chelsea,-0.015100000000000002,0.1667,0.1818
 2021-12-05 03:30:35.604070,Boxing Lines - Sebastian Fundora vs Sergio Garcia - To Win the Bout,Sergio Garcia,-0.017600000000000005,0.3333,0.3509
 2021-12-05 07:30:38.451699,England Championship - England Championship 21/22 - Top 6 Finish,Huddersfield Town,-0.0179,0.125,0.1429
-2021-12-05 07:30:38.423062,England Championship - England Championship 21/22 - To Be Promoted,Preston North End,-0.018200000000000004,0.0294,0.0476
 2021-12-04 23:30:44.898190,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Real Sociedad,-0.018200000000000004,0.0294,0.0476
+2021-12-05 09:30:34.496423,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Eintracht Frankfurt,-0.018200000000000004,0.0294,0.0476
+2021-12-05 07:30:38.423062,England Championship - England Championship 21/22 - To Be Promoted,Preston North End,-0.018200000000000004,0.0294,0.0476
+2021-12-05 09:30:35.128172,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without Man City,Manchester United,-0.0189,0.0196,0.0385
 2021-12-05 03:30:37.462353,Premiership - Scottish Premiership 2021/22 - Outright,Celtic,-0.018900000000000028,0.4255,0.4444
 2021-12-05 07:30:38.451699,England Championship - England Championship 21/22 - Top 6 Finish,Preston North End,-0.019099999999999992,0.0476,0.0667
 2021-12-05 03:30:37.407457,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Sporting CP,-0.02100000000000002,0.3636,0.3846
 2021-12-05 05:30:30.184889,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,-0.021199999999999997,0.4098,0.431
 2021-12-05 07:30:36.540934,NFL Specials - Week 13 Specials - Total Points (Sunday Only),Over 559.5,-0.02169999999999994,0.5238,0.5455
 2021-12-04 23:30:44.898190,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Atlético Madrid,-0.022199999999999998,0.2,0.2222
+2021-12-05 09:30:34.854933,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Werder Bremen,-0.02310000000000001,0.0769,0.1
 2021-12-04 23:30:46.169836,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Chelsea,-0.023699999999999943,0.9615,0.9852
 2021-12-05 03:30:37.506882,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Dundee United,-0.023799999999999988,0.4762,0.5
 2021-12-05 03:30:37.619454,League One - England League One 2021/22 - Outright,Sunderland,-0.023799999999999988,0.1429,0.1667
 2021-12-05 07:30:38.437170,England Championship - England Championship 21/22 - Top 2 Finish,Coventry City,-0.024299999999999995,0.0345,0.0588
+2021-12-05 09:30:34.854933,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Jahn Regensburg,-0.024999999999999994,0.1,0.125
+2021-12-05 09:30:35.192963,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Tottenham Hotspur,-0.027700000000000058,0.5556,0.5833
+2021-12-05 09:30:35.136053,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Wolverhampton Wanderers,-0.028199999999999996,0.0385,0.0667
+2021-12-05 09:30:35.136053,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Brighton & Hove Albion,-0.028199999999999996,0.0385,0.0667
 2021-12-05 03:30:37.477796,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hibernian,-0.028599999999999987,0.2381,0.2667
 2021-12-05 07:30:38.423062,England Championship - England Championship 21/22 - To Be Promoted,Fulham,-0.029299999999999993,0.9231,0.9524
 2021-12-04 23:30:44.898190,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,FC Barcelona,-0.0294,0.0294,0.0588
 2021-12-05 03:30:37.434536,Premier League - Russia Premier League 2021/2022 - Outright,Dinamo Moscow,-0.031799999999999995,0.1111,0.1429
 2021-12-04 23:30:46.169836,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Arsenal,-0.03259999999999999,0.2,0.2326
 2021-12-05 03:30:37.521186,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,St. Mirren,-0.0358,0.2309,0.2667
+2021-12-05 09:30:35.192963,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Arsenal,-0.0393,0.5833,0.6226
 2021-12-04 23:30:46.124421,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Newcastle United,-0.0393,0.5833,0.6226
 2021-12-05 03:30:37.282224,England Championship - England Championship 21/22 - Outright,Bournemouth,-0.04099999999999998,0.2667,0.3077
 2021-12-05 07:30:38.423062,England Championship - England Championship 21/22 - To Be Promoted,Coventry City,-0.04169999999999999,0.125,0.1667
@@ -94,10 +127,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-05 03:30:36.928449,Germany Bundesliga - German Bundesliga 2021/22 - Top Goalscorer,Robert Lewandowski,-0.05230000000000001,0.8889,0.9412
 2021-12-05 07:30:38.437170,England Championship - England Championship 21/22 - Top 2 Finish,Fulham,-0.0524,0.9,0.9524
 2021-12-05 07:30:38.451699,England Championship - England Championship 21/22 - Top 6 Finish,Coventry City,-0.053100000000000036,0.3636,0.4167
+2021-12-05 09:30:34.496423,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Wolfsburg,-0.05559999999999998,0.1111,0.1667
 2021-12-05 03:30:37.521186,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Livingston,-0.05679999999999999,0.125,0.1818
 2021-12-05 03:30:37.521186,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,St. Johnstone,-0.05710000000000001,0.1429,0.2
+2021-12-05 09:30:34.854933,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Hamburger SV,-0.0642,0.1176,0.1818
 2021-12-05 07:30:38.437170,England Championship - England Championship 21/22 - Top 2 Finish,Bournemouth,-0.06520000000000004,0.6491,0.7143
 2021-12-05 03:30:37.506882,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Motherwell,-0.07450000000000001,0.4255,0.5
 2021-12-04 23:30:44.865070,Italy Serie A - Italy Serie A 2021/2022 - Outright,Napoli,-0.08329999999999999,0.25,0.3333
 2021-12-05 07:30:38.423062,England Championship - England Championship 21/22 - To Be Promoted,Bournemouth,-0.08490000000000009,0.7333,0.8182
 2021-12-05 03:30:37.506882,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Aberdeen,-0.09999999999999998,0.4,0.5
+2021-12-05 09:30:34.479705,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Bochum,-0.1,0.1667,0.2667
+2021-12-05 09:30:35.128172,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without Man City,Chelsea,-0.10710000000000003,0.4762,0.5833
+2021-12-05 09:30:35.176274,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Chelsea,-0.14289999999999992,0.5238,0.6667
