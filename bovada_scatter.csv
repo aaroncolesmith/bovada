@@ -12,6 +12,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-06 14:30:32.400906,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Philadelphia Eagles 2021/22 Total Wins,Under 8.5,0.08900000000000002,0.5652,0.4762
 2021-12-06 12:32:45.199578,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Minnesota Vikings 2021/22 Total Wins,Over 7.5,0.08779999999999999,0.6226,0.5348
 2021-12-06 14:30:32.552371,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Mac Jones,0.08330000000000004,0.8333,0.75
+2021-12-06 20:30:35.040285,NFL Specials - Next Coach to leave Post - Outright,Bill Belichick,0.08099999999999999,0.0909,0.0099
 2021-12-06 10:30:36.410923,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Inter Milan,0.07940000000000003,0.5238,0.4444
 2021-12-06 14:30:32.583099,NFL Specials - Next Coach to leave Post - Outright,Mike Zimmer,0.07579999999999999,0.1667,0.0909
 2021-12-06 14:30:32.422784,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Baltimore Ravens 2021/22 Total Wins,Under 10.5,0.07450000000000001,0.5,0.4255
@@ -22,8 +23,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-06 10:30:36.344726,Germany Bundesliga - German Bundesliga 2021/22 - Top Goalscorer,Robert Lewandowski,0.0635,0.9524,0.8889
 2021-12-06 12:32:45.183605,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Over 9.5,0.05960000000000004,0.4167,0.3571
 2021-12-06 10:30:36.500605,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Cádiz,0.057699999999999974,0.75,0.6923
-2021-12-06 12:32:45.160959,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Dallas Cowboys 2021/22 Total Wins,Over 11.5,0.05559999999999998,0.5,0.4444
 2021-12-06 10:30:36.943734,Premier League - Russia Premier League 2021/2022 - Outright,Dinamo Moscow,0.05559999999999998,0.1667,0.1111
+2021-12-06 12:32:45.160959,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Dallas Cowboys 2021/22 Total Wins,Over 11.5,0.05559999999999998,0.5,0.4444
 2021-12-06 10:30:36.371060,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Freiburg,0.05550000000000002,0.2222,0.1667
 2021-12-06 10:30:36.424679,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Ciro Immobile,0.05310000000000001,0.2857,0.2326
 2021-12-06 14:30:32.571198,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Dak Prescott,0.052000000000000046,0.9091,0.8571
@@ -40,22 +41,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-06 10:30:36.424679,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Giovanni Simeone,0.03330000000000001,0.1,0.0667
 2021-12-06 14:30:32.477867,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Houston Texans 2021/22 Total Wins,Over 3.5,0.03210000000000002,0.4167,0.3846
 2021-12-06 09:30:44.316160,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Los Angeles Chargers,0.0321,0.0909,0.0588
-2021-12-06 07:30:31.251891,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Kansas City Chiefs,0.031799999999999995,0.1429,0.1111
 2021-12-06 12:32:45.150101,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Carolina Panthers 2021/22 Total Wins,Over 6.5,0.03179999999999994,0.5556,0.5238
 2021-12-06 12:32:45.168314,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Denver Broncos 2021/22 Total Wins,Under 8.5,0.030399999999999983,0.5652,0.5348
 2021-12-06 09:30:44.375632,NFL Futures - AFC North - Division Winner,Pittsburgh Steelers,0.030199999999999998,0.0625,0.0323
 2021-12-06 16:33:01.355689,Boxing Lines - Peter Petties vs Robbie Peralta - To Win the Bout,Peter Petties,0.02859999999999996,0.6364,0.6078
-2021-12-06 07:30:32.177280,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Jake Paul,0.027700000000000002,0.4444,0.4167
 2021-12-06 16:33:01.464117,Boxing Lines - Trukon Carson vs Rynell Riley - To Win the Bout,Trukon Carson,0.02739999999999998,0.7333,0.7059
 2021-12-06 12:32:45.735874,Boxing Lines - Frank Gore vs Deron Williams - To Win the Bout,Frank Gore,0.026600000000000013,0.4348,0.4082
 2021-12-06 09:30:46.368091,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Wissam Ben Yedder,0.024999999999999994,0.125,0.1
+2021-12-06 20:30:32.500930,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Toronto Raptors,0.023799999999999988,0.1667,0.1429
 2021-12-06 16:33:01.205887,Boxing Lines - David Mundell vs Stanislav Grosu - To Win the Bout,David Mundell,0.022800000000000042,0.7561,0.7333
 2021-12-06 12:32:45.136203,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tennessee Titans 2021/22 Total Wins,Under 11.5,0.022600000000000064,0.6226,0.6
 2021-12-06 09:30:44.316160,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Indianapolis Colts,0.0203,0.0588,0.0385
 2021-12-06 10:30:35.988052,LKL - LKL 2021/22 - Outright,Zalgiris,0.020199999999999996,0.9091,0.8889
-2021-12-06 07:30:31.251891,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tampa Bay Buccaneers,0.018599999999999978,0.1667,0.1481
+2021-12-06 20:30:32.500930,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Cleveland Cavaliers,0.01820000000000002,0.2,0.1818
 2021-12-06 10:30:36.500605,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Celta de Vigo,0.018099999999999998,0.0769,0.0588
-2021-12-06 07:30:31.206585,NCAAF - 2021-2022 NCAA Championship Winner - Outright,Michigan,0.0179,0.1429,0.125
 2021-12-06 09:30:43.819696,LNB Pro A - LNB Pro A 2021/22 - Outright,ASVEL Lyon-Villeurbanne,0.017600000000000005,0.3509,0.3333
 2021-12-06 10:30:36.424679,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Dusan Vlahovic,0.0174,0.25,0.2326
 2021-12-06 16:33:01.380825,Boxing Lines - Stevo Morris vs Jorge Gonzalez-Rolon - To Win the Bout,Stevo Morris,0.017300000000000093,0.7143,0.697
@@ -70,51 +69,46 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-06 14:30:32.562156,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Kliff Kingsbury,0.011700000000000016,0.2222,0.2105
 2021-12-06 11:30:59.358772,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Cooper Kupp,0.011200000000000002,0.0244,0.0132
 2021-12-06 10:30:36.488268,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Iago Aspas,0.011199999999999995,0.0588,0.0476
-2021-12-06 10:30:36.899496,Serie B - Italy Serie B 2021/22 - Outright,Monza,0.011099999999999999,0.1111,0.1
 2021-12-06 09:30:44.337280,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Tampa Bay Buccaneers,0.011099999999999999,0.2778,0.2667
+2021-12-06 10:30:36.899496,Serie B - Italy Serie B 2021/22 - Outright,Monza,0.011099999999999999,0.1111,0.1
 2021-12-06 09:30:44.337280,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Los Angeles Rams,0.010899999999999993,0.1538,0.1429
 2021-12-06 09:30:44.316160,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Buffalo Bills,0.010399999999999993,0.2326,0.2222
 2021-12-06 10:30:36.424679,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Edin Dzeko,0.0102,0.0769,0.0667
-2021-12-06 16:33:01.595026,Boxing Lines - John Riel Casimero vs Paul Butler - To Win the Bout,John Riel Casimero,-0.010099999999999998,0.9655,0.9756
-2021-12-06 07:30:31.251891,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,New England Patriots,-0.010099999999999998,0.0952,0.1053
 2021-12-06 12:32:45.112173,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Under 6.5,-0.010099999999999998,0.4444,0.4545
 2021-12-06 14:30:32.493296,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Chargers 2021/22 Total Wins,Over 10.5,-0.010099999999999998,0.4444,0.4545
-2021-12-06 07:30:31.206585,NCAAF - 2021-2022 NCAA Championship Winner - Outright,Alabama,-0.010599999999999998,0.4545,0.4651
+2021-12-06 16:33:01.595026,Boxing Lines - John Riel Casimero vs Paul Butler - To Win the Bout,John Riel Casimero,-0.010099999999999998,0.9655,0.9756
 2021-12-06 10:30:36.356524,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Hoffenheim,-0.0111,0.0012,0.0123
-2021-12-06 07:30:31.251891,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Minnesota Vikings,-0.0118,0.0099,0.0217
+2021-12-06 20:30:35.040285,NFL Specials - Next Coach to leave Post - Outright,Dan Campbell,-0.011199999999999995,0.0476,0.0588
 2021-12-06 11:30:59.358772,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Joe Burrow,-0.012100000000000001,0.0123,0.0244
 2021-12-06 12:32:45.176353,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Green Bay Packers 2021/22 Total Wins,Under 12.5,-0.012199999999999989,0.5,0.5122
 2021-12-06 16:33:01.380825,Boxing Lines - Stevo Morris vs Jorge Gonzalez-Rolon - To Win the Bout,Jorge Gonzalez-Rolon,-0.012699999999999989,0.3509,0.3636
 2021-12-06 14:30:32.552371,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Jaylen Waddle,-0.012700000000000003,0.0196,0.0323
-2021-12-06 09:30:44.337280,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Minnesota Vikings,-0.012700000000000003,0.0196,0.0323
 2021-12-06 09:30:44.507530,NFL Futures - NFC South - Division Winner,New Orleans Saints,-0.012700000000000003,0.0196,0.0323
+2021-12-06 09:30:44.337280,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Minnesota Vikings,-0.012700000000000003,0.0196,0.0323
 2021-12-06 18:30:39.134148,Boxing Lines - Vasyl Lomachenko vs Richard Commey - To Win the Bout,Richard Commey,-0.012899999999999995,0.1538,0.1667
 2021-12-06 09:30:44.337280,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Arizona Cardinals,-0.0131,0.2222,0.2353
 2021-12-06 09:30:44.394121,NFL Futures - AFC South - Division Winner,Tennessee Titans,-0.014000000000000012,0.9091,0.9231
 2021-12-06 10:30:36.500605,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Valencia,-0.014099999999999998,0.0244,0.0385
 2021-12-06 09:30:44.337280,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,San Francisco 49ers,-0.014100000000000001,0.0385,0.0526
-2021-12-06 07:30:31.251891,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Baltimore Ravens,-0.014399999999999996,0.0625,0.0769
 2021-12-06 09:30:46.368091,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Lionel Messi,-0.015100000000000002,0.1667,0.1818
 2021-12-06 09:30:43.819696,LNB Pro A - LNB Pro A 2021/22 - Outright,Monaco,-0.016699999999999993,0.4,0.4167
 2021-12-06 14:30:32.543606,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Gregory Rousseau,-0.0168,0.0217,0.0385
 2021-12-06 10:30:36.943734,Premier League - Russia Premier League 2021/2022 - Outright,Spartak Moscow,-0.017800000000000003,0.0066,0.0244
-2021-12-06 07:30:31.206585,NCAAF - 2021-2022 NCAA Championship Winner - Outright,Georgia,-0.018100000000000005,0.4167,0.4348
 2021-12-06 10:30:36.943734,Premier League - Russia Premier League 2021/2022 - Outright,Lokomotiv Moscow,-0.0189,0.0196,0.0385
+2021-12-06 14:30:32.543606,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Asante Samuel Jr.,-0.0189,0.0196,0.0385
 2021-12-06 14:30:32.543606,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Jamin Davis,-0.0189,0.0196,0.0385
 2021-12-06 14:30:32.543606,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Azeez Ojulari,-0.0189,0.0196,0.0385
-2021-12-06 14:30:32.543606,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Asante Samuel Jr.,-0.0189,0.0196,0.0385
 2021-12-06 14:30:32.543606,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Christian Barmore,-0.019100000000000002,0.0132,0.0323
 2021-12-06 14:30:32.562156,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Zac Taylor,-0.02020000000000001,0.0909,0.1111
 2021-12-06 12:32:45.136203,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tennessee Titans 2021/22 Total Wins,Over 11.5,-0.020699999999999996,0.4444,0.4651
 2021-12-06 10:30:36.500605,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Getafe,-0.02169999999999994,0.5238,0.5455
-2021-12-06 14:30:32.571198,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Joe Burrow,-0.023799999999999988,0.1429,0.1667
 2021-12-06 16:33:01.464117,Boxing Lines - Trukon Carson vs Rynell Riley - To Win the Bout,Rynell Riley,-0.023799999999999988,0.3333,0.3571
+2021-12-06 14:30:32.571198,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Joe Burrow,-0.023799999999999988,0.1429,0.1667
 2021-12-06 11:30:59.358772,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Lamar Jackson,-0.024,0.0385,0.0625
 2021-12-06 14:30:32.543606,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Jayson Oweh,-0.024,0.0385,0.0625
 2021-12-06 11:30:59.358772,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Dak Prescott,-0.0242,0.0667,0.0909
 2021-12-06 12:32:45.735874,Boxing Lines - Frank Gore vs Deron Williams - To Win the Bout,Deron Williams,-0.025599999999999956,0.6296,0.6552
 2021-12-06 16:33:01.205887,Boxing Lines - David Mundell vs Stanislav Grosu - To Win the Bout,Stanislav Grosu,-0.02560000000000001,0.3077,0.3333
-2021-12-06 07:30:32.177280,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,-0.026499999999999968,0.6226,0.6491
 2021-12-06 11:30:59.358772,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Patrick Mahomes,-0.0267,0.0909,0.1176
 2021-12-06 14:30:32.571198,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,James Conner,-0.028199999999999996,0.0385,0.0667
 2021-12-06 10:30:36.943734,Premier League - Russia Premier League 2021/2022 - Outright,CSKA Moscow,-0.0282,0.0244,0.0526
@@ -127,6 +121,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-06 12:32:45.144824,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Buffalo Bills 2021/22 Total Wins,Under 11.5,-0.03370000000000006,0.6154,0.6491
 2021-12-06 10:30:36.899496,Serie B - Italy Serie B 2021/22 - Outright,Brescia,-0.03409999999999999,0.2326,0.2667
 2021-12-06 12:32:45.168314,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Denver Broncos 2021/22 Total Wins,Over 8.5,-0.03480000000000005,0.5,0.5348
+2021-12-06 20:30:32.500930,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Miami Heat,-0.037699999999999956,0.9524,0.9901
 2021-12-06 09:30:44.375632,NFL Futures - AFC North - Division Winner,Cincinnati Bengals,-0.03920000000000001,0.2941,0.3333
 2021-12-06 16:33:01.172835,Boxing Lines - Bobby Taylor vs Martin Brown - To Win the Bout,Bobby Taylor,-0.039600000000000024,0.4255,0.4651
 2021-12-06 09:30:44.488534,NFL Futures - NFC North - Division Winner,Minnesota Vikings,-0.04329999999999999,0.0476,0.0909
@@ -140,11 +135,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-06 12:32:45.183605,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Under 9.5,-0.05910000000000004,0.6552,0.7143
 2021-12-06 09:30:44.375632,NFL Futures - AFC North - Division Winner,Baltimore Ravens,-0.061999999999999944,0.5744,0.6364
 2021-12-06 09:30:44.469798,NFL Futures - NFC East - Division Winner,Dallas Cowboys,-0.06220000000000003,0.875,0.9372
-2021-12-06 09:30:44.438805,NFL Futures - AFC West - Division Winner,Denver Broncos,-0.0635,0.0476,0.1111
 2021-12-06 14:30:32.552371,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Ja'Marr Chase,-0.0635,0.2222,0.2857
+2021-12-06 09:30:44.438805,NFL Futures - AFC West - Division Winner,Denver Broncos,-0.0635,0.0476,0.1111
 2021-12-06 14:30:32.377901,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Under 11.5,-0.06440000000000001,0.5652,0.6296
 2021-12-06 12:32:45.155277,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Over 8.5,-0.06519999999999992,0.5348,0.6
 2021-12-06 14:30:32.445338,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Chicago Bears 2021/22 Total Wins,Over  5.5,-0.06519999999999992,0.5348,0.6
+2021-12-06 20:30:32.500930,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Memphis Grizzlies,-0.06669999999999998,0.6,0.6667
 2021-12-06 10:30:36.344726,Germany Bundesliga - German Bundesliga 2021/22 - Top Goalscorer,Patrik Schick,-0.0774,0.0476,0.125
 2021-12-06 14:30:32.422784,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Baltimore Ravens 2021/22 Total Wins,Over 10.5,-0.07769999999999999,0.5652,0.6429
 2021-12-06 10:30:36.410923,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Napoli,-0.08329999999999999,0.25,0.3333
@@ -154,8 +150,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-06 14:30:32.488194,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Over 3.5,-0.0915999999999999,0.5238,0.6154
 2021-12-06 14:30:32.400906,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Philadelphia Eagles 2021/22 Total Wins,Over 8.5,-0.0917,0.5,0.5917
 2021-12-06 12:32:45.118391,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cincinnati Bengals 2021/22 Total Wins,Over 9.5,-0.0988,0.5238,0.6226
+2021-12-06 20:30:32.500930,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Los Angeles Lakers,-0.09999999999999998,0.8,0.9
 2021-12-06 18:30:39.244302,Boxing Lines - Jake Paul vs Tyron Woodley - To Win the Bout,Tyron Woodley,-0.10150000000000003,0.3333,0.4348
 2021-12-06 12:32:45.217279,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Pittsburgh Steelers 2021/22 Total Wins,Under 7.5,-0.14290000000000003,0.5,0.6429
 2021-12-06 14:30:32.415418,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Washington Football Team 2021/2 Total Wins,Under 7.5,-0.15029999999999993,0.4651,0.6154
+2021-12-06 20:30:32.500930,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Potland Trail Blazers,-0.16880000000000006,0.5455,0.7143
 2021-12-06 12:32:45.191276,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Miami Dolphins 2021/22 Total Wins,Under 7.5,-0.18059999999999993,0.4348,0.6154
 2021-12-06 14:30:32.466900,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Detroit Lions 2021/22 Total Wins,Under 1.5,-0.21539999999999992,0.4,0.6154
