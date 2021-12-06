@@ -14,19 +14,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-06 10:30:36.410923,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Inter Milan,0.07940000000000003,0.5238,0.4444
 2021-12-06 14:30:32.583099,NFL Specials - Next Coach to leave Post - Outright,Mike Zimmer,0.07579999999999999,0.1667,0.0909
 2021-12-06 14:30:32.422784,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Baltimore Ravens 2021/22 Total Wins,Under 10.5,0.07450000000000001,0.5,0.4255
-2021-12-06 12:32:45.155277,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Under 8.5,0.06970000000000004,0.5348,0.4651
 2021-12-06 14:30:32.445338,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Chicago Bears 2021/22 Total Wins,Under 5.5,0.06970000000000004,0.5348,0.4651
+2021-12-06 12:32:45.155277,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Under 8.5,0.06970000000000004,0.5348,0.4651
 2021-12-06 14:30:32.377901,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Over 11.5,0.06519999999999998,0.5,0.4348
 2021-12-06 11:30:59.358772,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Tom Brady,0.06490000000000001,0.3774,0.3125
 2021-12-06 10:30:36.344726,Germany Bundesliga - German Bundesliga 2021/22 - Top Goalscorer,Robert Lewandowski,0.0635,0.9524,0.8889
 2021-12-06 12:32:45.183605,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Over 9.5,0.05960000000000004,0.4167,0.3571
 2021-12-06 10:30:36.500605,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Cádiz,0.057699999999999974,0.75,0.6923
-2021-12-06 10:30:36.943734,Premier League - Russia Premier League 2021/2022 - Outright,Dinamo Moscow,0.05559999999999998,0.1667,0.1111
 2021-12-06 12:32:45.160959,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Dallas Cowboys 2021/22 Total Wins,Over 11.5,0.05559999999999998,0.5,0.4444
+2021-12-06 10:30:36.943734,Premier League - Russia Premier League 2021/2022 - Outright,Dinamo Moscow,0.05559999999999998,0.1667,0.1111
 2021-12-06 10:30:36.371060,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Freiburg,0.05550000000000002,0.2222,0.1667
 2021-12-06 10:30:36.424679,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Ciro Immobile,0.05310000000000001,0.2857,0.2326
 2021-12-06 14:30:32.571198,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Dak Prescott,0.052000000000000046,0.9091,0.8571
 2021-12-06 09:30:44.469798,NFL Futures - NFC East - Division Winner,Washington Football Team,0.048100000000000004,0.125,0.0769
+2021-12-06 14:30:32.543606,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Micah Parsons,0.043300000000000005,0.9524,0.9091
 2021-12-06 09:30:44.375632,NFL Futures - AFC North - Division Winner,Cleveland Browns,0.042899999999999994,0.1429,0.1
 2021-12-06 12:32:45.144824,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Buffalo Bills 2021/22 Total Wins,Over 11.5,0.0378,0.4545,0.4167
 2021-12-06 09:30:44.316160,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,0.037699999999999984,0.2703,0.2326
@@ -75,9 +76,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-06 07:30:31.251891,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Minnesota Vikings,-0.0118,0.0099,0.0217
 2021-12-06 11:30:59.358772,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Joe Burrow,-0.012100000000000001,0.0123,0.0244
 2021-12-06 12:32:45.176353,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Green Bay Packers 2021/22 Total Wins,Under 12.5,-0.012199999999999989,0.5,0.5122
-2021-12-06 09:30:44.507530,NFL Futures - NFC South - Division Winner,New Orleans Saints,-0.012700000000000003,0.0196,0.0323
-2021-12-06 09:30:44.337280,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Minnesota Vikings,-0.012700000000000003,0.0196,0.0323
 2021-12-06 14:30:32.552371,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Jaylen Waddle,-0.012700000000000003,0.0196,0.0323
+2021-12-06 09:30:44.337280,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Minnesota Vikings,-0.012700000000000003,0.0196,0.0323
+2021-12-06 09:30:44.507530,NFL Futures - NFC South - Division Winner,New Orleans Saints,-0.012700000000000003,0.0196,0.0323
 2021-12-06 09:30:44.337280,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Arizona Cardinals,-0.0131,0.2222,0.2353
 2021-12-06 09:30:44.394121,NFL Futures - AFC South - Division Winner,Tennessee Titans,-0.014000000000000012,0.9091,0.9231
 2021-12-06 10:30:36.500605,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Valencia,-0.014099999999999998,0.0244,0.0385
@@ -88,17 +89,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-06 14:30:32.543606,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Gregory Rousseau,-0.0168,0.0217,0.0385
 2021-12-06 10:30:36.943734,Premier League - Russia Premier League 2021/2022 - Outright,Spartak Moscow,-0.017800000000000003,0.0066,0.0244
 2021-12-06 07:30:31.206585,NCAAF - 2021-2022 NCAA Championship Winner - Outright,Georgia,-0.018100000000000005,0.4167,0.4348
-2021-12-06 10:30:36.943734,Premier League - Russia Premier League 2021/2022 - Outright,Lokomotiv Moscow,-0.0189,0.0196,0.0385
 2021-12-06 14:30:32.543606,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Jamin Davis,-0.0189,0.0196,0.0385
-2021-12-06 14:30:32.543606,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Asante Samuel Jr.,-0.0189,0.0196,0.0385
 2021-12-06 14:30:32.543606,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Azeez Ojulari,-0.0189,0.0196,0.0385
+2021-12-06 14:30:32.543606,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Asante Samuel Jr.,-0.0189,0.0196,0.0385
+2021-12-06 10:30:36.943734,Premier League - Russia Premier League 2021/2022 - Outright,Lokomotiv Moscow,-0.0189,0.0196,0.0385
 2021-12-06 14:30:32.543606,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Christian Barmore,-0.019100000000000002,0.0132,0.0323
 2021-12-06 14:30:32.562156,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Zac Taylor,-0.02020000000000001,0.0909,0.1111
 2021-12-06 12:32:45.136203,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tennessee Titans 2021/22 Total Wins,Over 11.5,-0.020699999999999996,0.4444,0.4651
 2021-12-06 10:30:36.500605,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Getafe,-0.02169999999999994,0.5238,0.5455
 2021-12-06 14:30:32.571198,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Joe Burrow,-0.023799999999999988,0.1429,0.1667
-2021-12-06 11:30:59.358772,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Lamar Jackson,-0.024,0.0385,0.0625
 2021-12-06 14:30:32.543606,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Jayson Oweh,-0.024,0.0385,0.0625
+2021-12-06 11:30:59.358772,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Lamar Jackson,-0.024,0.0385,0.0625
 2021-12-06 11:30:59.358772,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Dak Prescott,-0.0242,0.0667,0.0909
 2021-12-06 12:32:45.735874,Boxing Lines - Frank Gore vs Deron Williams - To Win the Bout,Deron Williams,-0.025599999999999956,0.6296,0.6552
 2021-12-06 07:30:32.177280,Boxing Lines - Jake Paul vs Tommy Fury - To Win the Bout,Tommy Fury,-0.026499999999999968,0.6226,0.6491
@@ -124,11 +125,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-06 12:32:45.183605,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Under 9.5,-0.05910000000000004,0.6552,0.7143
 2021-12-06 09:30:44.375632,NFL Futures - AFC North - Division Winner,Baltimore Ravens,-0.061999999999999944,0.5744,0.6364
 2021-12-06 09:30:44.469798,NFL Futures - NFC East - Division Winner,Dallas Cowboys,-0.06220000000000003,0.875,0.9372
-2021-12-06 14:30:32.552371,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Ja'Marr Chase,-0.0635,0.2222,0.2857
 2021-12-06 09:30:44.438805,NFL Futures - AFC West - Division Winner,Denver Broncos,-0.0635,0.0476,0.1111
+2021-12-06 14:30:32.552371,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Ja'Marr Chase,-0.0635,0.2222,0.2857
 2021-12-06 14:30:32.377901,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Under 11.5,-0.06440000000000001,0.5652,0.6296
-2021-12-06 12:32:45.155277,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Over 8.5,-0.06519999999999992,0.5348,0.6
 2021-12-06 14:30:32.445338,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Chicago Bears 2021/22 Total Wins,Over  5.5,-0.06519999999999992,0.5348,0.6
+2021-12-06 12:32:45.155277,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Over 8.5,-0.06519999999999992,0.5348,0.6
 2021-12-06 10:30:36.344726,Germany Bundesliga - German Bundesliga 2021/22 - Top Goalscorer,Patrik Schick,-0.0774,0.0476,0.125
 2021-12-06 14:30:32.422784,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Baltimore Ravens 2021/22 Total Wins,Over 10.5,-0.07769999999999999,0.5652,0.6429
 2021-12-06 10:30:36.410923,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Napoli,-0.08329999999999999,0.25,0.3333
