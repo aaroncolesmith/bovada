@@ -12,16 +12,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-07 00:30:40.981157,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Tottenham Hotspur,0.05130000000000001,0.6667,0.6154
 2021-12-07 00:30:40.374568,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Darmstadt,0.04909999999999999,0.1667,0.1176
 2021-12-06 23:30:38.805733,Europa League - Group F - Winner,Braga,0.04760000000000003,0.5238,0.4762
+2021-12-07 06:30:31.065369,BKFC Fight Night: Tampa - Delaney Bailey vs Jenny Clausius - To Win the Bout,Delaney Bailey,0.03839999999999999,0.6875,0.6491
 2021-12-07 00:30:40.374568,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Hamburger SV,0.036199999999999996,0.1538,0.1176
 2021-12-07 00:30:39.808438,MLS - MLS 2021 Futures - MLS Cup Winner,Portland Timbers,0.032099999999999906,0.6154,0.5833
-2021-12-07 00:30:40.956656,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Chelsea,0.03179999999999994,0.5556,0.5238
 2021-12-07 00:30:40.969717,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Manchester United,0.03179999999999994,0.5556,0.5238
+2021-12-07 00:30:40.956656,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Chelsea,0.03179999999999994,0.5556,0.5238
 2021-12-07 00:30:39.717179,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Juventus,0.027700000000000058,0.5833,0.5556
 2021-12-07 00:30:40.932050,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,0.027700000000000058,0.5833,0.5556
+2021-12-06 23:30:38.578526,Champions League - Group G - Group Winner,Lille,0.023799999999999988,0.5,0.4762
+2021-12-06 23:30:38.749612,Europa League - Group D - Winner,Olympiakos,0.023799999999999988,0.1667,0.1429
 2021-12-07 00:30:39.700291,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Genoa,0.023799999999999988,0.5,0.4762
 2021-12-06 20:30:32.500930,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Toronto Raptors,0.023799999999999988,0.1667,0.1429
-2021-12-06 23:30:38.749612,Europa League - Group D - Winner,Olympiakos,0.023799999999999988,0.1667,0.1429
-2021-12-06 23:30:38.578526,Champions League - Group G - Group Winner,Lille,0.023799999999999988,0.5,0.4762
 2021-12-07 00:30:40.374568,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Werder Bremen,0.02310000000000001,0.1,0.0769
 2021-12-07 00:30:39.717179,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Inter Milan,0.019100000000000006,0.9524,0.9333
 2021-12-07 00:30:39.700291,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Bologna,0.019099999999999995,0.0435,0.0244
@@ -36,10 +37,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-06 23:30:38.578526,Champions League - Group G - Group Winner,Sevilla,0.010499999999999982,0.2105,0.2
 2021-12-07 04:30:37.910453,Boxing Lines - Jake Paul vs Tyron Woodley - To Win the Bout,Tyron Woodley,-0.010699999999999987,0.3226,0.3333
 2021-12-06 20:30:35.040285,NFL Specials - Next Coach to leave Post - Outright,Dan Campbell,-0.011199999999999995,0.0476,0.0588
-2021-12-07 00:30:40.374568,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Karlsruher,-0.012100000000000001,0.0123,0.0244
 2021-12-06 23:30:39.222420,Eredivisie - Eredivisie 2021/2022 - Outright,FC Utrecht,-0.012100000000000001,0.0123,0.0244
-2021-12-06 18:30:39.134148,Boxing Lines - Vasyl Lomachenko vs Richard Commey - To Win the Bout,Richard Commey,-0.012899999999999995,0.1538,0.1667
+2021-12-07 00:30:40.374568,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Karlsruher,-0.012100000000000001,0.0123,0.0244
 2021-12-07 04:30:36.822543,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tampa Bay Buccaneers,-0.012899999999999995,0.1538,0.1667
+2021-12-06 18:30:39.134148,Boxing Lines - Vasyl Lomachenko vs Richard Commey - To Win the Bout,Richard Commey,-0.012899999999999995,0.1538,0.1667
 2021-12-07 00:30:39.700291,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Sassuolo,-0.0131,0.0345,0.0476
 2021-12-06 23:30:38.578526,Champions League - Group G - Group Winner,Wolfsburg,-0.013899999999999996,0.129,0.1429
 2021-12-06 23:30:39.222420,Eredivisie - Eredivisie 2021/2022 - Outright,Feyenoord,-0.015100000000000002,0.1667,0.1818
@@ -47,14 +48,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-07 00:30:40.374568,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Jahn Regensburg,-0.016700000000000007,0.0833,0.1
 2021-12-07 00:30:39.717179,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Napoli,-0.017900000000000027,0.8571,0.875
 2021-12-07 00:30:39.700291,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Cagliari,-0.02100000000000002,0.6154,0.6364
-2021-12-07 00:30:39.700291,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Udinese,-0.02310000000000001,0.0769,0.1
 2021-12-06 23:30:38.749612,Europa League - Group D - Winner,Eintracht Frankfurt,-0.02310000000000001,0.9,0.9231
+2021-12-07 00:30:39.700291,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Udinese,-0.02310000000000001,0.0769,0.1
 2021-12-07 00:30:40.374568,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,FC Nürnberg,-0.0242,0.0667,0.0909
 2021-12-07 04:30:36.822543,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Kansas City Chiefs,-0.025300000000000003,0.1176,0.1429
 2021-12-07 00:30:40.981157,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Arsenal,-0.025599999999999956,0.5744,0.6
-2021-12-07 00:30:40.932050,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Everton,-0.03420000000000001,0.0769,0.1111
 2021-12-07 04:30:36.822543,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Buffalo Bills,-0.03420000000000001,0.0769,0.1111
+2021-12-07 00:30:40.932050,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Everton,-0.03420000000000001,0.0769,0.1111
 2021-12-06 20:30:32.500930,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Miami Heat,-0.037699999999999956,0.9524,0.9901
+2021-12-07 06:30:31.065369,BKFC Fight Night: Tampa - Delaney Bailey vs Jenny Clausius - To Win the Bout,Jenny Clausius,-0.0393,0.3774,0.4167
 2021-12-06 23:30:38.561192,Champions League - Group D - Group Winner,Real Madrid,-0.04039999999999999,0.7778,0.8182
 2021-12-06 23:30:38.770480,Europa League - Group E - Winner,Galatasaray,-0.045499999999999985,0.5,0.5455
 2021-12-07 00:30:40.969717,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Arsenal,-0.05710000000000001,0.1429,0.2
