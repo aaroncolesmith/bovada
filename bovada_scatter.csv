@@ -1,6 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2021-12-07 11:30:30.716627,Champions League - Group E - To Advance from Group Stage,Benfica,0.33690000000000003,0.6226,0.2857
 2021-12-07 11:30:30.730955,Champions League - Group E - Not To Advance from Group Stage,FC Barcelona,0.33690000000000003,0.6226,0.2857
+2021-12-07 11:30:30.716627,Champions League - Group E - To Advance from Group Stage,Benfica,0.33690000000000003,0.6226,0.2857
 2021-12-07 11:30:30.657723,Champions League - Group B - Not To Advance from Group Stage,Atlético Madrid,0.2895,0.7895,0.5
 2021-12-07 11:30:30.641961,Champions League - Group B - To Advance from Group Stage,AC Milan,0.2472,0.2857,0.0385
 2021-12-07 14:30:35.655237,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Washington Football Team,Yes,0.23390000000000002,0.4444,0.2105
@@ -43,8 +43,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-07 11:30:30.804097,Champions League - Group G - To Advance from Group Stage,Lille,0.05449999999999999,0.6,0.5455
 2021-12-07 11:30:27.463845,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Carolina Panthers 2021/22 Total Wins,Under 6.5,0.05300000000000005,0.5652,0.5122
 2021-12-07 13:30:49.313806,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,0.04830000000000001,0.9372,0.8889
-2021-12-07 13:30:49.124629,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Miles Bridges,0.047599999999999976,0.3333,0.2857
 2021-12-07 11:30:30.678075,Champions League - Group D - Group Winner,Inter Milan,0.047599999999999976,0.3333,0.2857
+2021-12-07 13:30:49.124629,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Miles Bridges,0.047599999999999976,0.3333,0.2857
 2021-12-07 12:30:33.523667,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,DeAndre Hopkins,0.0448,0.0833,0.0385
 2021-12-07 14:30:35.384718,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Justin Herbert,0.0436,0.0476,0.004
 2021-12-07 11:30:27.301956,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Under 6.5,0.043399999999999994,0.4878,0.4444
@@ -52,7 +52,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-07 13:30:48.830266,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Justin Jefferson,0.04169999999999999,0.1667,0.125
 2021-12-07 11:30:30.568045,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,0.04099999999999998,0.3077,0.2667
 2021-12-07 14:30:35.567609,NFL Season Props - NFL 2021/22 - To Make the Playoffs - New Orleans Saints,No,0.03839999999999999,0.8462,0.8078
-2021-12-07 06:30:31.065369,BKFC Fight Night: Tampa - Delaney Bailey vs Jenny Clausius - To Win the Bout,Delaney Bailey,0.03839999999999999,0.6875,0.6491
 2021-12-07 13:30:49.380542,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.03710000000000002,0.3704,0.3333
 2021-12-07 13:30:49.359061,NBA Futures - 2022 NBA Southeast Division - Division Winner,Atlanta Hawks,0.03570000000000001,0.2857,0.25
 2021-12-07 11:30:27.567020,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Houston Texans 2021/22 Total Wins,Under 3.5,0.033399999999999985,0.6825,0.6491
@@ -68,8 +67,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-07 11:30:27.702927,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Under 5.5,0.023800000000000043,0.5238,0.5
 2021-12-07 11:30:30.536493,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Atlético Madrid,0.023800000000000043,0.5238,0.5
 2021-12-07 14:30:35.496105,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Indianapolis Colts,Yes,0.023799999999999988,0.5,0.4762
-2021-12-07 13:30:48.697975,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Mac Jones,0.023799999999999932,0.8571,0.8333
 2021-12-07 11:30:27.350941,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Rams 2021/22 Total Wins,Over 10.5,0.023799999999999932,0.6667,0.6429
+2021-12-07 13:30:48.697975,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Mac Jones,0.023799999999999932,0.8571,0.8333
 2021-12-07 08:30:40.756485,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Los Angeles Clippers,0.02310000000000001,0.1,0.0769
 2021-12-07 11:30:27.853653,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Tom Brady,0.02260000000000001,0.4,0.3774
 2021-12-07 08:30:40.740323,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Toronto Raptors,0.022400000000000003,0.0323,0.0099
@@ -81,9 +80,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-07 11:30:27.674214,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Minnesota Vikings 2021/22 Total Wins,Under 7.5,0.020699999999999996,0.4651,0.4444
 2021-12-07 14:30:35.384718,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Taylor Heinicke,0.02049999999999999,0.1538,0.1333
 2021-12-07 14:30:35.534108,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Los Angeles Rams,Yes,0.020299999999999985,0.9615,0.9412
-2021-12-07 14:30:35.542272,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Miami Dolphins,Yes,0.02020000000000001,0.1111,0.0909
 2021-12-07 11:30:27.853653,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Kyler Murray,0.02020000000000001,0.1111,0.0909
 2021-12-07 11:30:30.075588,VTB United League - VTB United League 2021/22 - Outright,UNICS Kazan,0.02020000000000001,0.1111,0.0909
+2021-12-07 14:30:35.542272,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Miami Dolphins,Yes,0.02020000000000001,0.1111,0.0909
 2021-12-07 13:30:45.845433,Boxing Lines - Donnie Nietes vs Norbelto Jimenez - To Win the Bout,Norbelto Jimenez,0.020100000000000007,0.1739,0.1538
 2021-12-07 08:30:40.740323,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Washington Wizards,0.020000000000000004,0.0323,0.0123
 2021-12-07 08:30:40.740323,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,New York Knicks,0.019800000000000005,0.0476,0.0278
@@ -99,27 +98,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-07 08:30:40.740323,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Chicago Bulls,0.014399999999999996,0.0769,0.0625
 2021-12-07 14:30:35.375184,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Nick Bosa,0.013999999999999999,0.0909,0.0769
 2021-12-07 08:30:40.630224,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Denver Nuggets,0.0131,0.0476,0.0345
-2021-12-07 08:30:40.756485,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,0.011899999999999994,0.0833,0.0714
 2021-12-07 13:30:49.403309,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.011899999999999994,0.25,0.2381
+2021-12-07 08:30:40.756485,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,0.011899999999999994,0.0833,0.0714
+2021-12-07 08:30:39.982935,NFL Futures - AFC South - Division Winner,Indianapolis Colts,0.010899999999999993,0.1538,0.1429
+2021-12-07 13:30:49.403309,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.010899999999999993,0.1538,0.1429
 2021-12-07 12:30:33.834458,Boxing Lines - Donnie Nietes vs Norbelto Jimenez - To Win the Bout,Norbelto Jimenez,0.010899999999999993,0.1538,0.1429
 2021-12-07 08:30:40.630224,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.010899999999999993,0.1538,0.1429
-2021-12-07 13:30:49.403309,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.010899999999999993,0.1538,0.1429
-2021-12-07 08:30:39.982935,NFL Futures - AFC South - Division Winner,Indianapolis Colts,0.010899999999999993,0.1538,0.1429
 2021-12-07 13:30:46.053567,Boxing Lines - Vasyl Lomachenko vs Richard Commey - To Win the Bout,Richard Commey,0.010899999999999993,0.1538,0.1429
 2021-12-07 13:30:48.845391,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,Justin Jefferson,0.010700000000000001,0.0385,0.0278
 2021-12-07 11:30:27.889245,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Kyler Murray,0.010700000000000001,0.0385,0.0278
 2021-12-07 08:30:40.330373,Boxing Lines - Jake Paul vs Tyron Woodley - To Win the Bout,Tyron Woodley,0.010699999999999987,0.3333,0.3226
 2021-12-07 08:30:40.756485,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Los Angeles Lakers,0.010499999999999982,0.2105,0.2
 2021-12-07 13:30:48.697975,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Ja'Marr Chase,0.010399999999999993,0.2326,0.2222
-2021-12-07 08:30:40.692224,NBA Futures - 2022 NBA Pacific Division - Division Winner,Los Angeles Clippers,0.010100000000000001,0.0345,0.0244
 2021-12-07 11:30:29.865061,Bundesliga - Bundesliga 2021/22 - Outright,Telekom Baskets Bonn,0.010100000000000001,0.0345,0.0244
+2021-12-07 08:30:40.692224,NBA Futures - 2022 NBA Pacific Division - Division Winner,Los Angeles Clippers,0.010100000000000001,0.0345,0.0244
 2021-12-07 11:30:28.428436,Boxing Lines - Amanda Serrano vs Miriam Gutierrez - To Win the Bout,Amanda Serrano,0.010099999999999998,0.9756,0.9655
 2021-12-07 17:32:01.971585,Boxing Lines - Amanda Serrano vs Miriam Gutierrez - To Win the Bout,Amanda Serrano,-0.010099999999999998,0.9655,0.9756
 2021-12-07 13:30:49.334606,NBA Futures - 2022 NBA Pacific Division - Division Winner,Los Angeles Clippers,-0.010100000000000001,0.0244,0.0345
-2021-12-07 08:30:39.876563,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Dallas Cowboys,-0.0102,0.0667,0.0769
-2021-12-07 14:30:35.365251,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Joe Mixon,-0.0102,0.0667,0.0769
 2021-12-07 13:30:49.403309,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Chicago Bulls,-0.0102,0.0667,0.0769
+2021-12-07 08:30:39.876563,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Dallas Cowboys,-0.0102,0.0667,0.0769
 2021-12-07 08:30:40.015780,NFL Futures - NFC East - Division Winner,Philadelphia Eagles,-0.0102,0.0667,0.0769
+2021-12-07 14:30:35.365251,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Joe Mixon,-0.0102,0.0667,0.0769
 2021-12-07 12:30:33.390699,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Aaron Donald,-0.0102,0.0667,0.0769
 2021-12-07 13:30:49.403309,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Charlotte Hornets,-0.010300000000000002,0.0141,0.0244
 2021-12-07 13:30:49.430774,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Los Angeles Lakers,-0.010499999999999982,0.2,0.2105
@@ -127,30 +126,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-07 13:30:49.292153,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,-0.010500000000000065,0.7895,0.8
 2021-12-07 12:30:33.523667,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Marquise Brown,-0.010700000000000001,0.0278,0.0385
 2021-12-07 08:30:40.740323,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.010899999999999993,0.1429,0.1538
+2021-12-07 08:30:40.241321,Boxing Lines - Vasyl Lomachenko vs Richard Commey - To Win the Bout,Richard Commey,-0.010899999999999993,0.1429,0.1538
 2021-12-07 13:30:49.249246,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.010899999999999993,0.1429,0.1538
 2021-12-07 17:32:01.742130,Boxing Lines - Vasyl Lomachenko vs Richard Commey - To Win the Bout,Richard Commey,-0.010899999999999993,0.1429,0.1538
-2021-12-07 08:30:40.241321,Boxing Lines - Vasyl Lomachenko vs Richard Commey - To Win the Bout,Richard Commey,-0.010899999999999993,0.1429,0.1538
 2021-12-07 08:30:39.936678,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Tampa Bay Buccaneers,-0.011099999999999999,0.2667,0.2778
 2021-12-07 08:30:40.677240,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,-0.011099999999999999,0.8889,0.9
 2021-12-07 11:30:30.551858,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Iago Aspas,-0.011199999999999995,0.0476,0.0588
 2021-12-07 13:30:48.830266,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Stefon Diggs,-0.011399999999999997,0.0164,0.0278
 2021-12-07 13:30:49.124629,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Ja Morant,-0.011700000000000016,0.2105,0.2222
-2021-12-07 13:30:49.430774,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,-0.011899999999999994,0.0714,0.0833
 2021-12-07 08:30:40.740323,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.011899999999999994,0.2381,0.25
+2021-12-07 13:30:49.430774,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,-0.011899999999999994,0.0714,0.0833
 2021-12-07 12:30:33.523667,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Deebo Samuel,-0.012100000000000001,0.0123,0.0244
 2021-12-07 11:30:27.289467,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Arizona Cardinals 2021/22 Total Wins,Over 13.5,-0.012199999999999989,0.5,0.5122
 2021-12-07 12:30:33.523667,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Amari Cooper,-0.012700000000000003,0.0196,0.0323
 2021-12-07 12:30:33.390699,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Harold Landry III,-0.012700000000000003,0.0196,0.0323
 2021-12-07 08:30:40.645447,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.012899999999999912,0.8333,0.8462
-2021-12-07 11:30:30.551858,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Gerard Moreno,-0.013,0.0066,0.0196
 2021-12-07 11:30:30.551858,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Maximiliano Gomez,-0.013,0.0066,0.0196
+2021-12-07 11:30:30.551858,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Gerard Moreno,-0.013,0.0066,0.0196
 2021-12-07 11:30:27.643069,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Miami Dolphins 2021/22 Total Wins,Over 7.5,-0.013799999999999923,0.6226,0.6364
-2021-12-07 11:30:27.853653,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Patrick Mahomes,-0.013999999999999999,0.0769,0.0909
 2021-12-07 12:30:33.523667,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Tyreek Hill,-0.013999999999999999,0.0769,0.0909
+2021-12-07 11:30:27.853653,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Patrick Mahomes,-0.013999999999999999,0.0769,0.0909
 2021-12-07 11:30:27.889245,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Austin Ekeler,-0.014099999999999998,0.0244,0.0385
 2021-12-07 11:30:27.936863,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TDs,Kirk Cousins,-0.014099999999999998,0.0244,0.0385
-2021-12-07 12:30:33.390699,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,JC Jackson,-0.014100000000000001,0.0385,0.0526
 2021-12-07 11:30:27.889245,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Davante Adams,-0.014100000000000001,0.0385,0.0526
+2021-12-07 12:30:33.390699,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,JC Jackson,-0.014100000000000001,0.0385,0.0526
 2021-12-07 08:30:40.708051,NBA Futures - 2022 NBA Southeast Division - Division Winner,Washington Wizards,-0.014399999999999996,0.0625,0.0769
 2021-12-07 08:30:39.936678,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Dallas Cowboys,-0.015100000000000002,0.1667,0.1818
 2021-12-07 08:30:40.128724,Boxing Lines - Donnie Nietes vs Norbelto Jimenez - To Win the Bout,Donnie Nietes,-0.01660000000000006,0.9167,0.9333
@@ -163,11 +162,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-07 11:30:30.749371,Champions League - Group F - To Advance from Group Stage,Atalanta,-0.018100000000000005,0.5652,0.5833
 2021-12-07 13:30:49.403309,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.018100000000000005,0.4167,0.4348
 2021-12-07 13:30:48.797460,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Justin Herbert,-0.01820000000000002,0.1818,0.2
-2021-12-07 12:30:33.390699,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Kevin Byard,-0.0189,0.0196,0.0385
 2021-12-07 11:30:27.936863,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TDs,Joe Burrow,-0.0189,0.0196,0.0385
+2021-12-07 12:30:33.390699,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Kevin Byard,-0.0189,0.0196,0.0385
 2021-12-07 13:30:49.380542,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.018999999999999906,0.7143,0.7333
-2021-12-07 14:30:35.375184,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Trey Hendrickson,-0.019099999999999992,0.0476,0.0667
 2021-12-07 14:30:35.375184,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Harold Landry,-0.019099999999999992,0.0476,0.0667
+2021-12-07 14:30:35.375184,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Trey Hendrickson,-0.019099999999999992,0.0476,0.0667
 2021-12-07 14:30:35.534108,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Los Angeles Rams,No,-0.019699999999999995,0.1053,0.125
 2021-12-07 11:30:27.702927,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Over  5.5,-0.01970000000000005,0.5455,0.5652
 2021-12-07 13:30:49.403309,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,New York Knicks,-0.019800000000000005,0.0278,0.0476
@@ -182,14 +181,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-07 11:30:31.734268,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Ross County,-0.021699999999999997,0.4545,0.4762
 2021-12-07 08:30:40.419612,BKFC Fight Night: Tampa - David Mundell vs Stanislav Grosu - To Win the Bout,Stanislav Grosu,-0.021999999999999964,0.2857,0.3077
 2021-12-07 11:30:27.674214,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Minnesota Vikings 2021/22 Total Wins,Over 7.5,-0.022600000000000064,0.6,0.6226
-2021-12-07 13:30:49.430774,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Los Angeles Clippers,-0.02310000000000001,0.0769,0.1
 2021-12-07 13:30:48.845391,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receptions,Davante Adams,-0.02310000000000001,0.0769,0.1
-2021-12-07 14:30:35.542272,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Miami Dolphins,No,-0.0232,0.9524,0.9756
+2021-12-07 13:30:49.430774,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Los Angeles Clippers,-0.02310000000000001,0.0769,0.1
 2021-12-07 14:30:35.375184,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Markus Golden,-0.0232,0.0435,0.0667
+2021-12-07 14:30:35.542272,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Miami Dolphins,No,-0.0232,0.9524,0.9756
 2021-12-07 13:30:48.797460,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Josh Allen,-0.023200000000000002,0.0244,0.0476
+2021-12-07 08:30:40.723200,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.023799999999999988,0.3333,0.3571
 2021-12-07 11:30:27.761414,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Pittsburgh Steelers 2021/22 Total Wins,Under 7.5,-0.023799999999999988,0.4762,0.5
 2021-12-07 11:30:30.804097,Champions League - Group G - To Advance from Group Stage,Wolfsburg,-0.023799999999999988,0.4762,0.5
-2021-12-07 08:30:40.723200,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.023799999999999988,0.3333,0.3571
 2021-12-07 14:30:35.384718,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Matt Ryan,-0.0242,0.0667,0.0909
 2021-12-07 13:30:49.313806,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,-0.024999999999999994,0.1,0.125
 2021-12-07 11:30:27.350941,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Rams 2021/22 Total Wins,Under 10.5,-0.025499999999999967,0.4,0.4255
@@ -207,8 +206,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-07 11:30:27.567020,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Houston Texans 2021/22 Total Wins,Over 3.5,-0.03210000000000002,0.3846,0.4167
 2021-12-07 08:30:39.876563,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,New England Patriots,-0.033399999999999985,0.1333,0.1667
 2021-12-07 13:30:48.830266,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Tyreek Hill,-0.03439999999999999,0.0323,0.0667
-2021-12-07 11:30:27.611888,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Las Vegas Raiders 2021/22 Total Wins,Under 7.5,-0.03480000000000005,0.5,0.5348
 2021-12-07 11:30:27.479006,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Chicago Bears 2021/22 Total Wins,Over  5.5,-0.03480000000000005,0.5,0.5348
+2021-12-07 11:30:27.611888,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Las Vegas Raiders 2021/22 Total Wins,Under 7.5,-0.03480000000000005,0.5,0.5348
 2021-12-07 14:30:35.576020,NFL Season Props - NFL 2021/22 - To Make the Playoffs - New York Giants,Yes,-0.035699999999999996,0.0476,0.0833
 2021-12-07 08:30:40.708051,NBA Futures - 2022 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.03570000000000001,0.25,0.2857
 2021-12-07 11:30:30.536493,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Sevilla,-0.03640000000000004,0.3636,0.4
@@ -216,7 +215,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-07 11:30:30.568045,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,-0.03889999999999999,0.1429,0.1818
 2021-12-07 14:30:35.629579,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Tampa Bay Buccaneers,No,-0.0389,0.0278,0.0667
 2021-12-07 14:30:35.437477,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Chicago Bears ,Yes,-0.0392,0.0196,0.0588
-2021-12-07 06:30:31.065369,BKFC Fight Night: Tampa - Delaney Bailey vs Jenny Clausius - To Win the Bout,Jenny Clausius,-0.0393,0.3774,0.4167
 2021-12-07 14:30:35.384718,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Ryan Tannehill,-0.04040000000000002,0.1818,0.2222
 2021-12-07 11:30:27.301956,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Over 6.5,-0.040999999999999925,0.5744,0.6154
 2021-12-07 14:30:35.487724,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Green Bay Packers,No,-0.04229999999999999,0.0244,0.0667
@@ -232,10 +230,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-07 12:30:33.390699,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Myles Garrett,-0.055900000000000005,0.3077,0.3636
 2021-12-07 14:30:35.593216,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Pittsburgh Steelers,No,-0.058800000000000074,0.8462,0.905
 2021-12-07 11:30:30.657723,Champions League - Group B - Not To Advance from Group Stage,FC Porto,-0.0595,0.5238,0.5833
-2021-12-07 11:30:27.936863,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TDs,Patrick Mahomes,-0.0635,0.0476,0.1111
-2021-12-07 14:30:35.479359,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Denver Broncos,Yes,-0.0635,0.2222,0.2857
 2021-12-07 14:30:35.365251,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Rushing Yards,Nick Chubb,-0.0635,0.0476,0.1111
+2021-12-07 11:30:27.936863,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TDs,Patrick Mahomes,-0.0635,0.0476,0.1111
 2021-12-07 14:30:35.375184,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Robert Quinn,-0.0635,0.0476,0.1111
+2021-12-07 14:30:35.479359,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Denver Broncos,Yes,-0.0635,0.2222,0.2857
 2021-12-07 11:30:27.814767,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tampa Bay Buccaneers 2021/22 Total Wins,Under 12.5,-0.06509999999999999,0.4,0.4651
 2021-12-07 11:30:27.338868,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Under 11.5,-0.06520000000000004,0.5,0.5652
 2021-12-07 08:30:39.908240,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Buffalo Bills,-0.06590000000000001,0.1667,0.2326
@@ -267,5 +265,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-07 14:30:35.550737,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Minnesota Vikings,Yes,-0.20150000000000007,0.3333,0.5348
 2021-12-07 14:30:35.655237,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Washington Football Team,No,-0.23449999999999993,0.6226,0.8571
 2021-12-07 11:30:30.641961,Champions League - Group B - To Advance from Group Stage,Atlético Madrid,-0.29760000000000003,0.2857,0.5833
-2021-12-07 11:30:30.730955,Champions League - Group E - Not To Advance from Group Stage,Benfica,-0.32330000000000003,0.4545,0.7778
 2021-12-07 11:30:30.716627,Champions League - Group E - To Advance from Group Stage,FC Barcelona,-0.32330000000000003,0.4545,0.7778
+2021-12-07 11:30:30.730955,Champions League - Group E - Not To Advance from Group Stage,Benfica,-0.32330000000000003,0.4545,0.7778
