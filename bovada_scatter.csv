@@ -1,10 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-08 03:30:42.724861,Liga MX - Apertura - Mexico Apertura 2021 - Outright,Club León,0.2889,0.5556,0.2667
 2021-12-08 04:30:40.664737,Survivor - Survivor 41 Outright Winner - Outright,Erika Casupanan,0.1428,0.2857,0.1429
-2021-12-08 01:31:08.408894,College Basketball - PAC 12 Conference  Winner - Outright,Arizona,0.1346,0.3846,0.25
 2021-12-08 04:30:40.664737,Survivor - Survivor 41 Outright Winner - Outright,Ricard Foye,0.1238,0.2667,0.1429
 2021-12-08 10:30:41.304534,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Sebatien Haller,0.1,0.2667,0.1667
-2021-12-08 01:31:08.408894,College Basketball - PAC 12 Conference  Winner - Outright,USC,0.09720000000000001,0.2222,0.125
 2021-12-08 04:30:40.664737,Survivor - Survivor 41 Outright Winner - Outright,Danny McCray,0.0708,0.1333,0.0625
 2021-12-08 11:30:37.038426,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Rennes,0.06820000000000001,0.25,0.1818
 2021-12-08 04:30:40.664737,Survivor - Survivor 41 Outright Winner - Outright,Xander Hastings,0.06769999999999998,0.303,0.2353
@@ -14,6 +12,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-08 11:30:37.038426,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lille,0.048100000000000004,0.125,0.0769
 2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Tranmere Rovers,0.03889999999999999,0.1818,0.1429
 2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Rochdale,0.03889999999999999,0.1818,0.1429
+2021-12-08 14:30:40.066265,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Atlético Madrid,0.0384,0.0769,0.0385
 2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Port Vale,0.03640000000000004,0.4,0.3636
 2021-12-08 03:30:42.724861,Liga MX - Apertura - Mexico Apertura 2021 - Outright,Atlas FC,0.035999999999999976,0.5122,0.4762
 2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Leyton Orient,0.03570000000000001,0.2857,0.25
@@ -31,6 +30,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-08 07:30:38.506315,BKFC Fight Night: Tampa - Bobby Taylor vs Martin Brown - To Win the Bout,Martin Brown,0.020199999999999996,0.6923,0.6721
 2021-12-08 10:30:41.304534,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Lionel Messi,0.019099999999999992,0.0667,0.0476
 2021-12-08 05:30:34.273788,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Baylor,0.01820000000000002,0.2,0.1818
+2021-12-08 14:30:35.140167,BKFC Fight Night: Tampa - Stevo Morris vs Jorge Gonzalez-Rolon - To Win the Bout,Stevo Morris,0.016700000000000048,0.75,0.7333
+2021-12-08 14:30:34.980384,BKFC Fight Night: Tampa - David Mundell vs Stanislav Grosu - To Win the Bout,David Mundell,0.016599999999999948,0.8261,0.8095
 2021-12-08 07:30:38.529402,BKFC Fight Night: Tampa - Delaney Bailey vs Jenny Clausius - To Win the Bout,Jenny Clausius,0.015400000000000025,0.4,0.3846
 2021-12-08 03:30:43.053329,League Two - England League Two 2021/22 - Outright,Forest Green Rovers,0.01539999999999997,0.6154,0.6
 2021-12-08 10:30:37.570577,Boxing Lines - John Riel Casimero vs Paul Butler - To Win the Bout,John Riel Casimero,0.014100000000000001,0.9756,0.9615
@@ -45,22 +46,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-08 11:30:33.653822,Boxing Lines - Joseph Parker vs Dereck Chisora - To Win the Bout,Dereck Chisora,0.010699999999999987,0.3333,0.3226
 2021-12-08 11:30:33.372947,Boxing Lines - Isaac Chamberlain vs Dilan Prasovic - To Win the Bout,Isaac Chamberlain,0.010199999999999987,0.9333,0.9231
 2021-12-08 13:30:43.183325,Boxing Lines - Isaac Chamberlain vs Dilan Prasovic - To Win the Bout,Isaac Chamberlain,0.010199999999999987,0.9333,0.9231
-2021-12-08 07:30:38.418873,Boxing Lines - Amanda Serrano vs Miriam Gutierrez - To Win the Bout,Amanda Serrano,0.010099999999999998,0.9756,0.9655
-2021-12-08 03:30:37.696511,Boxing Lines - Katie Taylor vs Firuza Sharipova - To Win the Bout,Katie Taylor,0.010099999999999998,0.9756,0.9655
 2021-12-08 06:30:37.924426,Boxing Lines - Katie Taylor vs Firuza Sharipova - To Win the Bout,Katie Taylor,0.010099999999999998,0.9756,0.9655
-2021-12-08 04:30:41.633773,BKFC Fight Night: Tampa - Delaney Bailey vs Jenny Clausius - To Win the Bout,Delaney Bailey,-0.010099999999999998,0.6774,0.6875
+2021-12-08 03:30:37.696511,Boxing Lines - Katie Taylor vs Firuza Sharipova - To Win the Bout,Katie Taylor,0.010099999999999998,0.9756,0.9655
+2021-12-08 07:30:38.418873,Boxing Lines - Amanda Serrano vs Miriam Gutierrez - To Win the Bout,Amanda Serrano,0.010099999999999998,0.9756,0.9655
+2021-12-08 07:30:38.324771,Boxing Lines - Katie Taylor vs Firuza Sharipova - To Win the Bout,Katie Taylor,-0.010099999999999998,0.9655,0.9756
 2021-12-08 07:30:38.572926,BKFC Fight Night: Tampa - Joshua Sikes vs Michael Stripling - To Win the Bout,Joshua Sikes,-0.010099999999999998,0.6774,0.6875
 2021-12-08 10:30:37.625635,Boxing Lines - Jared Anderson vs Aleksandr Teslenko - To Win the Bout,Jared Anderson,-0.010099999999999998,0.9655,0.9756
-2021-12-08 11:30:33.541633,Boxing Lines - John Riel Casimero vs Paul Butler - To Win the Bout,John Riel Casimero,-0.010099999999999998,0.9655,0.9756
-2021-12-08 04:30:41.031368,Boxing Lines - Katie Taylor vs Firuza Sharipova - To Win the Bout,Katie Taylor,-0.010099999999999998,0.9655,0.9756
-2021-12-08 07:30:38.324771,Boxing Lines - Katie Taylor vs Firuza Sharipova - To Win the Bout,Katie Taylor,-0.010099999999999998,0.9655,0.9756
 2021-12-08 08:30:34.301004,Boxing Lines - Amanda Serrano vs Miriam Gutierrez - To Win the Bout,Amanda Serrano,-0.010099999999999998,0.9655,0.9756
+2021-12-08 04:30:41.633773,BKFC Fight Night: Tampa - Delaney Bailey vs Jenny Clausius - To Win the Bout,Delaney Bailey,-0.010099999999999998,0.6774,0.6875
+2021-12-08 04:30:41.031368,Boxing Lines - Katie Taylor vs Firuza Sharipova - To Win the Bout,Katie Taylor,-0.010099999999999998,0.9655,0.9756
+2021-12-08 11:30:33.541633,Boxing Lines - John Riel Casimero vs Paul Butler - To Win the Bout,John Riel Casimero,-0.010099999999999998,0.9655,0.9756
+2021-12-08 14:30:34.568353,Boxing Lines - Isaac Chamberlain vs Dilan Prasovic - To Win the Bout,Isaac Chamberlain,-0.010199999999999987,0.9231,0.9333
 2021-12-08 07:30:38.226140,Boxing Lines - Isaac Chamberlain vs Dilan Prasovic - To Win the Bout,Isaac Chamberlain,-0.010199999999999987,0.9231,0.9333
 2021-12-08 12:30:34.445826,Boxing Lines - Isaac Chamberlain vs Dilan Prasovic - To Win the Bout,Isaac Chamberlain,-0.010199999999999987,0.9231,0.9333
 2021-12-08 10:30:37.646928,Boxing Lines - Joseph Parker vs Dereck Chisora - To Win the Bout,Dereck Chisora,-0.010699999999999987,0.3226,0.3333
 2021-12-08 07:30:38.529402,BKFC Fight Night: Tampa - Delaney Bailey vs Jenny Clausius - To Win the Bout,Delaney Bailey,-0.010700000000000043,0.6667,0.6774
-2021-12-08 09:30:58.538505,LNB Pro A - LNB Pro A 2021/22 - Outright,Strasbourg IG,-0.011199999999999995,0.0476,0.0588
 2021-12-08 03:30:43.022398,League One - England League One 2021/22 - Outright,Milton Keynes Dons,-0.011199999999999995,0.0476,0.0588
+2021-12-08 09:30:58.538505,LNB Pro A - LNB Pro A 2021/22 - Outright,Strasbourg IG,-0.011199999999999995,0.0476,0.0588
 2021-12-08 07:30:38.598373,BKFC Fight Night: Tampa - Stevo Morris vs Jorge Gonzalez-Rolon - To Win the Bout,Jorge Gonzalez-Rolon,-0.01150000000000001,0.3333,0.3448
 2021-12-08 09:30:58.538505,LNB Pro A - LNB Pro A 2021/22 - Outright,Limoges CSP,-0.012800000000000002,0.0217,0.0345
 2021-12-08 10:30:41.304534,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Mohamed Salah,-0.013899999999999996,0.1111,0.125
@@ -69,25 +71,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-08 03:30:41.927051,NBA Specials - Next Coach to Next Coach to leave Post - Outright,Mark Daigneault,-0.014399999999999996,0.0625,0.0769
 2021-12-08 10:30:41.304534,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Leroy Sane,-0.014499999999999999,0.0149,0.0294
 2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Sutton Utd,-0.01469999999999999,0.2353,0.25
-2021-12-08 09:30:58.538505,LNB Pro A - LNB Pro A 2021/22 - Outright,Levallois,-0.0179,0.125,0.1429
+2021-12-08 14:30:34.980384,BKFC Fight Night: Tampa - David Mundell vs Stanislav Grosu - To Win the Bout,Stanislav Grosu,-0.01629999999999998,0.2469,0.2632
+2021-12-08 14:30:40.066265,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Bayern Munich,-0.017600000000000005,0.3333,0.3509
 2021-12-08 10:30:41.317405,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,France,-0.0179,0.125,0.1429
+2021-12-08 09:30:58.538505,LNB Pro A - LNB Pro A 2021/22 - Outright,Levallois,-0.0179,0.125,0.1429
 2021-12-08 03:30:43.053329,League Two - England League Two 2021/22 - Outright,Harrogate Town,-0.018200000000000004,0.0294,0.0476
 2021-12-08 07:30:38.517075,BKFC Fight Night: Tampa - David Mundell vs Stanislav Grosu - To Win the Bout,Stanislav Grosu,-0.018500000000000016,0.2632,0.2817
 2021-12-08 07:30:38.540906,BKFC Fight Night: Tampa - Jordan Nash vs Noah Cutter - To Win the Bout,Noah Cutter,-0.019600000000000006,0.303,0.3226
 2021-12-08 03:30:43.022398,League One - England League One 2021/22 - Outright,Oxford United,-0.0203,0.0385,0.0588
+2021-12-08 14:30:35.140167,BKFC Fight Night: Tampa - Stevo Morris vs Jorge Gonzalez-Rolon - To Win the Bout,Jorge Gonzalez-Rolon,-0.020799999999999985,0.3125,0.3333
 2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Swindon Town,-0.02100000000000002,0.3636,0.3846
 2021-12-08 07:30:38.506315,BKFC Fight Night: Tampa - Bobby Taylor vs Martin Brown - To Win the Bout,Bobby Taylor,-0.021799999999999986,0.3704,0.3922
-2021-12-08 01:31:08.408894,College Basketball - PAC 12 Conference  Winner - Outright,Oregon State,-0.022099999999999998,0.0057,0.0278
 2021-12-08 06:30:40.506801,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Under 6.5,-0.022699999999999998,0.4651,0.4878
 2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Exeter City,-0.030299999999999994,0.3333,0.3636
 2021-12-08 03:30:43.053329,League Two - England League Two 2021/22 - Outright,Swindon Town,-0.0321,0.0588,0.0909
 2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Harrogate Town,-0.03570000000000001,0.25,0.2857
 2021-12-08 11:30:37.038426,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lyon,-0.03570000000000001,0.25,0.2857
-2021-12-08 01:31:08.408894,College Basketball - PAC 12 Conference  Winner - Outright,UCLA,-0.043399999999999994,0.4444,0.4878
 2021-12-08 11:30:37.038426,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Marseille,-0.047599999999999976,0.2857,0.3333
 2021-12-08 10:30:41.304534,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Cristiano Ronaldo,-0.048100000000000004,0.0769,0.125
-2021-12-08 01:31:08.408894,College Basketball - PAC 12 Conference  Winner - Outright,Colorado,-0.0489,0.0099,0.0588
 2021-12-08 10:30:41.304534,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Robert Lewandowski,-0.0948,0.6552,0.75
-2021-12-08 01:31:08.408894,College Basketball - PAC 12 Conference  Winner - Outright,Oregon,-0.11909999999999998,0.0476,0.1667
 2021-12-08 04:30:40.664737,Survivor - Survivor 41 Outright Winner - Outright,Deshawn Radden,-0.12259999999999999,0.2222,0.3448
 2021-12-08 03:30:41.927051,NBA Specials - Next Coach to Next Coach to leave Post - Outright,Taylor Jenkins,-0.1584,0.0769,0.2353
