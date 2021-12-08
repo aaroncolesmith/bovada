@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2021-12-08 03:30:42.724861,Liga MX - Apertura - Mexico Apertura 2021 - Outright,Club León,0.2889,0.5556,0.2667
 2021-12-07 21:30:36.370562,NFL Specials - AFC #1 Seed - Outright,New England Patriots,0.23330000000000004,0.4,0.1667
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Washington Football Team,0.191,0.3448,0.1538
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Buffalo Bills,0.18330000000000002,0.5833,0.4
@@ -12,24 +13,37 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-08 00:30:37.464579,College Basketball - Big 12 Conference Winner - Outright,Baylor,0.0952,0.2857,0.1905
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Indianapolis Colts,0.07619999999999999,0.4762,0.4
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Los Angeles Rams,0.07579999999999998,0.9091,0.8333
+2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Northampton Town,0.067,0.4444,0.3774
 2021-12-07 21:30:36.079352,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Worst Regular Season Record,Jacksonville Jaguars,0.066,0.1429,0.0769
 2021-12-07 21:30:36.370562,NFL Specials - AFC #1 Seed - Outright,Kansas City Chiefs,0.0635,0.2857,0.2222
+2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Newport County,0.05550000000000002,0.2222,0.1667
+2021-12-08 03:30:41.927051,NBA Specials - Next Coach to Next Coach to leave Post - Outright,Stephen Silas,0.05350000000000002,0.2353,0.1818
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Pittsburgh Steelers,0.04909999999999999,0.1667,0.1176
 2021-12-07 21:30:36.383111,NFL Specials - NFC #1 Seed - Outright,Arizona Cardinals,0.045499999999999985,0.5,0.4545
 2021-12-07 21:30:36.069672,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Arizona Cardinals,0.044399999999999995,0.4444,0.4
 2021-12-07 21:30:36.069672,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,New England Patriots,0.04239999999999999,0.0769,0.0345
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Dallas Cowboys,0.0407,0.1176,0.0769
 2021-12-08 00:30:37.435978,College Basketball - Atlantic Coast Conference  Winner - Outright,Duke,0.039600000000000024,0.4651,0.4255
+2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Rochdale,0.03889999999999999,0.1818,0.1429
+2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Tranmere Rovers,0.03889999999999999,0.1818,0.1429
+2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Port Vale,0.03640000000000004,0.4,0.3636
+2021-12-08 03:30:42.724861,Liga MX - Apertura - Mexico Apertura 2021 - Outright,Atlas FC,0.035999999999999976,0.5122,0.4762
+2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Leyton Orient,0.03570000000000001,0.2857,0.25
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Miami Dolphins,0.03420000000000001,0.1111,0.0769
 2021-12-07 21:30:36.079352,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Worst Regular Season Record,New York Jets,0.0282,0.0526,0.0244
 2021-12-07 21:30:36.370562,NFL Specials - AFC #1 Seed - Outright,Los Angeles Chargers,0.028199999999999996,0.0667,0.0385
 2021-12-07 21:30:36.370562,NFL Specials - AFC #1 Seed - Outright,Tennessee Titans,0.02779999999999999,0.25,0.2222
+2021-12-08 03:30:41.927051,NBA Specials - Next Coach to Next Coach to leave Post - Outright,Willie Green,0.025300000000000003,0.1429,0.1176
+2021-12-08 03:30:43.022398,League One - England League One 2021/22 - Outright,Sunderland,0.023799999999999988,0.1667,0.1429
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Kansas City Chiefs,0.021999999999999964,0.3077,0.2857
 2021-12-07 22:30:53.850951,Liga ACB - Liga ACB 2021/2022 - Outright,Real Madrid BC,0.021699999999999997,0.4762,0.4545
+2021-12-08 03:30:43.022398,League One - England League One 2021/22 - Outright,Rotherham Utd,0.021699999999999997,0.4762,0.4545
 2021-12-08 00:30:37.420470,College Basketball - Atlantic 10 Conference Winner - Outright,St. Bonaventure,0.02079999999999993,0.5556,0.5348
 2021-12-07 23:30:36.479680,NFL Specials - Who will be the Houston Texans Starting QB for Game 1 of the 2022-2023 Seaosn? - Outright,Malik Willis,0.02049999999999999,0.1538,0.1333
+2021-12-08 03:30:43.053329,League Two - England League Two 2021/22 - Outright,Northampton Town,0.02020000000000001,0.1111,0.0909
 2021-12-07 21:30:36.069672,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Kansas City Chiefs,0.019099999999999992,0.0667,0.0476
 2021-12-07 23:30:35.130579,BKFC Fight Night: Tampa - Bobby Taylor vs Martin Brown - To Win the Bout,Martin Brown,0.016900000000000026,0.6721,0.6552
+2021-12-08 03:30:43.053329,League Two - England League Two 2021/22 - Outright,Forest Green Rovers,0.01539999999999997,0.6154,0.6
 2021-12-08 00:30:37.420470,College Basketball - Atlantic 10 Conference Winner - Outright,Saint Louis,0.014899999999999997,0.0625,0.0476
 2021-12-07 21:30:36.093035,NFL Season Props - NFL 2021/22 - Specials - Proposition,Any Player to Break the Regular Season Receiving Yards Record of 1964 Yards,0.01469999999999999,0.25,0.2353
 2021-12-07 23:30:38.849527,Champions League - UEFA Champions League 2021/2022 - Outright,Atlético Madrid,0.014499999999999999,0.0294,0.0149
@@ -37,21 +51,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-08 00:30:37.464579,College Basketball - Big 12 Conference Winner - Outright,Iowa State,0.014099999999999998,0.0385,0.0244
 2021-12-07 23:30:38.849527,Champions League - UEFA Champions League 2021/2022 - Outright,Real Madrid,0.014099999999999994,0.0667,0.0526
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Seattle Seahawks,0.013999999999999999,0.0909,0.0769
+2021-12-08 03:30:43.053329,League Two - England League Two 2021/22 - Outright,Leyton Orient,0.0131,0.0476,0.0345
+2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Salford City,0.012899999999999995,0.1667,0.1538
+2021-12-08 03:30:37.696511,Boxing Lines - Katie Taylor vs Firuza Sharipova - To Win the Bout,Katie Taylor,0.010099999999999998,0.9756,0.9655
 2021-12-07 17:32:01.971585,Boxing Lines - Amanda Serrano vs Miriam Gutierrez - To Win the Bout,Amanda Serrano,-0.010099999999999998,0.9655,0.9756
 2021-12-07 21:30:36.093035,NFL Season Props - NFL 2021/22 - Specials - Proposition,Tampa Bay Buccaneers Miss Playoffs,-0.010100000000000001,0.0244,0.0345
 2021-12-08 00:30:37.435978,College Basketball - Atlantic Coast Conference  Winner - Outright,Virginia,-0.0102,0.0667,0.0769
 2021-12-07 17:32:01.742130,Boxing Lines - Vasyl Lomachenko vs Richard Commey - To Win the Bout,Richard Commey,-0.010899999999999993,0.1429,0.1538
+2021-12-08 03:30:43.022398,League One - England League One 2021/22 - Outright,Milton Keynes Dons,-0.011199999999999995,0.0476,0.0588
 2021-12-08 00:30:37.485990,College Basketball - Big East Conference  Winner - Outright,Creighton,-0.013999999999999999,0.0769,0.0909
+2021-12-08 03:30:41.927051,NBA Specials - Next Coach to Next Coach to leave Post - Outright,Nick Nurse,-0.014099999999999994,0.0526,0.0667
+2021-12-08 03:30:43.053329,League Two - England League Two 2021/22 - Outright,Sutton Utd,-0.014099999999999998,0.0294,0.0435
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,New York Giants,-0.014100000000000001,0.0385,0.0526
+2021-12-08 03:30:41.927051,NBA Specials - Next Coach to Next Coach to leave Post - Outright,Mark Daigneault,-0.014399999999999996,0.0625,0.0769
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Tampa Bay Buccaneers,-0.0145,0.0099,0.0244
+2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Sutton Utd,-0.01469999999999999,0.2353,0.25
 2021-12-08 00:30:37.485990,College Basketball - Big East Conference  Winner - Outright,Seton Hall,-0.015100000000000002,0.1667,0.1818
 2021-12-07 23:30:35.130579,BKFC Fight Night: Tampa - Bobby Taylor vs Martin Brown - To Win the Bout,Bobby Taylor,-0.016000000000000014,0.3922,0.4082
 2021-12-08 00:30:37.435978,College Basketball - Atlantic Coast Conference  Winner - Outright,Florida State,-0.0179,0.125,0.1429
 2021-12-07 23:30:38.849527,Champions League - UEFA Champions League 2021/2022 - Outright,Chelsea,-0.0179,0.125,0.1429
 2021-12-07 23:30:38.849527,Champions League - UEFA Champions League 2021/2022 - Outright,Paris Saint-Germain,-0.0179,0.125,0.1429
+2021-12-08 03:30:43.053329,League Two - England League Two 2021/22 - Outright,Harrogate Town,-0.018200000000000004,0.0294,0.0476
 2021-12-07 21:30:36.093035,NFL Season Props - NFL 2021/22 - Specials - Proposition,Any Player to have 8+ Passing TDs in a Single Regular Season Game,-0.0189,0.0196,0.0385
 2021-12-07 21:30:36.069672,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Tampa Bay Buccaneers,-0.019000000000000017,0.2667,0.2857
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Chicago Bears,-0.019800000000000005,0.0278,0.0476
+2021-12-08 03:30:43.022398,League One - England League One 2021/22 - Outright,Oxford United,-0.0203,0.0385,0.0588
+2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Swindon Town,-0.02100000000000002,0.3636,0.3846
 2021-12-07 21:30:36.383111,NFL Specials - NFC #1 Seed - Outright,Green Bay Packers,-0.021999999999999964,0.2857,0.3077
 2021-12-08 01:31:08.408894,College Basketball - PAC 12 Conference  Winner - Outright,Oregon State,-0.022099999999999998,0.0057,0.0278
 2021-12-08 00:30:37.485990,College Basketball - Big East Conference  Winner - Outright,Connecticut,-0.022199999999999998,0.2,0.2222
@@ -60,9 +85,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Green Bay Packers,-0.024600000000000004,0.0099,0.0345
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Arizona Cardinals,-0.025300000000000003,0.1176,0.1429
 2021-12-07 21:30:36.069672,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Baltimore Ravens,-0.0282,0.0244,0.0526
+2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Exeter City,-0.030299999999999994,0.3333,0.3636
+2021-12-08 03:30:43.053329,League Two - England League Two 2021/22 - Outright,Swindon Town,-0.0321,0.0588,0.0909
 2021-12-08 00:30:37.464579,College Basketball - Big 12 Conference Winner - Outright,Kansas,-0.03210000000000002,0.3846,0.4167
 2021-12-08 00:30:37.420470,College Basketball - Atlantic 10 Conference Winner - Outright,George Mason,-0.03330000000000001,0.0667,0.1
 2021-12-07 21:30:36.069672,NFL Season Props - NFL 2021/22 - Regular Season Team Overall Records - Team with Best Regular Season Record,Green Bay Packers,-0.0353,0.2,0.2353
+2021-12-08 03:30:43.069260,League Two - England League Two 2021/22 - To Be Promoted,Harrogate Town,-0.03570000000000001,0.25,0.2857
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Atlanta Falcons,-0.036199999999999996,0.1176,0.1538
 2021-12-07 21:30:36.093035,NFL Season Props - NFL 2021/22 - Specials - Proposition,Any Player to have 555+ Pass Yards in a Single Regular Season Game,-0.04120000000000001,0.0588,0.1
 2021-12-08 01:31:08.408894,College Basketball - PAC 12 Conference  Winner - Outright,UCLA,-0.043399999999999994,0.4444,0.4878
@@ -70,14 +98,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Baltimore Ravens,-0.047599999999999976,0.2857,0.3333
 2021-12-08 01:31:08.408894,College Basketball - PAC 12 Conference  Winner - Outright,Colorado,-0.0489,0.0099,0.0588
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,New Orleans Saints,-0.0635,0.2222,0.2857
-2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Denver Broncos,-0.06820000000000001,0.1818,0.25
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Cleveland Browns,-0.06820000000000001,0.1818,0.25
+2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Denver Broncos,-0.06820000000000001,0.1818,0.25
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,San Francisco 49ers,-0.0816,0.6552,0.7368
 2021-12-07 21:30:36.370562,NFL Specials - AFC #1 Seed - Outright,Cincinnati Bengals,-0.0867,0.0244,0.1111
 2021-12-07 21:30:36.370562,NFL Specials - AFC #1 Seed - Outright,Buffalo Bills,-0.08979999999999999,0.0769,0.1667
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Las Vegas Raiders,-0.09720000000000001,0.125,0.2222
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Cincinnati Bengals,-0.11430000000000001,0.2857,0.4
 2021-12-08 01:31:08.408894,College Basketball - PAC 12 Conference  Winner - Outright,Oregon,-0.11909999999999998,0.0476,0.1667
+2021-12-08 03:30:41.927051,NBA Specials - Next Coach to Next Coach to leave Post - Outright,Taylor Jenkins,-0.1584,0.0769,0.2353
 2021-12-07 21:30:36.370562,NFL Specials - AFC #1 Seed - Outright,Baltimore Ravens,-0.20829999999999999,0.125,0.3333
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,New England Patriots,-0.2143,0.2857,0.5
 2021-12-07 21:30:36.398703,NFL Specials - To Win a Wildcard Seed - Proposition,Minnesota Vikings,-0.2143,0.2857,0.5
