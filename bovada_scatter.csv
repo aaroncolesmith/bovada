@@ -8,6 +8,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-10 08:30:43.438941,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Over 6.5,0.04910000000000003,0.6491,0.6
 2021-12-10 08:30:43.452454,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Buffalo Bills 2021/22 Total Wins,Over 10.5,0.045499999999999985,0.5455,0.5
 2021-12-10 09:30:34.763580,NFL Futures - AFC East - Division Winner,New England Patriots,0.040999999999999925,0.7333,0.6923
+2021-12-10 12:30:35.434653,College Basketball - Conference USA Winner - Outright,North Texas,0.038099999999999995,0.1333,0.0952
 2021-12-10 09:30:34.904621,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Under 11.5,0.03480000000000005,0.5348,0.5
 2021-12-10 08:30:43.517237,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Chicago Bears 2021/22 Total Wins,Over  5.5,0.03480000000000005,0.5348,0.5
 2021-12-10 01:30:38.227253,BKFC Fight Night: Tampa - David Mundell vs Stanislav Grosu - To Win the Bout,David Mundell,0.03410000000000002,0.9091,0.875
@@ -16,16 +17,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-10 10:30:39.302765,Boxing Lines - Alexey Egorov vs arsen goulamirian - To Win the Bout,Alexey Egorov,0.029000000000000026,0.4545,0.4255
 2021-12-10 09:30:34.921470,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New Orleans Saints 2021/22 Total Wins,Over 7.5,0.02750000000000008,0.6429,0.6154
 2021-12-10 11:31:13.048942,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.027500000000000024,0.3846,0.3571
-2021-12-10 08:30:43.501257,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Carolina Panthers 2021/22 Total Wins,Over 6.5,0.023800000000000043,0.5238,0.5
 2021-12-10 09:30:34.992206,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Dallas Cowboys 2021/22 Total Wins,Over 11.5,0.023800000000000043,0.5238,0.5
 2021-12-10 08:30:43.486039,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Baltimore Ravens 2021/22 Total Wins,Under 10.5,0.023800000000000043,0.5238,0.5
+2021-12-10 08:30:43.501257,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Carolina Panthers 2021/22 Total Wins,Over 6.5,0.023800000000000043,0.5238,0.5
 2021-12-10 11:31:12.935823,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,0.022600000000000064,0.5348,0.5122
 2021-12-10 09:30:35.059803,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Over 3.5,0.02169999999999994,0.5455,0.5238
 2021-12-10 11:31:16.110281,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Manchester City,0.02100000000000002,0.3846,0.3636
 2021-12-10 09:30:35.111006,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Under 9.5,0.02080000000000004,0.6875,0.6667
+2021-12-10 12:30:35.434653,College Basketball - Conference USA Winner - Outright,Old Dominion,0.0203,0.0526,0.0323
 2021-12-10 01:30:38.205486,BKFC Fight Night: Tampa - Jordan Nash vs Noah Cutter - To Win the Bout,Jordan Nash,0.020100000000000007,0.7701,0.75
-2021-12-10 08:30:43.466075,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cincinnati Bengals 2021/22 Total Wins,Under 9.5,0.01970000000000005,0.5652,0.5455
 2021-12-10 09:30:35.085547,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Over  5.5,0.01970000000000005,0.5652,0.5455
+2021-12-10 08:30:43.466075,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cincinnati Bengals 2021/22 Total Wins,Under 9.5,0.01970000000000005,0.5652,0.5455
 2021-12-10 11:31:16.110281,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Ajax,0.0179,0.1429,0.125
 2021-12-10 08:30:43.232611,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,0.016699999999999993,0.2667,0.25
 2021-12-10 10:30:43.182704,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,FC Barcelona,0.016699999999999937,0.6,0.5833
@@ -40,16 +42,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-10 01:30:37.951561,Boxing Lines - Conor Benn vs Chris Algieri - To Win the Bout,Conor Benn,0.011099999999999999,0.9,0.8889
 2021-12-10 09:30:34.913051,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Under 11.5,0.010599999999999998,0.4651,0.4545
 2021-12-10 08:30:44.997184,Euroleague - Euroleague 2021/22 - Winner,Real Madrid BC,0.010499999999999982,0.2105,0.2
-2021-12-10 10:30:42.143940,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Chicago Bulls,0.0102,0.0769,0.0667
 2021-12-10 10:30:42.164840,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,0.0102,0.0769,0.0667
+2021-12-10 10:30:42.143940,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Chicago Bulls,0.0102,0.0769,0.0667
 2021-12-10 01:30:38.114630,Boxing Lines - Amanda Serrano vs Miriam Gutierrez - To Win the Bout,Amanda Serrano,0.010099999999999998,0.9756,0.9655
 2021-12-10 02:30:32.780921,Boxing Lines - Amanda Serrano vs Miriam Gutierrez - To Win the Bout,Amanda Serrano,-0.010099999999999998,0.9655,0.9756
 2021-12-10 10:30:42.164840,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,-0.0102,0.0667,0.0769
 2021-12-10 07:30:29.237939,NFL Specials - Week 14 Specials - Total Points (Sunday Only),Over 540.5,-0.01100000000000001,0.5238,0.5348
 2021-12-10 11:31:12.935823,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,-0.01100000000000001,0.5238,0.5348
 2021-12-10 09:30:35.013725,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Detroit Lions 2021/22 Total Wins,Over 1.5,-0.011499999999999955,0.6552,0.6667
-2021-12-10 09:30:34.929564,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Philadelphia Eagles 2021/22 Total Wins,Over 8.5,-0.012199999999999989,0.4878,0.5
 2021-12-10 08:30:43.425502,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Arizona Cardinals 2021/22 Total Wins,Over 13.5,-0.012199999999999989,0.4878,0.5
+2021-12-10 09:30:34.929564,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Philadelphia Eagles 2021/22 Total Wins,Over 8.5,-0.012199999999999989,0.4878,0.5
 2021-12-10 08:30:44.997184,Euroleague - Euroleague 2021/22 - Winner,Anadolu Efes,-0.012899999999999995,0.1538,0.1667
 2021-12-10 10:30:43.719442,League One - England League One 2021/22 - To Finish Bottom,AFC Wimbledon,-0.0145,0.0099,0.0244
 2021-12-10 08:30:43.291108,NFL Futures - AFC North - Division Winner,Pittsburgh Steelers,-0.014899999999999997,0.0476,0.0625
@@ -61,8 +63,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-10 01:30:38.205486,BKFC Fight Night: Tampa - Jordan Nash vs Noah Cutter - To Win the Bout,Noah Cutter,-0.018400000000000027,0.2941,0.3125
 2021-12-10 11:31:16.085402,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Robert Lewandowski,-0.01880000000000004,0.6364,0.6552
 2021-12-10 09:30:34.992206,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Dallas Cowboys 2021/22 Total Wins,Under 11.5,-0.01970000000000005,0.5455,0.5652
-2021-12-10 08:30:43.486039,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Baltimore Ravens 2021/22 Total Wins,Over 10.5,-0.01970000000000005,0.5455,0.5652
 2021-12-10 08:30:43.501257,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Carolina Panthers 2021/22 Total Wins,Under 6.5,-0.01970000000000005,0.5455,0.5652
+2021-12-10 08:30:43.486039,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Baltimore Ravens 2021/22 Total Wins,Over 10.5,-0.01970000000000005,0.5455,0.5652
 2021-12-10 09:30:35.059803,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Under 3.5,-0.02169999999999994,0.5238,0.5455
 2021-12-10 09:30:35.111006,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Over 9.5,-0.02260000000000001,0.3774,0.4
 2021-12-10 09:30:35.085547,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Under 5.5,-0.023800000000000043,0.5,0.5238
