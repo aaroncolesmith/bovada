@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2021-12-10 10:30:43.719442,League One - England League One 2021/22 - To Finish Bottom,Doncaster Rovers,0.2333,0.5,0.2667
 2021-12-09 23:30:31.655630,BKFC Fight Night: Tampa - Taylor Starling vs Hannah Guy - To Win the Bout,Taylor Starling,0.1070000000000001,0.8403,0.7333
 2021-12-09 23:30:31.572035,BKFC Fight Night: Tampa - Joshua Ridge vs Jerald Gregori - To Win the Bout,Joshua Ridge,0.08689999999999998,0.9,0.8131
 2021-12-10 09:30:34.946424,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Washington Football Team 2021/22 Total Wins,Over 7.5,0.06669999999999998,0.6667,0.6
@@ -9,7 +10,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-10 08:30:43.438941,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Over 6.5,0.04910000000000003,0.6491,0.6
 2021-12-10 08:30:43.452454,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Buffalo Bills 2021/22 Total Wins,Over 10.5,0.045499999999999985,0.5455,0.5
 2021-12-10 09:30:34.763580,NFL Futures - AFC East - Division Winner,New England Patriots,0.040999999999999925,0.7333,0.6923
-2021-12-09 21:30:48.116290,BKFC Fight Night: Tampa - Trukon Carson vs Rynell Riley - To Win the Bout,Trukon Carson,0.040999999999999925,0.7333,0.6923
 2021-12-09 23:30:31.695368,BKFC Fight Night: Tampa - Trukon Carson vs Rynell Riley - To Win the Bout,Rynell Riley,0.03710000000000002,0.3704,0.3333
 2021-12-10 09:30:34.904621,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Under 11.5,0.03480000000000005,0.5348,0.5
 2021-12-10 08:30:43.517237,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Chicago Bears 2021/22 Total Wins,Over  5.5,0.03480000000000005,0.5348,0.5
@@ -17,10 +17,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-10 09:30:34.937936,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tennessee Titans 2021/22 Total Wins,Over 11.5,0.031799999999999995,0.4762,0.4444
 2021-12-09 23:30:31.036887,Boxing Lines - Kosei Tanaka vs Sho Ishida - To Win the Bout,Sho Ishida,0.0305,0.1905,0.16
 2021-12-10 07:30:29.237939,NFL Specials - Week 14 Specials - Total Points (Sunday Only),Under 540.5,0.030399999999999983,0.5652,0.5348
+2021-12-10 10:30:39.302765,Boxing Lines - Alexey Egorov vs arsen goulamirian - To Win the Bout,Alexey Egorov,0.029000000000000026,0.4545,0.4255
 2021-12-10 09:30:34.921470,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New Orleans Saints 2021/22 Total Wins,Over 7.5,0.02750000000000008,0.6429,0.6154
 2021-12-10 09:30:34.992206,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Dallas Cowboys 2021/22 Total Wins,Over 11.5,0.023800000000000043,0.5238,0.5
-2021-12-10 08:30:43.486039,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Baltimore Ravens 2021/22 Total Wins,Under 10.5,0.023800000000000043,0.5238,0.5
 2021-12-10 08:30:43.501257,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Carolina Panthers 2021/22 Total Wins,Over 6.5,0.023800000000000043,0.5238,0.5
+2021-12-10 08:30:43.486039,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Baltimore Ravens 2021/22 Total Wins,Under 10.5,0.023800000000000043,0.5238,0.5
 2021-12-09 23:30:31.605610,BKFC Fight Night: Tampa - Joshua Sikes vs Michael Stripling - To Win the Bout,Michael Stripling,0.02360000000000001,0.4082,0.3846
 2021-12-10 09:30:35.059803,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Over 3.5,0.02169999999999994,0.5455,0.5238
 2021-12-10 09:30:35.111006,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Under 9.5,0.02080000000000004,0.6875,0.6667
@@ -28,66 +29,58 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-10 01:30:38.205486,BKFC Fight Night: Tampa - Jordan Nash vs Noah Cutter - To Win the Bout,Jordan Nash,0.020100000000000007,0.7701,0.75
 2021-12-10 09:30:35.085547,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Over  5.5,0.01970000000000005,0.5652,0.5455
 2021-12-10 08:30:43.466075,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cincinnati Bengals 2021/22 Total Wins,Under 9.5,0.01970000000000005,0.5652,0.5455
-2021-12-09 21:30:47.979862,BKFC Fight Night: Tampa - Peter Petties vs Robbie Peralta - To Win the Bout,Robbie Peralta,0.018900000000000028,0.4444,0.4255
-2021-12-09 21:30:47.838282,BKFC Fight Night: Tampa - Delaney Bailey vs Jenny Clausius - To Win the Bout,Delaney Bailey,0.016900000000000026,0.6721,0.6552
 2021-12-10 08:30:43.232611,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,0.016699999999999993,0.2667,0.25
+2021-12-10 10:30:43.182704,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,FC Barcelona,0.016699999999999937,0.6,0.5833
 2021-12-09 23:30:31.539412,BKFC Fight Night: Tampa - Delaney Bailey vs Jenny Clausius - To Win the Bout,Jenny Clausius,0.016000000000000014,0.4082,0.3922
 2021-12-09 23:30:31.250286,Boxing Lines - Xander Zayas vs Alessio Mastronunzio - To Win the Bout,Alessio Mastronunzio,0.014399999999999996,0.0769,0.0625
-2021-12-09 21:30:47.464070,Boxing Lines - Xander Zayas vs Alessio Mastronunzio - To Win the Bout,Xander Zayas,0.01429999999999998,0.9852,0.9709
 2021-12-10 08:30:44.997184,Euroleague - Euroleague 2021/22 - Winner,Fenerbahce,0.014099999999999998,0.0435,0.0294
 2021-12-10 07:30:29.137013,NFL Specials - Week 14 Specials - Highest Scoring Game (Sunday Only),Seattle Seahawks At Houston Texans,0.013999999999999999,0.0909,0.0769
 2021-12-10 07:30:29.192160,NFL Specials - Week 14 Specials - Most Passing Yards (Sunday Only),Dak Prescott,0.013899999999999996,0.125,0.1111
-2021-12-09 21:30:47.549866,Boxing Lines - Nonito Donaire vs Reymart Gaballo - To Win the Bout,Nonito Donaire,0.012400000000000078,0.8182,0.8058
+2021-12-10 10:30:43.719442,League One - England League One 2021/22 - To Finish Bottom,Gillingham,0.012899999999999995,0.1667,0.1538
 2021-12-10 09:30:35.004063,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Denver Broncos 2021/22 Total Wins,Over 8.5,0.012199999999999989,0.5122,0.5
 2021-12-09 23:30:31.264996,Boxing Lines - Christian Mbilli vs Ronald Ellis - To Win the Bout,Ronald Ellis,0.011700000000000016,0.2222,0.2105
 2021-12-09 23:30:31.207132,Boxing Lines - Nico Ali Walsh vs Reyes Sanchez - To Win the Bout,Reyes Sanchez,0.011700000000000002,0.1026,0.0909
 2021-12-10 09:30:35.046856,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Under 9.5,0.011499999999999955,0.6667,0.6552
 2021-12-10 01:30:37.951561,Boxing Lines - Conor Benn vs Chris Algieri - To Win the Bout,Conor Benn,0.011099999999999999,0.9,0.8889
-2021-12-09 21:30:47.485364,Boxing Lines - Christian Mbilli vs Ronald Ellis - To Win the Bout,Christian Mbilli,0.01090000000000002,0.8571,0.8462
 2021-12-09 23:30:31.405281,Boxing Lines - Jake Paul vs Tyron Woodley - To Win the Bout,Tyron Woodley,0.010699999999999987,0.3333,0.3226
 2021-12-10 09:30:34.913051,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Under 11.5,0.010599999999999998,0.4651,0.4545
-2021-12-09 21:30:47.424097,Boxing Lines - Tapales Marlon vs Hiroaki Teshigawara - To Win the Bout,Hiroaki Teshigawara,0.010599999999999998,0.4651,0.4545
 2021-12-10 08:30:44.997184,Euroleague - Euroleague 2021/22 - Winner,Real Madrid BC,0.010499999999999982,0.2105,0.2
+2021-12-10 10:30:42.143940,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Chicago Bulls,0.0102,0.0769,0.0667
+2021-12-10 10:30:42.164840,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,0.0102,0.0769,0.0667
 2021-12-09 23:30:36.137063,Europa League - UEFA Europa League 2021/22 - Outright,Napoli,0.0102,0.0769,0.0667
-2021-12-10 01:30:38.114630,Boxing Lines - Amanda Serrano vs Miriam Gutierrez - To Win the Bout,Amanda Serrano,0.010099999999999998,0.9756,0.9655
-2021-12-09 21:30:47.860218,BKFC Fight Night: Tampa - Jordan Nash vs Noah Cutter - To Win the Bout,Noah Cutter,0.010099999999999998,0.3226,0.3125
 2021-12-09 23:30:31.501894,BKFC Fight Night: Tampa - Bobby Taylor vs Martin Brown - To Win the Bout,Bobby Taylor,0.010099999999999998,0.3226,0.3125
-2021-12-10 02:30:32.780921,Boxing Lines - Amanda Serrano vs Miriam Gutierrez - To Win the Bout,Amanda Serrano,-0.010099999999999998,0.9655,0.9756
+2021-12-10 01:30:38.114630,Boxing Lines - Amanda Serrano vs Miriam Gutierrez - To Win the Bout,Amanda Serrano,0.010099999999999998,0.9756,0.9655
 2021-12-09 23:30:31.556071,BKFC Fight Night: Tampa - Jordan Nash vs Noah Cutter - To Win the Bout,Noah Cutter,-0.010099999999999998,0.3125,0.3226
-2021-12-09 21:30:47.794261,BKFC Fight Night: Tampa - Bobby Taylor vs Martin Brown - To Win the Bout,Bobby Taylor,-0.010099999999999998,0.3125,0.3226
+2021-12-10 02:30:32.780921,Boxing Lines - Amanda Serrano vs Miriam Gutierrez - To Win the Bout,Amanda Serrano,-0.010099999999999998,0.9655,0.9756
 2021-12-09 23:30:36.137063,Europa League - UEFA Europa League 2021/22 - Outright,Lyon,-0.0102,0.0667,0.0769
-2021-12-09 21:30:47.679196,Boxing Lines - Jake Paul vs Tyron Woodley - To Win the Bout,Tyron Woodley,-0.010699999999999987,0.3226,0.3333
+2021-12-10 10:30:42.164840,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,-0.0102,0.0667,0.0769
 2021-12-09 23:30:31.264996,Boxing Lines - Christian Mbilli vs Ronald Ellis - To Win the Bout,Christian Mbilli,-0.01090000000000002,0.8462,0.8571
 2021-12-10 07:30:29.237939,NFL Specials - Week 14 Specials - Total Points (Sunday Only),Over 540.5,-0.01100000000000001,0.5238,0.5348
 2021-12-09 23:30:36.137063,Europa League - UEFA Europa League 2021/22 - Outright,Bayer Leverkusen,-0.011199999999999995,0.0476,0.0588
 2021-12-10 09:30:35.013725,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Detroit Lions 2021/22 Total Wins,Over 1.5,-0.011499999999999955,0.6552,0.6667
-2021-12-09 21:30:47.220571,Boxing Lines - Dmitry Bivol vs Umar Salamov - To Win the Bout,Umar Salamov,-0.011700000000000002,0.0909,0.1026
-2021-12-09 21:30:47.405077,Boxing Lines - Nico Ali Walsh vs Reyes Sanchez - To Win the Bout,Reyes Sanchez,-0.011700000000000002,0.0909,0.1026
-2021-12-09 21:30:47.485364,Boxing Lines - Christian Mbilli vs Ronald Ellis - To Win the Bout,Ronald Ellis,-0.011700000000000016,0.2105,0.2222
 2021-12-10 09:30:34.929564,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Philadelphia Eagles 2021/22 Total Wins,Over 8.5,-0.012199999999999989,0.4878,0.5
 2021-12-10 08:30:43.425502,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Arizona Cardinals 2021/22 Total Wins,Over 13.5,-0.012199999999999989,0.4878,0.5
 2021-12-10 08:30:44.997184,Euroleague - Euroleague 2021/22 - Winner,Anadolu Efes,-0.012899999999999995,0.1538,0.1667
-2021-12-09 21:30:47.979862,BKFC Fight Night: Tampa - Peter Petties vs Robbie Peralta - To Win the Bout,Peter Petties,-0.013799999999999923,0.6226,0.6364
 2021-12-09 23:30:36.137063,Europa League - UEFA Europa League 2021/22 - Outright,West Ham United,-0.013999999999999999,0.0769,0.0909
-2021-12-09 21:30:47.359542,Boxing Lines - Keyshawn Davis vs Jose Zaragoza - To Win the Bout,Jose Zaragoza,-0.013999999999999999,0.0769,0.0909
 2021-12-09 23:30:31.077901,Boxing Lines - Dmitry Bivol vs Umar Salamov - To Win the Bout,Dmitry Bivol,-0.014100000000000001,0.9474,0.9615
 2021-12-09 23:30:31.250286,Boxing Lines - Xander Zayas vs Alessio Mastronunzio - To Win the Bout,Xander Zayas,-0.01429999999999998,0.9709,0.9852
-2021-12-09 21:30:47.464070,Boxing Lines - Xander Zayas vs Alessio Mastronunzio - To Win the Bout,Alessio Mastronunzio,-0.014399999999999996,0.0625,0.0769
+2021-12-10 10:30:43.719442,League One - England League One 2021/22 - To Finish Bottom,AFC Wimbledon,-0.0145,0.0099,0.0244
 2021-12-10 08:30:43.291108,NFL Futures - AFC North - Division Winner,Pittsburgh Steelers,-0.014899999999999997,0.0476,0.0625
 2021-12-10 09:30:34.913051,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Over 11.5,-0.01539999999999997,0.6,0.6154
-2021-12-09 21:30:47.838282,BKFC Fight Night: Tampa - Delaney Bailey vs Jenny Clausius - To Win the Bout,Jenny Clausius,-0.016000000000000014,0.3922,0.4082
 2021-12-10 09:30:35.046856,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Over 9.5,-0.016699999999999993,0.4,0.4167
 2021-12-09 23:30:31.539412,BKFC Fight Night: Tampa - Delaney Bailey vs Jenny Clausius - To Win the Bout,Delaney Bailey,-0.016900000000000026,0.6552,0.6721
-2021-12-09 21:30:47.816023,BKFC Fight Night: Tampa - David Mundell vs Stanislav Grosu - To Win the Bout,Stanislav Grosu,-0.01820000000000002,0.1818,0.2
 2021-12-10 01:30:38.205486,BKFC Fight Night: Tampa - Jordan Nash vs Noah Cutter - To Win the Bout,Noah Cutter,-0.018400000000000027,0.2941,0.3125
-2021-12-10 08:30:43.486039,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Baltimore Ravens 2021/22 Total Wins,Over 10.5,-0.01970000000000005,0.5455,0.5652
-2021-12-10 08:30:43.501257,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Carolina Panthers 2021/22 Total Wins,Under 6.5,-0.01970000000000005,0.5455,0.5652
 2021-12-10 09:30:34.992206,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Dallas Cowboys 2021/22 Total Wins,Under 11.5,-0.01970000000000005,0.5455,0.5652
+2021-12-10 08:30:43.501257,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Carolina Panthers 2021/22 Total Wins,Under 6.5,-0.01970000000000005,0.5455,0.5652
+2021-12-10 08:30:43.486039,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Baltimore Ravens 2021/22 Total Wins,Over 10.5,-0.01970000000000005,0.5455,0.5652
 2021-12-10 09:30:35.059803,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Under 3.5,-0.02169999999999994,0.5238,0.5455
 2021-12-09 23:30:31.605610,BKFC Fight Night: Tampa - Joshua Sikes vs Michael Stripling - To Win the Bout,Joshua Sikes,-0.022199999999999998,0.6552,0.6774
 2021-12-10 09:30:35.111006,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Over 9.5,-0.02260000000000001,0.3774,0.4
-2021-12-10 08:30:43.466075,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cincinnati Bengals 2021/22 Total Wins,Over 9.5,-0.023800000000000043,0.5,0.5238
 2021-12-10 09:30:35.085547,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Giants 2021/22 Total Wins,Under 5.5,-0.023800000000000043,0.5,0.5238
+2021-12-10 08:30:43.466075,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cincinnati Bengals 2021/22 Total Wins,Over 9.5,-0.023800000000000043,0.5,0.5238
+2021-12-10 10:30:43.182704,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Athletic Bilbao,-0.024999999999999994,0.1,0.125
+2021-12-10 10:30:43.719442,League One - England League One 2021/22 - To Finish Bottom,Cambridge United,-0.028000000000000004,0.0196,0.0476
+2021-12-10 10:30:39.302765,Boxing Lines - Alexey Egorov vs arsen goulamirian - To Win the Bout,Arsen Goulamirian,-0.02859999999999996,0.6078,0.6364
 2021-12-10 09:30:34.921470,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New Orleans Saints 2021/22 Total Wins,Under 7.5,-0.029000000000000026,0.4255,0.4545
 2021-12-10 09:30:34.763580,NFL Futures - AFC East - Division Winner,Buffalo Bills,-0.030299999999999994,0.3333,0.3636
 2021-12-10 09:30:34.904621,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Over 11.5,-0.030399999999999983,0.5348,0.5652
@@ -95,10 +88,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-10 09:30:34.937936,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tennessee Titans 2021/22 Total Wins,Under 11.5,-0.03090000000000004,0.5917,0.6226
 2021-12-09 23:30:31.036887,Boxing Lines - Kosei Tanaka vs Sho Ishida - To Win the Bout,Kosei Tanaka,-0.03410000000000002,0.875,0.9091
 2021-12-10 01:30:38.227253,BKFC Fight Night: Tampa - David Mundell vs Stanislav Grosu - To Win the Bout,Stanislav Grosu,-0.03670000000000001,0.1538,0.1905
-2021-12-09 21:30:48.116290,BKFC Fight Night: Tampa - Trukon Carson vs Rynell Riley - To Win the Bout,Rynell Riley,-0.03710000000000002,0.3333,0.3704
 2021-12-09 23:30:31.695368,BKFC Fight Night: Tampa - Trukon Carson vs Rynell Riley - To Win the Bout,Trukon Carson,-0.040999999999999925,0.6923,0.7333
 2021-12-10 08:30:43.452454,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Buffalo Bills 2021/22 Total Wins,Under 10.5,-0.04139999999999999,0.5238,0.5652
 2021-12-10 08:30:43.438941,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Under 6.5,-0.0484,0.4167,0.4651
+2021-12-10 10:30:43.719442,League One - England League One 2021/22 - To Finish Bottom,Fleetwood Town,-0.052300000000000006,0.0588,0.1111
 2021-12-10 01:30:38.194832,BKFC Fight Night: Tampa - Joshua Sanchez vs Bryan Cromer - To Win the Bout,Joshua Sanchez,-0.05740000000000001,0.5652,0.6226
 2021-12-10 09:30:34.981350,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Under 8.5,-0.05860000000000004,0.4762,0.5348
 2021-12-10 02:30:32.897609,BKFC Fight Night: Tampa - Joshua Sanchez vs Bryan Cromer - To Win the Bout,Bryan Cromer,-0.06140000000000001,0.4386,0.5
@@ -106,3 +99,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-10 09:30:35.123857,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tampa Bay Buccaneers 2021/22 Total Wins,Under 12.5,-0.06670000000000004,0.3333,0.4
 2021-12-09 23:30:31.572035,BKFC Fight Night: Tampa - Joshua Ridge vs Jerald Gregori - To Win the Bout,Jerald Gregori,-0.08970000000000003,0.1667,0.2564
 2021-12-09 23:30:31.655630,BKFC Fight Night: Tampa - Taylor Starling vs Hannah Guy - To Win the Bout,Hannah Guy,-0.10599999999999998,0.2273,0.3333
+2021-12-10 10:30:43.719442,League One - England League One 2021/22 - To Finish Bottom,Crewe Alexandra,-0.152,0.2326,0.3846
