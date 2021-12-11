@@ -21,8 +21,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-10 23:30:33.113669,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Bill Belichick,0.020699999999999996,0.4651,0.4444
 2021-12-10 23:30:35.735467,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Romelu Lukaku,0.0203,0.0588,0.0385
 2021-12-11 00:31:05.568059,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Borussia Mönchengladbach,0.02020000000000001,0.1111,0.0909
-2021-12-10 23:30:33.070014,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Trevon Diggs,0.01820000000000002,0.2,0.1818
 2021-12-11 00:31:05.911217,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Schalke 04,0.01820000000000002,0.2,0.1818
+2021-12-10 23:30:33.070014,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Trevon Diggs,0.01820000000000002,0.2,0.1818
 2021-12-11 00:31:05.911217,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Werder Bremen,0.01759999999999999,0.1176,0.1
 2021-12-10 23:30:33.207239,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Carolina Panthers,Yes,0.016700000000000007,0.1,0.0833
 2021-12-10 23:30:33.425883,NFL Season Props - NFL 2021/22 - To Make the Playoffs - New England Patriots,No,0.016600000000000004,0.0833,0.0667
@@ -30,8 +30,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-11 00:31:05.527882,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Kylian Mbappe,0.015400000000000025,0.4,0.3846
 2021-12-10 23:30:33.123269,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Carson Wentz,0.014399999999999996,0.0769,0.0625
 2021-12-10 23:30:33.368946,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Los Angeles Chargers,Yes,0.01319999999999999,0.75,0.7368
-2021-12-10 23:30:35.153334,A-League - Australia A-League 2021/2022 - Grand Final Winner,Newcastle United Jets,0.0131,0.0476,0.0345
 2021-12-10 23:30:33.113669,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Kliff Kingsbury,0.0131,0.2353,0.2222
+2021-12-10 23:30:35.153334,A-League - Australia A-League 2021/2022 - Grand Final Winner,Newcastle United Jets,0.0131,0.0476,0.0345
 2021-12-10 23:30:33.477265,NFL Season Props - NFL 2021/22 - To Make the Playoffs - New York Giants,No,0.012599999999999945,0.993,0.9804
 2021-12-10 23:30:33.304366,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Indianapolis Colts,Yes,0.012199999999999989,0.5122,0.5
 2021-12-11 01:30:40.335996,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Alvaro Morata,0.012100000000000001,0.0244,0.0123
@@ -48,18 +48,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-10 17:30:52.344188,Boxing Lines - Isaac Chamberlain vs Dilan Prasovic - To Win the Bout,Isaac Chamberlain,0.010199999999999987,0.9333,0.9231
 2021-12-10 17:30:52.892605,Boxing Lines - Artur Beterbiev vs Marcus Browne - To Win the Bout,Artur Beterbiev,0.010199999999999987,0.9333,0.9231
 2021-12-11 01:30:40.679720,Serie B - Italy Serie B 2021/22 - Outright,Perugia,0.010100000000000001,0.0345,0.0244
-2021-12-10 23:30:33.601211,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Washington Football Team,Yes,0.010099999999999998,0.4545,0.4444
-2021-12-10 23:30:32.973789,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Chargers 2021/22 Total Wins,Over 10.5,0.010099999999999998,0.4545,0.4444
 2021-12-10 23:30:33.397255,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Miami Dolphins,Yes,0.010099999999999998,0.1212,0.1111
 2021-12-10 23:30:34.928926,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lyon,0.010099999999999998,0.4545,0.4444
+2021-12-10 23:30:33.601211,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Washington Football Team,Yes,0.010099999999999998,0.4545,0.4444
+2021-12-10 23:30:32.973789,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Chargers 2021/22 Total Wins,Over 10.5,0.010099999999999998,0.4545,0.4444
 2021-12-10 23:30:33.102662,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Ja'Marr Chase,-0.010399999999999993,0.2222,0.2326
 2021-12-10 23:30:33.234604,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Cincinnati Bengals,No,-0.010699999999999932,0.5348,0.5455
 2021-12-10 23:30:33.078695,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Jayson Oweh,-0.010700000000000001,0.0278,0.0385
-2021-12-10 23:30:33.123269,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,James Conner,-0.010700000000000001,0.0278,0.0385
 2021-12-10 23:30:33.113669,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Sean McDermott,-0.010700000000000001,0.0278,0.0385
+2021-12-10 23:30:33.123269,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,James Conner,-0.010700000000000001,0.0278,0.0385
 2021-12-11 01:30:40.679720,Serie B - Italy Serie B 2021/22 - Outright,Benevento,-0.010899999999999993,0.1429,0.1538
 2021-12-11 03:30:40.628422,Boxing Lines - Kosei Tanaka vs Sho Ishida - To Win the Bout,Kosei Tanaka,-0.01090000000000002,0.8462,0.8571
-2021-12-10 16:30:44.912678,Boxing Lines - Conor Benn vs Chris Algieri - To Win the Bout,Conor Benn,-0.011099999999999999,0.8889,0.9
 2021-12-11 01:30:40.679720,Serie B - Italy Serie B 2021/22 - Outright,Monza,-0.011099999999999999,0.1,0.1111
 2021-12-10 23:30:35.735467,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Diogo Jota,-0.011199999999999995,0.0476,0.0588
 2021-12-10 23:30:33.078695,NFL Season Props - NFL 2021/22 - Awards - Defensive Rookie of the Year,Gregory Rousseau,-0.0118,0.0099,0.0217
@@ -69,8 +68,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-11 03:30:40.800580,Boxing Lines - Sunny Edwards vs Jayson Mama - To Win the Bout,Sunny Edwards,-0.0131,0.7647,0.7778
 2021-12-10 23:30:33.207239,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Carolina Panthers,No,-0.01330000000000009,0.9671,0.9804
 2021-12-10 23:30:33.113669,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Zac Taylor,-0.013999999999999999,0.0769,0.0909
-2021-12-11 00:31:05.911217,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,FC Nürnberg,-0.014099999999999994,0.0526,0.0667
 2021-12-11 01:30:40.679720,Serie B - Italy Serie B 2021/22 - Outright,Frosinone,-0.014099999999999994,0.0526,0.0667
+2021-12-11 00:31:05.911217,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,FC Nürnberg,-0.014099999999999994,0.0526,0.0667
 2021-12-10 23:30:33.070014,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Maxx Crosby,-0.0145,0.0099,0.0244
 2021-12-10 23:30:33.091208,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Deebo Samuel,-0.014899999999999997,0.0476,0.0625
 2021-12-10 23:30:33.368946,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Los Angeles Chargers,No,-0.015400000000000025,0.3125,0.3279
@@ -79,8 +78,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-11 01:30:40.335996,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Giovanni Simeone,-0.016700000000000007,0.0833,0.1
 2021-12-11 00:31:05.568059,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Mainz,-0.018099999999999998,0.0588,0.0769
 2021-12-11 01:30:40.335996,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Edin Dzeko,-0.018099999999999998,0.0588,0.0769
-2021-12-11 00:31:05.568059,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,FC Köln,-0.0189,0.0196,0.0385
 2021-12-10 23:30:33.091208,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,CeeDee Lamb,-0.0189,0.0196,0.0385
+2021-12-11 00:31:05.568059,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,FC Köln,-0.0189,0.0196,0.0385
 2021-12-10 23:30:34.918030,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Rennes,-0.019100000000000006,0.2309,0.25
 2021-12-10 23:30:33.091208,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Ezekiel Elliot,-0.019499999999999997,0.0099,0.0294
 2021-12-10 23:30:33.113669,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Mike Vrabel,-0.02020000000000001,0.0909,0.1111
