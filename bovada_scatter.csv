@@ -28,8 +28,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-13 14:30:52.951012,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Under 9.5,0.0805999999999999,0.6154,0.5348
 2021-12-13 14:30:53.074630,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tennessee Titans 2021/22 Total Wins,Over 11.5,0.07939999999999997,0.5556,0.4762
 2021-12-13 10:30:51.454972,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Atalanta,0.07929999999999993,0.8571,0.7778
-2021-12-13 10:30:50.896070,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Marseille,0.07789999999999997,0.3636,0.2857
 2021-12-13 10:30:51.010790,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Rennes,0.07789999999999997,0.3636,0.2857
+2021-12-13 10:30:50.896070,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Marseille,0.07789999999999997,0.3636,0.2857
 2021-12-13 14:30:53.207672,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Over 9.5,0.07619999999999999,0.4762,0.4
 2021-12-13 08:30:40.478355,NFL Futures - AFC South - Division Winner,Tennessee Titans,0.0756,0.9756,0.9
 2021-12-13 14:30:54.201919,NBA Season Props - 2021/22 NBA Regular Season Team Wins - MIN Timberwolves Regular Season Wins,Under 37.5,0.06970000000000004,0.5348,0.4651
@@ -46,7 +46,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-13 10:30:51.544903,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Elche,0.05070000000000002,0.4762,0.4255
 2021-12-13 10:30:51.010790,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lille,0.04620000000000002,0.2,0.1538
 2021-12-13 16:30:33.149696,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,England,0.044399999999999995,0.6,0.5556
-2021-12-13 06:30:44.165062,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Houston,0.04169999999999999,0.1667,0.125
 2021-12-13 14:30:53.225166,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Under 3.5,0.04139999999999999,0.5652,0.5238
 2021-12-13 08:30:40.397211,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,0.04099999999999998,0.3077,0.2667
 2021-12-13 10:30:53.200085,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Leicester City,0.03889999999999999,0.1818,0.1429
@@ -58,8 +57,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-13 14:30:53.270864,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Miami Dolphins 2021/22 Total Wins,Under 7.5,0.030299999999999994,0.4651,0.4348
 2021-12-13 08:30:40.372150,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Kansas City Chiefs,0.028799999999999992,0.1538,0.125
 2021-12-13 10:30:51.322788,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Eintracht Frankfurt,0.028199999999999996,0.0667,0.0385
-2021-12-13 08:30:40.372150,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tampa Bay Buccaneers,0.027999999999999997,0.1818,0.1538
 2021-12-13 08:30:40.397211,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Cleveland Browns,0.027999999999999997,0.0625,0.0345
+2021-12-13 08:30:40.372150,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tampa Bay Buccaneers,0.027999999999999997,0.1818,0.1538
 2021-12-13 10:30:51.322788,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Hoffenheim,0.02779999999999999,0.25,0.2222
 2021-12-13 16:30:33.139405,Champions League - UEFA Champions League 2021/2022 - Furthest Progressing EPL Team,Manchester City,0.025499999999999967,0.4255,0.4
 2021-12-13 16:30:33.092246,Champions League - UEFA Champions League 2021/2022 - Outright,Chelsea,0.024999999999999994,0.125,0.1
@@ -74,6 +73,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-13 15:38:49.715098,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Seattle Seahawks 2021/22 Total Wins,Over 7.5,0.02100000000000002,0.3846,0.3636
 2021-12-13 08:30:40.497257,NFL Futures - AFC West - Division Winner,Kansas City Chiefs,0.02080000000000004,0.6875,0.6667
 2021-12-13 14:30:53.060731,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tampa Bay Buccaneers 2021/22 Total Wins,Over 13.5,0.02079999999999993,0.5556,0.5348
+2021-12-13 19:32:44.954456,NBA Specials - When will Steph Curry break Ray Allen’s all-time record for Made 3 Point Shots? (7+3's needed) - Outright,Friday December 17th at Celtics,0.0206,0.0385,0.0179
 2021-12-13 08:30:40.397211,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Tennessee Titans,0.02020000000000001,0.1111,0.0909
 2021-12-13 10:30:53.200085,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,0.020199999999999996,0.9091,0.8889
 2021-12-13 16:30:33.108801,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Sebatien Haller,0.019000000000000017,0.2857,0.2667
@@ -87,7 +87,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-13 11:30:28.212573,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Patrick Mahomes,0.016700000000000007,0.1,0.0833
 2021-12-13 16:30:33.139405,Champions League - UEFA Champions League 2021/2022 - Furthest Progressing EPL Team,Chelsea,0.016699999999999993,0.2667,0.25
 2021-12-13 16:30:33.092246,Champions League - UEFA Champions League 2021/2022 - Outright,Manchester City,0.016699999999999993,0.2667,0.25
-2021-12-13 06:30:44.111043,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Houston,0.0157,0.0435,0.0278
 2021-12-13 16:30:33.124215,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Manchester City,0.015400000000000025,0.4,0.3846
 2021-12-13 11:30:28.102029,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Over 11.5,0.01539999999999997,0.6154,0.6
 2021-12-13 14:30:53.901843,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Philadelphia 76ers,0.015199999999999991,0.9524,0.9372
@@ -95,6 +94,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-13 10:30:50.896070,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lyon,0.015100000000000002,0.1818,0.1667
 2021-12-13 08:30:40.461029,NFL Futures - AFC North - Division Winner,Pittsburgh Steelers,0.014899999999999997,0.0625,0.0476
 2021-12-13 08:30:40.397211,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,New England Patriots,0.01469999999999999,0.25,0.2353
+2021-12-13 19:32:40.064021,College Basketball - Atlantic 10 Conference Winner - Outright,Saint Louis,0.014399999999999996,0.0769,0.0625
 2021-12-13 14:30:53.901843,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,San Antonio Spurs,0.014399999999999996,0.0769,0.0625
 2021-12-13 14:30:53.901843,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Chicago Bulls,0.014399999999999968,0.9375,0.9231
 2021-12-13 14:30:53.421269,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Nick Bosa,0.014099999999999998,0.0385,0.0244
@@ -107,31 +107,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-13 11:30:28.175072,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Minnesota Vikings 2021/22 Total Wins,Under 8.5,0.011499999999999955,0.6667,0.6552
 2021-12-13 16:30:33.124215,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Inter Milan,0.011199999999999995,0.0588,0.0476
 2021-12-13 10:30:53.222120,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Tottenham Hotspur,0.01090000000000002,0.8571,0.8462
+2021-12-13 19:32:38.847640,MLB - 2022 World Series - Outright,Tampa Bay Rays,0.0102,0.0769,0.0667
+2021-12-13 10:30:51.322788,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Wolfsburg,0.0102,0.0769,0.0667
 2021-12-13 16:30:33.149696,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,Any Other Nation,0.0102,0.0769,0.0667
 2021-12-13 10:30:51.322788,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Borussia Mönchengladbach,0.0102,0.0769,0.0667
 2021-12-13 15:38:50.033307,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Brandon Staley,0.0102,0.0769,0.0667
-2021-12-13 10:30:51.322788,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Wolfsburg,0.0102,0.0769,0.0667
+2021-12-13 19:32:38.847640,MLB - 2022 World Series - Outright,Houston Astros,-0.010099999999999998,0.0952,0.1053
 2021-12-13 09:31:17.697246,Boxing Lines - Artur Beterbiev vs Marcus Browne - To Win the Bout,Artur Beterbiev,-0.010199999999999987,0.9231,0.9333
-2021-12-13 10:30:51.544903,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Celta de Vigo,-0.0102,0.0667,0.0769
 2021-12-13 16:30:33.124215,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Atlético Madrid,-0.0102,0.0667,0.0769
+2021-12-13 10:30:51.544903,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Celta de Vigo,-0.0102,0.0667,0.0769
 2021-12-13 15:38:50.047333,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Carson Wentz,-0.0102,0.0667,0.0769
 2021-12-13 11:30:28.212573,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Cooper Kupp,-0.010300000000000002,0.0141,0.0244
-2021-12-13 11:30:28.189546,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Pittsburgh Steelers 2021/22 Total Wins,Over 7.5,-0.010599999999999998,0.4545,0.4651
 2021-12-13 11:30:28.102029,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Under 11.5,-0.010599999999999998,0.4545,0.4651
+2021-12-13 11:30:28.189546,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Pittsburgh Steelers 2021/22 Total Wins,Over 7.5,-0.010599999999999998,0.4545,0.4651
 2021-12-13 11:30:28.036075,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Rams 2021/22 Total Wins,Over 10.5,-0.010700000000000043,0.6667,0.6774
-2021-12-13 14:30:54.385865,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.010899999999999993,0.1429,0.1538
 2021-12-13 08:30:40.420079,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Los Angeles Rams,-0.010899999999999993,0.1429,0.1538
+2021-12-13 14:30:54.385865,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.010899999999999993,0.1429,0.1538
+2021-12-13 19:32:40.160302,College Basketball - Big 12 Conference Winner - Outright,Texas Tech,-0.011099999999999999,0.1,0.1111
 2021-12-13 16:30:30.529876,Boxing Lines - Jake Paul vs Tyron Woodley - To Win the Bout,Jake Paul,-0.011099999999999999,0.7222,0.7333
-2021-12-13 16:30:33.108801,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Cristiano Ronaldo,-0.011199999999999995,0.0476,0.0588
 2021-12-13 11:30:28.212573,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Jonathan Taylor,-0.011199999999999995,0.0476,0.0588
 2021-12-13 11:30:28.212573,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Matthew Stafford,-0.011199999999999995,0.0476,0.0588
-2021-12-13 16:30:33.108801,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Lionel Messi,-0.011199999999999995,0.0476,0.0588
 2021-12-13 10:30:50.950945,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Andy Delort,-0.011199999999999995,0.0476,0.0588
+2021-12-13 16:30:33.108801,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Lionel Messi,-0.011199999999999995,0.0476,0.0588
+2021-12-13 16:30:33.108801,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Cristiano Ronaldo,-0.011199999999999995,0.0476,0.0588
 2021-12-13 10:30:53.200085,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,-0.011499999999999955,0.6552,0.6667
 2021-12-13 14:30:52.916864,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Arizona Cardinals 2021/22 Total Wins,Over 13.5,-0.0116,0.4762,0.4878
 2021-12-13 10:30:53.141570,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Aston Villa,-0.011699999999999999,0.0079,0.0196
 2021-12-13 10:30:48.579573,Boxing Lines - Artur Beterbiev vs Marcus Browne - To Win the Bout,Marcus Browne,-0.0121,0.1212,0.1333
 2021-12-13 10:30:51.513296,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Athletic Bilbao,-0.012100000000000001,0.0123,0.0244
+2021-12-13 19:32:40.205777,College Basketball - Big East Conference  Winner - Outright,Georgetown,-0.012100000000000001,0.0123,0.0244
 2021-12-13 10:30:52.017187,Eredivisie - Eredivisie 2021/2022 - Outright,Feyenoord,-0.012899999999999995,0.1538,0.1667
 2021-12-13 10:30:51.283838,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Bochum,-0.012899999999999995,0.1538,0.1667
 2021-12-13 10:30:53.141570,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Leeds United,-0.0131,0.0345,0.0476
@@ -146,6 +150,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-13 10:30:51.283838,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,VfB Stuttgart,-0.0179,0.125,0.1429
 2021-12-13 10:30:51.454972,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AS Roma,-0.0179,0.125,0.1429
 2021-12-13 10:30:53.222120,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Chelsea,-0.018099999999999998,0.0588,0.0769
+2021-12-13 19:32:44.954456,NBA Specials - When will Steph Curry break Ray Allen’s all-time record for Made 3 Point Shots? (7+3's needed) - Outright,Tuesday December 14th at Knicks,-0.018100000000000005,0.5652,0.5833
 2021-12-13 10:30:52.077150,Premier League - Russia Premier League 2021/2022 - Outright,Zenit St. Petersburg,-0.018199999999999994,0.8,0.8182
 2021-12-13 10:30:53.200085,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Everton,-0.018200000000000004,0.0294,0.0476
 2021-12-13 10:30:53.200085,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Wolverhampton Wanderers,-0.019099999999999992,0.0476,0.0667
@@ -160,24 +165,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-13 14:30:53.060731,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Tampa Bay Buccaneers 2021/22 Total Wins,Under 13.5,-0.022600000000000064,0.5122,0.5348
 2021-12-13 10:30:51.544903,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Espanyol,-0.023200000000000002,0.0244,0.0476
 2021-12-13 15:38:49.715098,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Seattle Seahawks 2021/22 Total Wins,Under 7.5,-0.023399999999999976,0.6825,0.7059
-2021-12-13 14:30:53.255428,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Chargers 2021/22 Total Wins,Under 10.5,-0.023699999999999943,0.5917,0.6154
 2021-12-13 14:30:53.118064,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Under 7.5,-0.023699999999999943,0.5917,0.6154
-2021-12-13 10:30:50.950945,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Lionel Messi,-0.023799999999999988,0.1429,0.1667
+2021-12-13 14:30:53.255428,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Chargers 2021/22 Total Wins,Under 10.5,-0.023699999999999943,0.5917,0.6154
 2021-12-13 14:30:53.901843,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Potland Trail Blazers,-0.023799999999999988,0.4762,0.5
+2021-12-13 10:30:50.950945,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Lionel Messi,-0.023799999999999988,0.1429,0.1667
 2021-12-13 10:30:51.513296,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Atlético Madrid,-0.023800000000000043,0.5,0.5238
 2021-12-13 15:38:50.033307,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Zac Taylor,-0.024299999999999995,0.0526,0.0769
-2021-12-13 16:30:33.149696,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,Spain,-0.024999999999999994,0.1,0.125
 2021-12-13 10:30:50.896070,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Nice,-0.024999999999999994,0.1,0.125
+2021-12-13 16:30:33.149696,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,Spain,-0.024999999999999994,0.1,0.125
 2021-12-13 16:30:33.139405,Champions League - UEFA Champions League 2021/2022 - Furthest Progressing EPL Team,Liverpool,-0.02560000000000001,0.3077,0.3333
 2021-12-13 08:30:40.497257,NFL Futures - AFC West - Division Winner,Las Vegas Raiders,-0.0262,0.0123,0.0385
 2021-12-13 14:30:53.901843,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Atlanta Hawks,-0.027800000000000047,0.75,0.7778
+2021-12-13 19:32:40.250300,College Basketball - Big Ten Conference Winner - Outright,Illinois,-0.027999999999999997,0.1053,0.1333
 2021-12-13 10:30:51.283838,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Eintracht Frankfurt,-0.028199999999999996,0.0385,0.0667
 2021-12-13 15:38:50.047333,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Dak Prescott,-0.02839999999999998,0.9091,0.9375
 2021-12-13 11:30:28.212573,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Dak Prescott,-0.029299999999999993,0.0476,0.0769
 2021-12-13 14:30:53.270864,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Miami Dolphins 2021/22 Total Wins,Over 7.5,-0.02960000000000007,0.6,0.6296
 2021-12-13 10:30:50.896070,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Rennes,-0.030899999999999983,0.2,0.2309
-2021-12-13 16:30:33.092246,Champions League - UEFA Champions League 2021/2022 - Outright,Paris Saint-Germain,-0.034100000000000005,0.0909,0.125
 2021-12-13 10:30:51.513296,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Real Sociedad,-0.034100000000000005,0.0909,0.125
+2021-12-13 16:30:33.092246,Champions League - UEFA Champions League 2021/2022 - Outright,Paris Saint-Germain,-0.034100000000000005,0.0909,0.125
 2021-12-13 10:30:51.184926,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Bayer Leverkusen,-0.03420000000000001,0.0769,0.1111
 2021-12-13 14:30:54.126677,NBA Season Props - 2021/22 NBA Regular Season Team Wins - LA Clippers Regular Season Wins,Over 42.5,-0.03479999999999994,0.5652,0.6
 2021-12-13 14:30:53.421269,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,TJ Watt,-0.03570000000000001,0.25,0.2857
