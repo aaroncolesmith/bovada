@@ -11,8 +11,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-14 19:30:38.561591,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Arizona,0.05550000000000002,0.2222,0.1667
 2021-12-14 19:30:38.803286,NCAAF - 2021-2022 NCAA FCS Championship Winner - Outright,Montana State,0.052700000000000004,0.1053,0.0526
 2021-12-14 23:30:39.761341,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Bayern Munich/Liverpool,0.0524,0.1,0.0476
-2021-12-14 23:30:39.761341,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Bayern Munich/Chelsea,0.052399999999999995,0.0909,0.0385
 2021-12-14 23:30:39.761341,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Chelsea/Man City,0.052399999999999995,0.0909,0.0385
+2021-12-14 23:30:39.761341,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Bayern Munich/Chelsea,0.052399999999999995,0.0909,0.0385
 2021-12-14 19:30:38.695727,College Basketball - Big Ten Conference Winner - Outright,Illinois,0.037599999999999995,0.1429,0.1053
 2021-12-14 23:30:39.761341,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Chelsea/Liverpool,0.0373,0.0667,0.0294
 2021-12-14 19:30:38.803286,NCAAF - 2021-2022 NCAA FCS Championship Winner - Outright,James Madison,0.033300000000000024,0.2,0.1667
@@ -22,6 +22,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-14 23:30:39.761341,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Man City/Man Utd,0.0294,0.0588,0.0294
 2021-12-14 19:30:38.752981,College Basketball - Southeastern Conference Winner - Outright,Florida,0.02840000000000001,0.1053,0.0769
 2021-12-14 23:30:39.761341,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Bayern Munich/Real Madrid,0.0282,0.0526,0.0244
+2021-12-15 07:30:29.386327,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Nick Bosa,0.028000000000000004,0.0476,0.0196
 2021-12-14 19:30:40.479342,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,0.027999999999999914,0.8462,0.8182
 2021-12-14 19:30:38.629339,College Basketball - Atlantic Coast Conference  Winner - Outright,Louisville,0.027800000000000005,0.1111,0.0833
 2021-12-14 19:30:38.561591,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Kansas,0.02779999999999999,0.25,0.2222
@@ -36,21 +37,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-14 23:30:39.761341,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Bayern Munich/PSG,0.019099999999999992,0.0667,0.0476
 2021-12-14 19:30:38.803286,NCAAF - 2021-2022 NCAA FCS Championship Winner - Outright,North Dakota State,0.018900000000000028,0.4444,0.4255
 2021-12-15 02:30:41.923596,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Vitesse,0.0189,0.0385,0.0196
-2021-12-14 19:30:38.629339,College Basketball - Atlantic Coast Conference  Winner - Outright,Wake Forest,0.0189,0.0385,0.0196
 2021-12-14 23:30:39.761341,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Liverpool/Man Utd,0.0189,0.0385,0.0196
-2021-12-14 23:30:40.693560,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Aston Villa,0.018099999999999998,0.0769,0.0588
+2021-12-14 19:30:38.629339,College Basketball - Atlantic Coast Conference  Winner - Outright,Wake Forest,0.0189,0.0385,0.0196
 2021-12-14 23:30:39.761341,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Liverpool/PSG,0.018099999999999998,0.0526,0.0345
+2021-12-14 23:30:40.693560,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Aston Villa,0.018099999999999998,0.0769,0.0588
 2021-12-14 19:30:40.688532,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.017600000000000005,0.274,0.2564
 2021-12-14 23:30:40.693560,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Arsenal,0.016699999999999937,0.6,0.5833
 2021-12-14 22:30:34.167125,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Newcastle United,0.016699999999999937,0.6,0.5833
 2021-12-14 19:30:38.534084,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Arizona,0.015300000000000001,0.0588,0.0435
-2021-12-15 03:30:29.400641,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Kevin Durant,0.015100000000000002,0.1818,0.1667
 2021-12-14 19:30:38.561591,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Alabama,0.015100000000000002,0.1818,0.1667
+2021-12-15 03:30:29.400641,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Kevin Durant,0.015100000000000002,0.1818,0.1667
 2021-12-14 23:30:39.761341,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Chelsea/Man Utd,0.014900000000000004,0.0345,0.0196
 2021-12-14 23:30:39.761341,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Chelsea/PSG,0.014099999999999998,0.0435,0.0294
 2021-12-14 23:30:40.693560,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,0.014000000000000012,0.9231,0.9091
-2021-12-14 19:30:40.551802,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.013999999999999999,0.0909,0.0769
+2021-12-15 07:30:29.386327,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Dak Prescott,0.014000000000000012,0.9231,0.9091
 2021-12-14 20:30:36.775289,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Auburn,0.013999999999999999,0.0909,0.0769
+2021-12-14 19:30:40.551802,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.013999999999999999,0.0909,0.0769
 2021-12-14 19:30:40.501099,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,0.0131,0.0476,0.0345
 2021-12-15 02:30:41.923596,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Tottenham,0.011099999999999999,0.1111,0.1
 2021-12-14 19:30:40.602346,NBA Futures - 2022 NBA Southeast Division - Division Winner,Charlotte Hornets,0.011099999999999999,0.1111,0.1
@@ -58,9 +60,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-14 19:30:40.602346,NBA Futures - 2022 NBA Southeast Division - Division Winner,Miami Heat,0.010700000000000043,0.6774,0.6667
 2021-12-14 19:30:38.534084,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Ohio State,0.010700000000000001,0.0385,0.0278
 2021-12-15 01:30:30.040409,NCAAF - 2021-2022 NCAA FCS Championship Winner - Outright,James Madison,0.010499999999999982,0.2105,0.2
-2021-12-14 19:30:40.688532,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,0.0102,0.0769,0.0667
-2021-12-14 19:30:38.534084,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Baylor,0.0102,0.0769,0.0667
 2021-12-14 19:30:38.534084,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Kansas,0.0102,0.0769,0.0667
+2021-12-14 19:30:38.534084,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Baylor,0.0102,0.0769,0.0667
+2021-12-14 19:30:40.688532,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,0.0102,0.0769,0.0667
 2021-12-14 22:30:30.459128,Boxing Lines - Artur Beterbiev vs Marcus Browne - To Win the Bout,Artur Beterbiev,0.010199999999999987,0.9333,0.9231
 2021-12-14 23:30:39.761341,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Chelsea/Real Madrid,0.010100000000000001,0.0345,0.0244
 2021-12-15 01:30:30.040409,NCAAF - 2021-2022 NCAA FCS Championship Winner - Outright,North Dakota State,0.010099999999999998,0.4545,0.4444
@@ -71,16 +73,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-14 19:30:38.534084,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Florida State,-0.010600000000000002,0.0217,0.0323
 2021-12-14 22:30:30.503546,Boxing Lines - Joseph Parker vs Dereck Chisora - To Win the Bout,Dereck Chisora,-0.010699999999999987,0.3226,0.3333
 2021-12-14 19:30:38.725817,College Basketball - Mountain West Conference  Winner - Outright,Fresno State,-0.011199999999999995,0.0476,0.0588
-2021-12-14 20:30:36.775289,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Georgia Tech,-0.011199999999999995,0.0476,0.0588
 2021-12-14 19:30:38.725817,College Basketball - Mountain West Conference  Winner - Outright,UNLV,-0.011199999999999995,0.0323,0.0435
+2021-12-14 20:30:36.775289,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Georgia Tech,-0.011199999999999995,0.0476,0.0588
 2021-12-15 02:30:41.923596,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Maccabi Tel Aviv,-0.012100000000000001,0.0123,0.0244
 2021-12-14 19:30:38.534084,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Oregon,-0.012100000000000001,0.0123,0.0244
 2021-12-14 19:30:38.629339,College Basketball - Atlantic Coast Conference  Winner - Outright,Clemson,-0.012700000000000003,0.0196,0.0323
 2021-12-14 19:30:38.677541,College Basketball - Big East Conference  Winner - Outright,Seton Hall,-0.012899999999999995,0.1538,0.1667
 2021-12-14 22:30:34.167125,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Southampton,-0.013899999999999996,0.1111,0.125
 2021-12-14 23:30:39.529616,Germany Bundesliga - German Bundesliga 2021/22 - Outright,Borussia Dortmund,-0.013999999999999999,0.0769,0.0909
-2021-12-14 22:30:34.167125,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Crystal Palace,-0.013999999999999999,0.0769,0.0909
 2021-12-14 22:30:30.419884,Survivor - Survivor 41 Outright Winner - Outright,Heather Aldret,-0.013999999999999999,0.0769,0.0909
+2021-12-14 22:30:34.167125,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Crystal Palace,-0.013999999999999999,0.0769,0.0909
 2021-12-14 19:30:38.534084,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Villanova,-0.014099999999999994,0.0526,0.0667
 2021-12-14 19:30:40.454251,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,-0.014600000000000002,0.2632,0.2778
 2021-12-15 01:30:29.682814,Boxing Lines - Frank Gore vs Deron Williams - To Win the Bout,Deron Williams,-0.014800000000000035,0.6078,0.6226
@@ -93,6 +95,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-14 19:30:40.622891,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.018100000000000005,0.5652,0.5833
 2021-12-14 19:30:40.688532,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,-0.01820000000000002,0.1818,0.2
 2021-12-14 23:30:40.693560,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,-0.01880000000000004,0.6364,0.6552
+2021-12-15 07:30:29.386327,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,James Conner,-0.0189,0.0196,0.0385
 2021-12-14 19:30:40.602346,NBA Futures - 2022 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.019000000000000017,0.2667,0.2857
 2021-12-14 19:30:38.534084,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Memphis,-0.019099999999999995,0.0244,0.0435
 2021-12-14 19:30:38.725817,College Basketball - Mountain West Conference  Winner - Outright,Boise State,-0.019699999999999995,0.1053,0.125
@@ -101,15 +104,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-14 22:30:34.167125,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Brentford,-0.02020000000000001,0.0909,0.1111
 2021-12-14 22:30:34.167125,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,-0.02169999999999994,0.5238,0.5455
 2021-12-14 19:30:40.688532,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,-0.022199999999999998,0.2,0.2222
-2021-12-14 19:30:38.561591,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Villanova,-0.022199999999999998,0.2,0.2222
 2021-12-14 19:30:40.479342,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,-0.022199999999999998,0.2,0.2222
+2021-12-14 19:30:38.561591,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Villanova,-0.022199999999999998,0.2,0.2222
+2021-12-15 07:30:29.386327,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Derwin James,-0.0236,0.0149,0.0385
 2021-12-14 22:30:34.155620,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Chelsea,-0.023799999999999988,0.1429,0.1667
 2021-12-14 19:30:38.561591,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Ohio State,-0.023800000000000016,0.1667,0.1905
-2021-12-14 20:30:36.775289,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Colorado,-0.024800000000000003,0.0278,0.0526
 2021-12-14 19:30:38.695727,College Basketball - Big Ten Conference Winner - Outright,Maryland,-0.024800000000000003,0.0278,0.0526
+2021-12-14 20:30:36.775289,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Colorado,-0.024800000000000003,0.0278,0.0526
 2021-12-14 19:30:38.561591,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Michigan,-0.031700000000000006,0.1905,0.2222
-2021-12-14 19:30:38.725817,College Basketball - Mountain West Conference  Winner - Outright,Nevada,-0.034100000000000005,0.0909,0.125
 2021-12-14 19:30:38.629339,College Basketball - Atlantic Coast Conference  Winner - Outright,Florida State,-0.034100000000000005,0.0909,0.125
+2021-12-14 19:30:38.725817,College Basketball - Mountain West Conference  Winner - Outright,Nevada,-0.034100000000000005,0.0909,0.125
 2021-12-14 19:30:38.752981,College Basketball - Southeastern Conference Winner - Outright,Auburn,-0.04240000000000001,0.0909,0.1333
 2021-12-14 22:30:30.419884,Survivor - Survivor 41 Outright Winner - Outright,Xander Hastings,-0.05299999999999999,0.25,0.303
 2021-12-14 22:30:30.419884,Survivor - Survivor 41 Outright Winner - Outright,Deshawn Radden,-0.0889,0.1333,0.2222
