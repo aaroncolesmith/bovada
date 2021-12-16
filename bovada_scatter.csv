@@ -16,14 +16,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-16 06:30:51.728414,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,0.02560000000000001,0.3333,0.3077
 2021-12-16 09:30:54.827283,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Newcastle United,0.023799999999999988,0.5,0.4762
 2021-12-16 06:30:54.456809,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,0.022199999999999998,0.2222,0.2
+2021-12-16 11:30:48.150632,Boxing Lines - Jose Valenzuela vs Austin Dulay - To Win the Bout,Jose Valenzuela,0.022199999999999998,0.8,0.7778
 2021-12-16 09:30:54.668942,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Wolverhampton Wanderers,0.0203,0.0588,0.0385
 2021-12-16 09:30:54.813639,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Leicester City,0.018999999999999906,0.7333,0.7143
+2021-12-16 11:30:47.844765,Boxing Lines - Lewis Ritson vs Christian Uruzquieta - To Win the Bout,Christian Uruzquieta,0.017299999999999982,0.303,0.2857
 2021-12-16 06:30:51.728414,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,New England Patriots,0.016699999999999993,0.2667,0.25
 2021-12-16 08:31:07.758516,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Hoffenheim,0.016699999999999993,0.2667,0.25
 2021-12-16 09:30:54.756225,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Norwich City,0.016100000000000003,0.6078,0.5917
 2021-12-16 09:30:45.434323,Boxing Lines - Liam Paro vs Yomar Alamo - To Win the Bout,Liam Paro,0.014800000000000035,0.6226,0.6078
+2021-12-16 11:30:47.654940,Boxing Lines - David Nyika vs Anthony Carpin - To Win the Bout,David Nyika,0.01429999999999998,0.9852,0.9709
+2021-12-16 11:30:47.684674,Boxing Lines - Jordan Thompson vs Clement Oppenot - To Win the Bout,Jordan Thompson,0.01429999999999998,0.9852,0.9709
+2021-12-16 11:30:48.249298,Boxing Lines - Seniesa Estrada vs Maria Micheo Santizo - To Win the Bout,Seniesa Estrada,0.014100000000000001,0.9756,0.9615
 2021-12-16 09:30:45.286709,Boxing Lines - Osvary David Morrell vs Alantez Fox - To Win the Bout,Osvary David Morrell,0.014100000000000001,0.9756,0.9615
+2021-12-16 11:30:48.114311,Boxing Lines - Gilberto Ramirez vs Yunieski Gonzalez - To Win the Bout,Gilberto Ramirez,0.014100000000000001,0.9756,0.9615
 2021-12-16 09:30:54.799189,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Aston Villa,0.013999999999999999,0.0909,0.0769
+2021-12-16 11:30:47.539863,Boxing Lines - Shakhram Giyasov vs Cristian Rafael Coria - To Win the Bout,Shakhram Giyasov,0.013800000000000034,0.999,0.9852
 2021-12-16 09:30:44.262890,Boxing Lines - Israil Madrimov vs Michel Soro - To Win the Bout,Michel Soro,0.0131,0.303,0.2899
 2021-12-16 06:30:54.403968,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Manchester City,0.011499999999999955,0.6667,0.6552
 2021-12-16 09:30:54.668942,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Aston Villa,0.011199999999999995,0.0588,0.0476
@@ -34,23 +41,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-16 03:30:29.549667,Boxing Lines - Carlos Gongora vs Lerrone Richards - To Win the Bout,Lerrone Richards,0.011099999999999999,0.4762,0.4651
 2021-12-16 08:31:07.712148,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,VfB Stuttgart,0.010899999999999993,0.1538,0.1429
 2021-12-16 08:31:07.758516,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Eintracht Frankfurt,0.0102,0.0769,0.0667
+2021-12-16 11:30:47.591263,Boxing Lines - Marie Eve Dicaire vs Cynthia Lozano - To Win the Bout,Marie Eve Dicaire,0.010099999999999998,0.9756,0.9655
 2021-12-16 06:30:51.125762,Boxing Lines - Liam Paro vs Yomar Alamo - To Win the Bout,Yomar Alamo,-0.010099999999999998,0.4444,0.4545
 2021-12-16 09:30:54.756225,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Burnley,-0.010899999999999993,0.1429,0.1538
 2021-12-16 08:30:58.014158,Boxing Lines - Jake Paul vs Tyron Woodley - To Win the Bout,Jake Paul,-0.011099999999999999,0.7222,0.7333
-2021-12-16 08:31:07.712148,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,FC Köln,-0.011199999999999995,0.0476,0.0588
 2021-12-16 08:31:07.758516,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Wolfsburg,-0.011199999999999995,0.0476,0.0588
+2021-12-16 08:31:07.712148,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,FC Köln,-0.011199999999999995,0.0476,0.0588
 2021-12-16 09:30:44.262890,Boxing Lines - Israil Madrimov vs Michel Soro - To Win the Bout,Israil Madrimov,-0.0131,0.7647,0.7778
+2021-12-16 11:30:47.844765,Boxing Lines - Lewis Ritson vs Christian Uruzquieta - To Win the Bout,Lewis Ritson,-0.0131,0.7647,0.7778
 2021-12-16 03:30:32.500882,NBA Specials - Where will Ben Simmons play after the 2022 NBA Trade Deadline? - Outright,Indiana Pacers,-0.013999999999999999,0.0769,0.0909
 2021-12-16 03:30:32.598581,NBA Specials - Where will John Wall play after the 2022 NBA Trade Deadline? - Outright,Cleveland Cavaliers,-0.013999999999999999,0.0769,0.0909
 2021-12-16 03:30:29.743739,Boxing Lines - Amanda Serrano vs Miriam Gutierrez - To Win the Bout,Miriam Gutierrez,-0.013999999999999999,0.0769,0.0909
 2021-12-16 09:30:54.799189,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,-0.014000000000000012,0.9091,0.9231
 2021-12-16 03:30:32.598581,NBA Specials - Where will John Wall play after the 2022 NBA Trade Deadline? - Outright,Miami Heat,-0.014099999999999994,0.0526,0.0667
+2021-12-16 11:30:47.654940,Boxing Lines - David Nyika vs Anthony Carpin - To Win the Bout,Anthony Carpin,-0.014399999999999996,0.0625,0.0769
+2021-12-16 11:30:47.684674,Boxing Lines - Jordan Thompson vs Clement Oppenot - To Win the Bout,Clement Oppenot,-0.014399999999999996,0.0625,0.0769
 2021-12-16 09:30:44.424983,Boxing Lines - Shakhram Giyasov vs Cristian Rafael Coria - To Win the Bout,Cristian Rafael Coria,-0.014399999999999996,0.0625,0.0769
 2021-12-16 09:30:44.500653,Boxing Lines - Marie Eve Dicaire vs Cynthia Lozano - To Win the Bout,Cynthia Lozano,-0.016700000000000007,0.0833,0.1
 2021-12-16 09:30:54.668942,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,West Ham United,-0.016700000000000048,0.7333,0.75
 2021-12-16 08:31:07.646836,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Bayer Leverkusen,-0.018099999999999998,0.0588,0.0769
 2021-12-16 08:31:07.646836,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,RB Leipzig,-0.019099999999999992,0.0476,0.0667
 2021-12-16 03:30:32.598581,NBA Specials - Where will John Wall play after the 2022 NBA Trade Deadline? - Outright,Los Angeles Clippers,-0.02020000000000001,0.0909,0.1111
+2021-12-16 11:30:48.096173,Boxing Lines - Anthony Sims Jr vs Manny Woods - To Win the Bout,Manny Woods,-0.0208,0.0625,0.0833
 2021-12-16 09:30:54.813639,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Brentford,-0.022199999999999998,0.2,0.2222
 2021-12-16 09:30:54.813639,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,West Ham United,-0.023499999999999965,0.9474,0.9709
 2021-12-16 09:30:54.827283,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Leeds United,-0.023799999999999932,0.8333,0.8571
@@ -68,5 +80,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-16 08:31:05.640780,NBA Specials - Will Zion Williamson Play a Game during the 2021-2022 Regular Season? - Outright,Yes,-0.04760000000000009,0.6667,0.7143
 2021-12-16 06:30:54.470741,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,West Ham United,-0.05080000000000001,0.1818,0.2326
 2021-12-16 09:30:54.756225,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Newcastle United,-0.05550000000000002,0.1667,0.2222
-2021-12-16 09:30:54.768903,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Chelsea,-0.05559999999999998,0.5,0.5556
 2021-12-16 09:30:54.813639,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Brighton & Hove Albion,-0.05559999999999998,0.4444,0.5
+2021-12-16 09:30:54.768903,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Chelsea,-0.05559999999999998,0.5,0.5556
