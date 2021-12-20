@@ -1,4 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2021-12-20 08:30:36.102587,NFL Futures - NFC West - Division Winner,Los Angeles Rams,0.19039999999999999,0.3571,0.1667
+2021-12-20 08:30:36.147126,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Aaron Rodgers,0.1666,0.3333,0.1667
 2021-12-20 07:30:37.716738,NFL Futures - AFC South - Division Winner,Indianapolis Colts,0.1049,0.1818,0.0769
 2021-12-19 20:30:44.019825,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Manchester City,0.10070000000000001,0.7674,0.6667
 2021-12-20 07:30:37.706131,NFL Futures - AFC North - Division Winner,Cincinnati Bengals,0.0847,0.3704,0.2857
@@ -16,9 +18,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-19 20:30:44.085783,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,0.029899999999999982,0.3077,0.2778
 2021-12-20 06:30:36.637521,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Monty Williams (PHO),0.02779999999999999,0.25,0.2222
 2021-12-20 06:30:36.637521,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Steve Kerr (GSW),0.02779999999999999,0.25,0.2222
+2021-12-20 08:30:36.102587,NFL Futures - NFC West - Division Winner,San Francisco 49ers,0.022099999999999998,0.0385,0.0164
 2021-12-19 20:30:44.107158,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Liverpool,0.02200000000000002,0.7143,0.6923
+2021-12-20 08:30:36.147126,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Patrick Mahomes,0.02020000000000001,0.1111,0.0909
+2021-12-20 08:30:37.335350,NBL - NBL 2021/22 - Outright,Sydney Kings,0.015100000000000002,0.1818,0.1667
 2021-12-20 07:30:37.647515,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Cincinnati Bengals,0.014899999999999997,0.0625,0.0476
 2021-12-19 23:30:31.794632,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Sevilla,0.013899999999999996,0.125,0.1111
+2021-12-20 08:30:37.335350,NBL - NBL 2021/22 - Outright,Perth Wildcats,0.0131,0.2353,0.2222
+2021-12-20 08:30:37.335350,NBL - NBL 2021/22 - Outright,Melbourne United,0.012899999999999995,0.1667,0.1538
 2021-12-19 22:30:42.347283,LNB Pro A - LNB Pro A 2021/22 - Outright,Levallois,0.012899999999999995,0.1667,0.1538
 2021-12-20 07:30:37.683994,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,San Francisco 49ers,0.012600000000000007,0.0714,0.0588
 2021-12-19 23:30:30.789256,NBL - NBL 2021/22 - Outright,Perth Wildcats,0.011700000000000016,0.2222,0.2105
@@ -36,6 +43,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-20 06:30:37.719168,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Arizona Cardinals,-0.01949999999999999,0.0714,0.0909
 2021-12-20 07:30:37.706131,NFL Futures - AFC North - Division Winner,Baltimore Ravens,-0.019500000000000017,0.3509,0.3704
 2021-12-19 22:30:42.522488,LKL - LKL 2021/22 - Outright,Zalgiris,-0.020199999999999996,0.8889,0.9091
+2021-12-20 08:30:36.147126,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Justin Herbert,-0.0203,0.0385,0.0588
 2021-12-19 20:30:44.032215,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without Man City,Chelsea,-0.02100000000000002,0.3636,0.3846
 2021-12-19 20:30:44.069949,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Romelu Lukaku,-0.023200000000000002,0.0244,0.0476
 2021-12-20 07:30:37.727637,NFL Futures - AFC West - Division Winner,Denver Broncos,-0.024399999999999998,0.005,0.0294
@@ -45,6 +53,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-19 23:30:31.794632,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Real Madrid,-0.03410000000000002,0.875,0.9091
 2021-12-19 20:30:44.019825,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Chelsea,-0.03420000000000001,0.0769,0.1111
 2021-12-20 07:30:37.695327,NFL Futures - AFC East - Division Winner,New England Patriots,-0.034499999999999975,0.6429,0.6774
+2021-12-20 08:30:36.147126,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Kyler Murray,-0.035699999999999996,0.0476,0.0833
 2021-12-19 20:30:44.085783,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Watford,-0.037800000000000056,0.5455,0.5833
 2021-12-20 06:30:37.719168,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tampa Bay Buccaneers,-0.03889999999999999,0.1429,0.1818
 2021-12-19 23:30:30.789256,NBL - NBL 2021/22 - Outright,Sydney Kings,-0.05550000000000002,0.1667,0.2222
@@ -53,3 +62,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-20 07:30:37.727637,NFL Futures - AFC West - Division Winner,Los Angeles Chargers,-0.07649999999999998,0.1053,0.1818
 2021-12-20 07:30:37.716738,NFL Futures - AFC South - Division Winner,Tennessee Titans,-0.09309999999999996,0.875,0.9681
 2021-12-20 07:30:37.706131,NFL Futures - AFC North - Division Winner,Cleveland Browns,-0.09689999999999999,0.2667,0.3636
+2021-12-20 08:30:36.147126,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Tom Brady,-0.13639999999999997,0.5,0.6364
+2021-12-20 08:30:36.102587,NFL Futures - NFC West - Division Winner,Arizona Cardinals,-0.16809999999999992,0.7143,0.8824
