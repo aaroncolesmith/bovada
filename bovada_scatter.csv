@@ -5,7 +5,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-20 15:30:40.274561,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Darmstadt,0.023799999999999988,0.1667,0.1429
 2021-12-21 01:30:36.620949,Boxing Lines - Linn Sandstrom vs Natalie Hills - To Win the Bout,Linn Sandstrom,0.022600000000000064,0.5348,0.5122
 2021-12-20 16:30:39.980373,Boxing Lines - Linn Sandstrom vs Natalie Hills - To Win the Bout,Natalie Hills,0.022600000000000064,0.5348,0.5122
-2021-12-20 15:30:37.386775,Boxing Lines - Linn Sandstrom vs Natalie Hills - To Win the Bout,Natalie Hills,0.021999999999999964,0.5122,0.4902
 2021-12-20 19:30:41.510036,Boxing Lines - Linn Sandstrom vs Natalie Hills - To Win the Bout,Natalie Hills,0.02079999999999993,0.5556,0.5348
 2021-12-21 02:30:39.339588,Boxing Lines - Linn Sandstrom vs Natalie Hills - To Win the Bout,Natalie Hills,0.02079999999999993,0.5556,0.5348
 2021-12-21 01:30:41.242294,Serie B - Italy Serie B 2021/22 - Outright,Lecce,0.019000000000000017,0.2857,0.2667
@@ -21,9 +20,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-21 01:30:41.104054,England Championship - England Championship 21/22 - To Be Promoted,Queens Park Rangers,-0.015100000000000002,0.1667,0.1818
 2021-12-21 01:30:41.104054,England Championship - England Championship 21/22 - To Be Promoted,Stoke City,-0.015100000000000002,0.1667,0.1818
 2021-12-21 01:30:41.242294,Serie B - Italy Serie B 2021/22 - Outright,Monza,-0.0179,0.125,0.1429
-2021-12-20 15:30:37.386775,Boxing Lines - Linn Sandstrom vs Natalie Hills - To Win the Bout,Linn Sandstrom,-0.01880000000000004,0.5556,0.5744
-2021-12-21 01:30:36.620949,Boxing Lines - Linn Sandstrom vs Natalie Hills - To Win the Bout,Natalie Hills,-0.02079999999999993,0.5348,0.5556
 2021-12-20 16:30:39.980373,Boxing Lines - Linn Sandstrom vs Natalie Hills - To Win the Bout,Linn Sandstrom,-0.02079999999999993,0.5348,0.5556
+2021-12-21 01:30:36.620949,Boxing Lines - Linn Sandstrom vs Natalie Hills - To Win the Bout,Natalie Hills,-0.02079999999999993,0.5348,0.5556
 2021-12-21 02:30:39.339588,Boxing Lines - Linn Sandstrom vs Natalie Hills - To Win the Bout,Linn Sandstrom,-0.022600000000000064,0.5122,0.5348
 2021-12-20 19:30:41.510036,Boxing Lines - Linn Sandstrom vs Natalie Hills - To Win the Bout,Linn Sandstrom,-0.022600000000000064,0.5122,0.5348
 2021-12-21 01:30:41.089826,England Championship - England Championship 21/22 - Outright,Fulham,-0.025600000000000067,0.6667,0.6923
