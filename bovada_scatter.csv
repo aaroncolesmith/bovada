@@ -4,7 +4,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-21 18:30:52.020859,NBA Specials - NBA 2021 Christmas Day Specials - NBA 2021 Christmas - Team with least Points,Hawks,0.16670000000000001,0.5,0.3333
 2021-12-21 18:30:51.923339,NBA Specials - NBA 2021 Christmas Day Specials - NBA 2021 Christmas - Game with least Points,Mavericks @ Jazz,0.1071,0.25,0.1429
 2021-12-22 01:30:39.750510,NBA Specials - NBA 2021 Christmas Day Specials - NBA 2021 Christmas - Team with least Points,Knicks,0.09740000000000004,0.6429,0.5455
-2021-12-21 15:30:49.414444,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Jonathan Taylor,0.07940000000000003,0.5238,0.4444
 2021-12-22 00:30:36.197651,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Sociedad,0.057699999999999974,0.3077,0.25
 2021-12-22 00:30:36.197651,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Sevilla,0.052000000000000046,0.9091,0.8571
 2021-12-22 00:30:36.197651,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Betis,0.05130000000000001,0.3846,0.3333
@@ -17,6 +16,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-21 18:30:47.214852,College Basketball - Atlantic 10 Conference Winner - Outright,Davidson,0.03420000000000001,0.1111,0.0769
 2021-12-22 00:30:36.197651,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,0.033299999999999996,0.8333,0.8
 2021-12-22 00:30:36.185142,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Getafe,0.031799999999999995,0.4762,0.4444
+2021-12-22 03:31:04.729953,Boxing Lines - Linn Sandstrom vs Natalie Hills - To Win the Bout,Linn Sandstrom,0.03179999999999994,0.5556,0.5238
 2021-12-22 00:30:36.185142,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Cádiz,0.031400000000000095,0.7647,0.7333
 2021-12-21 18:30:47.259526,College Basketball - Big 12 Conference Winner - Outright,Baylor,0.030299999999999994,0.3636,0.3333
 2021-12-21 21:30:46.890718,NBA Specials - NBA 2021 Christmas Day Specials - NBA 2021 Christmas - Game with least Points,Warriors @ Suns,0.02779999999999999,0.25,0.2222
@@ -30,14 +30,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-22 00:30:36.185142,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Alavés,0.02079999999999993,0.5556,0.5348
 2021-12-22 00:30:33.178489,Boxing Lines - Gallen Paul vs Darcy Lussick - To Win the Bout,Darcy Lussick,0.01999999999999999,0.2105,0.1905
 2021-12-22 00:30:36.088618,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Napoli,0.018199999999999994,0.8182,0.8
-2021-12-21 15:30:48.441547,NFL Season Props - NFL 2021/22 - Specials - Proposition,Any Player to Break the Regular Season Rushing Yards Record of 2105 Yards,0.018099999999999998,0.0769,0.0588
 2021-12-22 00:30:33.920086,NFL Specials - Will any NFL Week 16 Game Be Postponed - Outright,Yes,0.016000000000000014,0.4082,0.3922
 2021-12-21 18:30:47.570226,College Basketball - PAC 12 Conference  Winner - Outright,Arizona,0.016000000000000014,0.4082,0.3922
 2021-12-21 18:30:51.923339,NBA Specials - NBA 2021 Christmas Day Specials - NBA 2021 Christmas - Game with least Points,Hawks @ Knicks,0.015400000000000025,0.4,0.3846
 2021-12-22 00:30:36.619452,England EFL Cup - EFL Cup 2021/22 - Outright,Arsenal,0.015100000000000002,0.2151,0.2
-2021-12-21 18:30:47.214852,College Basketball - Atlantic 10 Conference Winner - Outright,Saint Louis,0.013999999999999999,0.0909,0.0769
-2021-12-22 00:30:36.159380,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Real Betis,0.013999999999999999,0.0909,0.0769
 2021-12-21 21:30:46.923877,NBA Specials - NBA 2021 Christmas Day Specials - NBA 2021 Christmas - Most Assists,LeBron James,0.013999999999999999,0.0909,0.0769
+2021-12-22 00:30:36.159380,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Real Betis,0.013999999999999999,0.0909,0.0769
+2021-12-21 18:30:47.214852,College Basketball - Atlantic 10 Conference Winner - Outright,Saint Louis,0.013999999999999999,0.0909,0.0769
 2021-12-22 00:30:36.424196,Eredivisie - Eredivisie 2021/2022 - Outright,Feyenoord,0.013999999999999999,0.0909,0.0769
 2021-12-22 00:30:36.088618,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AS Roma,0.0131,0.2353,0.2222
 2021-12-21 17:30:51.244910,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Michigan State,0.011199999999999995,0.0435,0.0323
@@ -46,34 +45,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-21 18:30:52.020859,NBA Specials - NBA 2021 Christmas Day Specials - NBA 2021 Christmas - Team with least Points,Jazz,0.010700000000000001,0.0385,0.0278
 2021-12-22 02:30:45.673072,Boxing Lines - Joe Smith Jr vs Callum Johnson - To Win the Bout,Callum Johnson,0.010699999999999987,0.3333,0.3226
 2021-12-21 22:30:50.920852,Boxing Lines - Linn Sandstrom vs Natalie Hills - To Win the Bout,Natalie Hills,0.010699999999999932,0.5455,0.5348
-2021-12-21 15:30:49.414444,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Cooper Kupp,0.010099999999999998,0.4545,0.4444
-2021-12-21 15:30:48.441547,NFL Season Props - NFL 2021/22 - Specials - Proposition,Any Player to have 5477 Regular Season Passing Yards & Any Player to have 2105 Regular Season Rushing Yards,-0.010100000000000001,0.0244,0.0345
 2021-12-21 18:30:47.280907,College Basketball - Big East Conference  Winner - Outright,St. John's,-0.0102,0.0667,0.0769
 2021-12-21 21:30:43.702170,Boxing Lines - Joe Smith Jr vs Callum Johnson - To Win the Bout,Callum Johnson,-0.010699999999999987,0.3226,0.3333
 2021-12-22 02:30:45.416226,Boxing Lines - Gallen Paul vs Darcy Lussick - To Win the Bout,Gallen Paul,-0.01090000000000002,0.8462,0.8571
 2021-12-21 22:30:50.920852,Boxing Lines - Linn Sandstrom vs Natalie Hills - To Win the Bout,Linn Sandstrom,-0.01100000000000001,0.5238,0.5348
 2021-12-22 00:30:36.062704,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Lautaro Martinez,-0.011099999999999999,0.1,0.1111
 2021-12-22 01:30:39.766498,NBA Specials - NBA 2021 Christmas Day Specials - NBA 2021 Christmas - Team with most Points,Hawks,-0.011199999999999995,0.0323,0.0435
-2021-12-21 15:30:49.414444,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Justin Herbert,-0.012599999999999998,0.0152,0.0278
-2021-12-21 15:30:49.414444,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,James Conner,-0.012700000000000003,0.0196,0.0323
-2021-12-21 15:30:49.414444,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Davante Adams,-0.012700000000000003,0.0196,0.0323
 2021-12-22 01:30:39.750510,NBA Specials - NBA 2021 Christmas Day Specials - NBA 2021 Christmas - Team with least Points,Mavericks,-0.012899999999999995,0.1538,0.1667
 2021-12-22 00:30:36.147640,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Sevilla,-0.013899999999999996,0.1111,0.125
-2021-12-21 15:30:49.785650,NFL Specials - Who Will Be The Jacksonville Jaguars Head Coach For Game 1 Of The 2022-2023 Season? - Who Will Be The Jacksonville Jaguars Head Coach For Game 1 Of The 2022-2023 Season?,Joe Brady,-0.013999999999999999,0.0769,0.0909
 2021-12-22 01:30:39.766498,NBA Specials - NBA 2021 Christmas Day Specials - NBA 2021 Christmas - Team with most Points,Knicks,-0.014099999999999998,0.0244,0.0385
 2021-12-21 18:30:47.259526,College Basketball - Big 12 Conference Winner - Outright,Texas,-0.01469999999999999,0.2353,0.25
 2021-12-21 18:30:52.020859,NBA Specials - NBA 2021 Christmas Day Specials - NBA 2021 Christmas - Team with least Points,Nets,-0.015300000000000001,0.0323,0.0476
 2021-12-21 17:30:51.244910,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Auburn,-0.015300000000000001,0.0323,0.0476
 2021-12-21 18:30:47.570226,College Basketball - PAC 12 Conference  Winner - Outright,USC,-0.01820000000000002,0.1818,0.2
 2021-12-22 01:30:39.750510,NBA Specials - NBA 2021 Christmas Day Specials - NBA 2021 Christmas - Team with least Points,Bucks,-0.02020000000000001,0.0909,0.1111
-2021-12-21 15:30:48.441547,NFL Season Props - NFL 2021/22 - Specials - Proposition,Any Player to have 555+ Pass Yards in a Single Regular Season Game,-0.0203,0.0385,0.0588
 2021-12-21 21:30:43.619192,Boxing Lines - Linn Sandstrom vs Natalie Hills - To Win the Bout,Natalie Hills,-0.02079999999999993,0.5348,0.5556
 2021-12-22 00:30:36.619452,England EFL Cup - EFL Cup 2021/22 - Outright,Chelsea,-0.021999999999999964,0.2857,0.3077
 2021-12-22 00:30:36.050397,Italy Serie A - Italy Serie A 2021/2022 - Outright,Atalanta,-0.022199999999999998,0.1111,0.1333
 2021-12-22 00:30:36.185142,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,-0.022199999999999998,0.2,0.2222
-2021-12-21 15:30:49.785650,NFL Specials - Who Will Be The Jacksonville Jaguars Head Coach For Game 1 Of The 2022-2023 Season? - Who Will Be The Jacksonville Jaguars Head Coach For Game 1 Of The 2022-2023 Season?,Scott Turner,-0.02239999999999999,0.0952,0.1176
-2021-12-21 15:30:49.414444,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Kyler Murray,-0.022400000000000003,0.0099,0.0323
-2021-12-21 15:30:49.785650,NFL Specials - Who Will Be The Jacksonville Jaguars Head Coach For Game 1 Of The 2022-2023 Season? - Who Will Be The Jacksonville Jaguars Head Coach For Game 1 Of The 2022-2023 Season?,Brian Daboll,-0.023799999999999988,0.1429,0.1667
 2021-12-21 21:30:46.890718,NBA Specials - NBA 2021 Christmas Day Specials - NBA 2021 Christmas - Game with least Points,Celtics @ Bucks,-0.023799999999999988,0.1429,0.1667
 2021-12-22 00:30:33.178489,Boxing Lines - Gallen Paul vs Darcy Lussick - To Win the Bout,Gallen Paul,-0.02529999999999999,0.8571,0.8824
 2021-12-22 00:30:36.197651,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Rayo Vallecano,-0.029299999999999993,0.0476,0.0769
@@ -81,16 +70,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-21 18:30:47.280907,College Basketball - Big East Conference  Winner - Outright,Villanova,-0.030399999999999983,0.5348,0.5652
 2021-12-22 00:30:36.185142,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Elche,-0.031799999999999995,0.4444,0.4762
 2021-12-22 00:30:33.920086,NFL Specials - Will any NFL Week 16 Game Be Postponed - Outright,No,-0.032299999999999995,0.6552,0.6875
+2021-12-22 03:31:04.729953,Boxing Lines - Linn Sandstrom vs Natalie Hills - To Win the Bout,Natalie Hills,-0.033299999999999996,0.5122,0.5455
 2021-12-21 18:30:52.020859,NBA Specials - NBA 2021 Christmas Day Specials - NBA 2021 Christmas - Team with least Points,Mavericks,-0.033300000000000024,0.1667,0.2
-2021-12-21 15:30:48.441547,NFL Season Props - NFL 2021/22 - Specials - Proposition,Any Player to Break the Regular Season Passing Yards Record of 5477 Yards,-0.03710000000000002,0.3077,0.3448
 2021-12-22 00:30:36.088618,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Atalanta,-0.0504,0.7143,0.7647
 2021-12-21 18:30:52.020859,NBA Specials - NBA 2021 Christmas Day Specials - NBA 2021 Christmas - Team with least Points,Lakers,-0.055099999999999996,0.0625,0.1176
 2021-12-21 18:30:47.214852,College Basketball - Atlantic 10 Conference Winner - Outright,St. Bonaventure,-0.07940000000000003,0.4444,0.5238
 2021-12-22 00:30:36.185142,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Levante,-0.0857,0.7143,0.8
 2021-12-22 00:30:36.197651,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,FC Barcelona,-0.11909999999999998,0.5238,0.6429
 2021-12-21 18:30:52.020859,NBA Specials - NBA 2021 Christmas Day Specials - NBA 2021 Christmas - Team with least Points,Knicks,-0.12119999999999997,0.5455,0.6667
-2021-12-21 15:30:49.785650,NFL Specials - Who Will Be The Jacksonville Jaguars Head Coach For Game 1 Of The 2022-2023 Season? - Who Will Be The Jacksonville Jaguars Head Coach For Game 1 Of The 2022-2023 Season?,Josh McDaniels,-0.14139999999999997,0.2222,0.3636
 2021-12-21 18:30:51.923339,NBA Specials - NBA 2021 Christmas Day Specials - NBA 2021 Christmas - Game with least Points,Celtics @ Bucks,-0.1458,0.1667,0.3125
-2021-12-21 15:30:49.785650,NFL Specials - Who Will Be The Jacksonville Jaguars Head Coach For Game 1 Of The 2022-2023 Season? - Who Will Be The Jacksonville Jaguars Head Coach For Game 1 Of The 2022-2023 Season?,Kellen Moore,-0.2091,0.2353,0.4444
 2021-12-21 17:30:54.944911,"NFL Specials - Will the Super Bowl be played on Sunday, 13 February 2022 at SoFi Stadium - Outright",No,-0.7802,0.1429,0.9231
 2021-12-21 17:30:54.904400,"NFL Specials - Will the Super Bowl be played on Sunday, 13 February 2022 - Outright",No,-0.8348,0.1176,0.9524
