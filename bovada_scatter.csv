@@ -9,7 +9,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-22 10:30:41.096557,NFL Season Props - NFL 2021/22 - To Make the Playoffs - San Francisco 49ers ,Yes,0.03700000000000003,0.8889,0.8519
 2021-12-22 06:30:57.355328,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Matthew Stafford,0.0321,0.0909,0.0588
 2021-12-22 08:30:35.355901,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Over 7.5,0.031799999999999995,0.4762,0.4444
-2021-12-22 03:31:04.729953,Boxing Lines - Linn Sandstrom vs Natalie Hills - To Win the Bout,Linn Sandstrom,0.03179999999999994,0.5556,0.5238
 2021-12-22 10:30:41.020181,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Indianapolis Colts,Yes,0.031399999999999983,0.8462,0.8148
 2021-12-22 13:30:35.032527,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Lietuvos Rytas,0.030699999999999998,0.0833,0.0526
 2021-12-22 10:30:40.987592,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Cincinnati Bengals,Yes,0.025599999999999956,0.6,0.5744
@@ -30,8 +29,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-22 08:30:35.292943,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Detroit Lions 2021/22 Total Wins,Over 2.5,0.012199999999999989,0.5,0.4878
 2021-12-22 08:30:35.282166,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cincinnati Bengals 2021/22 Total Wins,Over 9.5,0.011600000000000055,0.5238,0.5122
 2021-12-22 08:30:35.440839,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Under 12.5,0.011499999999999955,0.6667,0.6552
-2021-12-22 08:30:35.398226,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Dallas Cowboys 2021/22 Total Wins,Over 11.5,0.011099999999999999,0.7333,0.7222
 2021-12-22 08:30:38.227677,England EFL Cup - EFL Cup 2021/22 - Outright,Leicester City,0.011099999999999999,0.1111,0.1
+2021-12-22 08:30:35.398226,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Dallas Cowboys 2021/22 Total Wins,Over 11.5,0.011099999999999999,0.7333,0.7222
 2021-12-22 08:30:36.008740,Boxing Lines - Gallen Paul vs Darcy Lussick - To Win the Bout,Gallen Paul,0.01090000000000002,0.8571,0.8462
 2021-12-22 08:30:35.483507,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Jets 2021/22 Total Wins,Under 3.5,0.010599999999999998,0.4651,0.4545
 2021-12-22 06:30:57.069092,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,New England Patriots,0.010499999999999982,0.2105,0.2
@@ -39,7 +38,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-22 08:30:35.260342,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Buffalo Bills 2021/22 Total Wins,Under 10.5,0.010099999999999998,0.6875,0.6774
 2021-12-22 08:30:35.282166,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cincinnati Bengals 2021/22 Total Wins,Under 9.5,-0.010099999999999998,0.5455,0.5556
 2021-12-22 10:30:40.998591,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Cleveland Browns,Yes,-0.010499999999999982,0.2,0.2105
-2021-12-22 04:30:45.224124,Boxing Lines - Joe Smith Jr vs Callum Johnson - To Win the Bout,Callum Johnson,-0.010699999999999987,0.3226,0.3333
 2021-12-22 08:30:35.462266,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Miami Dolphins 2021/22 Total Wins,Under 8.5,-0.010700000000000043,0.6667,0.6774
 2021-12-22 08:30:35.430408,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Over 9.5,-0.010800000000000032,0.7619,0.7727
 2021-12-22 13:30:35.032527,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Ricoh Manresa,-0.011099999999999999,0.1,0.1111
@@ -47,10 +45,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-22 07:30:33.682926,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Tyreek Hill,-0.0118,0.0099,0.0217
 2021-12-22 08:30:35.270950,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Carolina Panthers 2021/22 Total Wins,Under 5.5,-0.012199999999999989,0.5,0.5122
 2021-12-22 07:30:33.592759,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,JC Jackson,-0.012599999999999997,0.0244,0.037
+2021-12-22 16:30:43.455735,Boxing Lines - Khariton Agrba vs Petr Petrov - To Win the Bout,Petr Petrov,-0.012899999999999995,0.1538,0.1667
+2021-12-22 16:30:43.400302,Boxing Lines - Maxim Vlasov vs Felix Valera - To Win the Bout,Felix Valera,-0.012899999999999995,0.1538,0.1667
 2021-12-22 06:30:57.355328,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Dak Prescott,-0.014099999999999998,0.0244,0.0385
 2021-12-22 07:30:33.592759,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Myles Garrett,-0.01469999999999999,0.2353,0.25
-2021-12-22 08:30:35.260342,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Buffalo Bills 2021/22 Total Wins,Over 10.5,-0.01479999999999998,0.3774,0.3922
 2021-12-22 08:30:35.507111,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Under 9.5,-0.01479999999999998,0.3774,0.3922
+2021-12-22 08:30:35.260342,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Buffalo Bills 2021/22 Total Wins,Over 10.5,-0.01479999999999998,0.3774,0.3922
 2021-12-22 08:30:35.483507,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Jets 2021/22 Total Wins,Over 3.5,-0.01539999999999997,0.6,0.6154
 2021-12-22 08:30:35.335055,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Under 11.5,-0.01629999999999998,0.7059,0.7222
 2021-12-22 14:30:32.749094,NFL Specials - Will any NFL Week 16 Game Be Postponed - Outright,No,-0.01880000000000004,0.6364,0.6552
@@ -67,7 +67,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-22 08:30:35.355901,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Under 7.5,-0.03090000000000004,0.5917,0.6226
 2021-12-22 10:30:41.020181,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Indianapolis Colts,No,-0.030999999999999972,0.2222,0.2532
 2021-12-22 10:30:41.031158,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Kansas City Chiefs,No,-0.031,0.0278,0.0588
-2021-12-22 03:31:04.729953,Boxing Lines - Linn Sandstrom vs Natalie Hills - To Win the Bout,Natalie Hills,-0.033299999999999996,0.5122,0.5455
 2021-12-22 06:30:57.355328,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Patrick Mahomes,-0.03420000000000001,0.0769,0.1111
 2021-12-22 08:30:38.227677,England EFL Cup - EFL Cup 2021/22 - Outright,Chelsea,-0.03570000000000001,0.25,0.2857
 2021-12-22 10:30:40.976920,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Buffalo Bills,No,-0.038099999999999995,0.2,0.2381
