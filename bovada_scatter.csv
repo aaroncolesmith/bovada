@@ -30,10 +30,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-22 08:30:35.292943,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Detroit Lions 2021/22 Total Wins,Over 2.5,0.012199999999999989,0.5,0.4878
 2021-12-22 08:30:35.282166,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cincinnati Bengals 2021/22 Total Wins,Over 9.5,0.011600000000000055,0.5238,0.5122
 2021-12-22 08:30:35.440839,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Kansas City Chiefs 2021/22 Total Wins,Under 12.5,0.011499999999999955,0.6667,0.6552
-2021-12-22 08:30:38.227677,England EFL Cup - EFL Cup 2021/22 - Outright,Leicester City,0.011099999999999999,0.1111,0.1
 2021-12-22 08:30:35.398226,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Dallas Cowboys 2021/22 Total Wins,Over 11.5,0.011099999999999999,0.7333,0.7222
+2021-12-22 08:30:38.227677,England EFL Cup - EFL Cup 2021/22 - Outright,Leicester City,0.011099999999999999,0.1111,0.1
 2021-12-22 08:30:36.008740,Boxing Lines - Gallen Paul vs Darcy Lussick - To Win the Bout,Gallen Paul,0.01090000000000002,0.8571,0.8462
-2021-12-22 02:30:45.673072,Boxing Lines - Joe Smith Jr vs Callum Johnson - To Win the Bout,Callum Johnson,0.010699999999999987,0.3333,0.3226
 2021-12-22 08:30:35.483507,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Jets 2021/22 Total Wins,Under 3.5,0.010599999999999998,0.4651,0.4545
 2021-12-22 06:30:57.069092,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,New England Patriots,0.010499999999999982,0.2105,0.2
 2021-12-22 08:30:35.507111,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Over 9.5,0.010099999999999998,0.6875,0.6774
@@ -43,7 +42,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-22 04:30:45.224124,Boxing Lines - Joe Smith Jr vs Callum Johnson - To Win the Bout,Callum Johnson,-0.010699999999999987,0.3226,0.3333
 2021-12-22 08:30:35.462266,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Miami Dolphins 2021/22 Total Wins,Under 8.5,-0.010700000000000043,0.6667,0.6774
 2021-12-22 08:30:35.430408,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Indianapolis Colts 2021/22 Total Wins,Over 9.5,-0.010800000000000032,0.7619,0.7727
-2021-12-22 02:30:45.416226,Boxing Lines - Gallen Paul vs Darcy Lussick - To Win the Bout,Gallen Paul,-0.01090000000000002,0.8462,0.8571
 2021-12-22 13:30:35.032527,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Ricoh Manresa,-0.011099999999999999,0.1,0.1111
 2021-12-22 08:30:35.398226,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Dallas Cowboys 2021/22 Total Wins,Under 11.5,-0.01150000000000001,0.3333,0.3448
 2021-12-22 07:30:33.682926,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving Yards,Tyreek Hill,-0.0118,0.0099,0.0217
@@ -51,8 +49,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-22 07:30:33.592759,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,JC Jackson,-0.012599999999999997,0.0244,0.037
 2021-12-22 06:30:57.355328,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Dak Prescott,-0.014099999999999998,0.0244,0.0385
 2021-12-22 07:30:33.592759,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Myles Garrett,-0.01469999999999999,0.2353,0.25
-2021-12-22 08:30:35.507111,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Under 9.5,-0.01479999999999998,0.3774,0.3922
 2021-12-22 08:30:35.260342,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Buffalo Bills 2021/22 Total Wins,Over 10.5,-0.01479999999999998,0.3774,0.3922
+2021-12-22 08:30:35.507111,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Under 9.5,-0.01479999999999998,0.3774,0.3922
 2021-12-22 08:30:35.483507,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Jets 2021/22 Total Wins,Over 3.5,-0.01539999999999997,0.6,0.6154
 2021-12-22 08:30:35.335055,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New England Patriots 2021/22 Total Wins,Under 11.5,-0.01629999999999998,0.7059,0.7222
 2021-12-22 14:30:32.749094,NFL Specials - Will any NFL Week 16 Game Be Postponed - Outright,No,-0.01880000000000004,0.6364,0.6552
