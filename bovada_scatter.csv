@@ -10,61 +10,98 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-23 09:30:56.040190,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Monaco,0.0635,0.2857,0.2222
 2021-12-23 16:30:51.588843,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Pete Buttigieg,0.0629,0.1538,0.0909
 2021-12-23 09:30:56.086263,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Monaco,0.05980000000000002,0.4444,0.3846
+2021-12-23 17:30:30.596289,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,0.05449999999999999,0.4545,0.4
+2021-12-23 17:30:30.713540,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,0.04930000000000001,0.3125,0.2632
 2021-12-23 11:30:33.946946,Premiership - Scottish Premiership 2021/22 - Outright,Rangers FC,0.04760000000000009,0.7143,0.6667
 2021-12-23 09:30:56.086263,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Nice,0.044499999999999984,0.2667,0.2222
 2021-12-23 11:30:33.555843,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Juventus,0.0393,0.6226,0.5833
 2021-12-23 11:30:33.555843,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Atalanta,0.035699999999999954,0.75,0.7143
 2021-12-23 09:30:56.086263,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lille,0.0353,0.2353,0.2
+2021-12-23 17:30:30.567960,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,0.0348,0.4348,0.4
 2021-12-23 09:30:49.891610,Boxing Lines - Joey Spencer vs Limberth Ponce - To Win the Bout,Joey Spencer,0.033499999999999974,0.999,0.9655
+2021-12-23 17:30:30.713540,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,0.027800000000000005,0.1111,0.0833
+2021-12-23 17:30:30.582237,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Monty Williams (PHO),0.02779999999999999,0.25,0.2222
+2021-12-23 17:30:30.623688,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Evan Mobley,0.027700000000000002,0.4444,0.4167
+2021-12-23 17:30:30.596289,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Rudy Gobert,0.02679999999999999,0.3125,0.2857
 2021-12-23 09:30:56.040190,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Nice,0.024999999999999994,0.125,0.1
 2021-12-23 09:30:49.845436,Boxing Lines - Khariton Agrba vs Petr Petrov - To Win the Bout,Khariton Agrba,0.0242,0.9333,0.9091
 2021-12-23 12:30:46.305940,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Livingston,0.023799999999999988,0.1667,0.1429
-2021-12-23 11:30:33.957185,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hibernian,0.022199999999999998,0.1333,0.1111
 2021-12-23 12:30:46.305940,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Aberdeen,0.022199999999999998,0.8,0.7778
+2021-12-23 11:30:33.957185,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hibernian,0.022199999999999998,0.1333,0.1111
 2021-12-23 16:30:51.750864,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Ron DeSantis,0.022199999999999998,0.2222,0.2
+2021-12-23 17:30:30.799636,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.02210000000000001,0.2326,0.2105
+2021-12-23 17:30:30.610611,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Darius Garland,0.0203,0.0588,0.0385
 2021-12-23 09:30:56.057065,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Dimitri Payet,0.0203,0.0588,0.0385
-2021-12-23 09:30:56.040190,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lille,0.02020000000000001,0.1111,0.0909
 2021-12-23 11:30:33.555843,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Lazio,0.02020000000000001,0.1111,0.0909
-2021-12-23 12:30:46.291592,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,St. Johnstone,0.014499999999999957,0.9901,0.9756
+2021-12-23 09:30:56.040190,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lille,0.02020000000000001,0.1111,0.0909
+2021-12-23 17:30:30.582237,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Steve Nash (BKN),0.019099999999999992,0.0667,0.0476
+2021-12-23 17:30:30.736591,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,0.018100000000000005,0.5833,0.5652
+2021-12-23 17:30:30.610611,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Jordan Poole,0.015300000000000001,0.0588,0.0435
+2021-12-23 17:30:30.582237,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Quin Snyder (UTA),0.015300000000000001,0.0588,0.0435
+2021-12-23 17:30:30.582237,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Doc Rivers (PHI),0.015300000000000001,0.0476,0.0323
 2021-12-23 12:30:46.291592,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Dundee FC,0.014499999999999957,0.9901,0.9756
+2021-12-23 12:30:46.291592,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,St. Johnstone,0.014499999999999957,0.9901,0.9756
 2021-12-23 09:30:50.126090,Boxing Lines - Vito Mielnicki jr vs Nick Delomba - To Win the Bout,Vito Mielnicki jr,0.014100000000000001,0.9615,0.9474
 2021-12-23 16:30:51.588843,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Hillary Clinton,0.014099999999999998,0.0385,0.0244
 2021-12-23 09:30:49.872964,Boxing Lines - Maxim Vlasov vs Felix Valera - To Win the Bout,Maxim Vlasov,0.014000000000000012,0.9231,0.9091
 2021-12-23 09:30:56.057065,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Wissam Ben Yedder,0.013899999999999996,0.125,0.1111
+2021-12-23 17:30:30.689200,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.013899999999999996,0.125,0.1111
 2021-12-23 15:30:36.192396,Boxing Lines - Kenneth Sims Jr vs Kareem Martin - To Win the Bout,Kareem Martin,0.013399999999999995,0.2381,0.2247
 2021-12-23 11:30:33.555843,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AC Milan,0.0131,0.7778,0.7647
+2021-12-23 17:30:30.623688,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Josh Giddey,0.0131,0.0476,0.0345
 2021-12-23 16:30:47.704470,Boxing Lines - Albert Batyrgaziev vs Franklin Manzanilla - To Win the Bout,Albert Batyrgaziev,0.0131,0.9655,0.9524
+2021-12-23 17:30:30.799636,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Los Angeles Lakers,0.012899999999999995,0.1667,0.1538
 2021-12-23 16:30:51.491844,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Democratic,0.01150000000000001,0.3448,0.3333
 2021-12-23 11:30:33.546040,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Lautaro Martinez,0.011099999999999999,0.1111,0.1
+2021-12-23 17:30:30.610611,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Dejounte Murray,0.011099999999999999,0.1111,0.1
+2021-12-23 17:30:30.701897,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.010899999999999993,0.1538,0.1429
+2021-12-23 17:30:30.748883,NBA Futures - 2022 NBA Southeast Division - Division Winner,Atlanta Hawks,0.010499999999999982,0.2105,0.2
 2021-12-23 14:30:32.344058,Boxing Lines - Maxim Vlasov vs Felix Valera - To Win the Bout,Maxim Vlasov,0.010199999999999987,0.9333,0.9231
 2021-12-23 12:30:39.132752,Boxing Lines - Khariton Agrba vs Petr Petrov - To Win the Bout,Khariton Agrba,0.010199999999999987,0.9333,0.9231
+2021-12-23 17:30:30.623688,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Franz Wagner,0.010100000000000001,0.0345,0.0244
 2021-12-23 10:30:36.391914,Boxing Lines - Khariton Agrba vs Petr Petrov - To Win the Bout,Khariton Agrba,-0.010199999999999987,0.9231,0.9333
+2021-12-23 17:30:30.610611,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Anthony Edwards,-0.010700000000000001,0.0278,0.0385
 2021-12-23 12:30:39.319769,Boxing Lines - Kenneth Sims Jr vs Kareem Martin - To Win the Bout,Kareem Martin,-0.010800000000000004,0.2273,0.2381
 2021-12-23 09:30:49.807185,Boxing Lines - Albert Batyrgaziev vs Franklin Manzanilla - To Win the Bout,Franklin Manzanilla,-0.011099999999999999,0.1,0.1111
+2021-12-23 16:30:51.491844,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Republican,-0.011099999999999999,0.7222,0.7333
+2021-12-23 17:30:30.748883,NBA Futures - 2022 NBA Southeast Division - Division Winner,Charlotte Hornets,-0.011099999999999999,0.1,0.1111
+2021-12-23 17:30:30.596289,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,-0.011099999999999999,0.1,0.1111
 2021-12-23 16:30:51.750864,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Kamala Harris,-0.011099999999999999,0.1,0.1111
 2021-12-23 09:30:56.057065,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Amine Gouiri,-0.011199999999999995,0.0476,0.0588
-2021-12-23 16:30:51.646599,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Tom Cotton,-0.012700000000000003,0.0196,0.0323
+2021-12-23 17:30:30.596289,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Mikal Bridges,-0.011199999999999995,0.0476,0.0588
+2021-12-23 17:30:30.760922,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.0116,0.4762,0.4878
+2021-12-23 17:30:30.567960,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Anthony Davis,-0.0121,0.002,0.0141
+2021-12-23 17:30:30.799636,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,-0.012600000000000007,0.0588,0.0714
 2021-12-23 16:30:51.646599,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Josh Hawley,-0.012700000000000003,0.0196,0.0323
+2021-12-23 16:30:51.646599,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Tom Cotton,-0.012700000000000003,0.0196,0.0323
 2021-12-23 10:30:36.418701,Boxing Lines - Joey Spencer vs Limberth Ponce - To Win the Bout,Joey Spencer,-0.013800000000000034,0.9852,0.999
+2021-12-23 17:30:30.701897,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.013900000000000023,0.875,0.8889
 2021-12-23 09:30:56.057065,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Gaetan Laborde,-0.013999999999999999,0.0769,0.0909
+2021-12-23 17:30:30.567960,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,-0.013999999999999999,0.0769,0.0909
 2021-12-23 09:30:56.040190,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lyon,-0.015100000000000002,0.1667,0.1818
+2021-12-23 17:30:30.623688,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Cade Cunningham,-0.015400000000000025,0.2703,0.2857
+2021-12-23 17:30:30.689200,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Utah Jazz,-0.016700000000000007,0.0833,0.1
 2021-12-23 16:30:47.704470,Boxing Lines - Albert Batyrgaziev vs Franklin Manzanilla - To Win the Bout,Franklin Manzanilla,-0.016700000000000007,0.0833,0.1
+2021-12-23 17:30:30.596289,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Myles Turner,-0.0168,0.0217,0.0385
 2021-12-23 12:30:46.291592,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Aberdeen,-0.019000000000000017,0.2667,0.2857
+2021-12-23 17:30:30.780088,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.019699999999999995,0.4348,0.4545
 2021-12-23 12:30:46.291592,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Livingston,-0.020199999999999996,0.8889,0.9091
 2021-12-23 16:30:51.646599,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Nikki Haley,-0.02020000000000001,0.0909,0.1111
-2021-12-23 11:30:33.967648,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Livingston,-0.02020000000000001,0.0909,0.1111
 2021-12-23 09:30:50.126090,Boxing Lines - Vito Mielnicki jr vs Nick Delomba - To Win the Bout,Nick Delomba,-0.02020000000000001,0.0909,0.1111
+2021-12-23 11:30:33.967648,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Livingston,-0.02020000000000001,0.0909,0.1111
 2021-12-23 12:30:46.305940,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,St. Johnstone,-0.0203,0.0385,0.0588
 2021-12-23 12:30:46.305940,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Dundee FC,-0.0203,0.0385,0.0588
 2021-12-23 09:30:49.872964,Boxing Lines - Maxim Vlasov vs Felix Valera - To Win the Bout,Felix Valera,-0.02049999999999999,0.1333,0.1538
 2021-12-23 16:30:51.545042,Political Specials - 2022 Texas Gubernatorial Election - Odds to Win - Outright,Beto O'Rourke,-0.02049999999999999,0.1333,0.1538
 2021-12-23 09:30:49.891610,Boxing Lines - Joey Spencer vs Limberth Ponce - To Win the Bout,Limberth Ponce,-0.0208,0.0625,0.0833
+2021-12-23 17:30:30.724860,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,-0.021400000000000002,0.05,0.0714
 2021-12-23 09:30:56.086263,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Marseille,-0.02169999999999994,0.5238,0.5455
 2021-12-23 11:30:33.957185,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Aberdeen,-0.022199999999999998,0.1111,0.1333
 2021-12-23 09:30:56.057065,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Kylian Mbappe,-0.023799999999999988,0.4762,0.5
-2021-12-23 11:30:33.967648,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,St. Mirren,-0.0242,0.0667,0.0909
 2021-12-23 11:30:33.555843,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Fiorentina,-0.0242,0.0667,0.0909
+2021-12-23 11:30:33.967648,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,St. Mirren,-0.0242,0.0667,0.0909
 2021-12-23 16:30:51.646599,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Mike Pence,-0.024299999999999995,0.0526,0.0769
+2021-12-23 17:30:30.596289,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Anthony Davis,-0.0286,0.0099,0.0385
 2021-12-23 09:30:49.845436,Boxing Lines - Khariton Agrba vs Petr Petrov - To Win the Bout,Petr Petrov,-0.028799999999999992,0.125,0.1538
 2021-12-23 09:30:56.086263,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Rennes,-0.030299999999999994,0.3333,0.3636
 2021-12-23 09:30:56.057065,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Lionel Messi,-0.031799999999999995,0.1111,0.1429
@@ -75,6 +112,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-23 09:30:56.086263,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lyon,-0.047599999999999976,0.2857,0.3333
 2021-12-23 11:30:33.555843,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AS Roma,-0.05350000000000002,0.1818,0.2353
 2021-12-23 09:30:56.040190,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Marseille,-0.055900000000000005,0.3077,0.3636
+2021-12-23 17:30:30.713540,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,-0.057699999999999974,0.6923,0.75
 2021-12-23 12:30:46.291592,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Hibernian,-0.057699999999999974,0.25,0.3077
 2021-12-23 11:30:33.555843,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Napoli,-0.06820000000000004,0.75,0.8182
 2021-12-23 12:30:46.305940,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Dundee United,-0.07939999999999997,0.4762,0.5556
