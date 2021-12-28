@@ -1,5 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-28 08:30:44.676831,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Frank Reich,0.1912,0.25,0.0588
+2021-12-28 09:30:38.477926,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Tom Brady,0.13330000000000009,0.8,0.6667
 2021-12-28 08:30:44.676831,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Matt LaFleur,0.12829999999999997,0.3636,0.2353
 2021-12-28 08:30:44.625530,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Trevon Diggs,0.08879999999999999,0.1429,0.0541
 2021-12-28 01:30:57.338247,England Championship - England Championship 21/22 - Top 6 Finish,Middlesbrough,0.07789999999999997,0.3636,0.2857
@@ -11,8 +12,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-28 01:30:57.305538,England Championship - England Championship 21/22 - To Be Promoted,Sheffield United,0.04620000000000002,0.2,0.1538
 2021-12-28 01:30:57.338247,England Championship - England Championship 21/22 - Top 6 Finish,Luton Town,0.042899999999999994,0.1429,0.1
 2021-12-28 01:30:57.305538,England Championship - England Championship 21/22 - To Be Promoted,Middlesbrough,0.04240000000000001,0.1333,0.0909
+2021-12-28 09:30:38.367385,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Jaylen Waddle,0.037700000000000004,0.0476,0.0099
 2021-12-27 23:30:33.749468,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Tottenham Hotspur,0.03570000000000001,0.2857,0.25
+2021-12-28 09:30:38.448403,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TDs,Matthew Stafford,0.0348,0.4348,0.4
 2021-12-28 01:30:57.305538,England Championship - England Championship 21/22 - To Be Promoted,Fulham,0.03410000000000002,0.9091,0.875
+2021-12-28 09:30:38.367385,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Ja'Marr Chase,0.033300000000000024,0.2,0.1667
 2021-12-28 01:30:58.344634,League One - England League One 2021/22 - Outright,Sunderland,0.033300000000000024,0.2,0.1667
 2021-12-28 01:30:58.582028,League One - England League One 2021/22 - Top 2 Finish,Sunderland,0.03210000000000002,0.4167,0.3846
 2021-12-28 01:30:57.338247,England Championship - England Championship 21/22 - Top 6 Finish,Preston North End,0.0321,0.0909,0.0588
@@ -21,10 +25,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-28 08:30:44.661723,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Jonathan Taylor,0.03179999999999994,0.5556,0.5238
 2021-12-28 01:30:57.338247,England Championship - England Championship 21/22 - Top 6 Finish,Coventry City,0.030299999999999994,0.3636,0.3333
 2021-12-28 08:30:44.676831,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Mike Vrabel,0.029299999999999993,0.0769,0.0476
+2021-12-28 09:30:38.448403,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TDs,Josh Allen,0.029299999999999993,0.0769,0.0476
 2021-12-28 01:30:57.338247,England Championship - England Championship 21/22 - Top 6 Finish,Bournemouth,0.028200000000000003,0.9615,0.9333
 2021-12-28 08:30:44.625530,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Chris Jones,0.0257,0.0323,0.0066
 2021-12-27 23:30:33.749468,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Arsenal,0.021999999999999964,0.3077,0.2857
 2021-12-28 01:30:58.630083,League One - England League One 2021/22 - Top 6 Finish,Sunderland,0.020199999999999996,0.9091,0.8889
+2021-12-28 09:30:38.477926,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Joe Burrow,0.017800000000000003,0.0244,0.0066
+2021-12-28 08:30:44.690734,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Jimmy Garoppolo,0.0151,0.0217,0.0066
 2021-12-28 08:30:44.676831,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Sean McVay,0.014899999999999997,0.0625,0.0476
 2021-12-28 08:30:44.690734,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Carson Wentz,0.014099999999999998,0.0385,0.0244
 2021-12-28 01:30:57.305538,England Championship - England Championship 21/22 - To Be Promoted,Nottingham Forest,0.014099999999999994,0.0667,0.0526
@@ -36,8 +43,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-28 01:30:57.305538,England Championship - England Championship 21/22 - To Be Promoted,Preston North End,0.010100000000000001,0.0345,0.0244
 2021-12-28 08:30:44.661723,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Cooper Kupp,-0.010099999999999998,0.4444,0.4545
 2021-12-27 23:30:33.749468,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Manchester United,-0.010099999999999998,0.5455,0.5556
-2021-12-28 01:30:58.479401,League One - England League One 2021/22 - To Be Promoted,Ipswich Town,-0.0102,0.0667,0.0769
 2021-12-27 23:30:33.733031,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Everton,-0.0102,0.0667,0.0769
+2021-12-28 01:30:58.479401,League One - England League One 2021/22 - To Be Promoted,Ipswich Town,-0.0102,0.0667,0.0769
 2021-12-28 07:30:39.329102,NFL Futures - AFC North - Division Winner,Baltimore Ravens,-0.010899999999999993,0.1429,0.1538
 2021-12-28 08:30:44.625530,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,JC Jackson,-0.012100000000000001,0.0123,0.0244
 2021-12-28 01:30:58.630083,League One - England League One 2021/22 - Top 6 Finish,Ipswich Town,-0.012899999999999995,0.1538,0.1667
@@ -46,9 +53,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-28 01:30:57.305538,England Championship - England Championship 21/22 - To Be Promoted,Swansea City,-0.014099999999999998,0.0244,0.0385
 2021-12-28 06:30:29.475032,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,New Orleans Saints,-0.0145,0.0099,0.0244
 2021-12-28 01:30:58.582028,League One - England League One 2021/22 - Top 2 Finish,Wycombe,-0.015100000000000002,0.1667,0.1818
-2021-12-28 01:30:58.479401,League One - England League One 2021/22 - To Be Promoted,Wycombe,-0.019000000000000017,0.2667,0.2857
 2021-12-27 23:30:33.733031,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,-0.019000000000000017,0.2667,0.2857
+2021-12-28 01:30:58.479401,League One - England League One 2021/22 - To Be Promoted,Wycombe,-0.019000000000000017,0.2667,0.2857
 2021-12-27 23:30:32.834635,A-League - Australia A-League 2021/2022 - Grand Final Winner,Western United,-0.019099999999999992,0.0476,0.0667
+2021-12-28 09:30:38.477926,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Derek Carr,-0.02020000000000001,0.0909,0.1111
 2021-12-28 01:30:58.526933,League One - England League One 2021/22 - To Be Relegated,Morecambe,-0.02100000000000002,0.6154,0.6364
 2021-12-28 01:30:58.526933,League One - England League One 2021/22 - To Be Relegated,Shrewsbury Town,-0.022199999999999998,0.2,0.2222
 2021-12-28 01:30:57.338247,England Championship - England Championship 21/22 - Top 6 Finish,Swansea City,-0.02310000000000001,0.0769,0.1
@@ -57,12 +65,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-28 08:30:44.676831,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Brandon Staley,-0.024800000000000003,0.0278,0.0526
 2021-12-28 01:30:58.344634,League One - England League One 2021/22 - Outright,Wigan Athletic,-0.02560000000000001,0.3077,0.3333
 2021-12-28 08:30:44.625530,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,TJ Watt,-0.030299999999999994,0.3333,0.3636
+2021-12-28 09:30:38.448403,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TDs,Justin Herbert,-0.035699999999999996,0.0476,0.0833
 2021-12-28 08:30:44.690734,NFL Season Props - NFL 2021/22 - Awards - The Comeback Player of the Year,Nick Bosa,-0.037500000000000006,0.0625,0.1
 2021-12-28 08:30:44.676831,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Kliff Kingsbury,-0.0389,0.0278,0.0667
 2021-12-28 01:30:57.275360,England Championship - England Championship 21/22 - Outright,West Bromwich Albion,-0.04269999999999999,0.1111,0.1538
+2021-12-28 09:30:38.448403,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TDs,Tom Brady,-0.04409999999999992,0.6226,0.6667
 2021-12-28 01:30:57.338247,England Championship - England Championship 21/22 - Top 6 Finish,Stoke City,-0.045499999999999985,0.4545,0.5
 2021-12-28 08:30:44.625530,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Nick Bosa,-0.06999999999999999,0.0476,0.1176
 2021-12-28 01:30:57.305538,England Championship - England Championship 21/22 - To Be Promoted,Queens Park Rangers,-0.07500000000000001,0.125,0.2
+2021-12-28 09:30:38.367385,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Mac Jones,-0.07579999999999998,0.8333,0.9091
 2021-12-28 01:30:57.338247,England Championship - England Championship 21/22 - Top 6 Finish,Queens Park Rangers,-0.12380000000000002,0.4,0.5238
 2021-12-28 08:30:44.625530,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Myles Garrett,-0.1353,0.1,0.2353
+2021-12-28 09:30:38.477926,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Matthew Stafford,-0.2088,0.0769,0.2857
 2021-12-28 08:30:44.676831,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Bill Belichick,-0.41269999999999996,0.1429,0.5556
