@@ -25,8 +25,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-28 15:30:27.543747,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Rams 2021/22 Total Wins,Under 12.5,0.09229999999999994,0.6667,0.5744
 2021-12-28 13:30:30.896681,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cleveland Browns 2021/22 Total Wins,Under 8.5,0.07629999999999992,0.7059,0.6296
 2021-12-28 14:30:37.330702,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Norwich City,0.05590000000000006,0.6923,0.6364
-2021-12-28 14:30:37.445318,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Newcastle United,0.045499999999999985,0.5,0.4545
 2021-12-28 13:30:30.928394,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Denver Broncos 2021/22 Total Wins,Under 7.5,0.045499999999999985,0.5455,0.5
+2021-12-28 14:30:37.445318,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Newcastle United,0.045499999999999985,0.5,0.4545
 2021-12-28 21:30:39.579444,Boxing Lines - Jonathan Rice vs Michael Polite Coffie - To Win the Bout,Jonathan Rice,0.04259999999999997,0.6078,0.5652
 2021-12-28 14:30:35.434303,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Los Angeles Chargers 2021/22 Total Wins,Over 9.5,0.03639999999999999,0.6364,0.6
 2021-12-28 15:30:28.814947,Boxing Lines - Jonathan Rice vs Michael Polite Coffie - To Win the Bout,Jonathan Rice,0.03480000000000005,0.5348,0.5
@@ -37,11 +37,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-28 16:30:37.304312,Boxing Lines - Jonathan Rice vs Michael Polite Coffie - To Win the Bout,Jonathan Rice,0.02079999999999993,0.5556,0.5348
 2021-12-28 13:30:31.151743,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Nick Bosa,0.02020000000000001,0.1111,0.0909
 2021-12-28 14:30:37.426892,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Leicester City,0.0179,0.1429,0.125
+2021-12-28 22:30:32.737482,Boxing Lines - Jonathan Rice vs Michael Polite Coffie - To Win the Bout,Jonathan Rice,0.014800000000000035,0.6226,0.6078
 2021-12-28 18:30:37.721520,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Desmond Bane,0.014099999999999998,0.0385,0.0244
 2021-12-28 14:30:37.426892,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Aston Villa,0.013999999999999999,0.0909,0.0769
 2021-12-28 21:30:39.639756,Boxing Lines - Joe Smith Jr vs Callum Johnson - To Win the Bout,Joe Smith Jr,0.0131,0.7778,0.7647
 2021-12-28 13:30:31.151743,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Aaron Donald,0.012700000000000003,0.0323,0.0196
 2021-12-28 14:30:37.445318,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Southampton,0.011199999999999988,0.9524,0.9412
+2021-12-28 22:30:32.737482,Boxing Lines - Jonathan Rice vs Michael Polite Coffie - To Win the Bout,Michael Polite Coffie,-0.010099999999999998,0.4444,0.4545
 2021-12-28 14:30:36.264664,England Championship - England Championship 21/22 - Top 2 Finish,Stoke City,-0.0102,0.0667,0.0769
 2021-12-28 14:30:37.445318,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Watford,-0.01100000000000001,0.5238,0.5348
 2021-12-28 14:30:37.426892,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Wolverhampton Wanderers,-0.011199999999999995,0.0476,0.0588
@@ -58,8 +60,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-28 14:30:36.230897,England Championship - England Championship 21/22 - Top Goalscorer,Aleksandar Mitrovic (Fulham),-0.022199999999999998,0.7778,0.8
 2021-12-28 14:30:37.445318,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Leeds United,-0.022199999999999998,0.7778,0.8
 2021-12-28 15:30:27.603858,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Over 9.5,-0.02260000000000001,0.3774,0.4
-2021-12-28 14:30:37.246595,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,West Ham United,-0.022600000000000064,0.6,0.6226
 2021-12-28 16:30:37.304312,Boxing Lines - Jonathan Rice vs Michael Polite Coffie - To Win the Bout,Michael Polite Coffie,-0.022600000000000064,0.5122,0.5348
+2021-12-28 14:30:37.246595,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,West Ham United,-0.022600000000000064,0.6,0.6226
 2021-12-28 14:30:36.264664,England Championship - England Championship 21/22 - Top 2 Finish,Queens Park Rangers,-0.0242,0.0667,0.0909
 2021-12-28 14:30:37.349350,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Chelsea,-0.025499999999999967,0.4,0.4255
 2021-12-28 13:30:31.131151,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Tyreek Hill,-0.028000000000000004,0.0196,0.0476
