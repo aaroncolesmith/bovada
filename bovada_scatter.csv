@@ -40,12 +40,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-28 09:30:38.448403,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TDs,Matthew Stafford,0.0348,0.4348,0.4
 2021-12-28 09:30:38.367385,NFL Season Props - NFL 2021/22 - Awards - Offensive Rookie of the Year,Ja'Marr Chase,0.033300000000000024,0.2,0.1667
 2021-12-28 08:30:44.661723,NFL Season Props - NFL 2021/22 - Awards - Offensive Player of the Year,Jonathan Taylor,0.03179999999999994,0.5556,0.5238
-2021-12-28 08:30:44.676831,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Mike Vrabel,0.029299999999999993,0.0769,0.0476
 2021-12-28 09:30:38.448403,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing TDs,Josh Allen,0.029299999999999993,0.0769,0.0476
+2021-12-28 08:30:44.676831,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Mike Vrabel,0.029299999999999993,0.0769,0.0476
+2021-12-28 16:30:37.323185,Boxing Lines - Luis Ortiz vs Charles Martin - To Win the Bout,Charles Martin,0.028599999999999987,0.2667,0.2381
 2021-12-28 13:30:31.162108,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Matthew Stafford,0.028000000000000004,0.0476,0.0196
 2021-12-28 08:30:44.625530,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Chris Jones,0.0257,0.0323,0.0066
 2021-12-28 14:30:37.426892,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Tottenham Hotspur,0.025600000000000067,0.6923,0.6667
 2021-12-28 15:30:27.603858,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Under 9.5,0.02080000000000004,0.6875,0.6667
+2021-12-28 16:30:37.304312,Boxing Lines - Jonathan Rice vs Michael Polite Coffie - To Win the Bout,Jonathan Rice,0.02079999999999993,0.5556,0.5348
 2021-12-28 13:30:31.151743,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Sacks,Nick Bosa,0.02020000000000001,0.1111,0.0909
 2021-12-28 14:30:37.426892,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Leicester City,0.0179,0.1429,0.125
 2021-12-28 09:30:38.477926,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Joe Burrow,0.017800000000000003,0.0244,0.0066
@@ -76,10 +78,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-28 14:30:37.445318,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Everton,-0.01849999999999996,0.9524,0.9709
 2021-12-28 14:30:37.445318,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Brentford,-0.019100000000000006,0.9333,0.9524
 2021-12-28 09:30:38.477926,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Passing Yards,Derek Carr,-0.02020000000000001,0.0909,0.1111
-2021-12-28 14:30:37.445318,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Leeds United,-0.022199999999999998,0.7778,0.8
 2021-12-28 14:30:36.230897,England Championship - England Championship 21/22 - Top Goalscorer,Aleksandar Mitrovic (Fulham),-0.022199999999999998,0.7778,0.8
+2021-12-28 14:30:37.445318,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Leeds United,-0.022199999999999998,0.7778,0.8
 2021-12-28 15:30:27.603858,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - San Francisco 49ers 2021/22 Total Wins,Over 9.5,-0.02260000000000001,0.3774,0.4
 2021-12-28 14:30:37.246595,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,West Ham United,-0.022600000000000064,0.6,0.6226
+2021-12-28 16:30:37.304312,Boxing Lines - Jonathan Rice vs Michael Polite Coffie - To Win the Bout,Michael Polite Coffie,-0.022600000000000064,0.5122,0.5348
 2021-12-28 08:30:44.625530,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Matthew Judon,-0.023899999999999998,0.0196,0.0435
 2021-12-28 14:30:36.264664,England Championship - England Championship 21/22 - Top 2 Finish,Queens Park Rangers,-0.0242,0.0667,0.0909
 2021-12-28 08:30:44.676831,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Brandon Staley,-0.024800000000000003,0.0278,0.0526
@@ -89,6 +92,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-28 13:30:31.162108,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Patrick Mahomes,-0.029299999999999993,0.0476,0.0769
 2021-12-28 08:30:44.625530,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,TJ Watt,-0.030299999999999994,0.3333,0.3636
 2021-12-28 15:30:28.814947,Boxing Lines - Jonathan Rice vs Michael Polite Coffie - To Win the Bout,Michael Polite Coffie,-0.030399999999999983,0.5348,0.5652
+2021-12-28 16:30:37.323185,Boxing Lines - Luis Ortiz vs Charles Martin - To Win the Bout,Luis Ortiz,-0.03049999999999997,0.8,0.8305
 2021-12-28 14:30:37.426892,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,-0.031799999999999995,0.4444,0.4762
 2021-12-28 13:30:31.131151,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Receiving TDs,Adam Thielen,-0.032400000000000005,0.0152,0.0476
 2021-12-28 13:30:31.162108,NFL Season Props - NFL 2021/22 - Player Regular Season Stat Futures - Most Interceptions Thrown,Joe Burrow,-0.033300000000000024,0.1667,0.2
