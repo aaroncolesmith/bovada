@@ -1,12 +1,30 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2021-12-29 14:30:36.588430,NFL Specials - NFC #1 Seed - Outright,Green Bay Packers,0.6445000000000001,0.8667,0.2222
+2021-12-29 14:30:35.970486,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Under 2.5,0.40769999999999995,0.8077,0.4
+2021-12-29 14:30:36.606404,NFL Specials - To Win a Wildcard Seed - Proposition,Arizona Cardinals,0.343,0.7778,0.4348
+2021-12-29 14:30:36.518365,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Philadelphia Eagles,Yes,0.32219999999999993,0.7222,0.4
+2021-12-29 14:30:36.606404,NFL Specials - To Win a Wildcard Seed - Proposition,Philadelphia Eagles,0.3143,0.7143,0.4
+2021-12-29 14:30:36.448953,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Cincinnati Bengals,Yes,0.21130000000000004,0.8113,0.6
+2021-12-29 14:30:36.428281,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Baltimore Ravens,No,0.1752999999999999,0.7101,0.5348
+2021-12-29 14:30:36.175930,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Jets 2021/22 Total Wins,Under 4.5,0.1433000000000001,0.8403,0.697
+2021-12-29 14:30:35.943666,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cincinnati Bengals 2021/22 Total Wins,Over 9.5,0.14290000000000003,0.6429,0.5
+2021-12-29 14:30:36.487342,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Minnesota Vikings,No,0.1341,0.9167,0.7826
+2021-12-29 14:30:36.572001,NFL Specials - AFC #1 Seed - Outright,Tennessee Titans,0.13240000000000002,0.25,0.1176
+2021-12-29 14:30:36.541770,NFL Season Props - NFL 2021/22 - To Make the Playoffs - San Francisco 49ers ,No,0.12909999999999996,0.3077,0.1786
+2021-12-29 14:30:36.439484,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Buffalo Bills,Yes,0.11849999999999994,0.9852,0.8667
+2021-12-29 14:30:36.553181,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Washington Football Team,No,0.11019999999999996,0.9852,0.875
 2021-12-29 11:30:33.068511,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without Man City,Chelsea,0.10450000000000004,0.4762,0.3717
+2021-12-29 14:30:36.477231,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Miami Dolphins,Yes,0.09720000000000001,0.2222,0.125
+2021-12-29 14:30:36.532273,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Pittsburgh Steelers,No,0.09500000000000008,0.9412,0.8462
 2021-12-29 06:30:40.716965,NBA Season Props - 2021/22 NBA Awards - 2022 The Sixth Man,Tyler Hero,0.08330000000000004,0.75,0.6667
 2021-12-29 12:30:29.858653,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Aston Villa,0.06929999999999997,0.5455,0.4762
 2021-12-29 06:30:40.679995,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Ja Morant,0.06820000000000001,0.25,0.1818
 2021-12-29 12:30:29.841720,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,0.05559999999999998,0.5,0.4444
+2021-12-29 14:30:36.588430,NFL Specials - NFC #1 Seed - Outright,Dallas Cowboys,0.05559999999999998,0.1667,0.1111
 2021-12-29 12:30:29.824755,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Chelsea,0.05449999999999999,0.4545,0.4
 2021-12-29 06:30:40.847520,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.05130000000000001,0.6667,0.6154
 2021-12-29 12:30:29.850249,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Southampton,0.05080000000000001,0.2326,0.1818
+2021-12-29 14:30:36.496363,NFL Season Props - NFL 2021/22 - To Make the Playoffs - New England Patriots,No,0.04650000000000001,0.1053,0.0588
 2021-12-29 11:30:33.086337,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Leicester City,0.04620000000000002,0.2,0.1538
 2021-12-29 12:30:29.850249,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Brighton & Hove Albion,0.044399999999999995,0.4444,0.4
 2021-12-29 12:30:29.816691,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Norwich City,0.040999999999999925,0.7333,0.6923
@@ -16,24 +34,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-29 12:30:29.858653,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Brentford,0.03410000000000002,0.9091,0.875
 2021-12-29 12:30:29.858653,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Wolverhampton Wanderers,0.03179999999999994,0.5556,0.5238
 2021-12-29 12:30:29.850249,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Newcastle United,0.028000000000000004,0.0476,0.0196
+2021-12-29 14:30:36.572001,NFL Specials - AFC #1 Seed - Outright,Kansas City Chiefs,0.027800000000000047,0.7778,0.75
 2021-12-29 12:30:29.850249,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Everton,0.02560000000000001,0.3333,0.3077
 2021-12-29 06:30:40.659663,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,0.021699999999999997,0.4762,0.4545
+2021-12-29 14:30:36.003775,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Under 7.5,0.020299999999999985,0.6429,0.6226
 2021-12-29 06:30:40.834003,NBA Futures - 2022 NBA Southeast Division - Division Winner,Charlotte Hornets,0.02020000000000001,0.1111,0.0909
+2021-12-29 14:30:35.757325,NCAAF - 2021-2022 NCAA Championship Winner - 2021-2022 NCAA Championship Game Exact Result,Michigan defeats Alabama,0.02020000000000001,0.1111,0.0909
 2021-12-29 06:30:40.771919,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,0.020199999999999996,0.9091,0.8889
 2021-12-29 12:30:29.858653,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Manchester United,0.0189,0.0385,0.0196
+2021-12-29 14:30:36.572001,NFL Specials - AFC #1 Seed - Outright,Cincinnati Bengals,0.0189,0.0385,0.0196
 2021-12-29 12:30:29.816691,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Watford,0.0179,0.1429,0.125
+2021-12-29 14:30:36.468053,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Denver Broncos,No,0.01739999999999997,0.993,0.9756
 2021-12-29 06:30:40.620363,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Kevin Durant,0.017299999999999982,0.303,0.2857
 2021-12-29 12:30:29.858653,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Crystal Palace,0.016700000000000048,0.75,0.7333
 2021-12-29 12:30:29.850249,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Leicester City,0.016700000000000048,0.75,0.7333
+2021-12-29 14:30:36.572001,NFL Specials - AFC #1 Seed - Outright,Indianapolis Colts,0.0145,0.0244,0.0099
 2021-12-29 12:30:29.850249,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Tottenham Hotspur,0.014100000000000001,0.9756,0.9615
 2021-12-29 12:30:29.858653,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,West Ham United,0.013999999999999999,0.0909,0.0769
+2021-12-29 14:30:35.757325,NCAAF - 2021-2022 NCAA Championship Winner - 2021-2022 NCAA Championship Game Exact Result,Georgia defeats Cincinnati,0.013899999999999996,0.125,0.1111
 2021-12-29 12:30:27.360393,Boxing Lines - Jonathan Rice vs Michael Polite Coffie - To Win the Bout,Jonathan Rice,0.013799999999999923,0.6364,0.6226
+2021-12-29 14:30:35.757325,NCAAF - 2021-2022 NCAA Championship Winner - 2021-2022 NCAA Championship Game Exact Result,Alabama defeats Michigan,0.012899999999999995,0.1667,0.1538
 2021-12-29 13:31:08.800602,Boxing Lines - Luis Ortiz vs Charles Martin - To Win the Bout,Luis Ortiz,0.0121,0.8058,0.7937
 2021-12-29 06:30:40.817733,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,0.011600000000000055,0.5238,0.5122
 2021-12-29 05:30:46.914897,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Franz Wagner,0.011199999999999995,0.0435,0.0323
 2021-12-29 11:30:33.086337,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Wolverhampton Wanderers,-0.0102,0.0667,0.0769
-2021-12-29 12:30:29.858653,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Newcastle United,-0.010800000000000032,0.9852,0.996
 2021-12-29 13:31:08.800602,Boxing Lines - Luis Ortiz vs Charles Martin - To Win the Bout,Charles Martin,-0.010800000000000032,0.2632,0.274
+2021-12-29 12:30:29.858653,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Newcastle United,-0.010800000000000032,0.9852,0.996
 2021-12-29 11:30:33.086337,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Brighton & Hove Albion,-0.011199999999999995,0.0476,0.0588
 2021-12-29 06:30:40.716965,NBA Season Props - 2021/22 NBA Awards - 2022 The Sixth Man,Kelly Oubre Jr.,-0.011899999999999994,0.0714,0.0833
 2021-12-29 12:30:29.858653,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Everton,-0.016700000000000048,0.7333,0.75
@@ -42,20 +68,45 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-29 12:30:29.858653,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Tottenham Hotspur,-0.018099999999999998,0.0588,0.0769
 2021-12-29 12:30:29.850249,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,West Ham United,-0.01849999999999996,0.9524,0.9709
 2021-12-29 12:30:29.858653,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Brighton & Hove Albion,-0.01880000000000004,0.6364,0.6552
+2021-12-29 14:30:36.572001,NFL Specials - AFC #1 Seed - Outright,Buffalo Bills,-0.0189,0.0196,0.0385
 2021-12-29 12:30:27.360393,Boxing Lines - Jonathan Rice vs Michael Polite Coffie - To Win the Bout,Michael Polite Coffie,-0.018900000000000028,0.4255,0.4444
+2021-12-29 14:30:36.003775,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Atlanta Falcons 2021/22 Total Wins,Over 7.5,-0.018900000000000028,0.4255,0.4444
 2021-12-29 12:30:29.858653,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Arsenal,-0.019099999999999992,0.0476,0.0667
 2021-12-29 06:30:40.620363,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,-0.019699999999999995,0.4348,0.4545
-2021-12-29 12:30:29.850249,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Wolverhampton Wanderers,-0.02169999999999994,0.5238,0.5455
 2021-12-29 06:30:40.817733,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,-0.02169999999999994,0.5238,0.5455
+2021-12-29 12:30:29.850249,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Wolverhampton Wanderers,-0.02169999999999994,0.5238,0.5455
 2021-12-29 06:30:40.834003,NBA Futures - 2022 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.023799999999999988,0.1429,0.1667
 2021-12-29 12:30:29.850249,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Crystal Palace,-0.02560000000000001,0.3077,0.3333
 2021-12-29 06:30:40.679995,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Miles Bridges,-0.027500000000000024,0.3571,0.3846
+2021-12-29 14:30:36.496363,NFL Season Props - NFL 2021/22 - To Make the Playoffs - New England Patriots,Yes,-0.03149999999999997,0.9615,0.993
+2021-12-29 14:30:36.468053,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Denver Broncos,Yes,-0.0321,0.0588,0.0909
+2021-12-29 14:30:36.588430,NFL Specials - NFC #1 Seed - Outright,Los Angeles Rams,-0.0344,0.0244,0.0588
 2021-12-29 12:30:29.841720,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Tottenham Hotspur,-0.03710000000000002,0.6552,0.6923
 2021-12-29 12:30:29.850249,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Aston Villa,-0.04620000000000002,0.5455,0.5917
 2021-12-29 06:30:40.659663,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Rudy Gobert,-0.047599999999999976,0.2857,0.3333
+2021-12-29 14:30:36.606404,NFL Specials - To Win a Wildcard Seed - Proposition,New Orleans Saints,-0.05449999999999999,0.4,0.4545
 2021-12-29 06:30:40.847520,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.05449999999999999,0.4,0.4545
 2021-12-29 12:30:29.858653,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Southampton,-0.05559999999999998,0.8333,0.8889
 2021-12-29 12:30:29.858653,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Leicester City,-0.055900000000000005,0.3077,0.3636
+2021-12-29 14:30:36.588430,NFL Specials - NFC #1 Seed - Outright,Arizona Cardinals,-0.056799999999999996,0.0099,0.0667
 2021-12-29 12:30:29.850249,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Brentford,-0.05710000000000001,0.1429,0.2
 2021-12-29 12:30:29.824755,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Liverpool,-0.06969999999999998,0.6226,0.6923
 2021-12-29 11:30:33.068511,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without Man City,Liverpool,-0.08339999999999992,0.5833,0.6667
+2021-12-29 14:30:36.606404,NFL Specials - To Win a Wildcard Seed - Proposition,Washington Football Team,-0.08979999999999999,0.0769,0.1667
+2021-12-29 14:30:36.477231,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Miami Dolphins,No,-0.09500000000000008,0.8462,0.9412
+2021-12-29 14:30:36.532273,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Pittsburgh Steelers,Yes,-0.09720000000000001,0.125,0.2222
+2021-12-29 14:30:36.606404,NFL Specials - To Win a Wildcard Seed - Proposition,San Francisco 49ers,-0.11109999999999998,0.7778,0.8889
+2021-12-29 14:30:36.553181,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Washington Football Team,Yes,-0.1136,0.0769,0.1905
+2021-12-29 14:30:36.439484,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Buffalo Bills,No,-0.12310000000000001,0.0769,0.2
+2021-12-29 14:30:36.541770,NFL Season Props - NFL 2021/22 - To Make the Playoffs - San Francisco 49ers ,Yes,-0.13280000000000003,0.7561,0.8889
+2021-12-29 14:30:36.487342,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Minnesota Vikings,Yes,-0.1376,0.1481,0.2857
+2021-12-29 14:30:35.943666,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Cincinnati Bengals 2021/22 Total Wins,Under 9.5,-0.13970000000000005,0.4255,0.5652
+2021-12-29 14:30:36.175930,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - New York Jets 2021/22 Total Wins,Over 4.5,-0.1501,0.2273,0.3774
+2021-12-29 14:30:36.428281,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Baltimore Ravens,Yes,-0.17770000000000008,0.3571,0.5348
+2021-12-29 14:30:36.606404,NFL Specials - To Win a Wildcard Seed - Proposition,Minnesota Vikings,-0.19039999999999999,0.1429,0.3333
+2021-12-29 14:30:36.572001,NFL Specials - AFC #1 Seed - Outright,New England Patriots,-0.20700000000000002,0.0152,0.2222
+2021-12-29 14:30:36.448953,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Cincinnati Bengals,No,-0.2087,0.2564,0.4651
+2021-12-29 14:30:36.518365,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Philadelphia Eagles,No,-0.32189999999999996,0.3448,0.6667
+2021-12-29 14:30:36.606404,NFL Specials - To Win a Wildcard Seed - Proposition,Los Angeles Rams,-0.35069999999999996,0.2857,0.6364
+2021-12-29 14:30:35.970486,NFL Season Props - NFL 2021/22 - Team Total Wins (Regular Season) - Jacksonville Jaguars 2021/22 Total Wins,Over 2.5,-0.407,0.2597,0.6667
+2021-12-29 14:30:36.588430,NFL Specials - NFC #1 Seed - Outright,Tampa Bay Buccaneers,-0.6282,0.0385,0.6667
