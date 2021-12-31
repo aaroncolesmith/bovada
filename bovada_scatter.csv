@@ -20,8 +20,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-31 11:30:41.102070,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,FC Porto,0.023800000000000043,0.5238,0.5
 2021-12-31 11:30:41.615459,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,0.02310000000000001,0.1,0.0769
 2021-12-31 11:30:40.836039,England Championship - England Championship 21/22 - Top 6 Finish,Swansea City,0.02310000000000001,0.1,0.0769
-2021-12-31 11:30:41.615459,League One - England League One 2021/22 - To Be Relegated,Lincoln City,0.022199999999999998,0.2222,0.2
 2021-12-31 11:30:42.901146,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Tottenham Hotspur,0.022199999999999998,0.8,0.7778
+2021-12-31 11:30:41.615459,League One - England League One 2021/22 - To Be Relegated,Lincoln City,0.022199999999999998,0.2222,0.2
 2021-12-31 20:30:53.563290,A-League - Australia A-League 2021/2022 - Grand Final Winner,Western United,0.019099999999999992,0.0667,0.0476
 2021-12-31 11:30:42.801595,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,0.017900000000000027,0.875,0.8571
 2021-12-31 11:30:41.615459,League One - England League One 2021/22 - To Be Relegated,Fleetwood Town,0.017600000000000005,0.3509,0.3333
@@ -29,9 +29,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-31 11:30:42.901146,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Arsenal,0.016700000000000048,0.75,0.7333
 2021-12-31 11:30:41.647750,League One - England League One 2021/22 - Top 2 Finish,Oxford United,0.013999999999999999,0.0909,0.0769
 2021-12-31 11:30:42.725961,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Burnley,0.013899999999999996,0.125,0.1111
-2021-12-31 10:30:49.155691,NFL Futures - AFC North - Division Winner,Cleveland Browns,0.012899999999999995,0.1667,0.1538
 2021-12-31 11:30:42.801595,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Tottenham Hotspur,0.011499999999999955,0.6667,0.6552
 2021-12-31 21:30:42.875791,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Real Madrid,0.011099999999999999,0.9,0.8889
+2021-12-31 23:30:34.078896,NBL - NBL 2021/22 - Outright,Perth Wildcats,0.010399999999999993,0.2326,0.2222
 2021-12-31 11:30:40.817708,England Championship - England Championship 21/22 - Top 2 Finish,Queens Park Rangers,0.0102,0.0769,0.0667
 2021-12-31 11:30:42.750682,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Chelsea,-0.010099999999999998,0.4444,0.4545
 2021-12-31 11:30:42.901146,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,West Ham United,-0.010199999999999987,0.9231,0.9333
@@ -62,13 +62,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-31 11:30:41.549880,League One - England League One 2021/22 - Top Goalscorer,Macauley Bonne (Ipswich),-0.03330000000000001,0.0667,0.1
 2021-12-31 11:30:41.549880,League One - England League One 2021/22 - Top Goalscorer,Cole Stockton (Morecambe),-0.034100000000000005,0.0909,0.125
 2021-12-31 11:30:42.865166,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Brighton & Hove Albion,-0.03639999999999999,0.6,0.6364
-2021-12-31 11:30:41.647750,League One - England League One 2021/22 - Top 2 Finish,Wycombe,-0.04169999999999999,0.125,0.1667
-2021-12-31 11:30:40.836039,England Championship - England Championship 21/22 - Top 6 Finish,Nottingham Forest,-0.04169999999999999,0.125,0.1667
 2021-12-31 11:30:42.725961,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Newcastle United,-0.04169999999999999,0.125,0.1667
+2021-12-31 11:30:40.836039,England Championship - England Championship 21/22 - Top 6 Finish,Nottingham Forest,-0.04169999999999999,0.125,0.1667
+2021-12-31 11:30:41.647750,League One - England League One 2021/22 - Top 2 Finish,Wycombe,-0.04169999999999999,0.125,0.1667
 2021-12-31 11:30:40.836039,England Championship - England Championship 21/22 - Top 6 Finish,Sheffield United,-0.05070000000000002,0.4255,0.4762
 2021-12-31 11:30:40.836039,England Championship - England Championship 21/22 - Top 6 Finish,Preston North End,-0.052399999999999995,0.0385,0.0909
-2021-12-31 11:30:41.665434,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,-0.05559999999999998,0.4444,0.5
 2021-12-31 11:30:42.801595,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,-0.05559999999999998,0.4444,0.5
+2021-12-31 11:30:41.665434,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,-0.05559999999999998,0.4444,0.5
 2021-12-31 11:30:40.836039,England Championship - England Championship 21/22 - Top 6 Finish,Middlesbrough,-0.055900000000000005,0.3077,0.3636
 2021-12-31 11:30:41.102070,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Benfica,-0.06590000000000001,0.1667,0.2326
 2021-12-31 11:30:41.615459,League One - England League One 2021/22 - To Be Relegated,Crewe Alexandra,-0.08490000000000009,0.7333,0.8182
