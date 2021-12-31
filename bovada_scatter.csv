@@ -32,6 +32,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-31 11:30:42.725961,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Burnley,0.013899999999999996,0.125,0.1111
 2021-12-31 10:30:49.155691,NFL Futures - AFC North - Division Winner,Cleveland Browns,0.012899999999999995,0.1667,0.1538
 2021-12-31 11:30:42.801595,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Tottenham Hotspur,0.011499999999999955,0.6667,0.6552
+2021-12-31 21:30:42.875791,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Real Madrid,0.011099999999999999,0.9,0.8889
 2021-12-31 11:30:40.817708,England Championship - England Championship 21/22 - Top 2 Finish,Queens Park Rangers,0.0102,0.0769,0.0667
 2021-12-31 11:30:42.750682,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Chelsea,-0.010099999999999998,0.4444,0.4545
 2021-12-31 11:30:42.901146,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,West Ham United,-0.010199999999999987,0.9231,0.9333
@@ -40,6 +41,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-31 14:30:48.467280,Boxing Lines - Luis Ortiz vs Charles Martin - To Win the Bout,Luis Ortiz,-0.0131,0.7647,0.7778
 2021-12-31 11:30:40.773372,England Championship - England Championship 21/22 - To Be Promoted,Coventry City,-0.013999999999999999,0.0769,0.0909
 2021-12-31 11:30:42.725961,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Leeds United,-0.014099999999999998,0.0244,0.0385
+2021-12-31 21:30:42.875791,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Atlético Madrid,-0.014100000000000001,0.0385,0.0526
 2021-12-31 11:30:40.773372,England Championship - England Championship 21/22 - To Be Promoted,Nottingham Forest,-0.014100000000000001,0.0385,0.0526
 2021-12-31 11:30:40.836039,England Championship - England Championship 21/22 - Top 6 Finish,Blackpool,-0.014900000000000004,0.0196,0.0345
 2021-12-31 20:30:53.563290,A-League - Australia A-League 2021/2022 - Grand Final Winner,Sydney FC,-0.015100000000000002,0.1667,0.1818
@@ -63,8 +65,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2021-12-31 11:30:41.549880,League One - England League One 2021/22 - Top Goalscorer,Cole Stockton (Morecambe),-0.034100000000000005,0.0909,0.125
 2021-12-31 11:30:42.865166,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Brighton & Hove Albion,-0.03639999999999999,0.6,0.6364
 2021-12-31 11:30:40.836039,England Championship - England Championship 21/22 - Top 6 Finish,Nottingham Forest,-0.04169999999999999,0.125,0.1667
-2021-12-31 11:30:42.725961,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Newcastle United,-0.04169999999999999,0.125,0.1667
 2021-12-31 11:30:41.647750,League One - England League One 2021/22 - Top 2 Finish,Wycombe,-0.04169999999999999,0.125,0.1667
+2021-12-31 11:30:42.725961,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Newcastle United,-0.04169999999999999,0.125,0.1667
 2021-12-31 11:30:40.836039,England Championship - England Championship 21/22 - Top 6 Finish,Sheffield United,-0.05070000000000002,0.4255,0.4762
 2021-12-31 11:30:40.836039,England Championship - England Championship 21/22 - Top 6 Finish,Preston North End,-0.052399999999999995,0.0385,0.0909
 2021-12-31 11:30:41.665434,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,-0.05559999999999998,0.4444,0.5
