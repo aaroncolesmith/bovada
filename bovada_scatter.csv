@@ -15,11 +15,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-01 14:30:30.107977,College Basketball - Mountain West Conference  Winner - Outright,Colorado State,0.02360000000000001,0.4082,0.3846
 2022-01-01 13:30:29.480330,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.02200000000000002,0.7143,0.6923
 2022-01-01 12:30:58.545461,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Evan Mobley,0.021699999999999997,0.4762,0.4545
+2022-01-01 19:30:39.793771,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Manchester City,0.020199999999999996,0.9091,0.8889
 2022-01-01 17:30:27.908379,Boxing Lines - Viktor Vykhryst vs Iago Kiladze - To Win the Bout,Viktor Vykhryst,0.019199999999999995,0.9901,0.9709
 2022-01-01 13:30:29.462339,NBA Futures - 2022 NBA Southeast Division - Division Winner,Miami Heat,0.018199999999999994,0.8182,0.8
 2022-01-01 08:30:56.687919,Boxing Lines - Frank Martin vs Duno Romero - To Win the Bout,Frank Martin,0.01660000000000006,0.9333,0.9167
-2022-01-01 14:30:30.147906,College Basketball - Southeastern Conference Winner - Outright,Alabama,0.01469999999999999,0.25,0.2353
 2022-01-01 13:30:29.513189,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.01469999999999999,0.25,0.2353
+2022-01-01 14:30:30.147906,College Basketball - Southeastern Conference Winner - Outright,Alabama,0.01469999999999999,0.25,0.2353
 2022-01-01 14:30:30.041413,College Basketball - Big East Conference  Winner - Outright,St. John's,0.014099999999999994,0.0667,0.0526
 2022-01-01 13:30:29.496683,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Chicago Bulls,0.013999999999999999,0.0909,0.0769
 2022-01-01 14:30:30.087609,College Basketball - Conference USA Winner - Outright,Louisiana Tech,0.0131,0.2353,0.2222
@@ -29,19 +30,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-01 09:30:43.630618,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Alavés,-0.010099999999999998,0.5455,0.5556
 2022-01-01 09:30:41.573528,Boxing Lines - Frank Martin vs Duno Romero - To Win the Bout,Frank Martin,-0.010199999999999987,0.9231,0.9333
 2022-01-01 14:30:30.087609,College Basketball - Conference USA Winner - Outright,Florida Atlantic,-0.010700000000000001,0.011,0.0217
-2022-01-01 14:30:29.967946,College Basketball - Atlantic 10 Conference Winner - Outright,Richmond,-0.010899999999999993,0.1429,0.1538
-2022-01-01 14:30:30.041413,College Basketball - Big East Conference  Winner - Outright,Seton Hall,-0.010899999999999993,0.1429,0.1538
 2022-01-01 13:30:29.496683,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.010899999999999993,0.1429,0.1538
+2022-01-01 14:30:30.041413,College Basketball - Big East Conference  Winner - Outright,Seton Hall,-0.010899999999999993,0.1429,0.1538
+2022-01-01 14:30:29.967946,College Basketball - Atlantic 10 Conference Winner - Outright,Richmond,-0.010899999999999993,0.1429,0.1538
 2022-01-01 14:30:30.087609,College Basketball - Conference USA Winner - Outright,Charlotte,-0.011199999999999995,0.0323,0.0435
+2022-01-01 19:30:39.793771,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Chelsea,-0.011199999999999995,0.0476,0.0588
 2022-01-01 09:30:43.667942,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Valencia,-0.011199999999999995,0.0476,0.0588
 2022-01-01 09:30:43.595904,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Luis Suarez,-0.011199999999999995,0.0476,0.0588
 2022-01-01 14:30:30.062675,College Basketball - Big Ten Conference Winner - Outright,Maryland,-0.011399999999999997,0.0164,0.0278
 2022-01-01 09:30:43.667942,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Osasuna,-0.012100000000000001,0.0123,0.0244
 2022-01-01 09:30:43.667942,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Betis,-0.012699999999999989,0.3509,0.3636
 2022-01-01 09:30:43.559235,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Sevilla,-0.013799999999999923,0.6226,0.6364
-2022-01-01 14:30:30.020068,College Basketball - Big 12 Conference Winner - Outright,Iowa State,-0.013999999999999999,0.0769,0.0909
-2022-01-01 09:30:43.595904,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Memphis Depay,-0.013999999999999999,0.0769,0.0909
+2022-01-01 19:30:39.793771,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Liverpool,-0.013899999999999996,0.1111,0.125
 2022-01-01 09:30:43.595904,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Vinicius Junior,-0.013999999999999999,0.0769,0.0909
+2022-01-01 09:30:43.595904,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Memphis Depay,-0.013999999999999999,0.0769,0.0909
+2022-01-01 14:30:30.020068,College Basketball - Big 12 Conference Winner - Outright,Iowa State,-0.013999999999999999,0.0769,0.0909
 2022-01-01 14:30:29.855913,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Arizona,-0.014099999999999994,0.0526,0.0667
 2022-01-01 14:30:30.087609,College Basketball - Conference USA Winner - Outright,Old Dominion,-0.014100000000000001,0.0385,0.0526
 2022-01-01 14:30:30.128761,College Basketball - PAC 12 Conference  Winner - Outright,USC,-0.015100000000000002,0.1667,0.1818
