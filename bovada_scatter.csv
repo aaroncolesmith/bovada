@@ -11,6 +11,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-01 17:30:27.866174,Boxing Lines - Frank Martin vs Duno Romero - To Win the Bout,Frank Martin,0.024500000000000077,0.9412,0.9167
 2022-01-02 00:30:29.321314,League Two - England League Two 2021/22 - Top 3 Finish,Forest Green Rovers,0.0242,0.9333,0.9091
 2022-01-01 23:30:55.511737,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Watford,0.022600000000000064,0.6226,0.6
+2022-01-02 04:30:30.679574,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,DeMar DeRozan,0.0204,0.0345,0.0141
 2022-01-02 00:30:29.321314,League Two - England League Two 2021/22 - Top 3 Finish,Bradford City,0.02020000000000001,0.1111,0.0909
 2022-01-01 19:30:39.793771,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Manchester City,0.020199999999999996,0.9091,0.8889
 2022-01-01 17:30:27.908379,Boxing Lines - Viktor Vykhryst vs Iago Kiladze - To Win the Bout,Viktor Vykhryst,0.019199999999999995,0.9901,0.9709
@@ -22,8 +23,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-01 23:30:47.913701,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,LeBron James,0.014499999999999999,0.0294,0.0149
 2022-01-01 22:30:33.133517,Boxing Lines - Luis Ortiz vs Charles Martin - To Win the Bout,Luis Ortiz,0.0131,0.7778,0.7647
 2022-01-01 23:30:47.754903,Boxing Lines - Amir Khan vs Kell Brook - To Win the Bout,Kell Brook,0.011499999999999955,0.6667,0.6552
-2022-01-02 00:30:29.238282,League One - England League One 2021/22 - Outright,Wycombe,0.011199999999999995,0.0588,0.0476
 2022-01-01 23:30:55.511737,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Crystal Palace,0.011199999999999995,0.0588,0.0476
+2022-01-02 00:30:29.238282,League One - England League One 2021/22 - Outright,Wycombe,0.011199999999999995,0.0588,0.0476
 2022-01-02 00:30:29.266016,League Two - England League Two 2021/22 - Outright,Swindon Town,0.0102,0.0769,0.0667
 2022-01-01 23:30:55.511737,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,0.010099999999999998,0.5556,0.5455
 2022-01-02 00:30:29.281238,League Two - England League Two 2021/22 - To Be Promoted,Newport County,-0.010399999999999993,0.2222,0.2326
