@@ -1,13 +1,21 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-02 19:30:36.193564,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,0.11119999999999997,0.5556,0.4444
 2022-01-02 19:30:36.118175,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,West Ham United,0.07790000000000008,0.7143,0.6364
+2022-01-03 07:30:32.156007,NFL Futures - AFC East - Division Winner,Buffalo Bills,0.07740000000000002,0.9524,0.875
+2022-01-03 07:30:32.119178,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Tennessee Titans,0.05559999999999998,0.1667,0.1111
+2022-01-03 07:30:32.119178,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Buffalo Bills,0.04999999999999999,0.25,0.2
 2022-01-02 19:30:36.193564,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Tottenham Hotspur,0.04760000000000009,0.7143,0.6667
 2022-01-02 19:30:36.142795,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,0.044399999999999995,0.6,0.5556
 2022-01-02 23:30:43.024747,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Sevilla,0.042899999999999994,0.1429,0.1
 2022-01-03 06:30:49.865524,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Green Bay Packers,0.0353,0.2353,0.2
+2022-01-03 07:30:32.138832,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Green Bay Packers,0.030299999999999994,0.3636,0.3333
 2022-01-03 06:30:49.865524,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tennessee Titans,0.029299999999999993,0.0769,0.0476
 2022-01-02 19:30:36.244758,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Arsenal,0.027800000000000047,0.7778,0.75
+2022-01-03 07:30:32.172643,NFL Futures - NFC West - Division Winner,Los Angeles Rams,0.027800000000000047,0.7778,0.75
 2022-01-02 19:30:36.142795,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Everton,0.0242,0.0909,0.0667
+2022-01-03 07:30:32.119178,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Cincinnati Bengals,0.02310000000000001,0.1,0.0769
+2022-01-03 07:30:32.119178,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Los Angeles Chargers,0.0203,0.0588,0.0385
+2022-01-03 07:30:32.138832,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Los Angeles Rams,0.01820000000000002,0.2,0.1818
 2022-01-03 06:30:49.865524,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Cincinnati Bengals,0.018099999999999998,0.0526,0.0345
 2022-01-03 06:30:49.865524,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Buffalo Bills,0.01759999999999999,0.1176,0.1
 2022-01-02 19:30:36.132651,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Mohamed Salah,0.016700000000000048,0.75,0.7333
@@ -19,20 +27,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-02 19:30:36.158831,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Liverpool,0.011499999999999955,0.6667,0.6552
 2022-01-02 19:30:36.092726,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Liverpool,-0.011099999999999999,0.1,0.1111
 2022-01-03 06:30:49.865524,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Indianapolis Colts,-0.011199999999999995,0.0476,0.0588
+2022-01-03 07:30:32.119178,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Pittsburgh Steelers,-0.0112,0.004,0.0152
+2022-01-03 07:30:32.119178,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Indianapolis Colts,-0.013899999999999996,0.1111,0.125
 2022-01-02 19:30:36.244758,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,West Ham United,-0.014000000000000012,0.9091,0.9231
 2022-01-02 19:30:36.118175,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Crystal Palace,-0.014099999999999998,0.0244,0.0385
 2022-01-02 19:30:36.142795,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Brighton & Hove Albion,-0.014499999999999999,0.0149,0.0294
+2022-01-03 07:30:32.138832,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Dallas Cowboys,-0.015100000000000002,0.1667,0.1818
 2022-01-03 06:30:49.865524,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Baltimore Ravens,-0.0156,0.004,0.0196
+2022-01-03 07:30:32.172643,NFL Futures - NFC West - Division Winner,Arizona Cardinals,-0.017299999999999982,0.2857,0.303
 2022-01-02 23:30:43.148151,England Championship - England Championship 21/22 - Outright,Blackburn Rovers,-0.019099999999999992,0.0476,0.0667
 2022-01-02 19:30:36.244758,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Tottenham Hotspur,-0.022199999999999998,0.7778,0.8
 2022-01-03 06:30:49.865524,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tampa Bay Buccaneers,-0.02239999999999999,0.0952,0.1176
 2022-01-03 06:30:49.865524,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Dallas Cowboys,-0.02310000000000001,0.0769,0.1
 2022-01-02 19:30:36.142795,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Brentford,-0.024999999999999994,0.1,0.125
+2022-01-03 07:30:32.119178,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Baltimore Ravens,-0.0286,0.0099,0.0385
 2022-01-02 19:30:36.118175,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Leicester City,-0.033300000000000024,0.1667,0.2
 2022-01-02 19:30:36.193564,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Leicester City,-0.03889999999999999,0.1429,0.1818
+2022-01-03 07:30:32.138832,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Tampa Bay Buccaneers,-0.04040000000000002,0.1818,0.2222
 2022-01-02 19:30:36.118175,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Aston Villa,-0.04329999999999999,0.0476,0.0909
 2022-01-02 19:30:36.193564,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Aston Villa,-0.04329999999999999,0.0476,0.0909
 2022-01-02 19:30:36.158831,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Chelsea,-0.044399999999999995,0.4,0.4444
 2022-01-02 19:30:36.193564,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Arsenal,-0.044500000000000095,0.7333,0.7778
 2022-01-03 06:30:49.865524,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Kansas City Chiefs,-0.04620000000000002,0.1538,0.2
+2022-01-03 07:30:32.119178,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,-0.055900000000000005,0.3077,0.3636
+2022-01-03 07:30:32.156007,NFL Futures - AFC East - Division Winner,New England Patriots,-0.06669999999999998,0.1,0.1667
 2022-01-02 19:30:36.142795,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,-0.06669999999999998,0.2,0.2667
