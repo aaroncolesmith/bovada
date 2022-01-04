@@ -14,6 +14,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-04 10:30:47.012745,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Villarreal,0.05550000000000002,0.2222,0.1667
 2022-01-04 10:30:47.012745,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Sevilla,0.04810000000000003,0.9231,0.875
 2022-01-04 15:30:30.517090,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Pittsburgh Steelers,No,0.04399999999999993,0.9852,0.9412
+2022-01-04 20:30:44.439479,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Green Bay Packers,0.04260000000000003,0.4348,0.3922
 2022-01-04 10:30:48.108857,England EFL Cup - EFL Cup 2021/22 - Outright,Arsenal,0.038099999999999995,0.2381,0.2
 2022-01-04 10:30:48.781547,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Newcastle United,0.037800000000000056,0.5833,0.5455
 2022-01-04 10:30:48.768642,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Arsenal,0.036800000000000055,0.7701,0.7333
@@ -29,13 +30,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-04 13:30:33.615312,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,0.01970000000000005,0.5652,0.5455
 2022-01-04 10:30:48.768642,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Tottenham Hotspur,0.018999999999999906,0.7333,0.7143
 2022-01-04 10:30:46.956234,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Gerard Moreno,0.0189,0.0385,0.0196
-2022-01-04 10:30:48.781547,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Brentford,0.018100000000000005,0.9412,0.9231
 2022-01-04 16:30:47.198587,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Mark Magsayo,0.018100000000000005,0.2222,0.2041
+2022-01-04 10:30:48.781547,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Brentford,0.018100000000000005,0.9412,0.9231
 2022-01-04 10:30:48.680712,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Wolverhampton Wanderers,0.018099999999999998,0.0769,0.0588
 2022-01-04 10:30:48.724957,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Burnley,0.0179,0.1429,0.125
 2022-01-04 10:30:46.996359,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Cádiz,0.016700000000000048,0.75,0.7333
-2022-01-04 19:30:54.147732,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,0.015700000000000006,0.1333,0.1176
 2022-01-04 19:30:51.955393,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Pittsburgh Steelers,0.015700000000000006,0.1333,0.1176
+2022-01-04 19:30:54.147732,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,0.015700000000000006,0.1333,0.1176
 2022-01-04 16:30:47.114324,Boxing Lines - Joe Smith Jr vs Callum Johnson - To Win the Bout,Joe Smith Jr,0.0121,0.8058,0.7937
 2022-01-04 19:30:52.791602,Boxing Lines - Liam Smith vs Jessie Vargas - To Win the Bout,Liam Smith,0.011499999999999955,0.6667,0.6552
 2022-01-04 13:30:33.635507,NBA Futures - 2022 NBA Southeast Division - Division Winner,Charlotte Hornets,0.011099999999999999,0.1111,0.1
@@ -52,8 +53,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-04 10:30:48.741494,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Manchester United,-0.012100000000000001,0.0123,0.0244
 2022-01-04 13:30:33.635507,NBA Futures - 2022 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.013899999999999996,0.1111,0.125
 2022-01-04 10:30:46.996359,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,-0.015100000000000002,0.1667,0.1818
-2022-01-04 10:30:48.657879,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without Man City,Chelsea,-0.015400000000000025,0.3846,0.4
 2022-01-04 10:30:48.741494,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Chelsea,-0.015400000000000025,0.3846,0.4
+2022-01-04 10:30:48.657879,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without Man City,Chelsea,-0.015400000000000025,0.3846,0.4
 2022-01-04 10:30:48.108857,England EFL Cup - EFL Cup 2021/22 - Outright,Liverpool,-0.017600000000000005,0.3333,0.3509
 2022-01-04 10:30:46.903732,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Real Betis,-0.0203,0.0385,0.0588
 2022-01-04 10:30:46.996359,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Getafe,-0.021999999999999964,0.2857,0.3077
@@ -69,6 +70,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-04 15:30:30.319076,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Trevon Diggs,-0.028199999999999996,0.0385,0.0667
 2022-01-04 15:30:30.319076,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Myles Garrett,-0.029299999999999993,0.0476,0.0769
 2022-01-04 10:30:48.781547,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Watford,-0.031799999999999995,0.4444,0.4762
+2022-01-04 20:30:44.439479,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,New Orleans Saints,-0.0353,0.2,0.2353
 2022-01-04 10:30:47.012745,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Betis,-0.03570000000000001,0.25,0.2857
 2022-01-04 13:30:33.615312,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,-0.035999999999999976,0.4762,0.5122
 2022-01-04 10:30:48.108857,England EFL Cup - EFL Cup 2021/22 - Outright,Chelsea,-0.043200000000000016,0.3077,0.3509
