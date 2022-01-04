@@ -22,6 +22,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-04 10:30:48.657879,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without Man City,Liverpool,0.030299999999999994,0.6667,0.6364
 2022-01-04 10:30:48.768642,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Wolverhampton Wanderers,0.029299999999999993,0.0769,0.0476
 2022-01-04 13:30:33.392092,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Franz Wagner,0.027800000000000005,0.1111,0.0833
+2022-01-04 21:30:39.349338,LKL - LKL 2021/22 - Outright,Rytas,0.02779999999999999,0.25,0.2222
 2022-01-04 10:30:48.741494,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Liverpool,0.025600000000000067,0.6923,0.6667
 2022-01-04 13:30:33.392092,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Evan Mobley,0.023799999999999988,0.5,0.4762
 2022-01-04 10:30:48.108857,England EFL Cup - EFL Cup 2021/22 - Outright,Tottenham Hotspur,0.022199999999999998,0.2222,0.2
@@ -39,6 +40,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-04 19:30:54.147732,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,0.015700000000000006,0.1333,0.1176
 2022-01-04 16:30:47.114324,Boxing Lines - Joe Smith Jr vs Callum Johnson - To Win the Bout,Joe Smith Jr,0.0121,0.8058,0.7937
 2022-01-04 19:30:52.791602,Boxing Lines - Liam Smith vs Jessie Vargas - To Win the Bout,Liam Smith,0.011499999999999955,0.6667,0.6552
+2022-01-04 21:30:37.872822,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Defenders,0.011199999999999995,0.0588,0.0476
 2022-01-04 13:30:33.635507,NBA Futures - 2022 NBA Southeast Division - Division Winner,Charlotte Hornets,0.011099999999999999,0.1111,0.1
 2022-01-04 10:30:48.724957,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Watford,0.010899999999999993,0.1538,0.1429
 2022-01-04 19:30:52.673541,Boxing Lines - Joe Smith Jr vs Callum Johnson - To Win the Bout,Callum Johnson,0.010800000000000032,0.274,0.2632
@@ -53,15 +55,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-04 10:30:48.741494,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Manchester United,-0.012100000000000001,0.0123,0.0244
 2022-01-04 13:30:33.635507,NBA Futures - 2022 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.013899999999999996,0.1111,0.125
 2022-01-04 10:30:46.996359,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,-0.015100000000000002,0.1667,0.1818
-2022-01-04 10:30:48.741494,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Chelsea,-0.015400000000000025,0.3846,0.4
 2022-01-04 10:30:48.657879,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without Man City,Chelsea,-0.015400000000000025,0.3846,0.4
+2022-01-04 10:30:48.741494,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Chelsea,-0.015400000000000025,0.3846,0.4
 2022-01-04 10:30:48.108857,England EFL Cup - EFL Cup 2021/22 - Outright,Liverpool,-0.017600000000000005,0.3333,0.3509
+2022-01-04 21:30:37.872822,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Armada,-0.018099999999999998,0.0588,0.0769
 2022-01-04 10:30:46.903732,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Real Betis,-0.0203,0.0385,0.0588
 2022-01-04 10:30:46.996359,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Getafe,-0.021999999999999964,0.2857,0.3077
 2022-01-04 14:30:39.771376,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Mohamed Salah,-0.022199999999999998,0.2,0.2222
 2022-01-04 13:30:33.392092,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Cade Cunningham,-0.022199999999999998,0.2,0.2222
 2022-01-04 10:30:46.903732,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Real Sociedad,-0.023200000000000002,0.0294,0.0526
+2022-01-04 21:30:39.349338,LKL - LKL 2021/22 - Outright,Zalgiris,-0.023799999999999932,0.8333,0.8571
 2022-01-04 10:30:48.680712,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Leicester City,-0.023799999999999988,0.1429,0.1667
+2022-01-04 21:30:37.872822,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Commanders,-0.024299999999999995,0.0526,0.0769
 2022-01-04 10:30:48.781547,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Norwich City,-0.024999999999999994,0.1,0.125
 2022-01-04 10:30:46.903732,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Atlético Madrid,-0.02560000000000001,0.3077,0.3333
 2022-01-04 13:30:33.371929,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Miles Bridges,-0.02679999999999999,0.2857,0.3125
@@ -87,6 +92,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-04 15:30:30.435554,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Indianapolis Colts,No,-0.08430000000000001,0.1379,0.2222
 2022-01-04 10:30:48.768642,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,-0.09719999999999995,0.7778,0.875
 2022-01-04 15:30:30.319076,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Micah Parsons,-0.12259999999999999,0.2222,0.3448
+2022-01-04 21:30:37.872822,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington RedHogs,-0.13190000000000002,0.1538,0.2857
 2022-01-04 15:30:30.464457,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Los Angeles Chargers,Yes,-0.15000000000000002,0.6,0.75
 2022-01-04 15:30:30.549149,NFL Season Props - NFL 2021/22 - To Make the Playoffs - San Francisco 49ers ,Yes,-0.1644,0.5917,0.7561
 2022-01-04 15:30:30.450502,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Las Vegas Raiders,No,-0.30910000000000004,0.6,0.9091
