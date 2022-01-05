@@ -1,6 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-05 12:30:36.962229,League Two - England League Two 2021/22 - To Be Promoted,Sutton Utd,0.19039999999999999,0.3333,0.1429
 2022-01-05 09:30:48.392161,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Otar Eranosyan,0.0988,0.4762,0.3774
+2022-01-05 20:30:58.780908,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Total Games Played,Under 40.5,0.08339999999999992,0.6667,0.5833
 2022-01-05 15:30:49.686483,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,TJ Watt,0.04619999999999991,0.8462,0.8
 2022-01-05 12:30:36.996387,League Two - England League Two 2021/22 - Top 7 Finish,Salford City,0.04099999999999998,0.3077,0.2667
 2022-01-05 12:30:36.996387,League Two - England League Two 2021/22 - Top 7 Finish,Mansfield Town,0.04099999999999998,0.3077,0.2667
@@ -9,20 +10,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-05 12:30:36.996387,League Two - England League Two 2021/22 - Top 7 Finish,Tranmere Rovers,0.022600000000000064,0.6226,0.6
 2022-01-05 12:30:35.070738,Boxing Lines - Chris Eubank Jr vs Liam Williams - To Win the Bout,Liam Williams,0.022299999999999986,0.3636,0.3413
 2022-01-05 15:30:46.912427,Boxing Lines - Edwin de los santos vs William Foster III - To Win the Bout,Edwin de los santos,0.020699999999999996,0.4444,0.4237
+2022-01-05 20:30:58.925754,Olympic Specials - Will Beijing 2022 Winter Olympic Games be postponed? - Outright,Yes,0.02020000000000001,0.1111,0.0909
+2022-01-05 20:30:58.830973,NBA Specials - Becky Hammond to become an NBA Head Coach in 2022? - Outright,No,0.018900000000000028,0.9804,0.9615
 2022-01-05 10:30:27.401664,England EFL Cup - EFL Cup 2021/22 - Outright,Liverpool,0.017600000000000005,0.3509,0.3333
 2022-01-05 12:30:34.890521,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Sparkinson Wilson Castillo,0.017299999999999982,0.5917,0.5744
 2022-01-05 12:30:36.983413,League Two - England League Two 2021/22 - Top 3 Finish,Salford City,0.013999999999999999,0.0909,0.0769
-2022-01-05 08:30:29.822712,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Mark Magsayo,0.011700000000000016,0.2222,0.2105
+2022-01-05 20:30:54.431648,Boxing Lines - Ali Izmailov vs Israel Duffus - To Win the Bout,Ali Izmailov,0.0131,0.9655,0.9524
+2022-01-05 20:30:54.574744,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Otar Eranosyan,0.0116,0.4878,0.4762
 2022-01-05 10:30:25.011922,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Otar Eranosyan,0.0116,0.4878,0.4762
+2022-01-05 20:30:58.894269,Olympic Specials - Will Beijing 2022 Winter Olympic Games be cancelled? - Outright,Yes,0.011199999999999995,0.0588,0.0476
 2022-01-05 18:30:47.785219,Boxing Lines - Luis Reynaldo Nunez vs Carlos Arrieta - To Win the Bout,Luis Reynaldo Nunez,0.011099999999999999,0.9,0.8889
-2022-01-05 07:30:36.445449,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Gary Russell Jr,0.01090000000000002,0.8571,0.8462
 2022-01-05 16:30:29.322861,Boxing Lines - Elvis Figueroa vs Ryan Adams - To Win the Bout,Elvis Figueroa,0.01090000000000002,0.8571,0.8462
 2022-01-05 16:30:29.304459,Boxing Lines - Edwin de los santos vs William Foster III - To Win the Bout,Edwin de los santos,0.010099999999999998,0.4545,0.4444
 2022-01-05 12:30:36.996387,League Two - England League Two 2021/22 - Top 7 Finish,Exeter City,-0.010099999999999998,0.4444,0.4545
+2022-01-05 20:30:54.472477,Boxing Lines - Elvis Figueroa vs Ryan Adams - To Win the Bout,Ryan Adams,-0.010499999999999982,0.2,0.2105
 2022-01-05 15:30:46.983332,Boxing Lines - Shinard Bunch vs Shyngyskhan Tazhibay - To Win the Bout,Shyngyskhan Tazhibay,-0.010800000000000004,0.2273,0.2381
-2022-01-05 08:30:29.822712,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Gary Russell Jr,-0.01090000000000002,0.8462,0.8571
 2022-01-05 12:30:34.890521,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Otar Eranosyan,-0.0116,0.4762,0.4878
-2022-01-05 07:30:36.445449,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Mark Magsayo,-0.011700000000000016,0.2105,0.2222
 2022-01-05 16:30:29.322861,Boxing Lines - Elvis Figueroa vs Ryan Adams - To Win the Bout,Ryan Adams,-0.011700000000000016,0.2105,0.2222
 2022-01-05 12:30:36.962229,League Two - England League Two 2021/22 - To Be Promoted,Port Vale,-0.012699999999999989,0.3509,0.3636
 2022-01-05 15:30:46.912427,Boxing Lines - Edwin de los santos vs William Foster III - To Win the Bout,William Foster III,-0.013799999999999923,0.6226,0.6364
@@ -31,12 +34,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-05 12:30:36.996387,League Two - England League Two 2021/22 - Top 7 Finish,Leyton Orient,-0.015400000000000025,0.3846,0.4
 2022-01-05 12:30:36.996387,League Two - England League Two 2021/22 - Top 7 Finish,Swindon Town,-0.016700000000000048,0.7333,0.75
 2022-01-05 10:30:25.011922,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Sparkinson Wilson Castillo,-0.017299999999999982,0.5744,0.5917
+2022-01-05 20:30:54.574744,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Sparkinson Wilson Castillo,-0.017299999999999982,0.5744,0.5917
 2022-01-05 12:30:36.983413,League Two - England League Two 2021/22 - Top 3 Finish,Tranmere Rovers,-0.0174,0.2326,0.25
 2022-01-05 12:30:36.973893,League Two - England League Two 2021/22 - To Be Relegated,Colchester United,-0.0174,0.2326,0.25
 2022-01-05 12:30:36.983413,League Two - England League Two 2021/22 - Top 3 Finish,Newport County,-0.0179,0.125,0.1429
 2022-01-05 15:30:49.686483,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Trevon Diggs,-0.0189,0.0196,0.0385
+2022-01-05 20:30:58.925754,Olympic Specials - Will Beijing 2022 Winter Olympic Games be postponed? - Outright,No,-0.018900000000000028,0.9615,0.9804
+2022-01-05 20:30:54.431648,Boxing Lines - Ali Izmailov vs Israel Duffus - To Win the Bout,Israel Duffus,-0.019299999999999998,0.0833,0.1026
 2022-01-05 15:30:49.686483,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Myles Garrett,-0.019800000000000005,0.0278,0.0476
 2022-01-05 15:30:49.686483,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Aaron Donald,-0.02020000000000001,0.0909,0.1111
+2022-01-05 20:30:58.830973,NBA Specials - Becky Hammond to become an NBA Head Coach in 2022? - Outright,Yes,-0.02020000000000001,0.0909,0.1111
 2022-01-05 12:30:36.996387,League Two - England League Two 2021/22 - Top 7 Finish,Bradford City,-0.02100000000000002,0.3636,0.3846
 2022-01-05 12:30:36.983413,League Two - England League Two 2021/22 - Top 3 Finish,Swindon Town,-0.02100000000000002,0.3636,0.3846
 2022-01-05 10:30:27.401664,England EFL Cup - EFL Cup 2021/22 - Outright,Tottenham Hotspur,-0.022199999999999998,0.2,0.2222
@@ -49,3 +56,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-05 15:30:49.686483,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Robert Quinn,-0.028000000000000004,0.0196,0.0476
 2022-01-05 15:30:49.686483,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Micah Parsons,-0.05550000000000002,0.1667,0.2222
 2022-01-05 09:30:48.392161,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Sparkinson Wilson Castillo,-0.0958,0.5917,0.6875
+2022-01-05 20:30:58.780908,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Total Games Played,Over 40.5,-0.09999999999999998,0.4,0.5
