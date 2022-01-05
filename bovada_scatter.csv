@@ -7,8 +7,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-05 01:30:37.010236,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington RedHogs,0.027999999999999997,0.1818,0.1538
 2022-01-04 21:30:39.349338,LKL - LKL 2021/22 - Outright,Rytas,0.02779999999999999,0.25,0.2222
 2022-01-04 23:30:46.962366,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Joe Burrow,0.024299999999999995,0.0769,0.0526
-2022-01-05 01:30:36.907433,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Los Angeles Chargers,Yes,0.022600000000000064,0.6226,0.6
 2022-01-05 01:30:36.895252,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Las Vegas Raiders,No,0.022600000000000064,0.6226,0.6
+2022-01-05 01:30:36.907433,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Los Angeles Chargers,Yes,0.022600000000000064,0.6226,0.6
 2022-01-04 23:30:46.597059,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Auburn,0.02020000000000001,0.1111,0.0909
 2022-01-04 23:30:46.962366,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Aaron Rodgers,0.020000000000000018,0.8095,0.7895
 2022-01-05 03:30:34.051488,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Defenders,0.018099999999999998,0.0769,0.0588
@@ -16,25 +16,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-04 19:30:51.955393,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Pittsburgh Steelers,0.015700000000000006,0.1333,0.1176
 2022-01-04 19:30:52.791602,Boxing Lines - Liam Smith vs Jessie Vargas - To Win the Bout,Liam Smith,0.011499999999999955,0.6667,0.6552
 2022-01-04 22:30:45.842177,Japan B League - Japan League B1 2021/22 - Outright,Akita Northern Happinets,0.011199999999999995,0.0588,0.0476
-2022-01-04 21:30:37.872822,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Defenders,0.011199999999999995,0.0588,0.0476
 2022-01-05 01:30:39.476013,League Two - England League Two 2021/22 - Outright,Port Vale,0.011199999999999995,0.0588,0.0476
+2022-01-04 21:30:37.872822,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Defenders,0.011199999999999995,0.0588,0.0476
+2022-01-05 07:30:36.445449,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Gary Russell Jr,0.01090000000000002,0.8571,0.8462
 2022-01-04 19:30:52.673541,Boxing Lines - Joe Smith Jr vs Callum Johnson - To Win the Bout,Callum Johnson,0.010800000000000032,0.274,0.2632
-2022-01-05 01:30:39.476013,League Two - England League Two 2021/22 - Outright,Northampton Town,0.0102,0.0769,0.0667
 2022-01-05 06:30:39.271856,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Armada,0.0102,0.0769,0.0667
+2022-01-05 01:30:39.476013,League Two - England League Two 2021/22 - Outright,Northampton Town,0.0102,0.0769,0.0667
 2022-01-04 22:30:46.060069,Super Ligi - Turkey BSL 2021/22 - Outright,Darüssafaka Dogus,0.010100000000000001,0.0345,0.0244
 2022-01-05 01:30:39.476013,League Two - England League Two 2021/22 - Outright,Exeter City,0.010100000000000001,0.0345,0.0244
-2022-01-05 04:30:32.382010,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Defenders,-0.0102,0.0667,0.0769
 2022-01-05 01:30:39.476013,League Two - England League Two 2021/22 - Outright,Swindon Town,-0.0102,0.0667,0.0769
+2022-01-05 04:30:32.382010,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Defenders,-0.0102,0.0667,0.0769
 2022-01-05 04:30:32.382010,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Presidents,-0.011199999999999995,0.0476,0.0588
 2022-01-05 01:30:37.010236,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Aviators,-0.011199999999999995,0.0476,0.0588
 2022-01-05 01:30:37.010236,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Sentinels,-0.011199999999999995,0.0476,0.0588
 2022-01-05 01:30:37.010236,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Renegades,-0.011199999999999995,0.0476,0.0588
+2022-01-05 07:30:36.445449,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Mark Magsayo,-0.011700000000000016,0.2105,0.2222
 2022-01-04 19:30:52.673541,Boxing Lines - Joe Smith Jr vs Callum Johnson - To Win the Bout,Joe Smith Jr,-0.0121,0.7937,0.8058
 2022-01-05 04:30:32.382010,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Sentinels,-0.0131,0.0345,0.0476
 2022-01-05 04:30:32.382010,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Renegades,-0.0131,0.0345,0.0476
-2022-01-05 04:30:32.382010,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Aviators,-0.0131,0.0345,0.0476
 2022-01-05 04:30:32.382010,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Lincolns,-0.0131,0.0345,0.0476
+2022-01-05 04:30:32.382010,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Aviators,-0.0131,0.0345,0.0476
 2022-01-05 04:30:32.382010,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Brigade,-0.014099999999999994,0.0526,0.0667
+2022-01-05 06:30:39.271856,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Admirals,-0.015100000000000002,0.1667,0.1818
 2022-01-04 21:30:37.872822,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Armada,-0.018099999999999998,0.0588,0.0769
 2022-01-05 01:30:36.895252,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Las Vegas Raiders,Yes,-0.018100000000000005,0.4167,0.4348
 2022-01-04 21:30:39.349338,LKL - LKL 2021/22 - Outright,Zalgiris,-0.023799999999999932,0.8333,0.8571
