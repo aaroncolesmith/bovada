@@ -1,5 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-06 00:30:47.822422,England EFL Cup - EFL Cup 2021/22 - Outright,Chelsea,0.19230000000000003,0.5,0.3077
+2022-01-06 00:30:45.027928,College Basketball - Southeastern Conference Winner - Outright,Auburn,0.141,0.3077,0.1667
 2022-01-05 20:30:58.780908,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Total Games Played,Under 40.5,0.08339999999999992,0.6667,0.5833
 2022-01-06 00:30:43.600310,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Sparkinson Wilson Castillo,0.05520000000000003,0.6296,0.5744
 2022-01-05 22:30:28.794025,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Total Games Played,Under 40.5,0.04760000000000009,0.7143,0.6667
@@ -7,6 +8,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-05 22:30:28.775274,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Points,Under 19.5,0.03479999999999994,0.6,0.5652
 2022-01-05 22:30:28.757658,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Assists,Under 2.5,0.030399999999999983,0.5652,0.5348
 2022-01-05 21:30:35.617150,NFL Specials - Where will Antonio Brown Play For Game 1 Of The 2022-2023 Season? - Outright,Not on NFL Roster,0.022199999999999998,0.8,0.7778
+2022-01-06 00:30:44.270092,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Auburn,0.022199999999999998,0.1333,0.1111
 2022-01-05 15:30:46.912427,Boxing Lines - Edwin de los santos vs William Foster III - To Win the Bout,Edwin de los santos,0.020699999999999996,0.4444,0.4237
 2022-01-05 20:30:58.925754,Olympic Specials - Will Beijing 2022 Winter Olympic Games be postponed? - Outright,Yes,0.02020000000000001,0.1111,0.0909
 2022-01-05 20:30:58.830973,NBA Specials - Becky Hammond to become an NBA Head Coach in 2022? - Outright,No,0.018900000000000028,0.9804,0.9615
@@ -39,5 +41,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-05 22:30:28.775274,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Points,Over 19.5,-0.04760000000000003,0.4762,0.5238
 2022-01-06 00:30:43.600310,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Otar Eranosyan,-0.05299999999999999,0.4348,0.4878
 2022-01-05 15:30:49.686483,NFL Season Props - NFL 2021/22 - Awards - Defensive Player of the Year,Micah Parsons,-0.05550000000000002,0.1667,0.2222
+2022-01-06 00:30:45.027928,College Basketball - Southeastern Conference Winner - Outright,Kentucky,-0.09799999999999998,0.2353,0.3333
 2022-01-05 20:30:58.780908,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Total Games Played,Over 40.5,-0.09999999999999998,0.4,0.5
 2022-01-06 00:30:47.822422,England EFL Cup - EFL Cup 2021/22 - Outright,Tottenham Hotspur,-0.13330000000000003,0.0667,0.2
