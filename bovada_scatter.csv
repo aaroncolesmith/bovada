@@ -19,10 +19,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-06 10:30:33.800419,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Strasbourg,0.0131,0.0476,0.0345
 2022-01-06 11:30:36.831732,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Morocco,0.011099999999999999,0.1111,0.1
 2022-01-06 10:30:32.464928,Boxing Lines - Shinard Bunch vs Shyngyskhan Tazhibay - To Win the Bout,Shinard Bunch,0.01090000000000002,0.8571,0.8462
+2022-01-06 12:30:35.423794,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Otar Eranosyan,0.010599999999999998,0.4651,0.4545
 2022-01-06 05:30:36.688541,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Monty Williams (PHO),0.010499999999999982,0.2105,0.2
 2022-01-06 05:30:36.688541,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Steve Kerr (GSW),0.010499999999999982,0.2105,0.2
-2022-01-06 11:30:33.383396,Boxing Lines - Edwin de los santos vs William Foster III - To Win the Bout,Edwin de los santos,0.010099999999999998,0.4545,0.4444
 2022-01-06 11:30:33.433271,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Otar Eranosyan,0.010099999999999998,0.4545,0.4444
+2022-01-06 11:30:33.383396,Boxing Lines - Edwin de los santos vs William Foster III - To Win the Bout,Edwin de los santos,0.010099999999999998,0.4545,0.4444
 2022-01-06 10:30:32.427119,Boxing Lines - Edwin de los santos vs William Foster III - To Win the Bout,Edwin de los santos,-0.010099999999999998,0.4444,0.4545
 2022-01-06 11:30:36.831732,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Ghana,-0.0102,0.0667,0.0769
 2022-01-06 11:30:36.831732,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Cameroon,-0.011099999999999999,0.1,0.1111
@@ -35,8 +36,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-06 11:30:33.433271,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Sparkinson Wilson Castillo,-0.014800000000000035,0.6078,0.6226
 2022-01-06 11:30:33.383396,Boxing Lines - Edwin de los santos vs William Foster III - To Win the Bout,William Foster III,-0.014800000000000035,0.6078,0.6226
 2022-01-06 11:30:36.831732,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Egypt,-0.015700000000000006,0.1176,0.1333
-2022-01-06 11:30:36.868299,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Cameroon,-0.01820000000000002,0.1818,0.2
 2022-01-06 05:30:36.688541,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,JB Bickerstaff (CLE),-0.01820000000000002,0.1818,0.2
+2022-01-06 11:30:36.868299,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Cameroon,-0.01820000000000002,0.1818,0.2
 2022-01-06 09:30:28.625231,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Aaron Rodgers,-0.03169999999999995,0.7778,0.8095
 2022-01-06 00:30:45.027928,College Basketball - Southeastern Conference Winner - Outright,Arkansas,-0.03219999999999999,0.0345,0.0667
 2022-01-06 06:30:30.688470,NFL Season Props - NFL 2021/22 - Awards - The Coach of the Year,Matt LaFleur,-0.03640000000000004,0.3636,0.4
