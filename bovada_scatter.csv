@@ -1,8 +1,10 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-07 04:30:30.211036,NCAA Football Specials - Where will Caleb Williams Play Game 1 of the 2022/2023 NCAA Season? - Outright,North Carolina,0.1453,0.2222,0.0769
+2022-01-07 13:30:36.824570,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Green Bay Packers,0.05299999999999999,0.4878,0.4348
 2022-01-07 06:30:39.648749,NFL Specials - Who will win NFL Regular Season Most Valuable Vaccinated Player - Outright,Tom Brady,0.04169999999999996,0.875,0.8333
 2022-01-07 12:31:03.553923,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Ciro Immobile,0.04099999999999998,0.3077,0.2667
 2022-01-07 12:31:03.553923,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Lautaro Martinez,0.031799999999999995,0.1429,0.1111
+2022-01-07 13:30:35.210535,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Mark Magsayo,0.02779999999999999,0.25,0.2222
 2022-01-07 07:30:45.628425,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington Commanders,0.02560000000000001,0.3333,0.3077
 2022-01-07 12:31:03.581840,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AC Milan,0.022199999999999998,0.8,0.7778
 2022-01-07 06:30:39.674655,NFL Specials - Will the Cincinnati Bengals Win a Playoff Game in 2022 - Outright,No,0.021699999999999997,0.4762,0.4545
@@ -10,6 +12,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-07 07:30:43.995222,"Specials - Will Bitcoin Reach $100,000 USD in 2022? - Outright",No,0.018399999999999972,0.7059,0.6875
 2022-01-07 12:31:01.641844,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Utah Jazz,0.016700000000000007,0.1,0.0833
 2022-01-07 07:30:46.442943,Boxing Lines - Edwin de los santos vs William Foster III - To Win the Bout,William Foster III,0.014800000000000035,0.6226,0.6078
+2022-01-07 13:30:35.153029,Boxing Lines - Ali Izmailov vs Israel Duffus - To Win the Bout,Israel Duffus,0.014399999999999996,0.0769,0.0625
 2022-01-07 12:31:01.641844,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Memphis Grizzlies,0.013699999999999999,0.0278,0.0141
 2022-01-07 06:30:39.662269,NFL Specials - Will the Cincinnati Bengals Reach The  AFC Championship Game in 2022 - Outright,Yes,0.012799999999999978,0.2128,0.2
 2022-01-07 06:30:37.760806,Celebrity Boxing - Jake Paul vs Antonio Brown  - Outright,Jake Paul,0.011900000000000022,0.7619,0.75
@@ -20,19 +23,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-07 07:30:46.442943,Boxing Lines - Edwin de los santos vs William Foster III - To Win the Bout,Edwin de los santos,-0.010099999999999998,0.4444,0.4545
 2022-01-07 07:30:45.628425,NFL Specials - What will the Washington Football Team change its name to for the 2022 season? - Outright,Washington RedHogs,-0.0102,0.0667,0.0769
 2022-01-07 07:30:46.561902,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Otar Eranosyan,-0.010599999999999998,0.4545,0.4651
+2022-01-07 13:30:35.193802,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Otar Eranosyan,-0.010599999999999998,0.4545,0.4651
 2022-01-07 06:30:37.760806,Celebrity Boxing - Jake Paul vs Antonio Brown  - Outright,Antonio Brown,-0.010699999999999987,0.3226,0.3333
 2022-01-07 07:30:43.975358,Specials - Will Apple Release a augmented reality (AR) or virtual reality (VR) headset in 2022 - Outright,Yes,-0.011299999999999977,0.7561,0.7674
 2022-01-07 02:30:33.165268,Euroleague - Euroleague 2021/22 - Winner,Anadolu Efes,-0.012899999999999995,0.1538,0.1667
+2022-01-07 13:30:35.153029,Boxing Lines - Ali Izmailov vs Israel Duffus - To Win the Bout,Ali Izmailov,-0.01429999999999998,0.9709,0.9852
 2022-01-07 04:30:30.211036,NCAA Football Specials - Where will Caleb Williams Play Game 1 of the 2022/2023 NCAA Season? - Outright,Penn State,-0.014399999999999996,0.0625,0.0769
 2022-01-07 07:30:43.995222,"Specials - Will Bitcoin Reach $100,000 USD in 2022? - Outright",Yes,-0.01479999999999998,0.3774,0.3922
 2022-01-07 06:30:39.674655,NFL Specials - Will the Cincinnati Bengals Win a Playoff Game in 2022 - Outright,Yes,-0.01539999999999997,0.6,0.6154
 2022-01-07 04:30:30.211036,NCAA Football Specials - Where will Caleb Williams Play Game 1 of the 2022/2023 NCAA Season? - Outright,Clemson,-0.01830000000000001,0.0769,0.0952
 2022-01-07 12:31:03.581840,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Lazio,-0.02020000000000001,0.0909,0.1111
 2022-01-07 12:31:03.581840,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Juventus,-0.022600000000000064,0.6,0.6226
+2022-01-07 13:30:35.210535,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Gary Russell Jr,-0.027999999999999914,0.8182,0.8462
 2022-01-07 12:30:57.256098,Boxing Lines - Ali Izmailov vs Israel Duffus - To Win the Bout,Israel Duffus,-0.028399999999999995,0.0625,0.0909
 2022-01-07 06:30:39.648749,NFL Specials - Who will win NFL Regular Season Most Valuable Vaccinated Player - Outright,Joe Burrow,-0.028700000000000003,0.1818,0.2105
-2022-01-07 04:30:30.211036,NCAA Football Specials - Where will Caleb Williams Play Game 1 of the 2022/2023 NCAA Season? - Outright,Oklahoma,-0.031799999999999995,0.1111,0.1429
 2022-01-07 04:30:30.211036,NCAA Football Specials - Where will Caleb Williams Play Game 1 of the 2022/2023 NCAA Season? - Outright,LSU,-0.031799999999999995,0.1111,0.1429
+2022-01-07 04:30:30.211036,NCAA Football Specials - Where will Caleb Williams Play Game 1 of the 2022/2023 NCAA Season? - Outright,Oklahoma,-0.031799999999999995,0.1111,0.1429
 2022-01-07 12:31:03.581840,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AS Roma,-0.03889999999999999,0.1429,0.1818
 2022-01-07 04:30:30.211036,NCAA Football Specials - Where will Caleb Williams Play Game 1 of the 2022/2023 NCAA Season? - Outright,Georgia,-0.047599999999999976,0.2857,0.3333
+2022-01-07 13:30:36.824570,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Denver Broncos,-0.05449999999999999,0.4,0.4545
 2022-01-07 12:31:03.553923,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Dusan Vlahovic,-0.05559999999999998,0.5,0.5556
