@@ -8,8 +8,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-07 17:30:33.499140,NFL Season Props - NFL 2021/22 - To Make the Playoffs - New Orleans Saints,No,0.03090000000000004,0.6226,0.5917
 2022-01-07 13:30:35.210535,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Mark Magsayo,0.02779999999999999,0.25,0.2222
 2022-01-07 15:30:32.172871,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Rebounds,Under 3.8,0.02750000000000008,0.6429,0.6154
+2022-01-07 22:30:28.981342,Celebrity Boxing - Will Jake Paul fight in a pro MMA bout in 2022 - Outright,No,0.023799999999999932,0.8571,0.8333
 2022-01-07 20:30:35.041930,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Otar Eranosyan,0.022699999999999998,0.4878,0.4651
 2022-01-07 12:31:03.581840,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AC Milan,0.022199999999999998,0.8,0.7778
+2022-01-07 22:30:28.969724,Celebrity Boxing - Will Jake Paul Fight Antonio Brown in 2022? - Outright,No,0.022199999999999998,0.8,0.7778
 2022-01-07 15:30:32.150551,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Assists,Under 2.5,0.02180000000000004,0.6296,0.6078
 2022-01-07 14:30:29.525940,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Otar Eranosyan,0.021699999999999997,0.4762,0.4545
 2022-01-07 15:30:31.225838,Specials - Opening Weekend at the Domestic Box Office - Doctor Strange in the Multiverse of Madness - Outright,Under 175 Million,0.02169999999999994,0.5455,0.5238
@@ -39,14 +41,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-07 13:30:35.153029,Boxing Lines - Ali Izmailov vs Israel Duffus - To Win the Bout,Ali Izmailov,-0.01429999999999998,0.9709,0.9852
 2022-01-07 19:30:29.232913,Boxing Lines - Elvis Figueroa vs Ryan Adams - To Win the Bout,Ryan Adams,-0.015100000000000002,0.1667,0.1818
 2022-01-07 14:30:29.525940,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Sparkinson Wilson Castillo,-0.016100000000000003,0.5917,0.6078
-2022-01-07 15:30:33.006036,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Mohamed Salah,-0.01820000000000002,0.1818,0.2
 2022-01-07 20:30:34.936417,Boxing Lines - Shinard Bunch vs Shyngyskhan Tazhibay - To Win the Bout,Shyngyskhan Tazhibay,-0.01820000000000002,0.1818,0.2
+2022-01-07 15:30:33.006036,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Mohamed Salah,-0.01820000000000002,0.1818,0.2
 2022-01-07 15:30:31.225838,Specials - Opening Weekend at the Domestic Box Office - Doctor Strange in the Multiverse of Madness - Outright,Over 175 Million,-0.01970000000000005,0.5455,0.5652
 2022-01-07 12:31:03.581840,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Lazio,-0.02020000000000001,0.0909,0.1111
-2022-01-07 12:31:03.581840,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Juventus,-0.022600000000000064,0.6,0.6226
+2022-01-07 22:30:28.969724,Celebrity Boxing - Will Jake Paul Fight Antonio Brown in 2022? - Outright,Yes,-0.021999999999999964,0.2857,0.3077
 2022-01-07 19:30:29.221548,Boxing Lines - Edwin de los santos vs William Foster III - To Win the Bout,William Foster III,-0.022600000000000064,0.6,0.6226
+2022-01-07 12:31:03.581840,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Juventus,-0.022600000000000064,0.6,0.6226
 2022-01-07 20:30:35.041930,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Sparkinson Wilson Castillo,-0.025599999999999956,0.5744,0.6
 2022-01-07 14:30:29.542973,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Mark Magsayo,-0.02779999999999999,0.2222,0.25
+2022-01-07 22:30:28.981342,Celebrity Boxing - Will Jake Paul fight in a pro MMA bout in 2022 - Outright,Yes,-0.02779999999999999,0.2222,0.25
 2022-01-07 13:30:35.210535,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Gary Russell Jr,-0.027999999999999914,0.8182,0.8462
 2022-01-07 12:30:57.256098,Boxing Lines - Ali Izmailov vs Israel Duffus - To Win the Bout,Israel Duffus,-0.028399999999999995,0.0625,0.0909
 2022-01-07 15:30:32.150551,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Assists,Over 2.5,-0.030299999999999994,0.4348,0.4651
