@@ -1,6 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-01-07 17:30:33.476615,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Las Vegas Raiders,Yes,0.08329999999999999,0.5,0.4167
-2022-01-07 17:30:33.499140,NFL Season Props - NFL 2021/22 - To Make the Playoffs - New Orleans Saints,No,0.03090000000000004,0.6226,0.5917
 2022-01-07 22:30:28.981342,Celebrity Boxing - Will Jake Paul fight in a pro MMA bout in 2022 - Outright,No,0.023799999999999932,0.8571,0.8333
 2022-01-07 20:30:35.041930,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Otar Eranosyan,0.022699999999999998,0.4878,0.4651
 2022-01-07 22:30:28.969724,Celebrity Boxing - Will Jake Paul Fight Antonio Brown in 2022? - Outright,No,0.022199999999999998,0.8,0.7778
@@ -20,5 +18,3 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-07 19:30:29.221548,Boxing Lines - Edwin de los santos vs William Foster III - To Win the Bout,William Foster III,-0.022600000000000064,0.6,0.6226
 2022-01-07 20:30:35.041930,Boxing Lines - Sparkinson Wilson Castillo vs Otar Eranosyan - To Win the Bout,Sparkinson Wilson Castillo,-0.025599999999999956,0.5744,0.6
 2022-01-07 22:30:28.981342,Celebrity Boxing - Will Jake Paul fight in a pro MMA bout in 2022 - Outright,Yes,-0.02779999999999999,0.2222,0.25
-2022-01-07 17:30:33.499140,NFL Season Props - NFL 2021/22 - To Make the Playoffs - New Orleans Saints,Yes,-0.031799999999999995,0.4444,0.4762
-2022-01-07 17:30:33.476615,NFL Season Props - NFL 2021/22 - To Make the Playoffs - Las Vegas Raiders,No,-0.05740000000000001,0.5652,0.6226
