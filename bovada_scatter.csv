@@ -1,6 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-01-09 11:30:28.717942,League One - England League One 2021/22 - Top Goalscorer,Ross Stewart (Sunderland),0.0857,0.2857,0.2
 2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,Gillingham,0.0857,0.8,0.7143
+2022-01-09 11:30:28.717942,League One - England League One 2021/22 - Top Goalscorer,Ross Stewart (Sunderland),0.0857,0.2857,0.2
 2022-01-09 05:30:37.942269,League Two - England League Two 2021/22 - Top 3 Finish,Tranmere Rovers,0.07509999999999997,0.3077,0.2326
 2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Tranmere Rovers,0.0721,0.3846,0.3125
 2022-01-09 04:30:43.381392,League One - England League One 2021/22 - Top 6 Finish,Ipswich Town,0.06669999999999998,0.2667,0.2
@@ -30,6 +30,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,Morecambe,0.025600000000000067,0.6923,0.6667
 2022-01-09 11:30:28.571881,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,FC Porto,0.025599999999999956,0.6,0.5744
 2022-01-09 08:30:30.890819,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,0.023799999999999988,0.3571,0.3333
+2022-01-09 16:30:36.428093,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,0.022600000000000064,0.5348,0.5122
 2022-01-09 09:30:33.125983,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,0.02049999999999999,0.1538,0.1333
 2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,Cheltenham Town,0.02020000000000001,0.1111,0.0909
 2022-01-09 11:30:28.358979,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Cádiz,0.020100000000000007,0.7701,0.75
@@ -44,8 +45,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-09 13:30:32.462791,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Michelle Obama,0.012100000000000001,0.0244,0.0123
 2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Forest Green Rovers,0.011199999999999988,0.9524,0.9412
 2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,0.011099999999999999,0.1111,0.1
-2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Exeter City,0.010099999999999998,0.4545,0.4444
 2022-01-09 11:30:27.016972,MLB - 2022 World Series - Outright,Houston Astros,0.010099999999999998,0.1053,0.0952
+2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Exeter City,0.010099999999999998,0.4545,0.4444
 2022-01-09 11:30:27.016972,MLB - 2022 World Series - Outright,Tampa Bay Rays,-0.0102,0.0667,0.0769
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Walsall,-0.0102,0.0667,0.0769
 2022-01-09 09:30:34.702196,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Senegal,-0.010499999999999982,0.2,0.2105
@@ -71,6 +72,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Exeter City,-0.02779999999999999,0.2222,0.25
 2022-01-09 14:30:40.825541,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Points,Over 19.5,-0.029600000000000015,0.3704,0.4
 2022-01-09 14:30:40.845192,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Rebounds,Over 3.8,-0.029600000000000015,0.3704,0.4
+2022-01-09 16:30:36.428093,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.030399999999999983,0.5348,0.5652
 2022-01-09 04:30:43.341016,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,-0.033399999999999985,0.1333,0.1667
 2022-01-09 14:30:40.799822,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Assists,Over 2.5,-0.0348,0.4,0.4348
 2022-01-09 11:30:28.367584,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,FC Barcelona,-0.03710000000000002,0.6552,0.6923
