@@ -19,6 +19,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,Morecambe,0.025600000000000067,0.6923,0.6667
 2022-01-08 20:30:35.966553,Boxing Lines - Amir Khan vs Kell Brook - To Win the Bout,Amir Khan,0.025499999999999967,0.4255,0.4
 2022-01-08 23:30:31.231924,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Taylor Jenkins (MEM),0.024299999999999995,0.0769,0.0526
+2022-01-09 08:30:30.890819,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,0.023799999999999988,0.3571,0.3333
 2022-01-09 00:30:33.701698,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tennessee Titans,0.02310000000000001,0.1,0.0769
 2022-01-08 23:30:32.365855,League Two - England League Two 2021/22 - Outright,Tranmere Rovers,0.0203,0.0588,0.0385
 2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,Cheltenham Town,0.02020000000000001,0.1111,0.0909
@@ -33,11 +34,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Port Vale,0.012700000000000045,0.6491,0.6364
 2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Forest Green Rovers,0.011199999999999988,0.9524,0.9412
 2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,0.011099999999999999,0.1111,0.1
-2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Exeter City,0.010099999999999998,0.4545,0.4444
 2022-01-08 23:30:32.344278,League One - England League One 2021/22 - Outright,Rotherham Utd,0.010099999999999998,0.4545,0.4444
+2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Exeter City,0.010099999999999998,0.4545,0.4444
 2022-01-08 23:30:32.365855,League Two - England League Two 2021/22 - Outright,Exeter City,-0.010100000000000001,0.0244,0.0345
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Walsall,-0.0102,0.0667,0.0769
 2022-01-09 05:30:37.942269,League Two - England League Two 2021/22 - Top 3 Finish,Exeter City,-0.010899999999999993,0.1429,0.1538
+2022-01-09 08:30:30.890819,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Buffalo Bills,-0.0131,0.2222,0.2353
 2022-01-09 04:30:43.381392,League One - England League One 2021/22 - Top 6 Finish,Portsmouth,-0.013800000000000034,0.3636,0.3774
 2022-01-08 22:30:26.309134,FA Cup - England FA Cup 2021/22 - Outright,Manchester United,-0.013899999999999996,0.1111,0.125
 2022-01-09 05:30:37.942269,League Two - England League Two 2021/22 - Top 3 Finish,Mansfield Town,-0.013999999999999999,0.0769,0.0909
