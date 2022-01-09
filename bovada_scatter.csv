@@ -3,8 +3,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-09 05:30:37.942269,League Two - England League Two 2021/22 - Top 3 Finish,Tranmere Rovers,0.07509999999999997,0.3077,0.2326
 2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Tranmere Rovers,0.0721,0.3846,0.3125
 2022-01-09 04:30:43.381392,League One - England League One 2021/22 - Top 6 Finish,Ipswich Town,0.06669999999999998,0.2667,0.2
-2022-01-09 05:30:37.942269,League Two - England League Two 2021/22 - Top 3 Finish,Sutton Utd,0.0635,0.2857,0.2222
 2022-01-09 04:30:43.426076,League Two - England League Two 2021/22 - To Be Relegated,Scunthorpe United,0.0635,0.7778,0.7143
+2022-01-09 05:30:37.942269,League Two - England League Two 2021/22 - Top 3 Finish,Sutton Utd,0.0635,0.2857,0.2222
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Salford City,0.055900000000000005,0.3636,0.3077
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Sutton Utd,0.05520000000000003,0.6552,0.6
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Tranmere Rovers,0.04409999999999992,0.6667,0.6226
@@ -17,12 +17,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-09 05:30:35.963943,College Basketball - Atlantic Coast Conference  Winner - Outright,Miami (FL),0.027099999999999996,0.0435,0.0164
 2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Port Vale,0.026500000000000024,0.3774,0.3509
 2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,Morecambe,0.025600000000000067,0.6923,0.6667
-2022-01-08 20:30:35.966553,Boxing Lines - Amir Khan vs Kell Brook - To Win the Bout,Amir Khan,0.025499999999999967,0.4255,0.4
 2022-01-08 23:30:31.231924,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Taylor Jenkins (MEM),0.024299999999999995,0.0769,0.0526
 2022-01-09 08:30:30.890819,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,0.023799999999999988,0.3571,0.3333
 2022-01-09 00:30:33.701698,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tennessee Titans,0.02310000000000001,0.1,0.0769
+2022-01-09 09:30:33.125983,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,0.02049999999999999,0.1538,0.1333
 2022-01-08 23:30:32.365855,League Two - England League Two 2021/22 - Outright,Tranmere Rovers,0.0203,0.0588,0.0385
 2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,Cheltenham Town,0.02020000000000001,0.1111,0.0909
+2022-01-09 09:30:34.702196,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Algeria,0.01820000000000002,0.2,0.1818
 2022-01-08 22:30:26.067220,Germany Bundesliga - German Bundesliga 2021/22 - Outright,Borussia Dortmund,0.018099999999999998,0.0769,0.0588
 2022-01-09 04:30:43.341016,League One - England League One 2021/22 - To Be Promoted,Ipswich Town,0.016700000000000007,0.1,0.0833
 2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,Cambridge United,0.016699999999999993,0.2667,0.25
@@ -34,10 +35,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Port Vale,0.012700000000000045,0.6491,0.6364
 2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Forest Green Rovers,0.011199999999999988,0.9524,0.9412
 2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,0.011099999999999999,0.1111,0.1
-2022-01-08 23:30:32.344278,League One - England League One 2021/22 - Outright,Rotherham Utd,0.010099999999999998,0.4545,0.4444
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Exeter City,0.010099999999999998,0.4545,0.4444
+2022-01-08 23:30:32.344278,League One - England League One 2021/22 - Outright,Rotherham Utd,0.010099999999999998,0.4545,0.4444
 2022-01-08 23:30:32.365855,League Two - England League Two 2021/22 - Outright,Exeter City,-0.010100000000000001,0.0244,0.0345
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Walsall,-0.0102,0.0667,0.0769
+2022-01-09 09:30:34.702196,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Senegal,-0.010499999999999982,0.2,0.2105
 2022-01-09 05:30:37.942269,League Two - England League Two 2021/22 - Top 3 Finish,Exeter City,-0.010899999999999993,0.1429,0.1538
 2022-01-09 08:30:30.890819,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Buffalo Bills,-0.0131,0.2222,0.2353
 2022-01-09 04:30:43.381392,League One - England League One 2021/22 - Top 6 Finish,Portsmouth,-0.013800000000000034,0.3636,0.3774
@@ -52,7 +54,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-09 04:30:43.381392,League One - England League One 2021/22 - Top 6 Finish,Milton Keynes Dons,-0.025499999999999967,0.4,0.4255
 2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Exeter City,-0.02779999999999999,0.2222,0.25
 2022-01-08 23:30:32.365855,League Two - England League Two 2021/22 - Outright,Northampton Town,-0.029299999999999993,0.0476,0.0769
-2022-01-08 20:30:35.966553,Boxing Lines - Amir Khan vs Kell Brook - To Win the Bout,Kell Brook,-0.030299999999999994,0.6364,0.6667
 2022-01-09 04:30:43.341016,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,-0.033399999999999985,0.1333,0.1667
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Mansfield Town,-0.04099999999999998,0.2667,0.3077
 2022-01-09 04:30:43.426076,League Two - England League Two 2021/22 - To Be Relegated,Stevenage,-0.044499999999999984,0.2222,0.2667
