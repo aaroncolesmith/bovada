@@ -1,92 +1,60 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,Gillingham,0.0857,0.8,0.7143
 2022-01-09 11:30:28.717942,League One - England League One 2021/22 - Top Goalscorer,Ross Stewart (Sunderland),0.0857,0.2857,0.2
 2022-01-09 05:30:37.942269,League Two - England League Two 2021/22 - Top 3 Finish,Tranmere Rovers,0.07509999999999997,0.3077,0.2326
-2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Tranmere Rovers,0.0721,0.3846,0.3125
-2022-01-09 04:30:43.381392,League One - England League One 2021/22 - Top 6 Finish,Ipswich Town,0.06669999999999998,0.2667,0.2
 2022-01-09 11:30:28.350332,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Vinicius Junior,0.066,0.1429,0.0769
-2022-01-09 04:30:43.426076,League Two - England League Two 2021/22 - To Be Relegated,Scunthorpe United,0.0635,0.7778,0.7143
 2022-01-09 05:30:37.942269,League Two - England League Two 2021/22 - Top 3 Finish,Sutton Utd,0.0635,0.2857,0.2222
 2022-01-09 11:30:28.350332,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Karim Benzema,0.05709999999999993,0.8571,0.8
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Salford City,0.055900000000000005,0.3636,0.3077
 2022-01-09 11:30:28.358979,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,0.05550000000000002,0.2222,0.1667
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Sutton Utd,0.05520000000000003,0.6552,0.6
-2022-01-09 14:30:40.825541,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Points,Under 19.5,0.04760000000000009,0.7143,0.6667
 2022-01-09 14:30:40.845192,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Rebounds,Under 3.8,0.04760000000000009,0.7143,0.6667
+2022-01-09 14:30:40.825541,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Points,Under 19.5,0.04760000000000009,0.7143,0.6667
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Tranmere Rovers,0.04409999999999992,0.6667,0.6226
 2022-01-09 11:30:28.746604,League One - England League One 2021/22 - To Finish Bottom,Gillingham,0.04040000000000002,0.2222,0.1818
-2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Salford City,0.03889999999999999,0.1818,0.1429
 2022-01-09 11:30:28.746604,League One - England League One 2021/22 - To Finish Bottom,Doncaster Rovers,0.037800000000000056,0.5833,0.5455
-2022-01-09 04:30:43.426076,League Two - England League Two 2021/22 - To Be Relegated,Oldham Athletic,0.03710000000000002,0.6923,0.6552
 2022-01-09 14:30:40.799822,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Assists,Under 2.5,0.03709999999999991,0.6667,0.6296
 2022-01-09 11:30:28.322785,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Augsburg,0.03640000000000004,0.4,0.3636
 2022-01-09 05:30:37.942269,League Two - England League Two 2021/22 - Top 3 Finish,Port Vale,0.03570000000000001,0.2857,0.25
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Crawley Town,0.03330000000000001,0.1,0.0667
-2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,Doncaster Rovers,0.03210000000000002,0.9412,0.9091
-2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Sutton Utd,0.030299999999999994,0.3636,0.3333
 2022-01-09 11:30:28.367584,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,0.027800000000000047,0.7778,0.75
-2022-01-09 05:30:35.963943,College Basketball - Atlantic Coast Conference  Winner - Outright,Miami (FL),0.027099999999999996,0.0435,0.0164
-2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Port Vale,0.026500000000000024,0.3774,0.3509
-2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,Morecambe,0.025600000000000067,0.6923,0.6667
 2022-01-09 11:30:28.571881,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,FC Porto,0.025599999999999956,0.6,0.5744
 2022-01-09 08:30:30.890819,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,0.023799999999999988,0.3571,0.3333
 2022-01-09 16:30:36.428093,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,0.022600000000000064,0.5348,0.5122
 2022-01-09 09:30:33.125983,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,0.02049999999999999,0.1538,0.1333
-2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,Cheltenham Town,0.02020000000000001,0.1111,0.0909
 2022-01-09 11:30:28.358979,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Cádiz,0.020100000000000007,0.7701,0.75
 2022-01-09 11:30:28.278313,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lens,0.0189,0.0385,0.0196
 2022-01-09 09:30:34.702196,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Algeria,0.01820000000000002,0.2,0.1818
-2022-01-09 04:30:43.341016,League One - England League One 2021/22 - To Be Promoted,Ipswich Town,0.016700000000000007,0.1,0.0833
-2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,Cambridge United,0.016699999999999993,0.2667,0.25
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Leyton Orient,0.015400000000000025,0.4,0.3846
-2022-01-09 04:30:43.341016,League One - England League One 2021/22 - To Be Promoted,Portsmouth,0.013899999999999996,0.125,0.1111
-2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Crawley Town,0.0131,0.0476,0.0345
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Port Vale,0.012700000000000045,0.6491,0.6364
 2022-01-09 13:30:32.462791,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Michelle Obama,0.012100000000000001,0.0244,0.0123
-2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Forest Green Rovers,0.011199999999999988,0.9524,0.9412
-2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,0.011099999999999999,0.1111,0.1
-2022-01-09 11:30:27.016972,MLB - 2022 World Series - Outright,Houston Astros,0.010099999999999998,0.1053,0.0952
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Exeter City,0.010099999999999998,0.4545,0.4444
-2022-01-09 11:30:27.016972,MLB - 2022 World Series - Outright,Tampa Bay Rays,-0.0102,0.0667,0.0769
+2022-01-09 11:30:27.016972,MLB - 2022 World Series - Outright,Houston Astros,0.010099999999999998,0.1053,0.0952
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Walsall,-0.0102,0.0667,0.0769
+2022-01-09 11:30:27.016972,MLB - 2022 World Series - Outright,Tampa Bay Rays,-0.0102,0.0667,0.0769
 2022-01-09 09:30:34.702196,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Senegal,-0.010499999999999982,0.2,0.2105
 2022-01-09 05:30:37.942269,League Two - England League Two 2021/22 - Top 3 Finish,Exeter City,-0.010899999999999993,0.1429,0.1538
 2022-01-09 11:30:28.571881,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Sporting CP,-0.01150000000000001,0.3333,0.3448
 2022-01-09 08:30:30.890819,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Buffalo Bills,-0.0131,0.2222,0.2353
-2022-01-09 04:30:43.381392,League One - England League One 2021/22 - Top 6 Finish,Portsmouth,-0.013800000000000034,0.3636,0.3774
 2022-01-09 05:30:37.942269,League Two - England League Two 2021/22 - Top 3 Finish,Mansfield Town,-0.013999999999999999,0.0769,0.0909
 2022-01-09 11:30:28.746604,League One - England League One 2021/22 - To Finish Bottom,Fleetwood Town,-0.014099999999999998,0.0244,0.0385
 2022-01-09 11:30:28.804079,League Two - England League Two 2021/22 - Top Goalscorer,Dominic Telford (Newport County),-0.016699999999999993,0.25,0.2667
 2022-01-09 11:30:28.717942,League One - England League One 2021/22 - Top Goalscorer,Michael Smith (Rotherham),-0.0179,0.125,0.1429
-2022-01-09 04:30:43.381392,League One - England League One 2021/22 - Top 6 Finish,Oxford United,-0.018100000000000005,0.5652,0.5833
-2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Swindon Town,-0.019699999999999995,0.4348,0.4545
 2022-01-09 05:30:37.942269,League Two - England League Two 2021/22 - Top 3 Finish,Bradford City,-0.02020000000000001,0.0909,0.1111
-2022-01-09 04:30:43.426076,League Two - England League Two 2021/22 - To Be Relegated,Crawley Town,-0.0203,0.0385,0.0588
 2022-01-09 11:30:28.746604,League One - England League One 2021/22 - To Finish Bottom,Crewe Alexandra,-0.022199999999999998,0.2,0.2222
-2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Newport County,-0.022199999999999998,0.2,0.2222
 2022-01-09 11:30:28.717942,League One - England League One 2021/22 - Top Goalscorer,Cole Stockton (Morecambe),-0.023799999999999988,0.1429,0.1667
 2022-01-09 11:30:28.350332,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Memphis Depay,-0.024299999999999995,0.0526,0.0769
 2022-01-09 11:30:28.746604,League One - England League One 2021/22 - To Finish Bottom,Morecambe,-0.024999999999999994,0.1,0.125
 2022-01-09 11:30:28.278313,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Rennes,-0.025300000000000003,0.1176,0.1429
-2022-01-09 04:30:43.381392,League One - England League One 2021/22 - Top 6 Finish,Milton Keynes Dons,-0.025499999999999967,0.4,0.4255
-2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Exeter City,-0.02779999999999999,0.2222,0.25
 2022-01-09 14:30:40.825541,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Points,Over 19.5,-0.029600000000000015,0.3704,0.4
 2022-01-09 14:30:40.845192,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Rebounds,Over 3.8,-0.029600000000000015,0.3704,0.4
 2022-01-09 16:30:36.428093,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.030399999999999983,0.5348,0.5652
-2022-01-09 04:30:43.341016,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,-0.033399999999999985,0.1333,0.1667
 2022-01-09 14:30:40.799822,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Assists,Over 2.5,-0.0348,0.4,0.4348
 2022-01-09 11:30:28.367584,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,FC Barcelona,-0.03710000000000002,0.6552,0.6923
 2022-01-09 11:30:28.322785,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Arminia Bielefeld,-0.0393,0.5833,0.6226
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Mansfield Town,-0.04099999999999998,0.2667,0.3077
-2022-01-09 04:30:43.426076,League Two - England League Two 2021/22 - To Be Relegated,Stevenage,-0.044499999999999984,0.2222,0.2667
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Bradford City,-0.05109999999999998,0.3125,0.3636
-2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Bradford City,-0.05550000000000002,0.1667,0.2222
 2022-01-09 11:30:28.358979,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Levante,-0.05559999999999998,0.8333,0.8889
 2022-01-09 05:30:37.942269,League Two - England League Two 2021/22 - Top 3 Finish,Swindon Town,-0.055900000000000005,0.3077,0.3636
-2022-01-09 04:30:43.415521,League Two - England League Two 2021/22 - To Be Promoted,Northampton Town,-0.06190000000000001,0.3636,0.4255
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Swindon Town,-0.06659999999999999,0.6667,0.7333
-2022-01-09 04:30:43.426076,League Two - England League Two 2021/22 - To Be Relegated,Carlisle Utd,-0.06840000000000002,0.1538,0.2222
 2022-01-09 05:30:37.942269,League Two - England League Two 2021/22 - Top 3 Finish,Northampton Town,-0.07789999999999997,0.2857,0.3636
 2022-01-09 05:30:37.958326,League Two - England League Two 2021/22 - Top 7 Finish,Northampton Town,-0.07809999999999995,0.6552,0.7333
-2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,Lincoln City,-0.0897,0.1429,0.2326
-2022-01-09 04:30:43.351473,League One - England League One 2021/22 - To Be Relegated,Fleetwood Town,-0.09689999999999999,0.2667,0.3636
