@@ -3,15 +3,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-09 11:30:28.350332,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Vinicius Junior,0.066,0.1429,0.0769
 2022-01-09 11:30:28.350332,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Karim Benzema,0.05709999999999993,0.8571,0.8
 2022-01-09 11:30:28.358979,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,0.05550000000000002,0.2222,0.1667
-2022-01-09 14:30:40.825541,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Points,Under 19.5,0.04760000000000009,0.7143,0.6667
 2022-01-09 14:30:40.845192,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Rebounds,Under 3.8,0.04760000000000009,0.7143,0.6667
+2022-01-09 14:30:40.825541,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Points,Under 19.5,0.04760000000000009,0.7143,0.6667
 2022-01-09 11:30:28.746604,League One - England League One 2021/22 - To Finish Bottom,Gillingham,0.04040000000000002,0.2222,0.1818
 2022-01-09 11:30:28.746604,League One - England League One 2021/22 - To Finish Bottom,Doncaster Rovers,0.037800000000000056,0.5833,0.5455
 2022-01-09 14:30:40.799822,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Assists,Under 2.5,0.03709999999999991,0.6667,0.6296
 2022-01-09 11:30:28.322785,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Augsburg,0.03640000000000004,0.4,0.3636
 2022-01-09 11:30:28.367584,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,0.027800000000000047,0.7778,0.75
 2022-01-09 11:30:28.571881,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,FC Porto,0.025599999999999956,0.6,0.5744
-2022-01-09 08:30:30.890819,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,0.023799999999999988,0.3571,0.3333
 2022-01-09 16:30:36.428093,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,0.022600000000000064,0.5348,0.5122
 2022-01-09 09:30:33.125983,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,0.02049999999999999,0.1538,0.1333
 2022-01-09 11:30:28.358979,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Cádiz,0.020100000000000007,0.7701,0.75
@@ -22,7 +21,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-09 11:30:27.016972,MLB - 2022 World Series - Outright,Tampa Bay Rays,-0.0102,0.0667,0.0769
 2022-01-09 09:30:34.702196,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Senegal,-0.010499999999999982,0.2,0.2105
 2022-01-09 11:30:28.571881,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Sporting CP,-0.01150000000000001,0.3333,0.3448
-2022-01-09 08:30:30.890819,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Buffalo Bills,-0.0131,0.2222,0.2353
 2022-01-09 11:30:28.746604,League One - England League One 2021/22 - To Finish Bottom,Fleetwood Town,-0.014099999999999998,0.0244,0.0385
 2022-01-09 11:30:28.804079,League Two - England League Two 2021/22 - Top Goalscorer,Dominic Telford (Newport County),-0.016699999999999993,0.25,0.2667
 2022-01-09 11:30:28.717942,League One - England League One 2021/22 - Top Goalscorer,Michael Smith (Rotherham),-0.0179,0.125,0.1429
@@ -31,8 +29,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-09 11:30:28.350332,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Memphis Depay,-0.024299999999999995,0.0526,0.0769
 2022-01-09 11:30:28.746604,League One - England League One 2021/22 - To Finish Bottom,Morecambe,-0.024999999999999994,0.1,0.125
 2022-01-09 11:30:28.278313,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Rennes,-0.025300000000000003,0.1176,0.1429
-2022-01-09 14:30:40.845192,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Rebounds,Over 3.8,-0.029600000000000015,0.3704,0.4
 2022-01-09 14:30:40.825541,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Points,Over 19.5,-0.029600000000000015,0.3704,0.4
+2022-01-09 14:30:40.845192,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Rebounds,Over 3.8,-0.029600000000000015,0.3704,0.4
 2022-01-09 16:30:36.428093,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.030399999999999983,0.5348,0.5652
 2022-01-09 14:30:40.799822,NBA Specials - Klay Thompson 2021-2022 Regular Season Props - Average Assists,Over 2.5,-0.0348,0.4,0.4348
 2022-01-09 11:30:28.367584,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,FC Barcelona,-0.03710000000000002,0.6552,0.6923
