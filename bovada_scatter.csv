@@ -43,14 +43,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-10 04:30:54.193330,College Basketball - Southeastern Conference Winner - Outright,LSU,0.022199999999999998,0.1333,0.1111
 2022-01-10 04:30:54.193330,College Basketball - Southeastern Conference Winner - Outright,Auburn,0.020799999999999985,0.3333,0.3125
 2022-01-10 11:30:33.374408,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Cape Verde,0.0203,0.0588,0.0385
-2022-01-10 13:31:07.954021,NBA Futures - 2022 NBA Southeast Division - Division Winner,Charlotte Hornets,0.02020000000000001,0.1111,0.0909
 2022-01-10 12:30:36.329906,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,0.02020000000000001,0.1111,0.0909
-2022-01-10 10:30:29.794642,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Atalanta,0.020100000000000007,0.7701,0.75
+2022-01-10 13:31:07.954021,NBA Futures - 2022 NBA Southeast Division - Division Winner,Charlotte Hornets,0.02020000000000001,0.1111,0.0909
 2022-01-10 10:30:29.794642,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Napoli,0.020100000000000007,0.7701,0.75
+2022-01-10 10:30:29.794642,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Atalanta,0.020100000000000007,0.7701,0.75
 2022-01-10 12:30:36.408160,NBA Season Props - 2021/22 NBA Regular Season Team Wins - CHA Hornets Regular Season Wins,Over 42.5,0.01970000000000005,0.5652,0.5455
 2022-01-10 13:31:07.688187,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.018400000000000027,0.3125,0.2941
-2022-01-10 07:30:36.699834,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Tom Brady,0.01820000000000002,0.2,0.1818
 2022-01-10 10:30:30.128862,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Benfica,0.01820000000000002,0.2,0.1818
+2022-01-10 07:30:36.699834,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Tom Brady,0.01820000000000002,0.2,0.1818
 2022-01-10 11:30:33.386018,Africa Cup of Nations - Group A - Group Winner,Cape Verde,0.01820000000000002,0.2,0.1818
 2022-01-10 10:30:29.866237,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Sevilla,0.018100000000000005,0.9412,0.9231
 2022-01-10 04:30:54.069536,College Basketball - Big East Conference  Winner - Outright,Providence,0.0179,0.1429,0.125
@@ -69,15 +69,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-10 04:30:54.069536,College Basketball - Big East Conference  Winner - Outright,Xavier,0.012299999999999991,0.1176,0.1053
 2022-01-10 12:30:35.774302,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,0.012299999999999978,0.3571,0.3448
 2022-01-10 07:30:36.661316,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Pittsburgh Steelers,0.0119,0.0152,0.0033
+2022-01-10 10:30:29.713828,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Andy Delort,0.011199999999999995,0.0588,0.0476
 2022-01-10 10:30:29.866237,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Athletic Bilbao,0.011199999999999995,0.0588,0.0476
 2022-01-10 10:30:29.713828,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Amine Gouiri,0.011199999999999995,0.0588,0.0476
-2022-01-10 10:30:29.713828,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Andy Delort,0.011199999999999995,0.0588,0.0476
 2022-01-10 10:30:28.659266,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Cincinnati Bengals,0.011099999999999999,0.1111,0.1
 2022-01-10 07:30:36.661316,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tennessee Titans,0.011099999999999999,0.1111,0.1
 2022-01-10 07:30:36.661316,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,San Francisco 49ers,0.010700000000000001,0.0385,0.0278
 2022-01-10 13:31:07.914868,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,0.010699999999999932,0.5455,0.5348
 2022-01-10 12:30:36.314624,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,0.0102,0.0769,0.0667
 2022-01-10 10:30:29.737290,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Borussia Dortmund,0.010199999999999987,0.9333,0.9231
+2022-01-10 14:30:35.763096,Boxing Lines - Liam Smith vs Jessie Vargas - To Win the Bout,Liam Smith,0.010099999999999998,0.6875,0.6774
 2022-01-10 08:30:30.211965,Boxing Lines - Liam Smith vs Jessie Vargas - To Win the Bout,Liam Smith,-0.010099999999999998,0.6774,0.6875
 2022-01-10 10:30:29.866237,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Rayo Vallecano,-0.0102,0.0667,0.0769
 2022-01-10 04:30:54.193330,College Basketball - Southeastern Conference Winner - Outright,Florida,-0.0102,0.0667,0.0769
