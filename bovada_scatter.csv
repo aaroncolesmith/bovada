@@ -12,9 +12,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-10 01:30:40.291116,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Sevilla,0.023799999999999988,0.1667,0.1429
 2022-01-10 07:30:36.682161,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Las Vegas Raiders,0.023200000000000002,0.0476,0.0244
 2022-01-10 07:30:36.682161,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Pittsburgh Steelers,0.022400000000000003,0.0323,0.0099
+2022-01-10 07:30:36.699834,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Aaron Rodgers,0.022199999999999998,0.8,0.7778
 2022-01-10 04:30:54.193330,College Basketball - Southeastern Conference Winner - Outright,LSU,0.022199999999999998,0.1333,0.1111
 2022-01-10 01:30:40.279260,Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,0.022199999999999998,0.8,0.7778
-2022-01-10 07:30:36.699834,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Aaron Rodgers,0.022199999999999998,0.8,0.7778
 2022-01-10 04:30:54.193330,College Basketball - Southeastern Conference Winner - Outright,Auburn,0.020799999999999985,0.3333,0.3125
 2022-01-10 01:30:40.646239,FA Cup - England FA Cup 2021/22 - Outright,West Ham United,0.019099999999999992,0.0667,0.0476
 2022-01-10 07:30:36.699834,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Tom Brady,0.01820000000000002,0.2,0.1818
@@ -22,24 +22,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-10 01:30:40.646239,FA Cup - England FA Cup 2021/22 - Outright,Liverpool FC,0.0179,0.1429,0.125
 2022-01-10 04:30:54.069536,College Basketball - Big East Conference  Winner - Outright,Providence,0.0179,0.1429,0.125
 2022-01-10 01:30:40.646239,FA Cup - England FA Cup 2021/22 - Outright,Manchester City,0.016699999999999993,0.2667,0.25
-2022-01-10 07:30:36.661316,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tampa Bay Buccaneers,0.015899999999999997,0.1111,0.0952
 2022-01-10 07:30:36.682161,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Buffalo Bills,0.015899999999999997,0.2381,0.2222
+2022-01-10 07:30:36.661316,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tampa Bay Buccaneers,0.015899999999999997,0.1111,0.0952
 2022-01-10 04:30:53.994787,College Basketball - Atlantic Coast Conference  Winner - Outright,Notre Dame,0.0157,0.0435,0.0278
 2022-01-10 01:30:40.916341,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Tunisia,0.015300000000000001,0.0588,0.0435
 2022-01-10 04:30:54.104187,College Basketball - Big Ten Conference Winner - Outright,Indiana,0.014100000000000001,0.0526,0.0385
 2022-01-10 01:30:40.916341,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Ghana,0.014099999999999994,0.0667,0.0526
-2022-01-10 04:30:53.856073,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Baylor,0.013999999999999999,0.0909,0.0769
 2022-01-10 01:30:40.646239,FA Cup - England FA Cup 2021/22 - Outright,Tottenham Hotspur,0.013999999999999999,0.0909,0.0769
+2022-01-10 04:30:53.856073,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Baylor,0.013999999999999999,0.0909,0.0769
 2022-01-10 01:30:40.916341,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Egypt,0.013899999999999996,0.125,0.1111
 2022-01-10 07:30:36.661316,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Las Vegas Raiders,0.013400000000000002,0.0244,0.011
 2022-01-10 07:30:36.661316,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Kansas City Chiefs,0.012899999999999995,0.1667,0.1538
 2022-01-10 04:30:54.069536,College Basketball - Big East Conference  Winner - Outright,Xavier,0.012299999999999991,0.1176,0.1053
 2022-01-10 07:30:36.661316,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Pittsburgh Steelers,0.0119,0.0152,0.0033
-2022-01-10 07:30:36.661316,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tennessee Titans,0.011099999999999999,0.1111,0.1
 2022-01-10 01:30:40.916341,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Cameroon,0.011099999999999999,0.1111,0.1
+2022-01-10 07:30:36.661316,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tennessee Titans,0.011099999999999999,0.1111,0.1
 2022-01-10 07:30:36.661316,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,San Francisco 49ers,0.010700000000000001,0.0385,0.0278
-2022-01-10 01:30:40.266692,Germany Bundesliga - German Bundesliga 2021/22 - Outright,Borussia Dortmund,-0.0102,0.0667,0.0769
+2022-01-10 08:30:30.211965,Boxing Lines - Liam Smith vs Jessie Vargas - To Win the Bout,Liam Smith,-0.010099999999999998,0.6774,0.6875
 2022-01-10 04:30:54.193330,College Basketball - Southeastern Conference Winner - Outright,Florida,-0.0102,0.0667,0.0769
+2022-01-10 01:30:40.266692,Germany Bundesliga - German Bundesliga 2021/22 - Outright,Borussia Dortmund,-0.0102,0.0667,0.0769
 2022-01-10 01:30:40.916341,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Morocco,-0.011099999999999999,0.1,0.1111
 2022-01-10 04:30:53.923160,College Basketball - American Athletic Conference Winner - Outright,SMU,-0.011099999999999999,0.1,0.1111
 2022-01-10 04:30:53.856073,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Texas,-0.011199999999999995,0.0323,0.0435
@@ -49,21 +50,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-10 04:30:53.967052,College Basketball - Atlantic 10 Conference Winner - Outright,Virginia Commonwealth,-0.012899999999999995,0.1538,0.1667
 2022-01-10 04:30:53.923160,College Basketball - American Athletic Conference Winner - Outright,Memphis,-0.013300000000000034,0.3571,0.3704
 2022-01-10 04:30:53.967052,College Basketball - Atlantic 10 Conference Winner - Outright,Richmond,-0.013999999999999999,0.0769,0.0909
-2022-01-10 04:30:53.994787,College Basketball - Atlantic Coast Conference  Winner - Outright,Virginia,-0.014099999999999994,0.0526,0.0667
 2022-01-10 04:30:54.193330,College Basketball - Southeastern Conference Winner - Outright,Mississippi State,-0.014099999999999994,0.0526,0.0667
+2022-01-10 04:30:53.994787,College Basketball - Atlantic Coast Conference  Winner - Outright,Virginia,-0.014099999999999994,0.0526,0.0667
 2022-01-10 01:30:40.291116,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Atlético Madrid,-0.014099999999999998,0.0244,0.0385
 2022-01-10 04:30:53.856073,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Kansas,-0.014399999999999996,0.0625,0.0769
 2022-01-10 04:30:53.967052,College Basketball - Atlantic 10 Conference Winner - Outright,Dayton,-0.014399999999999996,0.0625,0.0769
-2022-01-10 07:30:36.699834,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Josh Allen,-0.0181,0.0164,0.0345
 2022-01-10 07:30:36.699834,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Patrick Mahomes,-0.0181,0.0164,0.0345
+2022-01-10 07:30:36.699834,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Josh Allen,-0.0181,0.0164,0.0345
 2022-01-10 04:30:54.069536,College Basketball - Big East Conference  Winner - Outright,Butler,-0.0182,0.0141,0.0323
 2022-01-10 01:30:40.916341,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Algeria,-0.01820000000000002,0.1818,0.2
-2022-01-10 04:30:54.193330,College Basketball - Southeastern Conference Winner - Outright,Tennessee,-0.02020000000000001,0.0909,0.1111
 2022-01-10 01:30:40.646239,FA Cup - England FA Cup 2021/22 - Outright,Manchester United,-0.02020000000000001,0.0909,0.1111
+2022-01-10 04:30:54.193330,College Basketball - Southeastern Conference Winner - Outright,Tennessee,-0.02020000000000001,0.0909,0.1111
 2022-01-10 07:30:36.661316,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Green Bay Packers,-0.024800000000000016,0.2105,0.2353
 2022-01-10 04:30:54.069536,College Basketball - Big East Conference  Winner - Outright,Connecticut,-0.025300000000000003,0.1176,0.1429
 2022-01-10 07:30:36.682161,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,New England Patriots,-0.027999999999999997,0.1053,0.1333
 2022-01-10 04:30:54.104187,College Basketball - Big Ten Conference Winner - Outright,Purdue,-0.029299999999999993,0.2564,0.2857
+2022-01-10 07:30:36.699834,NFL Season Props - NFL 2021/22 - Awards - 2021/22 MVP,Jonathan Taylor,-0.0294,0.0294,0.0588
 2022-01-10 04:30:54.029746,College Basketball - Big 12 Conference Winner - Outright,Texas,-0.03259999999999999,0.2,0.2326
 2022-01-10 01:30:40.916341,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Ivory Coast,-0.034100000000000005,0.0909,0.125
 2022-01-10 04:30:54.104187,College Basketball - Big Ten Conference Winner - Outright,Ohio State,-0.03740000000000002,0.1667,0.2041
