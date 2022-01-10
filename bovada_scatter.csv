@@ -54,7 +54,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-10 10:30:29.737290,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Borussia Dortmund,0.010199999999999987,0.9333,0.9231
 2022-01-10 14:30:35.763096,Boxing Lines - Liam Smith vs Jessie Vargas - To Win the Bout,Liam Smith,0.010099999999999998,0.6875,0.6774
 2022-01-10 16:30:41.243697,Boxing Lines - Ilunga Makubu vs Thabiso Mchunu - To Win the Bout,Ilunga Makubu,-0.010099999999999998,0.6774,0.6875
-2022-01-10 08:30:30.211965,Boxing Lines - Liam Smith vs Jessie Vargas - To Win the Bout,Liam Smith,-0.010099999999999998,0.6774,0.6875
 2022-01-10 10:30:29.866237,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Rayo Vallecano,-0.0102,0.0667,0.0769
 2022-01-10 13:31:07.630850,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.010899999999999993,0.1429,0.1538
 2022-01-10 13:31:07.914868,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,-0.01100000000000001,0.5238,0.5348
@@ -62,8 +61,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-10 10:30:28.659266,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,-0.012299999999999978,0.3448,0.3571
 2022-01-10 13:31:07.954021,NBA Futures - 2022 NBA Southeast Division - Division Winner,Washington Wizards,-0.012700000000000003,0.0196,0.0323
 2022-01-10 10:30:29.713828,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Wissam Ben Yedder,-0.013899999999999996,0.1111,0.125
-2022-01-10 10:30:29.781102,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Duvan Zapata,-0.013999999999999999,0.0769,0.0909
 2022-01-10 10:30:29.781102,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Giovanni Simeone,-0.013999999999999999,0.0769,0.0909
+2022-01-10 10:30:29.781102,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Duvan Zapata,-0.013999999999999999,0.0769,0.0909
 2022-01-10 10:30:29.842561,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Memphis Depay,-0.014100000000000001,0.0385,0.0526
 2022-01-10 10:30:28.647526,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Los Angeles Rams,-0.01440000000000001,0.0909,0.1053
 2022-01-10 10:30:29.752427,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,FC Köln,-0.0145,0.0099,0.0244
@@ -103,8 +102,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-10 12:30:36.375533,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Boston Celtics,-0.06669999999999998,0.6,0.6667
 2022-01-10 10:30:29.752427,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Bochum,-0.08330000000000001,0.1667,0.25
 2022-01-10 12:30:36.375533,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Indiana Pacers (IND),-0.08979999999999999,0.0769,0.1667
-2022-01-10 12:30:36.375533,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Atlanta Hawks,-0.10149999999999992,0.5652,0.6667
 2022-01-10 12:30:36.375533,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Cleveland Cavaliers,-0.10149999999999992,0.5652,0.6667
+2022-01-10 12:30:36.375533,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Atlanta Hawks,-0.10149999999999992,0.5652,0.6667
 2022-01-10 12:30:36.375533,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Sacramento Kings,-0.10910000000000002,0.0909,0.2
 2022-01-10 13:31:07.250388,NBA Season Props - 2021/22 NBA Regular Season Team Wins - NY Knicks Regular Season WIns,Over 39.5,-0.13480000000000003,0.4,0.5348
 2022-01-10 12:30:36.375533,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,New York Knicks,-0.1428,0.1429,0.2857
