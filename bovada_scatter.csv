@@ -11,6 +11,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-11 09:30:40.463968,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,0.027800000000000047,0.7778,0.75
 2022-01-11 09:30:40.452839,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Alavés,0.027700000000000058,0.5833,0.5556
 2022-01-10 23:30:35.128343,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Cruz Azul,0.023799999999999988,0.1667,0.1429
+2022-01-11 10:30:37.096153,94th Academy Awards - Odds to win Best Actor - Outright,Benedict Cumberbatch (The Power of the Dog),0.023799999999999988,0.1667,0.1429
 2022-01-11 00:30:41.870082,Africa Cup of Nations - Group B - Group Winner,Guinea,0.022199999999999998,0.2222,0.2
 2022-01-11 07:30:49.379065,College Season Props - Odds to win 2022 Heisman Trophy - Outright,CJ Stroud,0.022199999999999998,0.2222,0.2
 2022-01-11 09:30:40.452839,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Getafe,0.021999999999999964,0.3077,0.2857
@@ -26,12 +27,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-11 09:30:40.363952,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Duvan Zapata,0.013999999999999999,0.0909,0.0769
 2022-01-10 23:30:34.761612,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Cameroon,0.013899999999999996,0.125,0.1111
 2022-01-11 09:30:40.630186,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Gabon,0.011199999999999995,0.0588,0.0476
+2022-01-11 10:30:36.450318,Boxing Lines - Chris Eubank Jr vs Liam Williams - To Win the Bout,Chris Eubank Jr,0.011099999999999999,0.7333,0.7222
 2022-01-10 23:30:34.761612,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Senegal,0.010499999999999982,0.2105,0.2
 2022-01-11 09:30:40.452839,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,0.010399999999999993,0.2326,0.2222
 2022-01-11 09:30:40.363952,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Dusan Vlahovic,-0.010099999999999998,0.4444,0.4545
 2022-01-11 09:30:40.630186,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Cameroon,-0.010399999999999993,0.2222,0.2326
 2022-01-10 23:30:34.761612,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Tunisia,-0.011199999999999995,0.0476,0.0588
 2022-01-11 00:30:41.851257,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Kelechi Iheanacho,-0.011199999999999995,0.0476,0.0588
+2022-01-11 10:30:36.450318,Boxing Lines - Chris Eubank Jr vs Liam Williams - To Win the Bout,Liam Williams,-0.01150000000000001,0.3333,0.3448
 2022-01-11 09:30:40.363952,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Lautaro Martinez,-0.013899999999999996,0.1111,0.125
 2022-01-11 09:30:40.452839,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Levante,-0.015100000000000002,0.8182,0.8333
 2022-01-11 00:30:41.884031,Africa Cup of Nations - Group C - Group Winner,Comoros,-0.017099999999999997,0.0123,0.0294
@@ -45,8 +48,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-11 09:30:40.374544,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Fiorentina,-0.028199999999999996,0.0385,0.0667
 2022-01-11 09:30:40.630186,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Tunisia,-0.031799999999999995,0.1111,0.1429
 2022-01-11 00:30:41.870082,Africa Cup of Nations - Group B - Group Winner,Zimbabwe,-0.0344,0.0244,0.0588
-2022-01-11 09:30:40.630186,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Egypt,-0.05550000000000002,0.1667,0.2222
 2022-01-11 09:30:40.630186,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Morocco,-0.05550000000000002,0.1667,0.2222
+2022-01-11 09:30:40.630186,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Egypt,-0.05550000000000002,0.1667,0.2222
 2022-01-11 09:30:40.630186,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Nigeria,-0.05710000000000001,0.1429,0.2
 2022-01-11 09:30:40.630186,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Ghana,-0.0629,0.0909,0.1538
 2022-01-11 09:30:40.452839,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Elche,-0.09160000000000001,0.3846,0.4762
