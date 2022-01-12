@@ -29,6 +29,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-12 00:30:47.732467,League One - England League One 2021/22 - To Be Relegated,Gillingham,0.018199999999999994,0.8182,0.8
 2022-01-12 00:30:47.394315,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Lazio,0.018099999999999998,0.0769,0.0588
 2022-01-11 23:30:55.838745,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Tottenham Hotspur,0.017600000000000005,0.3509,0.3333
+2022-01-12 05:30:30.745025,Specials - Will Apple Release a augmented reality (AR) or virtual reality (VR) headset in 2022 - Outright,No,0.017600000000000005,0.3509,0.3333
 2022-01-12 00:30:47.746574,League Two - England League Two 2021/22 - Outright,Forest Green Rovers,0.016700000000000048,0.75,0.7333
 2022-01-12 00:30:47.754083,League Two - England League Two 2021/22 - Top Goalscorer,Dominic Telford (Newport County),0.016699999999999993,0.2667,0.25
 2022-01-12 00:30:47.387333,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Joao Pedro,0.014099999999999998,0.0385,0.0244
@@ -41,6 +42,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-12 02:30:45.848527,NFL Specials - Where will Russell Wilson Play Week 1 of the 2022/2023 NFL Season - Outright,Chicago Bears,-0.012299999999999991,0.1053,0.1176
 2022-01-12 02:30:45.848527,NFL Specials - Where will Russell Wilson Play Week 1 of the 2022/2023 NFL Season - Outright,Pittsburgh Steelers,-0.012299999999999991,0.1053,0.1176
 2022-01-12 02:30:45.848527,NFL Specials - Where will Russell Wilson Play Week 1 of the 2022/2023 NFL Season - Outright,Las Vegas Radiers,-0.012299999999999991,0.1053,0.1176
+2022-01-12 05:30:30.745025,Specials - Will Apple Release a augmented reality (AR) or virtual reality (VR) headset in 2022 - Outright,Yes,-0.01319999999999999,0.7368,0.75
 2022-01-12 03:30:42.515197,NFL Specials - Next Full Time Head Caoch of the New York Giants - Outright,Todd Bowles,-0.013899999999999996,0.1111,0.125
 2022-01-12 00:30:47.387333,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Duvan Zapata,-0.013999999999999999,0.0769,0.0909
 2022-01-12 03:30:42.515197,NFL Specials - Next Full Time Head Caoch of the New York Giants - Outright,Kellen Moore,-0.017,0.1163,0.1333
@@ -50,14 +52,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-11 23:30:55.838745,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Chelsea,-0.020299999999999985,0.9412,0.9615
 2022-01-12 03:30:42.515197,NFL Specials - Next Full Time Head Caoch of the New York Giants - Outright,Jim Caldwell,-0.02049999999999999,0.1333,0.1538
 2022-01-11 23:30:55.030810,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Egypt,-0.02310000000000001,0.0769,0.1
-2022-01-12 03:30:42.515197,NFL Specials - Next Full Time Head Caoch of the New York Giants - Outright,Doug Pederson,-0.023799999999999988,0.1429,0.1667
 2022-01-12 03:30:42.515197,NFL Specials - Next Full Time Head Caoch of the New York Giants - Outright,Byron Leftwich,-0.023799999999999988,0.1429,0.1667
+2022-01-12 03:30:42.515197,NFL Specials - Next Full Time Head Caoch of the New York Giants - Outright,Doug Pederson,-0.023799999999999988,0.1429,0.1667
 2022-01-11 23:30:55.818887,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Southampton,-0.024299999999999995,0.0526,0.0769
 2022-01-12 00:30:47.732467,League One - England League One 2021/22 - To Be Relegated,Morecambe,-0.025600000000000067,0.6667,0.6923
 2022-01-12 00:30:47.717831,League One - England League One 2021/22 - Outright,Sunderland,-0.031399999999999983,0.2353,0.2667
 2022-01-12 04:30:40.629337,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.033299999999999996,0.5122,0.5455
-2022-01-11 23:30:55.030810,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Algeria,-0.033300000000000024,0.1667,0.2
 2022-01-11 23:30:54.040356,NBA Specials - Where will Ben Simmons play after the 2022 NBA Trade Deadline? - Outright,Sacramento Kings,-0.033300000000000024,0.1667,0.2
+2022-01-11 23:30:55.030810,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Algeria,-0.033300000000000024,0.1667,0.2
 2022-01-11 23:30:54.040356,NBA Specials - Where will Ben Simmons play after the 2022 NBA Trade Deadline? - Outright,Philadelphia 76ers,-0.04290000000000005,0.3571,0.4
 2022-01-11 23:30:55.818887,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Newcastle United,-0.045499999999999985,0.4545,0.5
 2022-01-12 04:30:40.655780,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.047599999999999976,0.2857,0.3333
