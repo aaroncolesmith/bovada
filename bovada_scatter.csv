@@ -16,7 +16,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-12 02:30:45.848527,NFL Specials - Where will Russell Wilson Play Week 1 of the 2022/2023 NFL Season - Outright,Seattle Seahawks,0.04060000000000008,0.8667,0.8261
 2022-01-12 02:30:46.025083,NFL Specials - Who Will Be The Seattle Seahawks Starting QB For Game 1 Of The 2022-2023 Season? - Outright,Russell Wilson,0.04060000000000008,0.8667,0.8261
 2022-01-12 00:30:47.761197,League Two - England League Two 2021/22 - To Be Relegated,Scunthorpe United,0.04039999999999999,0.8182,0.7778
-2022-01-11 18:31:04.136353,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Pumas UNAM,0.03420000000000001,0.1111,0.0769
 2022-01-11 23:30:54.040356,NBA Specials - Where will Ben Simmons play after the 2022 NBA Trade Deadline? - Outright,San Antonio Spurs,0.0321,0.0909,0.0588
 2022-01-12 00:30:47.387333,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Dusan Vlahovic,0.031799999999999995,0.4762,0.4444
 2022-01-12 00:30:47.732467,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,0.031799999999999995,0.1429,0.1111
@@ -32,6 +31,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-12 05:30:30.745025,Specials - Will Apple Release a augmented reality (AR) or virtual reality (VR) headset in 2022 - Outright,No,0.017600000000000005,0.3509,0.3333
 2022-01-12 00:30:47.746574,League Two - England League Two 2021/22 - Outright,Forest Green Rovers,0.016700000000000048,0.75,0.7333
 2022-01-12 00:30:47.754083,League Two - England League Two 2021/22 - Top Goalscorer,Dominic Telford (Newport County),0.016699999999999993,0.2667,0.25
+2022-01-12 06:31:03.689906,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Kansas City Chiefs,0.015100000000000002,0.1818,0.1667
 2022-01-12 00:30:47.387333,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Joao Pedro,0.014099999999999998,0.0385,0.0244
 2022-01-11 23:30:55.855373,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Wolverhampton Wanderers,0.013999999999999999,0.0909,0.0769
 2022-01-11 23:30:55.855373,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Leicester City,0.010899999999999993,0.1538,0.1429
@@ -46,14 +46,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-12 03:30:42.515197,NFL Specials - Next Full Time Head Caoch of the New York Giants - Outright,Todd Bowles,-0.013899999999999996,0.1111,0.125
 2022-01-12 00:30:47.387333,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Duvan Zapata,-0.013999999999999999,0.0769,0.0909
 2022-01-12 03:30:42.515197,NFL Specials - Next Full Time Head Caoch of the New York Giants - Outright,Kellen Moore,-0.017,0.1163,0.1333
-2022-01-11 18:31:04.136353,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Deportivo Toluca,-0.018200000000000004,0.0294,0.0476
 2022-01-12 00:30:47.394315,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Napoli,-0.020100000000000007,0.75,0.7701
 2022-01-12 00:30:47.732467,League One - England League One 2021/22 - To Be Relegated,Cheltenham Town,-0.02020000000000001,0.0909,0.1111
 2022-01-11 23:30:55.838745,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Chelsea,-0.020299999999999985,0.9412,0.9615
 2022-01-12 03:30:42.515197,NFL Specials - Next Full Time Head Caoch of the New York Giants - Outright,Jim Caldwell,-0.02049999999999999,0.1333,0.1538
 2022-01-11 23:30:55.030810,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Egypt,-0.02310000000000001,0.0769,0.1
-2022-01-12 03:30:42.515197,NFL Specials - Next Full Time Head Caoch of the New York Giants - Outright,Byron Leftwich,-0.023799999999999988,0.1429,0.1667
 2022-01-12 03:30:42.515197,NFL Specials - Next Full Time Head Caoch of the New York Giants - Outright,Doug Pederson,-0.023799999999999988,0.1429,0.1667
+2022-01-12 03:30:42.515197,NFL Specials - Next Full Time Head Caoch of the New York Giants - Outright,Byron Leftwich,-0.023799999999999988,0.1429,0.1667
 2022-01-11 23:30:55.818887,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Southampton,-0.024299999999999995,0.0526,0.0769
 2022-01-12 00:30:47.732467,League One - England League One 2021/22 - To Be Relegated,Morecambe,-0.025600000000000067,0.6667,0.6923
 2022-01-12 00:30:47.717831,League One - England League One 2021/22 - Outright,Sunderland,-0.031399999999999983,0.2353,0.2667
