@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-01-12 02:30:45.975753,NFL Specials - Who will be the Green Bay Packers Starting QB for Game 1 of the 2022-2023 Seaosn? - Outright,Aaron Rodgers,0.2875,0.6875,0.4
 2022-01-12 00:30:47.754083,League Two - England League Two 2021/22 - Top Goalscorer,Jamille Matt (Forest Green),0.11109999999999998,0.3333,0.2222
 2022-01-12 00:30:47.732467,League One - England League One 2021/22 - To Be Relegated,Fleetwood Town,0.06659999999999999,0.3333,0.2667
 2022-01-12 00:30:47.725219,League One - England League One 2021/22 - Top Goalscorer,Ross Stewart (Sunderland),0.06519999999999998,0.3509,0.2857
@@ -9,11 +10,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-12 00:30:47.732467,League One - England League One 2021/22 - To Be Relegated,Crewe Alexandra,0.055499999999999994,0.8333,0.7778
 2022-01-11 23:30:55.030810,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Nigeria,0.052000000000000005,0.1429,0.0909
 2022-01-11 23:30:55.855373,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Tottenham Hotspur,0.044500000000000095,0.7778,0.7333
+2022-01-12 02:30:46.025083,NFL Specials - Who Will Be The Seattle Seahawks Starting QB For Game 1 Of The 2022-2023 Season? - Outright,Russell Wilson,0.04060000000000008,0.8667,0.8261
+2022-01-12 02:30:45.848527,NFL Specials - Where will Russell Wilson Play Week 1 of the 2022/2023 NFL Season - Outright,Seattle Seahawks,0.04060000000000008,0.8667,0.8261
 2022-01-12 00:30:47.761197,League Two - England League Two 2021/22 - To Be Relegated,Scunthorpe United,0.04039999999999999,0.8182,0.7778
 2022-01-11 18:31:04.136353,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Pumas UNAM,0.03420000000000001,0.1111,0.0769
 2022-01-11 23:30:54.040356,NBA Specials - Where will Ben Simmons play after the 2022 NBA Trade Deadline? - Outright,San Antonio Spurs,0.0321,0.0909,0.0588
-2022-01-12 00:30:47.732467,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,0.031799999999999995,0.1429,0.1111
 2022-01-12 00:30:47.387333,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Dusan Vlahovic,0.031799999999999995,0.4762,0.4444
+2022-01-12 00:30:47.732467,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,0.031799999999999995,0.1429,0.1111
 2022-01-11 23:30:55.818887,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Brentford,0.024999999999999994,0.125,0.1
 2022-01-11 23:30:55.818887,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,0.022600000000000064,0.6226,0.6
 2022-01-11 23:30:55.855373,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,0.022199999999999998,0.8,0.7778
@@ -30,8 +33,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-11 23:30:55.855373,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Leicester City,0.010899999999999993,0.1538,0.1429
 2022-01-11 23:30:55.838745,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,West Ham United,0.010899999999999993,0.1538,0.1429
 2022-01-12 00:30:47.761197,League Two - England League Two 2021/22 - To Be Relegated,Colchester United,-0.010399999999999993,0.2222,0.2326
-2022-01-12 00:30:47.746574,League Two - England League Two 2021/22 - Outright,Swindon Town,-0.011199999999999995,0.0476,0.0588
 2022-01-12 00:30:47.746574,League Two - England League Two 2021/22 - Outright,Tranmere Rovers,-0.011199999999999995,0.0476,0.0588
+2022-01-12 00:30:47.746574,League Two - England League Two 2021/22 - Outright,Swindon Town,-0.011199999999999995,0.0476,0.0588
+2022-01-12 02:30:45.848527,NFL Specials - Where will Russell Wilson Play Week 1 of the 2022/2023 NFL Season - Outright,Chicago Bears,-0.012299999999999991,0.1053,0.1176
+2022-01-12 02:30:45.848527,NFL Specials - Where will Russell Wilson Play Week 1 of the 2022/2023 NFL Season - Outright,Las Vegas Radiers,-0.012299999999999991,0.1053,0.1176
 2022-01-12 00:30:47.387333,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Duvan Zapata,-0.013999999999999999,0.0769,0.0909
 2022-01-11 18:31:04.136353,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Deportivo Toluca,-0.018200000000000004,0.0294,0.0476
 2022-01-12 00:30:47.394315,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Napoli,-0.020100000000000007,0.75,0.7701
@@ -50,3 +55,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-11 23:30:54.040356,NBA Specials - Where will Ben Simmons play after the 2022 NBA Trade Deadline? - Outright,Cleveland Cavaliers,-0.07069999999999999,0.1111,0.1818
 2022-01-11 23:30:55.838745,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Manchester United,-0.0721,0.3125,0.3846
 2022-01-11 23:30:54.040356,NBA Specials - Where will Ben Simmons play after the 2022 NBA Trade Deadline? - Outright,Minnesota Timberwolves,-0.07579999999999999,0.0909,0.1667
+2022-01-12 02:30:45.975753,NFL Specials - Who will be the Green Bay Packers Starting QB for Game 1 of the 2022-2023 Seaosn? - Outright,Jordan Love,-0.27449999999999997,0.3922,0.6667
