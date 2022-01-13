@@ -1,121 +1,68 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-13 00:30:27.773790,Africa Cup of Nations - Group D - Group Winner,Nigeria,0.24920000000000003,0.7143,0.4651
 2022-01-12 20:32:48.733707,NFL Specials - Next Full Time Head Caoch of the Jacksonville Jaguars - Outright,Byron Leftwich,0.15000000000000002,0.4,0.25
-2022-01-12 18:30:36.563034,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Field,0.11069999999999991,0.7333,0.6226
-2022-01-12 19:30:39.666201,College Basketball - Conference USA Winner - Outright,Louisiana Tech,0.10949999999999999,0.3448,0.2353
-2022-01-12 18:30:36.812556,College Basketball - Atlantic 10 Conference Winner - Outright,Virginia Commonwealth,0.09620000000000001,0.25,0.1538
-2022-01-12 19:30:40.416643,NFL Specials - Next Full Time Head Caoch of the Jacksonville Jaguars - Outright,Byron Leftwich,0.08330000000000001,0.25,0.1667
 2022-01-13 00:30:28.093356,League One - England League One 2021/22 - To Be Promoted,Rotherham Utd,0.08179999999999998,0.9,0.8182
 2022-01-13 00:30:28.136188,League One - England League One 2021/22 - Top 6 Finish,Oxford United,0.07899999999999996,0.579,0.5
-2022-01-12 18:30:38.675279,NBA Specials - NBA 2021/22 Player of the Month - 2022 January Western Conference Player of the Month,J. Morant,0.06670000000000004,0.4,0.3333
-2022-01-12 19:30:39.738980,College Basketball - Southeastern Conference Winner - Outright,Auburn,0.06670000000000004,0.4,0.3333
-2022-01-12 18:30:36.847821,College Basketball - Big 12 Conference Winner - Outright,Texas Tech,0.0629,0.1538,0.0909
-2022-01-12 19:30:39.500274,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Auburn,0.05679999999999999,0.1818,0.125
 2022-01-13 00:30:28.110704,League One - England League One 2021/22 - To Be Relegated,Gillingham,0.05679999999999996,0.875,0.8182
 2022-01-13 00:30:28.136188,League One - England League One 2021/22 - Top 6 Finish,Plymouth Argyle,0.054400000000000004,0.5999,0.5455
 2022-01-13 00:30:28.136188,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,0.04910000000000003,0.4,0.3509
-2022-01-12 18:30:36.586099,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Kamala Harris,0.047599999999999976,0.3333,0.2857
 2022-01-13 00:30:28.093356,League One - England League One 2021/22 - To Be Promoted,Plymouth Argyle,0.04620000000000002,0.2,0.1538
 2022-01-13 00:30:27.674395,EFL Cup - EFL Cup 2021/22 - Outright,Chelsea,0.045499999999999985,0.5455,0.5
-2022-01-12 18:30:36.812556,College Basketball - Atlantic 10 Conference Winner - Outright,Davidson,0.04040000000000002,0.2222,0.1818
+2022-01-13 08:30:32.400951,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Taylor Jenkins (MEM),0.042899999999999994,0.1429,0.1
 2022-01-13 00:30:28.093356,League One - England League One 2021/22 - To Be Promoted,Oxford United,0.04040000000000002,0.2222,0.1818
-2022-01-12 19:30:39.686456,College Basketball - Mountain West Conference  Winner - Outright,Colorado State,0.03920000000000001,0.3333,0.2941
-2022-01-12 18:30:36.886187,College Basketball - Big Ten Conference Winner - Outright,Illinois,0.03570000000000001,0.2857,0.25
-2022-01-12 19:30:39.738980,College Basketball - Southeastern Conference Winner - Outright,LSU,0.033399999999999985,0.1667,0.1333
-2022-01-12 18:30:36.886187,College Basketball - Big Ten Conference Winner - Outright,Wisconsin,0.028799999999999992,0.1538,0.125
-2022-01-12 18:30:36.812556,College Basketball - Atlantic 10 Conference Winner - Outright,Dayton,0.028399999999999995,0.0909,0.0625
+2022-01-13 08:30:33.051837,NBA Specials - NBA 2021/22 Player of the Month - 2022 January Eastern Conference Player of the Month,Joel Embiid,0.03570000000000001,0.2857,0.25
+2022-01-13 08:30:32.528729,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.033299999999999996,0.8333,0.8
+2022-01-13 08:30:32.980244,NBA Specials - NBA 2021/22 All-Star Voting - Eastern Conference Captain (Most Votes in the Conference),Kevin Durant,0.030399999999999983,0.5652,0.5348
 2022-01-13 00:30:28.110704,League One - England League One 2021/22 - To Be Relegated,Cheltenham Town,0.0267,0.1176,0.0909
-2022-01-12 18:30:36.643581,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Kamala Harris,0.024999999999999994,0.125,0.1
-2022-01-12 18:30:36.605238,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Mike Pence,0.024299999999999995,0.0769,0.0526
-2022-01-12 18:30:36.886187,College Basketball - Big Ten Conference Winner - Outright,Ohio State,0.023800000000000016,0.1905,0.1667
-2022-01-12 19:30:39.500274,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Wisconsin,0.02310000000000001,0.1,0.0769
-2022-01-12 19:30:39.500274,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Texas Tech,0.022000000000000006,0.1053,0.0833
-2022-01-12 18:30:36.847821,College Basketball - Big 12 Conference Winner - Outright,Kansas,0.021999999999999964,0.3077,0.2857
+2022-01-13 08:30:33.051837,NBA Specials - NBA 2021/22 Player of the Month - 2022 January Eastern Conference Player of the Month,Kevin Durant,0.023799999999999988,0.3571,0.3333
 2022-01-13 00:30:28.110704,League One - England League One 2021/22 - To Be Relegated,Doncaster Rovers,0.020299999999999985,0.9615,0.9412
-2022-01-12 18:30:36.605238,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Nikki Haley,0.02020000000000001,0.1111,0.0909
-2022-01-12 19:30:39.666201,College Basketball - Conference USA Winner - Outright,Florida Atlantic,0.0184,0.0294,0.011
-2022-01-12 18:30:36.886187,College Basketball - Big Ten Conference Winner - Outright,Michigan State,0.01820000000000002,0.2,0.1818
 2022-01-13 00:30:28.080014,League One - England League One 2021/22 - Outright,Wycombe,0.018099999999999998,0.0769,0.0588
-2022-01-12 18:30:36.586099,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Deval Patrick,0.0179,0.0278,0.0099
+2022-01-13 08:30:32.520323,NBA Futures - 2022 NBA Southeast Division - Division Winner,Charlotte Hornets,0.0179,0.1429,0.125
 2022-01-13 00:30:28.136188,League One - England League One 2021/22 - Top 6 Finish,Portsmouth,0.017400000000000027,0.381,0.3636
-2022-01-12 19:30:39.666201,College Basketball - Conference USA Winner - Outright,Charlotte,0.015300000000000001,0.0476,0.0323
-2022-01-12 19:30:39.716790,College Basketball - PAC 12 Conference  Winner - Outright,USC,0.015100000000000002,0.1818,0.1667
-2022-01-12 18:30:36.586099,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Stacey Abrams,0.014900000000000004,0.0345,0.0196
+2022-01-13 08:30:32.485808,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,0.015100000000000002,0.8333,0.8182
 2022-01-13 00:30:28.110704,League One - England League One 2021/22 - To Be Relegated,Charlton Athletic,0.014499999999999999,0.0294,0.0149
-2022-01-12 19:30:39.467132,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Auburn,0.014100000000000001,0.0526,0.0385
 2022-01-13 02:30:29.609261,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,LeBron James,0.014099999999999998,0.0385,0.0244
 2022-01-13 00:30:28.110704,League One - England League One 2021/22 - To Be Relegated,Accrington Stanley,0.014099999999999998,0.0435,0.0294
 2022-01-13 02:30:27.285052,94th Academy Awards - Odds to win Best Actress - Outright,Lady Gaga (House of Gucci),0.013999999999999999,0.0909,0.0769
 2022-01-13 00:30:27.716201,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Ivory Coast,0.013899999999999996,0.125,0.1111
+2022-01-13 08:30:32.387884,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Kevin Durant,0.012299999999999978,0.3571,0.3448
+2022-01-13 08:30:33.051837,NBA Specials - NBA 2021/22 Player of the Month - 2022 January Eastern Conference Player of the Month,Fred VanVleet,0.011899999999999994,0.0833,0.0714
 2022-01-13 05:30:28.636679,Euroleague - Euroleague 2021/22 - Winner,Real Madrid BC,0.011700000000000016,0.2222,0.2105
-2022-01-12 19:30:39.467132,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Gonzaga,0.010899999999999993,0.1538,0.1429
 2022-01-12 20:32:48.733707,NFL Specials - Next Full Time Head Caoch of the Jacksonville Jaguars - Outright,Brian Daboll,0.0102,0.0769,0.0667
 2022-01-13 00:30:24.771909,Boxing Lines - Liam Smith vs Jessie Vargas - To Win the Bout,Liam Smith,-0.010099999999999998,0.6774,0.6875
-2022-01-12 18:30:36.812556,College Basketball - Atlantic 10 Conference Winner - Outright,Richmond,-0.0102,0.0667,0.0769
-2022-01-12 19:30:40.416643,NFL Specials - Next Full Time Head Caoch of the Jacksonville Jaguars - Outright,Brian Daboll,-0.0102,0.0667,0.0769
 2022-01-13 00:30:27.716201,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Egypt,-0.0102,0.0667,0.0769
 2022-01-13 05:30:28.636679,Euroleague - Euroleague 2021/22 - Winner,Anadolu Efes,-0.010899999999999993,0.1429,0.1538
 2022-01-13 00:30:28.136188,League One - England League One 2021/22 - Top 6 Finish,Wigan Athletic,-0.011199999999999988,0.9412,0.9524
-2022-01-12 18:30:36.643581,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Andrew Cuomo,-0.011699999999999999,0.0079,0.0196
-2022-01-12 18:30:36.643581,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Tammy Duckworth,-0.011699999999999999,0.0079,0.0196
-2022-01-12 19:30:39.666201,College Basketball - Conference USA Winner - Outright,UTEP,-0.0118,0.0099,0.0217
-2022-01-12 19:30:41.345197,NFL Specials - 2022 NFL Draft - Number of Wide Receivers Selected in First Round - Outright,Over 4.5,-0.012299999999999978,0.6429,0.6552
+2022-01-13 08:30:32.980244,NBA Specials - NBA 2021/22 All-Star Voting - Eastern Conference Captain (Most Votes in the Conference),Giannis Antetokounmpo,-0.0116,0.4762,0.4878
+2022-01-13 08:30:32.494286,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,-0.012199999999999989,0.5,0.5122
 2022-01-13 00:30:27.716201,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Algeria,-0.012899999999999995,0.1538,0.1667
-2022-01-12 18:30:38.675279,NBA Specials - NBA 2021/22 Player of the Month - 2022 January Western Conference Player of the Month,Karl-Anthony Towns,-0.013899999999999996,0.1111,0.125
+2022-01-13 08:30:33.051837,NBA Specials - NBA 2021/22 Player of the Month - 2022 January Eastern Conference Player of the Month,LaMelo Ball,-0.013999999999999999,0.0769,0.0909
 2022-01-12 20:32:48.733707,NFL Specials - Next Full Time Head Caoch of the Jacksonville Jaguars - Outright,Marvin Lewis,-0.014099999999999998,0.0294,0.0435
-2022-01-12 18:30:36.643581,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Mike Pence,-0.014100000000000001,0.0385,0.0526
-2022-01-12 18:30:36.830195,College Basketball - Atlantic Coast Conference  Winner - Outright,Virginia Tech,-0.014100000000000001,0.0385,0.0526
-2022-01-12 18:30:36.886187,College Basketball - Big Ten Conference Winner - Outright,Iowa,-0.014100000000000001,0.0385,0.0526
+2022-01-13 08:30:33.051837,NBA Specials - NBA 2021/22 Player of the Month - 2022 January Eastern Conference Player of the Month,Pascal Siakam,-0.014899999999999997,0.0476,0.0625
 2022-01-12 20:32:48.733707,NFL Specials - Next Full Time Head Caoch of the Jacksonville Jaguars - Outright,Matt Eberflus,-0.014899999999999997,0.0476,0.0625
-2022-01-12 19:30:39.500274,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Alabama,-0.015700000000000006,0.1176,0.1333
-2022-01-13 00:30:28.110704,League One - England League One 2021/22 - To Be Relegated,Cambridge United,-0.016699999999999993,0.25,0.2667
+2022-01-13 08:30:32.400951,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,JB Bickerstaff (CLE),-0.015100000000000002,0.1667,0.1818
 2022-01-13 00:30:28.136188,League One - England League One 2021/22 - Top 6 Finish,Ipswich Town,-0.016699999999999993,0.25,0.2667
+2022-01-13 00:30:28.110704,League One - England League One 2021/22 - To Be Relegated,Cambridge United,-0.016699999999999993,0.25,0.2667
 2022-01-13 00:30:28.093356,League One - England League One 2021/22 - To Be Promoted,Ipswich Town,-0.016700000000000007,0.0833,0.1
-2022-01-12 19:30:39.500274,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Rutgers,-0.0189,0.0196,0.0385
 2022-01-12 20:32:48.733707,NFL Specials - Next Full Time Head Caoch of the Jacksonville Jaguars - Outright,Joe Brady,-0.019099999999999992,0.0476,0.0667
-2022-01-12 19:30:39.500274,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Duke,-0.02030000000000004,0.3571,0.3774
-2022-01-12 19:30:41.283265,NFL Specials - 2022 NFL Draft - Number of Tight Ends Selected in First Round - Outright,Under 0.5,-0.02080000000000004,0.6667,0.6875
+2022-01-13 08:30:33.051837,NBA Specials - NBA 2021/22 Player of the Month - 2022 January Eastern Conference Player of the Month,Trae Young,-0.0208,0.0625,0.0833
+2022-01-13 08:30:33.051837,NBA Specials - NBA 2021/22 Player of the Month - 2022 January Eastern Conference Player of the Month,DeMar DeRozan,-0.023799999999999988,0.3333,0.3571
 2022-01-13 00:30:28.110704,League One - England League One 2021/22 - To Be Relegated,Lincoln City,-0.0242,0.0667,0.0909
 2022-01-13 00:30:27.674395,EFL Cup - EFL Cup 2021/22 - Outright,Arsenal,-0.024800000000000016,0.2105,0.2353
-2022-01-13 00:30:28.110704,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,-0.025300000000000003,0.1176,0.1429
 2022-01-13 00:30:28.093356,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,-0.025300000000000003,0.1176,0.1429
-2022-01-12 18:30:36.643581,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Donald Trump Sr.,-0.02679999999999999,0.2857,0.3125
-2022-01-12 19:30:39.500274,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Kansas,-0.02779999999999999,0.25,0.2778
-2022-01-12 18:30:38.675279,NBA Specials - NBA 2021/22 Player of the Month - 2022 January Western Conference Player of the Month,Stephen Curry,-0.02779999999999999,0.2222,0.25
-2022-01-12 19:30:39.666201,College Basketball - Conference USA Winner - Outright,Western Kentucky,-0.028799999999999992,0.125,0.1538
+2022-01-13 00:30:28.110704,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,-0.025300000000000003,0.1176,0.1429
 2022-01-13 00:30:28.136188,League One - England League One 2021/22 - Top 6 Finish,Charlton Athletic,-0.029299999999999993,0.0476,0.0769
+2022-01-13 08:30:32.528729,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.029299999999999993,0.2564,0.2857
 2022-01-13 00:30:28.093356,League One - England League One 2021/22 - To Be Promoted,Wigan Athletic,-0.030299999999999994,0.6364,0.6667
-2022-01-12 18:30:36.886187,College Basketball - Big Ten Conference Winner - Outright,Michigan,-0.030699999999999998,0.0526,0.0833
-2022-01-12 18:30:36.866248,College Basketball - Big East Conference  Winner - Outright,Seton Hall,-0.031799999999999995,0.1111,0.1429
-2022-01-13 00:30:28.136188,League One - England League One 2021/22 - Top 6 Finish,Wycombe,-0.033299999999999996,0.8,0.8333
 2022-01-12 20:32:48.733707,NFL Specials - Next Full Time Head Caoch of the Jacksonville Jaguars - Outright,Doug Pederson,-0.033299999999999996,0.1,0.1333
+2022-01-13 00:30:28.136188,League One - England League One 2021/22 - Top 6 Finish,Wycombe,-0.033299999999999996,0.8,0.8333
 2022-01-12 20:32:48.733707,NFL Specials - Next Full Time Head Caoch of the Jacksonville Jaguars - Outright,Darrell Bevell,-0.033300000000000024,0.1667,0.2
-2022-01-12 18:30:36.886187,College Basketball - Big Ten Conference Winner - Outright,Purdue,-0.03420000000000001,0.2222,0.2564
-2022-01-12 18:30:36.605238,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Ron DeSantis,-0.034999999999999976,0.2353,0.2703
 2022-01-13 00:30:28.080014,League One - England League One 2021/22 - Outright,Sunderland,-0.0353,0.2,0.2353
-2022-01-12 19:30:39.666201,College Basketball - Conference USA Winner - Outright,Marshall,-0.0392,0.0196,0.0588
-2022-01-12 18:30:36.643581,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Joe Biden,-0.04040000000000002,0.1818,0.2222
-2022-01-12 18:30:38.675279,NBA Specials - NBA 2021/22 Player of the Month - 2022 January Western Conference Player of the Month,LeBron James,-0.04040000000000002,0.1818,0.2222
-2022-01-12 19:30:39.666201,College Basketball - Conference USA Winner - Outright,UAB,-0.04139999999999999,0.4348,0.4762
-2022-01-12 18:30:38.675279,NBA Specials - NBA 2021/22 Player of the Month - 2022 January Western Conference Player of the Month,Luka Doncic,-0.04169999999999999,0.125,0.1667
-2022-01-12 18:30:36.586099,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Pete Buttigieg,-0.04269999999999999,0.1111,0.1538
-2022-01-12 18:30:36.812556,College Basketball - Atlantic 10 Conference Winner - Outright,Saint Louis,-0.042899999999999994,0.1,0.1429
-2022-01-12 19:30:39.500274,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Baylor,-0.04459999999999997,0.3125,0.3571
-2022-01-13 00:30:28.110704,League One - England League One 2021/22 - To Be Relegated,Fleetwood Town,-0.047599999999999976,0.2857,0.3333
 2022-01-13 00:30:28.093356,League One - England League One 2021/22 - To Be Promoted,Wycombe,-0.047599999999999976,0.2857,0.3333
-2022-01-12 19:30:40.416643,NFL Specials - Next Full Time Head Caoch of the Jacksonville Jaguars - Outright,Darrell Bevell,-0.04999999999999999,0.2,0.25
+2022-01-13 00:30:28.110704,League One - England League One 2021/22 - To Be Relegated,Fleetwood Town,-0.047599999999999976,0.2857,0.3333
 2022-01-13 00:30:28.110704,League One - England League One 2021/22 - To Be Relegated,Bolton Wanderers,-0.052300000000000006,0.0588,0.1111
 2022-01-13 00:30:28.093356,League One - England League One 2021/22 - To Be Promoted,Sunderland,-0.05449999999999999,0.5455,0.6
-2022-01-12 19:30:39.738980,College Basketball - Southeastern Conference Winner - Outright,Alabama,-0.05559999999999998,0.1111,0.1667
-2022-01-12 18:30:38.675279,NBA Specials - NBA 2021/22 Player of the Month - 2022 January Western Conference Player of the Month,Devin Booker,-0.05679999999999999,0.125,0.1818
-2022-01-12 18:30:36.847821,College Basketball - Big 12 Conference Winner - Outright,Baylor,-0.06190000000000001,0.3636,0.4255
 2022-01-13 00:30:28.136188,League One - England League One 2021/22 - Top 6 Finish,Milton Keynes Dons,-0.06340000000000001,0.381,0.4444
-2022-01-12 18:30:36.586099,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Joe Biden,-0.06670000000000004,0.3333,0.4
-2022-01-12 18:30:36.830195,College Basketball - Atlantic Coast Conference  Winner - Outright,Georgia Tech,-0.0703,0.0066,0.0769
 2022-01-12 20:32:48.733707,NFL Specials - Next Full Time Head Caoch of the Jacksonville Jaguars - Outright,Jim Caldwell,-0.0705,0.0833,0.1538
-2022-01-12 18:30:36.643581,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Ron DeSantis,-0.07930000000000001,0.1429,0.2222
-2022-01-12 18:30:36.812556,College Basketball - Atlantic 10 Conference Winner - Outright,St. Bonaventure,-0.08340000000000003,0.3333,0.4167
-2022-01-12 18:30:36.563034,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Joe Biden,-0.11110000000000003,0.3333,0.4444
 2022-01-13 00:30:28.110704,League One - England League One 2021/22 - To Be Relegated,Crewe Alexandra,-0.119,0.7143,0.8333
-2022-01-12 17:30:46.462699,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Atlanta Hawks,-0.13040000000000002,0.4348,0.5652
 2022-01-13 00:30:27.773790,Africa Cup of Nations - Group D - Group Winner,Egypt,-0.24110000000000004,0.3333,0.5744
