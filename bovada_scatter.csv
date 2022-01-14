@@ -8,6 +8,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-14 12:30:42.445586,Africa Cup of Nations - Group C - Group Winner,Morocco,0.050000000000000044,0.8,0.75
 2022-01-14 12:30:42.560075,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,Atalanta,0.04999999999999999,0.25,0.2
 2022-01-14 12:30:42.402123,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Cameroon,0.044499999999999984,0.2667,0.2222
+2022-01-14 22:30:39.175099,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Morocco,0.042899999999999994,0.1429,0.1
+2022-01-14 22:30:39.175099,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Cameroon,0.04169999999999999,0.1667,0.125
 2022-01-14 15:30:46.405231,NBA Season Props - 2021/22 NBA Awards - 2022 The Sixth Man,Tyler Hero,0.033299999999999996,0.8333,0.8
 2022-01-14 12:30:42.560075,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,Fiorentina,0.0294,0.0588,0.0294
 2022-01-14 12:30:38.484361,Boxing Lines - Matt Conway vs Avery Sparrow - To Win the Bout,Avery Sparrow,0.026499999999999968,0.6491,0.6226
@@ -32,16 +34,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-14 12:30:42.389392,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Sebastian Haller,-0.019099999999999992,0.0476,0.0667
 2022-01-14 20:30:40.516640,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Mark Magsayo,-0.019600000000000006,0.2273,0.2469
 2022-01-14 12:30:42.389392,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Islam Slimani,-0.0203,0.0385,0.0588
-2022-01-14 12:30:42.402123,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Cape Verde,-0.0203,0.0385,0.0588
 2022-01-14 12:30:42.402123,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Gabon,-0.0203,0.0385,0.0588
+2022-01-14 12:30:42.402123,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Cape Verde,-0.0203,0.0385,0.0588
 2022-01-14 12:30:42.445586,Africa Cup of Nations - Group C - Group Winner,Gabon,-0.022199999999999998,0.2,0.2222
 2022-01-14 12:30:42.474299,Africa Cup of Nations - Group E - Group Winner,Equatorial Guinea,-0.0236,0.0149,0.0385
+2022-01-14 22:30:39.175099,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Algeria,-0.023799999999999988,0.1429,0.1667
 2022-01-14 12:30:40.728522,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Los Angeles Rams,-0.023799999999999988,0.1429,0.1667
 2022-01-14 12:30:42.488638,Africa Cup of Nations - Group F - Group Winner,Mauritania,-0.0262,0.0123,0.0385
 2022-01-14 12:30:38.484361,Boxing Lines - Matt Conway vs Avery Sparrow - To Win the Bout,Matt Conway,-0.027700000000000002,0.4167,0.4444
 2022-01-14 12:30:42.416713,Africa Cup of Nations - Group A - Group Winner,Burkina Faso,-0.0384,0.0385,0.0769
 2022-01-14 12:30:42.445586,Africa Cup of Nations - Group C - Group Winner,Ghana,-0.042899999999999994,0.1,0.1429
 2022-01-14 15:30:46.357951,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,-0.05550000000000002,0.1667,0.2222
+2022-01-14 22:30:39.175099,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Senegal,-0.05550000000000002,0.1667,0.2222
 2022-01-14 12:30:42.402123,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Egypt,-0.05559999999999998,0.1111,0.1667
 2022-01-14 12:30:42.402123,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Algeria,-0.057699999999999974,0.25,0.3077
 2022-01-14 12:30:42.389392,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Mohamed Salah,-0.066,0.0769,0.1429
