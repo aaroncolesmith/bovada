@@ -15,22 +15,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-14 12:30:42.488638,Africa Cup of Nations - Group F - Group Winner,Gambia,0.02310000000000001,0.1,0.0769
 2022-01-14 12:30:40.728522,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Green Bay Packers,0.02260000000000001,0.4,0.3774
 2022-01-14 15:30:46.369343,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Rudy Gobert,0.019000000000000017,0.2857,0.2667
+2022-01-14 20:30:40.516640,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Gary Russell Jr,0.018900000000000028,0.8403,0.8214
 2022-01-14 15:30:46.357951,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,0.015400000000000025,0.4,0.3846
 2022-01-14 15:30:46.381666,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Desmond Bane,0.015300000000000001,0.0476,0.0323
 2022-01-14 12:30:42.402123,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Morocco,0.015100000000000002,0.1818,0.1667
 2022-01-14 12:30:40.355400,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Hapoel Holon,0.014099999999999998,0.0385,0.0244
-2022-01-14 08:30:34.891659,NFL Specials - NFL Play Off Specials - Stage of Elimination - Green Bay Packers,Win in Superbowl,0.011700000000000016,0.2222,0.2105
-2022-01-14 12:30:42.402123,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Guinea,-0.011199999999999995,0.0476,0.0588
+2022-01-14 20:30:40.496431,Boxing Lines - Joe Smith Jr vs Steve Geffrard - To Win the Bout,Steve Geffrard,0.0121,0.1333,0.1212
 2022-01-14 12:30:42.389392,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Riyad Mahrez,-0.011199999999999995,0.0476,0.0588
+2022-01-14 12:30:42.402123,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Guinea,-0.011199999999999995,0.0476,0.0588
 2022-01-14 12:30:42.389392,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Pierre- Emerick Aubameyang,-0.012100000000000001,0.0123,0.0244
-2022-01-14 12:30:42.402123,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Ghana,-0.013999999999999999,0.0769,0.0909
 2022-01-14 12:30:42.402123,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Tunisia,-0.013999999999999999,0.0769,0.0909
+2022-01-14 12:30:42.402123,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Ghana,-0.013999999999999999,0.0769,0.0909
 2022-01-14 12:30:40.355400,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Besiktas,-0.014099999999999998,0.0244,0.0385
 2022-01-14 12:30:42.402123,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Senegal,-0.017600000000000005,0.3333,0.3509
+2022-01-14 20:30:40.496431,Boxing Lines - Joe Smith Jr vs Steve Geffrard - To Win the Bout,Joe Smith Jr,-0.018100000000000005,0.9231,0.9412
 2022-01-14 12:30:42.389392,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Sebastian Haller,-0.019099999999999992,0.0476,0.0667
-2022-01-14 12:30:42.402123,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Gabon,-0.0203,0.0385,0.0588
+2022-01-14 20:30:40.516640,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Mark Magsayo,-0.019600000000000006,0.2273,0.2469
 2022-01-14 12:30:42.389392,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Islam Slimani,-0.0203,0.0385,0.0588
 2022-01-14 12:30:42.402123,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Cape Verde,-0.0203,0.0385,0.0588
+2022-01-14 12:30:42.402123,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Gabon,-0.0203,0.0385,0.0588
 2022-01-14 12:30:42.445586,Africa Cup of Nations - Group C - Group Winner,Gabon,-0.022199999999999998,0.2,0.2222
 2022-01-14 12:30:42.474299,Africa Cup of Nations - Group E - Group Winner,Equatorial Guinea,-0.0236,0.0149,0.0385
 2022-01-14 12:30:40.728522,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Los Angeles Rams,-0.023799999999999988,0.1429,0.1667
@@ -45,6 +48,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-14 12:30:42.389392,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Sadio Mane,-0.07579999999999999,0.0909,0.1667
 2022-01-14 12:30:42.416713,Africa Cup of Nations - Group A - Group Winner,Cape Verde,-0.14120000000000002,0.0588,0.2
 2022-01-14 12:30:42.474299,Africa Cup of Nations - Group E - Group Winner,Algeria,-0.2552,0.4,0.6552
-2022-01-14 08:30:35.213403,NFL Specials - NFL Play Off Specials - AFC Championship Correct Matchup,Kansas City Chiefs vs Las Vegas Raiders,-0.4091,0.0909,0.5
-2022-01-14 08:30:35.213403,NFL Specials - NFL Play Off Specials - AFC Championship Correct Matchup,New England Patriots vs Buffalo Bills,-0.4091,0.0909,0.5
 2022-01-14 12:30:42.488638,Africa Cup of Nations - Group F - Group Winner,Tunisia,-0.4546,0.1818,0.6364
