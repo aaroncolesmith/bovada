@@ -24,35 +24,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-15 14:30:32.127671,Boxing Lines - Omar Rosario vs Raekwon Butler - To Win the Bout,Raekwon Butler,0.015100000000000002,0.1818,0.1667
 2022-01-15 14:30:32.881931,NFL Specials - Wild-Card Weekend Specials - Most Points Scored,Buffalo Bills,0.01440000000000001,0.1053,0.0909
 2022-01-15 14:30:32.847622,NFL Specials - Wild-Card Weekend Specials - Least Points Scored,Dallas Cowboys,0.014399999999999996,0.0769,0.0625
-2022-01-15 14:30:32.925806,NFL Specials - Wild-Card Weekend Specials - Most Rushing Yards,Miles Sanders PHI,0.014100000000000001,0.0526,0.0385
 2022-01-15 14:30:32.925806,NFL Specials - Wild-Card Weekend Specials - Most Rushing Yards,Rhamondre Stevenson NE,0.014100000000000001,0.0526,0.0385
-2022-01-15 11:30:35.758691,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Tunisia,0.013999999999999999,0.0909,0.0769
+2022-01-15 14:30:32.925806,NFL Specials - Wild-Card Weekend Specials - Most Rushing Yards,Miles Sanders PHI,0.014100000000000001,0.0526,0.0385
 2022-01-15 11:30:34.207073,NFL Specials - NFL Play Off Specials - Most Points Scored,Buffalo Bills,0.013999999999999999,0.0909,0.0769
+2022-01-15 11:30:35.758691,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Tunisia,0.013999999999999999,0.0909,0.0769
 2022-01-15 11:30:33.419576,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Mark Magsayo,0.011700000000000016,0.2222,0.2105
 2022-01-15 14:30:32.847622,NFL Specials - Wild-Card Weekend Specials - Least Points Scored,Los Angeles Rams,0.011199999999999995,0.0588,0.0476
 2022-01-15 11:30:33.366743,Boxing Lines - Omar Rosario vs Raekwon Butler - To Win the Bout,Omar Rosario,0.011099999999999999,0.9,0.8889
 2022-01-15 09:30:29.056038,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Gary Russell Jr,0.01090000000000002,0.8571,0.8462
 2022-01-15 11:30:33.352478,Boxing Lines - Lyubomyr Pinchuk vs Jose Flores - To Win the Bout,Jose Flores,0.010899999999999993,0.1538,0.1429
 2022-01-15 09:30:30.057493,NFL Specials - NFL Play Off Specials - Highest Scoring Game On Super Wild Card Weekend,LV Raiders @ CIN Bengals,0.010499999999999982,0.2105,0.2
-2022-01-15 05:30:33.012882,Boxing Lines - Joe Smith Jr vs Steve Geffrard - To Win the Bout,Joe Smith Jr,0.010199999999999987,0.9333,0.9231
-2022-01-15 06:30:25.977883,NFL Specials - NFL Play Off Specials - Home Teams Points vs Away Teams - Points On Super Wild Card Weekend,Away Teams +38.5,0.010099999999999998,0.5556,0.5455
-2022-01-15 06:30:25.988627,NFL Specials - NFL Play Off Specials - NFC Teams Points vs AFC Teams - Points On Super Wild Card Weekend,NFC Teams -10.5,0.010099999999999998,0.5556,0.5455
 2022-01-15 14:30:32.157663,Boxing Lines - Nova Abraham vs William Encarnacion - To Win the Bout,Nova Abraham,0.010099999999999998,0.9756,0.9655
+2022-01-15 06:30:25.988627,NFL Specials - NFL Play Off Specials - NFC Teams Points vs AFC Teams - Points On Super Wild Card Weekend,NFC Teams -10.5,0.010099999999999998,0.5556,0.5455
+2022-01-15 06:30:25.977883,NFL Specials - NFL Play Off Specials - Home Teams Points vs Away Teams - Points On Super Wild Card Weekend,Away Teams +38.5,0.010099999999999998,0.5556,0.5455
 2022-01-15 06:30:25.283783,Boxing Lines - Joe Smith Jr vs Steve Geffrard - To Win the Bout,Joe Smith Jr,-0.010199999999999987,0.9231,0.9333
 2022-01-15 11:30:35.744679,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Mohamed Salah,-0.0102,0.0667,0.0769
-2022-01-15 11:30:35.758691,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Ghana,-0.0102,0.0667,0.0769
 2022-01-15 11:30:34.207073,NFL Specials - NFL Play Off Specials - Most Points Scored,Los Angeles Rams,-0.0102,0.0667,0.0769
+2022-01-15 11:30:35.758691,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Ghana,-0.0102,0.0667,0.0769
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Breshad Perriman TB,-0.010600000000000002,0.0217,0.0323
-2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Kendrick Bourne NE,-0.010600000000000002,0.0217,0.0323
 2022-01-15 14:30:32.881931,NFL Specials - Wild-Card Weekend Specials - Most Points Scored,Pittsburgh Steelers,-0.010600000000000002,0.0217,0.0323
-2022-01-15 06:30:25.977883,NFL Specials - NFL Play Off Specials - Home Teams Points vs Away Teams - Points On Super Wild Card Weekend,Home Teams -38.5,-0.010699999999999932,0.5348,0.5455
+2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Kendrick Bourne NE,-0.010600000000000002,0.0217,0.0323
 2022-01-15 06:30:25.988627,NFL Specials - NFL Play Off Specials - NFC Teams Points vs AFC Teams - Points On Super Wild Card Weekend,AFC Teams +10.5,-0.010699999999999932,0.5348,0.5455
+2022-01-15 06:30:25.977883,NFL Specials - NFL Play Off Specials - Home Teams Points vs Away Teams - Points On Super Wild Card Weekend,Home Teams -38.5,-0.010699999999999932,0.5348,0.5455
 2022-01-15 14:30:32.113479,Boxing Lines - Lyubomyr Pinchuk vs Jose Flores - To Win the Bout,Jose Flores,-0.010899999999999993,0.1429,0.1538
 2022-01-15 11:30:36.486718,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Everton,-0.01090000000000002,0.8462,0.8571
 2022-01-15 11:30:33.419576,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Gary Russell Jr,-0.01090000000000002,0.8462,0.8571
 2022-01-15 15:30:48.381838,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Steve Nash (BKN),-0.011199999999999995,0.0476,0.0588
-2022-01-15 09:30:29.056038,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Mark Magsayo,-0.011700000000000016,0.2105,0.2222
 2022-01-15 11:30:34.207073,NFL Specials - NFL Play Off Specials - Most Points Scored,Tampa Bay Buccaneers,-0.011700000000000016,0.2105,0.2222
+2022-01-15 09:30:29.056038,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Mark Magsayo,-0.011700000000000016,0.2105,0.2222
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Josh Jacobs LV,-0.0118,0.0099,0.0217
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Jauan Jennings SF,-0.012100000000000001,0.0123,0.0244
 2022-01-15 11:30:36.486718,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Crystal Palace,-0.012899999999999912,0.8333,0.8462
@@ -60,12 +59,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-15 14:30:32.881931,NFL Specials - Wild-Card Weekend Specials - Most Points Scored,Dallas Cowboys,-0.012899999999999995,0.1538,0.1667
 2022-01-15 11:30:35.744679,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Andre Ayew,-0.013,0.0066,0.0196
 2022-01-15 15:30:48.381838,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Billy Donovan (CHI),-0.0131,0.2222,0.2353
-2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Travis Kelce KC,-0.013999999999999999,0.0769,0.0909
 2022-01-15 11:30:35.744679,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Kelechi Iheanacho,-0.013999999999999999,0.0769,0.0909
+2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Travis Kelce KC,-0.013999999999999999,0.0769,0.0909
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Cole Beasley BUF,-0.014099999999999998,0.0244,0.0385
-2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Chase Edmonds ARI,-0.0145,0.0099,0.0244
-2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Mecole Hardman KC,-0.0145,0.0099,0.0244
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Najee Harris PIT,-0.0145,0.0099,0.0244
+2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Mecole Hardman KC,-0.0145,0.0099,0.0244
+2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Chase Edmonds ARI,-0.0145,0.0099,0.0244
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,DeVonta Smith PHI,-0.014899999999999997,0.0476,0.0625
 2022-01-15 14:30:32.925806,NFL Specials - Wild-Card Weekend Specials - Most Rushing Yards,Tony Pollard DAL,-0.014899999999999997,0.0476,0.0625
 2022-01-15 14:30:32.869881,NFL Specials - Wild-Card Weekend Specials - Most Passing Yards,Joe Burrow CIN,-0.015100000000000002,0.1667,0.1818
@@ -74,20 +73,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Bryan Edwards LV,-0.015499999999999998,0.0123,0.0278
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Tyler Johnson TB,-0.015499999999999998,0.0123,0.0278
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Cedrick Wilson Jr. DAL,-0.0168,0.0217,0.0385
-2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Emmanuel Sanders BUF,-0.017400000000000002,0.0149,0.0323
+2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Quez Watkins PHI,-0.017400000000000002,0.0149,0.0323
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Hunter Henry NE,-0.017400000000000002,0.0149,0.0323
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Dawson Knox BUF,-0.017400000000000002,0.0149,0.0323
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Byron Pringle KC,-0.017400000000000002,0.0149,0.0323
-2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Quez Watkins PHI,-0.017400000000000002,0.0149,0.0323
+2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Emmanuel Sanders BUF,-0.017400000000000002,0.0149,0.0323
 2022-01-15 14:30:32.127671,Boxing Lines - Omar Rosario vs Raekwon Butler - To Win the Bout,Omar Rosario,-0.01760000000000006,0.8824,0.9
 2022-01-15 11:30:36.486718,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,West Ham United,-0.018099999999999998,0.0588,0.0769
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Odell Beckham Jr. LAR,-0.018200000000000004,0.0294,0.0476
 2022-01-15 11:30:35.744679,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Ibrahima Kone,-0.018200000000000004,0.0294,0.0476
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Tyler Boyd CIN,-0.018200000000000004,0.0294,0.0476
 2022-01-15 11:30:35.825422,Africa Cup of Nations - Group C - Group Winner,Gabon,-0.01820000000000002,0.1818,0.2
-2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Darren Waller LV,-0.019000000000000003,0.0435,0.0625
-2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,George Kittle SF,-0.019000000000000003,0.0435,0.0625
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Brandon Aiyuk SF,-0.019000000000000003,0.0435,0.0625
+2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,George Kittle SF,-0.019000000000000003,0.0435,0.0625
+2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Darren Waller LV,-0.019000000000000003,0.0435,0.0625
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Van Jefferson LAR,-0.019099999999999995,0.0244,0.0435
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Rondale Moore ARI,-0.020000000000000004,0.0123,0.0323
 2022-01-15 11:30:36.486718,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Leeds United,-0.020299999999999985,0.9412,0.9615
@@ -95,20 +94,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-15 15:30:48.420247,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Miles Bridges,-0.022199999999999998,0.2,0.2222
 2022-01-15 14:30:32.847622,NFL Specials - Wild-Card Weekend Specials - Least Points Scored,New England Patriots,-0.022199999999999998,0.2,0.2222
 2022-01-15 14:30:32.834992,NFL Specials - Wild-Card Weekend Specials - Home Teams Points vs Away Teams Point,Home Teams -38.5,-0.022600000000000064,0.5122,0.5348
-2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Zay Jones LV,-0.023200000000000002,0.0294,0.0526
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Dalton Schultz DAL,-0.023200000000000002,0.0244,0.0476
+2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Zay Jones LV,-0.023200000000000002,0.0294,0.0526
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,A.J. Green ARI,-0.023200000000000002,0.0244,0.0476
-2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Pat Freiermuth PIT,-0.0236,0.0149,0.0385
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Nelson Agholor NE,-0.0236,0.0149,0.0385
+2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Pat Freiermuth PIT,-0.0236,0.0149,0.0385
 2022-01-15 11:30:36.486718,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Southampton,-0.023799999999999932,0.8333,0.8571
 2022-01-15 14:30:32.869881,NFL Specials - Wild-Card Weekend Specials - Most Passing Yards,Derek Carr LV,-0.024999999999999994,0.1,0.125
 2022-01-15 14:30:32.925806,NFL Specials - Wild-Card Weekend Specials - Most Rushing Yards,Devin Singletary BUF,-0.0267,0.0909,0.1176
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Chase Claypool PIT,-0.027999999999999997,0.0345,0.0625
 2022-01-15 14:30:32.847622,NFL Specials - Wild-Card Weekend Specials - Least Points Scored,Philadelphia Eagles,-0.028700000000000003,0.1818,0.2105
 2022-01-15 11:30:35.744679,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Sadio Mane,-0.0321,0.0588,0.0909
-2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Hunter Renfrow LV,-0.0334,0.0435,0.0769
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Rob Gronkowski TB,-0.0334,0.0435,0.0769
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Amari Cooper DAL,-0.0334,0.0435,0.0769
+2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Hunter Renfrow LV,-0.0334,0.0435,0.0769
 2022-01-15 14:30:32.898333,NFL Specials - Wild-Card Weekend Specials - Most Receiving Yards,Tee Higgins CIN,-0.03420000000000001,0.0769,0.1111
 2022-01-15 14:30:32.847622,NFL Specials - Wild-Card Weekend Specials - Least Points Scored,Pittsburgh Steelers,-0.0363,0.2667,0.303
 2022-01-15 14:30:32.869881,NFL Specials - Wild-Card Weekend Specials - Most Passing Yards,Dak Prescott DAL,-0.043800000000000006,0.1667,0.2105
