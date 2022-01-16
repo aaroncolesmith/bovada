@@ -17,20 +17,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-16 10:30:30.962388,NFL Specials - NFL Play Off Specials - AFC Championship Correct Matchup,Buffalo Bills vs Tennessee Titans,0.022199999999999998,0.2222,0.2
 2022-01-16 10:30:30.962388,NFL Specials - NFL Play Off Specials - AFC Championship Correct Matchup,Kansas City Chiefs vs Tennessee Titans,0.020799999999999985,0.3333,0.3125
 2022-01-16 10:30:30.962388,NFL Specials - NFL Play Off Specials - AFC Championship Correct Matchup,Buffalo Bills vs Cincinnati Bengals,0.019699999999999995,0.125,0.1053
-2022-01-15 22:30:33.651156,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Cincinnati Bengals,0.019099999999999992,0.0667,0.0476
 2022-01-16 10:30:31.006894,NFL Specials - Wild-Card Weekend Specials - Requested Specials,"R.Gronkowski & D.Smith 4+ Receptions Each, G.Kittle & C.Lamb 5+ Receptions Each",0.01820000000000002,0.2,0.1818
 2022-01-16 00:30:46.107336,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Egypt,0.018099999999999998,0.0769,0.0588
 2022-01-16 00:30:45.314821,NBL - NBL 2021/22 - Outright,Illawarra Hawks,0.016699999999999993,0.2667,0.25
-2022-01-16 10:30:30.962388,NFL Specials - NFL Play Off Specials - AFC Championship Correct Matchup,Kansas City Chiefs vs Cincinnati Bengals,0.015100000000000002,0.1818,0.1667
 2022-01-16 00:30:46.107336,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Senegal,0.015100000000000002,0.1818,0.1667
+2022-01-16 10:30:30.962388,NFL Specials - NFL Play Off Specials - AFC Championship Correct Matchup,Kansas City Chiefs vs Cincinnati Bengals,0.015100000000000002,0.1818,0.1667
+2022-01-16 11:30:27.615305,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Buffalo Bills,0.015100000000000002,0.1818,0.1667
 2022-01-16 10:30:30.987247,NFL Specials - NFL Play Off Specials - Super Bowl MVP,Joe Burrow,0.014899999999999997,0.0625,0.0476
 2022-01-16 10:30:30.778485,NFL Specials - NFL Play Off Specials - Superbowl Finalists,Green Bay Packers v Buffalo Bills,0.01440000000000001,0.1053,0.0909
 2022-01-16 00:30:44.248545,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,San Francisco 49ers,0.013999999999999999,0.0909,0.0769
 2022-01-16 07:30:34.125552,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Gary Russell Jr,0.012899999999999912,0.8462,0.8333
 2022-01-16 00:30:46.107336,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Algeria,0.010899999999999993,0.1538,0.1429
-2022-01-16 00:30:46.107336,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Mali,0.0102,0.0769,0.0667
-2022-01-15 23:30:42.217133,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Cincinnati Bengals,0.0102,0.0769,0.0667
 2022-01-16 01:30:34.769254,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Cincinnati Bengals,0.0102,0.0769,0.0667
+2022-01-15 23:30:42.217133,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Cincinnati Bengals,0.0102,0.0769,0.0667
+2022-01-16 00:30:46.107336,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Mali,0.0102,0.0769,0.0667
 2022-01-16 00:30:44.218214,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Cincinnati Bengals,-0.0102,0.0667,0.0769
 2022-01-16 01:30:34.769254,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,New England Patriots,-0.010600000000000005,0.037,0.0476
 2022-01-16 07:30:34.422174,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,-0.012299999999999978,0.3448,0.3571
@@ -38,7 +38,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-16 07:30:34.422174,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Tennessee Titans,-0.01469999999999999,0.2353,0.25
 2022-01-16 10:30:30.665499,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Kansas City Chiefs,-0.015100000000000002,0.1667,0.1818
 2022-01-16 10:30:31.006894,NFL Specials - Wild-Card Weekend Specials - Requested Specials,"Deebo Samuel, Diontae Johnson & Rob Gronkowski 75+ Receiving Yards Each",-0.015700000000000006,0.1176,0.1333
-2022-01-15 22:30:33.651156,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Kansas City Chiefs,-0.016600000000000004,0.1739,0.1905
 2022-01-16 10:30:29.978699,94th Academy Awards - Odds to win Best Actress - Outright,Rachel Zeglar (West Side Story),-0.02020000000000001,0.0909,0.1111
 2022-01-16 00:30:45.314821,NBL - NBL 2021/22 - Outright,SE Melbourne Phoenix,-0.022199999999999998,0.2,0.2222
 2022-01-16 00:30:45.314821,NBL - NBL 2021/22 - Outright,Sydney Kings,-0.023799999999999988,0.1429,0.1667
