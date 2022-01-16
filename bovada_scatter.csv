@@ -22,8 +22,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-16 12:30:34.260731,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,0.05449999999999999,0.4545,0.4
 2022-01-16 10:30:30.943974,NFL Specials - NFL Play Off Specials - To Reach AFC Championship Game,Cincinnati Bengals,0.05109999999999998,0.3636,0.3125
 2022-01-16 13:30:31.006376,League Two - England League Two 2021/22 - Outright,Forest Green Rovers,0.050000000000000044,0.8,0.75
-2022-01-16 10:30:29.978699,94th Academy Awards - Odds to win Best Actress - Outright,Nicole Kidman (Being the Ricardos),0.04999999999999999,0.25,0.2
 2022-01-16 13:30:31.020674,League Two - England League Two 2021/22 - To Be Promoted,Newport County,0.04999999999999999,0.25,0.2
+2022-01-16 10:30:29.978699,94th Academy Awards - Odds to win Best Actress - Outright,Nicole Kidman (Being the Ricardos),0.04999999999999999,0.25,0.2
 2022-01-16 10:30:30.943974,NFL Specials - NFL Play Off Specials - To Reach AFC Championship Game,Buffalo Bills,0.04910000000000003,0.4,0.3509
 2022-01-16 12:30:34.213500,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,0.04909999999999999,0.1667,0.1176
 2022-01-16 12:30:34.225864,League One - England League One 2021/22 - To Be Relegated,Morecambe,0.04760000000000009,0.7143,0.6667
@@ -54,8 +54,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-16 10:30:30.962388,NFL Specials - NFL Play Off Specials - AFC Championship Correct Matchup,Buffalo Bills vs Cincinnati Bengals,0.019699999999999995,0.125,0.1053
 2022-01-16 13:30:31.035539,League Two - England League Two 2021/22 - Top 3 Finish,Sutton Utd,0.019000000000000017,0.2857,0.2667
 2022-01-16 10:30:31.006894,NFL Specials - Wild-Card Weekend Specials - Requested Specials,"R.Gronkowski & D.Smith 4+ Receptions Each, G.Kittle & C.Lamb 5+ Receptions Each",0.01820000000000002,0.2,0.1818
-2022-01-16 13:30:31.035539,League Two - England League Two 2021/22 - Top 3 Finish,Newport County,0.0179,0.1429,0.125
 2022-01-16 13:30:31.045051,League Two - England League Two 2021/22 - Top 7 Finish,Bristol Rovers,0.0179,0.1429,0.125
+2022-01-16 13:30:31.035539,League Two - England League Two 2021/22 - Top 3 Finish,Newport County,0.0179,0.1429,0.125
 2022-01-16 14:30:35.152367,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.016699999999999993,0.2667,0.25
 2022-01-16 14:30:35.224990,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,0.016699999999999937,0.6,0.5833
 2022-01-16 10:30:30.962388,NFL Specials - NFL Play Off Specials - AFC Championship Correct Matchup,Kansas City Chiefs vs Cincinnati Bengals,0.015100000000000002,0.1818,0.1667
@@ -79,8 +79,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-16 13:30:31.035539,League Two - England League Two 2021/22 - Top 3 Finish,Harrogate Town,-0.011199999999999995,0.0476,0.0588
 2022-01-16 13:30:31.013706,League Two - England League Two 2021/22 - Top Goalscorer,Aaron Drinan (Leyton Orient),-0.011199999999999995,0.0476,0.0588
 2022-01-16 12:30:34.237600,League One - England League One 2021/22 - To Finish Bottom,Cambridge United,-0.011699999999999999,0.0079,0.0196
-2022-01-16 12:30:34.260731,League One - England League One 2021/22 - Top 6 Finish,Lincoln City,-0.012100000000000001,0.0123,0.0244
+2022-01-16 14:30:35.021423,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Billy Donovan (CHI),-0.011700000000000016,0.2105,0.2222
 2022-01-16 13:30:31.013706,League Two - England League Two 2021/22 - Top Goalscorer,Sam Nombe (Exeter),-0.012100000000000001,0.0123,0.0244
+2022-01-16 12:30:34.260731,League One - England League One 2021/22 - Top 6 Finish,Lincoln City,-0.012100000000000001,0.0123,0.0244
 2022-01-16 07:30:34.422174,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,-0.012299999999999978,0.3448,0.3571
 2022-01-16 10:30:31.006894,NFL Specials - Wild-Card Weekend Specials - Requested Specials,"Tom Brady 2+ Passing Touchdowns, Mike Evans 1+ Receiving Touchdowns, Darrel Williams 1+ Rushing Touchdowns",-0.012899999999999995,0.1538,0.1667
 2022-01-16 13:30:31.013706,League Two - England League Two 2021/22 - Top Goalscorer,Luke Armstrong (Harrogate Town),-0.014099999999999998,0.0244,0.0385
