@@ -22,8 +22,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-16 12:30:34.260731,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,0.05449999999999999,0.4545,0.4
 2022-01-16 10:30:30.943974,NFL Specials - NFL Play Off Specials - To Reach AFC Championship Game,Cincinnati Bengals,0.05109999999999998,0.3636,0.3125
 2022-01-16 13:30:31.006376,League Two - England League Two 2021/22 - Outright,Forest Green Rovers,0.050000000000000044,0.8,0.75
-2022-01-16 13:30:31.020674,League Two - England League Two 2021/22 - To Be Promoted,Newport County,0.04999999999999999,0.25,0.2
 2022-01-16 10:30:29.978699,94th Academy Awards - Odds to win Best Actress - Outright,Nicole Kidman (Being the Ricardos),0.04999999999999999,0.25,0.2
+2022-01-16 13:30:31.020674,League Two - England League Two 2021/22 - To Be Promoted,Newport County,0.04999999999999999,0.25,0.2
 2022-01-16 10:30:30.943974,NFL Specials - NFL Play Off Specials - To Reach AFC Championship Game,Buffalo Bills,0.04910000000000003,0.4,0.3509
 2022-01-16 12:30:34.213500,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,0.04909999999999999,0.1667,0.1176
 2022-01-16 12:30:34.225864,League One - England League One 2021/22 - To Be Relegated,Morecambe,0.04760000000000009,0.7143,0.6667
@@ -32,11 +32,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-16 13:30:31.045051,League Two - England League Two 2021/22 - Top 7 Finish,Exeter City,0.045499999999999985,0.5,0.4545
 2022-01-16 12:30:34.249881,League One - England League One 2021/22 - Top 2 Finish,Wycombe,0.044499999999999984,0.2667,0.2222
 2022-01-16 12:30:34.225864,League One - England League One 2021/22 - To Be Relegated,Lincoln City,0.04440000000000001,0.1111,0.0667
+2022-01-16 14:30:35.244777,NBA Futures - 2022 NBA Southeast Division - Division Winner,Miami Heat,0.04290000000000005,0.9,0.8571
 2022-01-16 12:30:34.260731,League One - England League One 2021/22 - Top 6 Finish,Wigan Athletic,0.03920000000000001,0.9804,0.9412
 2022-01-16 13:30:31.035539,League Two - England League Two 2021/22 - Top 3 Finish,Exeter City,0.03889999999999999,0.1818,0.1429
-2022-01-16 01:30:34.769254,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Buffalo Bills,0.037599999999999995,0.1429,0.1053
 2022-01-16 13:30:31.020674,League Two - England League Two 2021/22 - To Be Promoted,Tranmere Rovers,0.0373,0.4219,0.3846
 2022-01-16 13:30:31.045051,League Two - England League Two 2021/22 - Top 7 Finish,Newport County,0.0348,0.4348,0.4
+2022-01-16 14:30:35.192464,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,0.0347,0.0625,0.0278
 2022-01-16 12:30:34.225864,League One - England League One 2021/22 - To Be Relegated,Gillingham,0.03410000000000002,0.9091,0.875
 2022-01-16 13:30:31.028151,League Two - England League Two 2021/22 - To Be Relegated,Carlisle Utd,0.034100000000000005,0.125,0.0909
 2022-01-16 12:30:34.237600,League One - England League One 2021/22 - To Finish Bottom,Gillingham,0.03409999999999999,0.2667,0.2326
@@ -45,7 +46,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-16 10:30:30.826511,NFL Specials - NFL Play Off Specials - Stage of Elimination - Cincinnati Bengals,Win Superbowl,0.029299999999999993,0.0769,0.0476
 2022-01-16 13:30:31.020674,League Two - England League Two 2021/22 - To Be Promoted,Exeter City,0.02779999999999999,0.25,0.2222
 2022-01-16 12:30:34.225864,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,0.025300000000000003,0.1429,0.1176
-2022-01-16 02:30:35.478799,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Buffalo Bills,0.023799999999999988,0.1667,0.1429
 2022-01-16 10:30:30.962388,NFL Specials - NFL Play Off Specials - AFC Championship Correct Matchup,Buffalo Bills vs Tennessee Titans,0.022199999999999998,0.2222,0.2
 2022-01-16 13:30:31.020674,League Two - England League Two 2021/22 - To Be Promoted,Leyton Orient,0.022199999999999998,0.2222,0.2
 2022-01-16 13:30:31.035539,League Two - England League Two 2021/22 - Top 3 Finish,Swindon Town,0.021999999999999964,0.3077,0.2857
@@ -54,57 +54,68 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-16 10:30:30.962388,NFL Specials - NFL Play Off Specials - AFC Championship Correct Matchup,Buffalo Bills vs Cincinnati Bengals,0.019699999999999995,0.125,0.1053
 2022-01-16 13:30:31.035539,League Two - England League Two 2021/22 - Top 3 Finish,Sutton Utd,0.019000000000000017,0.2857,0.2667
 2022-01-16 10:30:31.006894,NFL Specials - Wild-Card Weekend Specials - Requested Specials,"R.Gronkowski & D.Smith 4+ Receptions Each, G.Kittle & C.Lamb 5+ Receptions Each",0.01820000000000002,0.2,0.1818
-2022-01-16 13:30:31.045051,League Two - England League Two 2021/22 - Top 7 Finish,Bristol Rovers,0.0179,0.1429,0.125
 2022-01-16 13:30:31.035539,League Two - England League Two 2021/22 - Top 3 Finish,Newport County,0.0179,0.1429,0.125
+2022-01-16 13:30:31.045051,League Two - England League Two 2021/22 - Top 7 Finish,Bristol Rovers,0.0179,0.1429,0.125
+2022-01-16 14:30:35.152367,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.016699999999999993,0.2667,0.25
+2022-01-16 14:30:35.224990,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,0.016699999999999937,0.6,0.5833
 2022-01-16 10:30:30.962388,NFL Specials - NFL Play Off Specials - AFC Championship Correct Matchup,Kansas City Chiefs vs Cincinnati Bengals,0.015100000000000002,0.1818,0.1667
 2022-01-16 13:30:31.020674,League Two - England League Two 2021/22 - To Be Promoted,Bradford City,0.015100000000000002,0.1818,0.1667
 2022-01-16 11:30:27.615305,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Buffalo Bills,0.015100000000000002,0.1818,0.1667
 2022-01-16 10:30:30.987247,NFL Specials - NFL Play Off Specials - Super Bowl MVP,Joe Burrow,0.014899999999999997,0.0625,0.0476
+2022-01-16 14:30:35.021423,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Erik Spoelstra (MIA),0.014899999999999997,0.0625,0.0476
 2022-01-16 10:30:30.778485,NFL Specials - NFL Play Off Specials - Superbowl Finalists,Green Bay Packers v Buffalo Bills,0.01440000000000001,0.1053,0.0909
 2022-01-16 12:30:34.186115,League One - England League One 2021/22 - Outright,Wycombe,0.013999999999999999,0.0909,0.0769
 2022-01-16 13:30:31.035539,League Two - England League Two 2021/22 - Top 3 Finish,Leyton Orient,0.013899999999999996,0.125,0.1111
 2022-01-16 13:30:31.020674,League Two - England League Two 2021/22 - To Be Promoted,Mansfield Town,0.012899999999999995,0.1667,0.1538
 2022-01-16 07:30:34.125552,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Gary Russell Jr,0.012899999999999912,0.8462,0.8333
+2022-01-16 14:30:35.169279,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Memphis Grizzlies,0.012600000000000007,0.0714,0.0588
 2022-01-16 13:30:31.006376,League Two - England League Two 2021/22 - Outright,Tranmere Rovers,0.011199999999999995,0.0588,0.0476
-2022-01-16 01:30:34.769254,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Cincinnati Bengals,0.0102,0.0769,0.0667
+2022-01-16 14:30:35.067044,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Franz Wagner,0.011099999999999999,0.1111,0.1
+2022-01-16 14:30:35.152367,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.010899999999999993,0.1538,0.1429
+2022-01-16 14:30:35.021423,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Monty Williams (PHO),0.010499999999999982,0.2105,0.2
 2022-01-16 13:30:31.035539,League Two - England League Two 2021/22 - Top 3 Finish,Bristol Rovers,0.010100000000000001,0.0345,0.0244
 2022-01-16 12:30:34.213500,League One - England League One 2021/22 - To Be Promoted,Sunderland,0.010099999999999998,0.5556,0.5455
-2022-01-16 01:30:34.769254,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,New England Patriots,-0.010600000000000005,0.037,0.0476
-2022-01-16 13:30:31.013706,League Two - England League Two 2021/22 - Top Goalscorer,Aaron Drinan (Leyton Orient),-0.011199999999999995,0.0476,0.0588
 2022-01-16 13:30:31.028151,League Two - England League Two 2021/22 - To Be Relegated,Walsall,-0.011199999999999995,0.0476,0.0588
 2022-01-16 13:30:31.035539,League Two - England League Two 2021/22 - Top 3 Finish,Harrogate Town,-0.011199999999999995,0.0476,0.0588
+2022-01-16 13:30:31.013706,League Two - England League Two 2021/22 - Top Goalscorer,Aaron Drinan (Leyton Orient),-0.011199999999999995,0.0476,0.0588
 2022-01-16 12:30:34.237600,League One - England League One 2021/22 - To Finish Bottom,Cambridge United,-0.011699999999999999,0.0079,0.0196
-2022-01-16 13:30:31.013706,League Two - England League Two 2021/22 - Top Goalscorer,Sam Nombe (Exeter),-0.012100000000000001,0.0123,0.0244
 2022-01-16 12:30:34.260731,League One - England League One 2021/22 - Top 6 Finish,Lincoln City,-0.012100000000000001,0.0123,0.0244
+2022-01-16 13:30:31.013706,League Two - England League Two 2021/22 - Top Goalscorer,Sam Nombe (Exeter),-0.012100000000000001,0.0123,0.0244
 2022-01-16 07:30:34.422174,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,-0.012299999999999978,0.3448,0.3571
 2022-01-16 10:30:31.006894,NFL Specials - Wild-Card Weekend Specials - Requested Specials,"Tom Brady 2+ Passing Touchdowns, Mike Evans 1+ Receiving Touchdowns, Darrel Williams 1+ Rushing Touchdowns",-0.012899999999999995,0.1538,0.1667
 2022-01-16 13:30:31.013706,League Two - England League Two 2021/22 - Top Goalscorer,Luke Armstrong (Harrogate Town),-0.014099999999999998,0.0244,0.0385
 2022-01-16 13:30:31.028151,League Two - England League Two 2021/22 - To Be Relegated,Bristol Rovers,-0.014100000000000001,0.0385,0.0526
-2022-01-16 13:30:31.006376,League Two - England League Two 2021/22 - Outright,Salford City,-0.014499999999999999,0.0149,0.0294
 2022-01-16 12:30:34.186115,League One - England League One 2021/22 - Outright,Oxford United,-0.014499999999999999,0.0149,0.0294
+2022-01-16 13:30:31.006376,League Two - England League Two 2021/22 - Outright,Salford City,-0.014499999999999999,0.0149,0.0294
+2022-01-16 14:30:35.083395,NBA Season Props - 2021/22 NBA Awards - 2022 The Sixth Man,Alex Caruso,-0.0145,0.0099,0.0244
 2022-01-16 07:30:34.422174,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Tennessee Titans,-0.01469999999999999,0.2353,0.25
 2022-01-16 10:30:30.665499,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Kansas City Chiefs,-0.015100000000000002,0.1667,0.1818
 2022-01-16 10:30:31.006894,NFL Specials - Wild-Card Weekend Specials - Requested Specials,"Deebo Samuel, Diontae Johnson & Rob Gronkowski 75+ Receiving Yards Each",-0.015700000000000006,0.1176,0.1333
 2022-01-16 12:30:34.237600,League One - England League One 2021/22 - To Finish Bottom,Fleetwood Town,-0.0165,0.0079,0.0244
 2022-01-16 13:30:31.028151,League Two - England League Two 2021/22 - To Be Relegated,Scunthorpe United,-0.018199999999999994,0.8,0.8182
+2022-01-16 14:30:35.051409,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Miles Bridges,-0.01820000000000002,0.1818,0.2
 2022-01-16 13:30:31.045051,League Two - England League Two 2021/22 - Top 7 Finish,Port Vale,-0.01880000000000004,0.6364,0.6552
 2022-01-16 12:30:34.225864,League One - England League One 2021/22 - To Be Relegated,Burton Albion,-0.0189,0.0196,0.0385
 2022-01-16 12:30:34.225864,League One - England League One 2021/22 - To Be Relegated,Accrington Stanley,-0.019099999999999995,0.0244,0.0435
 2022-01-16 12:30:34.260731,League One - England League One 2021/22 - Top 6 Finish,Ipswich Town,-0.019100000000000006,0.2309,0.25
 2022-01-16 12:30:34.260731,League One - England League One 2021/22 - Top 6 Finish,Rotherham Utd,-0.019199999999999995,0.9709,0.9901
-2022-01-16 13:30:31.020674,League Two - England League Two 2021/22 - To Be Promoted,Harrogate Town,-0.02020000000000001,0.0909,0.1111
 2022-01-16 10:30:29.978699,94th Academy Awards - Odds to win Best Actress - Outright,Rachel Zeglar (West Side Story),-0.02020000000000001,0.0909,0.1111
+2022-01-16 13:30:31.020674,League Two - England League Two 2021/22 - To Be Promoted,Harrogate Town,-0.02020000000000001,0.0909,0.1111
 2022-01-16 13:30:31.006376,League Two - England League Two 2021/22 - Outright,Port Vale,-0.0203,0.0385,0.0588
 2022-01-16 12:30:34.237600,League One - England League One 2021/22 - To Finish Bottom,Crewe Alexandra,-0.02049999999999999,0.1333,0.1538
 2022-01-16 13:30:31.020674,League Two - England League Two 2021/22 - To Be Promoted,Northampton Town,-0.02100000000000002,0.3636,0.3846
+2022-01-16 14:30:35.192464,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,-0.02169999999999994,0.5238,0.5455
 2022-01-16 13:30:31.035539,League Two - England League Two 2021/22 - Top 3 Finish,Port Vale,-0.021999999999999964,0.2857,0.3077
+2022-01-16 14:30:35.224990,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.022699999999999998,0.4651,0.4878
 2022-01-16 12:30:34.237600,League One - England League One 2021/22 - To Finish Bottom,Morecambe,-0.02310000000000001,0.0769,0.1
 2022-01-16 13:30:31.020674,League Two - England League Two 2021/22 - To Be Promoted,Rochdale,-0.02310000000000001,0.0769,0.1
-2022-01-16 13:30:31.035539,League Two - England League Two 2021/22 - Top 3 Finish,Salford City,-0.0242,0.0667,0.0909
+2022-01-16 14:30:35.051409,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Desmond Bane,-0.023200000000000002,0.0244,0.0476
+2022-01-16 14:30:35.244777,NBA Futures - 2022 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.0238,0.0476,0.0714
 2022-01-16 13:30:31.045051,League Two - England League Two 2021/22 - Top 7 Finish,Hartlepool United,-0.0242,0.0667,0.0909
+2022-01-16 13:30:31.035539,League Two - England League Two 2021/22 - Top 3 Finish,Salford City,-0.0242,0.0667,0.0909
 2022-01-16 13:30:31.028151,League Two - England League Two 2021/22 - To Be Relegated,Oldham Athletic,-0.025600000000000067,0.6667,0.6923
-2022-01-16 02:30:35.478799,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,New England Patriots,-0.0271,0.0099,0.037
 2022-01-16 13:30:31.045051,League Two - England League Two 2021/22 - Top 7 Finish,Rochdale,-0.027999999999999997,0.1538,0.1818
+2022-01-16 14:30:35.244777,NBA Futures - 2022 NBA Southeast Division - Division Winner,Charlotte Hornets,-0.028799999999999992,0.125,0.1538
 2022-01-16 13:30:31.045051,League Two - England League Two 2021/22 - Top 7 Finish,Northampton Town,-0.030299999999999994,0.6364,0.6667
 2022-01-16 12:30:34.213500,League One - England League One 2021/22 - To Be Promoted,Portsmouth,-0.034100000000000005,0.0909,0.125
 2022-01-16 12:30:34.249881,League One - England League One 2021/22 - Top 2 Finish,Plymouth Argyle,-0.0384,0.0385,0.0769
