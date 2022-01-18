@@ -8,121 +8,74 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-18 15:30:53.884269,NBA Season Props - 2021/22 NBA Regular Season Team Wins - NY Knicks Regular Season WIns,Over 39.5,0.1652,0.5652,0.4
 2022-01-18 15:30:53.867011,NBA Season Props - 2021/22 NBA Regular Season Team Wins - MIL Bucks Regular Season Wins,Under 50.5,0.12379999999999997,0.6,0.4762
 2022-01-18 18:30:57.162826,NFL Specials - NFL Play Off Specials - Stage of Elimination - Kansas City Chiefs,Lose in Divisional Round,0.12120000000000003,0.4545,0.3333
-2022-01-18 09:42:38.867845,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Dundee United,0.11360000000000003,0.75,0.6364
 2022-01-18 18:30:57.172097,NFL Specials - NFL Play Off Specials - Stage of Elimination - Los Angeles Rams,Lose in Championship Round,0.1,0.2667,0.1667
 2022-01-18 18:30:57.148631,NFL Specials - NFL Play Off Specials - Stage of Elimination - Cincinnati Bengals,Lose in Divisional Round,0.08730000000000004,0.6429,0.5556
-2022-01-18 09:42:38.874464,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Motherwell,0.08330000000000004,0.8333,0.75
 2022-01-18 18:30:57.181441,NFL Specials - NFL Play Off Specials - Stage of Elimination - San Francisco 49ers,Lose in Championship Round,0.08179999999999998,0.1818,0.1
-2022-01-18 09:42:38.586390,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Inter Milan,0.08099999999999996,0.9901,0.9091
 2022-01-18 18:30:57.190645,NFL Specials - NFL Play Off Specials - Stage of Elimination - Tampa Bay Buccaneers,Lose in Championship Round,0.0781,0.3448,0.2667
 2022-01-18 14:30:37.266983,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Potland Trail Blazers,0.07579999999999999,0.1667,0.0909
 2022-01-18 14:30:37.266983,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Boston Celtics,0.06669999999999998,0.6667,0.6
 2022-01-18 15:30:53.837059,NBA Season Props - 2021/22 NBA Regular Season Team Wins - HOU Rockets Regular Season Wins,Over 23.5,0.06520000000000004,0.5652,0.5
 2022-01-18 18:30:57.190645,NFL Specials - NFL Play Off Specials - Stage of Elimination - Tampa Bay Buccaneers,Lose in Divisional Round,0.05890000000000001,0.3922,0.3333
-2022-01-18 10:31:06.938065,NFL Specials - NFL Play Off Specials - Play Off Specials,None of the Post Season Games to go to Overtime,0.05789999999999995,0.6875,0.6296
-2022-01-18 09:42:38.874464,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Aberdeen,0.05709999999999993,0.8571,0.8
-2022-01-18 09:42:38.874464,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Hibernian,0.05559999999999998,0.8889,0.8333
-2022-01-18 09:42:38.579887,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Venezia,0.05559999999999998,0.5556,0.5
 2022-01-18 15:30:53.848981,NBA Season Props - 2021/22 NBA Regular Season Team Wins - LA Lakres Regular Season WIns,Under 43.5,0.05559999999999998,0.5556,0.5
-2022-01-18 09:42:38.586390,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Napoli,0.055499999999999994,0.8333,0.7778
 2022-01-18 18:30:57.190645,NFL Specials - NFL Play Off Specials - Stage of Elimination - Tampa Bay Buccaneers,Lose in Superbowl,0.05379999999999999,0.1538,0.1
 2022-01-18 15:30:53.941362,NBA Season Props - 2021/22 NBA Regular Season Team Wins - WAS Wizards Regular Season Wins,Over 40.5,0.05300000000000005,0.5652,0.5122
-2022-01-18 10:31:06.970645,NFL Specials - NFL Play Off Specials - Most Rushing Yards,Cam Akers,0.05249999999999999,0.0769,0.0244
-2022-01-18 09:42:38.861219,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,St. Johnstone,0.05130000000000001,0.3846,0.3333
 2022-01-18 14:30:37.266983,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Los Angeles Lakers,0.050000000000000044,0.8,0.75
 2022-01-18 18:30:57.181441,NFL Specials - NFL Play Off Specials - Stage of Elimination - San Francisco 49ers,Lose in Superbowl,0.048600000000000004,0.1111,0.0625
-2022-01-18 09:42:38.717441,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Cameroon,0.047599999999999976,0.3333,0.2857
 2022-01-18 14:30:37.266983,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Washington Wizards,0.047599999999999976,0.3333,0.2857
 2022-01-18 18:30:57.181441,NFL Specials - NFL Play Off Specials - Stage of Elimination - San Francisco 49ers,Win Superbowl,0.0474,0.0909,0.0435
-2022-01-18 09:42:38.579887,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Genoa,0.044500000000000095,0.7778,0.7333
-2022-01-18 09:42:38.573477,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Dusan Vlahovic,0.044399999999999995,0.4444,0.4
-2022-01-18 09:42:38.847934,Premiership - Scottish Premiership 2021/22 - Outright,Celtic,0.03640000000000004,0.4,0.3636
-2022-01-18 09:42:37.947041,NFL Specials - NFL Play Off Specials - Most Rushing Yards,Sony Michel,0.035699999999999996,0.0833,0.0476
 2022-01-18 18:30:57.172097,NFL Specials - NFL Play Off Specials - Stage of Elimination - Los Angeles Rams,Lose in Superbowl,0.0343,0.1176,0.0833
 2022-01-18 15:30:53.831422,NBA Season Props - 2021/22 NBA Regular Season Team Wins - GS Warriors Regular Season WIns,Over 55.5,0.033299999999999996,0.5455,0.5122
 2022-01-18 14:30:37.266983,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Denver Nuggets,0.03180000000000005,0.8889,0.8571
-2022-01-18 09:42:38.717441,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Egypt,0.031799999999999995,0.1429,0.1111
-2022-01-18 09:42:37.941167,NFL Specials - NFL Play Off Specials - Most Receiving Yards,Cooper Kupp,0.031799999999999995,0.1429,0.1111
-2022-01-18 09:42:37.927018,NFL Specials - NFL Play Off Specials - Superbowl Finalists,Los Angeles Rams v Kansas City Chiefs,0.030699999999999998,0.0833,0.0526
-2022-01-18 09:42:37.927018,NFL Specials - NFL Play Off Specials - Superbowl Finalists,Los Angeles Rams v Buffalo Bills,0.028199999999999996,0.0667,0.0385
+2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,FC Puebla,0.029299999999999993,0.0769,0.0476
+2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Monterrey,0.028799999999999992,0.1538,0.125
 2022-01-18 14:30:36.925594,College Season Props - Odds to win 2022 Heisman Trophy - Outright,Tyler Van Dyke,0.028000000000000004,0.0476,0.0196
 2022-01-18 15:30:53.901755,NBA Season Props - 2021/22 NBA Regular Season Team Wins - PHI 76ers Regular Season Wins,Under 49.5,0.026499999999999968,0.5917,0.5652
 2022-01-18 18:30:57.190645,NFL Specials - NFL Play Off Specials - Stage of Elimination - Tampa Bay Buccaneers,Win Superbowl,0.025300000000000003,0.1429,0.1176
-2022-01-18 11:30:39.925195,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Vincent Aboubakar,0.025000000000000022,0.9,0.875
-2022-01-18 09:42:38.867845,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,St. Mirren,0.0242,0.9333,0.9091
-2022-01-18 09:42:38.861219,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,St. Mirren,0.0242,0.0909,0.0667
-2022-01-18 09:42:38.854599,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hearts,0.022199999999999998,0.8,0.7778
+2022-01-18 23:30:41.287219,Liga MX - Clausura - Liga MX Clausura 2022  - Top Goalscorer,Victor Davilla,0.0242,0.0909,0.0667
+2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Atlas FC,0.023799999999999988,0.1667,0.1429
 2022-01-18 18:30:57.143224,NFL Specials - NFL Play Off Specials - Stage of Elimination - Buffalo Bills,Lose in Championship Round,0.021999999999999964,0.3077,0.2857
-2022-01-18 09:42:38.717441,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Senegal,0.021999999999999964,0.3077,0.2857
-2022-01-18 09:42:37.941167,NFL Specials - NFL Play Off Specials - Most Receiving Yards,Ja'Marr Chase,0.02049999999999999,0.1538,0.1333
 2022-01-18 18:30:57.172097,NFL Specials - NFL Play Off Specials - Stage of Elimination - Los Angeles Rams,Win Superbowl,0.02020000000000001,0.1111,0.0909
-2022-01-18 09:42:37.921083,NFL Specials - NFL Play Off Specials - Superbowl Exact Result,Kansas City Chiefs to beat Los Angeles Rams,0.019800000000000005,0.0476,0.0278
-2022-01-18 15:30:53.860754,NBA Season Props - 2021/22 NBA Regular Season Team Wins - MIA Heat Regular Season Wins,Over 50.5,0.01970000000000005,0.5652,0.5455
 2022-01-18 14:30:37.290064,NBA Season Props - 2021/22 NBA Regular Season Team Wins - BOS Celtics Regular Season Wins,Over 42.5,0.01970000000000005,0.5652,0.5455
-2022-01-18 09:42:37.927018,NFL Specials - NFL Play Off Specials - Superbowl Finalists,Los Angeles Rams v Tennessee Titans,0.018099999999999998,0.0526,0.0345
+2022-01-18 15:30:53.860754,NBA Season Props - 2021/22 NBA Regular Season Team Wins - MIA Heat Regular Season Wins,Over 50.5,0.01970000000000005,0.5652,0.5455
+2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Deportivo Toluca,0.018200000000000004,0.0476,0.0294
 2022-01-18 14:30:36.366782,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Mark Magsayo,0.0174,0.25,0.2326
-2022-01-18 09:42:38.579887,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Cagliari,0.016700000000000048,0.75,0.7333
-2022-01-18 09:42:37.921083,NFL Specials - NFL Play Off Specials - Superbowl Exact Result,Los Angeles Rams to beat Buffalo Bills,0.0157,0.0435,0.0278
 2022-01-18 14:30:37.266983,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,New Orleans Pelicans,0.015300000000000001,0.0476,0.0323
 2022-01-18 18:30:57.162826,NFL Specials - NFL Play Off Specials - Stage of Elimination - Kansas City Chiefs,Lose in Superbowl,0.015100000000000002,0.1818,0.1667
+2022-01-18 23:30:41.045149,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Cameroon,0.015100000000000002,0.1818,0.1667
+2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Cruz Azul,0.015100000000000002,0.1818,0.1667
 2022-01-18 14:30:37.176570,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Ja Morant,0.014399999999999996,0.0769,0.0625
-2022-01-18 09:42:38.867845,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Livingston,0.014000000000000012,0.9231,0.9091
-2022-01-18 09:42:37.947041,NFL Specials - NFL Play Off Specials - Most Rushing Yards,Elijah Mitchell,0.0131,0.2353,0.2222
-2022-01-18 09:42:37.921083,NFL Specials - NFL Play Off Specials - Superbowl Exact Result,Los Angeles Rams to beat Tennessee Titans,0.012800000000000002,0.0345,0.0217
+2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Pachuca,0.013999999999999999,0.0909,0.0769
+2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Pumas UNAM,0.013899999999999996,0.125,0.1111
 2022-01-18 14:30:36.378580,Boxing Lines - Ilunga Makubu vs Thabiso Mchunu - To Win the Bout,Ilunga Makubu,0.012700000000000045,0.6491,0.6364
 2022-01-18 14:30:37.266983,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Charlotte Hornets,0.011499999999999955,0.6667,0.6552
-2022-01-18 09:42:38.717441,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Burkina Faso,0.011199999999999995,0.0588,0.0476
-2022-01-18 09:42:38.854599,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Aberdeen,0.011099999999999999,0.1111,0.1
 2022-01-18 13:31:02.297850,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Los Angeles Rams,0.011099999999999999,0.1111,0.1
-2022-01-18 09:42:37.921083,NFL Specials - NFL Play Off Specials - Superbowl Exact Result,Los Angeles Rams to beat Kansas City Chiefs,0.010700000000000001,0.0385,0.0278
-2022-01-18 09:42:38.717441,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Ivory Coast,0.010399999999999993,0.2326,0.2222
-2022-01-18 09:42:38.854599,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Motherwell,0.0102,0.0769,0.0667
-2022-01-18 09:42:38.586390,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AS Roma,0.0102,0.0769,0.0667
+2022-01-18 23:30:41.045149,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Nigeria,0.010899999999999993,0.1538,0.1429
 2022-01-18 18:30:57.199902,NFL Specials - NFL Play Off Specials - Stage of Elimination - Tennessee Titans,Win Superbowl,-0.011099999999999999,0.1,0.1111
-2022-01-18 09:42:38.573477,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Domenico Berardi,-0.011199999999999995,0.0476,0.0588
-2022-01-18 09:42:38.573477,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Duvan Zapata,-0.011199999999999995,0.0476,0.0588
 2022-01-18 15:30:53.896069,NBA Season Props - 2021/22 NBA Regular Season Team Wins - ORL Magic Regular Season Wins,Over 20.5,-0.012199999999999989,0.5,0.5122
 2022-01-18 14:30:36.366782,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Gary Russell Jr,-0.012299999999999978,0.8182,0.8305
-2022-01-18 09:42:37.927018,NFL Specials - NFL Play Off Specials - Superbowl Finalists,Tampa Bay Buccaneers v Kansas City Chiefs,-0.012299999999999991,0.1053,0.1176
 2022-01-18 13:31:02.023525,Boxing Lines - Ilunga Makubu vs Thabiso Mchunu - To Win the Bout,Ilunga Makubu,-0.012700000000000045,0.6364,0.6491
-2022-01-18 09:42:38.573477,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Lautaro Martinez,-0.013999999999999999,0.0769,0.0909
 2022-01-18 14:30:37.266983,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,San Antonio Spurs,-0.013999999999999999,0.0769,0.0909
-2022-01-18 09:42:37.947041,NFL Specials - NFL Play Off Specials - Most Rushing Yards,Leonard Fournette,-0.014099999999999994,0.0526,0.0667
-2022-01-18 09:42:37.947041,NFL Specials - NFL Play Off Specials - Most Rushing Yards,Aaron Jones,-0.016600000000000004,0.0667,0.0833
-2022-01-18 09:42:38.874464,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Livingston,-0.0179,0.125,0.1429
+2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Chivas Guadalajara,-0.014399999999999996,0.0625,0.0769
+2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Santos Laguna,-0.018099999999999998,0.0588,0.0769
 2022-01-18 18:30:57.148631,NFL Specials - NFL Play Off Specials - Stage of Elimination - Cincinnati Bengals,Win Superbowl,-0.018099999999999998,0.0588,0.0769
-2022-01-18 10:31:06.938065,NFL Specials - NFL Play Off Specials - Play Off Specials,Both GB Packers and TEN Titans Do Not Play in the Super Bowl,-0.018100000000000005,0.5652,0.5833
-2022-01-18 09:42:38.874464,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,St. Johnstone,-0.0189,0.0196,0.0385
-2022-01-18 09:42:38.717441,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Cape Verde,-0.019099999999999995,0.0244,0.0435
 2022-01-18 18:30:57.143224,NFL Specials - NFL Play Off Specials - Stage of Elimination - Buffalo Bills,WIn Superbowl,-0.021799999999999986,0.16,0.1818
 2022-01-18 18:30:57.154084,NFL Specials - NFL Play Off Specials - Stage of Elimination - Green Bay Packers,Lose in Divisional Round,-0.022199999999999998,0.3226,0.3448
 2022-01-18 15:30:53.901755,NBA Season Props - 2021/22 NBA Regular Season Team Wins - PHI 76ers Regular Season Wins,Over 49.5,-0.023799999999999988,0.4762,0.5
-2022-01-18 15:30:53.860754,NBA Season Props - 2021/22 NBA Regular Season Team Wins - MIA Heat Regular Season Wins,Under 50.5,-0.023800000000000043,0.5,0.5238
 2022-01-18 14:30:37.290064,NBA Season Props - 2021/22 NBA Regular Season Team Wins - BOS Celtics Regular Season Wins,Under 42.5,-0.023800000000000043,0.5,0.5238
+2022-01-18 15:30:53.860754,NBA Season Props - 2021/22 NBA Regular Season Team Wins - MIA Heat Regular Season Wins,Under 50.5,-0.023800000000000043,0.5,0.5238
+2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Tigres UANL,-0.025300000000000003,0.1176,0.1429
+2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Club León,-0.025300000000000003,0.1176,0.1429
 2022-01-18 14:30:37.266983,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Indiana Pacers (IND),-0.029299999999999993,0.0476,0.0769
 2022-01-18 15:30:53.831422,NBA Season Props - 2021/22 NBA Regular Season Team Wins - GS Warriors Regular Season WIns,Under 55.5,-0.03179999999999994,0.5238,0.5556
-2022-01-18 09:42:38.874464,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,St. Mirren,-0.031799999999999995,0.1111,0.1429
-2022-01-18 10:31:06.938065,NFL Specials - NFL Play Off Specials - Play Off Specials,2+ Post Season Games to go to Overtime,-0.033399999999999985,0.1333,0.1667
 2022-01-18 14:30:37.266983,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Toronto Raptors,-0.04139999999999999,0.4348,0.4762
-2022-01-18 09:42:38.854599,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hibernian,-0.04169999999999999,0.125,0.1667
 2022-01-18 18:30:57.199902,NFL Specials - NFL Play Off Specials - Stage of Elimination - Tennessee Titans,Lose in Divisional Round,-0.04260000000000003,0.3922,0.4348
-2022-01-18 09:42:38.847934,Premiership - Scottish Premiership 2021/22 - Outright,Rangers FC,-0.04760000000000009,0.6667,0.7143
 2022-01-18 18:30:57.154084,NFL Specials - NFL Play Off Specials - Stage of Elimination - Green Bay Packers,Lose in Championship Round,-0.0494,0.3077,0.3571
 2022-01-18 15:30:53.848981,NBA Season Props - 2021/22 NBA Regular Season Team Wins - LA Lakres Regular Season WIns,Over 43.5,-0.05300000000000005,0.5122,0.5652
 2022-01-18 15:30:53.941362,NBA Season Props - 2021/22 NBA Regular Season Team Wins - WAS Wizards Regular Season Wins,Under 40.5,-0.05559999999999998,0.5,0.5556
-2022-01-18 10:31:06.938065,NFL Specials - NFL Play Off Specials - Play Off Specials,1+ Post Season Game to go to Overtime,-0.05980000000000002,0.3846,0.4444
 2022-01-18 15:30:53.837059,NBA Season Props - 2021/22 NBA Regular Season Team Wins - HOU Rockets Regular Season Wins,Under 23.5,-0.06520000000000004,0.5,0.5652
-2022-01-18 09:42:38.861219,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Ross County,-0.06669999999999998,0.2,0.2667
-2022-01-18 09:42:38.867845,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Aberdeen,-0.06669999999999998,0.2,0.2667
-2022-01-18 09:42:38.717441,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Algeria,-0.06820000000000001,0.1818,0.25
-2022-01-18 09:42:38.867845,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Hibernian,-0.06860000000000002,0.1667,0.2353
-2022-01-18 09:42:38.867845,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Motherwell,-0.07509999999999997,0.2326,0.3077
 2022-01-18 18:30:57.148631,NFL Specials - NFL Play Off Specials - Stage of Elimination - Cincinnati Bengals,Lose in Superbowl,-0.07579999999999999,0.0909,0.1667
-2022-01-18 09:42:38.586390,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AC Milan,-0.07929999999999993,0.7778,0.8571
-2022-01-18 09:42:38.579887,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Spezia,-0.11829999999999999,0.2326,0.3509
 2022-01-18 18:30:57.143224,NFL Specials - NFL Play Off Specials - Stage of Elimination - Buffalo Bills,Lose in Superbowl,-0.125,0.125,0.25
 2022-01-18 15:30:53.867011,NBA Season Props - 2021/22 NBA Regular Season Team Wins - MIL Bucks Regular Season Wins,Over 50.5,-0.1266,0.4651,0.5917
-2022-01-18 09:42:38.874464,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Dundee United,-0.13670000000000004,0.3077,0.4444
 2022-01-18 15:30:53.884269,NBA Season Props - 2021/22 NBA Regular Season Team Wins - NY Knicks Regular Season WIns,Under 39.5,-0.16669999999999996,0.5,0.6667
 2022-01-18 15:30:53.878462,NBA Season Props - 2021/22 NBA Regular Season Team Wins - NO Pelicans Regular Season Wins,Under 30.5,-0.20159999999999995,0.4651,0.6667
 2022-01-18 14:30:37.266983,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Atlanta Hawks,-0.2348,0.2,0.4348
