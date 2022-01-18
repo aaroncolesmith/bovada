@@ -1,10 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-01-17 14:30:31.911846,NFL Futures - NFC Conference - NFC Conference 2021/22 - Winning Division,NFC North,0.2104,0.3922,0.1818
-2022-01-17 14:30:31.925501,NFL Futures - Super Bowl LVI Specials - Division of Super Bowl winner will be?,NFC North,0.1222,0.2222,0.1
-2022-01-17 14:30:31.925501,NFL Futures - Super Bowl LVI Specials - Division of Super Bowl winner will be?,AFC South,0.061500000000000006,0.1,0.0385
-2022-01-17 14:30:31.919746,NFL Futures - Super Bowl LVI Specials - Conference of Super Bowl winner will be?,AFC,0.04760000000000003,0.5238,0.4762
+2022-01-18 02:30:36.916133,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Los Angeles Rams,0.0417,0.125,0.0833
 2022-01-17 15:30:55.663542,NFL Specials - NFL Play Off Specials - Super Bowl MVP,Tom Brady,0.031799999999999995,0.1429,0.1111
-2022-01-17 14:30:32.059639,NFL Specials - 2022 NFL Draft - Number of Tight Ends Selected in First Round - Outright,Under 0.5,0.030299999999999994,0.697,0.6667
 2022-01-17 15:30:55.663542,NFL Specials - NFL Play Off Specials - Super Bowl MVP,Derrick Henry,0.0282,0.0526,0.0244
 2022-01-17 15:30:55.663542,NFL Specials - NFL Play Off Specials - Super Bowl MVP,Jimmy Garoppolo,0.028199999999999996,0.0667,0.0385
 2022-01-17 15:30:55.663542,NFL Specials - NFL Play Off Specials - Super Bowl MVP,Ja'Marr Chase,0.0253,0.0385,0.0132
@@ -25,14 +21,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-17 15:30:55.663542,NFL Specials - NFL Play Off Specials - Super Bowl MVP,Matthew Stafford,-0.0102,0.0667,0.0769
 2022-01-17 15:30:55.663542,NFL Specials - NFL Play Off Specials - Super Bowl MVP,Kyler Murray,-0.010700000000000001,0.0278,0.0385
 2022-01-17 15:30:55.514748,NFL Specials - NFL Play Off Specials - Superbowl Exact Result,Los Angeles Rams to beat Kansas City Chiefs,-0.010700000000000001,0.0278,0.0385
-2022-01-17 14:30:31.925501,NFL Futures - Super Bowl LVI Specials - Division of Super Bowl winner will be?,NFC South,-0.015100000000000002,0.1667,0.1818
-2022-01-17 14:30:31.925501,NFL Futures - Super Bowl LVI Specials - Division of Super Bowl winner will be?,AFC East,-0.015100000000000002,0.1667,0.1818
-2022-01-17 14:30:32.059639,NFL Specials - 2022 NFL Draft - Number of Tight Ends Selected in First Round - Outright,Over 0.5,-0.015400000000000025,0.3846,0.4
-2022-01-17 14:30:31.925501,NFL Futures - Super Bowl LVI Specials - Division of Super Bowl winner will be?,NFC West,-0.022199999999999998,0.2,0.2222
+2022-01-18 02:30:36.916133,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Arizona Cardinals,-0.012899999999999998,0.0256,0.0385
 2022-01-18 00:30:39.221826,LNB Pro A - LNB Pro A 2021/22 - Outright,Levallois,-0.023799999999999988,0.1429,0.1667
 2022-01-17 15:30:55.663542,NFL Specials - NFL Play Off Specials - Super Bowl MVP,Ryan Tannehill,-0.0242,0.0667,0.0909
-2022-01-17 14:30:31.911846,NFL Futures - NFC Conference - NFC Conference 2021/22 - Winning Division,NFC West,-0.03640000000000004,0.3636,0.4
-2022-01-17 14:30:31.919746,NFL Futures - Super Bowl LVI Specials - Conference of Super Bowl winner will be?,NFC,-0.04620000000000002,0.5455,0.5917
-2022-01-17 14:30:31.911846,NFL Futures - NFC Conference - NFC Conference 2021/22 - Winning Division,NFC South,-0.05070000000000002,0.2941,0.3448
 2022-01-17 15:30:55.663542,NFL Specials - NFL Play Off Specials - Super Bowl MVP,Clyde Edwards-Helaire,-0.0843,0.0066,0.0909
-2022-01-17 14:30:31.925501,NFL Futures - Super Bowl LVI Specials - Division of Super Bowl winner will be?,AFC North,-0.09129999999999999,0.0625,0.1538
