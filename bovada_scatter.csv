@@ -1,57 +1,112 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-18 04:30:37.800530,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Vincent Aboubakar,0.125,0.875,0.75
 2022-01-18 06:30:38.094259,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Rudy Gobert,0.11430000000000001,0.4,0.2857
+2022-01-18 09:42:38.867845,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Dundee United,0.11360000000000003,0.75,0.6364
 2022-01-18 06:30:38.071033,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,0.1,0.2667,0.1667
+2022-01-18 09:42:38.874464,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Motherwell,0.08330000000000004,0.8333,0.75
+2022-01-18 09:42:38.586390,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Inter Milan,0.08099999999999996,0.9901,0.9091
 2022-01-18 07:30:36.501414,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Los Angeles Rams,0.07880000000000001,0.2326,0.1538
+2022-01-18 09:42:38.874464,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Aberdeen,0.05709999999999993,0.8571,0.8
+2022-01-18 09:42:38.579887,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Venezia,0.05559999999999998,0.5556,0.5
+2022-01-18 09:42:38.874464,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Hibernian,0.05559999999999998,0.8889,0.8333
+2022-01-18 09:42:38.586390,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Napoli,0.055499999999999994,0.8333,0.7778
+2022-01-18 09:42:38.861219,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,St. Johnstone,0.05130000000000001,0.3846,0.3333
 2022-01-18 07:30:37.209204,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,0.05130000000000001,0.6667,0.6154
+2022-01-18 09:42:38.717441,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Cameroon,0.047599999999999976,0.3333,0.2857
+2022-01-18 09:42:38.579887,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Genoa,0.044500000000000095,0.7778,0.7333
+2022-01-18 09:42:38.573477,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Dusan Vlahovic,0.044399999999999995,0.4444,0.4
 2022-01-18 02:30:36.916133,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Los Angeles Rams,0.0417,0.125,0.0833
 2022-01-18 06:30:38.071033,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,0.0407,0.1176,0.0769
 2022-01-18 06:30:38.082752,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Monty Williams (PHO),0.03950000000000001,0.25,0.2105
 2022-01-18 06:30:38.071033,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,0.038099999999999995,0.0625,0.0244
 2022-01-18 04:30:37.800530,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Ibrahima Kone,0.0373,0.0667,0.0294
+2022-01-18 09:42:38.847934,Premiership - Scottish Premiership 2021/22 - Outright,Celtic,0.03640000000000004,0.4,0.3636
+2022-01-18 09:42:37.947041,NFL Specials - NFL Play Off Specials - Most Rushing Yards,Sony Michel,0.035699999999999996,0.0833,0.0476
+2022-01-18 09:42:38.717441,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Egypt,0.031799999999999995,0.1429,0.1111
+2022-01-18 09:42:37.941167,NFL Specials - NFL Play Off Specials - Most Receiving Yards,Cooper Kupp,0.031799999999999995,0.1429,0.1111
+2022-01-18 09:42:37.927018,NFL Specials - NFL Play Off Specials - Superbowl Finalists,Los Angeles Rams v Kansas City Chiefs,0.030699999999999998,0.0833,0.0526
 2022-01-18 06:30:38.108299,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Darius Garland,0.030699999999999998,0.0833,0.0526
 2022-01-18 05:30:34.287025,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,0.028399999999999995,0.0909,0.0625
+2022-01-18 09:42:37.927018,NFL Specials - NFL Play Off Specials - Superbowl Finalists,Los Angeles Rams v Buffalo Bills,0.028199999999999996,0.0667,0.0385
 2022-01-18 07:30:36.501414,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Green Bay Packers,0.024500000000000022,0.4167,0.3922
+2022-01-18 09:42:38.867845,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,St. Mirren,0.0242,0.9333,0.9091
+2022-01-18 09:42:38.861219,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,St. Mirren,0.0242,0.0909,0.0667
 2022-01-18 06:30:38.134561,NBA Season Props - 2021/22 NBA Awards - 2022 The Sixth Man,Tyler Hero,0.023799999999999932,0.8571,0.8333
 2022-01-18 04:30:37.800530,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Wahbi Khazri,0.0228,0.0294,0.0066
+2022-01-18 09:42:38.854599,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hearts,0.022199999999999998,0.8,0.7778
+2022-01-18 09:42:38.717441,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Senegal,0.021999999999999964,0.3077,0.2857
+2022-01-18 09:42:37.941167,NFL Specials - NFL Play Off Specials - Most Receiving Yards,Ja'Marr Chase,0.02049999999999999,0.1538,0.1333
 2022-01-18 04:30:37.800530,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Sebastian Haller,0.0203,0.0588,0.0385
 2022-01-18 06:30:38.094259,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,0.02020000000000001,0.1111,0.0909
+2022-01-18 09:42:37.921083,NFL Specials - NFL Play Off Specials - Superbowl Exact Result,Kansas City Chiefs to beat Los Angeles Rams,0.019800000000000005,0.0476,0.0278
 2022-01-18 07:30:37.157142,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.018400000000000027,0.3125,0.2941
 2022-01-18 06:30:38.082752,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,JB Bickerstaff (CLE),0.01820000000000002,0.2,0.1818
+2022-01-18 09:42:37.927018,NFL Specials - NFL Play Off Specials - Superbowl Finalists,Los Angeles Rams v Tennessee Titans,0.018099999999999998,0.0526,0.0345
+2022-01-18 09:42:38.579887,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Cagliari,0.016700000000000048,0.75,0.7333
+2022-01-18 09:42:37.921083,NFL Specials - NFL Play Off Specials - Superbowl Exact Result,Los Angeles Rams to beat Buffalo Bills,0.0157,0.0435,0.0278
 2022-01-18 07:30:37.170288,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.015400000000000025,0.4,0.3846
 2022-01-18 06:30:38.071033,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Ja Morant,0.014899999999999997,0.0625,0.0476
 2022-01-18 06:30:38.082752,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Erik Spoelstra (MIA),0.014399999999999996,0.0769,0.0625
+2022-01-18 09:42:38.867845,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Livingston,0.014000000000000012,0.9231,0.9091
 2022-01-18 04:30:37.601137,Italy Serie A - Italy Serie A 2021/2022 - Outright,Napoli,0.013999999999999999,0.0909,0.0769
+2022-01-18 09:42:37.947041,NFL Specials - NFL Play Off Specials - Most Rushing Yards,Elijah Mitchell,0.0131,0.2353,0.2222
 2022-01-18 06:30:38.187974,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.012899999999999995,0.1667,0.1538
+2022-01-18 09:42:37.921083,NFL Specials - NFL Play Off Specials - Superbowl Exact Result,Los Angeles Rams to beat Tennessee Titans,0.012800000000000002,0.0345,0.0217
 2022-01-18 07:30:36.489084,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Tennessee Titans,0.011899999999999994,0.25,0.2381
+2022-01-18 09:42:38.717441,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Burkina Faso,0.011199999999999995,0.0588,0.0476
+2022-01-18 09:42:38.854599,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Aberdeen,0.011099999999999999,0.1111,0.1
 2022-01-18 07:30:37.183491,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,0.01100000000000001,0.5348,0.5238
+2022-01-18 09:42:37.921083,NFL Specials - NFL Play Off Specials - Superbowl Exact Result,Los Angeles Rams to beat Kansas City Chiefs,0.010700000000000001,0.0385,0.0278
+2022-01-18 09:42:38.717441,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Ivory Coast,0.010399999999999993,0.2326,0.2222
 2022-01-18 07:30:37.235194,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,0.010299999999999976,0.2667,0.2564
+2022-01-18 09:42:38.586390,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AS Roma,0.0102,0.0769,0.0667
+2022-01-18 09:42:38.854599,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Motherwell,0.0102,0.0769,0.0667
 2022-01-18 06:30:38.082752,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Billy Donovan (CHI),-0.010499999999999982,0.2,0.2105
 2022-01-18 06:30:38.187974,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.011099999999999999,0.2667,0.2778
+2022-01-18 09:42:38.573477,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Duvan Zapata,-0.011199999999999995,0.0476,0.0588
+2022-01-18 09:42:38.573477,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Domenico Berardi,-0.011199999999999995,0.0476,0.0588
 2022-01-18 07:30:37.157142,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,-0.011199999999999995,0.0476,0.0588
+2022-01-18 09:42:37.927018,NFL Specials - NFL Play Off Specials - Superbowl Finalists,Tampa Bay Buccaneers v Kansas City Chiefs,-0.012299999999999991,0.1053,0.1176
 2022-01-18 02:30:36.916133,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Arizona Cardinals,-0.012899999999999998,0.0256,0.0385
 2022-01-18 07:30:37.221951,NBA Futures - 2022 NBA Southeast Division - Division Winner,Charlotte Hornets,-0.013899999999999996,0.1111,0.125
+2022-01-18 09:42:38.573477,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Lautaro Martinez,-0.013999999999999999,0.0769,0.0909
 2022-01-18 07:30:37.183491,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.013999999999999999,0.0769,0.0909
 2022-01-18 07:30:36.489084,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Buffalo Bills,-0.014000000000000012,0.2985,0.3125
+2022-01-18 09:42:37.947041,NFL Specials - NFL Play Off Specials - Most Rushing Yards,Leonard Fournette,-0.014099999999999994,0.0526,0.0667
 2022-01-18 06:30:38.071033,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,LeBron James,-0.014099999999999998,0.0244,0.0385
 2022-01-18 06:30:38.108299,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Miles Bridges,-0.015100000000000002,0.1667,0.1818
 2022-01-18 06:30:38.071033,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,-0.015400000000000025,0.3846,0.4
+2022-01-18 09:42:37.947041,NFL Specials - NFL Play Off Specials - Most Rushing Yards,Aaron Jones,-0.016600000000000004,0.0667,0.0833
 2022-01-18 06:30:38.187974,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.016699999999999993,0.4,0.4167
 2022-01-18 04:30:37.601137,Italy Serie A - Italy Serie A 2021/2022 - Outright,Atalanta,-0.016700000000000007,0.0833,0.1
 2022-01-18 04:30:37.800530,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Islam Slimani,-0.017099999999999997,0.0123,0.0294
-2022-01-18 04:30:37.800530,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Kelechi Iheanacho,-0.018099999999999998,0.0588,0.0769
+2022-01-18 09:42:38.874464,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Livingston,-0.0179,0.125,0.1429
 2022-01-18 04:30:37.800530,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Karl Toko Ekambi,-0.018099999999999998,0.0588,0.0769
+2022-01-18 04:30:37.800530,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Kelechi Iheanacho,-0.018099999999999998,0.0588,0.0769
+2022-01-18 09:42:38.874464,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,St. Johnstone,-0.0189,0.0196,0.0385
 2022-01-18 04:30:37.800530,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Riyad Mahrez,-0.0189,0.0196,0.0385
+2022-01-18 09:42:38.717441,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Cape Verde,-0.019099999999999995,0.0244,0.0435
 2022-01-18 04:30:37.800530,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Sadio Mane,-0.0203,0.0385,0.0588
 2022-01-18 07:30:37.170288,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.023799999999999932,0.6429,0.6667
 2022-01-18 07:30:36.471786,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tampa Bay Buccaneers,-0.023799999999999988,0.1429,0.1667
 2022-01-18 07:30:37.183491,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,-0.023799999999999988,0.4762,0.5
 2022-01-18 00:30:39.221826,LNB Pro A - LNB Pro A 2021/22 - Outright,Levallois,-0.023799999999999988,0.1429,0.1667
 2022-01-18 04:30:37.790085,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Algeria,-0.024999999999999994,0.1,0.125
+2022-01-18 09:42:38.874464,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,St. Mirren,-0.031799999999999995,0.1111,0.1429
 2022-01-18 07:30:36.471786,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Los Angeles Rams,-0.033299999999999996,0.1,0.1333
 2022-01-18 06:30:38.082752,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Steve Kerr (GSW),-0.033300000000000024,0.1667,0.2
+2022-01-18 09:42:38.854599,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hibernian,-0.04169999999999999,0.125,0.1667
 2022-01-18 04:30:37.601137,Italy Serie A - Italy Serie A 2021/2022 - Outright,AC Milan,-0.04269999999999999,0.1111,0.1538
 2022-01-18 06:30:38.108299,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Ja Morant,-0.04760000000000009,0.6667,0.7143
+2022-01-18 09:42:38.847934,Premiership - Scottish Premiership 2021/22 - Outright,Rangers FC,-0.04760000000000009,0.6667,0.7143
 2022-01-18 07:30:37.209204,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.05449999999999999,0.4,0.4545
+2022-01-18 09:42:38.861219,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Ross County,-0.06669999999999998,0.2,0.2667
+2022-01-18 09:42:38.867845,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Aberdeen,-0.06669999999999998,0.2,0.2667
+2022-01-18 09:42:38.717441,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Algeria,-0.06820000000000001,0.1818,0.25
+2022-01-18 09:42:38.867845,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Hibernian,-0.06860000000000002,0.1667,0.2353
+2022-01-18 09:42:38.867845,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Motherwell,-0.07509999999999997,0.2326,0.3077
 2022-01-18 06:30:38.094259,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,-0.07619999999999993,0.5238,0.6
+2022-01-18 09:42:38.586390,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AC Milan,-0.07929999999999993,0.7778,0.8571
+2022-01-18 09:42:38.579887,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Spezia,-0.11829999999999999,0.2326,0.3509
+2022-01-18 09:42:38.874464,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Dundee United,-0.13670000000000004,0.3077,0.4444
 2022-01-18 06:30:38.071033,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Kevin Durant,-0.2539,0.0909,0.3448
