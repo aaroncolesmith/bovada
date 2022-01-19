@@ -25,21 +25,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-19 10:30:29.933740,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hearts,0.033299999999999996,0.8333,0.8
 2022-01-19 09:30:35.602614,England Championship - England Championship 21/22 - Top 2 Finish,Fulham,0.03180000000000005,0.8889,0.8571
 2022-01-19 09:30:35.613135,England Championship - England Championship 21/22 - Top 6 Finish,Middlesbrough,0.031799999999999995,0.4762,0.4444
-2022-01-19 10:30:29.821672,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,Union Berlin,0.029299999999999993,0.0769,0.0476
-2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,FC Puebla,0.029299999999999993,0.0769,0.0476
 2022-01-19 10:30:29.970728,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Ross County,0.029299999999999993,0.0769,0.0476
-2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Monterrey,0.028799999999999992,0.1538,0.125
+2022-01-19 10:30:29.821672,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,Union Berlin,0.029299999999999993,0.0769,0.0476
 2022-01-19 10:30:29.970728,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Livingston,0.028799999999999992,0.1538,0.125
 2022-01-19 03:30:38.799716,NBA Season Props - 2021/22 NBA Regular Season Team Wins - IND Pacers Regular Season Wins,Under 33.5,0.026499999999999968,0.5917,0.5652
 2022-01-19 10:30:30.200600,League Two - England League Two 2021/22 - Top 7 Finish,Salford City,0.02560000000000001,0.3333,0.3077
-2022-01-18 23:30:41.287219,Liga MX - Clausura - Liga MX Clausura 2022  - Top Goalscorer,Victor Davilla,0.0242,0.0909,0.0667
-2022-01-19 10:30:30.161820,League Two - England League Two 2021/22 - To Be Promoted,Salford City,0.023799999999999988,0.1667,0.1429
 2022-01-19 10:30:30.034683,League One - England League One 2021/22 - Top Goalscorer,Ross Stewart (Sunderland),0.023799999999999988,0.5,0.4762
-2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Atlas FC,0.023799999999999988,0.1667,0.1429
+2022-01-19 10:30:30.161820,League Two - England League Two 2021/22 - To Be Promoted,Salford City,0.023799999999999988,0.1667,0.1429
 2022-01-19 10:30:30.034683,League One - England League One 2021/22 - Top Goalscorer,Cole Stockton (Morecambe),0.023799999999999988,0.1667,0.1429
+2022-01-19 10:30:30.049185,League One - England League One 2021/22 - To Be Promoted,Wigan Athletic,0.022199999999999998,0.8,0.7778
 2022-01-19 03:30:39.172087,NBL - NBL 2021/22 - Outright,Melbourne United,0.022199999999999998,0.2222,0.2
 2022-01-19 10:30:29.840298,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,Inter Milan,0.022199999999999998,0.2222,0.2
-2022-01-19 10:30:30.049185,League One - England League One 2021/22 - To Be Promoted,Wigan Athletic,0.022199999999999998,0.8,0.7778
 2022-01-19 09:30:35.591883,England Championship - England Championship 21/22 - To Be Promoted,Fulham,0.020199999999999996,0.9091,0.8889
 2022-01-19 09:30:35.902442,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Mohamed Salah,0.020100000000000007,0.7701,0.75
 2022-01-19 10:30:30.064566,League One - England League One 2021/22 - To Be Relegated,Doncaster Rovers,0.019199999999999995,0.9901,0.9709
@@ -48,35 +44,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-19 10:30:29.821672,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,Freiburg,0.019099999999999992,0.0667,0.0476
 2022-01-19 03:30:39.539291,England Championship - England Championship 21/22 - Outright,Fulham,0.018999999999999906,0.7333,0.7143
 2022-01-19 10:30:30.200600,League Two - England League Two 2021/22 - Top 7 Finish,Tranmere Rovers,0.018999999999999906,0.7333,0.7143
-2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Deportivo Toluca,0.018200000000000004,0.0476,0.0294
 2022-01-19 10:30:29.970728,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Aberdeen,0.017900000000000027,0.875,0.8571
 2022-01-19 10:30:29.604248,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Betis,0.016699999999999993,0.2667,0.25
 2022-01-19 10:30:30.185919,League Two - England League Two 2021/22 - Top 3 Finish,Salford City,0.016600000000000004,0.0833,0.0667
-2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Cruz Azul,0.015100000000000002,0.1818,0.1667
-2022-01-18 23:30:41.045149,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Cameroon,0.015100000000000002,0.1818,0.1667
 2022-01-19 10:30:29.594005,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Cádiz,0.015100000000000002,0.8333,0.8182
 2022-01-19 10:30:27.944444,Boxing Lines - Aleksander Zakhozhiy vs Pavel Sour - To Win the Bout,Aleksander Zakhozhiy,0.014900000000000024,0.9804,0.9655
 2022-01-19 03:30:39.539291,England Championship - England Championship 21/22 - Outright,Queens Park Rangers,0.014099999999999998,0.0385,0.0244
 2022-01-19 10:30:29.943954,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Dundee United,0.014099999999999998,0.0435,0.0294
-2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Pachuca,0.013999999999999999,0.0909,0.0769
 2022-01-19 10:30:30.174205,League Two - England League Two 2021/22 - To Be Relegated,Barrow FC,0.013999999999999999,0.0909,0.0769
-2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Pumas UNAM,0.013899999999999996,0.125,0.1111
 2022-01-19 08:30:37.644184,Boxing Lines - Andrii Velikovskyi vs Rafael Bejaran - To Win the Bout,Andrii Velikovskyi,0.011900000000000022,0.8333,0.8214
 2022-01-19 10:30:29.821672,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,Hertha Berlin,0.011199999999999995,0.0588,0.0476
 2022-01-19 10:30:30.034683,League One - England League One 2021/22 - Top Goalscorer,Macauley Bonne (Ipswich),0.011199999999999995,0.0588,0.0476
 2022-01-19 10:30:30.174205,League Two - England League Two 2021/22 - To Be Relegated,Hartlepool United,0.011199999999999995,0.0588,0.0476
-2022-01-19 06:31:03.929623,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tampa Bay Buccaneers,0.010899999999999993,0.1538,0.1429
-2022-01-18 23:30:41.045149,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Nigeria,0.010899999999999993,0.1538,0.1429
 2022-01-19 10:30:30.064566,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,0.010899999999999993,0.1538,0.1429
+2022-01-19 06:31:03.929623,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tampa Bay Buccaneers,0.010899999999999993,0.1538,0.1429
 2022-01-19 04:30:28.570680,League One - England League One 2021/22 - Outright,Wigan Athletic,0.010099999999999998,0.4545,0.4444
 2022-01-19 10:30:30.049185,League One - England League One 2021/22 - To Be Promoted,Sunderland,-0.010099999999999998,0.5455,0.5556
 2022-01-19 10:30:29.933740,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Motherwell,-0.0102,0.0667,0.0769
 2022-01-19 10:30:28.409524,NFL Specials - NFL Divisional Round Specials - Divisional Round - Most Passing Yards,Joe Burrow CIN,-0.010499999999999982,0.2,0.2105
 2022-01-19 10:30:29.933740,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Aberdeen,-0.011099999999999999,0.1,0.1111
-2022-01-19 10:30:29.722575,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Karl Toko Ekambi,-0.011199999999999995,0.0476,0.0588
-2022-01-19 10:30:29.722575,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Kelechi Iheanacho,-0.011199999999999995,0.0476,0.0588
 2022-01-19 10:30:29.722575,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Sebastian Haller,-0.011199999999999995,0.0476,0.0588
 2022-01-19 03:30:39.539291,England Championship - England Championship 21/22 - Outright,West Bromwich Albion,-0.011199999999999995,0.0476,0.0588
+2022-01-19 10:30:29.722575,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Karl Toko Ekambi,-0.011199999999999995,0.0476,0.0588
+2022-01-19 10:30:29.722575,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Kelechi Iheanacho,-0.011199999999999995,0.0476,0.0588
 2022-01-19 10:30:30.088189,League One - England League One 2021/22 - Top 2 Finish,Rotherham Utd,-0.011499999999999955,0.6552,0.6667
 2022-01-19 10:30:30.174205,League Two - England League Two 2021/22 - To Be Relegated,Oldham Athletic,-0.011499999999999955,0.6552,0.6667
 2022-01-19 08:30:37.644184,Boxing Lines - Andrii Velikovskyi vs Rafael Bejaran - To Win the Bout,Rafael Bejaran,-0.0116,0.2353,0.2469
@@ -85,35 +75,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-19 10:30:30.034683,League One - England League One 2021/22 - Top Goalscorer,Michael Smith (Rotherham),-0.013899999999999996,0.1111,0.125
 2022-01-19 10:30:28.409524,NFL Specials - NFL Divisional Round Specials - Divisional Round - Most Passing Yards,Jimmy Garoppolo SF,-0.013999999999999999,0.0769,0.0909
 2022-01-19 10:30:30.049185,League One - England League One 2021/22 - To Be Promoted,Portsmouth,-0.013999999999999999,0.0769,0.0909
-2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Chivas Guadalajara,-0.014399999999999996,0.0625,0.0769
 2022-01-19 10:30:28.392796,NFL Specials - NFL Divisional Round Specials - Divisional Round - Least Points Scored,Kansas City Chiefs,-0.01440000000000001,0.0909,0.1053
 2022-01-19 10:30:29.958936,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Hearts,-0.0145,0.0099,0.0244
-2022-01-19 10:30:30.200600,League Two - England League Two 2021/22 - Top 7 Finish,Leyton Orient,-0.015400000000000025,0.3846,0.4
 2022-01-19 10:30:30.088189,League One - England League One 2021/22 - Top 2 Finish,Sunderland,-0.015400000000000025,0.3846,0.4
+2022-01-19 10:30:30.200600,League Two - England League Two 2021/22 - Top 7 Finish,Leyton Orient,-0.015400000000000025,0.3846,0.4
 2022-01-19 03:30:39.172087,NBL - NBL 2021/22 - Outright,Illawarra Hawks,-0.016699999999999993,0.25,0.2667
 2022-01-19 10:30:30.106206,League One - England League One 2021/22 - Top 6 Finish,Portsmouth,-0.016699999999999993,0.25,0.2667
-2022-01-19 04:30:28.570680,League One - England League One 2021/22 - Outright,Sunderland,-0.0179,0.125,0.1429
-2022-01-19 10:30:30.200600,League Two - England League Two 2021/22 - Top 7 Finish,Bristol Rovers,-0.0179,0.125,0.1429
 2022-01-19 03:30:39.172087,NBL - NBL 2021/22 - Outright,Sydney Kings,-0.0179,0.125,0.1429
-2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Santos Laguna,-0.018099999999999998,0.0588,0.0769
+2022-01-19 10:30:30.200600,League Two - England League Two 2021/22 - Top 7 Finish,Bristol Rovers,-0.0179,0.125,0.1429
+2022-01-19 04:30:28.570680,League One - England League One 2021/22 - Outright,Sunderland,-0.0179,0.125,0.1429
 2022-01-19 10:30:29.958936,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Aberdeen,-0.01820000000000002,0.1818,0.2
 2022-01-19 10:30:29.604248,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Sociedad,-0.019000000000000017,0.2667,0.2857
 2022-01-19 10:30:28.392796,NFL Specials - NFL Divisional Round Specials - Divisional Round - Least Points Scored,San Francisco 49ers,-0.019000000000000017,0.2667,0.2857
 2022-01-19 10:30:30.200600,League Two - England League Two 2021/22 - Top 7 Finish,Hartlepool United,-0.019099999999999992,0.0476,0.0667
 2022-01-19 09:30:35.902442,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Cristiano Ronaldo,-0.02020000000000001,0.0909,0.1111
+2022-01-19 11:30:39.383686,Boxing Lines - Aleksander Zakhozhiy vs Pavel Sour - To Win the Bout,Pavel Sour,-0.0208,0.0625,0.0833
 2022-01-19 10:30:29.733933,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Senegal,-0.021999999999999964,0.2857,0.3077
 2022-01-19 10:30:30.076214,League One - England League One 2021/22 - To Finish Bottom,Crewe Alexandra,-0.022199999999999998,0.1111,0.1333
 2022-01-19 03:30:39.539291,England Championship - England Championship 21/22 - Outright,Bournemouth,-0.022199999999999998,0.2,0.2222
 2022-01-19 10:30:29.958936,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Livingston,-0.02310000000000001,0.9,0.9231
 2022-01-19 10:30:29.958936,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Ross County,-0.023699999999999943,0.9615,0.9852
-2022-01-19 03:30:38.799716,NBA Season Props - 2021/22 NBA Regular Season Team Wins - IND Pacers Regular Season Wins,Over 33.5,-0.023799999999999988,0.4762,0.5
 2022-01-19 10:30:30.200600,League Two - England League Two 2021/22 - Top 7 Finish,Exeter City,-0.023799999999999988,0.4762,0.5
+2022-01-19 03:30:38.799716,NBA Season Props - 2021/22 NBA Regular Season Team Wins - IND Pacers Regular Season Wins,Over 33.5,-0.023799999999999988,0.4762,0.5
 2022-01-19 10:30:28.409524,NFL Specials - NFL Divisional Round Specials - Divisional Round - Most Passing Yards,Patrick Mahomes II KC,-0.023799999999999988,0.3333,0.3571
 2022-01-19 09:30:35.602614,England Championship - England Championship 21/22 - Top 2 Finish,Bournemouth,-0.0242,0.5556,0.5798
 2022-01-19 10:30:29.943954,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Livingston,-0.0242,0.0667,0.0909
 2022-01-19 10:30:28.409524,NFL Specials - NFL Divisional Round Specials - Divisional Round - Most Passing Yards,Josh Allen BUF,-0.024800000000000016,0.2105,0.2353
-2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Tigres UANL,-0.025300000000000003,0.1176,0.1429
-2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Club León,-0.025300000000000003,0.1176,0.1429
 2022-01-19 09:30:35.591883,England Championship - England Championship 21/22 - To Be Promoted,Bournemouth,-0.025600000000000067,0.6667,0.6923
 2022-01-19 10:30:28.418373,NFL Specials - NFL Divisional Round Specials - Divisional Round - Most Points Scored,Tampa Bay Buccaneers,-0.026100000000000012,0.1739,0.2
 2022-01-19 10:30:28.409524,NFL Specials - NFL Divisional Round Specials - Divisional Round - Most Passing Yards,Aaron Rodgers GB,-0.028700000000000003,0.1818,0.2105
