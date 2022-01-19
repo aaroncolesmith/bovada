@@ -1,52 +1,28 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-01-18 18:30:57.181441,NFL Specials - NFL Play Off Specials - Stage of Elimination - San Francisco 49ers,Lose in the Divisional Round,0.42860000000000004,0.7143,0.2857
-2022-01-18 18:30:57.143224,NFL Specials - NFL Play Off Specials - Stage of Elimination - Buffalo Bills,Lose in Divisional Round,0.21970000000000006,0.5833,0.3636
-2022-01-18 18:30:57.172097,NFL Specials - NFL Play Off Specials - Stage of Elimination - Los Angeles Rams,Lose in Divisional Round,0.19999999999999996,0.6,0.4
-2022-01-18 18:30:57.162826,NFL Specials - NFL Play Off Specials - Stage of Elimination - Kansas City Chiefs,Lose in Divisional Round,0.12120000000000003,0.4545,0.3333
-2022-01-18 18:30:57.172097,NFL Specials - NFL Play Off Specials - Stage of Elimination - Los Angeles Rams,Lose in Championship Round,0.1,0.2667,0.1667
-2022-01-18 18:30:57.148631,NFL Specials - NFL Play Off Specials - Stage of Elimination - Cincinnati Bengals,Lose in Divisional Round,0.08730000000000004,0.6429,0.5556
-2022-01-18 18:30:57.181441,NFL Specials - NFL Play Off Specials - Stage of Elimination - San Francisco 49ers,Lose in Championship Round,0.08179999999999998,0.1818,0.1
-2022-01-18 18:30:57.190645,NFL Specials - NFL Play Off Specials - Stage of Elimination - Tampa Bay Buccaneers,Lose in Championship Round,0.0781,0.3448,0.2667
-2022-01-18 18:30:57.190645,NFL Specials - NFL Play Off Specials - Stage of Elimination - Tampa Bay Buccaneers,Lose in Divisional Round,0.05890000000000001,0.3922,0.3333
-2022-01-18 18:30:57.190645,NFL Specials - NFL Play Off Specials - Stage of Elimination - Tampa Bay Buccaneers,Lose in Superbowl,0.05379999999999999,0.1538,0.1
-2022-01-18 18:30:57.181441,NFL Specials - NFL Play Off Specials - Stage of Elimination - San Francisco 49ers,Lose in Superbowl,0.048600000000000004,0.1111,0.0625
-2022-01-18 18:30:57.181441,NFL Specials - NFL Play Off Specials - Stage of Elimination - San Francisco 49ers,Win Superbowl,0.0474,0.0909,0.0435
-2022-01-18 18:30:57.172097,NFL Specials - NFL Play Off Specials - Stage of Elimination - Los Angeles Rams,Lose in Superbowl,0.0343,0.1176,0.0833
 2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,FC Puebla,0.029299999999999993,0.0769,0.0476
 2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Monterrey,0.028799999999999992,0.1538,0.125
 2022-01-19 03:30:38.799716,NBA Season Props - 2021/22 NBA Regular Season Team Wins - IND Pacers Regular Season Wins,Under 33.5,0.026499999999999968,0.5917,0.5652
-2022-01-18 18:30:57.190645,NFL Specials - NFL Play Off Specials - Stage of Elimination - Tampa Bay Buccaneers,Win Superbowl,0.025300000000000003,0.1429,0.1176
 2022-01-18 23:30:41.287219,Liga MX - Clausura - Liga MX Clausura 2022  - Top Goalscorer,Victor Davilla,0.0242,0.0909,0.0667
 2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Atlas FC,0.023799999999999988,0.1667,0.1429
 2022-01-19 03:30:39.172087,NBL - NBL 2021/22 - Outright,Melbourne United,0.022199999999999998,0.2222,0.2
-2022-01-18 18:30:57.143224,NFL Specials - NFL Play Off Specials - Stage of Elimination - Buffalo Bills,Lose in Championship Round,0.021999999999999964,0.3077,0.2857
-2022-01-18 18:30:57.172097,NFL Specials - NFL Play Off Specials - Stage of Elimination - Los Angeles Rams,Win Superbowl,0.02020000000000001,0.1111,0.0909
 2022-01-19 03:30:39.539291,England Championship - England Championship 21/22 - Outright,Fulham,0.018999999999999906,0.7333,0.7143
 2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Deportivo Toluca,0.018200000000000004,0.0476,0.0294
 2022-01-18 23:30:41.045149,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Cameroon,0.015100000000000002,0.1818,0.1667
 2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Cruz Azul,0.015100000000000002,0.1818,0.1667
-2022-01-18 18:30:57.162826,NFL Specials - NFL Play Off Specials - Stage of Elimination - Kansas City Chiefs,Lose in Superbowl,0.015100000000000002,0.1818,0.1667
 2022-01-19 03:30:39.539291,England Championship - England Championship 21/22 - Outright,Queens Park Rangers,0.014099999999999998,0.0385,0.0244
 2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Pachuca,0.013999999999999999,0.0909,0.0769
 2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Pumas UNAM,0.013899999999999996,0.125,0.1111
+2022-01-19 06:31:03.929623,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tampa Bay Buccaneers,0.010899999999999993,0.1538,0.1429
 2022-01-18 23:30:41.045149,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Nigeria,0.010899999999999993,0.1538,0.1429
 2022-01-19 04:30:28.570680,League One - England League One 2021/22 - Outright,Wigan Athletic,0.010099999999999998,0.4545,0.4444
-2022-01-18 18:30:57.199902,NFL Specials - NFL Play Off Specials - Stage of Elimination - Tennessee Titans,Win Superbowl,-0.011099999999999999,0.1,0.1111
 2022-01-19 03:30:39.539291,England Championship - England Championship 21/22 - Outright,West Bromwich Albion,-0.011199999999999995,0.0476,0.0588
 2022-01-19 03:30:37.816365,Boxing Lines - Ilunga Makubu vs Thabiso Mchunu - To Win the Bout,Ilunga Makubu,-0.012700000000000045,0.6364,0.6491
 2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Chivas Guadalajara,-0.014399999999999996,0.0625,0.0769
 2022-01-19 03:30:39.172087,NBL - NBL 2021/22 - Outright,Illawarra Hawks,-0.016699999999999993,0.25,0.2667
-2022-01-19 03:30:39.172087,NBL - NBL 2021/22 - Outright,Sydney Kings,-0.0179,0.125,0.1429
 2022-01-19 04:30:28.570680,League One - England League One 2021/22 - Outright,Sunderland,-0.0179,0.125,0.1429
+2022-01-19 03:30:39.172087,NBL - NBL 2021/22 - Outright,Sydney Kings,-0.0179,0.125,0.1429
 2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Santos Laguna,-0.018099999999999998,0.0588,0.0769
-2022-01-18 18:30:57.148631,NFL Specials - NFL Play Off Specials - Stage of Elimination - Cincinnati Bengals,Win Superbowl,-0.018099999999999998,0.0588,0.0769
-2022-01-18 18:30:57.143224,NFL Specials - NFL Play Off Specials - Stage of Elimination - Buffalo Bills,WIn Superbowl,-0.021799999999999986,0.16,0.1818
-2022-01-18 18:30:57.154084,NFL Specials - NFL Play Off Specials - Stage of Elimination - Green Bay Packers,Lose in Divisional Round,-0.022199999999999998,0.3226,0.3448
 2022-01-19 03:30:39.539291,England Championship - England Championship 21/22 - Outright,Bournemouth,-0.022199999999999998,0.2,0.2222
 2022-01-19 03:30:38.799716,NBA Season Props - 2021/22 NBA Regular Season Team Wins - IND Pacers Regular Season Wins,Over 33.5,-0.023799999999999988,0.4762,0.5
 2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Tigres UANL,-0.025300000000000003,0.1176,0.1429
 2022-01-18 23:30:41.277165,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Club León,-0.025300000000000003,0.1176,0.1429
-2022-01-18 18:30:57.199902,NFL Specials - NFL Play Off Specials - Stage of Elimination - Tennessee Titans,Lose in Divisional Round,-0.04260000000000003,0.3922,0.4348
-2022-01-18 18:30:57.154084,NFL Specials - NFL Play Off Specials - Stage of Elimination - Green Bay Packers,Lose in Championship Round,-0.0494,0.3077,0.3571
-2022-01-18 18:30:57.148631,NFL Specials - NFL Play Off Specials - Stage of Elimination - Cincinnati Bengals,Lose in Superbowl,-0.07579999999999999,0.0909,0.1667
-2022-01-18 18:30:57.143224,NFL Specials - NFL Play Off Specials - Stage of Elimination - Buffalo Bills,Lose in Superbowl,-0.125,0.125,0.25
