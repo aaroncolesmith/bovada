@@ -1,30 +1,41 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-20 10:30:39.606752,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lens,0.1696,0.2222,0.0526
+2022-01-20 15:30:54.478963,College Basketball - Conference USA Winner - Outright,North Texas,0.1527,0.2703,0.1176
 2022-01-20 10:30:39.606752,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Nice,0.1179,0.3846,0.2667
 2022-01-20 10:30:40.015905,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,Union Berlin,0.08979999999999999,0.1667,0.0769
 2022-01-20 10:30:40.015905,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,Freiburg,0.0871,0.1538,0.0667
 2022-01-20 10:30:40.015905,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,RB Leipzig,0.08080000000000004,0.4444,0.3636
+2022-01-20 15:30:54.449543,College Basketball - Atlantic Coast Conference  Winner - Outright,Miami (FL),0.07579999999999999,0.1667,0.0909
 2022-01-20 10:30:39.781362,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Valencia,0.0726,0.1111,0.0385
 2022-01-20 06:30:27.412539,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,0.06659999999999999,0.3333,0.2667
+2022-01-20 15:30:54.449543,College Basketball - Atlantic Coast Conference  Winner - Outright,Florida State,0.056400000000000006,0.1333,0.0769
+2022-01-20 15:30:54.442248,College Basketball - Atlantic 10 Conference Winner - Outright,Davidson,0.05409999999999998,0.3571,0.303
 2022-01-20 10:30:39.905974,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Vincent Aboubakar,0.052000000000000046,0.9091,0.8571
 2022-01-20 09:30:48.173083,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Tottenham Hotspur,0.050000000000000044,0.8,0.75
 2022-01-20 10:30:39.918680,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Senegal,0.047599999999999976,0.3333,0.2857
 2022-01-20 09:30:46.941540,England Championship - England Championship 21/22 - Top 6 Finish,Luton Town,0.04620000000000002,0.2,0.1538
 2022-01-20 10:30:40.036558,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,Inter Milan,0.044499999999999984,0.2667,0.2222
 2022-01-20 10:30:39.918680,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Guinea-Bissau,0.042600000000000006,0.0476,0.005
+2022-01-20 15:30:54.435056,College Basketball - American Athletic Conference Winner - Outright,SMU,0.04240000000000001,0.1333,0.0909
 2022-01-20 10:30:39.606752,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Strasbourg,0.04239999999999999,0.0769,0.0345
 2022-01-20 10:30:39.918680,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Egypt,0.03889999999999999,0.1818,0.1429
 2022-01-20 07:30:32.917450,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Green Bay Packers,0.0378,0.4545,0.4167
+2022-01-20 15:30:55.397008,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Evan Mobley,0.03639999999999999,0.6364,0.6
 2022-01-20 06:30:27.385146,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,0.035999999999999976,0.5122,0.4762
 2022-01-20 10:30:39.809574,A-League - Australia A-League 2021/2022 - Grand Final Winner,Melbourne Victory,0.03570000000000001,0.2857,0.25
 2022-01-20 09:30:48.173083,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,0.035699999999999954,0.75,0.7143
 2022-01-20 09:30:46.905990,England Championship - England Championship 21/22 - To Be Promoted,Stoke City,0.031799999999999995,0.1429,0.1111
+2022-01-20 15:30:55.366438,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,0.028799999999999992,0.1538,0.125
 2022-01-20 06:30:27.405769,NBA Futures - 2022 NBA Southeast Division - Division Winner,Miami Heat,0.02839999999999998,0.9375,0.9091
+2022-01-20 15:30:54.442248,College Basketball - Atlantic 10 Conference Winner - Outright,Dayton,0.024999999999999994,0.125,0.1
 2022-01-20 10:30:40.015905,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,Hamburger SV,0.0242,0.0909,0.0667
 2022-01-20 10:30:40.036558,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,Sassuolo,0.023200000000000002,0.0476,0.0244
 2022-01-20 10:30:40.015905,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,VfL Bochum,0.02310000000000001,0.1,0.0769
+2022-01-20 15:30:55.380788,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,0.022199999999999998,0.1333,0.1111
 2022-01-20 10:30:39.809574,A-League - Australia A-League 2021/2022 - Grand Final Winner,Melbourne City,0.021999999999999964,0.3077,0.2857
 2022-01-20 10:30:39.606752,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lyon,0.021999999999999964,0.3077,0.2857
+2022-01-20 15:30:54.463873,College Basketball - Big East Conference  Winner - Outright,Providence,0.02049999999999999,0.1538,0.1333
+2022-01-20 15:30:54.581842,Boxing Lines - Evan Holyfield vs Chris Rollins - To Win the Bout,Evan Holyfield,0.019199999999999995,0.9901,0.9709
 2022-01-20 10:30:39.750741,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Atlético Madrid,0.019000000000000017,0.2857,0.2667
 2022-01-20 09:30:48.214321,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Arsenal,0.018999999999999906,0.7333,0.7143
 2022-01-20 10:30:39.606752,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Monaco,0.018900000000000028,0.4444,0.4255
@@ -32,28 +43,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-20 09:30:48.193527,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Leeds United,0.018100000000000005,0.9412,0.9231
 2022-01-20 10:30:39.918680,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Mali,0.0179,0.1429,0.125
 2022-01-20 09:30:46.941540,England Championship - England Championship 21/22 - Top 6 Finish,Stoke City,0.017600000000000005,0.3509,0.3333
-2022-01-20 03:30:30.900331,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,0.016700000000000007,0.1,0.0833
+2022-01-20 15:30:55.373947,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Monty Williams (PHO),0.016699999999999993,0.2667,0.25
+2022-01-20 15:30:54.493387,College Basketball - Southeastern Conference Winner - Outright,Texas A&M,0.015300000000000001,0.0476,0.0323
 2022-01-20 09:30:48.057549,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Wolverhampton Wanderers,0.015100000000000002,0.1818,0.1667
+2022-01-20 15:30:54.588289,Boxing Lines - Tugstsogt Nyambayar vs Sakaria Lukas - To Win the Bout,Tugstsogt Nyambayar,0.014900000000000024,0.9804,0.9655
 2022-01-20 10:30:39.809574,A-League - Australia A-League 2021/2022 - Grand Final Winner,Macarthur FC,0.01440000000000001,0.1053,0.0909
+2022-01-20 15:30:54.486238,College Basketball - PAC 12 Conference  Winner - Outright,Oregon,0.013999999999999999,0.0909,0.0769
 2022-01-20 06:30:27.284156,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Devin Booker,0.012899999999999998,0.0278,0.0149
 2022-01-20 09:30:46.905990,England Championship - England Championship 21/22 - To Be Promoted,Luton Town,0.011199999999999995,0.0588,0.0476
-2022-01-20 09:30:46.886011,England Championship - England Championship 21/22 - Top Goalscorer,Aleksandar Mitrovic (Fulham),0.011099999999999999,0.9,0.8889
 2022-01-20 06:30:27.284156,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,0.011099999999999999,0.1111,0.1
+2022-01-20 09:30:46.886011,England Championship - England Championship 21/22 - Top Goalscorer,Aleksandar Mitrovic (Fulham),0.011099999999999999,0.9,0.8889
 2022-01-20 10:30:39.586151,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lyon,0.010899999999999993,0.1538,0.1429
 2022-01-20 09:30:46.905990,England Championship - England Championship 21/22 - To Be Promoted,Middlesbrough,0.010899999999999993,0.1538,0.1429
-2022-01-20 07:30:32.917450,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Los Angeles Rams,-0.010399999999999993,0.2222,0.2326
 2022-01-20 10:30:39.918680,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Ivory Coast,-0.010399999999999993,0.2222,0.2326
+2022-01-20 07:30:32.917450,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Los Angeles Rams,-0.010399999999999993,0.2222,0.2326
+2022-01-20 15:30:54.456785,College Basketball - Big 12 Conference Winner - Outright,Oklahoma State,-0.010700000000000001,0.0278,0.0385
+2022-01-20 15:30:54.601137,Boxing Lines - Subriel Matias vs Petros Ananyan - To Win the Bout,Subriel Matias,-0.010700000000000043,0.8198,0.8305
+2022-01-20 15:30:55.397008,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Franz Wagner,-0.011099999999999999,0.1,0.1111
 2022-01-20 10:30:39.905974,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Mohamed Salah,-0.011199999999999995,0.0476,0.0588
 2022-01-20 10:30:40.036558,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,AC Milan,-0.012899999999999995,0.1538,0.1667
+2022-01-20 15:30:55.366438,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,-0.01319999999999999,0.25,0.2632
+2022-01-20 15:30:54.435056,College Basketball - American Athletic Conference Winner - Outright,Central Florida,-0.013999999999999999,0.0769,0.0909
+2022-01-20 15:30:54.471498,College Basketball - Big Ten Conference Winner - Outright,Iowa,-0.014100000000000001,0.0385,0.0526
 2022-01-20 06:30:27.284156,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,-0.01419999999999999,0.3704,0.3846
+2022-01-20 15:30:54.471498,College Basketball - Big Ten Conference Winner - Outright,Northwestern,-0.0145,0.0099,0.0244
+2022-01-20 15:30:54.442248,College Basketball - Atlantic 10 Conference Winner - Outright,Virginia Commonwealth,-0.015100000000000002,0.1667,0.1818
 2022-01-20 10:30:39.918680,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Algeria,-0.015100000000000002,0.1667,0.1818
+2022-01-20 15:30:54.463873,College Basketball - Big East Conference  Winner - Outright,St. John's,-0.015300000000000001,0.0323,0.0476
 2022-01-20 10:30:40.036558,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,Atalanta,-0.0174,0.2326,0.25
+2022-01-20 15:30:54.478963,College Basketball - Conference USA Winner - Outright,Marshall,-0.017599999999999998,0.002,0.0196
 2022-01-20 10:30:39.809574,A-League - Australia A-League 2021/2022 - Grand Final Winner,Perth Glory,-0.018099999999999998,0.0588,0.0769
 2022-01-20 06:30:27.371376,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,-0.01820000000000002,0.1818,0.2
 2022-01-20 10:30:39.750741,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Sevilla,-0.018999999999999906,0.7143,0.7333
 2022-01-20 06:30:27.284156,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Kevin Durant,-0.019000000000000003,0.0435,0.0625
-2022-01-20 07:30:32.917450,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Tampa Bay Buccaneers,-0.019000000000000017,0.2667,0.2857
 2022-01-20 09:30:46.905990,England Championship - England Championship 21/22 - To Be Promoted,Blackburn Rovers,-0.019000000000000017,0.2667,0.2857
+2022-01-20 07:30:32.917450,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Tampa Bay Buccaneers,-0.019000000000000017,0.2667,0.2857
+2022-01-20 15:30:54.493387,College Basketball - Southeastern Conference Winner - Outright,Mississippi State,-0.019099999999999992,0.0476,0.0667
 2022-01-20 09:30:48.193527,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Brentford,-0.019100000000000006,0.9333,0.9524
 2022-01-20 06:30:27.405769,NBA Futures - 2022 NBA Southeast Division - Division Winner,Charlotte Hornets,-0.02020000000000001,0.0909,0.1111
 2022-01-20 09:30:46.941540,England Championship - England Championship 21/22 - Top 6 Finish,Middlesbrough,-0.021699999999999997,0.4545,0.4762
@@ -61,11 +86,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-20 06:30:27.385146,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,-0.022600000000000064,0.5122,0.5348
 2022-01-20 09:30:46.924388,England Championship - England Championship 21/22 - Top 2 Finish,Blackburn Rovers,-0.023799999999999988,0.1429,0.1667
 2022-01-20 10:30:39.809574,A-League - Australia A-League 2021/2022 - Grand Final Winner,Sydney FC,-0.023799999999999988,0.1429,0.1667
+2022-01-20 15:30:55.380788,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,-0.023800000000000043,0.5,0.5238
 2022-01-20 10:30:39.918680,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Cameroon,-0.02560000000000001,0.3077,0.3333
 2022-01-20 09:30:48.173083,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,-0.027700000000000058,0.5556,0.5833
+2022-01-20 15:30:54.493387,College Basketball - Southeastern Conference Winner - Outright,Alabama,-0.028199999999999996,0.0385,0.0667
+2022-01-20 15:30:54.471498,College Basketball - Big Ten Conference Winner - Outright,Michigan,-0.0283,0.0152,0.0435
 2022-01-20 09:30:48.173083,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Leicester City,-0.031799999999999995,0.1111,0.1429
 2022-01-20 09:30:46.941540,England Championship - England Championship 21/22 - Top 6 Finish,Blackburn Rovers,-0.035699999999999954,0.7143,0.75
+2022-01-20 15:30:54.478963,College Basketball - Conference USA Winner - Outright,Old Dominion,-0.037700000000000004,0.0099,0.0476
 2022-01-20 09:30:48.057549,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Leicester City,-0.04169999999999999,0.125,0.1667
 2022-01-20 10:30:39.606752,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Marseille,-0.043399999999999994,0.5122,0.5556
+2022-01-20 15:30:54.463873,College Basketball - Big East Conference  Winner - Outright,Seton Hall,-0.04440000000000001,0.0667,0.1111
+2022-01-20 15:30:54.449543,College Basketball - Atlantic Coast Conference  Winner - Outright,North Carolina,-0.058599999999999985,0.0952,0.1538
 2022-01-20 10:30:39.606752,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Rennes,-0.06659999999999999,0.2667,0.3333
 2022-01-20 06:30:27.412539,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.08330000000000004,0.75,0.8333
