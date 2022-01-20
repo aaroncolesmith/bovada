@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-01-20 10:30:39.606752,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lens,0.1696,0.2222,0.0526
 2022-01-20 10:30:39.606752,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Nice,0.1179,0.3846,0.2667
 2022-01-20 10:30:40.015905,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,Union Berlin,0.08979999999999999,0.1667,0.0769
 2022-01-20 10:30:40.015905,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,Freiburg,0.0871,0.1538,0.0667
@@ -24,8 +25,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-20 10:30:40.015905,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,Hamburger SV,0.0242,0.0909,0.0667
 2022-01-20 10:30:40.036558,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,Sassuolo,0.023200000000000002,0.0476,0.0244
 2022-01-20 10:30:40.015905,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,VfL Bochum,0.02310000000000001,0.1,0.0769
-2022-01-20 10:30:39.809574,A-League - Australia A-League 2021/2022 - Grand Final Winner,Melbourne City,0.021999999999999964,0.3077,0.2857
 2022-01-20 10:30:39.606752,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lyon,0.021999999999999964,0.3077,0.2857
+2022-01-20 10:30:39.809574,A-League - Australia A-League 2021/2022 - Grand Final Winner,Melbourne City,0.021999999999999964,0.3077,0.2857
 2022-01-19 23:30:44.748077,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Tottenham Hotspur,0.02100000000000002,0.3846,0.3636
 2022-01-19 23:30:44.740552,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Brentford,0.02020000000000001,0.1111,0.0909
 2022-01-20 10:30:39.750741,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Atlético Madrid,0.019000000000000017,0.2857,0.2667
@@ -49,8 +50,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-19 23:30:44.288451,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Morocco,0.010899999999999993,0.1538,0.1429
 2022-01-20 10:30:39.586151,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lyon,0.010899999999999993,0.1538,0.1429
 2022-01-19 23:30:44.288451,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Mali,0.0102,0.0769,0.0667
-2022-01-20 10:30:39.918680,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Ivory Coast,-0.010399999999999993,0.2222,0.2326
 2022-01-20 07:30:32.917450,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Los Angeles Rams,-0.010399999999999993,0.2222,0.2326
+2022-01-20 10:30:39.918680,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Ivory Coast,-0.010399999999999993,0.2222,0.2326
 2022-01-20 10:30:39.905974,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Mohamed Salah,-0.011199999999999995,0.0476,0.0588
 2022-01-20 10:30:40.036558,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,AC Milan,-0.012899999999999995,0.1538,0.1667
 2022-01-20 00:30:40.652089,England Championship - England Championship 21/22 - Outright,Blackburn Rovers,-0.0131,0.0345,0.0476
@@ -62,15 +63,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-20 06:30:27.371376,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,-0.01820000000000002,0.1818,0.2
 2022-01-20 10:30:39.750741,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Sevilla,-0.018999999999999906,0.7143,0.7333
 2022-01-20 06:30:27.284156,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Kevin Durant,-0.019000000000000003,0.0435,0.0625
-2022-01-20 07:30:32.917450,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Tampa Bay Buccaneers,-0.019000000000000017,0.2667,0.2857
 2022-01-20 09:30:46.905990,England Championship - England Championship 21/22 - To Be Promoted,Blackburn Rovers,-0.019000000000000017,0.2667,0.2857
+2022-01-20 07:30:32.917450,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Tampa Bay Buccaneers,-0.019000000000000017,0.2667,0.2857
 2022-01-20 09:30:48.193527,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Brentford,-0.019100000000000006,0.9333,0.9524
 2022-01-20 06:30:27.405769,NBA Futures - 2022 NBA Southeast Division - Division Winner,Charlotte Hornets,-0.02020000000000001,0.0909,0.1111
 2022-01-20 09:30:46.941540,England Championship - England Championship 21/22 - Top 6 Finish,Middlesbrough,-0.021699999999999997,0.4545,0.4762
 2022-01-20 09:30:48.214321,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Tottenham Hotspur,-0.02200000000000002,0.6923,0.7143
 2022-01-20 06:30:27.385146,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,-0.022600000000000064,0.5122,0.5348
-2022-01-20 10:30:39.809574,A-League - Australia A-League 2021/2022 - Grand Final Winner,Sydney FC,-0.023799999999999988,0.1429,0.1667
 2022-01-20 09:30:46.924388,England Championship - England Championship 21/22 - Top 2 Finish,Blackburn Rovers,-0.023799999999999988,0.1429,0.1667
+2022-01-20 10:30:39.809574,A-League - Australia A-League 2021/2022 - Grand Final Winner,Sydney FC,-0.023799999999999988,0.1429,0.1667
 2022-01-20 10:30:39.918680,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Cameroon,-0.02560000000000001,0.3077,0.3333
 2022-01-20 09:30:48.173083,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,-0.027700000000000058,0.5556,0.5833
 2022-01-20 09:30:48.173083,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Leicester City,-0.031799999999999995,0.1111,0.1429
