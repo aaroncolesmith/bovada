@@ -2,6 +2,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-20 10:30:39.606752,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lens,0.1696,0.2222,0.0526
 2022-01-20 15:30:54.493387,College Basketball - Southeastern Conference Winner - Outright,Auburn,0.16669999999999996,0.6667,0.5
 2022-01-20 15:30:54.478963,College Basketball - Conference USA Winner - Outright,North Texas,0.1527,0.2703,0.1176
+2022-01-20 17:30:41.927545,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Ikem Ekwonu,0.14709999999999998,0.1667,0.0196
 2022-01-20 10:30:39.606752,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Nice,0.1179,0.3846,0.2667
 2022-01-20 15:30:54.410380,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - #1 Ranking in the Final AP Poll of the 2021/2022 Season,Gonzaga,0.0948,0.3448,0.25
 2022-01-20 10:30:40.015905,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,Union Berlin,0.08979999999999999,0.1667,0.0769
@@ -45,8 +46,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-20 10:30:40.036558,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,Sassuolo,0.023200000000000002,0.0476,0.0244
 2022-01-20 10:30:40.015905,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,VfL Bochum,0.02310000000000001,0.1,0.0769
 2022-01-20 15:30:55.380788,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,0.022199999999999998,0.1333,0.1111
-2022-01-20 10:30:39.606752,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lyon,0.021999999999999964,0.3077,0.2857
 2022-01-20 10:30:39.809574,A-League - Australia A-League 2021/2022 - Grand Final Winner,Melbourne City,0.021999999999999964,0.3077,0.2857
+2022-01-20 10:30:39.606752,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lyon,0.021999999999999964,0.3077,0.2857
 2022-01-20 15:30:54.463873,College Basketball - Big East Conference  Winner - Outright,Providence,0.02049999999999999,0.1538,0.1333
 2022-01-20 15:30:54.581842,Boxing Lines - Evan Holyfield vs Chris Rollins - To Win the Bout,Evan Holyfield,0.019199999999999995,0.9901,0.9709
 2022-01-20 10:30:39.750741,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Atlético Madrid,0.019000000000000017,0.2857,0.2667
@@ -57,19 +58,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-20 10:30:39.918680,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Mali,0.0179,0.1429,0.125
 2022-01-20 09:30:46.941540,England Championship - England Championship 21/22 - Top 6 Finish,Stoke City,0.017600000000000005,0.3509,0.3333
 2022-01-20 15:30:54.435056,College Basketball - American Athletic Conference Winner - Outright,Houston,0.017300000000000093,0.7143,0.697
+2022-01-20 17:30:41.210909,Boxing Lines - Ilunga Makubu vs Thabiso Mchunu - To Win the Bout,Thabiso Mchunu,0.017299999999999982,0.4255,0.4082
 2022-01-20 15:30:55.373947,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Monty Williams (PHO),0.016699999999999993,0.2667,0.25
 2022-01-20 15:30:54.493387,College Basketball - Southeastern Conference Winner - Outright,Texas A&M,0.015300000000000001,0.0476,0.0323
-2022-01-20 15:30:54.435056,College Basketball - American Athletic Conference Winner - Outright,Memphis,0.015100000000000002,0.1818,0.1667
 2022-01-20 09:30:48.057549,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Wolverhampton Wanderers,0.015100000000000002,0.1818,0.1667
+2022-01-20 15:30:54.435056,College Basketball - American Athletic Conference Winner - Outright,Memphis,0.015100000000000002,0.1818,0.1667
 2022-01-20 15:30:54.588289,Boxing Lines - Tugstsogt Nyambayar vs Sakaria Lukas - To Win the Bout,Tugstsogt Nyambayar,0.014900000000000024,0.9804,0.9655
 2022-01-20 10:30:39.809574,A-League - Australia A-League 2021/2022 - Grand Final Winner,Macarthur FC,0.01440000000000001,0.1053,0.0909
+2022-01-20 17:30:41.181945,Boxing Lines - Evan Holyfield vs Chris Rollins - To Win the Bout,Chris Rollins,0.014399999999999996,0.0769,0.0625
 2022-01-20 15:30:54.486238,College Basketball - PAC 12 Conference  Winner - Outright,Oregon,0.013999999999999999,0.0909,0.0769
 2022-01-20 06:30:27.284156,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Devin Booker,0.012899999999999998,0.0278,0.0149
 2022-01-20 09:30:46.905990,England Championship - England Championship 21/22 - To Be Promoted,Luton Town,0.011199999999999995,0.0588,0.0476
-2022-01-20 06:30:27.284156,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,0.011099999999999999,0.1111,0.1
 2022-01-20 09:30:46.886011,England Championship - England Championship 21/22 - Top Goalscorer,Aleksandar Mitrovic (Fulham),0.011099999999999999,0.9,0.8889
+2022-01-20 06:30:27.284156,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,0.011099999999999999,0.1111,0.1
 2022-01-20 10:30:39.586151,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lyon,0.010899999999999993,0.1538,0.1429
 2022-01-20 09:30:46.905990,England Championship - England Championship 21/22 - To Be Promoted,Middlesbrough,0.010899999999999993,0.1538,0.1429
+2022-01-20 17:30:41.203711,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Gary Russell Jr,0.010500000000000065,0.8182,0.8077
 2022-01-20 15:30:54.471498,College Basketball - Big Ten Conference Winner - Outright,Illinois,0.010099999999999998,0.3226,0.3125
 2022-01-20 07:30:32.917450,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Los Angeles Rams,-0.010399999999999993,0.2222,0.2326
 2022-01-20 10:30:39.918680,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Ivory Coast,-0.010399999999999993,0.2222,0.2326
@@ -80,13 +84,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-20 15:30:55.397008,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Franz Wagner,-0.011099999999999999,0.1,0.1111
 2022-01-20 10:30:39.905974,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Mohamed Salah,-0.011199999999999995,0.0476,0.0588
 2022-01-20 15:30:54.442248,College Basketball - Atlantic 10 Conference Winner - Outright,Richmond,-0.012599999999999998,0.0152,0.0278
-2022-01-20 15:30:54.410380,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - #1 Ranking in the Final AP Poll of the 2021/2022 Season,Arizona,-0.012899999999999995,0.1538,0.1667
 2022-01-20 10:30:40.036558,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,AC Milan,-0.012899999999999995,0.1538,0.1667
+2022-01-20 15:30:54.410380,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - #1 Ranking in the Final AP Poll of the 2021/2022 Season,Arizona,-0.012899999999999995,0.1538,0.1667
 2022-01-20 15:30:55.366438,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,-0.01319999999999999,0.25,0.2632
 2022-01-20 15:30:54.435056,College Basketball - American Athletic Conference Winner - Outright,Central Florida,-0.013999999999999999,0.0769,0.0909
 2022-01-20 15:30:54.471498,College Basketball - Big Ten Conference Winner - Outright,Iowa,-0.014100000000000001,0.0385,0.0526
 2022-01-20 06:30:27.284156,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,-0.01419999999999999,0.3704,0.3846
+2022-01-20 17:30:41.181945,Boxing Lines - Evan Holyfield vs Chris Rollins - To Win the Bout,Evan Holyfield,-0.01429999999999998,0.9709,0.9852
 2022-01-20 15:30:54.471498,College Basketball - Big Ten Conference Winner - Outright,Northwestern,-0.0145,0.0099,0.0244
+2022-01-20 17:30:41.196446,Boxing Lines - Tugstsogt Nyambayar vs Sakaria Lukas - To Win the Bout,Tugstsogt Nyambayar,-0.014900000000000024,0.9655,0.9804
 2022-01-20 15:30:54.442248,College Basketball - Atlantic 10 Conference Winner - Outright,Virginia Commonwealth,-0.015100000000000002,0.1667,0.1818
 2022-01-20 10:30:39.918680,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Algeria,-0.015100000000000002,0.1667,0.1818
 2022-01-20 15:30:54.463873,College Basketball - Big East Conference  Winner - Outright,St. John's,-0.015300000000000001,0.0323,0.0476
@@ -96,10 +102,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-20 10:30:39.809574,A-League - Australia A-League 2021/2022 - Grand Final Winner,Perth Glory,-0.018099999999999998,0.0588,0.0769
 2022-01-20 06:30:27.371376,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,-0.01820000000000002,0.1818,0.2
 2022-01-20 15:30:54.500416,College Basketball - West Coast Conference Conference Winner - Outright,Gonzaga,-0.01849999999999996,0.9524,0.9709
+2022-01-20 17:30:41.210909,Boxing Lines - Ilunga Makubu vs Thabiso Mchunu - To Win the Bout,Ilunga Makubu,-0.01880000000000004,0.6364,0.6552
 2022-01-20 10:30:39.750741,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Sevilla,-0.018999999999999906,0.7143,0.7333
 2022-01-20 06:30:27.284156,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Kevin Durant,-0.019000000000000003,0.0435,0.0625
-2022-01-20 07:30:32.917450,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Tampa Bay Buccaneers,-0.019000000000000017,0.2667,0.2857
 2022-01-20 09:30:46.905990,England Championship - England Championship 21/22 - To Be Promoted,Blackburn Rovers,-0.019000000000000017,0.2667,0.2857
+2022-01-20 07:30:32.917450,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Tampa Bay Buccaneers,-0.019000000000000017,0.2667,0.2857
 2022-01-20 15:30:54.493387,College Basketball - Southeastern Conference Winner - Outright,Mississippi State,-0.019099999999999992,0.0476,0.0667
 2022-01-20 15:30:54.493387,College Basketball - Southeastern Conference Winner - Outright,Florida,-0.019099999999999995,0.0244,0.0435
 2022-01-20 09:30:48.193527,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Brentford,-0.019100000000000006,0.9333,0.9524
@@ -112,8 +119,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-20 09:30:48.214321,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Tottenham Hotspur,-0.02200000000000002,0.6923,0.7143
 2022-01-20 06:30:27.385146,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,-0.022600000000000064,0.5122,0.5348
 2022-01-20 09:30:46.924388,England Championship - England Championship 21/22 - Top 2 Finish,Blackburn Rovers,-0.023799999999999988,0.1429,0.1667
-2022-01-20 10:30:39.809574,A-League - Australia A-League 2021/2022 - Grand Final Winner,Sydney FC,-0.023799999999999988,0.1429,0.1667
 2022-01-20 15:30:54.410380,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - #1 Ranking in the Final AP Poll of the 2021/2022 Season,Baylor,-0.023799999999999988,0.1429,0.1667
+2022-01-20 10:30:39.809574,A-League - Australia A-League 2021/2022 - Grand Final Winner,Sydney FC,-0.023799999999999988,0.1429,0.1667
 2022-01-20 15:30:55.380788,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,-0.023800000000000043,0.5,0.5238
 2022-01-20 16:30:18.409581,Boxing Lines - Ilunga Makubu vs Thabiso Mchunu - To Win the Bout,Thabiso Mchunu,-0.0247,0.4082,0.4329
 2022-01-20 15:30:54.449543,College Basketball - Atlantic Coast Conference  Winner - Outright,Duke,-0.025599999999999956,0.5744,0.6
@@ -122,8 +129,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-20 09:30:48.173083,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,-0.027700000000000058,0.5556,0.5833
 2022-01-20 15:30:54.493387,College Basketball - Southeastern Conference Winner - Outright,Alabama,-0.028199999999999996,0.0385,0.0667
 2022-01-20 15:30:54.471498,College Basketball - Big Ten Conference Winner - Outright,Michigan,-0.0283,0.0152,0.0435
-2022-01-20 15:30:54.493387,College Basketball - Southeastern Conference Winner - Outright,Tennessee,-0.029299999999999993,0.0476,0.0769
 2022-01-20 15:30:54.456785,College Basketball - Big 12 Conference Winner - Outright,Iowa State,-0.029299999999999993,0.0476,0.0769
+2022-01-20 15:30:54.493387,College Basketball - Southeastern Conference Winner - Outright,Tennessee,-0.029299999999999993,0.0476,0.0769
 2022-01-20 09:30:48.173083,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Leicester City,-0.031799999999999995,0.1111,0.1429
 2022-01-20 15:30:54.410380,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - #1 Ranking in the Final AP Poll of the 2021/2022 Season,Kansas,-0.033300000000000024,0.1667,0.2
 2022-01-20 09:30:46.941540,England Championship - England Championship 21/22 - Top 6 Finish,Blackburn Rovers,-0.035699999999999954,0.7143,0.75
@@ -135,7 +142,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-20 15:30:54.442248,College Basketball - Atlantic 10 Conference Winner - Outright,St. Bonaventure,-0.055499999999999994,0.2778,0.3333
 2022-01-20 15:30:54.478963,College Basketball - Conference USA Winner - Outright,UAB,-0.05740000000000001,0.3774,0.4348
 2022-01-20 15:30:54.449543,College Basketball - Atlantic Coast Conference  Winner - Outright,North Carolina,-0.058599999999999985,0.0952,0.1538
+2022-01-20 17:30:41.927545,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Aidan Hutchinson,-0.06230000000000002,0.4255,0.4878
 2022-01-20 15:30:54.493387,College Basketball - Southeastern Conference Winner - Outright,LSU,-0.0635,0.0476,0.1111
 2022-01-20 10:30:39.606752,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Rennes,-0.06659999999999999,0.2667,0.3333
+2022-01-20 17:30:41.927545,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,David Ojabo,-0.08099999999999999,0.0099,0.0909
 2022-01-20 06:30:27.412539,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.08330000000000004,0.75,0.8333
 2022-01-20 15:30:54.478963,College Basketball - Conference USA Winner - Outright,Western Kentucky,-0.0865,0.0385,0.125
+2022-01-20 17:30:41.927545,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Kayvon Thibodeaux,-0.10320000000000001,0.3846,0.4878
