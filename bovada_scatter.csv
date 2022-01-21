@@ -8,8 +8,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-21 09:30:42.855839,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,0.034100000000000005,0.125,0.0909
 2022-01-21 09:30:41.579548,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Kanye West - Donda,0.030199999999999998,0.0625,0.0323
 2022-01-21 15:30:56.367971,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.027800000000000047,0.7778,0.75
-2022-01-21 09:30:41.634868,94th Academy Awards - Odds to win Best Director - Outright,Kenneth Branagh (Belfast),0.024999999999999994,0.125,0.1
 2022-01-21 09:30:41.634868,94th Academy Awards - Odds to win Best Director - Outright,Steven Spielberg (West Side Story),0.024999999999999994,0.125,0.1
+2022-01-21 09:30:41.634868,94th Academy Awards - Odds to win Best Director - Outright,Kenneth Branagh (Belfast),0.024999999999999994,0.125,0.1
 2022-01-21 09:30:41.595639,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,ABBA - I Still Have Faith in You,0.0236,0.0385,0.0149
 2022-01-21 09:30:42.435141,NFL Specials - NFL Divisional Round Specials - Divisional Round - Most Rushing Yards,D'Onta Foreman TEN,0.023200000000000002,0.0476,0.0244
 2022-01-21 09:30:41.645098,94th Academy Awards - Odds to win Best Picture - Outright,Belfast,0.021999999999999964,0.3077,0.2857
@@ -17,7 +17,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-21 09:30:41.587735,Grammy Awards 2022 - Grammy 2022 - Best New Artist Winner - Outright,Finneas,0.0203,0.0526,0.0323
 2022-01-21 09:30:41.625674,94th Academy Awards - Odds to win Best Actress - Outright,Lady Gaga (House of Gucci),0.02020000000000001,0.1111,0.0909
 2022-01-21 13:30:52.186470,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Cameroon,0.01820000000000002,0.2,0.1818
-2022-01-21 05:30:41.790298,Boxing Lines - Yehor Velikovskyi vs Tomasz Adamek - To Win the Bout,Yehor Velikovskyi,0.01660000000000006,0.9333,0.9167
 2022-01-21 09:30:41.645098,94th Academy Awards - Odds to win Best Picture - Outright,CODA,0.015300000000000001,0.0476,0.0323
 2022-01-21 15:30:56.302138,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.015100000000000002,0.1818,0.1667
 2022-01-21 09:30:41.595639,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Tony Bennett & Lady Gaga - I Get a Kick Out of You,0.01469999999999999,0.25,0.2353
@@ -31,11 +30,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-21 15:30:56.309853,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Cleveland Cavaliers,0.012700000000000003,0.0323,0.0196
 2022-01-21 06:30:33.681667,Boxing Lines - Yehor Velikovskyi vs Tomasz Adamek - To Win the Bout,Yehor Velikovskyi,-0.010199999999999987,0.9231,0.9333
 2022-01-21 10:30:50.655183,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,Atalanta,-0.010399999999999993,0.2222,0.2326
-2022-01-21 09:30:42.424863,NFL Specials - NFL Divisional Round Specials - Divisional Round - Most Receiving Yards,Ja'Marr Chase CIN,-0.010899999999999993,0.1429,0.1538
 2022-01-21 07:30:39.037391,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tampa Bay Buccaneers,-0.010899999999999993,0.1429,0.1538
+2022-01-21 09:30:42.424863,NFL Specials - NFL Divisional Round Specials - Divisional Round - Most Receiving Yards,Ja'Marr Chase CIN,-0.010899999999999993,0.1429,0.1538
 2022-01-21 09:30:42.359882,NFL Specials - NFL Divisional Round Specials - Divisional Round - Highest Scoring Game,49ers @ Packers,-0.011700000000000016,0.2105,0.2222
-2022-01-21 07:30:39.037391,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Buffalo Bills,-0.012899999999999995,0.1538,0.1667
 2022-01-21 09:30:41.595639,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Lil Nas X - Montero,-0.012899999999999995,0.1538,0.1667
+2022-01-21 07:30:39.037391,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Buffalo Bills,-0.012899999999999995,0.1538,0.1667
 2022-01-21 09:30:41.595639,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Silk Sonic - Leave the Door Open,-0.0131,0.2222,0.2353
 2022-01-21 15:30:56.228855,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,-0.013300000000000034,0.3571,0.3704
 2022-01-21 09:30:42.377177,NFL Specials - NFL Divisional Round Specials - Divisional Round - Lowest Scoring Game,49ers @ Packers,-0.013300000000000034,0.3571,0.3704
@@ -53,13 +52,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-21 09:30:42.435141,NFL Specials - NFL Divisional Round Specials - Divisional Round - Most Rushing Yards,AJ Dillon GB,-0.016600000000000004,0.0667,0.0833
 2022-01-21 10:30:50.655183,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,Inter Milan,-0.016699999999999993,0.25,0.2667
 2022-01-21 15:30:56.309853,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.016699999999999993,0.25,0.2667
-2022-01-21 05:30:41.790298,Boxing Lines - Yehor Velikovskyi vs Tomasz Adamek - To Win the Bout,Tomasz Adamek,-0.0179,0.125,0.1429
-2022-01-21 15:30:56.302138,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,-0.0179,0.125,0.1429
 2022-01-21 15:30:56.555517,NBA Specials - NBA 2022 Trade Deadline Specials - Where will Myles Turner play after the 2022 NBA Trade Deadline,Charlotte Hornets,-0.0179,0.125,0.1429
-2022-01-21 09:30:42.386178,NFL Specials - NFL Divisional Round Specials - Divisional Round - Most Passing Yards,Joe Burrow CIN,-0.01820000000000002,0.1818,0.2
+2022-01-21 15:30:56.302138,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,-0.0179,0.125,0.1429
 2022-01-21 13:30:52.186470,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Senegal,-0.01820000000000002,0.1818,0.2
-2022-01-21 15:30:56.145248,NFL Specials - 2022 NFL Draft - Number of Quarterbacks Selected in the First 3 Rounds - Outright,Over 7.5,-0.019699999999999995,0.4348,0.4545
+2022-01-21 09:30:42.386178,NFL Specials - NFL Divisional Round Specials - Divisional Round - Most Passing Yards,Joe Burrow CIN,-0.01820000000000002,0.1818,0.2
 2022-01-21 07:30:39.055378,NFL Futures - NFC Conference - NFC Conference 2021/22 - Champion,Green Bay Packers,-0.019699999999999995,0.4348,0.4545
+2022-01-21 15:30:56.145248,NFL Specials - 2022 NFL Draft - Number of Quarterbacks Selected in the First 3 Rounds - Outright,Over 7.5,-0.019699999999999995,0.4348,0.4545
 2022-01-21 10:30:50.564555,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Vincent Aboubakar,-0.020199999999999996,0.8889,0.9091
 2022-01-21 09:30:42.424863,NFL Specials - NFL Divisional Round Specials - Divisional Round - Most Receiving Yards,Tyreek Hill KC,-0.02020000000000001,0.0909,0.1111
 2022-01-21 09:30:42.435141,NFL Specials - NFL Divisional Round Specials - Divisional Round - Most Rushing Yards,Cam Akers LAR,-0.031799999999999995,0.1111,0.1429
