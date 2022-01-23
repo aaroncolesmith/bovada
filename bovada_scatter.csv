@@ -34,10 +34,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-22 22:30:46.111434,League Two - England League Two 2021/22 - Top 3 Finish,Newport County,0.03889999999999999,0.1818,0.1429
 2022-01-22 21:30:47.172198,League One - England League One 2021/22 - To Be Relegated,Crewe Alexandra,0.038899999999999935,0.8571,0.8182
 2022-01-22 22:30:46.104432,League Two - England League Two 2021/22 - To Be Relegated,Oldham Athletic,0.03710000000000002,0.6923,0.6552
-2022-01-22 21:30:47.027153,England Championship - England Championship 21/22 - Top 2 Finish,West Bromwich Albion,0.03570000000000001,0.2857,0.25
 2022-01-22 21:30:47.020475,England Championship - England Championship 21/22 - To Be Promoted,Queens Park Rangers,0.03570000000000001,0.2857,0.25
+2022-01-22 21:30:47.027153,England Championship - England Championship 21/22 - Top 2 Finish,West Bromwich Albion,0.03570000000000001,0.2857,0.25
 2022-01-23 05:30:49.351597,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Kansas City Chiefs,0.0353,0.2353,0.2
 2022-01-23 03:30:35.549235,NFL Futures - AFC Conference - AFC Conference 2021/22 - Champion,Kansas City Chiefs,0.03510000000000002,0.3922,0.3571
+2022-01-23 09:30:40.335096,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Kenny Pickett,0.0347,0.0625,0.0278
 2022-01-22 21:30:47.165718,League One - England League One 2021/22 - To Be Promoted,Sunderland,0.0343,0.5798,0.5455
 2022-01-22 21:30:47.172198,League One - England League One 2021/22 - To Be Relegated,Shrewsbury Town,0.034100000000000005,0.125,0.0909
 2022-01-23 06:30:49.833522,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,San Francisco 49ers,0.033300000000000024,0.2,0.1667
@@ -56,9 +57,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-22 21:30:47.205068,League Two - England League Two 2021/22 - Top Goalscorer,Jamille Matt (Forest Green),0.02779999999999999,0.25,0.2222
 2022-01-22 21:30:47.360456,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Wolverhampton Wanderers,0.023899999999999998,0.0435,0.0196
 2022-01-22 21:30:47.185480,League One - England League One 2021/22 - Top 6 Finish,Oxford United,0.021699999999999997,0.4762,0.4545
-2022-01-22 22:30:46.097590,League Two - England League Two 2021/22 - To Be Promoted,Harrogate Town,0.02020000000000001,0.1111,0.0909
-2022-01-22 23:30:47.882831,Italy Serie A - Italy Serie A 2021/2022 - Outright,Napoli,0.02020000000000001,0.1111,0.0909
 2022-01-22 21:30:47.332627,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Liverpool,0.02020000000000001,0.1111,0.0909
+2022-01-22 23:30:47.882831,Italy Serie A - Italy Serie A 2021/2022 - Outright,Napoli,0.02020000000000001,0.1111,0.0909
+2022-01-22 22:30:46.097590,League Two - England League Two 2021/22 - To Be Promoted,Harrogate Town,0.02020000000000001,0.1111,0.0909
 2022-01-22 21:30:47.027153,England Championship - England Championship 21/22 - Top 2 Finish,Fulham,0.020199999999999996,0.9091,0.8889
 2022-01-22 21:30:47.236174,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Deportivo Toluca,0.019099999999999992,0.0667,0.0476
 2022-01-22 22:30:46.111434,League Two - England League Two 2021/22 - Top 3 Finish,Forest Green Rovers,0.01849999999999996,0.9709,0.9524
@@ -72,14 +73,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-22 21:30:47.033776,England Championship - England Championship 21/22 - Top 6 Finish,Sheffield United,0.015100000000000002,0.3484,0.3333
 2022-01-22 21:30:46.363764,Boxing Lines - Tugstsogt Nyambayar vs Sakaria Lukas - To Win the Bout,Sakaria Lukas,0.014399999999999996,0.0769,0.0625
 2022-01-23 00:30:43.309578,Boxing Lines - Tugstsogt Nyambayar vs Sakaria Lukas - To Win the Bout,Tugstsogt Nyambayar,0.01429999999999998,0.9852,0.9709
-2022-01-22 22:30:45.818987,Germany Bundesliga - German Bundesliga 2021/22 - Outright,Borussia Dortmund,0.013999999999999999,0.0909,0.0769
 2022-01-22 21:30:47.165718,League One - England League One 2021/22 - To Be Promoted,Ipswich Town,0.013999999999999999,0.0909,0.0769
+2022-01-22 22:30:45.818987,Germany Bundesliga - German Bundesliga 2021/22 - Outright,Borussia Dortmund,0.013999999999999999,0.0909,0.0769
 2022-01-22 21:30:46.356238,Boxing Lines - Evan Holyfield vs Chris Rollins - To Win the Bout,Evan Holyfield,0.013800000000000034,0.999,0.9852
 2022-01-22 21:30:47.172198,League One - England League One 2021/22 - To Be Relegated,Fleetwood Town,0.012899999999999995,0.1667,0.1538
 2022-01-22 21:30:47.178783,League One - England League One 2021/22 - Top 2 Finish,Rotherham Utd,0.011499999999999955,0.6667,0.6552
 2022-01-22 21:30:47.020475,England Championship - England Championship 21/22 - To Be Promoted,Huddersfield Town,0.011199999999999995,0.0588,0.0476
-2022-01-22 21:30:47.013579,England Championship - England Championship 21/22 - Outright,West Bromwich Albion,0.011199999999999995,0.0588,0.0476
 2022-01-22 22:30:46.104432,League Two - England League Two 2021/22 - To Be Relegated,Walsall,0.011199999999999995,0.0588,0.0476
+2022-01-22 21:30:47.013579,England Championship - England Championship 21/22 - Outright,West Bromwich Albion,0.011199999999999995,0.0588,0.0476
 2022-01-22 21:30:47.185480,League One - England League One 2021/22 - Top 6 Finish,Sunderland,0.011199999999999988,0.9524,0.9412
 2022-01-22 21:30:46.371203,Boxing Lines - Subriel Matias vs Petros Ananyan - To Win the Bout,Subriel Matias,0.01090000000000002,0.8571,0.8462
 2022-01-22 21:30:47.033776,England Championship - England Championship 21/22 - Top 6 Finish,Nottingham Forest,0.010899999999999993,0.1538,0.1429
@@ -87,27 +88,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-23 05:30:49.351597,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Buffalo Bills,0.010499999999999982,0.2105,0.2
 2022-01-22 22:30:45.151554,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tampa Bay Buccaneers,0.010200000000000015,0.1481,0.1379
 2022-01-22 21:30:47.198425,League Two - England League Two 2021/22 - Outright,Tranmere Rovers,0.0102,0.0769,0.0667
+2022-01-22 21:30:47.033776,England Championship - England Championship 21/22 - Top 6 Finish,Middlesbrough,-0.010099999999999998,0.4444,0.4545
 2022-01-22 21:30:47.185480,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,-0.010099999999999998,0.4444,0.4545
 2022-01-22 22:30:45.818987,Germany Bundesliga - German Bundesliga 2021/22 - Outright,Bayern Munich,-0.010099999999999998,0.9655,0.9756
-2022-01-22 21:30:47.033776,England Championship - England Championship 21/22 - Top 6 Finish,Middlesbrough,-0.010099999999999998,0.4444,0.4545
 2022-01-22 22:30:46.111434,League Two - England League Two 2021/22 - Top 3 Finish,Bristol Rovers,-0.010100000000000001,0.0244,0.0345
 2022-01-22 21:30:47.027153,England Championship - England Championship 21/22 - Top 2 Finish,Coventry City,-0.010100000000000001,0.0244,0.0345
-2022-01-22 21:30:47.165718,League One - England League One 2021/22 - To Be Promoted,Portsmouth,-0.0102,0.0667,0.0769
 2022-01-22 22:30:46.097590,League Two - England League Two 2021/22 - To Be Promoted,Rochdale,-0.0102,0.0667,0.0769
-2022-01-23 06:30:49.833522,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tampa Bay Buccaneers,-0.010499999999999982,0.2,0.2105
+2022-01-22 21:30:47.165718,League One - England League One 2021/22 - To Be Promoted,Portsmouth,-0.0102,0.0667,0.0769
 2022-01-23 06:30:49.833522,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Buffalo Bills,-0.010499999999999982,0.2,0.2105
-2022-01-22 21:30:47.172198,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,-0.010899999999999993,0.1429,0.1538
+2022-01-23 06:30:49.833522,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Tampa Bay Buccaneers,-0.010499999999999982,0.2,0.2105
 2022-01-22 21:30:47.213370,League Two - England League Two 2021/22 - Top 7 Finish,Rochdale,-0.010899999999999993,0.1429,0.1538
+2022-01-22 21:30:47.172198,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,-0.010899999999999993,0.1429,0.1538
 2022-01-22 23:30:47.882831,Italy Serie A - Italy Serie A 2021/2022 - Outright,AC Milan,-0.011099999999999999,0.1,0.1111
 2022-01-22 21:30:47.178783,League One - England League One 2021/22 - Top 2 Finish,Milton Keynes Dons,-0.011199999999999995,0.0476,0.0588
 2022-01-22 23:30:47.240939,Boxing Lines - Gary Russell Jr vs Mark Magsayo - To Win the Bout,Mark Magsayo,-0.011400000000000021,0.2703,0.2817
 2022-01-22 21:30:46.371203,Boxing Lines - Subriel Matias vs Petros Ananyan - To Win the Bout,Petros Ananyan,-0.011700000000000016,0.2105,0.2222
 2022-01-22 21:30:47.350428,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Aston Villa,-0.012100000000000001,0.0123,0.0244
 2022-01-22 22:30:46.111434,League Two - England League Two 2021/22 - Top 3 Finish,Hartlepool United,-0.013,0.0066,0.0196
-2022-01-22 21:30:47.198425,League Two - England League Two 2021/22 - Outright,Northampton Town,-0.0131,0.0345,0.0476
 2022-01-22 21:30:47.213370,League Two - England League Two 2021/22 - Top 7 Finish,Hartlepool United,-0.0131,0.0345,0.0476
-2022-01-22 21:30:47.213370,League Two - England League Two 2021/22 - Top 7 Finish,Barrow FC,-0.0131,0.0345,0.0476
 2022-01-23 07:30:38.408287,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Kansas City Chiefs,-0.0131,0.2222,0.2353
+2022-01-22 21:30:47.198425,League Two - England League Two 2021/22 - Outright,Northampton Town,-0.0131,0.0345,0.0476
+2022-01-22 21:30:47.213370,League Two - England League Two 2021/22 - Top 7 Finish,Barrow FC,-0.0131,0.0345,0.0476
 2022-01-22 21:30:47.172198,League One - England League One 2021/22 - To Be Relegated,Cambridge United,-0.013899999999999996,0.1111,0.125
 2022-01-22 21:30:46.363764,Boxing Lines - Tugstsogt Nyambayar vs Sakaria Lukas - To Win the Bout,Tugstsogt Nyambayar,-0.01429999999999998,0.9709,0.9852
 2022-01-23 00:30:43.309578,Boxing Lines - Tugstsogt Nyambayar vs Sakaria Lukas - To Win the Bout,Sakaria Lukas,-0.014399999999999996,0.0625,0.0769
@@ -143,12 +144,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-22 23:30:47.892523,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Sevilla,-0.03420000000000001,0.0769,0.1111
 2022-01-22 22:30:46.097590,League Two - England League Two 2021/22 - To Be Promoted,Port Vale,-0.03570000000000001,0.25,0.2857
 2022-01-22 21:30:47.178783,League One - England League One 2021/22 - Top 2 Finish,Wycombe,-0.0358,0.2309,0.2667
-2022-01-22 21:30:47.205068,League Two - England League Two 2021/22 - Top Goalscorer,Dominic Telford (Newport County),-0.03640000000000004,0.3636,0.4
 2022-01-22 22:30:46.097590,League Two - England League Two 2021/22 - To Be Promoted,Sutton Utd,-0.03640000000000004,0.3636,0.4
+2022-01-22 21:30:47.205068,League Two - England League Two 2021/22 - Top Goalscorer,Dominic Telford (Newport County),-0.03640000000000004,0.3636,0.4
 2022-01-22 21:30:47.213370,League Two - England League Two 2021/22 - Top 7 Finish,Crawley Town,-0.038299999999999994,0.0526,0.0909
 2022-01-22 22:30:46.097590,League Two - England League Two 2021/22 - To Be Promoted,Leyton Orient,-0.04040000000000002,0.1818,0.2222
-2022-01-22 21:30:47.165718,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,-0.04169999999999999,0.125,0.1667
 2022-01-22 22:30:46.097590,League Two - England League Two 2021/22 - To Be Promoted,Salford City,-0.04169999999999999,0.125,0.1667
+2022-01-22 21:30:47.165718,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,-0.04169999999999999,0.125,0.1667
 2022-01-22 21:30:47.159078,League One - England League One 2021/22 - Outright,Rotherham Utd,-0.04290000000000005,0.3571,0.4
 2022-01-22 21:30:47.033776,England Championship - England Championship 21/22 - Top 6 Finish,Stoke City,-0.043200000000000016,0.3077,0.3509
 2022-01-22 21:30:47.033776,England Championship - England Championship 21/22 - Top 6 Finish,Luton Town,-0.04620000000000002,0.1538,0.2
