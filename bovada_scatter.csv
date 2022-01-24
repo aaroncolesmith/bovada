@@ -4,6 +4,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-24 07:30:56.684407,NFL Specials - NFL Play Off Specials - Super Bowl MVP,Matthew Stafford,0.1557,0.2326,0.0769
 2022-01-23 21:30:54.463194,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Los Angeles Rams,0.1524,0.2857,0.1333
 2022-01-23 21:30:53.871868,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Ron DeSantis,0.09620000000000001,0.25,0.1538
+2022-01-24 07:30:56.684407,NFL Specials - NFL Play Off Specials - Super Bowl MVP,Jimmy Garoppolo,0.0804,0.1429,0.0625
 2022-01-24 01:30:43.574027,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Kansas City Chiefs,0.07520000000000002,0.2857,0.2105
 2022-01-24 04:30:53.666982,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,0.06669999999999998,0.6667,0.6
 2022-01-23 23:30:39.734998,Marvel Specials - Will Any Of These Characters Appear in She-Hulk on Disney+? - Outright,Jessica Jones,0.066,0.1429,0.0769
@@ -21,23 +22,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-23 23:30:39.734998,Marvel Specials - Will Any Of These Characters Appear in She-Hulk on Disney+? - Outright,Wong,0.044399999999999995,0.4444,0.4
 2022-01-24 01:30:44.019463,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Senegal,0.04040000000000002,0.2222,0.1818
 2022-01-24 01:30:43.574027,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Los Angeles Rams,0.03689999999999999,0.3226,0.2857
-2022-01-24 04:30:53.721753,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,0.03570000000000001,0.2857,0.25
-2022-01-24 04:30:53.640661,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.03570000000000001,0.2857,0.25
-2022-01-24 04:30:53.519651,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,0.03570000000000001,0.2857,0.25
 2022-01-24 01:30:44.358693,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Wolverhampton Wanderers,0.03570000000000001,0.2857,0.25
+2022-01-24 04:30:53.640661,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.03570000000000001,0.2857,0.25
+2022-01-24 04:30:53.721753,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,0.03570000000000001,0.2857,0.25
+2022-01-24 04:30:53.519651,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,0.03570000000000001,0.2857,0.25
 2022-01-24 05:30:41.249313,CFL - Odds to win 109th (2022) Grey Cup - Outright,Calgary Stampeders,0.033399999999999985,0.1667,0.1333
-2022-01-23 23:30:39.692946,Marvel Specials - Will Any Of These Characters Appear in Loki Season 2 on Disney+ - Outright,Hulk,0.0321,0.0909,0.0588
 2022-01-24 07:30:56.684407,NFL Specials - NFL Play Off Specials - Super Bowl MVP,Joe Burrow,0.0321,0.0909,0.0588
+2022-01-23 23:30:39.692946,Marvel Specials - Will Any Of These Characters Appear in Loki Season 2 on Disney+ - Outright,Hulk,0.0321,0.0909,0.0588
 2022-01-23 21:30:53.824004,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Pete Buttigieg,0.031799999999999995,0.1429,0.1111
-2022-01-24 04:30:53.565453,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Evan Mobley,0.030299999999999994,0.6667,0.6364
-2022-01-23 21:30:53.824004,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Joe Biden,0.030299999999999994,0.3636,0.3333
 2022-01-23 21:30:53.808775,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Joe Biden,0.030299999999999994,0.3636,0.3333
-2022-01-23 23:30:39.721102,Marvel Specials - Will Any Of These Characters Appear in Secret Invasion On Disney+? - Outright,Venom,0.030199999999999998,0.0625,0.0323
+2022-01-23 21:30:53.824004,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Joe Biden,0.030299999999999994,0.3636,0.3333
+2022-01-24 04:30:53.565453,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Evan Mobley,0.030299999999999994,0.6667,0.6364
 2022-01-23 23:30:39.721102,Marvel Specials - Will Any Of These Characters Appear in Secret Invasion On Disney+? - Outright,Daredevil,0.030199999999999998,0.0625,0.0323
+2022-01-23 23:30:39.721102,Marvel Specials - Will Any Of These Characters Appear in Secret Invasion On Disney+? - Outright,Venom,0.030199999999999998,0.0625,0.0323
 2022-01-24 01:30:44.394182,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Chelsea,0.029299999999999993,0.9524,0.9231
 2022-01-23 23:30:39.334034,Boxing Lines - Ilunga Makubu vs Thabiso Mchunu - To Win the Bout,Thabiso Mchunu,0.029000000000000026,0.4545,0.4255
-2022-01-24 07:30:56.684407,NFL Specials - NFL Play Off Specials - Super Bowl MVP,Tyreek Hill,0.028000000000000004,0.0476,0.0196
 2022-01-24 07:30:56.684407,NFL Specials - NFL Play Off Specials - Super Bowl MVP,Travis Kelce,0.028000000000000004,0.0476,0.0196
+2022-01-24 07:30:56.684407,NFL Specials - NFL Play Off Specials - Super Bowl MVP,Tyreek Hill,0.028000000000000004,0.0476,0.0196
 2022-01-24 01:30:43.866353,NBL - NBL 2021/22 - Outright,Melbourne United,0.02779999999999999,0.25,0.2222
 2022-01-24 01:30:44.394182,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Manchester United,0.027500000000000024,0.3846,0.3571
 2022-01-24 05:30:41.258110,College Season Props - Odds to win 2022 Heisman Trophy - Outright,Bryce Young,0.02560000000000001,0.3333,0.3077
