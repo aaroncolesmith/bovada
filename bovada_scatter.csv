@@ -9,6 +9,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-24 21:30:50.077413,College Basketball - Big Ten Conference Winner - Outright,Purdue,0.0353,0.2353,0.2
 2022-01-24 21:30:50.049894,College Basketball - Atlantic Coast Conference  Winner - Outright,Florida State,0.033399999999999985,0.1667,0.1333
 2022-01-25 03:30:46.272733,England Championship - England Championship 21/22 - Outright,Fulham,0.033299999999999996,0.8333,0.8
+2022-01-25 06:30:47.000578,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Tigres UANL,0.031799999999999995,0.1429,0.1111
+2022-01-25 06:30:47.000578,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Club León,0.031799999999999995,0.1429,0.1111
 2022-01-24 21:30:50.094340,College Basketball - Mountain West Conference  Winner - Outright,Colorado State,0.02679999999999999,0.3125,0.2857
 2022-01-24 21:30:50.049894,College Basketball - Atlantic Coast Conference  Winner - Outright,Duke,0.025599999999999956,0.6,0.5744
 2022-01-24 21:30:50.085996,College Basketball - Conference USA Winner - Outright,North Texas,0.023799999999999988,0.2941,0.2703
@@ -19,30 +21,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-24 21:30:50.023227,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Auburn,0.018099999999999998,0.0769,0.0588
 2022-01-24 22:30:48.807116,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Houston,0.015700000000000006,0.1333,0.1176
 2022-01-24 21:30:50.041154,College Basketball - Atlantic 10 Conference Winner - Outright,George Mason,0.015300000000000001,0.0476,0.0323
+2022-01-25 06:30:47.000578,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Atlas FC,0.015100000000000002,0.1818,0.1667
 2022-01-25 03:30:46.281984,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Gambia,0.014499999999999999,0.0294,0.0149
 2022-01-24 22:30:48.807116,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Michigan State,0.01440000000000001,0.1053,0.0909
 2022-01-24 21:30:50.032806,College Basketball - American Athletic Conference Winner - Outright,Central Florida,0.014399999999999996,0.0769,0.0625
 2022-01-24 21:30:50.102896,College Basketball - PAC 12 Conference  Winner - Outright,USC,0.013999999999999999,0.0909,0.0769
-2022-01-24 21:30:50.102896,College Basketball - PAC 12 Conference  Winner - Outright,Oregon,0.013999999999999999,0.0909,0.0769
 2022-01-24 21:30:50.032806,College Basketball - American Athletic Conference Winner - Outright,Memphis,0.013999999999999999,0.0909,0.0769
+2022-01-24 21:30:50.102896,College Basketball - PAC 12 Conference  Winner - Outright,Oregon,0.013999999999999999,0.0909,0.0769
 2022-01-24 22:30:48.807116,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Kansas,0.01319999999999999,0.2632,0.25
+2022-01-25 06:30:47.000578,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Monterrey,0.012899999999999995,0.1667,0.1538
 2022-01-24 22:30:48.807116,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Notre Dame,0.012700000000000003,0.0323,0.0196
 2022-01-24 21:30:50.077413,College Basketball - Big Ten Conference Winner - Outright,Michigan,0.012599999999999998,0.0278,0.0152
 2022-01-25 03:30:46.286775,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Karl Toko Ekambi,0.011199999999999995,0.0588,0.0476
-2022-01-24 21:30:50.023227,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Kansas,0.0102,0.0769,0.0667
 2022-01-24 21:30:50.049894,College Basketball - Atlantic Coast Conference  Winner - Outright,Notre Dame,0.0102,0.0769,0.0667
+2022-01-24 21:30:50.023227,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Kansas,0.0102,0.0769,0.0667
 2022-01-24 21:30:50.058017,College Basketball - Big 12 Conference Winner - Outright,Kansas,0.010099999999999998,0.4545,0.4444
 2022-01-24 22:30:48.807116,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Michigan,-0.0102,0.0667,0.0769
-2022-01-24 17:31:02.864211,Boxing Lines - Ilunga Makubu vs Thabiso Mchunu - To Win the Bout,Thabiso Mchunu,-0.010599999999999998,0.4545,0.4651
+2022-01-25 06:30:47.000578,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,FC Puebla,-0.0102,0.0667,0.0769
 2022-01-24 21:30:50.066219,College Basketball - Big East Conference  Winner - Outright,St. John's,-0.010600000000000002,0.0217,0.0323
 2022-01-25 03:30:46.281984,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Morocco,-0.010899999999999993,0.1429,0.1538
 2022-01-24 22:30:48.807116,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Alabama,-0.011099999999999999,0.1,0.1111
 2022-01-25 03:30:46.281984,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Tunisia,-0.011099999999999999,0.1,0.1111
 2022-01-25 03:30:46.272733,England Championship - England Championship 21/22 - Outright,West Bromwich Albion,-0.011199999999999995,0.0476,0.0588
 2022-01-25 03:30:46.286775,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Ibrahima Kone,-0.011199999999999995,0.0476,0.0588
+2022-01-25 06:30:47.000578,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Chivas Guadalajara,-0.011199999999999995,0.0476,0.0588
 2022-01-24 22:30:48.807116,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Syracuse,-0.012800000000000002,0.0217,0.0345
 2022-01-24 22:30:48.807116,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Wyoming,-0.013400000000000002,0.011,0.0244
 2022-01-24 21:30:50.066219,College Basketball - Big East Conference  Winner - Outright,Creighton,-0.013999999999999999,0.0769,0.0909
+2022-01-25 06:30:47.000578,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Pachuca,-0.013999999999999999,0.0769,0.0909
 2022-01-24 21:30:50.111169,College Basketball - Southeastern Conference Winner - Outright,Texas A&M,-0.014100000000000001,0.0385,0.0526
 2022-01-24 22:30:48.807116,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Memphis,-0.016600000000000004,0.0667,0.0833
 2022-01-24 21:30:50.041154,College Basketball - Atlantic 10 Conference Winner - Outright,St. Bonaventure,-0.016699999999999993,0.25,0.2667
@@ -54,14 +60,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-24 22:30:48.807116,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Purdue,-0.020799999999999985,0.3125,0.3333
 2022-01-25 03:30:46.272733,England Championship - England Championship 21/22 - Outright,Bournemouth,-0.022199999999999998,0.1111,0.1333
 2022-01-24 21:30:50.111169,College Basketball - Southeastern Conference Winner - Outright,LSU,-0.023200000000000002,0.0244,0.0476
+2022-01-25 06:30:47.000578,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Club América,-0.023799999999999988,0.1429,0.1667
 2022-01-24 21:30:50.077413,College Basketball - Big Ten Conference Winner - Outright,Ohio State,-0.023799999999999988,0.1429,0.1667
 2022-01-24 22:30:48.807116,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Creighton,-0.023899999999999998,0.0196,0.0435
 2022-01-24 21:30:50.094340,College Basketball - Mountain West Conference  Winner - Outright,Fresno State,-0.024299999999999995,0.0526,0.0769
 2022-01-24 21:30:50.085996,College Basketball - Conference USA Winner - Outright,Western Kentucky,-0.0286,0.0099,0.0385
+2022-01-25 06:30:47.000578,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Santos Laguna,-0.0294,0.0294,0.0588
 2022-01-24 21:30:50.102896,College Basketball - PAC 12 Conference  Winner - Outright,UCLA,-0.029600000000000015,0.3704,0.4
 2022-01-24 21:30:50.032806,College Basketball - American Athletic Conference Winner - Outright,SMU,-0.033300000000000024,0.1667,0.2
 2022-01-24 21:30:50.085996,College Basketball - Conference USA Winner - Outright,Charlotte,-0.0336,0.0099,0.0435
 2022-01-24 21:30:50.032806,College Basketball - American Athletic Conference Winner - Outright,Cincinnati,-0.038299999999999994,0.0526,0.0909
+2022-01-25 06:30:47.000578,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Pumas UNAM,-0.0417,0.0833,0.125
 2022-01-24 21:30:50.041154,College Basketball - Atlantic 10 Conference Winner - Outright,Rhode Island,-0.0474,0.0435,0.0909
 2022-01-24 21:30:50.077413,College Basketball - Big Ten Conference Winner - Outright,Illinois,-0.05409999999999998,0.303,0.3571
 2022-01-24 21:30:50.049894,College Basketball - Atlantic Coast Conference  Winner - Outright,Miami (FL),-0.05559999999999998,0.1111,0.1667
