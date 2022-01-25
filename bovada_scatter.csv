@@ -1,5 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-01-25 12:30:54.362254,England Premier League Season 2021/2022 - England Premier League 2021/22 - Highest Scoring Team,Liverpool,0.45699999999999996,0.5999,0.1429
+2022-01-25 12:30:54.324693,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Club in the Midlands,Wolverhampton Wanderers,0.41270000000000007,0.5238,0.1111
+2022-01-25 12:30:54.330957,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Club in the North West,Manchester City,0.3993,0.9231,0.5238
 2022-01-25 10:30:44.833806,NFL Specials - NFL Play Off Specials - Play Off Specials,Kansas City Chiefs to be the losing team in Super Bowl 56,0.1945,0.4167,0.2222
+2022-01-25 12:30:53.172294,NFL Specials - NFL Play Off Specials - Play Off Specials,2+ Post Season Games to go to Overtime,0.1167,0.25,0.1333
 2022-01-25 08:30:46.408997,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Burkina Faso,0.08410000000000001,0.1429,0.0588
 2022-01-25 08:30:46.408997,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Mali,0.07930000000000001,0.2222,0.1429
 2022-01-25 10:30:44.854743,NFL Specials - NFL Play Off Specials - Most Rushing Yards,Cam Akers,0.05710000000000001,0.2,0.1429
@@ -23,24 +27,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-25 03:30:46.281984,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Gambia,0.014499999999999999,0.0294,0.0149
 2022-01-25 07:31:39.315144,Liga MX - Clausura - Liga MX Clausura 2022  - Top Goalscorer,Bryan Angulo,0.014099999999999998,0.0385,0.0244
 2022-01-25 10:30:44.854743,NFL Specials - NFL Play Off Specials - Most Rushing Yards,Deebo Samuel,0.013999999999999999,0.0909,0.0769
-2022-01-25 10:30:44.846460,NFL Specials - NFL Play Off Specials - Most Receiving Yards,Tyler Higbee,0.013,0.0196,0.0066
 2022-01-25 10:30:44.846460,NFL Specials - NFL Play Off Specials - Most Receiving Yards,Deebo Samuel,0.013,0.0196,0.0066
+2022-01-25 10:30:44.846460,NFL Specials - NFL Play Off Specials - Most Receiving Yards,Tyler Higbee,0.013,0.0196,0.0066
 2022-01-25 08:30:46.285296,England Championship - England Championship 21/22 - To Be Promoted,Middlesbrough,0.012899999999999995,0.1667,0.1538
 2022-01-25 06:30:47.000578,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Monterrey,0.012899999999999995,0.1667,0.1538
 2022-01-25 03:30:46.286775,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Karl Toko Ekambi,0.011199999999999995,0.0588,0.0476
 2022-01-25 10:30:44.597127,Boxing Lines - Ilunga Makubu vs Thabiso Mchunu - To Win the Bout,Thabiso Mchunu,0.011099999999999999,0.4762,0.4651
 2022-01-25 09:31:11.417076,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Alabama,0.010600000000000002,0.0323,0.0217
 2022-01-25 09:31:11.115923,Boxing Lines - Ilunga Makubu vs Thabiso Mchunu - To Win the Bout,Thabiso Mchunu,0.010599999999999998,0.4651,0.4545
-2022-01-25 09:31:11.417076,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Kansas,-0.0102,0.0667,0.0769
 2022-01-25 06:30:47.000578,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,FC Puebla,-0.0102,0.0667,0.0769
-2022-01-25 08:30:46.408997,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Egypt,-0.010899999999999993,0.1429,0.1538
+2022-01-25 09:31:11.417076,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Kansas,-0.0102,0.0667,0.0769
 2022-01-25 03:30:46.281984,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Morocco,-0.010899999999999993,0.1429,0.1538
+2022-01-25 08:30:46.408997,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Egypt,-0.010899999999999993,0.1429,0.1538
 2022-01-25 03:30:46.281984,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Tunisia,-0.011099999999999999,0.1,0.1111
-2022-01-25 03:30:46.286775,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Ibrahima Kone,-0.011199999999999995,0.0476,0.0588
-2022-01-25 03:30:46.272733,England Championship - England Championship 21/22 - Outright,West Bromwich Albion,-0.011199999999999995,0.0476,0.0588
 2022-01-25 06:30:47.000578,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Chivas Guadalajara,-0.011199999999999995,0.0476,0.0588
-2022-01-25 06:30:47.000578,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Pachuca,-0.013999999999999999,0.0769,0.0909
+2022-01-25 03:30:46.272733,England Championship - England Championship 21/22 - Outright,West Bromwich Albion,-0.011199999999999995,0.0476,0.0588
+2022-01-25 03:30:46.286775,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Ibrahima Kone,-0.011199999999999995,0.0476,0.0588
 2022-01-25 09:31:11.417076,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Purdue,-0.013999999999999999,0.0769,0.0909
+2022-01-25 06:30:47.000578,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Pachuca,-0.013999999999999999,0.0769,0.0909
 2022-01-25 10:30:44.854743,NFL Specials - NFL Play Off Specials - Most Rushing Yards,Darrel Williams,-0.0145,0.0099,0.0244
 2022-01-25 08:30:46.266625,England Championship - England Championship 21/22 - Top Goalscorer,Dominic Solanke (Bournemouth),-0.018099999999999998,0.0588,0.0769
 2022-01-25 08:30:46.408997,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Senegal,-0.02100000000000002,0.3636,0.3846
@@ -53,4 +57,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-25 08:30:46.266625,England Championship - England Championship 21/22 - Top Goalscorer,Ben Brereton (Blackburn),-0.04240000000000001,0.0909,0.1333
 2022-01-25 08:30:46.408997,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Ivory Coast,-0.04999999999999999,0.2,0.25
 2022-01-25 08:30:46.408997,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Morocco,-0.05310000000000001,0.2326,0.2857
+2022-01-25 12:30:54.362254,England Premier League Season 2021/2022 - England Premier League 2021/22 - Highest Scoring Team,Chelsea,-0.0804,0.0196,0.1
+2022-01-25 12:30:54.330957,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Club in the North West,Liverpool,-0.1428,0.1429,0.2857
 2022-01-25 10:30:44.854743,NFL Specials - NFL Play Off Specials - Most Rushing Yards,Elijah Mitchell,-0.1814,0.5833,0.7647
+2022-01-25 12:30:54.362254,England Premier League Season 2021/2022 - England Premier League 2021/22 - Highest Scoring Team,Manchester City,-0.23329999999999995,0.5,0.7333
+2022-01-25 12:30:54.324693,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Club in the Midlands,Leicester City,-0.42860000000000004,0.2857,0.7143
