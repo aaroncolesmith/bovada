@@ -1,4 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-01-26 12:30:59.025094,England Premier League Season 2021/2022 - England Premier League 2021/22 - Lowest Scoring Team,Norwich City,0.7222000000000001,0.8889,0.1667
+2022-01-26 12:30:59.001696,England Premier League Season 2021/2022 - England Premier League 2021/22 - Straight Forecast,Man City/Liverpool,0.5006999999999999,0.7333,0.2326
 2022-01-26 09:31:02.308746,England Championship - England Championship 21/22 - Top 6 Finish,Nottingham Forest,0.1795,0.3333,0.1538
 2022-01-26 04:30:44.239625,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,0.13190000000000002,0.2857,0.1538
 2022-01-26 09:31:02.751191,League One - England League One 2021/22 - Top 6 Finish,Ipswich Town,0.11359999999999998,0.3636,0.25
@@ -6,7 +8,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-26 10:30:48.131379,League Two - England League Two 2021/22 - Top 3 Finish,Newport County,0.0849,0.2667,0.1818
 2022-01-26 10:30:48.109919,League Two - England League Two 2021/22 - To Be Promoted,Newport County,0.0695,0.3636,0.2941
 2022-01-26 09:31:02.368673,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Senegal,0.06190000000000001,0.4255,0.3636
-2022-01-25 23:31:28.502527,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Morocco,0.05710000000000001,0.2,0.1429
 2022-01-26 09:31:02.368673,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Morocco,0.05310000000000001,0.2857,0.2326
 2022-01-26 09:31:02.275425,England Championship - England Championship 21/22 - To Be Promoted,Nottingham Forest,0.0524,0.1,0.0476
 2022-01-26 10:30:47.944430,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Aberdeen,0.05080000000000001,0.2326,0.1818
@@ -19,13 +20,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-26 09:31:02.700593,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,0.03889999999999999,0.1818,0.1429
 2022-01-26 09:31:02.751191,League One - England League One 2021/22 - Top 6 Finish,Oxford United,0.035999999999999976,0.5122,0.4762
 2022-01-26 09:31:01.622728,NBL - NBL 2021/22 - Outright,Melbourne United,0.03570000000000001,0.2857,0.25
-2022-01-25 23:31:28.502527,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Ivory Coast,0.033399999999999985,0.1667,0.1333
 2022-01-26 10:30:48.109919,League Two - England League Two 2021/22 - To Be Promoted,Bradford City,0.033300000000000024,0.2,0.1667
 2022-01-26 10:30:47.959877,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Motherwell,0.033299999999999996,0.8333,0.8
 2022-01-26 09:31:02.291878,England Championship - England Championship 21/22 - Top 2 Finish,Fulham,0.03210000000000002,0.9412,0.9091
 2022-01-26 10:30:47.930409,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,St. Johnstone,0.031799999999999995,0.4762,0.4444
 2022-01-26 10:30:47.930409,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Dundee FC,0.029000000000000026,0.4545,0.4255
-2022-01-25 23:31:28.502527,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Senegal,0.02779999999999999,0.25,0.2222
 2022-01-26 09:31:02.308746,England Championship - England Championship 21/22 - Top 6 Finish,Coventry City,0.02779999999999999,0.25,0.2222
 2022-01-26 09:31:02.716437,League One - England League One 2021/22 - To Finish Bottom,Gillingham,0.02739999999999998,0.2941,0.2667
 2022-01-26 09:31:02.733745,League One - England League One 2021/22 - Top 2 Finish,Rotherham Utd,0.025600000000000067,0.6923,0.6667
@@ -40,15 +39,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-26 04:30:44.239625,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,0.01820000000000002,0.2,0.1818
 2022-01-26 10:30:48.109919,League Two - England League Two 2021/22 - To Be Promoted,Salford City,0.0179,0.1429,0.125
 2022-01-26 11:30:47.610162,Boxing Lines - Robson Conceicao vs Martinez Xavier - To Win the Bout,Martinez Xavier,0.017299999999999982,0.5917,0.5744
-2022-01-26 00:30:50.491502,NFL Specials - Will Tom Brady Play Week 1 of the 2022/2023 Regular Season? - Outright,No,0.016699999999999993,0.2667,0.25
 2022-01-26 10:30:45.707897,Boxing Lines - Bernard Angelo Torres vs Hasan Perouene Mauro Alex - To Win the Bout,Bernard Angelo Torres,0.016699999999999937,0.9167,0.9
-2022-01-26 10:30:47.959877,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,St. Mirren,0.015100000000000002,0.1818,0.1667
 2022-01-26 09:31:02.700593,League One - England League One 2021/22 - To Be Relegated,Fleetwood Town,0.015100000000000002,0.1818,0.1667
+2022-01-26 10:30:47.959877,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,St. Mirren,0.015100000000000002,0.1818,0.1667
 2022-01-26 09:31:02.291878,England Championship - England Championship 21/22 - Top 2 Finish,Nottingham Forest,0.014499999999999999,0.0294,0.0149
 2022-01-26 09:31:02.700593,League One - England League One 2021/22 - To Be Relegated,Gillingham,0.014000000000000012,0.9231,0.9091
 2022-01-26 09:31:02.751191,League One - England League One 2021/22 - Top 6 Finish,Sunderland,0.0131,0.9655,0.9524
 2022-01-26 09:31:02.275425,England Championship - England Championship 21/22 - To Be Promoted,Luton Town,0.0131,0.0476,0.0345
 2022-01-26 09:31:02.751191,League One - England League One 2021/22 - Top 6 Finish,Rotherham Utd,0.0121,0.9877,0.9756
+2022-01-26 12:30:56.645609,Boxing Lines - Daniel Jacobs vs John Ryder - To Win the Bout,John Ryder,0.011400000000000021,0.4082,0.3968
 2022-01-26 10:30:48.120800,League Two - England League Two 2021/22 - To Be Relegated,Barrow FC,0.011099999999999999,0.1111,0.1
 2022-01-26 10:30:47.921247,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Motherwell,0.0102,0.0769,0.0667
 2022-01-26 09:31:02.275425,England Championship - England Championship 21/22 - To Be Promoted,Coventry City,0.0102,0.0769,0.0667
@@ -56,36 +55,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-26 04:30:44.403571,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.010099999999999998,0.3125,0.3226
 2022-01-26 09:31:02.291878,England Championship - England Championship 21/22 - Top 2 Finish,Stoke City,-0.010100000000000001,0.0244,0.0345
 2022-01-26 09:31:02.685470,League One - England League One 2021/22 - To Be Promoted,Oxford United,-0.010899999999999993,0.1429,0.1538
-2022-01-26 09:31:02.353784,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Karl Toko Ekambi,-0.011199999999999995,0.0476,0.0588
-2022-01-26 09:31:02.716437,League One - England League One 2021/22 - To Finish Bottom,Morecambe,-0.011199999999999995,0.0476,0.0588
 2022-01-26 10:30:47.930409,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,St. Mirren,-0.011199999999999995,0.0476,0.0588
+2022-01-26 09:31:02.716437,League One - England League One 2021/22 - To Finish Bottom,Morecambe,-0.011199999999999995,0.0476,0.0588
+2022-01-26 09:31:02.353784,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Karl Toko Ekambi,-0.011199999999999995,0.0476,0.0588
+2022-01-26 12:30:56.645609,Boxing Lines - Daniel Jacobs vs John Ryder - To Win the Bout,Daniel Jacobs,-0.011499999999999955,0.6552,0.6667
 2022-01-26 11:30:47.610162,Boxing Lines - Robson Conceicao vs Martinez Xavier - To Win the Bout,Robson Conceicao,-0.0116,0.4762,0.4878
 2022-01-26 10:30:47.930409,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Ross County,-0.013899999999999996,0.1111,0.125
 2022-01-26 10:30:47.944430,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,St. Mirren,-0.013900000000000023,0.875,0.8889
 2022-01-26 04:30:44.239625,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Ja Morant,-0.013999999999999999,0.0769,0.0909
 2022-01-26 09:31:01.622728,NBL - NBL 2021/22 - Outright,Brisbane Bullets,-0.014099999999999994,0.0526,0.0667
 2022-01-26 09:31:02.353784,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Mohamed Salah,-0.014099999999999998,0.0244,0.0385
+2022-01-26 12:30:59.001696,England Premier League Season 2021/2022 - England Premier League 2021/22 - Straight Forecast,Man City/Arsenal,-0.014599999999999998,0.005,0.0196
 2022-01-26 10:30:48.109919,League Two - England League Two 2021/22 - To Be Promoted,Exeter City,-0.014900000000000024,0.3077,0.3226
-2022-01-26 00:30:50.491502,NFL Specials - Will Tom Brady Play Week 1 of the 2022/2023 Regular Season? - Outright,Yes,-0.015100000000000002,0.8182,0.8333
 2022-01-26 10:30:48.109919,League Two - England League Two 2021/22 - To Be Promoted,Northampton Town,-0.015100000000000002,0.3333,0.3484
 2022-01-26 09:31:02.685470,League One - England League One 2021/22 - To Be Promoted,Plymouth Argyle,-0.015700000000000006,0.1176,0.1333
 2022-01-26 09:31:02.700593,League One - England League One 2021/22 - To Be Relegated,Lincoln City,-0.016600000000000004,0.0667,0.0833
 2022-01-26 10:30:48.109919,League Two - England League Two 2021/22 - To Be Promoted,Port Vale,-0.0174,0.2326,0.25
 2022-01-26 09:31:02.368673,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Tunisia,-0.0174,0.2326,0.25
+2022-01-26 12:30:59.025094,England Premier League Season 2021/2022 - England Premier League 2021/22 - Lowest Scoring Team,Everton,-0.017800000000000003,0.0066,0.0244
 2022-01-26 09:31:02.308746,England Championship - England Championship 21/22 - Top 6 Finish,West Bromwich Albion,-0.017900000000000027,0.8571,0.875
 2022-01-26 10:30:48.120800,League Two - England League Two 2021/22 - To Be Relegated,Hartlepool United,-0.018099999999999998,0.0588,0.0769
-2022-01-26 09:31:02.751191,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,-0.018900000000000028,0.4255,0.4444
+2022-01-26 12:30:56.763956,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Joe Biden,-0.01820000000000002,0.1818,0.2
 2022-01-26 09:31:02.368673,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Cameroon,-0.018900000000000028,0.4255,0.4444
-2022-01-26 04:30:44.239625,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,-0.019000000000000017,0.2667,0.2857
+2022-01-26 09:31:02.751191,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,-0.018900000000000028,0.4255,0.4444
 2022-01-26 10:30:48.131379,League Two - England League Two 2021/22 - Top 3 Finish,Swindon Town,-0.019000000000000017,0.2667,0.2857
+2022-01-26 04:30:44.239625,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,-0.019000000000000017,0.2667,0.2857
 2022-01-26 09:31:02.751191,League One - England League One 2021/22 - Top 6 Finish,Plymouth Argyle,-0.019699999999999995,0.4348,0.4545
-2022-01-26 09:31:02.700593,League One - England League One 2021/22 - To Be Relegated,Cambridge United,-0.02020000000000001,0.0909,0.1111
 2022-01-26 09:31:02.275425,England Championship - England Championship 21/22 - To Be Promoted,Stoke City,-0.02020000000000001,0.0909,0.1111
+2022-01-26 09:31:02.700593,League One - England League One 2021/22 - To Be Relegated,Cambridge United,-0.02020000000000001,0.0909,0.1111
 2022-01-26 09:31:02.685470,League One - England League One 2021/22 - To Be Promoted,Wycombe,-0.021999999999999964,0.2857,0.3077
-2022-01-26 09:31:02.368673,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Mali,-0.022199999999999998,0.2,0.2222
-2022-01-26 10:30:48.131379,League Two - England League Two 2021/22 - Top 3 Finish,Exeter City,-0.022199999999999998,0.2,0.2222
 2022-01-26 09:31:02.751191,League One - England League One 2021/22 - Top 6 Finish,Portsmouth,-0.022199999999999998,0.2,0.2222
 2022-01-26 10:30:48.120800,League Two - England League Two 2021/22 - To Be Relegated,Colchester United,-0.022199999999999998,0.2,0.2222
+2022-01-26 10:30:48.131379,League Two - England League Two 2021/22 - Top 3 Finish,Exeter City,-0.022199999999999998,0.2,0.2222
+2022-01-26 09:31:02.368673,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Mali,-0.022199999999999998,0.2,0.2222
 2022-01-26 09:31:02.751191,League One - England League One 2021/22 - Top 6 Finish,Burton Albion,-0.023200000000000002,0.0244,0.0476
 2022-01-26 10:30:45.707897,Boxing Lines - Bernard Angelo Torres vs Hasan Perouene Mauro Alex - To Win the Bout,Hasan Perouene Mauro Alex,-0.023799999999999988,0.1429,0.1667
 2022-01-26 04:30:44.270395,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,-0.023800000000000043,0.5,0.5238
@@ -93,8 +95,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-26 09:31:02.308746,England Championship - England Championship 21/22 - Top 6 Finish,Bournemouth,-0.0242,0.9091,0.9333
 2022-01-26 09:31:02.700593,League One - England League One 2021/22 - To Be Relegated,Bolton Wanderers,-0.024299999999999995,0.0345,0.0588
 2022-01-26 09:31:01.622728,NBL - NBL 2021/22 - Outright,Sydney Kings,-0.024999999999999994,0.1,0.125
+2022-01-26 12:30:59.001696,England Premier League Season 2021/2022 - England Premier League 2021/22 - Straight Forecast,Liverpool/Man City,-0.025300000000000003,0.1176,0.1429
 2022-01-26 04:30:44.239625,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,-0.02679999999999999,0.2857,0.3125
-2022-01-25 23:31:28.502527,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Cameroon,-0.02779999999999999,0.2222,0.25
+2022-01-26 12:30:59.001696,England Premier League Season 2021/2022 - England Premier League 2021/22 - Straight Forecast,Man City/Man Utd,-0.0286,0.0099,0.0385
 2022-01-26 10:30:48.109919,League Two - England League Two 2021/22 - To Be Promoted,Sutton Utd,-0.030299999999999994,0.3333,0.3636
 2022-01-26 10:30:47.921247,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Aberdeen,-0.03330000000000001,0.0667,0.1
 2022-01-26 10:30:47.944430,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Motherwell,-0.03409999999999999,0.2326,0.2667
@@ -103,8 +106,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-26 05:31:00.690115,NFL Specials - Will Tom Brady Play Week 1 of the 2022/2023 Regular Season? - Outright,Yes,-0.04039999999999999,0.7778,0.8182
 2022-01-26 10:30:47.959877,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Aberdeen,-0.04169999999999996,0.8333,0.875
 2022-01-26 11:30:47.536274,Boxing Lines - Papazov F. vs Akzhol sulaimanbek uulu - To Win the Bout,Papazov F.,-0.04250000000000009,0.7222,0.7647
+2022-01-26 12:30:59.025094,England Premier League Season 2021/2022 - England Premier League 2021/22 - Lowest Scoring Team,Brighton & Hove Albion,-0.047099999999999996,0.0196,0.0667
+2022-01-26 12:30:59.025094,England Premier League Season 2021/2022 - England Premier League 2021/22 - Lowest Scoring Team,Southampton,-0.0476,0.005,0.0526
 2022-01-26 09:31:02.275425,England Championship - England Championship 21/22 - To Be Promoted,Queens Park Rangers,-0.05310000000000001,0.2326,0.2857
 2022-01-26 09:31:02.291878,England Championship - England Championship 21/22 - Top 2 Finish,Queens Park Rangers,-0.05679999999999999,0.125,0.1818
+2022-01-26 12:30:56.763956,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Ron DeSantis,-0.05710000000000001,0.1429,0.2
 2022-01-26 09:31:02.308746,England Championship - England Championship 21/22 - Top 6 Finish,Stoke City,-0.057699999999999974,0.25,0.3077
 2022-01-26 04:30:44.420850,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.07790000000000008,0.6364,0.7143
+2022-01-26 12:30:59.025094,England Premier League Season 2021/2022 - England Premier League 2021/22 - Lowest Scoring Team,Newcastle United,-0.08170000000000001,0.0294,0.1111
+2022-01-26 12:30:59.001696,England Premier League Season 2021/2022 - England Premier League 2021/22 - Straight Forecast,Liverpool/Chelsea,-0.08510000000000001,0.0149,0.1
+2022-01-26 12:30:59.001696,England Premier League Season 2021/2022 - England Premier League 2021/22 - Straight Forecast,Man City/Chelsea,-0.09029999999999999,0.2222,0.3125
 2022-01-26 09:31:02.308746,England Championship - England Championship 21/22 - Top 6 Finish,Queens Park Rangers,-0.0948,0.6552,0.75
+2022-01-26 12:30:59.001696,England Premier League Season 2021/2022 - England Premier League 2021/22 - Straight Forecast,Chelsea/Liverpool,-0.11359999999999999,0.004,0.1176
+2022-01-26 12:30:59.025094,England Premier League Season 2021/2022 - England Premier League 2021/22 - Lowest Scoring Team,Brentford,-0.15439999999999998,0.0123,0.1667
+2022-01-26 12:30:59.025094,England Premier League Season 2021/2022 - England Premier League 2021/22 - Lowest Scoring Team,Watford,-0.1706,0.0294,0.2
+2022-01-26 12:30:59.001696,England Premier League Season 2021/2022 - England Premier League 2021/22 - Straight Forecast,Chelsea/Man City,-0.2227,0.0099,0.2326
