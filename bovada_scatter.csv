@@ -1,8 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-27 06:30:43.793598,NBA Specials - Where will Ben Simmons play after the 2022 NBA Trade Deadline? - Outright,Philadelphia 76ers,0.3929,0.75,0.3571
 2022-01-27 04:30:59.179801,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,0.06420000000000001,0.2309,0.1667
-2022-01-27 09:30:58.313023,England Championship - England Championship 21/22 - Top 2 Finish,Bournemouth,0.04760000000000003,0.5238,0.4762
 2022-01-27 09:30:58.530487,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,St. Johnstone,0.04760000000000003,0.5238,0.4762
+2022-01-27 09:30:58.313023,England Championship - England Championship 21/22 - Top 2 Finish,Bournemouth,0.04760000000000003,0.5238,0.4762
 2022-01-27 09:30:58.547656,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Dundee United,0.044499999999999984,0.2667,0.2222
 2022-01-27 09:30:58.448654,Serie B - Italy Serie B 2021/22 - Outright,Lecce,0.044399999999999995,0.4444,0.4
 2022-01-27 05:31:04.033730,College Season Props - Odds to win 2022 Heisman Trophy - Outright,Caleb Williams,0.042899999999999994,0.1429,0.1
@@ -26,8 +26,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-27 11:31:26.618846,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Senegal,0.021999999999999964,0.3077,0.2857
 2022-01-27 08:30:44.321933,NFL Specials - Conference Finals Specials - Total Points Scored  in Conference Finals ,Under 100.5,0.02169999999999994,0.5455,0.5238
 2022-01-27 07:30:41.339785,NFL Specials - Conference Finals Specials - Most Passing Yards in Conference Finals ,Patrick Mahomes (KC),0.02100000000000002,0.3846,0.3636
-2022-01-27 09:30:58.288358,England Championship - England Championship 21/22 - Top Goalscorer,Aleksandar Mitrovic (Fulham),0.020299999999999985,0.9615,0.9412
 2022-01-27 09:30:58.300837,England Championship - England Championship 21/22 - To Be Promoted,Fulham,0.020299999999999985,0.9615,0.9412
+2022-01-27 09:30:58.288358,England Championship - England Championship 21/22 - Top Goalscorer,Aleksandar Mitrovic (Fulham),0.020299999999999985,0.9615,0.9412
 2022-01-27 09:30:58.325516,England Championship - England Championship 21/22 - Top 6 Finish,Preston North End,0.018200000000000004,0.0476,0.0294
 2022-01-27 06:30:43.998454,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Johnny Davis,0.0179,0.1429,0.125
 2022-01-27 08:30:43.800108,Boxing Lines - Papazov F. vs Akzhol sulaimanbek uulu - To Win the Bout,Akzhol sulaimanbek uulu,0.017600000000000005,0.3509,0.3333
@@ -44,6 +44,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-27 07:30:41.345485,NFL Specials - Conference Finals Specials - Most Points Scored in Conference Finals - Home Vs Away,Home Teams -10.5,0.010099999999999998,0.5556,0.5455
 2022-01-27 09:30:58.521748,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Motherwell,-0.0102,0.0667,0.0769
 2022-01-27 07:30:41.345485,NFL Specials - Conference Finals Specials - Most Points Scored in Conference Finals - Home Vs Away,Away Teams +10.5,-0.010699999999999932,0.5348,0.5455
+2022-01-27 12:30:47.107043,Boxing Lines - Sergio Gabriel Martinez vs Macaulay McGowan - To Win the Bout,Macaulay McGowan,-0.010899999999999993,0.1429,0.1538
 2022-01-27 09:30:58.448654,Serie B - Italy Serie B 2021/22 - Outright,Pisa,-0.011099999999999999,0.1,0.1111
 2022-01-27 04:30:59.191586,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,-0.012300000000000089,0.9681,0.9804
 2022-01-27 06:30:43.793598,NBA Specials - Where will Ben Simmons play after the 2022 NBA Trade Deadline? - Outright,Indiana Pacers,-0.014099999999999994,0.0526,0.0667
