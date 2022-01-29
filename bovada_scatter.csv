@@ -5,6 +5,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-28 15:31:18.522336,Boxing Lines - Pavel Shulsky vs Daniyal Elbaev - To Win the Bout,Pavel Shulsky,0.06040000000000001,0.7826,0.7222
 2022-01-28 22:30:50.834707,NBA Specials - Where will Goran Dragic play after the 2022 NBA Trade Deadline? - Outright,Dallas Mavericks,0.05710000000000001,0.2,0.1429
 2022-01-28 18:30:53.114880,Boxing Lines - Pawel Brach vs Rostislav Kravchenko - To Win the Bout,Pawel Brach,0.05689999999999995,0.5917,0.5348
+2022-01-29 01:30:48.688938,England Championship - England Championship 21/22 - Outright,Fulham,0.05559999999999998,0.8889,0.8333
 2022-01-28 15:31:18.936525,Boxing Lines - Rene Tellez Giron vs Luis Melendez - To Win the Bout,Rene Tellez Giron,0.04930000000000001,0.7826,0.7333
 2022-01-28 13:30:56.047675,NFL Specials - Conference Finals Specials - Most Rushing Yards in Conference Finals ,Deebo Samuel SF,0.048100000000000004,0.125,0.0769
 2022-01-28 18:30:53.099523,Boxing Lines - Michal Loniewski vs Ben Ehis - To Win the Bout,Michal Loniewski,0.045499999999999985,0.5,0.4545
@@ -29,7 +30,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-28 22:30:49.382110,Boxing Lines - Rene Tellez Giron vs Luis Melendez - To Win the Bout,Rene Tellez Giron,0.024500000000000077,0.8182,0.7937
 2022-01-28 22:30:50.834707,NBA Specials - Where will Goran Dragic play after the 2022 NBA Trade Deadline? - Outright,Cleveland Cavaliers,0.023799999999999988,0.1667,0.1429
 2022-01-28 22:30:50.848176,NBA Specials - Where will James Harden Play Game 1 of the 2022-23 NBA Season? - Outright,Brooklyn Nets,0.022199999999999998,0.8,0.7778
-2022-01-28 11:31:06.931614,94th Academy Awards - Odds to win Best Actress - Outright,Olivia Colman (The Lost Daughter),0.022199999999999998,0.2222,0.2
 2022-01-28 18:30:53.053625,Boxing Lines - Damian Durkacz vs Magomed Schachidov - To Win the Bout,Damian Durkacz,0.017899999999999916,0.7826,0.7647
 2022-01-28 22:30:49.394017,Boxing Lines - Robson Conceicao vs Martinez Xavier - To Win the Bout,Martinez Xavier,0.017299999999999982,0.5917,0.5744
 2022-01-28 22:30:49.309157,Boxing Lines - Pawel Brach vs Rostislav Kravchenko - To Win the Bout,Pawel Brach,0.016100000000000003,0.6078,0.5917
@@ -44,26 +44,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-28 18:30:53.160713,Boxing Lines - Rene Tellez Giron vs Luis Melendez - To Win the Bout,Rene Tellez Giron,0.011099999999999999,0.7937,0.7826
 2022-01-28 22:30:50.903577,NBA Specials - Where will Thaddeus Young play after the 2022 NBA Trade Deadline? - Outright,Phoenix Suns,0.0102,0.0769,0.0667
 2022-01-28 13:30:55.239158,Boxing Lines - Ilunga Makubu vs Thabiso Mchunu - To Win the Bout,Thabiso Mchunu,-0.010099999999999998,0.4444,0.4545
-2022-01-28 11:31:07.802139,Boxing Lines - Robson Conceicao vs Martinez Xavier - To Win the Bout,Martinez Xavier,-0.010099999999999998,0.5816,0.5917
 2022-01-28 22:30:50.848176,NBA Specials - Where will James Harden Play Game 1 of the 2022-23 NBA Season? - Outright,Boston Celtics,-0.0102,0.0667,0.0769
-2022-01-28 22:30:50.887674,NBA Specials - Where will Myles Turner play after the 2022 NBA Trade Deadline? - Outright,Dallas Mavericks,-0.0102,0.0667,0.0769
 2022-01-28 22:30:50.848176,NBA Specials - Where will James Harden Play Game 1 of the 2022-23 NBA Season? - Outright,Dallas Mavericks,-0.0102,0.0667,0.0769
+2022-01-28 22:30:50.887674,NBA Specials - Where will Myles Turner play after the 2022 NBA Trade Deadline? - Outright,Dallas Mavericks,-0.0102,0.0667,0.0769
 2022-01-28 22:30:49.927460,NFL Specials - Will Davante Adams Play Week 1 of the 2022/2023 Regular Season? - Outright,Pittsburgh Steelers,-0.0102,0.0667,0.0769
 2022-01-28 13:30:56.010681,NFL Specials - Conference Finals Specials - Most Passing Yards in Conference Finals ,Matthew Stafford (LAR),-0.011099999999999999,0.2667,0.2778
 2022-01-28 22:30:51.299628,A-League - Australia A-League 2021/2022 - Grand Final Winner,Western United,-0.011199999999999995,0.0476,0.0588
 2022-01-28 15:31:18.564848,Boxing Lines - Papazov F. vs Akzhol sulaimanbek uulu - To Win the Bout,Papazov F.,-0.011499999999999955,0.6552,0.6667
 2022-01-28 22:30:49.394017,Boxing Lines - Robson Conceicao vs Martinez Xavier - To Win the Bout,Robson Conceicao,-0.0116,0.4762,0.4878
+2022-01-29 01:30:48.688938,England Championship - England Championship 21/22 - Outright,Bournemouth,-0.012299999999999991,0.1053,0.1176
 2022-01-28 23:31:03.654683,Boxing Lines - Rene Tellez Giron vs Luis Melendez - To Win the Bout,Rene Tellez Giron,-0.012400000000000078,0.8058,0.8182
 2022-01-28 17:31:00.188131,CFL - Odds to win 109th (2022) Grey Cup - Outright,Hamilton Tiger-Cats,-0.012899999999999995,0.1538,0.1667
-2022-01-28 11:31:06.931614,94th Academy Awards - Odds to win Best Actress - Outright,Lady Gaga (House of Gucci),-0.013999999999999999,0.0769,0.0909
 2022-01-28 22:30:50.903577,NBA Specials - Where will Thaddeus Young play after the 2022 NBA Trade Deadline? - Outright,Minnesota Timberwolves,-0.013999999999999999,0.0769,0.0909
 2022-01-28 13:30:56.047675,NFL Specials - Conference Finals Specials - Most Rushing Yards in Conference Finals ,Patrick Mahomes II KC,-0.014899999999999997,0.0476,0.0625
-2022-01-28 11:31:06.904741,94th Academy Awards - Odds to win Best Actor - Outright,Benedict Cumberbatch (The Power of the Dog),-0.015100000000000002,0.1667,0.1818
 2022-01-28 17:31:00.188131,CFL - Odds to win 109th (2022) Grey Cup - Outright,Saskatchewan Roughriders,-0.01820000000000002,0.1818,0.2
 2022-01-28 22:30:50.887674,NBA Specials - Where will Myles Turner play after the 2022 NBA Trade Deadline? - Outright,Oklahoma City Thunder,-0.02020000000000001,0.0909,0.1111
 2022-01-28 18:30:53.053625,Boxing Lines - Damian Durkacz vs Magomed Schachidov - To Win the Bout,Magomed Schachidov,-0.021299999999999986,0.2817,0.303
 2022-01-28 22:30:49.309157,Boxing Lines - Pawel Brach vs Rostislav Kravchenko - To Win the Bout,Rostislav Kravchenko,-0.021699999999999997,0.4545,0.4762
-2022-01-28 11:31:06.904741,94th Academy Awards - Odds to win Best Actor - Outright,Will Smith (King Richard),-0.02200000000000002,0.6923,0.7143
 2022-01-28 22:30:49.900647,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Pittsburgh Steelers,-0.023799999999999988,0.1429,0.1667
 2022-01-28 15:31:18.690780,Boxing Lines - Mateusz Bereznicki vs Simonas Urbonavicius - To Win the Bout,Simonas Urbonavicius,-0.023800000000000016,0.1667,0.1905
 2022-01-28 22:30:49.382110,Boxing Lines - Rene Tellez Giron vs Luis Melendez - To Win the Bout,Luis Melendez,-0.02400000000000002,0.25,0.274
@@ -80,8 +77,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-28 22:30:49.178812,Boxing Lines - Tomasz Niedzwiecki vs Jan Lauk - To Win the Bout,Jan Lauk,-0.032299999999999995,0.3125,0.3448
 2022-01-28 15:31:18.544070,Boxing Lines - Vyacheslav Datsik vs Zelimkhan Dukaev - To Win the Bout,Vyacheslav Datsik,-0.03390000000000004,0.7222,0.7561
 2022-01-28 22:30:49.232985,Boxing Lines - Jakub Slominski vs Christopher Goman - To Win the Bout,Christopher Goman,-0.0348,0.4,0.4348
-2022-01-28 22:30:49.927460,NFL Specials - Will Davante Adams Play Week 1 of the 2022/2023 Regular Season? - Outright,Green Bay Packers,-0.03639999999999999,0.6,0.6364
 2022-01-28 13:30:55.567085,Grammy Awards 2022 - Grammy 2022 Song of the Year Winner - Outright,Olivia Rodrigo - Drivers License,-0.03639999999999999,0.6,0.6364
+2022-01-28 22:30:49.927460,NFL Specials - Will Davante Adams Play Week 1 of the 2022/2023 Regular Season? - Outright,Green Bay Packers,-0.03639999999999999,0.6,0.6364
 2022-01-28 22:30:50.834707,NBA Specials - Where will Goran Dragic play after the 2022 NBA Trade Deadline? - Outright,Los Angeles Clippers,-0.03889999999999999,0.1429,0.1818
 2022-01-28 18:30:53.076552,Boxing Lines - Mateusz Bereznicki vs Simonas Urbonavicius - To Win the Bout,Simonas Urbonavicius,-0.04169999999999999,0.125,0.1667
 2022-01-28 18:30:53.099523,Boxing Lines - Michal Loniewski vs Ben Ehis - To Win the Bout,Ben Ehis,-0.04259999999999997,0.5652,0.6078
