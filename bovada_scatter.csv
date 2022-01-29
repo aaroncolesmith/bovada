@@ -1,46 +1,39 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-28 22:30:50.887674,NBA Specials - Where will Myles Turner play after the 2022 NBA Trade Deadline? - Outright,Indiana Pacers,0.06669999999999998,0.6667,0.6
 2022-01-28 22:30:50.834707,NBA Specials - Where will Goran Dragic play after the 2022 NBA Trade Deadline? - Outright,Dallas Mavericks,0.05710000000000001,0.2,0.1429
-2022-01-28 18:30:53.114880,Boxing Lines - Pawel Brach vs Rostislav Kravchenko - To Win the Bout,Pawel Brach,0.05689999999999995,0.5917,0.5348
 2022-01-29 01:30:48.688938,England Championship - England Championship 21/22 - Outright,Fulham,0.05559999999999998,0.8889,0.8333
-2022-01-28 18:30:53.099523,Boxing Lines - Michal Loniewski vs Ben Ehis - To Win the Bout,Michal Loniewski,0.045499999999999985,0.5,0.4545
 2022-01-28 22:30:49.232985,Boxing Lines - Jakub Slominski vs Christopher Goman - To Win the Bout,Jakub Slominski,0.03709999999999991,0.6667,0.6296
 2022-01-28 22:30:49.284892,Boxing Lines - Michal Loniewski vs Ben Ehis - To Win the Bout,Michal Loniewski,0.03480000000000005,0.5348,0.5
-2022-01-28 18:30:53.076552,Boxing Lines - Mateusz Bereznicki vs Simonas Urbonavicius - To Win the Bout,Mateusz Bereznicki,0.033299999999999996,0.9333,0.9
 2022-01-28 22:30:49.369244,Boxing Lines - Ilunga Makubu vs Thabiso Mchunu - To Win the Bout,Thabiso Mchunu,0.031799999999999995,0.4762,0.4444
 2022-01-28 22:30:49.900647,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Denver Broncos,0.030399999999999983,0.5652,0.5348
 2022-01-28 22:30:49.927460,NFL Specials - Will Davante Adams Play Week 1 of the 2022/2023 Regular Season? - Outright,Denver Broncos,0.030299999999999994,0.3636,0.3333
-2022-01-28 18:30:53.038368,Boxing Lines - Tomasz Niedzwiecki vs Jan Lauk - To Win the Bout,Tomasz Niedzwiecki,0.029899999999999927,0.7222,0.6923
 2022-01-28 22:30:49.178812,Boxing Lines - Tomasz Niedzwiecki vs Jan Lauk - To Win the Bout,Tomasz Niedzwiecki,0.027800000000000047,0.75,0.7222
 2022-01-28 22:30:49.382110,Boxing Lines - Rene Tellez Giron vs Luis Melendez - To Win the Bout,Rene Tellez Giron,0.024500000000000077,0.8182,0.7937
 2022-01-28 22:30:50.834707,NBA Specials - Where will Goran Dragic play after the 2022 NBA Trade Deadline? - Outright,Cleveland Cavaliers,0.023799999999999988,0.1667,0.1429
 2022-01-28 22:30:50.848176,NBA Specials - Where will James Harden Play Game 1 of the 2022-23 NBA Season? - Outright,Brooklyn Nets,0.022199999999999998,0.8,0.7778
-2022-01-28 18:30:53.053625,Boxing Lines - Damian Durkacz vs Magomed Schachidov - To Win the Bout,Damian Durkacz,0.017899999999999916,0.7826,0.7647
 2022-01-28 22:30:49.394017,Boxing Lines - Robson Conceicao vs Martinez Xavier - To Win the Bout,Martinez Xavier,0.017299999999999982,0.5917,0.5744
 2022-01-28 22:30:49.309157,Boxing Lines - Pawel Brach vs Rostislav Kravchenko - To Win the Bout,Pawel Brach,0.016100000000000003,0.6078,0.5917
 2022-01-28 22:30:49.940309,NFL Specials - Will Tom Brady Play Week 1 of the 2022/2023 Regular Season? - Outright,No,0.016000000000000014,0.4082,0.3922
 2022-01-28 22:30:49.333324,Boxing Lines - Nico Ali Walsh vs Jeremiah yeager - To Win the Bout,Nico Ali Walsh,0.014900000000000024,0.9804,0.9655
+2022-01-29 07:30:41.874148,Boxing Lines - Giovanni Cabrera vs Rafael Reyes - To Win the Bout,Giovanni Cabrera,0.014100000000000001,0.9756,0.9615
 2022-01-28 23:31:03.654683,Boxing Lines - Rene Tellez Giron vs Luis Melendez - To Win the Bout,Luis Melendez,0.01319999999999999,0.2632,0.25
 2022-01-28 19:31:05.820908,Boxing Lines - Robson Conceicao vs Martinez Xavier - To Win the Bout,Robson Conceicao,0.0116,0.4878,0.4762
-2022-01-28 18:30:53.160713,Boxing Lines - Rene Tellez Giron vs Luis Melendez - To Win the Bout,Rene Tellez Giron,0.011099999999999999,0.7937,0.7826
 2022-01-28 22:30:50.903577,NBA Specials - Where will Thaddeus Young play after the 2022 NBA Trade Deadline? - Outright,Phoenix Suns,0.0102,0.0769,0.0667
 2022-01-28 22:30:50.848176,NBA Specials - Where will James Harden Play Game 1 of the 2022-23 NBA Season? - Outright,Boston Celtics,-0.0102,0.0667,0.0769
-2022-01-28 22:30:50.848176,NBA Specials - Where will James Harden Play Game 1 of the 2022-23 NBA Season? - Outright,Dallas Mavericks,-0.0102,0.0667,0.0769
-2022-01-28 22:30:50.887674,NBA Specials - Where will Myles Turner play after the 2022 NBA Trade Deadline? - Outright,Dallas Mavericks,-0.0102,0.0667,0.0769
 2022-01-28 22:30:49.927460,NFL Specials - Will Davante Adams Play Week 1 of the 2022/2023 Regular Season? - Outright,Pittsburgh Steelers,-0.0102,0.0667,0.0769
+2022-01-28 22:30:50.887674,NBA Specials - Where will Myles Turner play after the 2022 NBA Trade Deadline? - Outright,Dallas Mavericks,-0.0102,0.0667,0.0769
+2022-01-28 22:30:50.848176,NBA Specials - Where will James Harden Play Game 1 of the 2022-23 NBA Season? - Outright,Dallas Mavericks,-0.0102,0.0667,0.0769
 2022-01-28 22:30:51.299628,A-League - Australia A-League 2021/2022 - Grand Final Winner,Western United,-0.011199999999999995,0.0476,0.0588
 2022-01-28 22:30:49.394017,Boxing Lines - Robson Conceicao vs Martinez Xavier - To Win the Bout,Robson Conceicao,-0.0116,0.4762,0.4878
 2022-01-29 01:30:48.688938,England Championship - England Championship 21/22 - Outright,Bournemouth,-0.012299999999999991,0.1053,0.1176
 2022-01-28 23:31:03.654683,Boxing Lines - Rene Tellez Giron vs Luis Melendez - To Win the Bout,Rene Tellez Giron,-0.012400000000000078,0.8058,0.8182
 2022-01-28 22:30:50.903577,NBA Specials - Where will Thaddeus Young play after the 2022 NBA Trade Deadline? - Outright,Minnesota Timberwolves,-0.013999999999999999,0.0769,0.0909
 2022-01-28 22:30:50.887674,NBA Specials - Where will Myles Turner play after the 2022 NBA Trade Deadline? - Outright,Oklahoma City Thunder,-0.02020000000000001,0.0909,0.1111
-2022-01-28 18:30:53.053625,Boxing Lines - Damian Durkacz vs Magomed Schachidov - To Win the Bout,Magomed Schachidov,-0.021299999999999986,0.2817,0.303
 2022-01-28 22:30:49.309157,Boxing Lines - Pawel Brach vs Rostislav Kravchenko - To Win the Bout,Rostislav Kravchenko,-0.021699999999999997,0.4545,0.4762
 2022-01-28 22:30:49.900647,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Pittsburgh Steelers,-0.023799999999999988,0.1429,0.1667
 2022-01-28 22:30:49.382110,Boxing Lines - Rene Tellez Giron vs Luis Melendez - To Win the Bout,Luis Melendez,-0.02400000000000002,0.25,0.274
 2022-01-28 22:30:50.834707,NBA Specials - Where will Goran Dragic play after the 2022 NBA Trade Deadline? - Outright,Philadelphia 76ers,-0.0242,0.0667,0.0909
 2022-01-28 22:30:50.834707,NBA Specials - Where will Goran Dragic play after the 2022 NBA Trade Deadline? - Outright,New York Knicks,-0.025300000000000003,0.1176,0.1429
-2022-01-28 18:30:53.038368,Boxing Lines - Tomasz Niedzwiecki vs Jan Lauk - To Win the Bout,Jan Lauk,-0.02560000000000001,0.3448,0.3704
 2022-01-28 22:30:49.284892,Boxing Lines - Michal Loniewski vs Ben Ehis - To Win the Bout,Ben Ehis,-0.030399999999999983,0.5348,0.5652
 2022-01-28 22:30:49.369244,Boxing Lines - Ilunga Makubu vs Thabiso Mchunu - To Win the Bout,Ilunga Makabu,-0.03090000000000004,0.5917,0.6226
 2022-01-28 22:30:50.887674,NBA Specials - Where will Myles Turner play after the 2022 NBA Trade Deadline? - Outright,San Antonio Spurs,-0.031799999999999995,0.1111,0.1429
@@ -49,6 +42,3 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-28 22:30:49.232985,Boxing Lines - Jakub Slominski vs Christopher Goman - To Win the Bout,Christopher Goman,-0.0348,0.4,0.4348
 2022-01-28 22:30:49.927460,NFL Specials - Will Davante Adams Play Week 1 of the 2022/2023 Regular Season? - Outright,Green Bay Packers,-0.03639999999999999,0.6,0.6364
 2022-01-28 22:30:50.834707,NBA Specials - Where will Goran Dragic play after the 2022 NBA Trade Deadline? - Outright,Los Angeles Clippers,-0.03889999999999999,0.1429,0.1818
-2022-01-28 18:30:53.076552,Boxing Lines - Mateusz Bereznicki vs Simonas Urbonavicius - To Win the Bout,Simonas Urbonavicius,-0.04169999999999999,0.125,0.1667
-2022-01-28 18:30:53.099523,Boxing Lines - Michal Loniewski vs Ben Ehis - To Win the Bout,Ben Ehis,-0.04259999999999997,0.5652,0.6078
-2022-01-28 18:30:53.114880,Boxing Lines - Pawel Brach vs Rostislav Kravchenko - To Win the Bout,Rostislav Kravchenko,-0.05860000000000004,0.4762,0.5348
