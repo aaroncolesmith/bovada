@@ -29,11 +29,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-30 16:30:51.577196,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Cleveland Cavaliers,0.03420000000000001,0.9231,0.8889
 2022-01-30 13:31:04.389368,League One - England League One 2021/22 - To Finish Bottom,Crewe Alexandra,0.033300000000000024,0.2,0.1667
 2022-01-30 13:31:04.372503,League One - England League One 2021/22 - To Be Promoted,Rotherham Utd,0.033299999999999996,0.8333,0.8
-2022-01-30 13:31:04.381350,League One - England League One 2021/22 - To Be Relegated,Crewe Alexandra,0.03180000000000005,0.8889,0.8571
 2022-01-30 13:31:04.271122,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hearts,0.03180000000000005,0.8889,0.8571
+2022-01-30 13:31:04.381350,League One - England League One 2021/22 - To Be Relegated,Crewe Alexandra,0.03180000000000005,0.8889,0.8571
 2022-01-30 13:31:04.381350,League One - England League One 2021/22 - To Be Relegated,Gillingham,0.029299999999999993,0.9524,0.9231
-2022-01-30 16:30:51.844505,NBL - NBL 2021/22 - Outright,Perth Wildcats,0.02779999999999999,0.25,0.2222
 2022-01-30 16:30:51.844505,NBL - NBL 2021/22 - Outright,SE Melbourne Phoenix,0.02779999999999999,0.25,0.2222
+2022-01-30 16:30:51.844505,NBL - NBL 2021/22 - Outright,Perth Wildcats,0.02779999999999999,0.25,0.2222
+2022-01-31 00:30:45.503402,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Los Angeles Rams,0.027700000000000002,0.4444,0.4167
 2022-01-30 13:31:04.287066,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Motherwell,0.02739999999999998,0.2941,0.2667
 2022-01-30 23:30:48.538761,England Championship - England Championship 21/22 - Top 6 Finish,Sheffield United,0.025499999999999967,0.4255,0.4
 2022-01-30 23:30:48.488280,England Championship - England Championship 21/22 - Outright,Bournemouth,0.023799999999999988,0.1667,0.1429
@@ -52,9 +53,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-30 17:30:50.865538,Boxing Lines - Keith Thurman vs Mario Barrios - To Win the Bout,Keith Thurman,0.011499999999999955,0.6667,0.6552
 2022-01-30 13:31:04.295625,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Ross County,0.011199999999999995,0.0588,0.0476
 2022-01-30 23:30:48.456786,A-League - Australia A-League 2021/2022 - Grand Final Winner,Adelaide United,0.011199999999999995,0.0588,0.0476
-2022-01-30 13:31:04.397950,League One - England League One 2021/22 - Top 2 Finish,Oxford United,0.011199999999999995,0.0588,0.0476
-2022-01-30 23:30:48.456786,A-League - Australia A-League 2021/2022 - Grand Final Winner,Western United,0.011199999999999995,0.0588,0.0476
 2022-01-30 13:31:04.397950,League One - England League One 2021/22 - Top 2 Finish,Milton Keynes Dons,0.011199999999999995,0.0588,0.0476
+2022-01-30 23:30:48.456786,A-League - Australia A-League 2021/2022 - Grand Final Winner,Western United,0.011199999999999995,0.0588,0.0476
+2022-01-30 13:31:04.397950,League One - England League One 2021/22 - Top 2 Finish,Oxford United,0.011199999999999995,0.0588,0.0476
 2022-01-30 22:30:41.024421,NFL Futures - SUPER BOWL 56 (2022) - Odds to Win - Super Bowl 56 Winner,Los Angeles Rams,0.010699999999999987,0.3333,0.3226
 2022-01-30 13:31:04.295625,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,St. Mirren,0.010399999999999993,0.2326,0.2222
 2022-01-30 16:30:51.408170,Celebrity Big Brother - Celebrity Big Brother 2022 - Odds to Win,Chris Kirkpatrick,0.0102,0.0769,0.0667
@@ -73,8 +74,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-30 23:30:48.456786,A-League - Australia A-League 2021/2022 - Grand Final Winner,Central Coast Mariners,-0.015300000000000001,0.0435,0.0588
 2022-01-30 23:30:48.538761,England Championship - England Championship 21/22 - Top 6 Finish,Nottingham Forest,-0.017600000000000005,0.3333,0.3509
 2022-01-30 13:31:04.397950,League One - England League One 2021/22 - Top 2 Finish,Ipswich Town,-0.017800000000000003,0.0066,0.0244
-2022-01-30 13:31:04.389368,League One - England League One 2021/22 - To Finish Bottom,Morecambe,-0.018200000000000004,0.0294,0.0476
 2022-01-30 13:31:04.439221,League Two - England League Two 2021/22 - Top Goalscorer,Aaron Drinan (Leyton Orient),-0.018200000000000004,0.0294,0.0476
+2022-01-30 13:31:04.389368,League One - England League One 2021/22 - To Finish Bottom,Morecambe,-0.018200000000000004,0.0294,0.0476
 2022-01-30 16:30:51.061253,Grammy Awards 2022 - Grammy 2022 - Best New Artist Winner - Outright,The Kid Laroi,-0.01820000000000002,0.1818,0.2
 2022-01-30 19:32:23.303596,Boxing Lines - Amir Khan vs Kell Brook - To Win the Bout,Amir Khan,-0.018900000000000028,0.4255,0.4444
 2022-01-30 16:30:51.844505,NBL - NBL 2021/22 - Outright,Melbourne United,-0.019000000000000017,0.2667,0.2857
