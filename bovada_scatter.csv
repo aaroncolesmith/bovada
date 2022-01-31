@@ -20,6 +20,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-31 09:31:30.662493,Serie B - Italy Serie B 2021/22 - Outright,Frosinone,0.02020000000000001,0.1111,0.0909
 2022-01-31 12:31:07.117066,Super Bowl Specials - Super Bowl Specials - Will there be an onside kick attempt in the game?,No,0.019499999999999962,0.6491,0.6296
 2022-01-31 16:33:11.023105,Super Bowl Specials - Super Bowl Specials - Will there be a Missed PAT Conversion?,No,0.018999999999999906,0.7333,0.7143
+2022-01-31 18:31:23.670260,Super Bowl Specials - Super Bowl Specials - How Many Players will have a passing attempt?,Under 2.5,0.01880000000000004,0.5744,0.5556
 2022-01-31 12:31:06.219680,Super Bowl Specials - Super Bowl Specials - Any player to have 125+ receiving yards,Yes,0.01880000000000004,0.5744,0.5556
 2022-01-31 12:31:07.049376,Super Bowl Specials - Super Bowl Specials - Will there be a flea flicker attempt in the game?,No,0.015900000000000025,0.7778,0.7619
 2022-01-31 13:31:00.178407,94th Academy Awards - Odds to win Best Actor - Outright,Benedict Cumberbatch (The Power of the Dog),0.015100000000000002,0.1818,0.1667
@@ -33,17 +34,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-31 12:31:05.651110,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Silk Sonic - Leave the Door Open,0.0131,0.2353,0.2222
 2022-01-31 12:31:05.680980,Grammy Awards 2022 - Grammy 2022 Song of the Year Winner - Outright,Silk Sonic - Leave the Door Open,0.011099999999999999,0.1111,0.1
 2022-01-31 11:31:16.900543,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Field,0.010300000000000087,0.7436,0.7333
-2022-01-31 12:31:06.413954,Super Bowl Specials - Super Bowl Specials - Los Angeles Rams Special Teams & Defensive TDs Scored,Over 1.5,0.0102,0.0769,0.0667
 2022-01-31 12:31:06.231249,Super Bowl Specials - Super Bowl Specials - Cincinnati Bengals Special Teams & Defensive TDs Scored,Over 1.5,0.0102,0.0769,0.0667
+2022-01-31 12:31:06.413954,Super Bowl Specials - Super Bowl Specials - Los Angeles Rams Special Teams & Defensive TDs Scored,Over 1.5,0.0102,0.0769,0.0667
 2022-01-31 09:31:30.594298,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,RB Leipzig,0.010099999999999998,0.4545,0.4444
 2022-01-31 12:31:06.273247,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,No,-0.010199999999999987,0.8948,0.905
-2022-01-31 11:31:16.900543,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Joe Biden,-0.010699999999999987,0.3226,0.3333
 2022-01-31 11:31:16.921329,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Joe Biden,-0.010699999999999987,0.3226,0.3333
+2022-01-31 11:31:16.900543,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Joe Biden,-0.010699999999999987,0.3226,0.3333
 2022-01-31 09:31:30.594298,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,Freiburg,-0.010899999999999993,0.1429,0.1538
+2022-01-31 11:31:16.986586,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Kamala Harris,-0.011099999999999999,0.1,0.1111
 2022-01-31 09:31:30.662493,Serie B - Italy Serie B 2021/22 - Outright,Cremonese,-0.011099999999999999,0.1,0.1111
 2022-01-31 11:31:16.943130,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Nikki Haley,-0.011099999999999999,0.1,0.1111
 2022-01-31 17:31:05.233509,Super Bowl Specials - Super Bowl Specials - Will the First Half End in a Tie,Yes,-0.011099999999999999,0.1,0.1111
-2022-01-31 11:31:16.986586,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Kamala Harris,-0.011099999999999999,0.1,0.1111
 2022-01-31 12:31:05.602548,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Kanye West - Donda,-0.011199999999999995,0.0476,0.0588
 2022-01-31 12:31:05.602548,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Billie Eilish - Happier Than Ever,-0.011899999999999994,0.2381,0.25
 2022-01-31 12:31:07.057793,Super Bowl Specials - Super Bowl Specials - Will there be a Missed PAT Conversion?,Yes,-0.012699999999999989,0.3509,0.3636
@@ -64,6 +65,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-31 12:31:05.531464,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Democratic,-0.023799999999999988,0.4762,0.5
 2022-01-31 09:31:30.594298,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,ST Pauli,-0.0242,0.0667,0.0909
 2022-01-31 12:31:06.219680,Super Bowl Specials - Super Bowl Specials - Any player to have 125+ receiving yards,No,-0.024399999999999977,0.4878,0.5122
+2022-01-31 18:31:23.670260,Super Bowl Specials - Super Bowl Specials - How Many Players will have a passing attempt?,Over 2.5,-0.024399999999999977,0.4878,0.5122
 2022-01-31 17:31:05.246043,Super Bowl Specials - Super Bowl Specials - Will the First Quarter End in a Tie,No,-0.03080000000000005,0.7874,0.8182
 2022-01-31 14:30:49.547588,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,-0.033299999999999996,0.5122,0.5455
 2022-01-31 14:30:49.911270,VTB United League - VTB United League 2021/22 - Outright,CSKA Moscow,-0.033299999999999996,0.8,0.8333
