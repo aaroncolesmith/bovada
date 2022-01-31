@@ -3,33 +3,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-31 09:31:30.458652,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Egypt,0.3015,0.4444,0.1429
 2022-01-31 09:31:30.458652,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Cameroon,0.21089999999999998,0.6364,0.4255
 2022-01-31 09:31:30.458652,Africa Cup of Nations - Africa Cup of Nations 2021 - To Reach the Final,Burkina Faso,0.1428,0.2857,0.1429
+2022-01-31 16:33:10.283726,Super Bowl Specials - Super Bowl Specials - Commercial To Play First,QuickBooks (Intuit),0.1318999999999999,0.6667,0.5348
 2022-01-31 14:30:49.560599,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.1111,0.2222,0.1111
-2022-01-31 04:30:49.349031,Super Bowl Specials - Super Bowl Specials - Will a non-QB throw a touchdown?,No,0.06930000000000003,0.8519,0.7826
 2022-01-31 09:31:30.729701,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,FC Porto,0.06670000000000009,0.8,0.7333
 2022-01-31 09:31:30.594298,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,Union Berlin,0.05550000000000002,0.2222,0.1667
 2022-01-31 14:30:49.547588,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,0.033300000000000024,0.2,0.1667
-2022-01-31 14:30:49.911270,VTB United League - VTB United League 2021/22 - Outright,Zenit Saint Petersburg,0.031799999999999995,0.1429,0.1111
 2022-01-31 14:30:49.911270,VTB United League - VTB United League 2021/22 - Outright,UNICS Kazan,0.031799999999999995,0.1429,0.1111
+2022-01-31 14:30:49.911270,VTB United League - VTB United League 2021/22 - Outright,Zenit Saint Petersburg,0.031799999999999995,0.1429,0.1111
 2022-01-31 14:30:49.547588,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,0.027500000000000024,0.3846,0.3571
-2022-01-31 04:30:49.286965,Super Bowl Specials - Super Bowl Specials - What Will be the The longest score of game?,Field Goal,0.024399999999999977,0.5122,0.4878
 2022-01-31 12:31:06.368223,Super Bowl Specials - Super Bowl Specials - How many times will the chains be used for measurement?,Under 1.5,0.02169999999999994,0.5455,0.5238
 2022-01-31 07:30:51.820319,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Olivia Rodrigo - Drivers License,0.020799999999999985,0.3333,0.3125
 2022-01-31 12:31:06.697688,Super Bowl Specials - Super Bowl Specials - Total Punts in the Game,Over 6.5,0.02079999999999993,0.5556,0.5348
 2022-01-31 09:31:30.662493,Serie B - Italy Serie B 2021/22 - Outright,Frosinone,0.02020000000000001,0.1111,0.0909
-2022-01-31 04:30:49.059722,Super Bowl Specials - Super Bowl Specials - Shortest TD Scored,Under 1.5 Yards,0.01970000000000005,0.5652,0.5455
 2022-01-31 12:31:07.117066,Super Bowl Specials - Super Bowl Specials - Will there be an onside kick attempt in the game?,No,0.019499999999999962,0.6491,0.6296
+2022-01-31 16:33:11.023105,Super Bowl Specials - Super Bowl Specials - Will there be a Missed PAT Conversion?,No,0.018999999999999906,0.7333,0.7143
 2022-01-31 12:31:06.219680,Super Bowl Specials - Super Bowl Specials - Any player to have 125+ receiving yards,Yes,0.01880000000000004,0.5744,0.5556
 2022-01-31 12:31:07.049376,Super Bowl Specials - Super Bowl Specials - Will there be a flea flicker attempt in the game?,No,0.015900000000000025,0.7778,0.7619
-2022-01-31 13:31:00.178407,94th Academy Awards - Odds to win Best Actor - Outright,Benedict Cumberbatch (The Power of the Dog),0.015100000000000002,0.1818,0.1667
 2022-01-31 09:31:30.441157,Africa Cup of Nations - Africa Cup of Nations 2021 - Top Goalscorer,Karl Toko Ekambi,0.015100000000000002,0.1818,0.1667
+2022-01-31 13:31:00.178407,94th Academy Awards - Odds to win Best Actor - Outright,Benedict Cumberbatch (The Power of the Dog),0.015100000000000002,0.1818,0.1667
 2022-01-31 11:31:16.875548,"Political Specials - Will Joe Biden be impeached by June 30, 2023? - Outright",No,0.01430000000000009,0.8182,0.8039
 2022-01-31 12:31:06.273247,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,Yes,0.013899999999999996,0.1739,0.16
 2022-01-31 13:31:00.193711,94th Academy Awards - Odds to win Best Actress - Outright,Jessica Chastain (The Eyes of Tammy Faye),0.013899999999999996,0.125,0.1111
-2022-01-31 04:30:48.342385,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Lil Nas X - Montero,0.013899999999999996,0.125,0.1111
 2022-01-31 09:31:25.275874,Boxing Lines - Keith Thurman vs Mario Barrios - To Win the Bout,Mario Barrios,0.013500000000000012,0.4167,0.4032
 2022-01-31 12:31:05.651110,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Silk Sonic - Leave the Door Open,0.0131,0.2353,0.2222
 2022-01-31 12:31:05.622393,Grammy Awards 2022 - Grammy 2022 - Best New Artist Winner - Outright,Glass Animals,0.0131,0.0476,0.0345
-2022-01-31 04:30:48.830746,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,Yes,0.011899999999999994,0.16,0.1481
 2022-01-31 12:31:05.680980,Grammy Awards 2022 - Grammy 2022 Song of the Year Winner - Outright,Silk Sonic - Leave the Door Open,0.011099999999999999,0.1111,0.1
 2022-01-31 11:31:16.900543,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Field,0.010300000000000087,0.7436,0.7333
 2022-01-31 12:31:06.413954,Super Bowl Specials - Super Bowl Specials - Los Angeles Rams Special Teams & Defensive TDs Scored,Over 1.5,0.0102,0.0769,0.0667
@@ -39,30 +36,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-31 11:31:16.921329,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Joe Biden,-0.010699999999999987,0.3226,0.3333
 2022-01-31 11:31:16.900543,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Joe Biden,-0.010699999999999987,0.3226,0.3333
 2022-01-31 09:31:30.594298,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,Freiburg,-0.010899999999999993,0.1429,0.1538
-2022-01-31 11:31:16.986586,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Kamala Harris,-0.011099999999999999,0.1,0.1111
-2022-01-31 11:31:16.943130,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Nikki Haley,-0.011099999999999999,0.1,0.1111
 2022-01-31 09:31:30.662493,Serie B - Italy Serie B 2021/22 - Outright,Cremonese,-0.011099999999999999,0.1,0.1111
+2022-01-31 11:31:16.943130,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Nikki Haley,-0.011099999999999999,0.1,0.1111
+2022-01-31 11:31:16.986586,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Kamala Harris,-0.011099999999999999,0.1,0.1111
 2022-01-31 12:31:05.602548,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Kanye West - Donda,-0.011199999999999995,0.0476,0.0588
-2022-01-31 04:30:48.862209,Super Bowl Specials - Super Bowl Specials - First Score Method,Touchdown,-0.011499999999999955,0.6552,0.6667
-2022-01-31 04:30:48.830746,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,No,-0.011699999999999933,0.905,0.9167
 2022-01-31 12:31:05.602548,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Billie Eilish - Happier Than Ever,-0.011899999999999994,0.2381,0.25
 2022-01-31 12:31:07.057793,Super Bowl Specials - Super Bowl Specials - Will there be a Missed PAT Conversion?,Yes,-0.012699999999999989,0.3509,0.3636
 2022-01-31 12:31:07.049376,Super Bowl Specials - Super Bowl Specials - Will there be a flea flicker attempt in the game?,Yes,-0.0131,0.2899,0.303
 2022-01-31 11:31:16.875548,"Political Specials - Will Joe Biden be impeached by June 30, 2023? - Outright",Yes,-0.01319999999999999,0.25,0.2632
 2022-01-31 09:31:30.729701,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Benfica,-0.013899999999999996,0.1111,0.125
-2022-01-31 05:30:50.406258,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Tampa Bay Buccaneers,-0.014399999999999996,0.0625,0.0769
 2022-01-31 13:31:00.228005,94th Academy Awards - Odds to win Best Picture - Outright,King Richard,-0.014399999999999996,0.0625,0.0769
+2022-01-31 05:30:50.406258,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Tampa Bay Buccaneers,-0.014399999999999996,0.0625,0.0769
 2022-01-31 11:31:16.986586,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Joe Biden,-0.015100000000000002,0.1667,0.1818
 2022-01-31 12:31:05.622393,Grammy Awards 2022 - Grammy 2022 - Best New Artist Winner - Outright,The Kid Laroi,-0.015100000000000002,0.1667,0.1818
 2022-01-31 13:31:00.193711,94th Academy Awards - Odds to win Best Actress - Outright,Olivia Colman (The Lost Daughter),-0.016699999999999993,0.25,0.2667
+2022-01-31 16:33:11.023105,Super Bowl Specials - Super Bowl Specials - Will there be a Missed PAT Conversion?,Yes,-0.017600000000000005,0.3333,0.3509
 2022-01-31 12:31:07.117066,Super Bowl Specials - Super Bowl Specials - Will there be an onside kick attempt in the game?,Yes,-0.018100000000000005,0.4167,0.4348
-2022-01-31 04:30:49.286965,Super Bowl Specials - Super Bowl Specials - What Will be the The longest score of game?,Touchdown,-0.01880000000000004,0.5556,0.5744
 2022-01-31 12:31:05.651110,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Olivia Rodrigo - Drivers License,-0.020799999999999985,0.3125,0.3333
 2022-01-31 12:31:06.368223,Super Bowl Specials - Super Bowl Specials - How many times will the chains be used for measurement?,Over 1.5,-0.02169999999999994,0.5238,0.5455
 2022-01-31 11:31:16.986586,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Donald Trump Sr.,-0.021999999999999964,0.2857,0.3077
 2022-01-31 12:31:06.697688,Super Bowl Specials - Super Bowl Specials - Total Punts in the Game,Under 6.5,-0.022600000000000064,0.5122,0.5348
 2022-01-31 12:31:05.531464,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Democratic,-0.023799999999999988,0.4762,0.5
-2022-01-31 04:30:49.059722,Super Bowl Specials - Super Bowl Specials - Shortest TD Scored,Over 1.5 Yards,-0.023800000000000043,0.5,0.5238
 2022-01-31 09:31:30.594298,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,ST Pauli,-0.0242,0.0667,0.0909
 2022-01-31 12:31:06.219680,Super Bowl Specials - Super Bowl Specials - Any player to have 125+ receiving yards,No,-0.024399999999999977,0.4878,0.5122
 2022-01-31 14:30:49.547588,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,-0.033299999999999996,0.5122,0.5455
@@ -70,6 +64,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-31 13:31:00.228005,94th Academy Awards - Odds to win Best Picture - Outright,West Side Story,-0.0353,0.2,0.2353
 2022-01-31 12:31:05.602548,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Olivia Rodrigo - Sour,-0.03640000000000004,0.3636,0.4
 2022-01-31 09:31:30.729701,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Sporting CP,-0.04999999999999999,0.2,0.25
-2022-01-31 04:30:49.349031,Super Bowl Specials - Super Bowl Specials - Will a non-QB throw a touchdown?,Yes,-0.0683,0.2174,0.2857
 2022-01-31 12:31:05.680980,Grammy Awards 2022 - Grammy 2022 Song of the Year Winner - Outright,Olivia Rodrigo - Drivers License,-0.0915999999999999,0.5238,0.6154
 2022-01-31 14:30:49.560599,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,-0.09529999999999994,0.8333,0.9286
+2022-01-31 16:33:10.283726,Super Bowl Specials - Super Bowl Specials - Commercial To Play First,Taco Bell,-0.13480000000000003,0.4,0.5348
