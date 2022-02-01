@@ -1,5 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-01 04:30:24.267100,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.0635,0.2857,0.2222
+2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Lime/Green/Yellow,0.0635,0.2857,0.2222
+2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Blue,0.04999999999999999,0.25,0.2
 2022-02-01 03:31:23.045466,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Toronto Raptors,0.04089999999999999,0.4255,0.3846
 2022-02-01 04:30:24.308655,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,0.038099999999999995,0.2381,0.2
 2022-02-01 03:31:23.225871,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,0.0353,0.2353,0.2
@@ -10,19 +12,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-01 04:30:24.237222,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.023799999999999988,0.5,0.4762
 2022-02-01 04:30:22.711452,Super Bowl Specials - Super Bowl Specials - Total Sacks in the Game,Over 4.5,0.022600000000000064,0.6226,0.6
 2022-02-01 08:31:04.872742,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Olivia Rodrigo - Drivers License,0.020799999999999985,0.3333,0.3125
+2022-02-01 14:31:18.432720,Super Bowl Specials - Super Bowl Specials - Commercials - How many commercials will have a dog in it,Over 6.5,0.02079999999999993,0.5556,0.5348
 2022-02-01 09:31:03.525203,League One - England League One 2021/22 - Top 6 Finish,Bolton Wanderers,0.018200000000000004,0.0476,0.0294
 2022-02-01 04:30:22.506558,Super Bowl Specials - Super Bowl Specials - National Anthem - Will any scoring drive take less time than it takes to sing the National Anthem?,No,0.017600000000000005,0.3509,0.3333
+2022-02-01 14:31:18.265322,Super Bowl Specials - Super Bowl Specials - Any player to have 125+ receiving yards,Yes,0.017299999999999982,0.5917,0.5744
 2022-02-01 09:31:03.482821,League One - England League One 2021/22 - To Be Promoted,Rotherham Utd,0.012899999999999912,0.8462,0.8333
 2022-02-01 04:30:24.200808,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.012299999999999991,0.1176,0.1053
+2022-02-01 14:31:18.460609,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,Yes,0.011700000000000016,0.2222,0.2105
 2022-02-01 04:30:23.144277,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Oklahoma State,0.011600000000000001,0.0244,0.0128
 2022-02-01 04:30:22.969469,Super Bowl Specials - Super Bowl Specials - Will the First Half End in a Tie,Yes,0.011099999999999999,0.1111,0.1
 2022-02-01 04:30:22.348747,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,Yes,0.010499999999999982,0.2105,0.2
 2022-02-01 04:30:22.248825,Super Bowl Specials - Super Bowl Specials -  Will either kicker hit the upright or crossbar on a missed field goal or extra point attempt?,Yes,0.010399999999999993,0.2326,0.2222
-2022-02-01 06:31:09.492115,League One - England League One 2021/22 - Outright,Sunderland,-0.011099999999999999,0.1,0.1111
+2022-02-01 14:31:18.460609,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,No,-0.01090000000000002,0.8462,0.8571
 2022-02-01 10:30:43.893826,Super Bowl Specials - Super Bowl Specials - First Offensive Play of the Game,Pass Play,-0.011099999999999999,0.4651,0.4762
+2022-02-01 06:31:09.492115,League One - England League One 2021/22 - Outright,Sunderland,-0.011099999999999999,0.1,0.1111
 2022-02-01 09:31:03.482821,League One - England League One 2021/22 - To Be Promoted,Portsmouth,-0.011199999999999995,0.0476,0.0588
 2022-02-01 10:30:43.749156,Super Bowl Specials - Super Bowl Specials - Super Bowl LVI MVP,Matthew Stafford,-0.0116,0.4762,0.4878
+2022-02-01 14:31:18.265322,Super Bowl Specials - Super Bowl Specials - Any player to have 125+ receiving yards,No,-0.0116,0.4762,0.4878
+2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Clear/Water,-0.011700000000000016,0.2105,0.2222
 2022-02-01 04:30:22.248825,Super Bowl Specials - Super Bowl Specials -  Will either kicker hit the upright or crossbar on a missed field goal or extra point attempt?,No,-0.012899999999999912,0.8333,0.8462
+2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Purple,-0.012899999999999995,0.1538,0.1667
 2022-02-01 04:30:22.969469,Super Bowl Specials - Super Bowl Specials - Will the First Half End in a Tie,No,-0.014699999999999935,0.9524,0.9671
 2022-02-01 08:31:07.176271,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Denver Broncos,-0.014899999999999997,0.0476,0.0625
 2022-02-01 04:30:23.144277,NCAAF - 2022-2023 NCAA Championship Winner - Outright,USC,-0.015300000000000001,0.0323,0.0476
@@ -30,6 +39,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-01 04:30:22.506558,Super Bowl Specials - Super Bowl Specials - National Anthem - Will any scoring drive take less time than it takes to sing the National Anthem?,Yes,-0.018999999999999906,0.7143,0.7333
 2022-02-01 04:30:22.711452,Super Bowl Specials - Super Bowl Specials - Total Sacks in the Game,Under 4.5,-0.020699999999999996,0.4444,0.4651
 2022-02-01 04:30:24.237222,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.02169999999999994,0.5238,0.5455
+2022-02-01 14:31:18.432720,Super Bowl Specials - Super Bowl Specials - Commercials - How many commercials will have a dog in it,Under 6.5,-0.022600000000000064,0.5122,0.5348
 2022-02-01 08:31:04.846784,Grammy Awards 2022 - Grammy 2022 - Best New Artist Winner - Outright,The Kid Laroi,-0.023799999999999988,0.1429,0.1667
 2022-02-01 04:30:23.144277,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Texas A&M,-0.024,0.0385,0.0625
 2022-02-01 08:31:05.803655,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,No,-0.024600000000000066,0.7222,0.7468
@@ -38,6 +48,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-01 06:31:09.492115,League One - England League One 2021/22 - Outright,Wigan Athletic,-0.031799999999999995,0.4444,0.4762
 2022-02-01 04:30:24.267100,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,-0.033299999999999996,0.8,0.8333
 2022-02-01 09:31:03.525203,League One - England League One 2021/22 - Top 6 Finish,Portsmouth,-0.033300000000000024,0.1667,0.2
-2022-02-01 08:31:04.872742,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Silk Sonic - Leave the Door Open,-0.0353,0.2,0.2353
 2022-02-01 04:30:24.251806,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.0353,0.2,0.2353
+2022-02-01 08:31:04.872742,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Silk Sonic - Leave the Door Open,-0.0353,0.2,0.2353
 2022-02-01 04:30:24.308655,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.05559999999999998,0.8333,0.8889
