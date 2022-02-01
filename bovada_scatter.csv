@@ -3,43 +3,51 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-01 17:31:06.022866,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,0.09700000000000003,0.4,0.303
 2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Lime/Green/Yellow,0.0635,0.2857,0.2222
 2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Blue,0.04999999999999999,0.25,0.2
+2022-02-01 21:31:07.813145,Super Bowl Specials - Super Bowl Specials - Halftime Show - How many songs will be played during the halftime show?,Over 8.5,0.046600000000000086,0.7436,0.697
 2022-02-01 18:31:16.885218,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Jesse Rodriguez,0.04579999999999995,0.7333,0.6875
 2022-02-01 18:31:16.867993,Boxing Lines - Samuel Antwi vs Conah Walker - To Win the Bout,Samuel Antwi,0.03949999999999998,0.7895,0.75
 2022-02-01 19:30:27.583852,Boxing Lines - Raymond Ford vs Edward Vazquez - To Win the Bout,Raymond Ford,0.031000000000000028,0.8571,0.8261
+2022-02-01 21:31:07.874079,Super Bowl Specials - Super Bowl Specials - How Many Players will have a passing attempt?,Under 2.5,0.025599999999999956,0.6,0.5744
 2022-02-01 19:30:30.767515,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Cleveland Cavaliers,0.024999999999999998,0.0278,0.0028
+2022-02-01 21:31:07.774051,Super Bowl Specials - Super Bowl Specials - Drake Curse - What Teams Jersey will Drake Wear at the Homecoming Event During Super Bowl Weekend,Los Angeles Rams,0.022600000000000064,0.6226,0.6
 2022-02-01 19:30:27.547999,Boxing Lines - Jamie Mitchell vs Carly Skelly - To Win the Bout,Jamie Mitchell,0.022199999999999998,0.8889,0.8667
+2022-02-01 21:31:08.491824,Super Bowl Specials - Super Bowl Specials - Will there be an onside kick attempt in the game?,No,0.022199999999999998,0.6774,0.6552
 2022-02-01 17:31:05.932698,Boxing Lines - Chris Jenkins vs Julius Indongo - To Win the Bout,Chris Jenkins,0.02080000000000004,0.6875,0.6667
+2022-02-01 21:31:08.006809,Super Bowl Specials - Super Bowl Specials - Team to Have Longest Field Goal,Cincinnati Bengals,0.02079999999999993,0.5556,0.5348
 2022-02-01 14:31:18.432720,Super Bowl Specials - Super Bowl Specials - Commercials - How many commercials will have a dog in it,Over 6.5,0.02079999999999993,0.5556,0.5348
 2022-02-01 18:31:16.902454,Boxing Lines - Jamie Mitchell vs Carly Skelly - To Win the Bout,Jamie Mitchell,0.020500000000000074,0.8667,0.8462
-2022-02-01 09:31:03.525203,League One - England League One 2021/22 - Top 6 Finish,Bolton Wanderers,0.018200000000000004,0.0476,0.0294
+2022-02-01 21:31:07.762209,Super Bowl Specials - Super Bowl Specials - Commercials - How many commercials will have a dog in it,Over 6.5,0.01880000000000004,0.5744,0.5556
 2022-02-01 14:31:18.265322,Super Bowl Specials - Super Bowl Specials - Any player to have 125+ receiving yards,Yes,0.017299999999999982,0.5917,0.5744
 2022-02-01 18:31:16.970899,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,0.016699999999999993,0.4167,0.4
 2022-02-01 20:31:24.752535,Boxing Lines - Samuel Antwi vs Conah Walker - To Win the Bout,Samuel Antwi,0.01629999999999998,0.8058,0.7895
 2022-02-01 17:31:05.958837,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Jesse Rodriguez,0.01539999999999997,0.6875,0.6721
 2022-02-01 18:31:16.816107,Boxing Lines - harlem eubank vs Simion V. - To Win the Bout,harlem eubank,0.014100000000000001,0.9615,0.9474
-2022-02-01 09:31:03.482821,League One - England League One 2021/22 - To Be Promoted,Rotherham Utd,0.012899999999999912,0.8462,0.8333
 2022-02-01 14:31:18.460609,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,Yes,0.011700000000000016,0.2222,0.2105
+2022-02-01 21:31:08.257650,Super Bowl Specials - Super Bowl Specials - Will a non-QB throw a touchdown?,Yes,-0.010499999999999982,0.2,0.2105
 2022-02-01 19:30:27.529636,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Carlos Cuadras,-0.010699999999999987,0.3226,0.3333
 2022-02-01 14:31:18.460609,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,No,-0.01090000000000002,0.8462,0.8571
 2022-02-01 10:30:43.893826,Super Bowl Specials - Super Bowl Specials - First Offensive Play of the Game,Pass Play,-0.011099999999999999,0.4651,0.4762
-2022-02-01 09:31:03.482821,League One - England League One 2021/22 - To Be Promoted,Portsmouth,-0.011199999999999995,0.0476,0.0588
-2022-02-01 14:31:18.265322,Super Bowl Specials - Super Bowl Specials - Any player to have 125+ receiving yards,No,-0.0116,0.4762,0.4878
 2022-02-01 10:30:43.749156,Super Bowl Specials - Super Bowl Specials - Super Bowl LVI MVP,Matthew Stafford,-0.0116,0.4762,0.4878
+2022-02-01 14:31:18.265322,Super Bowl Specials - Super Bowl Specials - Any player to have 125+ receiving yards,No,-0.0116,0.4762,0.4878
 2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Clear/Water,-0.011700000000000016,0.2105,0.2222
-2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Purple,-0.012899999999999995,0.1538,0.1667
 2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Red,-0.012899999999999995,0.1538,0.1667
+2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Purple,-0.012899999999999995,0.1538,0.1667
 2022-02-01 17:31:05.958837,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Carlos Cuadras,-0.01479999999999998,0.3774,0.3922
+2022-02-01 21:31:08.491824,Super Bowl Specials - Super Bowl Specials - Will there be an onside kick attempt in the game?,Yes,-0.016000000000000014,0.3922,0.4082
 2022-02-01 19:30:27.547999,Boxing Lines - Jamie Mitchell vs Carly Skelly - To Win the Bout,Carly Skelly,-0.016600000000000004,0.1739,0.1905
 2022-02-01 18:31:16.970899,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Nery Luis,-0.01759999999999995,0.6491,0.6667
-2022-02-01 09:31:03.525203,League One - England League One 2021/22 - Top 6 Finish,Burton Albion,-0.018200000000000004,0.0294,0.0476
 2022-02-01 18:31:16.816107,Boxing Lines - harlem eubank vs Simion V. - To Win the Bout,Simion V.,-0.02020000000000001,0.0909,0.1111
+2022-02-01 21:31:07.774051,Super Bowl Specials - Super Bowl Specials - Drake Curse - What Teams Jersey will Drake Wear at the Homecoming Event During Super Bowl Weekend,Cincinnati Bengals,-0.020699999999999996,0.4444,0.4651
 2022-02-01 19:30:27.583852,Boxing Lines - Raymond Ford vs Edward Vazquez - To Win the Bout,Edward Vazquez,-0.02210000000000001,0.2105,0.2326
 2022-02-01 18:31:16.902454,Boxing Lines - Jamie Mitchell vs Carly Skelly - To Win the Bout,Carly Skelly,-0.022299999999999986,0.1905,0.2128
 2022-02-01 17:31:05.932698,Boxing Lines - Chris Jenkins vs Julius Indongo - To Win the Bout,Julius Indongo,-0.02260000000000001,0.3774,0.4
+2022-02-01 21:31:08.006809,Super Bowl Specials - Super Bowl Specials - Team to Have Longest Field Goal,Los Angeles Rams,-0.022600000000000064,0.5122,0.5348
 2022-02-01 14:31:18.432720,Super Bowl Specials - Super Bowl Specials - Commercials - How many commercials will have a dog in it,Under 6.5,-0.022600000000000064,0.5122,0.5348
-2022-02-01 09:31:03.525203,League One - England League One 2021/22 - Top 6 Finish,Portsmouth,-0.033300000000000024,0.1667,0.2
+2022-02-01 21:31:07.874079,Super Bowl Specials - Super Bowl Specials - How Many Players will have a passing attempt?,Over 2.5,-0.022699999999999998,0.4651,0.4878
+2022-02-01 21:31:07.762209,Super Bowl Specials - Super Bowl Specials - Commercials - How many commercials will have a dog in it,Under 6.5,-0.024399999999999977,0.4878,0.5122
 2022-02-01 18:31:16.867993,Boxing Lines - Samuel Antwi vs Conah Walker - To Win the Bout,Conah Walker,-0.03470000000000001,0.2778,0.3125
 2022-02-01 18:31:16.885218,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Carlos Cuadras,-0.04410000000000003,0.3333,0.3774
+2022-02-01 21:31:07.813145,Super Bowl Specials - Super Bowl Specials - Halftime Show - How many songs will be played during the halftime show?,Under 8.5,-0.04780000000000001,0.3226,0.3704
 2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Orange,-0.0726,0.25,0.3226
 2022-02-01 17:31:06.022866,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Nery Luis,-0.09800000000000009,0.6667,0.7647
 2022-02-01 17:31:05.382088,NFL Specials - Where will Jim Harbaugh be Coaching Game 1 of the 2022/2023 Season - Outright,Michigan Wolverines,-0.5374,0.25,0.7874
