@@ -1,15 +1,13 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-01-31 16:33:10.283726,Super Bowl Specials - Super Bowl Specials - Commercial To Play First,QuickBooks (Intuit),0.1318999999999999,0.6667,0.5348
 2022-01-31 19:31:18.807844,Super Bowl Specials - Super Bowl Specials - Halftime Show - Will any part of Eminems Performace be Censored,Yes,0.0685,0.6429,0.5744
-2022-01-31 16:33:10.256010,Super Bowl Specials - Super Bowl Specials - Commercial To Play First,Irish Spring,0.06519999999999992,0.6,0.5348
 2022-02-01 04:30:24.267100,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.0635,0.2857,0.2222
 2022-02-01 03:31:23.045466,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Toronto Raptors,0.04089999999999999,0.4255,0.3846
 2022-01-31 19:31:19.096129,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Lime/Green/Yellow,0.04040000000000002,0.2222,0.1818
 2022-02-01 04:30:24.308655,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,0.038099999999999995,0.2381,0.2
 2022-01-31 20:32:50.188402,Super Bowl Specials - Super Bowl Specials - Drake Curse - What Teams Jersey will Drake Wear at the Homecoming Event During Super Bowl Weekend,Los Angeles Rams,0.03610000000000002,0.5917,0.5556
 2022-02-01 03:31:23.225871,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,0.0353,0.2353,0.2
+2022-02-01 06:31:09.492115,League One - England League One 2021/22 - Outright,Rotherham Utd,0.031799999999999995,0.4762,0.4444
 2022-02-01 04:30:23.144277,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Georgia,0.031399999999999983,0.2667,0.2353
-2022-01-31 17:31:05.246043,Super Bowl Specials - Super Bowl Specials - Will the First Quarter End in a Tie,Yes,0.02779999999999999,0.2778,0.25
 2022-01-31 19:31:18.931049,Super Bowl Specials - Super Bowl Specials - Shortest TD Scored,Under 1.5 Yards,0.026499999999999968,0.5917,0.5652
 2022-01-31 19:31:19.090171,Super Bowl Specials - Super Bowl Specials - Total Sacks in the Game,Over 4.5,0.025599999999999956,0.6,0.5744
 2022-01-31 22:31:09.043985,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Oscar Tshiebwe,0.024999999999999994,0.125,0.1
@@ -17,51 +15,44 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-01 04:30:22.857162,Super Bowl Specials - Super Bowl Specials - Will Either Team Attempt a 2-PT Conversion?,No,0.023799999999999988,0.5,0.4762
 2022-02-01 04:30:22.711452,Super Bowl Specials - Super Bowl Specials - Total Sacks in the Game,Over 4.5,0.022600000000000064,0.6226,0.6
 2022-01-31 20:32:50.240392,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,Yes,0.021999999999999964,0.3077,0.2857
-2022-01-31 17:31:04.591094,Super Bowl Specials - Super Bowl Specials - How many times will Roger Goodell be shown?,Over 1.5,0.02079999999999993,0.5556,0.5348
 2022-01-31 20:32:50.990055,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Kayvon Thibodeaux,0.019000000000000017,0.2857,0.2667
-2022-01-31 16:33:11.023105,Super Bowl Specials - Super Bowl Specials - Will there be a Missed PAT Conversion?,No,0.018999999999999906,0.7333,0.7143
 2022-01-31 18:31:23.670260,Super Bowl Specials - Super Bowl Specials - How Many Players will have a passing attempt?,Under 2.5,0.01880000000000004,0.5744,0.5556
 2022-01-31 19:31:18.764780,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,Yes,0.01820000000000002,0.2,0.1818
 2022-02-01 04:30:22.506558,Super Bowl Specials - Super Bowl Specials - National Anthem - Will any scoring drive take less time than it takes to sing the National Anthem?,No,0.017600000000000005,0.3509,0.3333
 2022-01-31 20:32:50.990055,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Aidan Hutchinson,0.01479999999999998,0.3922,0.3774
-2022-01-31 17:31:05.233509,Super Bowl Specials - Super Bowl Specials - Will the First Half End in a Tie,No,0.014699999999999935,0.9671,0.9524
 2022-02-01 04:30:24.200808,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.012299999999999991,0.1176,0.1053
 2022-02-01 04:30:23.144277,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Oklahoma State,0.011600000000000001,0.0244,0.0128
 2022-02-01 04:30:22.969469,Super Bowl Specials - Super Bowl Specials - Will the First Half End in a Tie,Yes,0.011099999999999999,0.1111,0.1
 2022-02-01 04:30:22.348747,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,Yes,0.010499999999999982,0.2105,0.2
 2022-02-01 04:30:22.248825,Super Bowl Specials - Super Bowl Specials -  Will either kicker hit the upright or crossbar on a missed field goal or extra point attempt?,Yes,0.010399999999999993,0.2326,0.2222
-2022-01-31 20:32:50.124173,Super Bowl Specials - Super Bowl Specials - Cincinnati Bengals To Score a Safety,Yes,0.0102,0.0769,0.0667
 2022-01-31 20:32:50.356705,Super Bowl Specials - Super Bowl Specials - Los Angeles Rams To Score a Safety,Yes,0.0102,0.0769,0.0667
+2022-01-31 20:32:50.124173,Super Bowl Specials - Super Bowl Specials - Cincinnati Bengals To Score a Safety,Yes,0.0102,0.0769,0.0667
 2022-01-31 22:31:06.900325,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Kansas,-0.0102,0.0667,0.0769
+2022-02-01 06:31:09.492115,League One - England League One 2021/22 - Outright,Sunderland,-0.011099999999999999,0.1,0.1111
 2022-01-31 22:31:07.265215,Super Bowl Specials - Super Bowl Specials - Drake Curse - What Teams Jersey will Drake Wear at the Homecoming Event During Super Bowl Weekend,Cincinnati Bengals,-0.011099999999999999,0.4651,0.4762
-2022-01-31 17:31:05.233509,Super Bowl Specials - Super Bowl Specials - Will the First Half End in a Tie,Yes,-0.011099999999999999,0.1,0.1111
-2022-01-31 22:31:09.043985,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Bennedict Mathurin,-0.011199999999999995,0.0476,0.0588
 2022-01-31 22:31:09.043985,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,E.J. Liddell,-0.011199999999999995,0.0476,0.0588
+2022-01-31 22:31:09.043985,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Bennedict Mathurin,-0.011199999999999995,0.0476,0.0588
 2022-02-01 04:30:22.248825,Super Bowl Specials - Super Bowl Specials -  Will either kicker hit the upright or crossbar on a missed field goal or extra point attempt?,No,-0.012899999999999912,0.8333,0.8462
 2022-01-31 22:31:09.043985,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Johnny Davis,-0.013899999999999996,0.1111,0.125
 2022-02-01 04:30:22.969469,Super Bowl Specials - Super Bowl Specials - Will the First Half End in a Tie,No,-0.014699999999999935,0.9524,0.9671
 2022-01-31 19:31:19.096129,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Red,-0.015100000000000002,0.1667,0.1818
 2022-02-01 04:30:23.144277,NCAAF - 2022-2023 NCAA Championship Winner - Outright,USC,-0.015300000000000001,0.0323,0.0476
-2022-01-31 16:33:11.023105,Super Bowl Specials - Super Bowl Specials - Will there be a Missed PAT Conversion?,Yes,-0.017600000000000005,0.3333,0.3509
 2022-02-01 04:30:22.506558,Super Bowl Specials - Super Bowl Specials - National Anthem - Will any scoring drive take less time than it takes to sing the National Anthem?,Yes,-0.018999999999999906,0.7143,0.7333
 2022-01-31 19:31:18.764780,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,No,-0.019000000000000017,0.8667,0.8857
 2022-02-01 04:30:22.711452,Super Bowl Specials - Super Bowl Specials - Total Sacks in the Game,Under 4.5,-0.020699999999999996,0.4444,0.4651
 2022-02-01 04:30:24.237222,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.02169999999999994,0.5238,0.5455
-2022-01-31 17:31:04.591094,Super Bowl Specials - Super Bowl Specials - How many times will Roger Goodell be shown?,Under 1.5,-0.022600000000000064,0.5122,0.5348
 2022-01-31 19:31:19.090171,Super Bowl Specials - Super Bowl Specials - Total Sacks in the Game,Under 4.5,-0.022699999999999998,0.4651,0.4878
-2022-01-31 22:31:09.043985,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Ochai Agbaji,-0.023799999999999988,0.1429,0.1667
 2022-01-31 19:31:18.931049,Super Bowl Specials - Super Bowl Specials - Shortest TD Scored,Over 1.5 Yards,-0.023799999999999988,0.4762,0.5
+2022-01-31 22:31:09.043985,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Ochai Agbaji,-0.023799999999999988,0.1429,0.1667
 2022-02-01 04:30:23.144277,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Texas A&M,-0.024,0.0385,0.0625
 2022-01-31 18:31:23.670260,Super Bowl Specials - Super Bowl Specials - How Many Players will have a passing attempt?,Over 2.5,-0.024399999999999977,0.4878,0.5122
-2022-01-31 20:32:50.240392,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,No,-0.026499999999999968,0.7561,0.7826
 2022-02-01 04:30:22.857162,Super Bowl Specials - Super Bowl Specials - Will Either Team Attempt a 2-PT Conversion?,Yes,-0.026499999999999968,0.5652,0.5917
+2022-01-31 20:32:50.240392,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,No,-0.026499999999999968,0.7561,0.7826
 2022-02-01 04:30:24.200808,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Cleveland Cavaliers,-0.029500000000000002,0.0028,0.0323
-2022-01-31 17:31:05.246043,Super Bowl Specials - Super Bowl Specials - Will the First Quarter End in a Tie,No,-0.03080000000000005,0.7874,0.8182
+2022-02-01 06:31:09.492115,League One - England League One 2021/22 - Outright,Wigan Athletic,-0.031799999999999995,0.4444,0.4762
 2022-02-01 04:30:24.267100,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,-0.033299999999999996,0.8,0.8333
 2022-01-31 19:31:19.096129,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Purple,-0.033300000000000024,0.1667,0.2
 2022-02-01 04:30:24.251806,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.0353,0.2,0.2353
 2022-01-31 20:32:50.188402,Super Bowl Specials - Super Bowl Specials - Drake Curse - What Teams Jersey will Drake Wear at the Homecoming Event During Super Bowl Weekend,Cincinnati Bengals,-0.035999999999999976,0.4762,0.5122
 2022-02-01 04:30:24.308655,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.05559999999999998,0.8333,0.8889
 2022-01-31 19:31:18.807844,Super Bowl Specials - Super Bowl Specials - Halftime Show - Will any part of Eminems Performace be Censored,No,-0.06230000000000002,0.4255,0.4878
-2022-01-31 16:33:10.256010,Super Bowl Specials - Super Bowl Specials - Commercial To Play First,Sam’s Club,-0.06970000000000004,0.4651,0.5348
-2022-01-31 16:33:10.283726,Super Bowl Specials - Super Bowl Specials - Commercial To Play First,Taco Bell,-0.13480000000000003,0.4,0.5348
