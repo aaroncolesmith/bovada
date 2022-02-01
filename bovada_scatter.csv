@@ -11,12 +11,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-31 19:31:18.931049,Super Bowl Specials - Super Bowl Specials - Shortest TD Scored,Under 1.5 Yards,0.026499999999999968,0.5917,0.5652
 2022-01-31 19:31:19.090171,Super Bowl Specials - Super Bowl Specials - Total Sacks in the Game,Over 4.5,0.025599999999999956,0.6,0.5744
 2022-01-31 22:31:09.043985,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Oscar Tshiebwe,0.024999999999999994,0.125,0.1
-2022-02-01 04:30:24.237222,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.023799999999999988,0.5,0.4762
 2022-02-01 04:30:22.857162,Super Bowl Specials - Super Bowl Specials - Will Either Team Attempt a 2-PT Conversion?,No,0.023799999999999988,0.5,0.4762
+2022-02-01 04:30:24.237222,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.023799999999999988,0.5,0.4762
 2022-02-01 04:30:22.711452,Super Bowl Specials - Super Bowl Specials - Total Sacks in the Game,Over 4.5,0.022600000000000064,0.6226,0.6
 2022-01-31 20:32:50.240392,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,Yes,0.021999999999999964,0.3077,0.2857
 2022-01-31 20:32:50.990055,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Kayvon Thibodeaux,0.019000000000000017,0.2857,0.2667
-2022-01-31 18:31:23.670260,Super Bowl Specials - Super Bowl Specials - How Many Players will have a passing attempt?,Under 2.5,0.01880000000000004,0.5744,0.5556
 2022-01-31 19:31:18.764780,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,Yes,0.01820000000000002,0.2,0.1818
 2022-02-01 04:30:22.506558,Super Bowl Specials - Super Bowl Specials - National Anthem - Will any scoring drive take less time than it takes to sing the National Anthem?,No,0.017600000000000005,0.3509,0.3333
 2022-01-31 20:32:50.990055,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Aidan Hutchinson,0.01479999999999998,0.3922,0.3774
@@ -28,10 +27,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-31 20:32:50.356705,Super Bowl Specials - Super Bowl Specials - Los Angeles Rams To Score a Safety,Yes,0.0102,0.0769,0.0667
 2022-01-31 20:32:50.124173,Super Bowl Specials - Super Bowl Specials - Cincinnati Bengals To Score a Safety,Yes,0.0102,0.0769,0.0667
 2022-01-31 22:31:06.900325,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Kansas,-0.0102,0.0667,0.0769
-2022-02-01 06:31:09.492115,League One - England League One 2021/22 - Outright,Sunderland,-0.011099999999999999,0.1,0.1111
 2022-01-31 22:31:07.265215,Super Bowl Specials - Super Bowl Specials - Drake Curse - What Teams Jersey will Drake Wear at the Homecoming Event During Super Bowl Weekend,Cincinnati Bengals,-0.011099999999999999,0.4651,0.4762
-2022-01-31 22:31:09.043985,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,E.J. Liddell,-0.011199999999999995,0.0476,0.0588
+2022-02-01 06:31:09.492115,League One - England League One 2021/22 - Outright,Sunderland,-0.011099999999999999,0.1,0.1111
 2022-01-31 22:31:09.043985,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Bennedict Mathurin,-0.011199999999999995,0.0476,0.0588
+2022-01-31 22:31:09.043985,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,E.J. Liddell,-0.011199999999999995,0.0476,0.0588
 2022-02-01 04:30:22.248825,Super Bowl Specials - Super Bowl Specials -  Will either kicker hit the upright or crossbar on a missed field goal or extra point attempt?,No,-0.012899999999999912,0.8333,0.8462
 2022-01-31 22:31:09.043985,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Johnny Davis,-0.013899999999999996,0.1111,0.125
 2022-02-01 04:30:22.969469,Super Bowl Specials - Super Bowl Specials - Will the First Half End in a Tie,No,-0.014699999999999935,0.9524,0.9671
@@ -45,9 +44,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-01-31 19:31:18.931049,Super Bowl Specials - Super Bowl Specials - Shortest TD Scored,Over 1.5 Yards,-0.023799999999999988,0.4762,0.5
 2022-01-31 22:31:09.043985,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Ochai Agbaji,-0.023799999999999988,0.1429,0.1667
 2022-02-01 04:30:23.144277,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Texas A&M,-0.024,0.0385,0.0625
-2022-01-31 18:31:23.670260,Super Bowl Specials - Super Bowl Specials - How Many Players will have a passing attempt?,Over 2.5,-0.024399999999999977,0.4878,0.5122
-2022-02-01 04:30:22.857162,Super Bowl Specials - Super Bowl Specials - Will Either Team Attempt a 2-PT Conversion?,Yes,-0.026499999999999968,0.5652,0.5917
 2022-01-31 20:32:50.240392,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,No,-0.026499999999999968,0.7561,0.7826
+2022-02-01 04:30:22.857162,Super Bowl Specials - Super Bowl Specials - Will Either Team Attempt a 2-PT Conversion?,Yes,-0.026499999999999968,0.5652,0.5917
 2022-02-01 04:30:24.200808,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Cleveland Cavaliers,-0.029500000000000002,0.0028,0.0323
 2022-02-01 06:31:09.492115,League One - England League One 2021/22 - Outright,Wigan Athletic,-0.031799999999999995,0.4444,0.4762
 2022-02-01 04:30:24.267100,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,-0.033299999999999996,0.8,0.8333
