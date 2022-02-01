@@ -10,8 +10,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-01 21:31:07.874079,Super Bowl Specials - Super Bowl Specials - How Many Players will have a passing attempt?,Under 2.5,0.025599999999999956,0.6,0.5744
 2022-02-01 19:30:30.767515,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Cleveland Cavaliers,0.024999999999999998,0.0278,0.0028
 2022-02-01 21:31:07.774051,Super Bowl Specials - Super Bowl Specials - Drake Curse - What Teams Jersey will Drake Wear at the Homecoming Event During Super Bowl Weekend,Los Angeles Rams,0.022600000000000064,0.6226,0.6
-2022-02-01 19:30:27.547999,Boxing Lines - Jamie Mitchell vs Carly Skelly - To Win the Bout,Jamie Mitchell,0.022199999999999998,0.8889,0.8667
 2022-02-01 21:31:08.491824,Super Bowl Specials - Super Bowl Specials - Will there be an onside kick attempt in the game?,No,0.022199999999999998,0.6774,0.6552
+2022-02-01 19:30:27.547999,Boxing Lines - Jamie Mitchell vs Carly Skelly - To Win the Bout,Jamie Mitchell,0.022199999999999998,0.8889,0.8667
 2022-02-01 17:31:05.932698,Boxing Lines - Chris Jenkins vs Julius Indongo - To Win the Bout,Chris Jenkins,0.02080000000000004,0.6875,0.6667
 2022-02-01 21:31:08.006809,Super Bowl Specials - Super Bowl Specials - Team to Have Longest Field Goal,Cincinnati Bengals,0.02079999999999993,0.5556,0.5348
 2022-02-01 14:31:18.432720,Super Bowl Specials - Super Bowl Specials - Commercials - How many commercials will have a dog in it,Over 6.5,0.02079999999999993,0.5556,0.5348
@@ -26,12 +26,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-01 21:31:08.257650,Super Bowl Specials - Super Bowl Specials - Will a non-QB throw a touchdown?,Yes,-0.010499999999999982,0.2,0.2105
 2022-02-01 19:30:27.529636,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Carlos Cuadras,-0.010699999999999987,0.3226,0.3333
 2022-02-01 14:31:18.460609,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,No,-0.01090000000000002,0.8462,0.8571
-2022-02-01 10:30:43.893826,Super Bowl Specials - Super Bowl Specials - First Offensive Play of the Game,Pass Play,-0.011099999999999999,0.4651,0.4762
-2022-02-01 10:30:43.749156,Super Bowl Specials - Super Bowl Specials - Super Bowl LVI MVP,Matthew Stafford,-0.0116,0.4762,0.4878
 2022-02-01 14:31:18.265322,Super Bowl Specials - Super Bowl Specials - Any player to have 125+ receiving yards,No,-0.0116,0.4762,0.4878
 2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Clear/Water,-0.011700000000000016,0.2105,0.2222
-2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Red,-0.012899999999999995,0.1538,0.1667
 2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Purple,-0.012899999999999995,0.1538,0.1667
+2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Red,-0.012899999999999995,0.1538,0.1667
 2022-02-01 17:31:05.958837,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Carlos Cuadras,-0.01479999999999998,0.3774,0.3922
 2022-02-01 21:31:08.491824,Super Bowl Specials - Super Bowl Specials - Will there be an onside kick attempt in the game?,Yes,-0.016000000000000014,0.3922,0.4082
 2022-02-01 19:30:27.547999,Boxing Lines - Jamie Mitchell vs Carly Skelly - To Win the Bout,Carly Skelly,-0.016600000000000004,0.1739,0.1905
