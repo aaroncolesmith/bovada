@@ -1,25 +1,31 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-02-01 17:31:05.382088,NFL Specials - Where will Jim Harbaugh be Coaching Game 1 of the 2022/2023 Season - Outright,Minnesota Vikings,0.38530000000000003,0.4762,0.0909
+2022-02-01 17:31:06.022866,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,0.09700000000000003,0.4,0.303
 2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Lime/Green/Yellow,0.0635,0.2857,0.2222
 2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Blue,0.04999999999999999,0.25,0.2
 2022-02-01 06:31:09.492115,League One - England League One 2021/22 - Outright,Rotherham Utd,0.031799999999999995,0.4762,0.4444
 2022-02-01 08:31:05.803655,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,Yes,0.02729999999999999,0.3448,0.3175
+2022-02-01 17:31:05.932698,Boxing Lines - Chris Jenkins vs Julius Indongo - To Win the Bout,Chris Jenkins,0.02080000000000004,0.6875,0.6667
 2022-02-01 08:31:04.872742,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Olivia Rodrigo - Drivers License,0.020799999999999985,0.3333,0.3125
 2022-02-01 14:31:18.432720,Super Bowl Specials - Super Bowl Specials - Commercials - How many commercials will have a dog in it,Over 6.5,0.02079999999999993,0.5556,0.5348
 2022-02-01 09:31:03.525203,League One - England League One 2021/22 - Top 6 Finish,Bolton Wanderers,0.018200000000000004,0.0476,0.0294
 2022-02-01 14:31:18.265322,Super Bowl Specials - Super Bowl Specials - Any player to have 125+ receiving yards,Yes,0.017299999999999982,0.5917,0.5744
+2022-02-01 17:31:05.958837,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Jesse Rodriguez,0.01539999999999997,0.6875,0.6721
 2022-02-01 09:31:03.482821,League One - England League One 2021/22 - To Be Promoted,Rotherham Utd,0.012899999999999912,0.8462,0.8333
 2022-02-01 14:31:18.460609,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,Yes,0.011700000000000016,0.2222,0.2105
 2022-02-01 14:31:18.460609,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,No,-0.01090000000000002,0.8462,0.8571
-2022-02-01 10:30:43.893826,Super Bowl Specials - Super Bowl Specials - First Offensive Play of the Game,Pass Play,-0.011099999999999999,0.4651,0.4762
 2022-02-01 06:31:09.492115,League One - England League One 2021/22 - Outright,Sunderland,-0.011099999999999999,0.1,0.1111
+2022-02-01 10:30:43.893826,Super Bowl Specials - Super Bowl Specials - First Offensive Play of the Game,Pass Play,-0.011099999999999999,0.4651,0.4762
 2022-02-01 09:31:03.482821,League One - England League One 2021/22 - To Be Promoted,Portsmouth,-0.011199999999999995,0.0476,0.0588
-2022-02-01 10:30:43.749156,Super Bowl Specials - Super Bowl Specials - Super Bowl LVI MVP,Matthew Stafford,-0.0116,0.4762,0.4878
 2022-02-01 14:31:18.265322,Super Bowl Specials - Super Bowl Specials - Any player to have 125+ receiving yards,No,-0.0116,0.4762,0.4878
+2022-02-01 10:30:43.749156,Super Bowl Specials - Super Bowl Specials - Super Bowl LVI MVP,Matthew Stafford,-0.0116,0.4762,0.4878
 2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Clear/Water,-0.011700000000000016,0.2105,0.2222
 2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Purple,-0.012899999999999995,0.1538,0.1667
 2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Red,-0.012899999999999995,0.1538,0.1667
+2022-02-01 17:31:05.958837,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Carlos Cuadras,-0.01479999999999998,0.3774,0.3922
 2022-02-01 08:31:07.176271,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Denver Broncos,-0.014899999999999997,0.0476,0.0625
 2022-02-01 09:31:03.525203,League One - England League One 2021/22 - Top 6 Finish,Burton Albion,-0.018200000000000004,0.0294,0.0476
+2022-02-01 17:31:05.932698,Boxing Lines - Chris Jenkins vs Julius Indongo - To Win the Bout,Julius Indongo,-0.02260000000000001,0.3774,0.4
 2022-02-01 14:31:18.432720,Super Bowl Specials - Super Bowl Specials - Commercials - How many commercials will have a dog in it,Under 6.5,-0.022600000000000064,0.5122,0.5348
 2022-02-01 08:31:04.846784,Grammy Awards 2022 - Grammy 2022 - Best New Artist Winner - Outright,The Kid Laroi,-0.023799999999999988,0.1429,0.1667
 2022-02-01 08:31:05.803655,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,No,-0.024600000000000066,0.7222,0.7468
@@ -27,3 +33,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-01 09:31:03.525203,League One - England League One 2021/22 - Top 6 Finish,Portsmouth,-0.033300000000000024,0.1667,0.2
 2022-02-01 08:31:04.872742,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Silk Sonic - Leave the Door Open,-0.0353,0.2,0.2353
 2022-02-01 14:31:18.957565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Orange,-0.0726,0.25,0.3226
+2022-02-01 17:31:06.022866,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Nery Luis,-0.09800000000000009,0.6667,0.7647
+2022-02-01 17:31:05.382088,NFL Specials - Where will Jim Harbaugh be Coaching Game 1 of the 2022/2023 Season - Outright,Michigan Wolverines,-0.5374,0.25,0.7874
