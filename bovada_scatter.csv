@@ -1,6 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-02-01 17:31:05.382088,NFL Specials - Where will Jim Harbaugh be Coaching Game 1 of the 2022/2023 Season - Outright,Minnesota Vikings,0.38530000000000003,0.4762,0.0909
-2022-02-01 17:31:06.022866,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,0.09700000000000003,0.4,0.303
 2022-02-02 02:30:21.977025,Super Bowl Specials - Super Bowl Specials - Will a non-QB throw a touchdown?,No,0.06659999999999999,0.9333,0.8667
 2022-02-02 01:31:48.953046,League One - England League One 2021/22 - Outright,Rotherham Utd,0.04760000000000003,0.5238,0.4762
 2022-02-01 21:31:07.813145,Super Bowl Specials - Super Bowl Specials - Halftime Show - How many songs will be played during the halftime show?,Over 8.5,0.046600000000000086,0.7436,0.697
@@ -12,10 +10,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-01 21:31:07.874079,Super Bowl Specials - Super Bowl Specials - How Many Players will have a passing attempt?,Under 2.5,0.025599999999999956,0.6,0.5744
 2022-02-01 19:30:30.767515,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Cleveland Cavaliers,0.024999999999999998,0.0278,0.0028
 2022-02-01 21:31:07.774051,Super Bowl Specials - Super Bowl Specials - Drake Curse - What Teams Jersey will Drake Wear at the Homecoming Event During Super Bowl Weekend,Los Angeles Rams,0.022600000000000064,0.6226,0.6
+2022-02-01 21:31:08.491824,Super Bowl Specials - Super Bowl Specials - Will there be an onside kick attempt in the game?,No,0.022199999999999998,0.6774,0.6552
 2022-02-01 19:30:27.547999,Boxing Lines - Jamie Mitchell vs Carly Skelly - To Win the Bout,Jamie Mitchell,0.022199999999999998,0.8889,0.8667
 2022-02-02 03:31:09.031677,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Johnny Davis,0.022199999999999998,0.1333,0.1111
-2022-02-01 21:31:08.491824,Super Bowl Specials - Super Bowl Specials - Will there be an onside kick attempt in the game?,No,0.022199999999999998,0.6774,0.6552
-2022-02-01 17:31:05.932698,Boxing Lines - Chris Jenkins vs Julius Indongo - To Win the Bout,Chris Jenkins,0.02080000000000004,0.6875,0.6667
 2022-02-01 21:31:08.006809,Super Bowl Specials - Super Bowl Specials - Team to Have Longest Field Goal,Cincinnati Bengals,0.02079999999999993,0.5556,0.5348
 2022-02-01 18:31:16.902454,Boxing Lines - Jamie Mitchell vs Carly Skelly - To Win the Bout,Jamie Mitchell,0.020500000000000074,0.8667,0.8462
 2022-02-01 21:31:07.762209,Super Bowl Specials - Super Bowl Specials - Commercials - How many commercials will have a dog in it,Over 6.5,0.01880000000000004,0.5744,0.5556
@@ -25,7 +22,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-01 18:31:16.970899,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,0.016699999999999993,0.4167,0.4
 2022-02-02 05:30:53.763336,Boxing Lines - Jamie Mitchell vs Carly Skelly - To Win the Bout,Carly Skelly,0.016600000000000004,0.1905,0.1739
 2022-02-01 20:31:24.752535,Boxing Lines - Samuel Antwi vs Conah Walker - To Win the Bout,Samuel Antwi,0.01629999999999998,0.8058,0.7895
-2022-02-01 17:31:05.958837,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Jesse Rodriguez,0.01539999999999997,0.6875,0.6721
 2022-02-01 18:31:16.816107,Boxing Lines - harlem eubank vs Simion V. - To Win the Bout,harlem eubank,0.014100000000000001,0.9615,0.9474
 2022-02-02 03:31:09.031677,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Kofi Cockburn,0.011099999999999999,0.1111,0.1
 2022-02-02 03:31:09.031677,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Ochai Agbaji,0.010899999999999993,0.1538,0.1429
@@ -35,7 +31,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-01 19:30:27.529636,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Carlos Cuadras,-0.010699999999999987,0.3226,0.3333
 2022-02-02 02:30:20.320788,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,No,-0.012899999999999912,0.8333,0.8462
 2022-02-02 01:31:49.000293,League Two - England League Two 2021/22 - Outright,Newport County,-0.0131,0.0345,0.0476
-2022-02-01 17:31:05.958837,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Carlos Cuadras,-0.01479999999999998,0.3774,0.3922
 2022-02-01 21:31:08.491824,Super Bowl Specials - Super Bowl Specials - Will there be an onside kick attempt in the game?,Yes,-0.016000000000000014,0.3922,0.4082
 2022-02-01 19:30:27.547999,Boxing Lines - Jamie Mitchell vs Carly Skelly - To Win the Bout,Carly Skelly,-0.016600000000000004,0.1739,0.1905
 2022-02-02 05:30:53.790252,Boxing Lines - Raymond Ford vs Edward Vazquez - To Win the Bout,Raymond Ford,-0.016799999999999926,0.8403,0.8571
@@ -45,7 +40,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-01 21:31:07.774051,Super Bowl Specials - Super Bowl Specials - Drake Curse - What Teams Jersey will Drake Wear at the Homecoming Event During Super Bowl Weekend,Cincinnati Bengals,-0.020699999999999996,0.4444,0.4651
 2022-02-01 19:30:27.583852,Boxing Lines - Raymond Ford vs Edward Vazquez - To Win the Bout,Edward Vazquez,-0.02210000000000001,0.2105,0.2326
 2022-02-01 18:31:16.902454,Boxing Lines - Jamie Mitchell vs Carly Skelly - To Win the Bout,Carly Skelly,-0.022299999999999986,0.1905,0.2128
-2022-02-01 17:31:05.932698,Boxing Lines - Chris Jenkins vs Julius Indongo - To Win the Bout,Julius Indongo,-0.02260000000000001,0.3774,0.4
 2022-02-01 21:31:08.006809,Super Bowl Specials - Super Bowl Specials - Team to Have Longest Field Goal,Los Angeles Rams,-0.022600000000000064,0.5122,0.5348
 2022-02-01 21:31:07.874079,Super Bowl Specials - Super Bowl Specials - How Many Players will have a passing attempt?,Over 2.5,-0.022699999999999998,0.4651,0.4878
 2022-02-01 21:31:07.762209,Super Bowl Specials - Super Bowl Specials - Commercials - How many commercials will have a dog in it,Under 6.5,-0.024399999999999977,0.4878,0.5122
@@ -55,5 +49,3 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-02 01:31:48.953046,League One - England League One 2021/22 - Outright,Wigan Athletic,-0.044399999999999995,0.4,0.4444
 2022-02-01 21:31:07.813145,Super Bowl Specials - Super Bowl Specials - Halftime Show - How many songs will be played during the halftime show?,Under 8.5,-0.04780000000000001,0.3226,0.3704
 2022-02-02 02:30:21.977025,Super Bowl Specials - Super Bowl Specials - Will a non-QB throw a touchdown?,Yes,-0.06670000000000001,0.1333,0.2
-2022-02-01 17:31:06.022866,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Nery Luis,-0.09800000000000009,0.6667,0.7647
-2022-02-01 17:31:05.382088,NFL Specials - Where will Jim Harbaugh be Coaching Game 1 of the 2022/2023 Season - Outright,Michigan Wolverines,-0.5374,0.25,0.7874
