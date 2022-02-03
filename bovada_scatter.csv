@@ -1,9 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-03 01:30:53.334292,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Senegal,0.15020000000000006,0.5348,0.3846
 2022-02-03 06:36:49.641526,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Monty Williams (PHO),0.14549999999999996,0.6,0.4545
-2022-02-02 20:31:09.058403,Political Specials - Who will be the next Supreme Court nominee? - Outright,Ketanji Brown Jackson,0.061000000000000054,0.661,0.6
-2022-02-02 20:31:09.058403,Political Specials - Who will be the next Supreme Court nominee? - Outright,J. Michelle Childs,0.05230000000000001,0.3226,0.2703
-2022-02-02 20:31:09.195831,Boxing Lines - Chris Eubank Jr vs Liam Williams - To Win the Bout,Chris Eubank Jr,0.031400000000000095,0.7647,0.7333
 2022-02-03 06:36:49.651566,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Rudy Gobert,0.029600000000000015,0.4,0.3704
 2022-02-03 06:36:49.674865,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Cade Cunningham,0.027999999999999997,0.1818,0.1538
 2022-02-03 06:36:49.810933,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.023799999999999932,0.8571,0.8333
@@ -12,21 +9,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-03 06:36:49.651566,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Jaren Jackson Jr.,0.0208,0.0833,0.0625
 2022-02-03 06:36:49.631921,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,0.020799999999999985,0.3333,0.3125
 2022-02-03 06:36:49.171859,Boxing Lines - Caroline Dubois vs Vaida Masiokaite - To Win the Bout,Caroline Dubois,0.01969999999999994,0.9852,0.9655
-2022-02-02 20:31:10.193545,Super Bowl Specials - Super Bowl Specials - Total Punts in the Game,Over 6.5,0.01880000000000004,0.5744,0.5556
 2022-02-02 23:31:19.177819,Boxing Lines - Daniel Jacobs vs John Ryder - To Win the Bout,John Ryder,0.018100000000000005,0.4348,0.4167
 2022-02-02 22:30:59.312733,Boxing Lines - Jamie Mitchell vs Carly Skelly - To Win the Bout,Jamie Mitchell,0.017900000000000027,0.875,0.8571
 2022-02-03 06:36:49.767032,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,0.015400000000000025,0.4,0.3846
 2022-02-02 22:30:59.337539,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Jesse Rodriguez,0.014700000000000046,0.7647,0.75
 2022-02-03 05:30:53.287607,Boxing Lines - Chris Eubank Jr vs Liam Williams - To Win the Bout,Chris Eubank Jr,0.0131,0.7778,0.7647
 2022-02-03 06:36:49.674865,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Scottie Barnes,0.012899999999999995,0.1667,0.1538
-2022-02-02 19:30:59.793406,Boxing Lines - Samuel Antwi vs Conah Walker - To Win the Bout,Samuel Antwi,0.012400000000000078,0.8182,0.8058
+2022-02-03 08:31:29.471009,Boxing Lines - Ramos Abel vs Lucas SantaMaria - To Win the Bout,Ramos Abel,0.011900000000000022,0.8214,0.8095
 2022-02-03 06:36:49.744854,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,0.010899999999999993,0.1538,0.1429
 2022-02-03 07:30:54.699757,Super Bowl Specials - Super Bowl Specials - Will there be an onside kick attempt in the game?,No,0.010099999999999998,0.6875,0.6774
-2022-02-02 20:31:09.949433,Super Bowl Specials - Super Bowl Specials - Halftime Show - How many songs will be played during the halftime show?,Under 8.5,-0.010099999999999998,0.3125,0.3226
 2022-02-03 06:36:49.777972,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,-0.010399999999999993,0.2222,0.2326
-2022-02-02 20:31:09.058403,Political Specials - Who will be the next Supreme Court nominee? - Outright,Wilhelmina Wright,-0.010600000000000002,0.0217,0.0323
 2022-02-03 06:36:49.641526,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Erik Spoelstra (MIA),-0.011099999999999999,0.1,0.1111
 2022-02-03 06:36:49.767032,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,-0.012199999999999989,0.5,0.5122
+2022-02-03 08:31:29.523138,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Nery Luis,-0.012700000000000045,0.6364,0.6491
 2022-02-03 06:36:49.800051,NBA Futures - 2022 NBA Southeast Division - Division Winner,Miami Heat,-0.014399999999999968,0.9231,0.9375
 2022-02-02 22:30:59.337539,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Carlos Cuadras,-0.014500000000000013,0.303,0.3175
 2022-02-03 07:30:54.699757,Super Bowl Specials - Super Bowl Specials - Will there be an onside kick attempt in the game?,Yes,-0.01479999999999998,0.3774,0.3922
@@ -38,9 +33,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-02 22:30:59.312733,Boxing Lines - Jamie Mitchell vs Carly Skelly - To Win the Bout,Carly Skelly,-0.01999999999999999,0.1905,0.2105
 2022-02-03 06:36:49.641526,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Steve Kerr (GSW),-0.02020000000000001,0.0909,0.1111
 2022-02-03 06:36:49.755501,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.023800000000000043,0.5,0.5238
-2022-02-02 20:31:10.193545,Super Bowl Specials - Super Bowl Specials - Total Punts in the Game,Under 6.5,-0.024399999999999977,0.4878,0.5122
 2022-02-03 06:36:49.810933,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.027600000000000013,0.2105,0.2381
 2022-02-03 06:36:49.631921,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,-0.02779999999999999,0.2222,0.25
-2022-02-02 20:31:09.195831,Boxing Lines - Chris Eubank Jr vs Liam Williams - To Win the Bout,Liam Williams,-0.030299999999999994,0.303,0.3333
 2022-02-03 01:30:53.334292,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Egypt,-0.044499999999999984,0.2222,0.2667
 2022-02-03 06:36:49.651566,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,-0.09999999999999998,0.4,0.5
