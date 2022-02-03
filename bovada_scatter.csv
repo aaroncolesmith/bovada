@@ -21,6 +21,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-03 06:36:49.674865,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Scottie Barnes,0.012899999999999995,0.1667,0.1538
 2022-02-02 19:30:59.793406,Boxing Lines - Samuel Antwi vs Conah Walker - To Win the Bout,Samuel Antwi,0.012400000000000078,0.8182,0.8058
 2022-02-03 06:36:49.744854,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,0.010899999999999993,0.1538,0.1429
+2022-02-03 07:30:54.699757,Super Bowl Specials - Super Bowl Specials - Will there be an onside kick attempt in the game?,No,0.010099999999999998,0.6875,0.6774
 2022-02-02 20:31:09.949433,Super Bowl Specials - Super Bowl Specials - Halftime Show - How many songs will be played during the halftime show?,Under 8.5,-0.010099999999999998,0.3125,0.3226
 2022-02-03 06:36:49.777972,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,-0.010399999999999993,0.2222,0.2326
 2022-02-02 20:31:09.058403,Political Specials - Who will be the next Supreme Court nominee? - Outright,Wilhelmina Wright,-0.010600000000000002,0.0217,0.0323
@@ -28,6 +29,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-03 06:36:49.767032,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,-0.012199999999999989,0.5,0.5122
 2022-02-03 06:36:49.800051,NBA Futures - 2022 NBA Southeast Division - Division Winner,Miami Heat,-0.014399999999999968,0.9231,0.9375
 2022-02-02 22:30:59.337539,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Carlos Cuadras,-0.014500000000000013,0.303,0.3175
+2022-02-03 07:30:54.699757,Super Bowl Specials - Super Bowl Specials - Will there be an onside kick attempt in the game?,Yes,-0.01479999999999998,0.3774,0.3922
 2022-02-03 06:36:49.674865,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Josh Giddey,-0.015300000000000001,0.0323,0.0476
 2022-02-03 05:30:53.287607,Boxing Lines - Chris Eubank Jr vs Liam Williams - To Win the Bout,Liam Williams,-0.017299999999999982,0.2857,0.303
 2022-02-03 06:36:49.651566,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,-0.0179,0.125,0.1429
