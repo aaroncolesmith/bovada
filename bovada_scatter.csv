@@ -41,13 +41,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-03 23:30:52.755344,Super Bowl Specials - Super Bowl Specials - Last Score of the 1st half is a Field Goal,Yes,0.011600000000000055,0.5238,0.5122
 2022-02-03 15:30:48.882683,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Joe Biden,0.010699999999999987,0.3333,0.3226
 2022-02-03 15:30:48.897348,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Joe Biden,0.010699999999999987,0.3333,0.3226
-2022-02-04 01:30:59.184231,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,0.010599999999999998,0.4651,0.4545
 2022-02-03 23:30:51.995107,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,0.010599999999999998,0.4651,0.4545
+2022-02-04 01:30:59.184231,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,0.010599999999999998,0.4651,0.4545
 2022-02-03 23:30:52.916301,Super Bowl Specials - Super Bowl Specials - Total 1st Quarter Made Field Goals ,Over 1.5,0.010499999999999982,0.2105,0.2
 2022-02-03 20:30:57.024344,Super Ligi - Turkey BSL 2021/22 - Outright,Gaziantep,0.010100000000000001,0.0345,0.0244
 2022-02-03 15:30:49.183307,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,0.010099999999999998,0.4545,0.4444
-2022-02-03 23:30:52.755344,Super Bowl Specials - Super Bowl Specials - Last Score of the 1st half is a Field Goal,No,-0.010099999999999998,0.5455,0.5556
 2022-02-03 23:30:53.218066,Super Bowl Specials - Super Bowl Specials - Will there be offsetting penalties called?,Yes,-0.010099999999999998,0.4444,0.4545
+2022-02-03 23:30:52.755344,Super Bowl Specials - Super Bowl Specials - Last Score of the 1st half is a Field Goal,No,-0.010099999999999998,0.5455,0.5556
 2022-02-03 15:30:48.882683,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Field,-0.010300000000000087,0.7333,0.7436
 2022-02-04 00:31:24.957020,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,-0.010599999999999998,0.4545,0.4651
 2022-02-03 15:30:48.897348,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Kamala Harris,-0.010699999999999987,0.3226,0.3333
@@ -55,6 +55,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-03 16:30:56.037938,MLB - 2022 World Series - Outright,Seattle Mariners,-0.010700000000000001,0.0278,0.0385
 2022-02-03 21:30:58.676990,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Ochai Agbaji,-0.010899999999999993,0.1429,0.1538
 2022-02-03 16:30:56.732167,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.01090000000000002,0.8462,0.8571
+2022-02-04 02:31:22.904385,Boxing Lines - Jamie Mitchell vs Carly Skelly - To Win the Bout,Jamie Mitchell,-0.01090000000000002,0.8462,0.8571
 2022-02-03 20:30:56.936750,Japan B League - Japan League B1 2021/22 - Outright,Akita Northern Happinets,-0.011199999999999995,0.0476,0.0588
 2022-02-03 23:30:52.959817,Super Bowl Specials - Super Bowl Specials - Total Punts in the Game,Under 6.5,-0.0116,0.4762,0.4878
 2022-02-03 16:30:55.861104,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Utah,-0.012100000000000001,0.0123,0.0244
@@ -62,9 +63,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-03 16:30:55.887681,College Season Props - Odds to win 2022 Heisman Trophy - Outright,TreVeyon Henderson,-0.012999999999999998,0.0164,0.0294
 2022-02-03 18:30:47.578355,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Georgia,-0.0131,0.2222,0.2353
 2022-02-03 18:30:46.464445,94th Academy Awards - Odds to win Best Director - Outright,Jon M Chu (In the Heights),-0.013999999999999999,0.0769,0.0909
+2022-02-03 16:30:56.037938,MLB - 2022 World Series - Outright,St. Louis Cardinals,-0.014100000000000001,0.0385,0.0526
 2022-02-03 16:30:56.037938,MLB - 2022 World Series - Outright,San Francisco Giants,-0.014100000000000001,0.0385,0.0526
 2022-02-03 20:30:56.936750,Japan B League - Japan League B1 2021/22 - Outright,Hiroshima Dragonflies,-0.014100000000000001,0.0385,0.0526
-2022-02-03 16:30:56.037938,MLB - 2022 World Series - Outright,St. Louis Cardinals,-0.014100000000000001,0.0385,0.0526
 2022-02-03 20:30:55.113195,Boxing Lines - Wallin Otto vs Kamil Sokolowski - To Win the Bout,Kamil Sokolowski,-0.014399999999999996,0.0625,0.0769
 2022-02-03 16:30:56.037938,MLB - 2022 World Series - Outright,Toronto Blue Jays,-0.01440000000000001,0.0909,0.1053
 2022-02-03 16:30:55.861104,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Oklahoma State,-0.0145,0.0099,0.0244
