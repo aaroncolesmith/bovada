@@ -1,9 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-02-04 18:30:56.586052,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
-2022-02-04 16:30:57.387676,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
-2022-02-04 22:30:55.050646,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
 2022-02-04 19:30:55.773276,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
+2022-02-04 16:30:57.387676,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
+2022-02-04 23:30:58.861683,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
+2022-02-04 22:30:55.050646,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
+2022-02-04 18:30:56.586052,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
 2022-02-04 17:30:56.929781,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
+2022-02-04 23:30:58.861683,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.1846,0.3846,0.2
 2022-02-04 22:30:55.050646,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.1846,0.3846,0.2
 2022-02-04 19:30:55.773276,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.1846,0.3846,0.2
 2022-02-04 18:30:56.586052,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.1846,0.3846,0.2
@@ -21,9 +23,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-04 15:31:20.505662,Euroleague - Euroleague 2021/22 - Winner,Barcelona,0.011099999999999999,0.2778,0.2667
 2022-02-04 12:30:54.790173,Super Bowl Specials - Super Bowl Specials - Total Sacks in the Game,Over 4.5,0.010700000000000043,0.6774,0.6667
 2022-02-04 22:30:56.351010,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Jesse Rodriguez,0.010500000000000065,0.8,0.7895
-2022-02-04 15:31:20.059647,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Franz Wagner,0.0102,0.0769,0.0667
 2022-02-04 12:30:55.314589,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,San Francisco 49ers,0.0102,0.0769,0.0667
-2022-02-04 10:31:03.459663,Super Bowl Specials - Super Bowl Specials - Cincinnati Bengals Special Teams & Defensive TDs Scored,Over 1.5,0.010099999999999998,0.1053,0.0952
+2022-02-04 15:31:20.059647,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Franz Wagner,0.0102,0.0769,0.0667
 2022-02-04 16:30:57.517551,Super Bowl Specials - Super Bowl Specials - Los Angeles Rams To Score a Safety,Yes,0.010099999999999998,0.1053,0.0952
 2022-02-04 15:31:20.291838,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.010699999999999987,0.3226,0.3333
 2022-02-04 12:30:54.781596,Super Bowl Specials - Super Bowl Specials - Total Punts in the Game,Under 6.5,-0.011099999999999999,0.4651,0.4762
@@ -32,14 +33,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-04 15:31:20.505662,Euroleague - Euroleague 2021/22 - Winner,Milano,-0.013899999999999996,0.1111,0.125
 2022-02-04 19:30:54.548519,Boxing Lines - Raymond Ford vs Edward Vazquez - To Win the Bout,Edward Vazquez,-0.015100000000000002,0.1667,0.1818
 2022-02-04 22:30:54.979854,Super Bowl Specials - Super Bowl Specials - Commercials - Commercial To Play First,QuickBooks (Intuit),-0.019499999999999962,0.6296,0.6491
-2022-02-04 10:31:03.421012,Super Bowl Specials - Super Bowl Specials - Super Bowl LVI MVP,Matthew Stafford,-0.021699999999999997,0.4545,0.4762
 2022-02-04 12:30:54.799310,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Clear/Water,-0.033300000000000024,0.1667,0.2
 2022-02-04 22:30:55.298284,Super Bowl Specials - Super Bowl Specials - National Anthem - Number of planes during flyover,Under 5,-0.03480000000000005,0.5,0.5348
+2022-02-04 23:30:58.853059,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.1846,0.2,0.3846
 2022-02-04 22:30:55.042144,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.1846,0.2,0.3846
 2022-02-04 19:30:55.761897,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.1846,0.2,0.3846
 2022-02-04 18:30:56.576406,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.1846,0.2,0.3846
 2022-02-04 17:30:56.920033,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.1846,0.2,0.3846
-2022-02-04 19:30:55.761897,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.37,0.3125,0.6825
 2022-02-04 18:30:56.576406,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.37,0.3125,0.6825
-2022-02-04 22:30:55.042144,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.37,0.3125,0.6825
+2022-02-04 23:30:58.853059,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.37,0.3125,0.6825
 2022-02-04 17:30:56.920033,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.37,0.3125,0.6825
+2022-02-04 19:30:55.761897,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.37,0.3125,0.6825
+2022-02-04 22:30:55.042144,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.37,0.3125,0.6825
