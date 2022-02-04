@@ -3,6 +3,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-03 23:30:54.427480,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Senegal,0.11429999999999996,0.6491,0.5348
 2022-02-04 06:31:15.770169,Grammy Awards 2022 - Grammy 2022 Song of the Year Winner - Outright,Billie Eilish - Happier Than Ever,0.11109999999999998,0.3333,0.2222
 2022-02-03 21:30:56.718326,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Auburn,0.0701,0.3333,0.2632
+2022-02-04 06:31:14.500021,Super Bowl Specials - Super Bowl Specials - Commercials - Commercial To Play First,Expedia Group,0.06519999999999992,0.6,0.5348
 2022-02-04 06:31:15.770169,Grammy Awards 2022 - Grammy 2022 Song of the Year Winner - Outright,Silk Sonic - Leave the Door Open,0.05559999999999998,0.1667,0.1111
 2022-02-04 03:30:47.384517,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,0.047599999999999976,0.3333,0.2857
 2022-02-04 03:30:47.209544,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,0.04040000000000002,0.2222,0.1818
@@ -26,7 +27,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-04 06:31:14.559384,Super Bowl Specials - Super Bowl Specials - Drake Curse - What Teams Jersey will Drake Wear at the Homecoming Event During Super Bowl Weekend,Los Angeles Rams,0.015800000000000036,0.6825,0.6667
 2022-02-04 06:31:16.442133,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,0.015300000000000001,0.0476,0.0323
 2022-02-03 20:30:55.161570,Boxing Lines - Samuel Antwi vs Conah Walker - To Win the Bout,Samuel Antwi,0.015100000000000002,0.8333,0.8182
+2022-02-04 07:31:11.522385,Super Bowl Specials - Super Bowl Specials - Who will the Super Bowl MVP mention first in his speech?,Owner,0.014899999999999997,0.0625,0.0476
 2022-02-04 06:31:16.408179,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.01469999999999999,0.25,0.2353
+2022-02-04 07:31:12.229114,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Los Angeles Rams,0.01440000000000001,0.1053,0.0909
 2022-02-03 20:30:55.222327,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Jesse Rodriguez,0.01429999999999998,0.7895,0.7752
 2022-02-03 21:30:56.697604,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Auburn,0.013999999999999999,0.0909,0.0769
 2022-02-04 06:31:16.408179,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.013899999999999996,0.125,0.1111
@@ -35,30 +38,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-03 23:30:53.111281,Super Bowl Specials - Super Bowl Specials - Will Either Team Attempt a 2-PT Conversion?,No,0.012199999999999989,0.5122,0.5
 2022-02-04 06:31:14.571283,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,Yes,0.011899999999999994,0.25,0.2381
 2022-02-03 23:30:52.755344,Super Bowl Specials - Super Bowl Specials - Last Score of the 1st half is a Field Goal,Yes,0.011600000000000055,0.5238,0.5122
-2022-02-04 06:31:16.442133,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.011600000000000055,0.5238,0.5122
 2022-02-04 06:31:14.777672,Super Bowl Specials - Super Bowl Specials - Result of First Coaches Challenge,Play Stands,0.011600000000000055,0.5238,0.5122
+2022-02-04 07:31:11.646181,Super Bowl Specials - Super Bowl Specials - Will Either Team Attempt a 2-PT Conversion?,No,0.011600000000000055,0.5238,0.5122
+2022-02-04 06:31:16.442133,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.011600000000000055,0.5238,0.5122
 2022-02-04 05:30:43.462116,LNB Pro A - LNB Pro A 2021/22 - Outright,Le Mans,0.011199999999999995,0.0588,0.0476
 2022-02-04 06:31:15.770169,Grammy Awards 2022 - Grammy 2022 Song of the Year Winner - Outright,Olivia Rodrigo - Drivers License,0.01100000000000001,0.5348,0.5238
-2022-02-04 01:30:59.184231,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,0.010599999999999998,0.4651,0.4545
 2022-02-03 23:30:51.995107,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,0.010599999999999998,0.4651,0.4545
+2022-02-04 01:30:59.184231,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,0.010599999999999998,0.4651,0.4545
 2022-02-03 23:30:52.916301,Super Bowl Specials - Super Bowl Specials - Total 1st Quarter Made Field Goals ,Over 1.5,0.010499999999999982,0.2105,0.2
 2022-02-03 20:30:57.024344,Super Ligi - Turkey BSL 2021/22 - Outright,Gaziantep,0.010100000000000001,0.0345,0.0244
 2022-02-04 05:30:43.462116,LNB Pro A - LNB Pro A 2021/22 - Outright,Nanterre 92,0.010100000000000001,0.0345,0.0244
 2022-02-04 06:31:15.306687,Super Bowl Specials - Super Bowl Specials - Will there be a Missed PAT Conversion?,No,0.010000000000000009,0.7468,0.7368
+2022-02-04 06:31:14.777672,Super Bowl Specials - Super Bowl Specials - Result of First Coaches Challenge,Play Overturned,-0.010099999999999998,0.5455,0.5556
 2022-02-03 23:30:52.755344,Super Bowl Specials - Super Bowl Specials - Last Score of the 1st half is a Field Goal,No,-0.010099999999999998,0.5455,0.5556
 2022-02-03 23:30:53.218066,Super Bowl Specials - Super Bowl Specials - Will there be offsetting penalties called?,Yes,-0.010099999999999998,0.4444,0.4545
-2022-02-04 06:31:14.777672,Super Bowl Specials - Super Bowl Specials - Result of First Coaches Challenge,Play Overturned,-0.010099999999999998,0.5455,0.5556
 2022-02-04 06:31:15.306687,Super Bowl Specials - Super Bowl Specials - Will there be a Missed PAT Conversion?,Yes,-0.01040000000000002,0.3175,0.3279
 2022-02-04 00:31:24.957020,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,-0.010599999999999998,0.4545,0.4651
 2022-02-04 06:31:15.770169,Grammy Awards 2022 - Grammy 2022 Song of the Year Winner - Outright,Justin Bieber ft. Daniel Ceasar & Giveon - Peaches,-0.010700000000000001,0.0278,0.0385
-2022-02-03 21:30:58.676990,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Ochai Agbaji,-0.010899999999999993,0.1429,0.1538
 2022-02-04 03:30:47.309873,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,-0.010899999999999993,0.1429,0.1538
+2022-02-03 21:30:58.676990,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Ochai Agbaji,-0.010899999999999993,0.1429,0.1538
 2022-02-04 02:31:22.904385,Boxing Lines - Jamie Mitchell vs Carly Skelly - To Win the Bout,Jamie Mitchell,-0.01090000000000002,0.8462,0.8571
 2022-02-03 20:30:56.936750,Japan B League - Japan League B1 2021/22 - Outright,Akita Northern Happinets,-0.011199999999999995,0.0476,0.0588
 2022-02-03 23:30:52.959817,Super Bowl Specials - Super Bowl Specials - Total Punts in the Game,Under 6.5,-0.0116,0.4762,0.4878
 2022-02-04 03:30:47.367145,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,-0.011700000000000016,0.2105,0.2222
 2022-02-04 06:31:16.426107,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,-0.012899999999999995,0.1538,0.1667
 2022-02-03 21:30:58.676990,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Oscar Tshiebwe,-0.012899999999999995,0.1538,0.1667
+2022-02-04 06:31:15.731533,Grammy Awards 2022 - Grammy 2022 - Best New Artist Winner - Outright,Finneas,-0.014100000000000001,0.0385,0.0526
 2022-02-03 20:30:56.936750,Japan B League - Japan League B1 2021/22 - Outright,Hiroshima Dragonflies,-0.014100000000000001,0.0385,0.0526
 2022-02-03 20:30:55.113195,Boxing Lines - Wallin Otto vs Kamil Sokolowski - To Win the Bout,Kamil Sokolowski,-0.014399999999999996,0.0625,0.0769
 2022-02-04 06:31:14.559384,Super Bowl Specials - Super Bowl Specials - Drake Curse - What Teams Jersey will Drake Wear at the Homecoming Event During Super Bowl Weekend,Cincinnati Bengals,-0.015400000000000025,0.3846,0.4
@@ -73,6 +78,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-03 23:30:52.987140,Super Bowl Specials - Super Bowl Specials - What Will be the The longest score of game?,Touchdown,-0.02079999999999993,0.5348,0.5556
 2022-02-03 20:30:57.024344,Super Ligi - Turkey BSL 2021/22 - Outright,Fenerbahce,-0.020799999999999985,0.3125,0.3333
 2022-02-04 06:31:15.750724,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,ABBA - I Still Have Faith in You,-0.0233,0.0152,0.0385
+2022-02-04 07:31:12.229114,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Tampa Bay Buccaneers,-0.024,0.0385,0.0625
 2022-02-04 06:31:14.854789,Super Bowl Specials - Super Bowl Specials - Team to Punt last in the Game,Cincinnati Bengals,-0.024399999999999977,0.4878,0.5122
 2022-02-03 20:30:56.936750,Japan B League - Japan League B1 2021/22 - Outright,Sun Rockers Shibuya,-0.0245,0.0588,0.0833
 2022-02-04 06:31:15.611973,NFL Specials - Who will be the San Francisco 49ers Starting QB for Game 1 of the 2022-2023 Seaosn? - Outright,Trey Lance,-0.024500000000000077,0.9167,0.9412
