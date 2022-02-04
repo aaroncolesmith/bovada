@@ -1,9 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-04 16:30:57.387676,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
 2022-02-04 17:30:56.929781,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
+2022-02-04 18:30:56.586052,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
 2022-02-04 09:30:54.718632,94th Academy Awards - Odds to win Best Actress - Outright,Lady Gaga (House of Gucci),0.2088,0.2857,0.0769
-2022-02-04 17:30:56.929781,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.1846,0.3846,0.2
+2022-02-04 18:30:56.586052,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.1846,0.3846,0.2
 2022-02-04 16:30:57.387676,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.1846,0.3846,0.2
+2022-02-04 17:30:56.929781,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.1846,0.3846,0.2
 2022-02-04 09:30:54.761725,94th Academy Awards - Odds to win Best Picture - Outright,The Power of the Dog,0.11110000000000003,0.4444,0.3333
 2022-02-04 06:31:15.770169,Grammy Awards 2022 - Grammy 2022 Song of the Year Winner - Outright,Billie Eilish - Happier Than Ever,0.11109999999999998,0.3333,0.2222
 2022-02-04 06:31:14.500021,Super Bowl Specials - Super Bowl Specials - Commercials - Commercial To Play First,Expedia Group,0.06519999999999992,0.6,0.5348
@@ -22,8 +24,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-04 06:31:16.426107,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.017299999999999982,0.303,0.2857
 2022-02-04 06:31:14.513448,Super Bowl Specials - Super Bowl Specials - Commercials - Commercial To Play First,Taco Bell,0.016699999999999993,0.4167,0.4
 2022-02-04 06:31:14.559384,Super Bowl Specials - Super Bowl Specials - Drake Curse - What Teams Jersey will Drake Wear at the Homecoming Event During Super Bowl Weekend,Los Angeles Rams,0.015800000000000036,0.6825,0.6667
-2022-02-04 06:31:16.442133,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,0.015300000000000001,0.0476,0.0323
 2022-02-04 09:30:54.702811,94th Academy Awards - Odds to win Best Actor - Outright,Javier Bardem (Being the Ricardos),0.015300000000000001,0.0476,0.0323
+2022-02-04 06:31:16.442133,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,0.015300000000000001,0.0476,0.0323
 2022-02-04 07:31:11.522385,Super Bowl Specials - Super Bowl Specials - Who will the Super Bowl MVP mention first in his speech?,Owner,0.014899999999999997,0.0625,0.0476
 2022-02-04 06:31:16.408179,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.01469999999999999,0.25,0.2353
 2022-02-04 07:31:12.229114,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Los Angeles Rams,0.01440000000000001,0.1053,0.0909
@@ -35,15 +37,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-04 08:31:10.441342,Boxing Lines - Jamie Mitchell vs Carly Skelly - To Win the Bout,Carly Skelly,0.011900000000000022,0.2247,0.2128
 2022-02-04 06:31:14.571283,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,Yes,0.011899999999999994,0.25,0.2381
 2022-02-04 15:31:20.271620,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.011700000000000016,0.2222,0.2105
-2022-02-04 06:31:16.442133,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.011600000000000055,0.5238,0.5122
+2022-02-04 18:30:57.690970,Boxing Lines - Chris Jenkins vs Julius Indongo - To Win the Bout,Chris Jenkins,0.011699999999999933,0.726,0.7143
 2022-02-04 06:31:14.777672,Super Bowl Specials - Super Bowl Specials - Result of First Coaches Challenge,Play Stands,0.011600000000000055,0.5238,0.5122
 2022-02-04 07:31:11.646181,Super Bowl Specials - Super Bowl Specials - Will Either Team Attempt a 2-PT Conversion?,No,0.011600000000000055,0.5238,0.5122
-2022-02-04 15:31:20.505662,Euroleague - Euroleague 2021/22 - Winner,Barcelona,0.011099999999999999,0.2778,0.2667
+2022-02-04 06:31:16.442133,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.011600000000000055,0.5238,0.5122
 2022-02-04 15:31:19.672808,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,0.011099999999999999,0.4762,0.4651
+2022-02-04 15:31:20.505662,Euroleague - Euroleague 2021/22 - Winner,Barcelona,0.011099999999999999,0.2778,0.2667
 2022-02-04 06:31:15.770169,Grammy Awards 2022 - Grammy 2022 Song of the Year Winner - Outright,Olivia Rodrigo - Drivers License,0.01100000000000001,0.5348,0.5238
 2022-02-04 12:30:54.790173,Super Bowl Specials - Super Bowl Specials - Total Sacks in the Game,Over 4.5,0.010700000000000043,0.6774,0.6667
-2022-02-04 12:30:55.314589,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,San Francisco 49ers,0.0102,0.0769,0.0667
 2022-02-04 15:31:20.059647,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Franz Wagner,0.0102,0.0769,0.0667
+2022-02-04 12:30:55.314589,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,San Francisco 49ers,0.0102,0.0769,0.0667
 2022-02-04 16:30:57.517551,Super Bowl Specials - Super Bowl Specials - Los Angeles Rams To Score a Safety,Yes,0.010099999999999998,0.1053,0.0952
 2022-02-04 10:31:03.459663,Super Bowl Specials - Super Bowl Specials - Cincinnati Bengals Special Teams & Defensive TDs Scored,Over 1.5,0.010099999999999998,0.1053,0.0952
 2022-02-04 06:31:15.306687,Super Bowl Specials - Super Bowl Specials - Will there be a Missed PAT Conversion?,No,0.010000000000000009,0.7468,0.7368
@@ -69,8 +72,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-04 06:31:15.750724,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Silk Sonic - Leave the Door Open,-0.01820000000000002,0.1818,0.2
 2022-02-04 09:30:54.702811,94th Academy Awards - Odds to win Best Actor - Outright,Denzel Washington (The Tragedy of Macbeth),-0.019099999999999992,0.0476,0.0667
 2022-02-04 10:31:03.421012,Super Bowl Specials - Super Bowl Specials - Super Bowl LVI MVP,Matthew Stafford,-0.021699999999999997,0.4545,0.4762
-2022-02-04 09:30:54.660768,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Lil Nas X - Montero,-0.022199999999999998,0.1111,0.1333
 2022-02-04 09:30:54.718632,94th Academy Awards - Odds to win Best Actress - Outright,Kristen Stewart (Spencer),-0.022199999999999998,0.2,0.2222
+2022-02-04 09:30:54.660768,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Lil Nas X - Montero,-0.022199999999999998,0.1111,0.1333
 2022-02-04 06:31:15.750724,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,ABBA - I Still Have Faith in You,-0.0233,0.0152,0.0385
 2022-02-04 07:31:12.229114,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Tampa Bay Buccaneers,-0.024,0.0385,0.0625
 2022-02-04 06:31:14.854789,Super Bowl Specials - Super Bowl Specials - Team to Punt last in the Game,Cincinnati Bengals,-0.024399999999999977,0.4878,0.5122
@@ -86,4 +89,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-04 06:31:14.500021,Super Bowl Specials - Super Bowl Specials - Commercials - Commercial To Play First,Booking.com,-0.06970000000000004,0.4651,0.5348
 2022-02-04 09:30:54.718632,94th Academy Awards - Odds to win Best Actress - Outright,Olivia Colman (The Lost Daughter),-0.1071,0.1429,0.25
 2022-02-04 17:30:56.920033,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.1846,0.2,0.3846
+2022-02-04 18:30:56.576406,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.1846,0.2,0.3846
+2022-02-04 18:30:56.576406,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.37,0.3125,0.6825
 2022-02-04 17:30:56.920033,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.37,0.3125,0.6825
