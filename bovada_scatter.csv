@@ -3,37 +3,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-03 13:30:57.620044,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Orange,0.1755,0.4255,0.25
 2022-02-03 23:30:54.427480,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Egypt,0.17459999999999998,0.3968,0.2222
 2022-02-03 15:30:50.195848,Super Bowl Specials - Super Bowl Specials - Commercials - How many commercials will have a dog in it,Under 6.5,0.13489999999999996,0.6,0.4651
-2022-02-03 18:30:46.555236,Star Wars Specials - Will any of these characters appear in 'Andor' on Disney+ - Outright,R2-D2,0.11900000000000002,0.2857,0.1667
 2022-02-03 18:30:46.541529,Star Wars Specials - Will any of these characters appear in 'Ahsoka' on Disney+ - Outright,R2D2,0.11900000000000002,0.2857,0.1667
+2022-02-03 18:30:46.555236,Star Wars Specials - Will any of these characters appear in 'Andor' on Disney+ - Outright,R2-D2,0.11900000000000002,0.2857,0.1667
 2022-02-03 23:30:54.427480,Africa Cup of Nations - Africa Cup of Nations 2021 - Outright,Senegal,0.11429999999999996,0.6491,0.5348
 2022-02-03 21:30:56.718326,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Auburn,0.0701,0.3333,0.2632
-2022-02-03 12:30:42.531980,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Tenerife,0.04620000000000002,0.2,0.1538
 2022-02-03 16:30:56.732167,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,0.03950000000000001,0.25,0.2105
 2022-02-03 16:30:56.709900,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,0.03570000000000001,0.2857,0.25
 2022-02-03 16:30:56.675763,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,0.03480000000000005,0.5348,0.5
 2022-02-03 18:30:47.578355,NCAAF - 2022-2023 NCAA Championship Winner - Outright,NC State,0.0345,0.0385,0.004
-2022-02-03 12:30:42.512826,Euro Cup - Euro Cup 2021/22 - Winner,Joventut,0.03420000000000001,0.1111,0.0769
 2022-02-03 15:30:48.864543,Political Specials - Who will be the next Supreme Court nominee? - Outright,Leondra Kruger,0.033399999999999985,0.1667,0.1333
-2022-02-03 12:30:42.531980,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Tofas,0.03330000000000001,0.1,0.0667
 2022-02-03 13:30:57.529845,Super Bowl Specials - Super Bowl Specials - Team to Punt first in the Game,Cincinnati Bengals,0.030399999999999983,0.5652,0.5348
-2022-02-03 18:30:46.464445,94th Academy Awards - Odds to win Best Director - Outright,Jane Campion (The Power of the Dog,0.027800000000000047,0.7778,0.75
 2022-02-03 16:30:56.582023,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Evan Mobley,0.027800000000000047,0.7778,0.75
+2022-02-03 18:30:46.464445,94th Academy Awards - Odds to win Best Director - Outright,Jane Campion (The Power of the Dog,0.027800000000000047,0.7778,0.75
 2022-02-03 20:30:56.936750,Japan B League - Japan League B1 2021/22 - Outright,Shimane Susanoo Magic,0.027800000000000005,0.1111,0.0833
-2022-02-03 12:30:42.487689,Euroleague - Euroleague 2021/22 - Winner,Real Madrid BC,0.02779999999999999,0.25,0.2222
 2022-02-03 18:30:47.494793,Super Bowl Specials - Super Bowl Specials - Will there be an onside kick attempt in the game?,No,0.026800000000000046,0.7143,0.6875
 2022-02-03 16:30:55.861104,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Alabama,0.02560000000000001,0.3333,0.3077
-2022-02-03 12:30:42.487689,Euroleague - Euroleague 2021/22 - Winner,Milano,0.024999999999999994,0.125,0.1
-2022-02-03 12:30:42.487689,Euroleague - Euroleague 2021/22 - Winner,Zenit Saint Petersburg,0.0245,0.0833,0.0588
 2022-02-03 13:30:57.482125,Super Bowl Specials - Super Bowl Specials - Result of First Coaches Challenge,Play Stands,0.024399999999999977,0.5122,0.4878
 2022-02-03 20:30:56.992332,LKL - LKL 2021/22 - Outright,Panevezio Lietkabelis,0.024299999999999995,0.0588,0.0345
-2022-02-03 12:30:42.531980,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Strasbourg,0.024299999999999995,0.0769,0.0526
-2022-02-03 12:30:42.531980,FIBA Champions League - FIBA Champions League 2021/22 - Outright,BC Oostende,0.023899999999999998,0.0435,0.0196
 2022-02-03 16:30:56.687217,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,0.023800000000000043,0.5238,0.5
 2022-02-03 20:30:56.992332,LKL - LKL 2021/22 - Outright,Zalgiris,0.023799999999999932,0.8571,0.8333
 2022-02-03 13:30:57.318699,Super Bowl Specials - Super Bowl Specials - Drake Curse - What Teams Jersey will Drake Wear at the Homecoming Event During Super Bowl Weekend,Los Angeles Rams,0.023799999999999932,0.6667,0.6429
 2022-02-03 23:30:52.987140,Super Bowl Specials - Super Bowl Specials - What Will be the The longest score of game?,Field Goal,0.022600000000000064,0.5348,0.5122
-2022-02-03 16:30:56.687217,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,0.022199999999999998,0.2222,0.2
 2022-02-03 21:30:58.676990,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Kofi Cockburn,0.022199999999999998,0.1333,0.1111
+2022-02-03 16:30:56.687217,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,0.022199999999999998,0.2222,0.2
 2022-02-03 13:30:57.538465,Super Bowl Specials - Super Bowl Specials - Team to Punt last in the Game,Los Angeles Rams,0.02079999999999993,0.5556,0.5348
 2022-02-03 20:30:55.113195,Boxing Lines - Wallin Otto vs Kamil Sokolowski - To Win the Bout,Wallin Otto,0.01969999999999994,0.9852,0.9655
 2022-02-03 23:30:52.020372,Boxing Lines - Daniel Jacobs vs John Ryder - To Win the Bout,Daniel Jacobs,0.019499999999999962,0.6491,0.6296
@@ -45,28 +37,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-03 13:30:58.055532,NFL Specials - Who will be the San Francisco 49ers Starting QB for Game 1 of the 2022-2023 Seaosn? - Outright,Any Other QB,0.015700000000000006,0.1333,0.1176
 2022-02-03 18:30:46.079137,Boxing Lines - Jamie Mitchell vs Carly Skelly - To Win the Bout,Carly Skelly,0.015699999999999992,0.2062,0.1905
 2022-02-03 20:30:55.161570,Boxing Lines - Samuel Antwi vs Conah Walker - To Win the Bout,Samuel Antwi,0.015100000000000002,0.8333,0.8182
-2022-02-03 12:30:42.512826,Euro Cup - Euro Cup 2021/22 - Winner,Boulogne-Levallois,0.014900000000000004,0.0345,0.0196
 2022-02-03 20:30:55.222327,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Jesse Rodriguez,0.01429999999999998,0.7895,0.7752
 2022-02-03 16:30:56.582023,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Franz Wagner,0.014099999999999994,0.0667,0.0526
-2022-02-03 21:30:56.697604,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Auburn,0.013999999999999999,0.0909,0.0769
 2022-02-03 16:30:55.861104,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Clemson,0.013999999999999999,0.0909,0.0769
+2022-02-03 21:30:56.697604,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Auburn,0.013999999999999999,0.0909,0.0769
 2022-02-03 15:30:49.584937,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,JB Bickerstaff (CLE),0.0131,0.2353,0.2222
 2022-02-03 16:30:56.650810,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Cleveland Cavaliers,0.012899999999999998,0.0385,0.0256
 2022-02-03 16:30:56.664110,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,0.012899999999999995,0.1667,0.1538
 2022-02-03 23:30:53.111281,Super Bowl Specials - Super Bowl Specials - Will Either Team Attempt a 2-PT Conversion?,No,0.012199999999999989,0.5122,0.5
 2022-02-03 23:30:52.755344,Super Bowl Specials - Super Bowl Specials - Last Score of the 1st half is a Field Goal,Yes,0.011600000000000055,0.5238,0.5122
-2022-02-03 12:30:42.531980,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Darüssafaka Dogus,0.011199999999999995,0.0588,0.0476
 2022-02-03 15:30:48.882683,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Joe Biden,0.010699999999999987,0.3333,0.3226
 2022-02-03 15:30:48.897348,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Joe Biden,0.010699999999999987,0.3333,0.3226
 2022-02-03 23:30:51.995107,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,0.010599999999999998,0.4651,0.4545
 2022-02-03 23:30:52.916301,Super Bowl Specials - Super Bowl Specials - Total 1st Quarter Made Field Goals ,Over 1.5,0.010499999999999982,0.2105,0.2
 2022-02-03 20:30:57.024344,Super Ligi - Turkey BSL 2021/22 - Outright,Gaziantep,0.010100000000000001,0.0345,0.0244
 2022-02-03 15:30:49.183307,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,0.010099999999999998,0.4545,0.4444
-2022-02-03 23:30:52.755344,Super Bowl Specials - Super Bowl Specials - Last Score of the 1st half is a Field Goal,No,-0.010099999999999998,0.5455,0.5556
 2022-02-03 23:30:53.218066,Super Bowl Specials - Super Bowl Specials - Will there be offsetting penalties called?,Yes,-0.010099999999999998,0.4444,0.4545
+2022-02-03 23:30:52.755344,Super Bowl Specials - Super Bowl Specials - Last Score of the 1st half is a Field Goal,No,-0.010099999999999998,0.5455,0.5556
 2022-02-03 15:30:48.882683,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Field,-0.010300000000000087,0.7333,0.7436
 2022-02-03 13:30:57.620044,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Clear/Water,-0.010499999999999982,0.2,0.2105
-2022-02-03 12:30:42.512826,Euro Cup - Euro Cup 2021/22 - Winner,Valencia,-0.010499999999999982,0.2,0.2105
+2022-02-04 00:31:24.957020,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,-0.010599999999999998,0.4545,0.4651
 2022-02-03 15:30:48.897348,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Kamala Harris,-0.010699999999999987,0.3226,0.3333
 2022-02-03 16:30:55.861104,NCAAF - 2022-2023 NCAA Championship Winner - Outright,USC,-0.010700000000000001,0.0278,0.0385
 2022-02-03 16:30:56.037938,MLB - 2022 World Series - Outright,Seattle Mariners,-0.010700000000000001,0.0278,0.0385
@@ -75,28 +65,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-03 13:30:58.055532,NFL Specials - Who will be the San Francisco 49ers Starting QB for Game 1 of the 2022-2023 Seaosn? - Outright,Trey Lance,-0.011199999999999988,0.9412,0.9524
 2022-02-03 20:30:56.936750,Japan B League - Japan League B1 2021/22 - Outright,Akita Northern Happinets,-0.011199999999999995,0.0476,0.0588
 2022-02-03 23:30:52.959817,Super Bowl Specials - Super Bowl Specials - Total Punts in the Game,Under 6.5,-0.0116,0.4762,0.4878
-2022-02-03 12:30:42.512826,Euro Cup - Euro Cup 2021/22 - Winner,Partizan,-0.011700000000000016,0.2105,0.2222
-2022-02-03 12:30:40.832514,Boxing Lines - harlem eubank vs Simion V. - To Win the Bout,Simion V.,-0.011899999999999994,0.0714,0.0833
 2022-02-03 16:30:55.861104,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Utah,-0.012100000000000001,0.0123,0.0244
 2022-02-03 21:30:58.676990,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Oscar Tshiebwe,-0.012899999999999995,0.1538,0.1667
 2022-02-03 16:30:55.887681,College Season Props - Odds to win 2022 Heisman Trophy - Outright,TreVeyon Henderson,-0.012999999999999998,0.0164,0.0294
 2022-02-03 18:30:47.578355,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Georgia,-0.0131,0.2222,0.2353
-2022-02-03 12:30:42.487689,Euroleague - Euroleague 2021/22 - Winner,Anadolu Efes,-0.013899999999999996,0.1111,0.125
 2022-02-03 18:30:46.464445,94th Academy Awards - Odds to win Best Director - Outright,Jon M Chu (In the Heights),-0.013999999999999999,0.0769,0.0909
+2022-02-03 20:30:56.936750,Japan B League - Japan League B1 2021/22 - Outright,Hiroshima Dragonflies,-0.014100000000000001,0.0385,0.0526
 2022-02-03 16:30:56.037938,MLB - 2022 World Series - Outright,St. Louis Cardinals,-0.014100000000000001,0.0385,0.0526
 2022-02-03 16:30:56.037938,MLB - 2022 World Series - Outright,San Francisco Giants,-0.014100000000000001,0.0385,0.0526
-2022-02-03 20:30:56.936750,Japan B League - Japan League B1 2021/22 - Outright,Hiroshima Dragonflies,-0.014100000000000001,0.0385,0.0526
 2022-02-03 20:30:55.113195,Boxing Lines - Wallin Otto vs Kamil Sokolowski - To Win the Bout,Kamil Sokolowski,-0.014399999999999996,0.0625,0.0769
 2022-02-03 16:30:56.037938,MLB - 2022 World Series - Outright,Toronto Blue Jays,-0.01440000000000001,0.0909,0.1053
 2022-02-03 16:30:55.861104,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Oklahoma State,-0.0145,0.0099,0.0244
-2022-02-03 16:30:55.861104,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Wisconsin,-0.014599999999999998,0.0132,0.0278
 2022-02-03 16:30:55.861104,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Baylor,-0.014599999999999998,0.005,0.0196
+2022-02-03 16:30:55.861104,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Wisconsin,-0.014599999999999998,0.0132,0.0278
 2022-02-03 16:30:56.650810,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.01469999999999999,0.2353,0.25
 2022-02-03 15:30:49.183307,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Nery Luis,-0.014800000000000035,0.6078,0.6226
 2022-02-03 16:30:55.887681,College Season Props - Odds to win 2022 Heisman Trophy - Outright,Tyler Van Dyke,-0.014899999999999997,0.0476,0.0625
 2022-02-03 16:30:55.887681,College Season Props - Odds to win 2022 Heisman Trophy - Outright,Bijan Robinson,-0.014900000000000004,0.0196,0.0345
 2022-02-03 16:30:55.887681,College Season Props - Odds to win 2022 Heisman Trophy - Outright,Will Anderson Jr.,-0.014900000000000004,0.0196,0.0345
-2022-02-03 12:30:42.512826,Euro Cup - Euro Cup 2021/22 - Winner,Virtus Bologna,-0.015100000000000002,0.1667,0.1818
 2022-02-03 16:30:55.861104,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Notre Dame,-0.015499999999999998,0.0123,0.0278
 2022-02-03 15:30:49.584937,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Monty Williams (PHO),-0.016699999999999937,0.5833,0.6
 2022-02-03 20:30:55.161570,Boxing Lines - Samuel Antwi vs Conah Walker - To Win the Bout,Conah Walker,-0.017000000000000015,0.2299,0.2469
@@ -104,11 +90,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-03 23:30:52.020372,Boxing Lines - Daniel Jacobs vs John Ryder - To Win the Bout,John Ryder,-0.018100000000000005,0.4167,0.4348
 2022-02-03 16:30:55.887681,College Season Props - Odds to win 2022 Heisman Trophy - Outright,CJ Stroud,-0.01820000000000002,0.1818,0.2
 2022-02-03 13:30:57.482125,Super Bowl Specials - Super Bowl Specials - Result of First Coaches Challenge,Play Overturned,-0.01880000000000004,0.5556,0.5744
-2022-02-03 12:30:42.531980,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Falco KC-Szombathely,-0.019099999999999995,0.0244,0.0435
 2022-02-03 23:30:52.987140,Super Bowl Specials - Super Bowl Specials - What Will be the The longest score of game?,Touchdown,-0.02079999999999993,0.5348,0.5556
 2022-02-03 20:30:57.024344,Super Ligi - Turkey BSL 2021/22 - Outright,Fenerbahce,-0.020799999999999985,0.3125,0.3333
-2022-02-03 16:30:56.675763,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,-0.022600000000000064,0.5122,0.5348
 2022-02-03 13:30:57.538465,Super Bowl Specials - Super Bowl Specials - Team to Punt last in the Game,Cincinnati Bengals,-0.022600000000000064,0.5122,0.5348
+2022-02-03 16:30:56.675763,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,-0.022600000000000064,0.5122,0.5348
 2022-02-03 20:30:56.936750,Japan B League - Japan League B1 2021/22 - Outright,Sun Rockers Shibuya,-0.0245,0.0588,0.0833
 2022-02-03 13:30:57.318699,Super Bowl Specials - Super Bowl Specials - Drake Curse - What Teams Jersey will Drake Wear at the Homecoming Event During Super Bowl Weekend,Cincinnati Bengals,-0.025499999999999967,0.4,0.4255
 2022-02-03 18:30:47.494793,Super Bowl Specials - Super Bowl Specials - Will there be an onside kick attempt in the game?,Yes,-0.026500000000000024,0.3509,0.3774
@@ -117,11 +102,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-03 16:30:55.887681,College Season Props - Odds to win 2022 Heisman Trophy - Outright,Braelon Allen,-0.028000000000000004,0.0196,0.0476
 2022-02-03 13:30:57.620044,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Red,-0.028799999999999992,0.125,0.1538
 2022-02-03 16:30:55.861104,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Georgia,-0.031399999999999983,0.2353,0.2667
-2022-02-03 12:30:42.531980,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Lietuvos Rytas,-0.03330000000000001,0.0667,0.1
-2022-02-03 12:30:42.487689,Euroleague - Euroleague 2021/22 - Winner,Olympiakos,-0.03330000000000001,0.0667,0.1
 2022-02-03 13:30:57.529845,Super Bowl Specials - Super Bowl Specials - Team to Punt first in the Game,Los Angeles Rams,-0.03480000000000005,0.5,0.5348
 2022-02-03 15:30:48.864543,Political Specials - Who will be the next Supreme Court nominee? - Outright,J. Michelle Childs,-0.03689999999999999,0.2857,0.3226
-2022-02-03 12:30:42.531980,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Unicaja Málaga,-0.03889999999999999,0.1429,0.1818
 2022-02-03 16:30:56.687217,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,-0.04290000000000005,0.3571,0.4
 2022-02-03 16:30:55.887681,College Season Props - Odds to win 2022 Heisman Trophy - Outright,Bryce Young,-0.047599999999999976,0.2857,0.3333
 2022-02-03 16:30:55.887681,College Season Props - Odds to win 2022 Heisman Trophy - Outright,Caleb Williams,-0.048100000000000004,0.0769,0.125
