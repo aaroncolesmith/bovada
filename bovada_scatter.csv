@@ -1,10 +1,12 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-04 19:30:55.773276,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
-2022-02-04 16:30:57.387676,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
-2022-02-04 23:30:58.861683,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
 2022-02-04 22:30:55.050646,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
+2022-02-05 00:30:59.073173,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
 2022-02-04 18:30:56.586052,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
 2022-02-04 17:30:56.929781,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
+2022-02-04 16:30:57.387676,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
+2022-02-04 23:30:58.861683,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.37,0.6825,0.3125
+2022-02-05 00:30:59.073173,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.1846,0.3846,0.2
 2022-02-04 23:30:58.861683,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.1846,0.3846,0.2
 2022-02-04 22:30:55.050646,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.1846,0.3846,0.2
 2022-02-04 19:30:55.773276,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.1846,0.3846,0.2
@@ -12,36 +14,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-04 17:30:56.929781,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.1846,0.3846,0.2
 2022-02-04 16:30:57.387676,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.1846,0.3846,0.2
 2022-02-04 22:30:55.298284,Super Bowl Specials - Super Bowl Specials - National Anthem - Number of planes during flyover,Over 5,0.030399999999999983,0.5652,0.5348
-2022-02-04 12:30:54.799310,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Orange,0.029000000000000026,0.4545,0.4255
 2022-02-04 15:31:20.291838,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,0.027800000000000047,0.7778,0.75
 2022-02-04 15:31:19.979053,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Trae Young,0.022799999999999997,0.0278,0.005
 2022-02-04 22:30:54.979854,Super Bowl Specials - Super Bowl Specials - Commercials - Commercial To Play First,Taco Bell,0.018100000000000005,0.4348,0.4167
 2022-02-04 17:30:56.004066,Boxing Lines - Chris Eubank Jr vs Liam Williams - To Win the Bout,Liam Williams,0.0131,0.303,0.2899
 2022-02-04 15:31:20.271620,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.011700000000000016,0.2222,0.2105
 2022-02-04 18:30:57.690970,Boxing Lines - Chris Jenkins vs Julius Indongo - To Win the Bout,Chris Jenkins,0.011699999999999933,0.726,0.7143
-2022-02-04 15:31:19.672808,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,0.011099999999999999,0.4762,0.4651
 2022-02-04 15:31:20.505662,Euroleague - Euroleague 2021/22 - Winner,Barcelona,0.011099999999999999,0.2778,0.2667
-2022-02-04 12:30:54.790173,Super Bowl Specials - Super Bowl Specials - Total Sacks in the Game,Over 4.5,0.010700000000000043,0.6774,0.6667
+2022-02-04 15:31:19.672808,Boxing Lines - Nery Luis vs Carlos Castro - To Win the Bout,Carlos Castro,0.011099999999999999,0.4762,0.4651
 2022-02-04 22:30:56.351010,Boxing Lines - Carlos Cuadras vs Jesse Rodriguez - To Win the Bout,Jesse Rodriguez,0.010500000000000065,0.8,0.7895
-2022-02-04 12:30:55.314589,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,San Francisco 49ers,0.0102,0.0769,0.0667
 2022-02-04 15:31:20.059647,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Franz Wagner,0.0102,0.0769,0.0667
 2022-02-04 16:30:57.517551,Super Bowl Specials - Super Bowl Specials - Los Angeles Rams To Score a Safety,Yes,0.010099999999999998,0.1053,0.0952
 2022-02-04 15:31:20.291838,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.010699999999999987,0.3226,0.3333
-2022-02-04 12:30:54.781596,Super Bowl Specials - Super Bowl Specials - Total Punts in the Game,Under 6.5,-0.011099999999999999,0.4651,0.4762
 2022-02-04 15:31:20.059647,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Scottie Barnes,-0.012899999999999995,0.1538,0.1667
 2022-02-04 17:30:56.004066,Boxing Lines - Chris Eubank Jr vs Liam Williams - To Win the Bout,Chris Eubank Jr,-0.0131,0.7647,0.7778
 2022-02-04 15:31:20.505662,Euroleague - Euroleague 2021/22 - Winner,Milano,-0.013899999999999996,0.1111,0.125
 2022-02-04 19:30:54.548519,Boxing Lines - Raymond Ford vs Edward Vazquez - To Win the Bout,Edward Vazquez,-0.015100000000000002,0.1667,0.1818
 2022-02-04 22:30:54.979854,Super Bowl Specials - Super Bowl Specials - Commercials - Commercial To Play First,QuickBooks (Intuit),-0.019499999999999962,0.6296,0.6491
-2022-02-04 12:30:54.799310,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Clear/Water,-0.033300000000000024,0.1667,0.2
 2022-02-04 22:30:55.298284,Super Bowl Specials - Super Bowl Specials - National Anthem - Number of planes during flyover,Under 5,-0.03480000000000005,0.5,0.5348
-2022-02-04 23:30:58.853059,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.1846,0.2,0.3846
 2022-02-04 22:30:55.042144,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.1846,0.2,0.3846
+2022-02-05 00:30:59.059516,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.1846,0.2,0.3846
+2022-02-04 23:30:58.853059,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.1846,0.2,0.3846
 2022-02-04 19:30:55.761897,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.1846,0.2,0.3846
 2022-02-04 18:30:56.576406,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.1846,0.2,0.3846
 2022-02-04 17:30:56.920033,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.1846,0.2,0.3846
-2022-02-04 18:30:56.576406,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.37,0.3125,0.6825
 2022-02-04 23:30:58.853059,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.37,0.3125,0.6825
 2022-02-04 17:30:56.920033,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.37,0.3125,0.6825
+2022-02-04 18:30:56.576406,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.37,0.3125,0.6825
 2022-02-04 19:30:55.761897,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.37,0.3125,0.6825
+2022-02-05 00:30:59.059516,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.37,0.3125,0.6825
 2022-02-04 22:30:55.042144,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.37,0.3125,0.6825
