@@ -1,45 +1,60 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-02-07 06:30:46.796474,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3334,0.6667,0.3333
+2022-02-06 23:31:03.748483,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3334,0.6667,0.3333
 2022-02-07 00:31:13.160224,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3334,0.6667,0.3333
 2022-02-07 01:30:43.866938,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3334,0.6667,0.3333
 2022-02-07 02:31:00.778576,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3334,0.6667,0.3333
 2022-02-07 04:31:23.121334,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3334,0.6667,0.3333
 2022-02-07 05:30:51.036796,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3334,0.6667,0.3333
-2022-02-07 06:30:46.796474,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3334,0.6667,0.3333
-2022-02-06 23:31:03.748483,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3334,0.6667,0.3333
 2022-02-07 09:30:53.909999,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3031,0.6667,0.3636
+2022-02-07 10:30:50.443668,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3031,0.6667,0.3636
 2022-02-07 07:30:50.469995,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3031,0.6667,0.3636
-2022-02-07 01:30:43.866938,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.2,0.4,0.2
 2022-02-07 04:31:23.121334,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.2,0.4,0.2
 2022-02-07 02:31:00.778576,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.2,0.4,0.2
+2022-02-07 01:30:43.866938,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.2,0.4,0.2
 2022-02-07 00:31:13.160224,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.2,0.4,0.2
 2022-02-06 23:31:03.748483,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.2,0.4,0.2
 2022-02-07 05:30:51.036796,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.2,0.4,0.2
 2022-02-07 06:30:46.796474,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.2,0.4,0.2
-2022-02-07 07:30:50.490621,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Song Performed,Dr. Dre Song Performed First,0.09230000000000005,0.4,0.3077
+2022-02-07 10:30:52.297159,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Bayer Leverkusen,0.17810000000000004,0.8333,0.6552
+2022-02-07 10:30:52.286594,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,VfB Stuttgart,0.16670000000000001,0.5,0.3333
 2022-02-07 09:30:53.909999,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.09230000000000005,0.4,0.3077
 2022-02-07 07:30:50.469995,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.09230000000000005,0.4,0.3077
+2022-02-07 10:30:50.443668,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.09230000000000005,0.4,0.3077
+2022-02-07 07:30:50.490621,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Song Performed,Dr. Dre Song Performed First,0.09230000000000005,0.4,0.3077
+2022-02-07 10:30:52.235109,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Monaco,0.07930000000000001,0.2222,0.1429
 2022-02-07 06:30:46.778251,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Dr. Dre Song Performed,Still D.R.E.,0.067,0.4444,0.3774
+2022-02-07 10:30:52.276265,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Bayer Leverkusen,0.06620000000000001,0.125,0.0588
 2022-02-07 09:30:55.496306,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Werder Bremen,0.06420000000000001,0.2309,0.1667
+2022-02-07 10:30:52.286594,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Hertha BSC,0.05679999999999999,0.1818,0.125
 2022-02-07 07:30:51.656510,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,0.044499999999999984,0.3077,0.2632
+2022-02-07 10:30:52.590966,Serie B - Italy Serie B 2021/22 - Outright,Cremonese,0.042899999999999994,0.1429,0.1
 2022-02-06 23:31:05.572511,FA Cup - England FA Cup 2021/22 - Outright,Liverpool FC,0.04040000000000002,0.2222,0.1818
 2022-02-07 00:31:12.181530,WNBL - Australia WNBL 2021/22 - Outright,Canberra Capitals (W),0.03889999999999999,0.1818,0.1429
 2022-02-07 06:30:46.743292,Super Bowl Specials - Super Bowl Specials - Commercials - How many commercials will have a dog in it,Over 6.5,0.03600000000000003,0.5238,0.4878
 2022-02-07 07:30:51.599697,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,0.03420000000000001,0.1111,0.0769
-2022-02-07 09:30:55.496306,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Hamburger SV,0.033300000000000024,0.2,0.1667
 2022-02-07 09:30:55.496306,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Schalke 04,0.033300000000000024,0.2,0.1667
+2022-02-07 09:30:55.496306,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Hamburger SV,0.033300000000000024,0.2,0.1667
+2022-02-07 10:30:52.297159,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Eintracht Frankfurt,0.03219999999999999,0.0667,0.0345
+2022-02-07 10:30:52.590966,Serie B - Italy Serie B 2021/22 - Outright,Frosinone,0.031799999999999995,0.1429,0.1111
 2022-02-06 23:31:05.386253,Italy Serie A - Italy Serie A 2021/2022 - Outright,AC Milan,0.031799999999999995,0.1429,0.1111
 2022-02-07 09:30:54.314034,Super Bowl Specials - Super Bowl Specials - What Will be the The longest score of game?,Field Goal,0.030399999999999983,0.5652,0.5348
 2022-02-07 09:30:55.496306,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Heidenheim,0.029299999999999993,0.0769,0.0476
+2022-02-07 10:30:52.297159,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,FC Köln,0.029299999999999993,0.0769,0.0476
 2022-02-07 07:30:51.620368,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,0.026499999999999968,0.5917,0.5652
 2022-02-06 23:31:05.572511,FA Cup - England FA Cup 2021/22 - Outright,Everton FC,0.0242,0.0909,0.0667
 2022-02-07 07:30:51.579496,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,0.023799999999999988,0.1667,0.1429
+2022-02-07 10:30:52.245395,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Wissam Ben Yedder,0.021999999999999964,0.3077,0.2857
 2022-02-07 00:31:12.181530,WNBL - Australia WNBL 2021/22 - Outright,Perth Lynx (W),0.02100000000000002,0.3846,0.3636
 2022-02-07 07:30:51.579496,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.020799999999999985,0.3333,0.3125
 2022-02-06 23:31:05.386253,Italy Serie A - Italy Serie A 2021/2022 - Outright,Juventus,0.0203,0.0588,0.0385
 2022-02-07 05:30:52.161090,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,0.01970000000000005,0.5652,0.5455
+2022-02-07 10:30:52.297159,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Mainz,0.019099999999999992,0.0667,0.0476
 2022-02-07 00:31:12.025797,NBL - NBL 2021/22 - Outright,Perth Wildcats,0.019000000000000017,0.2857,0.2667
+2022-02-07 10:30:52.235109,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Marseille,0.018900000000000028,0.4444,0.4255
 2022-02-07 07:30:51.599697,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Toronto Raptors,0.01830000000000001,0.0952,0.0769
 2022-02-07 07:30:50.548342,"Super Bowl Specials - Super Bowl Specials - Halftime Show - Will any ""Bored Ape Yacht Club"" character make an appearance during the Halftime Show Broadcast",Yes,0.018199999999999994,0.8182,0.8
+2022-02-07 10:30:52.245395,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Gaetan Laborde,0.018099999999999998,0.0769,0.0588
 2022-02-07 05:30:52.174149,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.0179,0.1429,0.125
 2022-02-06 23:31:05.463884,A-League - Australia A-League 2021/2022 - Grand Final Winner,Melbourne Victory,0.016699999999999993,0.2667,0.25
 2022-02-07 05:30:52.148207,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.016699999999999937,0.6,0.5833
@@ -49,24 +64,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-06 23:31:05.386253,Italy Serie A - Italy Serie A 2021/2022 - Outright,Napoli,0.013899999999999996,0.125,0.1111
 2022-02-07 00:31:12.025797,NBL - NBL 2021/22 - Outright,Cairns Taipans,0.012100000000000001,0.0244,0.0123
 2022-02-07 05:30:52.035451,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,0.011700000000000016,0.2222,0.2105
+2022-02-07 10:30:52.245395,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Lionel Messi,0.011199999999999995,0.0588,0.0476
+2022-02-07 10:30:52.286594,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Borussia Mönchengladbach,0.011199999999999995,0.0588,0.0476
 2022-02-07 04:31:24.798368,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Los Angeles Lakers,0.011099999999999999,0.1111,0.1
 2022-02-06 23:31:05.405535,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Sevilla,0.011099999999999999,0.1111,0.1
+2022-02-07 10:30:52.590966,Serie B - Italy Serie B 2021/22 - Outright,Pisa,0.011099999999999999,0.1111,0.1
 2022-02-07 09:30:53.936171,Super Bowl Specials - Super Bowl Specials - Halftime Show - How many songs will be played during the halftime show?,Over 10.5,0.010699999999999932,0.5455,0.5348
-2022-02-07 00:31:12.181530,WNBL - Australia WNBL 2021/22 - Outright,Southside Flyers (W),-0.010100000000000001,0.0244,0.0345
 2022-02-06 23:31:05.405535,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Atlético Madrid,-0.010100000000000001,0.0244,0.0345
+2022-02-07 00:31:12.181530,WNBL - Australia WNBL 2021/22 - Outright,Southside Flyers (W),-0.010100000000000001,0.0244,0.0345
 2022-02-06 23:31:05.340047,France Ligue 1 - France Ligue 1 2021/2022 - Outright,Monaco,-0.0103,0.002,0.0123
+2022-02-07 10:30:52.286594,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Bochum,-0.010899999999999993,0.1429,0.1538
 2022-02-07 04:31:24.798368,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,-0.010899999999999993,0.1429,0.1538
 2022-02-07 09:30:53.936171,Super Bowl Specials - Super Bowl Specials - Halftime Show - How many songs will be played during the halftime show?,Under 10.5,-0.01100000000000001,0.5238,0.5348
-2022-02-06 23:31:05.463884,A-League - Australia A-League 2021/2022 - Grand Final Winner,Macarthur FC,-0.011099999999999999,0.1,0.1111
 2022-02-07 04:31:25.015846,NBL - NBL 2021/22 - Outright,Melbourne United,-0.011099999999999999,0.2667,0.2778
-2022-02-07 07:30:50.459979,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,My Name Is,-0.011700000000000016,0.2105,0.2222
+2022-02-06 23:31:05.463884,A-League - Australia A-League 2021/2022 - Grand Final Winner,Macarthur FC,-0.011099999999999999,0.1,0.1111
+2022-02-07 10:30:52.286594,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Wolfsburg,-0.011099999999999999,0.1,0.1111
 2022-02-07 07:30:50.490621,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Song Performed,Snoop Dogg Song Performed First,-0.011700000000000016,0.2105,0.2222
+2022-02-07 07:30:50.459979,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,My Name Is,-0.011700000000000016,0.2105,0.2222
 2022-02-06 23:31:05.340047,France Ligue 1 - France Ligue 1 2021/2022 - Outright,Marseille,-0.012100000000000001,0.0123,0.0244
 2022-02-07 09:30:54.351721,Super Bowl Specials - Super Bowl Specials - What Will happen to the Price of Bitcoin (BTC) During the Superbowl?,Price Of Bitcoin Goes Down,-0.012199999999999989,0.5,0.5122
 2022-02-07 07:30:51.579496,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Memphis Grizzlies,-0.013999999999999999,0.0769,0.0909
 2022-02-07 05:30:52.071034,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Franz Wagner,-0.014399999999999996,0.0625,0.0769
 2022-02-07 06:30:46.778251,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Dr. Dre Song Performed,Nuthin’ But a ‘G’ Thang,-0.01469999999999999,0.2353,0.25
 2022-02-07 00:31:12.025797,NBL - NBL 2021/22 - Outright,SE Melbourne Phoenix,-0.01469999999999999,0.2353,0.25
+2022-02-07 10:30:52.590966,Serie B - Italy Serie B 2021/22 - Outright,Brescia,-0.015100000000000002,0.1667,0.1818
 2022-02-06 23:31:05.284228,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Johnny Davis,-0.015700000000000006,0.1176,0.1333
 2022-02-07 04:31:24.754924,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,-0.015899999999999997,0.2222,0.2381
 2022-02-07 06:30:46.751869,Super Bowl Specials - Super Bowl Specials - Drake Curse - What Teams Jersey will Drake Wear at the Homecoming Event During Super Bowl Weekend,Los Angeles Rams,-0.01629999999999998,0.7059,0.7222
@@ -74,37 +95,53 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-07 07:30:51.620368,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,-0.017299999999999982,0.2857,0.303
 2022-02-07 07:30:50.490621,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Song Performed,Eminem Song Performed First,-0.0179,0.125,0.1429
 2022-02-07 09:30:55.496306,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,FC Nürnberg,-0.018099999999999998,0.0588,0.0769
+2022-02-07 10:30:52.245395,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Moussa Dembele,-0.018200000000000004,0.0294,0.0476
+2022-02-07 10:30:52.245395,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Andy Delort,-0.018200000000000004,0.0294,0.0476
 2022-02-07 07:30:51.579496,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Los Angeles Clippers,-0.019000000000000003,0.0435,0.0625
+2022-02-07 10:30:52.245395,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Jonathan David,-0.019000000000000017,0.2667,0.2857
 2022-02-06 23:31:05.357919,Germany Bundesliga - German Bundesliga 2021/22 - Outright,Borussia Dortmund,-0.019099999999999992,0.0476,0.0667
+2022-02-07 10:30:52.235109,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lille,-0.0203,0.0385,0.0588
 2022-02-07 09:30:55.496306,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,St. Pauli,-0.022199999999999998,0.2,0.2222
+2022-02-07 10:30:52.590966,Serie B - Italy Serie B 2021/22 - Outright,Lecce,-0.02250000000000002,0.4219,0.4444
 2022-02-07 07:30:51.560769,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.023799999999999988,0.1429,0.1667
 2022-02-07 09:30:55.496306,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Jahn Regensburg,-0.024299999999999995,0.0345,0.0588
 2022-02-07 07:30:50.459979,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Stan,-0.024999999999999994,0.1,0.125
+2022-02-07 10:30:52.346391,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Sevilla,-0.025600000000000067,0.6667,0.6923
 2022-02-07 06:30:46.743292,Super Bowl Specials - Super Bowl Specials - Commercials - How many commercials will have a dog in it,Under 6.5,-0.028900000000000037,0.5455,0.5744
 2022-02-07 09:30:54.314034,Super Bowl Specials - Super Bowl Specials - What Will be the The longest score of game?,Touchdown,-0.03480000000000005,0.5,0.5348
 2022-02-06 23:31:05.386253,Italy Serie A - Italy Serie A 2021/2022 - Outright,Atalanta,-0.035699999999999996,0.0476,0.0833
 2022-02-07 07:30:50.459979,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Any Other Song,-0.03710000000000002,0.3077,0.3448
 2022-02-06 23:31:05.386253,Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,-0.03949999999999998,0.75,0.7895
 2022-02-07 09:30:55.496306,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Darmstadt,-0.04040000000000002,0.1818,0.2222
+2022-02-07 10:30:52.297159,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Freiburg,-0.04040000000000002,0.1818,0.2222
 2022-02-07 05:30:52.161090,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,-0.041800000000000004,0.303,0.3448
+2022-02-07 10:30:52.235109,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Nice,-0.044499999999999984,0.2222,0.2667
 2022-02-07 05:30:52.046249,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,-0.04620000000000002,0.1538,0.2
 2022-02-07 07:30:51.599697,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.047599999999999976,0.2857,0.3333
 2022-02-07 07:30:51.656510,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,-0.050000000000000044,0.75,0.8
 2022-02-07 06:30:46.778251,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Dr. Dre Song Performed,The Next Episode,-0.05059999999999998,0.5238,0.5744
+2022-02-07 10:30:52.286594,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Arminia Bielefeld,-0.05449999999999999,0.4,0.4545
+2022-02-07 10:30:52.297159,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Hoffenheim,-0.05550000000000002,0.1667,0.2222
 2022-02-07 07:30:50.459979,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Without Me,-0.0642,0.1176,0.1818
 2022-02-07 07:30:50.490621,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Song Performed,Kendrick Lamar Song Performed First,-0.06670000000000001,0.1333,0.2
+2022-02-07 10:30:52.276265,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Borussia Dortmund,-0.0726,0.8889,0.9615
+2022-02-07 10:30:52.235109,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lyon,-0.07500000000000001,0.125,0.2
 2022-02-07 00:31:12.181530,WNBL - Australia WNBL 2021/22 - Outright,Melbourne Boomers (W),-0.07690000000000002,0.3077,0.3846
-2022-02-07 07:30:50.459979,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
+2022-02-07 10:30:50.436099,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
 2022-02-07 09:30:53.901132,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
-2022-02-06 23:31:03.741280,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.2,0.2,0.4
-2022-02-07 04:31:23.106383,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.2,0.2,0.4
-2022-02-07 00:31:13.143289,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.2,0.2,0.4
+2022-02-07 07:30:50.459979,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
+2022-02-07 10:30:52.297159,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Union Berlin,-0.10769999999999996,0.2,0.3077
+2022-02-07 10:30:52.286594,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Augsburg,-0.14680000000000004,0.3077,0.4545
 2022-02-07 02:31:00.769128,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.2,0.2,0.4
-2022-02-07 06:30:46.787372,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.2,0.2,0.4
-2022-02-07 05:30:51.022865,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.2,0.2,0.4
+2022-02-06 23:31:03.741280,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.2,0.2,0.4
+2022-02-07 00:31:13.143289,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.2,0.2,0.4
 2022-02-07 01:30:43.857128,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.2,0.2,0.4
-2022-02-07 09:30:53.901132,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3031,0.3636,0.6667
+2022-02-07 04:31:23.106383,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.2,0.2,0.4
+2022-02-07 05:30:51.022865,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.2,0.2,0.4
+2022-02-07 06:30:46.787372,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.2,0.2,0.4
 2022-02-07 07:30:50.459979,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3031,0.3636,0.6667
+2022-02-07 09:30:53.901132,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3031,0.3636,0.6667
+2022-02-07 10:30:50.436099,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3031,0.3636,0.6667
 2022-02-07 06:30:46.787372,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3334,0.3333,0.6667
 2022-02-07 05:30:51.022865,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3334,0.3333,0.6667
 2022-02-07 04:31:23.106383,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3334,0.3333,0.6667
