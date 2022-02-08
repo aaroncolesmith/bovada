@@ -1,24 +1,24 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-02-08 01:30:52.948400,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3031,0.6667,0.3636
-2022-02-07 21:31:15.211724,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3031,0.6667,0.3636
-2022-02-07 16:32:08.164778,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3031,0.6667,0.3636
+2022-02-08 03:30:43.658373,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3031,0.6667,0.3636
+2022-02-07 22:30:48.628843,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3031,0.6667,0.3636
 2022-02-07 17:31:28.517828,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3031,0.6667,0.3636
 2022-02-07 18:32:09.268203,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3031,0.6667,0.3636
 2022-02-07 20:31:06.208166,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3031,0.6667,0.3636
-2022-02-07 22:30:48.628843,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3031,0.6667,0.3636
+2022-02-07 21:31:15.211724,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3031,0.6667,0.3636
 2022-02-07 23:31:27.723196,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3031,0.6667,0.3636
+2022-02-08 01:30:52.948400,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3031,0.6667,0.3636
+2022-02-08 05:30:44.747862,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3031,0.6667,0.3636
 2022-02-08 04:30:42.603739,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3031,0.6667,0.3636
-2022-02-08 03:30:43.658373,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,0.3031,0.6667,0.3636
-2022-02-07 17:31:28.517828,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.09230000000000005,0.4,0.3077
 2022-02-07 18:32:09.268203,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.09230000000000005,0.4,0.3077
-2022-02-08 04:30:42.603739,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.09230000000000005,0.4,0.3077
-2022-02-07 16:32:08.164778,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.09230000000000005,0.4,0.3077
 2022-02-07 20:31:06.208166,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.09230000000000005,0.4,0.3077
+2022-02-08 05:30:44.747862,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.09230000000000005,0.4,0.3077
+2022-02-07 17:31:28.517828,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.09230000000000005,0.4,0.3077
 2022-02-07 21:31:15.211724,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.09230000000000005,0.4,0.3077
 2022-02-07 22:30:48.628843,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.09230000000000005,0.4,0.3077
 2022-02-07 23:31:27.723196,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.09230000000000005,0.4,0.3077
 2022-02-08 01:30:52.948400,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.09230000000000005,0.4,0.3077
 2022-02-08 03:30:43.658373,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.09230000000000005,0.4,0.3077
+2022-02-08 04:30:42.603739,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,0.09230000000000005,0.4,0.3077
 2022-02-07 23:31:30.211320,Liga MX - Clausura - Liga MX Clausura 2022  - Top Goalscorer,Nicolas Ibanez,0.08330000000000001,0.25,0.1667
 2022-02-07 21:31:16.301053,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,0.050000000000000044,0.8,0.75
 2022-02-07 21:31:16.266521,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.04290000000000005,0.6429,0.6
@@ -54,23 +54,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-08 03:30:44.449874,NBL - NBL 2021/22 - Outright,Illawarra Hawks,-0.033300000000000024,0.1667,0.2
 2022-02-07 21:31:16.301053,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.044499999999999984,0.2632,0.3077
 2022-02-08 01:30:54.281509,VTB United League - VTB United League 2021/22 - Outright,CSKA Moscow,-0.050000000000000044,0.75,0.8
-2022-02-07 17:31:28.512556,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
 2022-02-07 18:32:09.256403,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
-2022-02-08 01:30:52.939582,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
 2022-02-07 20:31:06.198337,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
-2022-02-08 04:30:42.597962,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
-2022-02-07 21:31:15.203257,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
-2022-02-07 16:32:08.155329,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
 2022-02-08 03:30:43.652228,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
-2022-02-07 23:31:27.714897,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
+2022-02-07 21:31:15.203257,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
+2022-02-08 05:30:44.737373,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
 2022-02-07 22:30:48.623556,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
-2022-02-08 03:30:43.652228,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3031,0.3636,0.6667
-2022-02-07 16:32:08.155329,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3031,0.3636,0.6667
+2022-02-07 17:31:28.512556,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
+2022-02-08 04:30:42.597962,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
+2022-02-08 01:30:52.939582,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
+2022-02-07 23:31:27.714897,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,The Real Slim Shady,-0.09230000000000005,0.3077,0.4
 2022-02-08 04:30:42.597962,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3031,0.3636,0.6667
 2022-02-07 17:31:28.512556,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3031,0.3636,0.6667
+2022-02-08 05:30:44.737373,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3031,0.3636,0.6667
 2022-02-07 18:32:09.256403,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3031,0.3636,0.6667
-2022-02-07 21:31:15.203257,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3031,0.3636,0.6667
+2022-02-07 20:31:06.198337,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3031,0.3636,0.6667
 2022-02-07 22:30:48.623556,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3031,0.3636,0.6667
 2022-02-07 23:31:27.714897,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3031,0.3636,0.6667
 2022-02-08 01:30:52.939582,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3031,0.3636,0.6667
-2022-02-07 20:31:06.198337,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3031,0.3636,0.6667
+2022-02-08 03:30:43.652228,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3031,0.3636,0.6667
+2022-02-07 21:31:15.203257,Super Bowl Specials - Super Bowl Specials - Halftime Show - First Eminem Song Performed,Lose Yourself,-0.3031,0.3636,0.6667
