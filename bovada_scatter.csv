@@ -21,8 +21,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-10 09:30:46.409188,England Championship - England Championship 21/22 - To Be Promoted,Sheffield United,0.05310000000000001,0.2857,0.2326
 2022-02-10 09:30:44.975857,94th Academy Awards - Odds to win Best Picture - Outright,The Power of the Dog,0.05130000000000001,0.6667,0.6154
 2022-02-10 11:31:48.697602,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Watford,0.050000000000000044,0.8,0.75
-2022-02-10 09:30:44.942394,94th Academy Awards - Best Supporting Actor - Outright,Troy Kotsur (CODA),0.04999999999999999,0.25,0.2
 2022-02-10 08:30:53.074778,Super Bowl Specials - Super Bowl Specials - Halftime Show - Color of Snoop Dogg shoes at Halftime,White,0.04999999999999999,0.25,0.2
+2022-02-10 09:30:44.942394,94th Academy Awards - Best Supporting Actor - Outright,Troy Kotsur (CODA),0.04999999999999999,0.25,0.2
 2022-02-10 11:31:47.303310,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Livingston,0.047599999999999976,0.3333,0.2857
 2022-02-10 11:31:48.697602,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Everton,0.04620000000000002,0.2,0.1538
 2022-02-10 09:30:46.427051,England Championship - England Championship 21/22 - Top 6 Finish,Middlesbrough,0.045499999999999985,0.5455,0.5
@@ -37,20 +37,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-10 11:31:48.697602,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Brentford,0.033300000000000024,0.2,0.1667
 2022-02-10 09:30:46.409188,England Championship - England Championship 21/22 - To Be Promoted,Stoke City,0.0321,0.0909,0.0588
 2022-02-10 09:30:46.418335,England Championship - England Championship 21/22 - Top 2 Finish,Sheffield United,0.027800000000000005,0.1111,0.0833
-2022-02-10 08:30:54.289345,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,0.02779999999999999,0.25,0.2222
-2022-02-10 05:30:20.077678,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Lime/Green/Yellow,0.02779999999999999,0.25,0.2222
 2022-02-10 08:30:54.300003,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,JB Bickerstaff (CLE),0.02779999999999999,0.25,0.2222
+2022-02-10 05:30:20.077678,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Lime/Green/Yellow,0.02779999999999999,0.25,0.2222
+2022-02-10 08:30:54.289345,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,0.02779999999999999,0.25,0.2222
 2022-02-10 08:30:53.066359,Super Bowl Specials - Super Bowl Specials - First Touchdown Jersey Number,Under 27.5,0.026499999999999968,0.5917,0.5652
 2022-02-10 05:30:20.296021,Super Bowl Specials - Super Bowl Specials - Will there be a penalty for Roughing the Passer?,Yes,0.023800000000000043,0.5238,0.5
-2022-02-10 08:30:54.438381,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.023799999999999988,0.3571,0.3333
 2022-02-10 05:30:19.541804,Super Bowl Specials - Super Bowl Specials - Commercials - Commercial To Play First,Taco Bell,0.023799999999999988,0.5,0.4762
+2022-02-10 08:30:54.438381,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.023799999999999988,0.3571,0.3333
 2022-02-10 09:30:46.427051,England Championship - England Championship 21/22 - Top 6 Finish,Luton Town,0.022199999999999998,0.2222,0.2
 2022-02-10 09:30:44.962432,94th Academy Awards - Odds to win Best Actress - Outright,Olivia Colman (The Lost Daughter),0.022199999999999998,0.2222,0.2
 2022-02-10 11:31:48.697602,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,0.02200000000000002,0.7143,0.6923
 2022-02-10 11:31:42.977863,Super Bowl Specials - Super Bowl Specials - Halftime Show - Will the Halftime Show Have Professional On Stage Dancers?,No,0.022000000000000006,0.1053,0.0833
 2022-02-10 09:30:46.402432,England Championship - England Championship 21/22 - Top Goalscorer,Aleksandar Mitrovic (Fulham),0.019199999999999995,0.9901,0.9709
 2022-02-10 08:30:54.517087,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,0.018199999999999994,0.8182,0.8
+2022-02-10 12:30:51.331511,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Toronto Raptors,0.0179,0.1429,0.125
 2022-02-10 09:30:44.900814,94th Academy Awards - Best Adapted Screenplay - Outright,CODA (screenplay by Siân Heder),0.0179,0.1429,0.125
+2022-02-10 12:30:48.824352,Boxing Lines - Noel Gevor vs Youri Kalenga - To Win the Bout,Noel Gevor,0.017899999999999916,0.7826,0.7647
 2022-02-10 11:31:44.210440,Super Bowl Specials - Super Bowl Specials - Will The Opening Kickoff Be A Touchback?,No,0.017299999999999982,0.5917,0.5744
 2022-02-10 11:31:43.726374,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Blue,0.016699999999999993,0.2667,0.25
 2022-02-10 08:30:54.332780,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Miles Bridges,0.015700000000000006,0.1333,0.1176
@@ -68,23 +70,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-10 08:30:54.400222,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Denver Nuggets,-0.010100000000000001,0.0244,0.0345
 2022-02-10 05:30:20.989257,Premier League - Russia Premier League 2021/2022 - Outright,Krasnodar,-0.010100000000000001,0.0244,0.0345
 2022-02-10 05:30:20.145647,Super Bowl Specials - Super Bowl Specials - Will a non-QB throw a touchdown?,No,-0.010199999999999987,0.9231,0.9333
-2022-02-10 08:30:53.074778,Super Bowl Specials - Super Bowl Specials - Halftime Show - Color of Snoop Dogg shoes at Halftime,Orange,-0.0102,0.0667,0.0769
+2022-02-10 11:31:47.303310,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Ross County,-0.0102,0.0667,0.0769
 2022-02-10 08:30:54.400222,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Philadelphia 76ers,-0.0102,0.0667,0.0769
 2022-02-10 05:30:20.077678,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Purple,-0.0102,0.0667,0.0769
-2022-02-10 11:31:47.303310,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Ross County,-0.0102,0.0667,0.0769
 2022-02-10 08:30:53.801172,NFL Specials - Where will Kyler Murray play Game 1 of the 2022 NFL Season? - Outright,Pittsburgh Steelers,-0.0102,0.0667,0.0769
+2022-02-10 08:30:53.074778,Super Bowl Specials - Super Bowl Specials - Halftime Show - Color of Snoop Dogg shoes at Halftime,Orange,-0.0102,0.0667,0.0769
 2022-02-10 08:30:53.074778,Super Bowl Specials - Super Bowl Specials - Halftime Show - Color of Snoop Dogg shoes at Halftime,Black,-0.010499999999999982,0.2,0.2105
 2022-02-10 08:30:53.801172,NFL Specials - Where will Kyler Murray play Game 1 of the 2022 NFL Season? - Outright,Oakland Athletics,-0.011199999999999995,0.0476,0.0588
 2022-02-10 08:30:53.801172,NFL Specials - Where will Kyler Murray play Game 1 of the 2022 NFL Season? - Outright,New York Giants,-0.011199999999999995,0.0476,0.0588
-2022-02-10 09:30:46.409188,England Championship - England Championship 21/22 - To Be Promoted,Huddersfield Town,-0.011199999999999995,0.0476,0.0588
 2022-02-10 11:31:48.642800,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Aston Villa,-0.011199999999999995,0.0476,0.0588
-2022-02-10 08:30:54.400222,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Utah Jazz,-0.011899999999999994,0.0714,0.0833
+2022-02-10 09:30:46.409188,England Championship - England Championship 21/22 - To Be Promoted,Huddersfield Town,-0.011199999999999995,0.0476,0.0588
+2022-02-10 12:30:51.331511,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.011700000000000016,0.2105,0.2222
 2022-02-10 08:30:54.517087,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.011899999999999994,0.2381,0.25
+2022-02-10 08:30:54.400222,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Utah Jazz,-0.011899999999999994,0.0714,0.0833
 2022-02-10 08:30:53.801172,NFL Specials - Where will Kyler Murray play Game 1 of the 2022 NFL Season? - Outright,Denver Broncos,-0.011900000000000008,0.0833,0.0952
+2022-02-10 12:30:48.824352,Boxing Lines - Noel Gevor vs Youri Kalenga - To Win the Bout,Youri Kalenga,-0.0121,0.2778,0.2899
 2022-02-10 08:30:54.400222,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Toronto Raptors,-0.012100000000000001,0.0123,0.0244
 2022-02-10 05:30:20.240007,Super Bowl Specials - Super Bowl Specials - Will The Opening Kickoff Be A Touchback?,Yes,-0.012199999999999989,0.4878,0.5
-2022-02-10 09:30:45.111311,Boxing Lines - Noel Gevor vs Youri Kalenga - To Win the Bout,Youri Kalenga,-0.0131,0.2899,0.303
 2022-02-10 11:31:47.207273,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hibernian,-0.0131,0.0345,0.0476
+2022-02-10 09:30:45.111311,Boxing Lines - Noel Gevor vs Youri Kalenga - To Win the Bout,Youri Kalenga,-0.0131,0.2899,0.303
 2022-02-10 08:30:53.801172,NFL Specials - Where will Kyler Murray play Game 1 of the 2022 NFL Season? - Outright,Tampa Bay Buccaneers,-0.013899999999999996,0.1111,0.125
 2022-02-10 09:30:46.418335,England Championship - England Championship 21/22 - Top 2 Finish,Queens Park Rangers,-0.013899999999999996,0.1111,0.125
 2022-02-10 08:30:54.300003,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Steve Kerr (GSW),-0.013999999999999999,0.0769,0.0909
@@ -95,8 +99,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-10 08:30:54.400222,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Los Angeles Lakers,-0.014899999999999997,0.0476,0.0625
 2022-02-10 09:30:44.884017,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Silk Sonic - Leave the Door Open,-0.015100000000000002,0.1667,0.1818
 2022-02-10 08:30:53.074778,Super Bowl Specials - Super Bowl Specials - Halftime Show - Color of Snoop Dogg shoes at Halftime,Grey/Silver,-0.015700000000000006,0.1176,0.1333
-2022-02-10 08:30:53.801172,NFL Specials - Where will Kyler Murray play Game 1 of the 2022 NFL Season? - Outright,Green Bay Packers,-0.016600000000000004,0.0667,0.0833
 2022-02-10 08:30:53.074778,Super Bowl Specials - Super Bowl Specials - Halftime Show - Color of Snoop Dogg shoes at Halftime,Red,-0.016600000000000004,0.0667,0.0833
+2022-02-10 08:30:53.801172,NFL Specials - Where will Kyler Murray play Game 1 of the 2022 NFL Season? - Outright,Green Bay Packers,-0.016600000000000004,0.0667,0.0833
 2022-02-10 05:30:19.688826,"Super Bowl Specials - Super Bowl Specials - Halftime Show - Will any ""Bored Ape Yacht Club"" character make an appearance during the Halftime Show Broadcast",Yes,-0.017299999999999982,0.5744,0.5917
 2022-02-10 09:30:46.409188,England Championship - England Championship 21/22 - To Be Promoted,Queens Park Rangers,-0.0174,0.2326,0.25
 2022-02-10 09:30:46.402432,England Championship - England Championship 21/22 - Top Goalscorer,Dominic Solanke (Bournemouth),-0.0189,0.0196,0.0385
@@ -108,8 +112,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-10 11:31:47.182496,Premiership - Scottish Premiership 2021/22 - Outright,Rangers FC,-0.021899999999999975,0.4,0.4219
 2022-02-10 09:30:46.427051,England Championship - England Championship 21/22 - Top 6 Finish,Queens Park Rangers,-0.02200000000000002,0.6923,0.7143
 2022-02-10 11:31:43.726374,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Clear/Water,-0.022199999999999998,0.2,0.2222
-2022-02-10 05:30:20.897839,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,Sassuolo,-0.023200000000000002,0.0244,0.0476
 2022-02-10 11:31:48.697602,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Southampton,-0.023200000000000002,0.0244,0.0476
+2022-02-10 05:30:20.897839,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,Sassuolo,-0.023200000000000002,0.0244,0.0476
 2022-02-10 08:30:53.066359,Super Bowl Specials - Super Bowl Specials - First Touchdown Jersey Number,Over 27.5,-0.023799999999999988,0.4762,0.5
 2022-02-10 11:31:48.729225,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Norwich City,-0.025499999999999967,0.4,0.4255
 2022-02-10 08:30:54.332780,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Malik Monk,-0.025799999999999997,0.002,0.0278
@@ -122,8 +126,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-10 09:30:46.409188,England Championship - England Championship 21/22 - To Be Promoted,West Bromwich Albion,-0.03409999999999999,0.2326,0.2667
 2022-02-10 09:30:46.402432,England Championship - England Championship 21/22 - Top Goalscorer,Ben Brereton (Blackburn),-0.0392,0.0196,0.0588
 2022-02-10 09:30:46.427051,England Championship - England Championship 21/22 - Top 6 Finish,Coventry City,-0.04040000000000002,0.1818,0.2222
-2022-02-10 11:31:48.766111,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Arsenal,-0.044500000000000095,0.7333,0.7778
 2022-02-10 11:31:47.274513,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Livingston,-0.044500000000000095,0.7333,0.7778
+2022-02-10 11:31:48.766111,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Arsenal,-0.044500000000000095,0.7333,0.7778
 2022-02-10 09:30:46.418335,England Championship - England Championship 21/22 - Top 2 Finish,Blackburn Rovers,-0.048100000000000004,0.0769,0.125
 2022-02-10 11:31:47.303310,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Aberdeen,-0.06659999999999999,0.6667,0.7333
 2022-02-10 05:30:20.022557,Super Bowl Specials - Super Bowl Specials - Total Net Yards ,Over 770.5,-0.06970000000000004,0.4651,0.5348
