@@ -1,23 +1,27 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-02-10 05:30:21.196403,Coupe de France - Coupe de France 2021-22 - Outright,Nice,0.2333,0.5,0.2667
 2022-02-09 20:30:25.182075,94th Academy Awards - Odds to win Best Picture - Outright,The Power of the Dog,0.17099999999999993,0.6154,0.4444
+2022-02-10 05:30:21.196403,Coupe de France - Coupe de France 2021-22 - Outright,Monaco,0.15000000000000002,0.4,0.25
 2022-02-09 20:30:25.138740,94th Academy Awards - Odds to win Best Actress - Outright,Kristen Stewart (Spencer),0.1428,0.2857,0.1429
 2022-02-09 20:30:25.138740,94th Academy Awards - Odds to win Best Actress - Outright,Nicole Kidman (Being the Ricardos),0.12120000000000003,0.4545,0.3333
 2022-02-09 20:30:25.159881,94th Academy Awards - Odds to win Best Director - Outright,Jane Campion (The Power of the Dog,0.09719999999999995,0.875,0.7778
 2022-02-09 20:30:28.061887,League Two - England League Two 2021/22 - Top 7 Finish,Exeter City,0.09689999999999999,0.7333,0.6364
+2022-02-10 05:30:20.897839,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,AC Milan,0.09620000000000001,0.25,0.1538
 2022-02-09 20:30:28.002033,League Two - England League Two 2021/22 - Top Goalscorer,Mathew Stevens (Forest Green),0.0922,0.4255,0.3333
 2022-02-09 20:30:28.039012,League Two - England League Two 2021/22 - Top 3 Finish,Northampton Town,0.09090000000000004,0.4545,0.3636
 2022-02-09 20:30:25.680047,Super Bowl Specials - Super Bowl Specials - Halftime Show - Will Eminem Wear a Hoodie or a Hat,Yes,0.08750000000000002,0.6875,0.6
 2022-02-09 20:30:25.122979,94th Academy Awards - Odds to win Best Actor - Outright,Will Smith (King Richard),0.08330000000000004,0.75,0.6667
 2022-02-09 20:30:28.061887,League Two - England League Two 2021/22 - Top 7 Finish,Port Vale,0.08330000000000004,0.5833,0.5
+2022-02-10 05:30:20.897839,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,Inter Milan,0.08329999999999999,0.3333,0.25
 2022-02-09 20:30:28.014897,League Two - England League Two 2021/22 - To Be Promoted,Northampton Town,0.06930000000000003,0.5238,0.4545
 2022-02-09 20:30:28.026897,League Two - England League Two 2021/22 - To Be Relegated,Carlisle Utd,0.0635,0.2857,0.2222
 2022-02-09 20:30:27.961574,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,0.05590000000000006,0.6923,0.6364
 2022-02-09 20:30:28.026897,League Two - England League Two 2021/22 - To Be Relegated,Colchester United,0.05559999999999998,0.1667,0.1111
 2022-02-09 20:30:28.061887,League Two - England League Two 2021/22 - Top 7 Finish,Northampton Town,0.055499999999999994,0.8333,0.7778
-2022-02-09 20:30:25.748655,Super Bowl Specials - Super Bowl Specials - How many times will the chains be used for measurement?,Under 1.5,0.05449999999999999,0.6,0.5455
 2022-02-09 20:30:28.039012,League Two - England League Two 2021/22 - Top 3 Finish,Tranmere Rovers,0.05449999999999999,0.4545,0.4
-2022-02-09 20:30:26.643616,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,0.052000000000000005,0.1429,0.0909
+2022-02-09 20:30:25.748655,Super Bowl Specials - Super Bowl Specials - How many times will the chains be used for measurement?,Under 1.5,0.05449999999999999,0.6,0.5455
 2022-02-09 20:30:28.026897,League Two - England League Two 2021/22 - To Be Relegated,Walsall,0.052000000000000005,0.1429,0.0909
+2022-02-09 20:30:26.643616,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,0.052000000000000005,0.1429,0.0909
 2022-02-09 20:30:27.915158,League One - England League One 2021/22 - To Be Promoted,Sheffield Wednesday,0.04999999999999999,0.25,0.2
 2022-02-09 20:30:27.949243,League One - England League One 2021/22 - Top 2 Finish,Rotherham Utd,0.04810000000000003,0.9231,0.875
 2022-02-09 20:30:28.014897,League Two - England League Two 2021/22 - To Be Promoted,Tranmere Rovers,0.04760000000000003,0.5238,0.4762
@@ -31,7 +35,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-09 20:30:28.026897,League Two - England League Two 2021/22 - To Be Relegated,Barrow FC,0.03420000000000001,0.1111,0.0769
 2022-02-09 20:30:26.670745,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,0.03410000000000002,0.9091,0.875
 2022-02-09 20:30:26.614597,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.033399999999999985,0.1667,0.1333
+2022-02-10 05:30:20.989257,Premier League - Russia Premier League 2021/2022 - Outright,Dinamo Moscow,0.033300000000000024,0.2,0.1667
 2022-02-09 20:30:25.633938,Super Bowl Specials - Super Bowl Specials - Halftime Show - Color of Snoop Dogg shoes at Halftime,White,0.033300000000000024,0.2,0.1667
+2022-02-10 05:30:21.196403,Coupe de France - Coupe de France 2021-22 - Outright,Nantes,0.033300000000000024,0.2,0.1667
 2022-02-09 20:30:27.949243,League One - England League One 2021/22 - Top 2 Finish,Sheffield Wednesday,0.03330000000000001,0.1,0.0667
 2022-02-09 20:30:26.691472,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,0.03260000000000007,0.8,0.7674
 2022-02-09 20:30:26.708925,NBA Futures - 2022 NBA Southeast Division - Division Winner,Miami Heat,0.03059999999999996,0.9681,0.9375
@@ -42,43 +48,53 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-09 20:30:27.937614,League One - England League One 2021/22 - To Finish Bottom,Doncaster Rovers,0.029000000000000026,0.4545,0.4255
 2022-02-09 20:30:28.039012,League Two - England League Two 2021/22 - Top 3 Finish,Port Vale,0.027999999999999997,0.1818,0.1538
 2022-02-09 20:30:28.026897,League Two - England League Two 2021/22 - To Be Relegated,Stevenage,0.027800000000000005,0.1111,0.0833
+2022-02-10 05:30:20.077678,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Lime/Green/Yellow,0.02779999999999999,0.25,0.2222
 2022-02-09 20:30:27.961574,League One - England League One 2021/22 - Top 6 Finish,Ipswich Town,0.02779999999999999,0.25,0.2222
 2022-02-09 20:30:27.660170,A-League - Australia A-League 2021/2022 - Grand Final Winner,Melbourne City,0.02560000000000001,0.3333,0.3077
 2022-02-09 20:30:27.926602,League One - England League One 2021/22 - To Be Relegated,Cambridge United,0.0242,0.0909,0.0667
+2022-02-10 05:30:20.296021,Super Bowl Specials - Super Bowl Specials - Will there be a penalty for Roughing the Passer?,Yes,0.023800000000000043,0.5238,0.5
+2022-02-10 05:30:19.541804,Super Bowl Specials - Super Bowl Specials - Commercials - Commercial To Play First,Taco Bell,0.023799999999999988,0.5,0.4762
 2022-02-09 20:30:25.642604,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,Yes,0.023799999999999988,0.5,0.4762
 2022-02-09 20:30:26.726579,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.023799999999999932,0.8571,0.8333
 2022-02-09 20:30:25.866023,Super Bowl Specials - Super Bowl Specials - National Anthem - Who Will be Shown first,Sean McVay,0.022600000000000064,0.6226,0.6
 2022-02-09 20:30:27.926602,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,0.022199999999999998,0.2222,0.2
 2022-02-09 20:30:25.492574,Super Bowl Specials - Super Bowl Specials - Commercials - Commercial To Play First,Taco Bell,0.021699999999999997,0.4762,0.4545
 2022-02-09 20:30:27.926602,League One - England League One 2021/22 - To Be Relegated,Doncaster Rovers,0.01849999999999996,0.9709,0.9524
-2022-02-09 20:30:25.902193,Super Bowl Specials - Super Bowl Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,0.01820000000000002,0.2,0.1818
 2022-02-09 20:30:25.122979,94th Academy Awards - Odds to win Best Actor - Outright,Benedict Cumberbatch (The Power of the Dog),0.01820000000000002,0.2,0.1818
+2022-02-09 20:30:25.902193,Super Bowl Specials - Super Bowl Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,0.01820000000000002,0.2,0.1818
 2022-02-09 20:30:24.767533,Boxing Lines - Daniel Jacobs vs John Ryder - To Win the Bout,John Ryder,0.018100000000000005,0.4348,0.4167
 2022-02-09 20:30:24.747736,Boxing Lines - Ellie Scotney vs Jorgelina Guanini - To Win the Bout,Jorgelina Guanini,0.016700000000000007,0.1,0.0833
 2022-02-09 20:30:28.039012,League Two - England League Two 2021/22 - Top 3 Finish,Exeter City,0.016699999999999993,0.2667,0.25
 2022-02-09 20:30:25.633938,Super Bowl Specials - Super Bowl Specials - Halftime Show - Color of Snoop Dogg shoes at Halftime,Blue,0.015400000000000025,0.3279,0.3125
 2022-02-09 20:30:26.657139,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,0.01539999999999997,0.6154,0.6
-2022-02-09 20:30:28.061887,League Two - England League Two 2021/22 - Top 7 Finish,Tranmere Rovers,0.015100000000000002,0.8333,0.8182
 2022-02-09 20:30:27.162900,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Kofi Cockburn,0.015100000000000002,0.1818,0.1667
+2022-02-09 20:30:28.061887,League Two - England League Two 2021/22 - Top 7 Finish,Tranmere Rovers,0.015100000000000002,0.8333,0.8182
+2022-02-10 05:30:20.077678,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Blue,0.01469999999999999,0.25,0.2353
 2022-02-09 20:30:27.949243,League One - England League One 2021/22 - Top 2 Finish,Plymouth Argyle,0.014099999999999998,0.0385,0.0244
-2022-02-09 20:30:27.915158,League One - England League One 2021/22 - To Be Promoted,Ipswich Town,0.013999999999999999,0.0909,0.0769
+2022-02-10 05:30:19.037834,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Cleveland Cavaliers,0.014099999999999994,0.0667,0.0526
 2022-02-09 20:30:27.961574,League One - England League One 2021/22 - Top 6 Finish,Portsmouth,0.013999999999999999,0.0909,0.0769
+2022-02-09 20:30:27.915158,League One - England League One 2021/22 - To Be Promoted,Ipswich Town,0.013999999999999999,0.0909,0.0769
 2022-02-09 20:30:27.949243,League One - England League One 2021/22 - Top 2 Finish,Wycombe,0.013999999999999999,0.0909,0.0769
 2022-02-09 20:30:26.643616,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Toronto Raptors,0.013899999999999996,0.125,0.1111
 2022-02-09 20:30:27.915158,League One - England League One 2021/22 - To Be Promoted,Plymouth Argyle,0.013899999999999996,0.125,0.1111
+2022-02-10 05:30:19.688826,"Super Bowl Specials - Super Bowl Specials - Halftime Show - Will any ""Bored Ape Yacht Club"" character make an appearance during the Halftime Show Broadcast",No,0.0116,0.4878,0.4762
 2022-02-09 20:30:24.848253,Boxing Lines - Julio Cesar Martinez Aguilar vs Roman Gonzales - To Win the Bout,Julio Cesar Martinez Aguilar,0.010599999999999998,0.4651,0.4545
 2022-02-09 20:30:26.599663,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Philadelphia 76ers,0.0102,0.0769,0.0667
 2022-02-09 20:30:27.926602,League One - England League One 2021/22 - To Be Relegated,Crewe Alexandra,0.010199999999999987,0.9333,0.9231
+2022-02-10 05:30:20.989257,Premier League - Russia Premier League 2021/2022 - Outright,Krasnodar,-0.010100000000000001,0.0244,0.0345
+2022-02-10 05:30:20.145647,Super Bowl Specials - Super Bowl Specials - Will a non-QB throw a touchdown?,No,-0.010199999999999987,0.9231,0.9333
+2022-02-10 05:30:20.077678,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Purple,-0.0102,0.0667,0.0769
 2022-02-09 20:30:26.629053,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,New Orleans Pelicans,-0.0103,0.002,0.0123
 2022-02-09 20:30:26.599663,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,-0.010499999999999982,0.2,0.2105
-2022-02-09 20:30:28.061887,League Two - England League Two 2021/22 - Top 7 Finish,Bristol Rovers,-0.010899999999999993,0.1429,0.1538
 2022-02-09 20:30:26.629053,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,-0.010899999999999993,0.1429,0.1538
+2022-02-09 20:30:28.061887,League Two - England League Two 2021/22 - Top 7 Finish,Bristol Rovers,-0.010899999999999993,0.1429,0.1538
 2022-02-09 20:30:27.926602,League One - England League One 2021/22 - To Be Relegated,Shrewsbury Town,-0.011099999999999999,0.1,0.1111
 2022-02-09 20:30:28.014897,League Two - England League Two 2021/22 - To Be Promoted,Salford City,-0.011099999999999999,0.1,0.1111
-2022-02-09 20:30:28.014897,League Two - England League Two 2021/22 - To Be Promoted,Bristol Rovers,-0.011199999999999995,0.0476,0.0588
 2022-02-09 20:30:25.182075,94th Academy Awards - Odds to win Best Picture - Outright,Drive My Car,-0.011199999999999995,0.0476,0.0588
+2022-02-09 20:30:28.014897,League Two - England League Two 2021/22 - To Be Promoted,Bristol Rovers,-0.011199999999999995,0.0476,0.0588
 2022-02-09 20:30:27.497565,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Venezia,-0.011499999999999955,0.6552,0.6667
 2022-02-09 20:30:26.614597,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.01150000000000001,0.3333,0.3448
+2022-02-10 05:30:20.240007,Super Bowl Specials - Super Bowl Specials - Will The Opening Kickoff Be A Touchback?,Yes,-0.012199999999999989,0.4878,0.5
 2022-02-09 20:30:27.903213,League One - England League One 2021/22 - Top Goalscorer,Michael Smith (Rotherham),-0.012899999999999995,0.1538,0.1667
 2022-02-09 20:30:25.159881,94th Academy Awards - Odds to win Best Director - Outright,Kenneth Branagh (Belfast),-0.013899999999999996,0.1111,0.125
 2022-02-09 20:30:28.061887,League Two - England League Two 2021/22 - Top 7 Finish,Rochdale,-0.013999999999999999,0.0769,0.0909
@@ -91,50 +107,54 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-09 20:30:26.614597,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,New York Knicks,-0.0163,0.0033,0.0196
 2022-02-09 20:30:26.657139,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,-0.016699999999999993,0.25,0.2667
 2022-02-09 20:30:27.660170,A-League - Australia A-League 2021/2022 - Grand Final Winner,Melbourne Victory,-0.016699999999999993,0.25,0.2667
+2022-02-10 05:30:19.688826,"Super Bowl Specials - Super Bowl Specials - Halftime Show - Will any ""Bored Ape Yacht Club"" character make an appearance during the Halftime Show Broadcast",Yes,-0.017299999999999982,0.5744,0.5917
 2022-02-09 20:30:28.061887,League Two - England League Two 2021/22 - Top 7 Finish,Salford City,-0.0174,0.2326,0.25
 2022-02-09 20:30:28.061887,League Two - England League Two 2021/22 - Top 7 Finish,Leyton Orient,-0.0179,0.125,0.1429
 2022-02-09 20:30:27.949243,League One - England League One 2021/22 - Top 2 Finish,Oxford United,-0.018099999999999998,0.0588,0.0769
 2022-02-09 20:30:27.915158,League One - England League One 2021/22 - To Be Promoted,Wigan Athletic,-0.018199999999999994,0.8,0.8182
-2022-02-09 20:30:25.122979,94th Academy Awards - Odds to win Best Actor - Outright,Javier Bardem (Being the Ricardos),-0.018200000000000004,0.0294,0.0476
 2022-02-09 20:30:27.961574,League One - England League One 2021/22 - Top 6 Finish,Charlton Athletic,-0.018200000000000004,0.0294,0.0476
+2022-02-09 20:30:25.122979,94th Academy Awards - Odds to win Best Actor - Outright,Javier Bardem (Being the Ricardos),-0.018200000000000004,0.0294,0.0476
 2022-02-09 20:30:27.915158,League One - England League One 2021/22 - To Be Promoted,Sunderland,-0.018900000000000028,0.4255,0.4444
 2022-02-09 20:30:25.182075,94th Academy Awards - Odds to win Best Picture - Outright,King Richard,-0.019000000000000003,0.0435,0.0625
 2022-02-09 20:30:25.902193,Super Bowl Specials - Super Bowl Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,-0.019000000000000017,0.8667,0.8857
 2022-02-09 20:30:24.767533,Boxing Lines - Daniel Jacobs vs John Ryder - To Win the Bout,Daniel Jacobs,-0.019499999999999962,0.6296,0.6491
+2022-02-10 05:30:20.296021,Super Bowl Specials - Super Bowl Specials - Will there be a penalty for Roughing the Passer?,No,-0.01970000000000005,0.5455,0.5652
 2022-02-09 20:30:27.497565,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Cagliari,-0.01980000000000004,0.6,0.6198
 2022-02-09 20:30:25.182075,94th Academy Awards - Odds to win Best Picture - Outright,CODA,-0.0203,0.0385,0.0588
 2022-02-09 20:30:25.866023,Super Bowl Specials - Super Bowl Specials - National Anthem - Who Will be Shown first,Zac Taylor,-0.020699999999999996,0.4444,0.4651
 2022-02-09 20:30:25.182075,94th Academy Awards - Odds to win Best Picture - Outright,Belfast,-0.021999999999999964,0.2857,0.3077
-2022-02-09 20:30:25.810514,Super Bowl Specials - Super Bowl Specials - National Anthem - Predominant Color of Mickey Guyton outfit for the Anthem,Red,-0.022199999999999998,0.1111,0.1333
 2022-02-09 20:30:27.915158,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,-0.022199999999999998,0.2,0.2222
-2022-02-09 20:30:26.451789,CFL - Odds to win 109th (2022) Grey Cup - Outright,British Columbia Lions,-0.02310000000000001,0.0769,0.1
+2022-02-09 20:30:25.810514,Super Bowl Specials - Super Bowl Specials - National Anthem - Predominant Color of Mickey Guyton outfit for the Anthem,Red,-0.022199999999999998,0.1111,0.1333
 2022-02-09 20:30:25.633938,Super Bowl Specials - Super Bowl Specials - Halftime Show - Color of Snoop Dogg shoes at Halftime,Orange,-0.02310000000000001,0.0769,0.1
+2022-02-09 20:30:26.451789,CFL - Odds to win 109th (2022) Grey Cup - Outright,British Columbia Lions,-0.02310000000000001,0.0769,0.1
 2022-02-09 20:30:26.614597,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Toronto Raptors,-0.023200000000000002,0.0244,0.0476
 2022-02-09 20:30:28.026897,League Two - England League Two 2021/22 - To Be Relegated,Hartlepool United,-0.023200000000000002,0.0294,0.0526
+2022-02-10 05:30:20.897839,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,Sassuolo,-0.023200000000000002,0.0244,0.0476
 2022-02-09 20:30:25.492574,Super Bowl Specials - Super Bowl Specials - Commercials - Commercial To Play First,QuickBooks (Intuit),-0.023699999999999943,0.5917,0.6154
 2022-02-09 20:30:26.670745,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,-0.023799999999999988,0.1429,0.1667
 2022-02-09 20:30:26.708925,NBA Futures - 2022 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.024,0.0385,0.0625
-2022-02-09 20:30:27.949243,League One - England League One 2021/22 - Top 2 Finish,Milton Keynes Dons,-0.0242,0.0667,0.0909
 2022-02-09 20:30:27.926602,League One - England League One 2021/22 - To Be Relegated,Gillingham,-0.0242,0.9091,0.9333
+2022-02-09 20:30:27.949243,League One - England League One 2021/22 - Top 2 Finish,Milton Keynes Dons,-0.0242,0.0667,0.0909
 2022-02-09 20:30:26.629053,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,-0.024299999999999995,0.0526,0.0769
 2022-02-09 20:30:26.708925,NBA Futures - 2022 NBA Southeast Division - Division Winner,Charlotte Hornets,-0.024299999999999995,0.0526,0.0769
-2022-02-09 20:30:28.061887,League Two - England League Two 2021/22 - Top 7 Finish,Harrogate Town,-0.024999999999999994,0.1,0.125
 2022-02-09 20:30:26.629053,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Los Angeles Lakers,-0.024999999999999994,0.1,0.125
+2022-02-09 20:30:28.061887,League Two - England League Two 2021/22 - Top 7 Finish,Harrogate Town,-0.024999999999999994,0.1,0.125
 2022-02-09 20:30:27.961574,League One - England League One 2021/22 - Top 6 Finish,Wycombe,-0.025600000000000067,0.6667,0.6923
+2022-02-10 05:30:19.541804,Super Bowl Specials - Super Bowl Specials - Commercials - Commercial To Play First,QuickBooks (Intuit),-0.026499999999999968,0.5652,0.5917
 2022-02-09 20:30:25.642604,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,No,-0.026499999999999968,0.5652,0.5917
 2022-02-09 20:30:28.014897,League Two - England League Two 2021/22 - To Be Promoted,Swindon Town,-0.02779999999999999,0.2222,0.25
 2022-02-09 20:30:25.182075,94th Academy Awards - Odds to win Best Picture - Outright,Nightmare Alley,-0.028000000000000004,0.0196,0.0476
 2022-02-09 20:30:28.002033,League Two - England League Two 2021/22 - Top Goalscorer,Dominic Telford (Newport County),-0.029000000000000026,0.4255,0.4545
 2022-02-09 20:30:27.926602,League One - England League One 2021/22 - To Be Relegated,Lincoln City,-0.0321,0.0588,0.0909
-2022-02-09 20:30:28.026897,League Two - England League Two 2021/22 - To Be Relegated,Scunthorpe United,-0.033299999999999996,0.9,0.9333
 2022-02-09 20:30:25.369173,Super Bowl Specials - Super Bowl Specials - National Anthem - How Long Will It Take Mickey Guyton To Sing The US National Anthem?,Under 1 minutes and 40 seconds,-0.033299999999999996,0.4545,0.4878
+2022-02-09 20:30:28.026897,League Two - England League Two 2021/22 - To Be Relegated,Scunthorpe United,-0.033299999999999996,0.9,0.9333
 2022-02-09 20:30:27.949243,League One - England League One 2021/22 - Top 2 Finish,Sunderland,-0.033300000000000024,0.1667,0.2
 2022-02-09 20:30:25.748655,Super Bowl Specials - Super Bowl Specials - How many times will the chains be used for measurement?,Over 1.5,-0.03600000000000003,0.4878,0.5238
 2022-02-09 20:30:27.949243,League One - England League One 2021/22 - Top 2 Finish,Wigan Athletic,-0.036800000000000055,0.7333,0.7701
 2022-02-09 20:30:27.961574,League One - England League One 2021/22 - Top 6 Finish,Milton Keynes Dons,-0.03710000000000002,0.6552,0.6923
 2022-02-09 20:30:27.926602,League One - England League One 2021/22 - To Be Relegated,Cheltenham Town,-0.038299999999999994,0.0526,0.0909
-2022-02-09 20:30:27.926602,League One - England League One 2021/22 - To Be Relegated,Fleetwood Town,-0.04040000000000002,0.1818,0.2222
 2022-02-09 20:30:27.915158,League One - England League One 2021/22 - To Be Promoted,Oxford United,-0.04040000000000002,0.1818,0.2222
+2022-02-09 20:30:27.926602,League One - England League One 2021/22 - To Be Relegated,Fleetwood Town,-0.04040000000000002,0.1818,0.2222
 2022-02-09 20:30:28.061887,League Two - England League Two 2021/22 - Top 7 Finish,Sutton Utd,-0.040999999999999925,0.6923,0.7333
 2022-02-09 20:30:28.039012,League Two - England League Two 2021/22 - Top 3 Finish,Sutton Utd,-0.04099999999999998,0.2667,0.3077
 2022-02-09 20:30:27.961574,League One - England League One 2021/22 - Top 6 Finish,Sunderland,-0.04270000000000007,0.8462,0.8889
@@ -148,6 +168,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-09 20:30:27.926602,League One - England League One 2021/22 - To Be Relegated,Bolton Wanderers,-0.058499999999999996,0.004,0.0625
 2022-02-09 20:30:27.961574,League One - England League One 2021/22 - Top 6 Finish,Oxford United,-0.06669999999999998,0.6,0.6667
 2022-02-09 20:30:28.014897,League Two - England League Two 2021/22 - To Be Promoted,Sutton Utd,-0.06670000000000004,0.3333,0.4
+2022-02-10 05:30:20.022557,Super Bowl Specials - Super Bowl Specials - Total Net Yards ,Over 770.5,-0.06970000000000004,0.4651,0.5348
 2022-02-09 20:30:27.937614,League One - England League One 2021/22 - To Finish Bottom,Gillingham,-0.07789999999999997,0.2857,0.3636
 2022-02-09 20:30:25.182075,94th Academy Awards - Odds to win Best Picture - Outright,West Side Story,-0.07930000000000001,0.1429,0.2222
 2022-02-09 20:30:28.039012,League Two - England League Two 2021/22 - Top 3 Finish,Newport County,-0.08329999999999999,0.25,0.3333
