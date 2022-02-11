@@ -17,8 +17,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-11 18:30:58.969866,Super Bowl Specials - Super Bowl Specials - Will there be offsetting penalties called?,No,0.05289999999999995,0.6825,0.6296
 2022-02-11 12:30:50.408611,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Tenerife,0.04999999999999999,0.25,0.2
 2022-02-11 17:31:01.462081,Marvel Specials - Will Any Of These Characters Appear in Secret Invasion On Disney+? - Outright,Captain Marvel,0.04169999999999999,0.1667,0.125
-2022-02-11 17:31:01.462081,Marvel Specials - Will Any Of These Characters Appear in Secret Invasion On Disney+? - Outright,Kate Bishop,0.04169999999999999,0.1667,0.125
 2022-02-11 17:31:01.462081,Marvel Specials - Will Any Of These Characters Appear in Secret Invasion On Disney+? - Outright,Echo,0.04169999999999999,0.1667,0.125
+2022-02-11 17:31:01.462081,Marvel Specials - Will Any Of These Characters Appear in Secret Invasion On Disney+? - Outright,Kate Bishop,0.04169999999999999,0.1667,0.125
 2022-02-11 09:31:07.020215,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Liverpool,0.04039999999999999,0.8182,0.7778
 2022-02-11 11:30:57.326879,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,T. Young Total Combined PTS/AST/REB/STL/BLK at BOS,0.03479999999999994,0.6,0.5652
 2022-02-11 11:30:57.357999,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Tyler Boyd receiving yards in SB LVI,0.028900000000000037,0.5744,0.5455
@@ -28,16 +28,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-11 14:31:02.802556,Super Bowl Specials - Super Bowl Specials - How Many Players will have a passing attempt?,Over 2.5,0.024399999999999977,0.5122,0.4878
 2022-02-11 12:30:49.583672,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Clear/Water,0.023799999999999988,0.1667,0.1429
 2022-02-11 18:30:58.498430,Super Bowl Specials - Super Bowl Specials - Super Bowl LVI MVP,Cooper Kupp,0.023799999999999988,0.1667,0.1429
-2022-02-11 08:30:50.411880,Super Bowl Specials - Super Bowl Specials - Commercials - Commercial To Play First,Bud Light Seltzer Hard Soda,0.023799999999999988,0.1667,0.1429
 2022-02-11 16:31:35.925449,Super Bowl Specials - Super Bowl Specials - What Will happen to the Price of Bitcoin (BTC) During the Superbowl?,Price Of Bitcoin Goes Up,0.023699999999999943,0.6154,0.5917
-2022-02-11 16:31:35.072239,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,Yes,0.022600000000000064,0.5348,0.5122
 2022-02-11 11:30:57.366693,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Trae Young Total 3 point FG Made against Celtics,0.022600000000000064,0.5348,0.5122
+2022-02-11 16:31:35.072239,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,Yes,0.022600000000000064,0.5348,0.5122
 2022-02-11 12:30:50.396892,Euro Cup - Euro Cup 2021/22 - Winner,Valencia,0.022199999999999998,0.2222,0.2
 2022-02-11 12:30:49.106072,94th Academy Awards - Odds to win Best Actor - Outright,Benedict Cumberbatch (The Power of the Dog),0.022199999999999998,0.2222,0.2
 2022-02-11 09:31:07.118107,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Manchester United,0.02200000000000002,0.7143,0.6923
-2022-02-11 17:31:02.190213,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,JaMarr Chase Receiving Yards (-7.5),0.02079999999999993,0.5556,0.5348
 2022-02-11 17:31:02.173499,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Shortest Touchdown in SB LVI,0.02079999999999993,0.5556,0.5348
 2022-02-11 11:30:57.239221,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Matthew Stafford Rushing Yards in SB LVI,0.02079999999999993,0.5556,0.5348
+2022-02-11 17:31:02.190213,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,JaMarr Chase Receiving Yards (-7.5),0.02079999999999993,0.5556,0.5348
 2022-02-11 15:30:51.471407,Super Bowl Specials - Super Bowl Specials - Will The Opening Kickoff Be A Touchback?,No,0.020299999999999985,0.6429,0.6226
 2022-02-11 18:30:58.498430,Super Bowl Specials - Super Bowl Specials - Super Bowl LVI MVP,Aaron Donald,0.02020000000000001,0.1111,0.0909
 2022-02-11 17:31:02.201042,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Tee Higgins Receiving Yards (-2.5),0.01970000000000005,0.5652,0.5455
@@ -58,13 +57,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-11 12:30:50.385114,Euroleague - Euroleague 2021/22 - Winner,Real Madrid BC,-0.011099999999999999,0.2667,0.2778
 2022-02-11 17:31:02.157222,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Buffalo Sabres Total Goals Scored Feb 13 (-0.5),-0.011600000000000055,0.5122,0.5238
 2022-02-11 15:30:50.866487,Super Bowl Specials - Super Bowl Specials - Commercials - Commercial To Play First,Cutwater Spirits,-0.012899999999999995,0.1538,0.1667
-2022-02-11 09:31:07.118107,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Chelsea,-0.013999999999999999,0.0769,0.0909
 2022-02-11 12:30:50.408611,FIBA Champions League - FIBA Champions League 2021/22 - Outright,MHP Riesen Ludwigsburg,-0.013999999999999999,0.0769,0.0909
+2022-02-11 09:31:07.118107,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Chelsea,-0.013999999999999999,0.0769,0.0909
 2022-02-11 12:30:50.408611,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Universo Treviso,-0.014099999999999998,0.0294,0.0435
 2022-02-11 12:30:50.408611,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Falco KC-Szombathely,-0.0145,0.0099,0.0244
 2022-02-11 12:30:50.408611,FIBA Champions League - FIBA Champions League 2021/22 - Outright,BC Oostende,-0.0145,0.0099,0.0244
 2022-02-11 13:31:03.926814,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Blue,-0.01469999999999999,0.2353,0.25
-2022-02-11 08:30:50.411880,Super Bowl Specials - Super Bowl Specials - Commercials - Commercial To Play First,Cutwater Spirits,-0.015100000000000002,0.1667,0.1818
 2022-02-11 15:30:50.866487,Super Bowl Specials - Super Bowl Specials - Commercials - Commercial To Play First,Michelob Ultra,-0.015100000000000002,0.1667,0.1818
 2022-02-11 12:30:50.396892,Euro Cup - Euro Cup 2021/22 - Winner,BC Andorra,-0.015300000000000001,0.0435,0.0588
 2022-02-11 12:30:49.583672,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Blue,-0.016699999999999993,0.25,0.2667
