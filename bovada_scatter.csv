@@ -9,12 +9,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-12 05:31:07.619930,NBL - NBL 2021/22 - Outright,Sydney Kings,0.042899999999999994,0.1429,0.1
 2022-02-12 06:31:05.900703,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Tyler Boyd receiving yards in SB LVI,0.040999999999999925,0.6154,0.5744
 2022-02-12 13:30:50.890565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Blue,0.03640000000000004,0.4,0.3636
-2022-02-12 11:31:09.084285,94th Academy Awards - Best Supporting Actor - Outright,Troy Kotsur (CODA),0.03570000000000001,0.2857,0.25
 2022-02-12 15:31:04.405414,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,0.03570000000000001,0.2857,0.25
+2022-02-12 11:31:09.084285,94th Academy Awards - Best Supporting Actor - Outright,Troy Kotsur (CODA),0.03570000000000001,0.2857,0.25
 2022-02-12 15:31:04.392576,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,0.033399999999999985,0.1667,0.1333
 2022-02-12 07:30:53.372802,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,0.03180000000000005,0.8889,0.8571
-2022-02-12 16:30:46.970862,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-12 17:31:00.918057,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
 2022-02-12 14:30:49.732526,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-12 16:30:46.970862,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
 2022-02-12 15:31:03.112243,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
 2022-02-12 12:30:42.805265,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Blue,0.030299999999999994,0.3636,0.3333
 2022-02-12 12:30:43.948096,A-League - Australia A-League 2021/2022 - Grand Final Winner,Melbourne City,0.030299999999999994,0.3636,0.3333
@@ -45,11 +46,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-12 14:30:49.358881,Super Bowl Specials - Super Bowl Specials - Total 1st Quarter Made Field Goals ,Over 1.5,0.011699999999999988,0.2857,0.274
 2022-02-12 07:30:53.311346,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.01150000000000001,0.3448,0.3333
 2022-02-12 15:31:03.677767,Boxing Lines - Felix Cash vs Magomed Madiev - To Win the Bout,Felix Cash,0.011199999999999988,0.9524,0.9412
-2022-02-12 06:31:06.332336,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Cooper Kupp Receiving Yards +7.5,0.010699999999999932,0.5455,0.5348
 2022-02-12 07:30:53.859252,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,Yes,0.010699999999999932,0.5455,0.5348
+2022-02-12 06:31:06.332336,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Cooper Kupp Receiving Yards +7.5,0.010699999999999932,0.5455,0.5348
 2022-02-12 11:31:10.839222,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Cooper Kupp Receiving Yards +7.5,0.010099999999999998,0.5556,0.5455
-2022-02-12 06:31:06.332336,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Boston Celtics Total Points Scored Feb 13 -7.5,-0.01100000000000001,0.5238,0.5348
 2022-02-12 07:30:53.859252,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,No,-0.01100000000000001,0.5238,0.5348
+2022-02-12 06:31:06.332336,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Boston Celtics Total Points Scored Feb 13 -7.5,-0.01100000000000001,0.5238,0.5348
 2022-02-12 15:31:04.380335,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.01150000000000001,0.3333,0.3448
 2022-02-12 11:31:10.839222,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Boston Celtics Total Points Scored Feb 13 -7.5,-0.011600000000000055,0.5122,0.5238
 2022-02-12 07:30:53.311346,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,-0.012299999999999978,0.3448,0.3571
@@ -65,24 +66,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-12 05:31:07.700866,LKL - LKL 2021/22 - Outright,Rytas,-0.01820000000000002,0.1818,0.2
 2022-02-12 10:30:44.674883,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Orange,-0.019000000000000017,0.2667,0.2857
 2022-02-12 13:30:51.441474,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,"Biden's approval rating on March 1st, 2022",-0.019699999999999995,0.4348,0.4545
-2022-02-12 07:30:52.593901,94th Academy Awards - Best Adapted Screenplay - Outright,The Lost Daughter (written by Maggie Gyllenhaal),-0.02020000000000001,0.0909,0.1111
 2022-02-12 13:30:50.890565,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Purple,-0.02020000000000001,0.0909,0.1111
+2022-02-12 07:30:52.593901,94th Academy Awards - Best Adapted Screenplay - Outright,The Lost Daughter (written by Maggie Gyllenhaal),-0.02020000000000001,0.0909,0.1111
 2022-02-12 15:31:04.444126,NBA Futures - 2022 NBA Southeast Division - Division Winner,Charlotte Hornets,-0.0203,0.0323,0.0526
 2022-02-12 07:30:53.823932,Super Bowl Specials - Super Bowl Specials - Distance of longest enforced penalty in game?,Under 15.5 Yards,-0.021699999999999997,0.4545,0.4762
 2022-02-12 06:31:05.492114,Super Bowl Specials - Super Bowl Specials - Will there be a flea flicker attempt in the game?,No,-0.021700000000000053,0.7561,0.7778
-2022-02-12 15:31:04.430405,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.023799999999999988,0.1429,0.1667
-2022-02-12 11:31:09.108007,94th Academy Awards - Odds to win Best Actor - Outright,"Andrew Garfield (Tick, Tick... Boom!)",-0.023799999999999988,0.1429,0.1667
 2022-02-12 15:31:04.261798,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,-0.023799999999999988,0.3333,0.3571
 2022-02-12 15:31:04.457175,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.023799999999999988,0.1429,0.1667
+2022-02-12 11:31:09.108007,94th Academy Awards - Odds to win Best Actor - Outright,"Andrew Garfield (Tick, Tick... Boom!)",-0.023799999999999988,0.1429,0.1667
+2022-02-12 15:31:04.430405,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.023799999999999988,0.1429,0.1667
 2022-02-12 06:31:06.192552,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Total Rounds Tuivasa vs Lewis,-0.024399999999999977,0.4878,0.5122
 2022-02-12 06:31:05.140128,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Clear/Water,-0.024999999999999994,0.1,0.125
 2022-02-12 15:31:04.366752,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.02779999999999999,0.2222,0.25
 2022-02-12 12:30:43.948096,A-League - Australia A-League 2021/2022 - Grand Final Winner,Melbourne Victory,-0.02779999999999999,0.2222,0.25
-2022-02-12 07:30:53.359986,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,-0.028799999999999992,0.125,0.1538
 2022-02-12 11:31:09.084285,94th Academy Awards - Best Supporting Actor - Outright,Ciaran Hinds (Belfast),-0.028799999999999992,0.125,0.1538
-2022-02-12 14:30:49.727016,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-12 07:30:53.359986,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,-0.028799999999999992,0.125,0.1538
 2022-02-12 15:31:03.099640,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-12 16:30:46.963414,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-12 14:30:49.727016,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-12 17:31:00.910231,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-12 06:31:05.900703,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,"Biden's approval rating on March 1st, 2022",-0.033299999999999996,0.4545,0.4878
 2022-02-12 11:31:09.004840,94th Academy Awards - Best Adapted Screenplay - Outright,The Power of the Dog (written by Jane Campion),-0.033299999999999996,0.8,0.8333
 2022-02-12 07:30:53.372802,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.033300000000000024,0.1667,0.2
