@@ -21,14 +21,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-12 05:31:07.700866,LKL - LKL 2021/22 - Outright,Zalgiris,0.017900000000000027,0.875,0.8571
 2022-02-12 06:31:05.492114,Super Bowl Specials - Super Bowl Specials - Will there be a flea flicker attempt in the game?,Yes,0.017799999999999983,0.3077,0.2899
 2022-02-12 07:30:53.343583,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,0.016699999999999993,0.2667,0.25
+2022-02-12 08:30:45.110567,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,0.015100000000000002,0.1818,0.1667
 2022-02-12 05:31:04.894080,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Gonzaga,0.015100000000000002,0.1818,0.1667
+2022-02-12 08:30:44.551456,Super Bowl Specials - Super Bowl Specials - Who will the Super Bowl MVP mention first in his speech?,Owner,0.014399999999999996,0.0769,0.0625
 2022-02-12 03:30:42.117073,Boxing Lines - Noel Gevor vs Youri Kalenga - To Win the Bout,Youri Kalenga,0.01319999999999999,0.2632,0.25
 2022-02-12 02:31:02.947277,Boxing Lines - Noel Gevor vs Youri Kalenga - To Win the Bout,Noel Gevor,0.012400000000000078,0.8182,0.8058
 2022-02-11 22:30:43.498875,Super Bowl Specials - Super Bowl Specials - National Anthem - Who Will be Shown first,Sean McVay,0.012299999999999978,0.6552,0.6429
 2022-02-12 07:30:53.311346,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.01150000000000001,0.3448,0.3333
 2022-02-11 23:30:53.963343,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Sevilla,0.011099999999999999,0.1111,0.1
-2022-02-12 06:31:06.332336,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Cooper Kupp Receiving Yards +7.5,0.010699999999999932,0.5455,0.5348
 2022-02-12 07:30:53.859252,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,Yes,0.010699999999999932,0.5455,0.5348
+2022-02-12 06:31:06.332336,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Cooper Kupp Receiving Yards +7.5,0.010699999999999932,0.5455,0.5348
 2022-02-11 22:30:43.551025,Super Bowl Specials - Super Bowl Specials - Team to Make First Coaches Challange,Los Angeles Rams,0.010099999999999998,0.5556,0.5455
 2022-02-12 07:30:53.859252,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,No,-0.01100000000000001,0.5238,0.5348
 2022-02-12 06:31:06.332336,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Boston Celtics Total Points Scored Feb 13 -7.5,-0.01100000000000001,0.5238,0.5348
@@ -40,6 +42,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-12 07:30:53.260207,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,-0.012899999999999995,0.1538,0.1667
 2022-02-11 23:30:53.912541,Germany Bundesliga - German Bundesliga 2021/22 - Outright,Borussia Dortmund,-0.0131,0.0345,0.0476
 2022-02-12 02:31:02.947277,Boxing Lines - Noel Gevor vs Youri Kalenga - To Win the Bout,Youri Kalenga,-0.01319999999999999,0.25,0.2632
+2022-02-12 08:30:45.110567,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Rudy Gobert,-0.013300000000000034,0.3571,0.3704
 2022-02-12 00:30:56.111100,Boxing Lines - Noel Gevor vs Youri Kalenga - To Win the Bout,Youri Kalenga,-0.014600000000000002,0.2632,0.2778
 2022-02-12 07:30:53.260207,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,-0.01469999999999999,0.2353,0.25
 2022-02-12 05:31:07.619930,NBL - NBL 2021/22 - Outright,SE Melbourne Phoenix,-0.01469999999999999,0.2353,0.25
@@ -49,12 +52,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-12 05:31:07.700866,LKL - LKL 2021/22 - Outright,Rytas,-0.01820000000000002,0.1818,0.2
 2022-02-11 22:30:43.516286,Super Bowl Specials - Super Bowl Specials - National Anthem - Will any scoring drive take less time than it takes to sing the National Anthem?,Yes,-0.019499999999999962,0.6296,0.6491
 2022-02-12 07:30:52.593901,94th Academy Awards - Best Adapted Screenplay - Outright,The Lost Daughter (written by Maggie Gyllenhaal),-0.02020000000000001,0.0909,0.1111
-2022-02-11 22:30:43.395170,Super Bowl Specials - Super Bowl Specials - How Many Players will have a passing attempt?,Under 2.5,-0.02079999999999993,0.5348,0.5556
 2022-02-11 22:30:43.235509,Super Bowl Specials - Super Bowl Specials - Combined yardage of made Field goals?,Under 126.5,-0.02079999999999993,0.5348,0.5556
+2022-02-11 22:30:43.395170,Super Bowl Specials - Super Bowl Specials - How Many Players will have a passing attempt?,Under 2.5,-0.02079999999999993,0.5348,0.5556
 2022-02-12 07:30:53.823932,Super Bowl Specials - Super Bowl Specials - Distance of longest enforced penalty in game?,Under 15.5 Yards,-0.021699999999999997,0.4545,0.4762
 2022-02-12 06:31:05.492114,Super Bowl Specials - Super Bowl Specials - Will there be a flea flicker attempt in the game?,No,-0.021700000000000053,0.7561,0.7778
-2022-02-11 22:30:43.429561,Super Bowl Specials - Super Bowl Specials - Last Score of the 1st half is a Field Goal,No,-0.022600000000000064,0.5122,0.5348
 2022-02-11 22:30:43.263620,Super Bowl Specials - Super Bowl Specials - Commercials - Commercial To Play First,QuickBooks (Intuit),-0.022600000000000064,0.5122,0.5348
+2022-02-11 22:30:43.429561,Super Bowl Specials - Super Bowl Specials - Last Score of the 1st half is a Field Goal,No,-0.022600000000000064,0.5122,0.5348
 2022-02-11 22:30:43.481882,Super Bowl Specials - Super Bowl Specials - National Anthem - Who Will be Shown first,Bengals player Or Staff,-0.022699999999999998,0.4651,0.4878
 2022-02-12 06:31:06.192552,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Total Rounds Tuivasa vs Lewis,-0.024399999999999977,0.4878,0.5122
 2022-02-12 06:31:05.140128,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Clear/Water,-0.024999999999999994,0.1,0.125
@@ -62,6 +65,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-12 06:31:05.900703,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,"Biden's approval rating on March 1st, 2022",-0.033299999999999996,0.4545,0.4878
 2022-02-12 07:30:53.372802,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.033300000000000024,0.1667,0.2
 2022-02-12 05:31:07.619930,NBL - NBL 2021/22 - Outright,Illawarra Hawks,-0.033399999999999985,0.1333,0.1667
+2022-02-12 08:30:44.551456,Super Bowl Specials - Super Bowl Specials - Who will the Super Bowl MVP mention first in his speech?,Teammates,-0.03480000000000005,0.5,0.5348
 2022-02-12 06:31:05.140128,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Orange,-0.047599999999999976,0.2857,0.3333
 2022-02-12 07:30:53.324496,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.0476,0.1429,0.1905
 2022-02-12 06:31:05.812884,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,USA/Germany Total Goals Scored Feb 13 (scr),-0.0805999999999999,0.5348,0.6154
