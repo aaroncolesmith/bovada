@@ -1,72 +1,55 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-12 18:30:54.973655,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Ron DeSantis,0.08079999999999998,0.303,0.2222
-2022-02-12 18:30:54.956120,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Joe Biden,0.06670000000000004,0.4,0.3333
 2022-02-13 03:30:51.363608,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,0.06670000000000004,0.4,0.3333
+2022-02-12 18:30:54.956120,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Joe Biden,0.06670000000000004,0.4,0.3333
 2022-02-13 01:30:47.350195,League One - England League One 2021/22 - Outright,Rotherham Utd,0.06659999999999999,0.7333,0.6667
 2022-02-12 18:30:54.973655,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Mike Pompeo,0.0448,0.0833,0.0385
 2022-02-12 20:30:50.087686,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Arsenal,0.03640000000000004,0.4,0.3636
-2022-02-12 15:31:04.405414,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,0.03570000000000001,0.2857,0.25
 2022-02-12 18:30:54.956120,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Hillary Clinton,0.035699999999999996,0.0833,0.0476
-2022-02-12 15:31:04.392576,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,0.033399999999999985,0.1667,0.1333
 2022-02-12 20:30:50.079115,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,0.033399999999999985,0.1667,0.1333
 2022-02-12 20:30:50.079115,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Watford,0.033299999999999996,0.8333,0.8
 2022-02-12 18:30:54.956120,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Pete Buttigieg,0.031799999999999995,0.1429,0.1111
-2022-02-13 02:30:46.099784,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-12 18:30:57.199387,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-13 00:31:05.210055,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-12 23:31:26.889018,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-12 15:31:03.112243,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-12 22:31:12.463236,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-13 03:30:50.936149,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-12 21:30:44.557093,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-12 16:30:46.970862,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
 2022-02-12 17:31:00.918057,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
 2022-02-12 20:30:49.302028,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-12 16:30:46.970862,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-12 21:30:44.557093,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-12 22:31:12.463236,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-12 23:31:26.889018,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 02:30:46.099784,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 00:31:05.210055,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
 2022-02-13 01:30:46.682369,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-12 18:30:57.199387,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 03:30:50.936149,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 04:30:42.541897,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
 2022-02-12 19:30:38.385131,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-12 15:31:04.457175,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.026700000000000057,0.9091,0.8824
-2022-02-12 15:31:04.366752,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,0.02560000000000001,0.3333,0.3077
-2022-02-12 15:31:04.430405,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,0.020199999999999996,0.9091,0.8889
-2022-02-12 15:31:04.405414,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,0.019000000000000017,0.2857,0.2667
 2022-02-12 20:30:50.087686,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Chelsea,0.018900000000000028,0.9804,0.9615
-2022-02-12 15:31:04.392576,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Toronto Raptors,0.0179,0.1429,0.125
 2022-02-12 22:31:12.180302,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,BOS Celtics v ATL Hawks Total Points,0.017299999999999982,0.5917,0.5744
-2022-02-12 15:31:04.380335,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Memphis Grizzlies,0.016700000000000007,0.1,0.0833
 2022-02-12 20:30:50.079115,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Norwich City,0.015100000000000002,0.8333,0.8182
-2022-02-12 15:31:04.261798,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,0.01469999999999999,0.25,0.2353
 2022-02-13 01:30:47.109267,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Sevilla,0.013899999999999996,0.125,0.1111
 2022-02-12 21:30:43.506098,Boxing Lines - Daniel Jacobs vs John Ryder - To Win the Bout,Daniel Jacobs,0.012700000000000045,0.6491,0.6364
 2022-02-13 01:30:47.161709,England Championship - England Championship 21/22 - Outright,Middlesbrough,0.012100000000000001,0.0244,0.0123
-2022-02-12 15:31:03.677767,Boxing Lines - Felix Cash vs Magomed Madiev - To Win the Bout,Felix Cash,0.011199999999999988,0.9524,0.9412
-2022-02-12 18:30:57.236657,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Total accepted penalties by Rams,0.010699999999999932,0.5455,0.5348
-2022-02-12 18:30:56.380728,Super Bowl Specials - Super Bowl Specials - Total Penalty Yards,Over 77.5,0.010699999999999932,0.5455,0.5348
 2022-02-12 18:30:56.456092,Super Bowl Specials - Super Bowl Specials - Which team will call for a Fair Catch First in Game?,Los Angeles Rams,0.010699999999999932,0.5455,0.5348
+2022-02-12 18:30:56.380728,Super Bowl Specials - Super Bowl Specials - Total Penalty Yards,Over 77.5,0.010699999999999932,0.5455,0.5348
 2022-02-12 18:30:56.461512,Super Bowl Specials - Super Bowl Specials - Who will be the First team penalized for pass interference?,Cincinnati Bengals,0.010699999999999932,0.5455,0.5348
+2022-02-12 18:30:57.236657,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Total accepted penalties by Rams,0.010699999999999932,0.5455,0.5348
 2022-02-12 18:30:55.438377,Boxing Lines - Price Ivan vs Ricardo Roman - To Win the Bout,Price Ivan,0.010099999999999998,0.9756,0.9655
-2022-02-12 18:30:56.380728,Super Bowl Specials - Super Bowl Specials - Total Penalty Yards,Under 77.5,-0.01100000000000001,0.5238,0.5348
-2022-02-12 18:30:56.456092,Super Bowl Specials - Super Bowl Specials - Which team will call for a Fair Catch First in Game?,Cincinnati Bengals,-0.01100000000000001,0.5238,0.5348
 2022-02-12 18:30:56.461512,Super Bowl Specials - Super Bowl Specials - Who will be the First team penalized for pass interference?,Los Angeles Rams,-0.01100000000000001,0.5238,0.5348
 2022-02-12 18:30:57.236657,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Total Rounds Adesanya vs Whittaker,-0.01100000000000001,0.5238,0.5348
+2022-02-12 18:30:56.456092,Super Bowl Specials - Super Bowl Specials - Which team will call for a Fair Catch First in Game?,Cincinnati Bengals,-0.01100000000000001,0.5238,0.5348
+2022-02-12 18:30:56.380728,Super Bowl Specials - Super Bowl Specials - Total Penalty Yards,Under 77.5,-0.01100000000000001,0.5238,0.5348
 2022-02-12 18:30:56.201622,Super Bowl Specials - Super Bowl Specials - How many times will Roger Goodell be shown?,Under 1.5,-0.011099999999999999,0.4651,0.4762
-2022-02-12 15:31:04.380335,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.01150000000000001,0.3333,0.3448
 2022-02-12 22:31:12.180302,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Cooper Kupp + Ja'Marr Chase combined Receiving Yards,-0.0116,0.4762,0.4878
 2022-02-13 01:30:47.350195,League One - England League One 2021/22 - Outright,Oxford United,-0.013,0.0066,0.0196
 2022-02-12 19:30:37.575482,Boxing Lines - Ellie Scotney vs Jorgelina Guanini - To Win the Bout,Ellie Scotney,-0.0131,0.9524,0.9655
-2022-02-12 15:31:04.380335,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Los Angeles Lakers,-0.014399999999999996,0.0625,0.0769
 2022-02-13 01:30:47.161709,England Championship - England Championship 21/22 - Outright,Fulham,-0.017900000000000027,0.8571,0.875
 2022-02-13 01:30:47.088297,Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,-0.018999999999999906,0.7143,0.7333
 2022-02-13 01:30:47.350195,League One - England League One 2021/22 - Outright,Sunderland,-0.019099999999999995,0.0244,0.0435
-2022-02-12 15:31:04.444126,NBA Futures - 2022 NBA Southeast Division - Division Winner,Charlotte Hornets,-0.0203,0.0323,0.0526
 2022-02-13 01:30:47.350195,League One - England League One 2021/22 - Outright,Milton Keynes Dons,-0.0236,0.0149,0.0385
-2022-02-12 15:31:04.457175,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.023799999999999988,0.1429,0.1667
-2022-02-12 15:31:04.261798,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,-0.023799999999999988,0.3333,0.3571
-2022-02-12 15:31:04.430405,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.023799999999999988,0.1429,0.1667
 2022-02-12 18:30:54.973655,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Mike Pence,-0.024299999999999995,0.0526,0.0769
-2022-02-12 15:31:04.366752,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.02779999999999999,0.2222,0.25
-2022-02-13 03:30:50.925035,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
-2022-02-12 15:31:03.099640,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
-2022-02-12 21:30:44.551723,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-12 19:30:38.379108,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-13 04:30:42.534700,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-12 18:30:57.186981,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-13 03:30:50.925035,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-13 02:30:46.093162,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-13 01:30:46.676943,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-13 00:31:05.203237,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
@@ -75,10 +58,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-12 16:30:46.963414,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-12 17:31:00.910231,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-12 20:30:49.292905,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
-2022-02-12 19:30:38.379108,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
-2022-02-12 15:31:04.405414,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,-0.037800000000000056,0.5455,0.5833
+2022-02-12 21:30:44.551723,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-13 01:30:47.109267,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Real Madrid,-0.052000000000000046,0.8571,0.9091
 2022-02-12 20:30:50.087686,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Manchester United,-0.055900000000000005,0.3077,0.3636
-2022-02-12 15:31:04.392576,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,-0.07140000000000002,0.6429,0.7143
 2022-02-12 18:30:54.956120,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Kamala Harris,-0.08329999999999999,0.25,0.3333
 2022-02-12 20:30:50.079115,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Everton,-0.0889,0.1111,0.2
