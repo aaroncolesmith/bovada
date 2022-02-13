@@ -11,19 +11,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-13 11:30:52.703348,Super Bowl Specials - Super Bowl Specials - First Touchdown Jersey Number,Under 23.5,0.03370000000000006,0.6491,0.6154
 2022-02-13 06:30:44.070946,Super Bowl Specials - Super Bowl Specials - Distance of longest enforced penalty in game?,Over 15.5 Yards,0.03370000000000006,0.6491,0.6154
 2022-02-13 09:31:02.624386,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.033300000000000024,0.2,0.1667
+2022-02-13 04:30:42.541897,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 10:30:43.718074,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 06:30:44.656394,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 05:30:46.522127,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 08:31:25.977017,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
 2022-02-13 03:30:50.936149,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
 2022-02-13 09:31:02.300069,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-13 05:30:46.522127,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-13 04:30:42.541897,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-13 07:30:46.534776,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
 2022-02-13 02:30:46.099784,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-13 08:31:25.977017,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
 2022-02-13 01:30:46.682369,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-13 00:31:05.210055,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-13 10:30:43.718074,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-13 12:31:00.754647,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
 2022-02-13 11:30:53.980957,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-13 06:30:44.656394,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 13:30:45.020738,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 12:31:00.754647,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 07:30:46.534776,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
 2022-02-13 12:30:58.807769,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Monty Williams (PHO),0.030299999999999994,0.6667,0.6364
 2022-02-13 06:30:44.087029,Super Bowl Specials - Super Bowl Specials - First Touchdown Jersey Number,Under 23.5,0.023699999999999943,0.6154,0.5917
 2022-02-13 10:30:43.446108,Super Bowl Specials - Super Bowl Specials - Will there be a penalty for Roughing the Passer?,Yes,0.022699999999999998,0.4878,0.4651
@@ -90,19 +90,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-13 10:30:43.446108,Super Bowl Specials - Super Bowl Specials - Will there be a penalty for Roughing the Passer?,No,-0.025599999999999956,0.5744,0.6
 2022-02-13 09:31:02.624386,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,-0.026100000000000012,0.1739,0.2
 2022-02-13 10:30:42.498479,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,-0.026700000000000057,0.8824,0.9091
-2022-02-13 01:30:46.676943,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
-2022-02-13 05:30:46.513707,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
-2022-02-13 10:30:43.708826,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-13 02:30:46.093162,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
-2022-02-13 12:31:00.745553,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-13 06:30:44.650464,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-13 11:30:53.972719,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-13 03:30:50.925035,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-13 13:30:45.011553,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-13 12:31:00.745553,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-13 04:30:42.534700,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
-2022-02-13 00:31:05.203237,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
-2022-02-13 06:30:44.650464,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-13 05:30:46.513707,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-13 01:30:46.676943,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-13 07:30:46.522133,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-13 08:31:25.963892,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-13 09:31:02.290106,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-13 10:30:43.708826,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-13 10:30:43.435346,Super Bowl Specials - Super Bowl Specials - Will there be a Missed PAT Conversion?,Yes,-0.031799999999999995,0.2857,0.3175
 2022-02-13 10:30:42.475868,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,-0.033399999999999985,0.1333,0.1667
 2022-02-13 10:30:42.475868,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.037599999999999995,0.1053,0.1429
