@@ -3,112 +3,121 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-13 10:30:42.475868,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.07140000000000002,0.7143,0.6429
 2022-02-13 10:30:42.498479,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,0.0676,0.2105,0.1429
 2022-02-13 03:30:51.363608,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,0.06670000000000004,0.4,0.3333
-2022-02-13 01:30:47.350195,League One - England League One 2021/22 - Outright,Rotherham Utd,0.06659999999999999,0.7333,0.6667
 2022-02-13 10:30:43.272678,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Lime/Green/Yellow,0.057699999999999974,0.3077,0.25
+2022-02-13 14:30:36.586301,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,0.05510000000000004,0.9375,0.8824
 2022-02-13 10:30:42.459740,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.044499999999999984,0.2667,0.2222
 2022-02-13 06:30:44.397843,Super Bowl Specials - Super Bowl Specials - Will The Opening Kickoff Be A Touchback?,Yes,0.043399999999999994,0.4878,0.4444
 2022-02-13 10:30:43.435346,Super Bowl Specials - Super Bowl Specials - Will there be a Missed PAT Conversion?,No,0.03579999999999994,0.7826,0.7468
+2022-02-13 14:30:36.562880,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.035699999999999954,0.75,0.7143
 2022-02-13 11:30:52.703348,Super Bowl Specials - Super Bowl Specials - First Touchdown Jersey Number,Under 23.5,0.03370000000000006,0.6491,0.6154
 2022-02-13 06:30:44.070946,Super Bowl Specials - Super Bowl Specials - Distance of longest enforced penalty in game?,Over 15.5 Yards,0.03370000000000006,0.6491,0.6154
 2022-02-13 09:31:02.624386,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.033300000000000024,0.2,0.1667
-2022-02-13 04:30:42.541897,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 14:30:36.578550,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,0.03249999999999997,0.9375,0.905
 2022-02-13 10:30:43.718074,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-13 06:30:44.656394,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-13 05:30:46.522127,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-13 08:31:25.977017,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-13 03:30:50.936149,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-13 09:31:02.300069,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-13 02:30:46.099784,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-13 01:30:46.682369,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 04:30:42.541897,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
 2022-02-13 11:30:53.980957,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
-2022-02-13 13:30:45.020738,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 05:30:46.522127,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 03:30:50.936149,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
 2022-02-13 12:31:00.754647,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 02:30:46.099784,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 13:30:45.020738,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 09:31:02.300069,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 06:30:44.656394,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 14:30:37.609400,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
+2022-02-13 08:31:25.977017,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
 2022-02-13 07:30:46.534776,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,0.030399999999999983,0.5652,0.5348
 2022-02-13 12:30:58.807769,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Monty Williams (PHO),0.030299999999999994,0.6667,0.6364
+2022-02-13 14:30:36.602042,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.02839999999999998,0.9375,0.9091
+2022-02-13 14:30:36.570584,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,0.02679999999999999,0.3125,0.2857
+2022-02-13 14:30:36.555078,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.023799999999999988,0.3571,0.3333
 2022-02-13 06:30:44.087029,Super Bowl Specials - Super Bowl Specials - First Touchdown Jersey Number,Under 23.5,0.023699999999999943,0.6154,0.5917
 2022-02-13 10:30:43.446108,Super Bowl Specials - Super Bowl Specials - Will there be a penalty for Roughing the Passer?,Yes,0.022699999999999998,0.4878,0.4651
 2022-02-13 10:30:43.028311,Super Bowl Specials - Super Bowl Specials - How many times will Roger Goodell be shown?,Over 1.5,0.022600000000000064,0.6226,0.6
 2022-02-13 06:30:44.169451,Super Bowl Specials - Super Bowl Specials - National Anthem - Who Will be Shown first,Cooper Kupp,0.022600000000000064,0.6226,0.6
 2022-02-13 05:30:46.860616,Euroleague - Euroleague 2021/22 - Winner,Barcelona,0.021999999999999964,0.3077,0.2857
-2022-02-13 06:30:44.280789,Super Bowl Specials - Super Bowl Specials - Total Touchdown Jersey Numbers,Under 185.5,0.02079999999999993,0.5556,0.5348
 2022-02-13 10:30:42.865372,Super Bowl Specials - Super Bowl Specials - America the Beautiful - Who Will be Shown first,Joe Burrow,0.02079999999999993,0.5556,0.5348
-2022-02-13 08:31:24.051188,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,Yes,0.01970000000000005,0.5652,0.5455
+2022-02-13 06:30:44.280789,Super Bowl Specials - Super Bowl Specials - Total Touchdown Jersey Numbers,Under 185.5,0.02079999999999993,0.5556,0.5348
 2022-02-13 10:30:43.174036,Super Bowl Specials - Super Bowl Specials - Team To Make First Field Goal in the Game,Cincinnati Bengals,0.01970000000000005,0.5652,0.5455
 2022-02-13 06:30:44.264799,Super Bowl Specials - Super Bowl Specials - Total Penalty Yards,Over 77.5,0.01970000000000005,0.5652,0.5455
+2022-02-13 08:31:24.051188,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,Yes,0.01970000000000005,0.5652,0.5455
 2022-02-13 06:30:44.186574,Super Bowl Specials - Super Bowl Specials - National Anthem - Will any scoring drive take less time than it takes to sing the National Anthem?,No,0.019699999999999995,0.4545,0.4348
 2022-02-13 10:30:43.288574,Super Bowl Specials - Super Bowl Specials - What will happen first for Rams,Punt,0.01880000000000004,0.5744,0.5556
 2022-02-13 10:30:43.044367,Super Bowl Specials - Super Bowl Specials - Last Score of the 1st half is a Field Goal,Yes,0.01880000000000004,0.5744,0.5556
+2022-02-13 14:30:36.537613,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.01820000000000002,0.2,0.1818
 2022-02-13 10:30:42.490991,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.0179,0.1429,0.125
 2022-02-13 12:30:58.807769,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,JB Bickerstaff (CLE),0.016699999999999993,0.2667,0.25
 2022-02-13 10:30:43.087749,Super Bowl Specials - Super Bowl Specials - National Anthem - Who Will be Shown first,Sean McVay,0.015800000000000036,0.6825,0.6667
 2022-02-13 05:30:47.037177,WNBL - Australia WNBL 2021/22 - Outright,Perth Lynx (W),0.015400000000000025,0.4,0.3846
 2022-02-13 06:30:44.055160,Super Bowl Specials - Super Bowl Specials - Coin Toss - Will Rams Win the Coin Toss and Win the Game,Yes,0.01479999999999998,0.3922,0.3774
 2022-02-13 10:30:42.468331,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Los Angeles Lakers,0.014399999999999996,0.0769,0.0625
-2022-02-13 01:30:47.109267,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Sevilla,0.013899999999999996,0.125,0.1111
 2022-02-13 10:30:43.283253,Super Bowl Specials - Super Bowl Specials - What will happen first for Bengals?,Punt,0.013299999999999979,0.6429,0.6296
 2022-02-13 10:30:43.343153,Super Bowl Specials - Super Bowl Specials - Will a non-QB throw a touchdown?,Yes,0.012899999999999995,0.1667,0.1538
 2022-02-13 10:30:43.456893,Super Bowl Specials - Super Bowl Specials - Will there be an onside kick attempt in the game?,Yes,0.012699999999999989,0.3636,0.3509
 2022-02-13 10:30:43.370600,Super Bowl Specials - Super Bowl Specials - Will Any Player Record an Octopus?,Yes,0.012299999999999991,0.1176,0.1053
 2022-02-13 10:30:43.413800,Super Bowl Specials - Super Bowl Specials - Will The Opening Kickoff Be A Touchback?,Yes,0.012199999999999989,0.5,0.4878
-2022-02-13 01:30:47.161709,England Championship - England Championship 21/22 - Outright,Middlesbrough,0.012100000000000001,0.0244,0.0123
 2022-02-13 06:30:44.291622,Super Bowl Specials - Super Bowl Specials - What Will Happen First,Special Teams of Defensive TD Scored,0.011899999999999994,0.16,0.1481
 2022-02-13 08:31:23.978971,Super Bowl Specials - Super Bowl Specials - Either team wins by exactly 3 points,Yes,0.011699999999999988,0.2857,0.274
 2022-02-13 10:30:42.468331,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.01150000000000001,0.3448,0.3333
 2022-02-13 06:30:44.175992,Super Bowl Specials - Super Bowl Specials - National Anthem - Who Will be Shown first,Sean McVay,0.011499999999999955,0.6667,0.6552
 2022-02-13 06:30:44.392531,Super Bowl Specials - Super Bowl Specials - Will the Game be Tied at the end 1st Quarter & Tied at Halftime,Yes,0.011099999999999999,0.1111,0.1
 2022-02-13 06:30:44.335049,Super Bowl Specials - Super Bowl Specials - Will a non-QB throw a touchdown?,Yes,0.010899999999999993,0.1538,0.1429
-2022-02-13 10:30:43.359661,Super Bowl Specials - Super Bowl Specials - Will any player be ejected for throwing a punch or fighting?,Yes,0.010099999999999998,0.1212,0.1111
 2022-02-13 06:30:44.365590,Super Bowl Specials - Super Bowl Specials - Will Any Player Record an Octopus?,Yes,0.010099999999999998,0.1053,0.0952
+2022-02-13 10:30:43.359661,Super Bowl Specials - Super Bowl Specials - Will any player be ejected for throwing a punch or fighting?,Yes,0.010099999999999998,0.1212,0.1111
 2022-02-13 06:30:44.055160,Super Bowl Specials - Super Bowl Specials - Coin Toss - Will Rams Win the Coin Toss and Win the Game,No,-0.010099999999999998,0.6774,0.6875
 2022-02-13 10:30:43.392454,Super Bowl Specials - Super Bowl Specials - Will either kicker hit the upright or crossbar on a missed field goal or extra point attempt?,No,-0.010300000000000087,0.823,0.8333
 2022-02-13 10:30:42.952887,Super Bowl Specials - Super Bowl Specials - Coin Toss - Will Rams Win the Coin Toss and Win the Game,No,-0.010700000000000043,0.6667,0.6774
+2022-02-13 14:30:36.555078,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.01150000000000001,0.3333,0.3448
 2022-02-13 10:30:42.468331,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,-0.01150000000000001,0.3333,0.3448
 2022-02-13 10:30:43.370600,Super Bowl Specials - Super Bowl Specials - Will Any Player Record an Octopus?,No,-0.011500000000000066,0.95,0.9615
 2022-02-13 06:30:44.291622,Super Bowl Specials - Super Bowl Specials - What Will Happen First,Offensive TD Scored,-0.011699999999999933,0.905,0.9167
-2022-02-13 01:30:47.350195,League One - England League One 2021/22 - Outright,Oxford United,-0.013,0.0066,0.0196
+2022-02-13 14:30:36.594066,NBA Futures - 2022 NBA Southeast Division - Division Winner,Atlanta Hawks,-0.012700000000000003,0.0196,0.0323
 2022-02-13 06:30:44.335049,Super Bowl Specials - Super Bowl Specials - Will a non-QB throw a touchdown?,No,-0.014000000000000012,0.9091,0.9231
 2022-02-13 06:30:44.186574,Super Bowl Specials - Super Bowl Specials - National Anthem - Will any scoring drive take less time than it takes to sing the National Anthem?,Yes,-0.014200000000000101,0.6154,0.6296
+2022-02-13 14:30:36.555078,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Los Angeles Lakers,-0.014399999999999996,0.0625,0.0769
+2022-02-13 14:30:36.562880,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.01440000000000001,0.0909,0.1053
 2022-02-13 06:30:44.392531,Super Bowl Specials - Super Bowl Specials - Will the Game be Tied at the end 1st Quarter & Tied at Halftime,No,-0.014699999999999935,0.9524,0.9671
 2022-02-13 05:30:47.037177,WNBL - Australia WNBL 2021/22 - Outright,Canberra Capitals (W),-0.015100000000000002,0.1667,0.1818
 2022-02-13 10:30:43.087749,Super Bowl Specials - Super Bowl Specials - National Anthem - Who Will be Shown first,Zac Taylor,-0.015400000000000025,0.3846,0.4
 2022-02-13 05:30:46.860616,Euroleague - Euroleague 2021/22 - Winner,Real Madrid BC,-0.016699999999999993,0.25,0.2667
-2022-02-13 01:30:47.161709,England Championship - England Championship 21/22 - Outright,Fulham,-0.017900000000000027,0.8571,0.875
-2022-02-13 01:30:47.088297,Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,-0.018999999999999906,0.7143,0.7333
+2022-02-13 14:30:36.546153,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.016699999999999993,0.25,0.2667
+2022-02-13 14:30:36.570584,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.016699999999999993,0.25,0.2667
+2022-02-13 14:30:36.602042,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.0179,0.125,0.1429
+2022-02-13 14:30:36.578550,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,-0.0179,0.125,0.1429
+2022-02-13 14:30:36.562880,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Toronto Raptors,-0.0179,0.125,0.1429
 2022-02-13 10:30:42.483395,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.019000000000000017,0.2667,0.2857
-2022-02-13 01:30:47.350195,League One - England League One 2021/22 - Outright,Sunderland,-0.019099999999999995,0.0244,0.0435
-2022-02-13 06:30:44.169451,Super Bowl Specials - Super Bowl Specials - National Anthem - Who Will be Shown first,Ja'Marr Chase,-0.020699999999999996,0.4444,0.4651
 2022-02-13 10:30:43.028311,Super Bowl Specials - Super Bowl Specials - How many times will Roger Goodell be shown?,Under 1.5,-0.020699999999999996,0.4444,0.4651
+2022-02-13 06:30:44.169451,Super Bowl Specials - Super Bowl Specials - National Anthem - Who Will be Shown first,Ja'Marr Chase,-0.020699999999999996,0.4444,0.4651
 2022-02-13 06:30:44.087029,Super Bowl Specials - Super Bowl Specials - First Touchdown Jersey Number,Over 23.5,-0.021699999999999997,0.4545,0.4762
-2022-02-13 10:30:42.865372,Super Bowl Specials - Super Bowl Specials - America the Beautiful - Who Will be Shown first,Matt Stafford,-0.022600000000000064,0.5122,0.5348
 2022-02-13 06:30:44.280789,Super Bowl Specials - Super Bowl Specials - Total Touchdown Jersey Numbers,Over 185.5,-0.022600000000000064,0.5122,0.5348
-2022-02-13 01:30:47.350195,League One - England League One 2021/22 - Outright,Milton Keynes Dons,-0.0236,0.0149,0.0385
-2022-02-13 08:31:24.051188,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,No,-0.023800000000000043,0.5,0.5238
-2022-02-13 06:30:44.264799,Super Bowl Specials - Super Bowl Specials - Total Penalty Yards,Under 77.5,-0.023800000000000043,0.5,0.5238
+2022-02-13 10:30:42.865372,Super Bowl Specials - Super Bowl Specials - America the Beautiful - Who Will be Shown first,Matt Stafford,-0.022600000000000064,0.5122,0.5348
 2022-02-13 10:30:43.174036,Super Bowl Specials - Super Bowl Specials - Team To Make First Field Goal in the Game,Los Angeles Rams,-0.023800000000000043,0.5,0.5238
-2022-02-13 10:30:43.044367,Super Bowl Specials - Super Bowl Specials - Last Score of the 1st half is a Field Goal,No,-0.024399999999999977,0.4878,0.5122
+2022-02-13 06:30:44.264799,Super Bowl Specials - Super Bowl Specials - Total Penalty Yards,Under 77.5,-0.023800000000000043,0.5,0.5238
+2022-02-13 08:31:24.051188,Super Bowl Specials - Super Bowl Specials - Halftime Show - Snoop Dogg to Smoke on Stage?,No,-0.023800000000000043,0.5,0.5238
 2022-02-13 10:30:43.288574,Super Bowl Specials - Super Bowl Specials - What will happen first for Rams,Score Points,-0.024399999999999977,0.4878,0.5122
+2022-02-13 10:30:43.044367,Super Bowl Specials - Super Bowl Specials - Last Score of the 1st half is a Field Goal,No,-0.024399999999999977,0.4878,0.5122
 2022-02-13 10:30:43.446108,Super Bowl Specials - Super Bowl Specials - Will there be a penalty for Roughing the Passer?,No,-0.025599999999999956,0.5744,0.6
 2022-02-13 09:31:02.624386,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,-0.026100000000000012,0.1739,0.2
 2022-02-13 10:30:42.498479,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,-0.026700000000000057,0.8824,0.9091
-2022-02-13 02:30:46.093162,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
-2022-02-13 06:30:44.650464,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
-2022-02-13 11:30:53.972719,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
-2022-02-13 03:30:50.925035,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
-2022-02-13 13:30:45.011553,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
-2022-02-13 12:31:00.745553,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
-2022-02-13 04:30:42.534700,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
-2022-02-13 05:30:46.513707,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
-2022-02-13 01:30:46.676943,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
-2022-02-13 07:30:46.522133,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-13 08:31:25.963892,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-13 12:31:00.745553,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-13 13:30:45.011553,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-13 09:31:02.290106,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-13 06:30:44.650464,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-13 10:30:43.708826,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-13 05:30:46.513707,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-13 11:30:53.972719,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-13 04:30:42.534700,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-13 03:30:50.925035,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-13 14:30:37.603842,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-13 02:30:46.093162,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
+2022-02-13 07:30:46.522133,Super Bowl Specials - Super Bowl Cross Sport Specials - What will be greater?,Rams Total Touchdowns in Super Bowl LVI,-0.030399999999999983,0.5348,0.5652
 2022-02-13 10:30:43.435346,Super Bowl Specials - Super Bowl Specials - Will there be a Missed PAT Conversion?,Yes,-0.031799999999999995,0.2857,0.3175
 2022-02-13 10:30:42.475868,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,-0.033399999999999985,0.1333,0.1667
 2022-02-13 10:30:42.475868,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.037599999999999995,0.1053,0.1429
-2022-02-13 11:30:52.703348,Super Bowl Specials - Super Bowl Specials - First Touchdown Jersey Number,Over 23.5,-0.0378,0.4167,0.4545
 2022-02-13 06:30:44.070946,Super Bowl Specials - Super Bowl Specials - Distance of longest enforced penalty in game?,Under 15.5 Yards,-0.0378,0.4167,0.4545
+2022-02-13 11:30:52.703348,Super Bowl Specials - Super Bowl Specials - First Touchdown Jersey Number,Over 23.5,-0.0378,0.4167,0.4545
+2022-02-13 14:30:36.578550,NBA Futures - 2022 NBA Northwest Division - Division Winner,Minnesota Timberwolves,-0.0399,0.0036,0.0435
 2022-02-13 10:30:42.459740,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.047599999999999976,0.2857,0.3333
-2022-02-13 01:30:47.109267,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Real Madrid,-0.052000000000000046,0.8571,0.9091
 2022-02-13 06:30:44.397843,Super Bowl Specials - Super Bowl Specials - Will The Opening Kickoff Be A Touchback?,No,-0.0685,0.5744,0.6429
+2022-02-13 14:30:36.586301,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.08549999999999999,0.125,0.2105
 2022-02-13 10:30:43.272678,Super Bowl Specials - Super Bowl Specials - What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 56?,Blue,-0.15000000000000002,0.25,0.4
