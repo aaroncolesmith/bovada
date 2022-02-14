@@ -2,31 +2,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-14 15:33:58.618981,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Boston Celtics,0.32310000000000005,0.9231,0.6
 2022-02-14 15:33:58.618981,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Minnesota Timberwolves,0.1904,0.8571,0.6667
 2022-02-14 11:33:22.740037,League One - England League One 2021/22 - Top 6 Finish,Plymouth Argyle,0.09999999999999998,0.5,0.4
-2022-02-14 10:30:43.408746,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Monaco,0.09889999999999999,0.3846,0.2857
-2022-02-14 10:30:43.389404,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lyon,0.09720000000000001,0.2222,0.125
 2022-02-14 11:33:22.717692,League One - England League One 2021/22 - To Finish Bottom,Crewe Alexandra,0.0922,0.4255,0.3333
 2022-02-14 11:33:22.361775,England Championship - England Championship 21/22 - Top 6 Finish,Middlesbrough,0.09089999999999998,0.6364,0.5455
 2022-02-14 11:33:22.727973,League One - England League One 2021/22 - Top 2 Finish,Wigan Athletic,0.08490000000000009,0.8182,0.7333
-2022-02-14 10:30:43.475988,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Bayer Leverkusen,0.08339999999999992,0.9167,0.8333
 2022-02-14 11:33:22.200347,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Betis,0.08329999999999999,0.3333,0.25
 2022-02-14 12:30:50.066830,Serie B - Italy Serie B 2021/22 - Outright,Cremonese,0.07930000000000001,0.2222,0.1429
-2022-02-14 10:30:43.475988,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,RB Leipzig,0.07790000000000008,0.7143,0.6364
-2022-02-14 10:30:43.408746,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Marseille,0.07790000000000008,0.7143,0.6364
 2022-02-14 11:33:22.740037,League One - England League One 2021/22 - Top 6 Finish,Bolton Wanderers,0.0774,0.125,0.0476
-2022-02-14 10:30:43.519195,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Genoa,0.07069999999999999,0.8889,0.8182
-2022-02-14 10:30:43.466387,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Hertha BSC,0.06820000000000001,0.25,0.1818
 2022-02-14 11:33:22.685579,League One - England League One 2021/22 - Outright,Rotherham Utd,0.06670000000000009,0.8,0.7333
 2022-02-14 11:33:22.349502,England Championship - England Championship 21/22 - Top 2 Finish,Bournemouth,0.057699999999999974,0.75,0.6923
 2022-02-14 11:33:22.696453,League One - England League One 2021/22 - To Be Promoted,Wigan Athletic,0.05709999999999993,0.8571,0.8
-2022-02-14 10:30:43.519195,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Cagliari,0.05520000000000003,0.6552,0.6
-2022-02-14 10:30:43.446951,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Borussia Dortmund,0.05230000000000001,0.9412,0.8889
 2022-02-14 11:33:22.361775,England Championship - England Championship 21/22 - Top 6 Finish,Coventry City,0.05080000000000001,0.2326,0.1818
 2022-02-14 11:33:22.727973,League One - England League One 2021/22 - Top 2 Finish,Rotherham Utd,0.047799999999999954,0.9709,0.9231
-2022-02-14 10:30:43.510055,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Ciro Immobile,0.04760000000000003,0.5238,0.4762
 2022-02-14 11:33:22.794270,League Two - England League Two 2021/22 - To Be Promoted,Mansfield Town,0.047599999999999976,0.3333,0.2857
-2022-02-14 10:30:43.466387,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,VfB Stuttgart,0.045499999999999985,0.5455,0.5
 2022-02-14 15:33:58.618981,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Cleveland Cavaliers,0.04499999999999993,0.9681,0.9231
-2022-02-14 10:30:43.466387,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Arminia Bielefeld,0.044399999999999995,0.4444,0.4
 2022-02-14 11:33:22.707437,League One - England League One 2021/22 - To Be Relegated,Shrewsbury Town,0.042899999999999994,0.1429,0.1
 2022-02-14 11:33:22.335630,England Championship - England Championship 21/22 - To Be Promoted,Bournemouth,0.04039999999999999,0.8182,0.7778
 2022-02-14 11:33:22.503973,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,FC Porto,0.038899999999999935,0.8571,0.8182
@@ -37,34 +25,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-14 11:33:22.175074,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Raul de Tomas,0.0344,0.0588,0.0244
 2022-02-14 11:33:22.740037,League One - England League One 2021/22 - Top 6 Finish,Portsmouth,0.034100000000000005,0.125,0.0909
 2022-02-14 15:33:58.618981,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,San Antonio Spurs,0.0339,0.1053,0.0714
-2022-02-14 10:30:43.475988,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Hoffenheim,0.033300000000000024,0.2,0.1667
 2022-02-14 11:33:22.794270,League Two - England League Two 2021/22 - To Be Promoted,Salford City,0.033299999999999996,0.1333,0.1
 2022-02-14 11:33:22.781341,League Two - England League Two 2021/22 - Top Goalscorer,Dominic Telford (Newport County),0.029000000000000026,0.4545,0.4255
 2022-02-14 11:33:22.794270,League Two - England League Two 2021/22 - To Be Promoted,Hartlepool United,0.0286,0.0385,0.0099
 2022-02-14 15:33:58.715285,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,0.02839999999999998,0.9375,0.9091
 2022-02-14 11:33:22.188607,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Levante,0.028200000000000003,0.9615,0.9333
-2022-02-14 10:30:43.389404,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lille,0.028199999999999996,0.0667,0.0385
 2022-02-14 11:33:22.200347,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,0.027800000000000047,0.7778,0.75
 2022-02-14 12:30:50.066830,Serie B - Italy Serie B 2021/22 - Outright,Monza,0.027800000000000005,0.1111,0.0833
 2022-02-14 11:33:22.335630,England Championship - England Championship 21/22 - To Be Promoted,Middlesbrough,0.02779999999999999,0.25,0.2222
 2022-02-14 15:33:58.618981,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Denver Nuggets,0.026899999999999924,0.9681,0.9412
-2022-02-14 10:30:43.528802,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AC Milan,0.025000000000000022,0.9,0.875
 2022-02-14 11:33:22.349502,England Championship - England Championship 21/22 - Top 2 Finish,Middlesbrough,0.0242,0.0909,0.0667
-2022-02-14 10:30:43.399527,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Kylian Mbappe,0.023800000000000043,0.5238,0.5
 2022-02-14 11:33:22.696453,League One - England League One 2021/22 - To Be Promoted,Bolton Wanderers,0.0236,0.0385,0.0149
 2022-02-14 11:33:22.696453,League One - England League One 2021/22 - To Be Promoted,Rotherham Utd,0.0232,0.9756,0.9524
 2022-02-14 11:33:22.805810,League Two - England League Two 2021/22 - To Be Relegated,Scunthorpe United,0.02310000000000001,0.9231,0.9
-2022-02-14 11:33:22.433621,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,St. Pauli,0.022199999999999998,0.2222,0.2
 2022-02-14 11:33:22.433621,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Hamburger SV,0.022199999999999998,0.2222,0.2
-2022-02-14 10:30:43.408746,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Rennes,0.022199999999999998,0.2222,0.2
+2022-02-14 11:33:22.433621,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,St. Pauli,0.022199999999999998,0.2222,0.2
 2022-02-14 11:33:22.805810,League Two - England League Two 2021/22 - To Be Relegated,Carlisle Utd,0.021999999999999964,0.3077,0.2857
 2022-02-14 11:33:22.717692,League One - England League One 2021/22 - To Finish Bottom,Doncaster Rovers,0.021699999999999997,0.4762,0.4545
 2022-02-14 12:30:50.077250,Eredivisie - Eredivisie 2021/2022 - Outright,PSV Eindhoven,0.02020000000000001,0.1111,0.0909
 2022-02-14 11:33:22.816865,League Two - England League Two 2021/22 - Top 3 Finish,Exeter City,0.019000000000000017,0.2857,0.2667
-2022-02-14 10:30:43.519195,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Sampdoria,0.01820000000000002,0.2,0.1818
-2022-02-14 11:33:22.188607,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,0.01820000000000002,0.2,0.1818
 2022-02-14 11:33:22.707437,League One - England League One 2021/22 - To Be Relegated,Fleetwood Town,0.01820000000000002,0.2,0.1818
 2022-02-14 11:33:22.200347,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Sociedad,0.01820000000000002,0.2,0.1818
+2022-02-14 11:33:22.188607,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,0.01820000000000002,0.2,0.1818
 2022-02-14 11:33:22.696453,League One - England League One 2021/22 - To Be Promoted,Portsmouth,0.018200000000000004,0.0476,0.0294
 2022-02-14 11:33:22.200347,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Sevilla,0.018100000000000005,0.9412,0.9231
 2022-02-14 11:33:22.188607,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Getafe,0.0179,0.1429,0.125
@@ -76,106 +58,81 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-14 11:33:22.188607,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Cádiz,0.015100000000000002,0.8333,0.8182
 2022-02-14 15:33:58.538801,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,0.01469999999999999,0.25,0.2353
 2022-02-14 11:33:22.805810,League Two - England League Two 2021/22 - To Be Relegated,Leyton Orient,0.0145,0.0244,0.0099
-2022-02-14 10:30:43.456479,Germany Bundesliga - German Bundesliga 2021/22 - Top Goalscorer,Robert Lewandowski,0.014499999999999957,0.9901,0.9756
 2022-02-14 11:33:22.361775,England Championship - England Championship 21/22 - Top 6 Finish,Bournemouth,0.014499999999999957,0.9901,0.9756
-2022-02-14 10:30:43.510055,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Edin Dzeko,0.014099999999999998,0.0385,0.0244
 2022-02-14 11:33:22.707437,League One - England League One 2021/22 - To Be Relegated,Gillingham,0.014000000000000012,0.9231,0.9091
-2022-02-14 10:30:43.528802,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Lazio,0.013999999999999999,0.0909,0.0769
 2022-02-14 11:33:22.805810,League Two - England League Two 2021/22 - To Be Relegated,Barrow FC,0.013899999999999996,0.125,0.1111
 2022-02-14 11:33:22.816865,League Two - England League Two 2021/22 - Top 3 Finish,Swindon Town,0.011099999999999999,0.1111,0.1
 2022-02-14 15:33:58.689591,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,0.010899999999999993,0.1538,0.1429
-2022-02-14 10:30:43.389404,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Strasbourg,0.010100000000000001,0.0345,0.0244
 2022-02-14 11:33:22.361775,England Championship - England Championship 21/22 - Top 6 Finish,West Bromwich Albion,0.010099999999999998,0.5556,0.5455
 2022-02-14 11:33:22.335630,England Championship - England Championship 21/22 - To Be Promoted,Queens Park Rangers,-0.010399999999999993,0.2222,0.2326
 2022-02-14 11:33:22.335630,England Championship - England Championship 21/22 - To Be Promoted,West Bromwich Albion,-0.010399999999999993,0.2222,0.2326
 2022-02-14 12:30:49.383747,Boxing Lines - Julio Cesar Martinez Aguilar vs Roman Gonzales - To Win the Bout,Julio Cesar Martinez Aguilar,-0.010599999999999998,0.4545,0.4651
-2022-02-14 11:33:22.335630,England Championship - England Championship 21/22 - To Be Promoted,Nottingham Forest,-0.011099999999999999,0.1,0.1111
 2022-02-14 11:33:22.349502,England Championship - England Championship 21/22 - Top 2 Finish,Sheffield United,-0.011099999999999999,0.1,0.1111
-2022-02-14 11:33:22.335630,England Championship - England Championship 21/22 - To Be Promoted,Luton Town,-0.011199999999999995,0.0476,0.0588
-2022-02-14 10:30:43.408746,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lens,-0.011199999999999995,0.0476,0.0588
-2022-02-14 10:30:43.528802,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AS Roma,-0.011199999999999995,0.0476,0.0588
-2022-02-14 10:30:43.510055,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Lautaro Martinez,-0.011199999999999995,0.0476,0.0588
+2022-02-14 11:33:22.335630,England Championship - England Championship 21/22 - To Be Promoted,Nottingham Forest,-0.011099999999999999,0.1,0.1111
 2022-02-14 11:33:22.794270,League Two - England League Two 2021/22 - To Be Promoted,Leyton Orient,-0.011199999999999995,0.0476,0.0588
 2022-02-14 11:33:22.832328,League Two - England League Two 2021/22 - Top 7 Finish,Crawley Town,-0.011199999999999995,0.0476,0.0588
+2022-02-14 11:33:22.335630,England Championship - England Championship 21/22 - To Be Promoted,Luton Town,-0.011199999999999995,0.0476,0.0588
 2022-02-14 11:33:22.740037,League One - England League One 2021/22 - Top 6 Finish,Wycombe,-0.011499999999999955,0.6552,0.6667
 2022-02-14 11:33:22.361775,England Championship - England Championship 21/22 - Top 6 Finish,Sheffield United,-0.011499999999999955,0.6552,0.6667
 2022-02-14 15:33:58.675890,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,-0.012299999999999978,0.3448,0.3571
 2022-02-14 12:30:50.066830,Serie B - Italy Serie B 2021/22 - Outright,Cittadella,-0.013,0.0066,0.0196
 2022-02-14 11:33:22.717692,League One - England League One 2021/22 - To Finish Bottom,Morecambe,-0.0131,0.0345,0.0476
-2022-02-14 10:30:43.399527,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Wissam Ben Yedder,-0.013600000000000001,0.2941,0.3077
-2022-02-14 10:30:43.446951,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Bayer Leverkusen,-0.013899999999999996,0.1111,0.125
 2022-02-14 15:33:58.689591,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Toronto Raptors,-0.013899999999999996,0.1111,0.125
 2022-02-14 15:33:58.689591,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.013999999999999999,0.0769,0.0909
 2022-02-14 11:33:22.769748,League Two - England League Two 2021/22 - Outright,Newport County,-0.014499999999999999,0.0149,0.0294
-2022-02-14 11:33:22.707437,League One - England League One 2021/22 - To Be Relegated,Accrington Stanley,-0.0145,0.0099,0.0244
 2022-02-14 11:33:22.685579,League One - England League One 2021/22 - Outright,Sheffield Wednesday,-0.0145,0.0099,0.0244
+2022-02-14 11:33:22.707437,League One - England League One 2021/22 - To Be Relegated,Accrington Stanley,-0.0145,0.0099,0.0244
 2022-02-14 11:33:22.433621,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Paderborn,-0.014900000000000004,0.0196,0.0345
-2022-02-14 11:33:22.433621,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Darmstadt,-0.015100000000000002,0.1667,0.1818
-2022-02-14 11:33:22.200347,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Villarreal,-0.015100000000000002,0.1667,0.1818
-2022-02-14 11:33:22.832328,League Two - England League Two 2021/22 - Top 7 Finish,Tranmere Rovers,-0.015100000000000002,0.8182,0.8333
 2022-02-14 11:33:22.832328,League Two - England League Two 2021/22 - Top 7 Finish,Bradford City,-0.015100000000000002,0.1667,0.1818
+2022-02-14 11:33:22.832328,League Two - England League Two 2021/22 - Top 7 Finish,Tranmere Rovers,-0.015100000000000002,0.8182,0.8333
+2022-02-14 11:33:22.200347,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Villarreal,-0.015100000000000002,0.1667,0.1818
+2022-02-14 11:33:22.433621,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Darmstadt,-0.015100000000000002,0.1667,0.1818
 2022-02-14 11:33:22.794270,League Two - England League Two 2021/22 - To Be Promoted,Port Vale,-0.01629999999999998,0.2778,0.2941
 2022-02-14 15:33:58.689591,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,-0.016700000000000048,0.7333,0.75
 2022-02-14 15:33:58.753727,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.0179,0.125,0.1429
 2022-02-14 11:33:22.433621,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Heidenheim,-0.018099999999999998,0.0588,0.0769
 2022-02-14 11:33:22.794270,League Two - England League Two 2021/22 - To Be Promoted,Bradford City,-0.018099999999999998,0.0588,0.0769
 2022-02-14 11:33:22.349502,England Championship - England Championship 21/22 - Top 2 Finish,Blackburn Rovers,-0.018099999999999998,0.0588,0.0769
-2022-02-14 10:30:43.456479,Germany Bundesliga - German Bundesliga 2021/22 - Top Goalscorer,Patrik Schick,-0.018200000000000004,0.0294,0.0476
 2022-02-14 11:33:22.361775,England Championship - England Championship 21/22 - Top 6 Finish,Huddersfield Town,-0.01820000000000002,0.1818,0.2
-2022-02-14 10:30:43.475988,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Mainz,-0.019099999999999992,0.0476,0.0667
 2022-02-14 11:33:22.433621,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Jahn Regensburg,-0.019600000000000003,0.0149,0.0345
 2022-02-14 11:33:22.816865,League Two - England League Two 2021/22 - Top 3 Finish,Tranmere Rovers,-0.019699999999999995,0.4348,0.4545
 2022-02-14 11:33:22.175074,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Karim Benzema,-0.020199999999999996,0.8889,0.9091
 2022-02-14 11:33:22.349502,England Championship - England Championship 21/22 - Top 2 Finish,Queens Park Rangers,-0.02020000000000001,0.0909,0.1111
 2022-02-14 11:33:22.433621,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,FC Nürnberg,-0.0203,0.0385,0.0588
 2022-02-14 12:30:50.066830,Serie B - Italy Serie B 2021/22 - Outright,Lecce,-0.021899999999999975,0.4,0.4219
-2022-02-14 10:30:43.466387,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Augsburg,-0.021999999999999964,0.2857,0.3077
-2022-02-14 11:33:22.696453,League One - England League One 2021/22 - To Be Promoted,Wycombe,-0.022199999999999998,0.2,0.2222
-2022-02-14 11:33:22.707437,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,-0.022199999999999998,0.2,0.2222
 2022-02-14 11:33:22.781341,League Two - England League Two 2021/22 - Top Goalscorer,Jamille Matt (Forest Green),-0.022199999999999998,0.2,0.2222
+2022-02-14 11:33:22.707437,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,-0.022199999999999998,0.2,0.2222
+2022-02-14 11:33:22.696453,League One - England League One 2021/22 - To Be Promoted,Wycombe,-0.022199999999999998,0.2,0.2222
 2022-02-14 12:30:49.971815,A-League - Australia A-League 2021/2022 - Grand Final Winner,Macarthur FC,-0.02310000000000001,0.0769,0.1
 2022-02-14 11:33:22.707437,League One - England League One 2021/22 - To Be Relegated,Cheltenham Town,-0.023200000000000002,0.0294,0.0526
 2022-02-14 11:33:22.832328,League Two - England League Two 2021/22 - Top 7 Finish,Swindon Town,-0.023800000000000043,0.5,0.5238
-2022-02-14 11:33:22.707437,League One - England League One 2021/22 - To Be Relegated,Cambridge United,-0.0242,0.0667,0.0909
 2022-02-14 11:33:22.727973,League One - England League One 2021/22 - Top 2 Finish,Wycombe,-0.0242,0.0667,0.0909
+2022-02-14 11:33:22.707437,League One - England League One 2021/22 - To Be Relegated,Cambridge United,-0.0242,0.0667,0.0909
 2022-02-14 11:33:22.781341,League Two - England League Two 2021/22 - Top Goalscorer,Mathew Stevens (Forest Green),-0.025499999999999967,0.4,0.4255
 2022-02-14 11:33:22.361775,England Championship - England Championship 21/22 - Top 6 Finish,Stoke City,-0.02779999999999999,0.2222,0.25
 2022-02-14 11:33:22.740037,League One - England League One 2021/22 - Top 6 Finish,Sunderland,-0.027999999999999914,0.8182,0.8462
-2022-02-14 10:30:43.475988,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,FC Köln,-0.029299999999999993,0.0476,0.0769
 2022-02-14 11:33:22.805810,League Two - England League Two 2021/22 - To Be Relegated,Walsall,-0.031799999999999995,0.1111,0.1429
-2022-02-14 10:30:43.456479,Germany Bundesliga - German Bundesliga 2021/22 - Top Goalscorer,Erling Haaland,-0.03270000000000001,0.0149,0.0476
 2022-02-14 11:33:22.727973,League One - England League One 2021/22 - Top 2 Finish,Sheffield Wednesday,-0.03330000000000001,0.0667,0.1
 2022-02-14 11:33:22.433621,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Schalke 04,-0.033300000000000024,0.1667,0.2
 2022-02-14 12:30:50.066830,Serie B - Italy Serie B 2021/22 - Outright,Pisa,-0.03420000000000001,0.0769,0.1111
-2022-02-14 10:30:43.466387,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Borussia Mönchengladbach,-0.0344,0.0244,0.0588
 2022-02-14 11:33:22.727973,League One - England League One 2021/22 - Top 2 Finish,Oxford United,-0.0344,0.0244,0.0588
 2022-02-14 11:33:22.335630,England Championship - England Championship 21/22 - To Be Promoted,Sheffield United,-0.03570000000000001,0.25,0.2857
 2022-02-14 11:33:22.794270,League Two - England League Two 2021/22 - To Be Promoted,Tranmere Rovers,-0.03600000000000003,0.4878,0.5238
 2022-02-14 11:33:22.740037,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,-0.03710000000000002,0.6552,0.6923
-2022-02-14 10:30:43.475988,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Eintracht Frankfurt,-0.0373,0.0294,0.0667
 2022-02-14 11:33:22.696453,League One - England League One 2021/22 - To Be Promoted,Oxford United,-0.03889999999999999,0.1429,0.1818
-2022-02-14 10:30:43.475988,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Freiburg,-0.03889999999999999,0.1429,0.1818
 2022-02-14 11:33:22.361775,England Championship - England Championship 21/22 - Top 6 Finish,Luton Town,-0.04040000000000002,0.1818,0.2222
-2022-02-14 10:30:43.408746,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lyon,-0.04089999999999999,0.3846,0.4255
 2022-02-14 11:33:22.685579,League One - England League One 2021/22 - Outright,Wigan Athletic,-0.04099999999999998,0.2667,0.3077
 2022-02-14 12:30:50.066830,Serie B - Italy Serie B 2021/22 - Outright,Brescia,-0.04169999999999999,0.125,0.1667
 2022-02-14 12:30:50.066830,Serie B - Italy Serie B 2021/22 - Outright,Frosinone,-0.042899999999999994,0.1,0.1429
 2022-02-14 11:33:22.696453,League One - England League One 2021/22 - To Be Promoted,Sheffield Wednesday,-0.04999999999999999,0.2,0.25
-2022-02-14 10:30:43.528802,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Atalanta,-0.053099999999999925,0.5833,0.6364
 2022-02-14 11:33:22.503973,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Sporting CP,-0.05550000000000002,0.1667,0.2222
 2022-02-14 11:33:22.727973,League One - England League One 2021/22 - Top 2 Finish,Sunderland,-0.05559999999999998,0.1111,0.1667
 2022-02-14 11:33:22.361775,England Championship - England Championship 21/22 - Top 6 Finish,Queens Park Rangers,-0.05590000000000006,0.6364,0.6923
 2022-02-14 15:33:58.538801,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,-0.05980000000000002,0.3846,0.4444
-2022-02-14 10:30:43.466387,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Wolfsburg,-0.061500000000000006,0.0385,0.1
 2022-02-14 11:33:22.200347,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,FC Barcelona,-0.0635,0.7143,0.7778
-2022-02-14 10:30:43.389404,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Nice,-0.06840000000000002,0.1538,0.2222
-2022-02-14 10:30:43.475988,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Union Berlin,-0.07500000000000001,0.125,0.2
-2022-02-14 10:30:43.466387,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Bochum,-0.08410000000000001,0.0588,0.1429
 2022-02-14 11:33:22.188607,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Alavés,-0.08550000000000002,0.6923,0.7778
 2022-02-14 11:33:22.696453,League One - England League One 2021/22 - To Be Promoted,Sunderland,-0.0922,0.3333,0.4255
 2022-02-14 11:33:22.717692,League One - England League One 2021/22 - To Finish Bottom,Gillingham,-0.10390000000000002,0.1818,0.2857
 2022-02-14 15:33:58.618981,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Atlanta Hawks,-0.12120000000000003,0.3333,0.4545
-2022-02-14 10:30:43.519195,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Venezia,-0.13139999999999996,0.5238,0.6552
 2022-02-14 11:33:22.740037,League One - England League One 2021/22 - Top 6 Finish,Oxford United,-0.15559999999999996,0.4444,0.6
-2022-02-14 10:30:43.408746,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Nice,-0.1637,0.3125,0.4762
 2022-02-14 15:33:58.618981,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Charlotte Hornets,-0.5778000000000001,0.2222,0.8
