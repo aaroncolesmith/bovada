@@ -15,12 +15,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-17 13:32:51.007436,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Green Bay Packers,0.030299999999999994,0.4651,0.4348
 2022-02-17 09:30:51.703885,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Getafe,0.028799999999999992,0.1538,0.125
 2022-02-17 10:30:49.523680,England Championship - England Championship 21/22 - To Be Promoted,Blackburn Rovers,0.027999999999999997,0.1818,0.1538
-2022-02-17 13:32:51.195130,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Olivia Rodrigo - Sour,0.023799999999999988,0.5,0.4762
 2022-02-17 15:31:08.156088,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Myles Garrett,0.023799999999999988,0.1667,0.1429
-2022-02-17 09:30:51.373412,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Mohamed Salah,0.022199999999999998,0.1333,0.1111
+2022-02-17 13:32:51.195130,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Olivia Rodrigo - Sour,0.023799999999999988,0.5,0.4762
 2022-02-17 09:30:51.703885,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,0.022199999999999998,0.2222,0.2
+2022-02-17 09:30:51.373412,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Mohamed Salah,0.022199999999999998,0.1333,0.1111
 2022-02-17 09:30:51.703885,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Alavés,0.02200000000000002,0.7143,0.6923
 2022-02-17 09:30:51.404990,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Manchester City,0.021699999999999997,0.4762,0.4545
+2022-02-17 18:30:55.400690,Boxing Lines - Kean Simon vs Winters Shawndell Terell - To Win the Bout,Kean Simon,0.020199999999999996,0.9091,0.8889
 2022-02-17 15:31:08.221034,NBA All Star Specials - Odds to win 2022 AT&T Slam Dunk - Outright,Jalen Green,0.018900000000000028,0.4444,0.4255
 2022-02-17 13:32:50.822671,BKFC: Knuckle Mania 2 - Mike Perry vs Julian Lane - To Win the Bout,Mike Perry,0.018199999999999994,0.8182,0.8
 2022-02-17 11:30:45.103983,Boxing Lines - Osleys Iglesias vs Robert Racz - To Win the Bout,Osleys Iglesias,0.017900000000000027,0.875,0.8571
@@ -39,21 +40,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-17 10:30:47.275445,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Mike Pompeo,0.012700000000000003,0.0323,0.0196
 2022-02-17 13:32:51.811541,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Anfernee Simons,0.012700000000000003,0.0323,0.0196
 2022-02-17 15:31:08.237429,NBA All Star Specials - Odds to Win 2022 NBA All-Star Game MVP - Outright,Ja Morant,0.012299999999999991,0.1176,0.1053
-2022-02-17 09:30:51.719608,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Betis,0.01150000000000001,0.3448,0.3333
+2022-02-17 18:30:55.272036,Boxing Lines - Jose Larduet Gomez vs Dusan Veletic - To Win the Bout,Dusan Veletic,0.011899999999999994,0.16,0.1481
 2022-02-17 08:33:01.507049,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,0.01150000000000001,0.3448,0.3333
+2022-02-17 09:30:51.719608,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Betis,0.01150000000000001,0.3448,0.3333
 2022-02-17 11:30:45.042374,Boxing Lines - Jose Larduet Gomez vs Dusan Veletic - To Win the Bout,Dusan Veletic,0.011400000000000007,0.129,0.1176
 2022-02-17 09:30:50.910508,NBA Season Props - 2021/22 NBA Awards - 2022 The Sixth Man,Kelly Oubre Jr.,0.011199999999999995,0.0588,0.0476
 2022-02-17 09:30:51.719608,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Sevilla,0.011199999999999988,0.9524,0.9412
-2022-02-17 16:45:04.791043,Boxing Lines - Nikodem Jezewski vs Artur Mann - To Win the Bout,Artur Mann,0.011099999999999999,0.4762,0.4651
 2022-02-17 08:33:01.718328,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,0.011099999999999999,0.1111,0.1
-2022-02-17 07:32:47.892069,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Texas Tech,0.010899999999999993,0.1538,0.1429
+2022-02-17 16:45:04.791043,Boxing Lines - Nikodem Jezewski vs Artur Mann - To Win the Bout,Artur Mann,0.011099999999999999,0.4762,0.4651
 2022-02-17 09:30:51.703885,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Elche,0.010899999999999993,0.1538,0.1429
+2022-02-17 07:32:47.892069,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Texas Tech,0.010899999999999993,0.1538,0.1429
 2022-02-17 15:31:08.237429,NBA All Star Specials - Odds to Win 2022 NBA All-Star Game MVP - Outright,Luka Doncic,-0.0102,0.0667,0.0769
 2022-02-17 10:30:48.007116,Boxing Lines - Osleys Iglesias vs Robert Racz - To Win the Bout,Robert Racz,-0.010499999999999982,0.2,0.2105
 2022-02-17 10:30:47.258187,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Republican,-0.010699999999999932,0.5348,0.5455
 2022-02-17 11:30:44.829741,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Joe Biden,-0.010699999999999987,0.3226,0.3333
-2022-02-17 09:30:51.361755,Champions League - UEFA Champions League 2021/2022 - Outright,Chelsea,-0.011099999999999999,0.1,0.1111
 2022-02-17 10:30:47.275445,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Kamala Harris,-0.011099999999999999,0.1,0.1111
+2022-02-17 09:30:51.361755,Champions League - UEFA Champions League 2021/2022 - Outright,Chelsea,-0.011099999999999999,0.1,0.1111
 2022-02-17 11:30:45.091916,Boxing Lines - Nikodem Jezewski vs Artur Mann - To Win the Bout,Nikodem Jezewski,-0.011499999999999955,0.5885,0.6
 2022-02-17 08:33:01.463154,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,-0.011700000000000016,0.2105,0.2222
 2022-02-17 09:30:51.404990,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Bayern Munich,-0.012699999999999989,0.3509,0.3636
@@ -61,14 +63,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-17 09:30:51.404990,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Manchester United,-0.013899999999999996,0.1111,0.125
 2022-02-17 08:33:01.463154,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,-0.013899999999999996,0.1111,0.125
 2022-02-17 09:30:51.404990,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Real Madrid,-0.013999999999999999,0.0769,0.0909
+2022-02-17 18:30:55.272036,Boxing Lines - Jose Larduet Gomez vs Dusan Veletic - To Win the Bout,Jose Larduet Gomez,-0.014000000000000012,0.9091,0.9231
 2022-02-17 10:30:49.821640,League One - England League One 2021/22 - To Be Promoted,Bolton Wanderers,-0.014099999999999998,0.0244,0.0385
 2022-02-17 08:33:01.718328,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,-0.014399999999999968,0.9231,0.9375
 2022-02-17 15:31:07.715154,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,-0.01469999999999999,0.2353,0.25
-2022-02-17 13:32:51.064433,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Malik Willis,-0.014899999999999997,0.0476,0.0625
 2022-02-17 11:30:45.837698,94th Academy Awards - Best Original Score - Outright,Don’t Look Up (Nicholas Britell),-0.014899999999999997,0.0476,0.0625
-2022-02-17 09:30:50.873260,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Ja Morant,-0.015100000000000002,0.8182,0.8333
+2022-02-17 13:32:51.064433,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Malik Willis,-0.014899999999999997,0.0476,0.0625
 2022-02-17 15:31:08.192634,NBA All Star Specials - Odds to win 2022  MTN DEW 3-Point Contest - Outright,Zach LaVine,-0.015100000000000002,0.1667,0.1818
 2022-02-17 10:30:47.275445,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Joe Biden,-0.015100000000000002,0.1667,0.1818
+2022-02-17 09:30:50.873260,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Ja Morant,-0.015100000000000002,0.8182,0.8333
 2022-02-17 10:30:47.275445,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Michelle Obama,-0.015300000000000001,0.0323,0.0476
 2022-02-17 15:31:07.740024,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Scottie Barnes,-0.015700000000000006,0.1176,0.1333
 2022-02-17 17:32:49.236372,Boxing Lines - Osleys Iglesias vs Robert Racz - To Win the Bout,Robert Racz,-0.016600000000000004,0.1739,0.1905
@@ -79,8 +82,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-17 13:32:50.994906,NFL Specials - Will the Cincinnati Bengals Draft an offensive lineman with their first Pick in the 2022 NFL draft  - Outright,No,-0.020699999999999996,0.4444,0.4651
 2022-02-17 13:32:51.483919,94th Academy Awards - Odds to win Best Picture - Outright,Belfast,-0.022199999999999998,0.2,0.2222
 2022-02-17 10:30:49.639569,Serie B - Italy Serie B 2021/22 - Outright,Benevento,-0.02310000000000001,0.0769,0.1
-2022-02-17 10:30:47.258187,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Democratic,-0.023799999999999988,0.4762,0.5
 2022-02-17 10:30:49.849456,League One - England League One 2021/22 - Top 6 Finish,Plymouth Argyle,-0.023799999999999988,0.4762,0.5
+2022-02-17 10:30:47.258187,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Democratic,-0.023799999999999988,0.4762,0.5
 2022-02-17 13:32:51.007436,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Denver Broncos,-0.023800000000000043,0.5,0.5238
 2022-02-17 10:30:49.639569,Serie B - Italy Serie B 2021/22 - Outright,Frosinone,-0.0242,0.0667,0.0909
 2022-02-17 11:30:44.829741,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Kamala Harris,-0.02779999999999999,0.2222,0.25
