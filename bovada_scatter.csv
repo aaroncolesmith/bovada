@@ -1,6 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-16 19:32:51.550543,Boxing Lines - Osleys Iglesias vs Robert Racz - To Win the Bout,Osleys Iglesias,0.22749999999999992,0.8571,0.6296
-2022-02-16 18:30:49.691435,Boxing Lines - Osleys Iglesias vs Robert Racz - To Win the Bout,Robert Racz,0.22430000000000003,0.4348,0.2105
 2022-02-16 23:30:49.507598,Star Wars Specials - Will any of these characters appear in 'Obi-Wan Kenobi' on Disney+ - Outright,Qui Gon Jinn,0.22229999999999994,0.6667,0.4444
 2022-02-16 19:32:51.912307,NFL Specials - Where will Carson Wentz Play Game 1 of the 2022/2023 NFL Season? - Outright,Indianapolis Colts,0.15000000000000002,0.4,0.25
 2022-02-16 23:30:49.472444,Star Wars Specials - Will any of these characters appear in 'Ahsoka' on Disney+ - Outright,Princess Leia,0.11900000000000002,0.2857,0.1667
@@ -30,13 +29,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-17 01:31:08.535872,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,0.033300000000000024,0.2,0.1667
 2022-02-16 23:30:49.489914,Star Wars Specials - Will any of these characters appear in 'Andor' on Disney+ - Outright,Jyn Erso,0.033300000000000024,0.2,0.1667
 2022-02-17 01:31:08.903921,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Real Madrid,0.03180000000000005,0.8889,0.8571
-2022-02-16 23:30:49.472444,Star Wars Specials - Will any of these characters appear in 'Ahsoka' on Disney+ - Outright,C3PO,0.0267,0.1176,0.0909
 2022-02-16 22:32:42.733214,Marvel Specials - Will Any Of These Characters Appear in She-Hulk on Disney+? - Outright,Starfox,0.0267,0.1176,0.0909
+2022-02-16 23:30:49.472444,Star Wars Specials - Will any of these characters appear in 'Ahsoka' on Disney+ - Outright,C3PO,0.0267,0.1176,0.0909
 2022-02-17 01:31:08.549805,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Liverpool/PSG,0.024299999999999995,0.0769,0.0526
 2022-02-16 22:32:42.790429,TV Specials - Will any of there characters appear in Season 2 of Amazon's Wheel of Time? - Proposition,Faile Bashere,0.022199999999999998,0.2222,0.2
 2022-02-16 23:30:49.489914,Star Wars Specials - Will any of these characters appear in 'Andor' on Disney+ - Outright,R2-D2,0.021999999999999964,0.3077,0.2857
-2022-02-16 22:32:42.733214,Marvel Specials - Will Any Of These Characters Appear in She-Hulk on Disney+? - Outright,Hellcat,0.019000000000000017,0.2857,0.2667
 2022-02-17 01:31:09.448972,League One - England League One 2021/22 - Outright,Wigan Athletic,0.019000000000000017,0.2857,0.2667
+2022-02-16 22:32:42.733214,Marvel Specials - Will Any Of These Characters Appear in She-Hulk on Disney+? - Outright,Hellcat,0.019000000000000017,0.2857,0.2667
 2022-02-16 23:30:49.489914,Star Wars Specials - Will any of these characters appear in 'Andor' on Disney+ - Outright,Chirrut Imwe,0.01820000000000002,0.2,0.1818
 2022-02-16 21:30:46.288899,Boxing Lines - Arslanbek Makhmudov vs Mariusz Wach - To Win the Bout,Arslanbek Makhmudov,0.018100000000000005,0.9655,0.9474
 2022-02-16 22:32:42.733214,Marvel Specials - Will Any Of These Characters Appear in She-Hulk on Disney+? - Outright,Colleen Wing,0.018099999999999998,0.0769,0.0588
@@ -64,4 +63,3 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-16 20:30:56.835127,NFL Specials - Will Aaron Donald  retire before game 1 of the 2022-2023 NFL Regular Season - Outright,Yes,-0.0877,0.2632,0.3509
 2022-02-16 21:30:46.520303,NFL Specials - Will the Cincinnati Bengals Draft an offensive lineman with their first Pick in the 2022 NFL draft  - Outright,No,-0.10930000000000001,0.4651,0.5744
 2022-02-16 19:32:51.550543,Boxing Lines - Osleys Iglesias vs Robert Racz - To Win the Bout,Robert Racz,-0.22430000000000003,0.2105,0.4348
-2022-02-16 18:30:49.691435,Boxing Lines - Osleys Iglesias vs Robert Racz - To Win the Bout,Osleys Iglesias,-0.22749999999999992,0.6296,0.8571
