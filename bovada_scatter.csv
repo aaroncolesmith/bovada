@@ -3,9 +3,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-16 18:30:49.691435,Boxing Lines - Osleys Iglesias vs Robert Racz - To Win the Bout,Robert Racz,0.22430000000000003,0.4348,0.2105
 2022-02-16 23:30:49.507598,Star Wars Specials - Will any of these characters appear in 'Obi-Wan Kenobi' on Disney+ - Outright,Qui Gon Jinn,0.22229999999999994,0.6667,0.4444
 2022-02-16 19:32:51.912307,NFL Specials - Where will Carson Wentz Play Game 1 of the 2022/2023 NFL Season? - Outright,Indianapolis Colts,0.15000000000000002,0.4,0.25
-2022-02-16 22:32:42.714610,Marvel Specials - Will Any Of These Characters Appear in Secret Invasion On Disney+? - Outright,Captain Marvel,0.11900000000000002,0.2857,0.1667
 2022-02-16 22:32:42.733214,Marvel Specials - Will Any Of These Characters Appear in She-Hulk on Disney+? - Outright,Spider-Woman,0.11900000000000002,0.2857,0.1667
 2022-02-16 23:30:49.472444,Star Wars Specials - Will any of these characters appear in 'Ahsoka' on Disney+ - Outright,Princess Leia,0.11900000000000002,0.2857,0.1667
+2022-02-16 22:32:42.714610,Marvel Specials - Will Any Of These Characters Appear in Secret Invasion On Disney+? - Outright,Captain Marvel,0.11900000000000002,0.2857,0.1667
 2022-02-16 23:30:49.507598,Star Wars Specials - Will any of these characters appear in 'Obi-Wan Kenobi' on Disney+ - Outright,Yoda,0.11430000000000001,0.4,0.2857
 2022-02-16 23:30:49.489914,Star Wars Specials - Will any of these characters appear in 'Andor' on Disney+ - Outright,Princess Leia,0.11119999999999997,0.5556,0.4444
 2022-02-16 23:30:49.507598,Star Wars Specials - Will any of these characters appear in 'Obi-Wan Kenobi' on Disney+ - Outright,Bobba Fett,0.1071,0.25,0.1429
@@ -30,7 +30,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-17 01:31:08.535872,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,0.033300000000000024,0.2,0.1667
 2022-02-16 23:30:49.489914,Star Wars Specials - Will any of these characters appear in 'Andor' on Disney+ - Outright,Jyn Erso,0.033300000000000024,0.2,0.1667
 2022-02-17 01:31:08.903921,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Real Madrid,0.03180000000000005,0.8889,0.8571
-2022-02-16 15:31:18.985958,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Olivia Rodrigo - Sour,0.031799999999999995,0.4762,0.4444
 2022-02-16 23:30:49.472444,Star Wars Specials - Will any of these characters appear in 'Ahsoka' on Disney+ - Outright,C3PO,0.0267,0.1176,0.0909
 2022-02-16 22:32:42.733214,Marvel Specials - Will Any Of These Characters Appear in She-Hulk on Disney+? - Outright,Starfox,0.0267,0.1176,0.0909
 2022-02-17 01:31:08.549805,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Liverpool/PSG,0.024299999999999995,0.0769,0.0526
@@ -44,7 +43,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-16 22:32:42.733214,Marvel Specials - Will Any Of These Characters Appear in She-Hulk on Disney+? - Outright,Colleen Wing,0.018099999999999998,0.0769,0.0588
 2022-02-16 16:33:16.158378,Boxing Lines - Zhan Kossobutskiy vs Johann Duhaupas - To Win the Bout,Zhan Kossobutskiy,0.0131,0.9655,0.9524
 2022-02-17 01:31:07.470793,MLB - 2022 World Series - Outright,Cincinnati Reds,0.012100000000000001,0.0244,0.0123
-2022-02-16 15:31:19.657512,Boxing Lines - Charlie Schofield vs Germaine Brown - To Win the Bout,Germaine Brown,0.01090000000000002,0.8571,0.8462
 2022-02-17 01:31:09.056095,England Championship - England Championship 21/22 - Outright,Bournemouth,0.010899999999999993,0.1538,0.1429
 2022-02-17 01:31:08.549805,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Bayern Munich/Man Utd,-0.014100000000000001,0.0385,0.0526
 2022-02-17 01:31:08.535872,Champions League - UEFA Champions League 2021/2022 - Outright,Inter Milan,-0.014599999999999998,0.005,0.0196
