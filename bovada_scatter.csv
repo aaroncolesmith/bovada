@@ -13,13 +13,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-17 02:32:40.231926,NFL Specials - Will Sean McVay be the head coach of the LA Rams for game 1 of the 2022-2023 NFL Regular Season - Outright,Yes,0.06669999999999998,0.9615,0.8948
 2022-02-17 02:32:40.220339,NFL Specials - Will Aaron Donald  retire before game 1 of the 2022-2023 NFL Regular Season - Outright,No,0.06600000000000006,0.9231,0.8571
 2022-02-16 22:32:42.682406,Marvel Specials - Will Any Of These Characters Appear in Ironheart on Disney+? - Outright,Wong,0.0588,0.1176,0.0588
+2022-02-17 10:30:49.639569,Serie B - Italy Serie B 2021/22 - Outright,Cremonese,0.057699999999999974,0.3077,0.25
 2022-02-16 22:32:42.790429,TV Specials - Will any of there characters appear in Season 2 of Amazon's Wheel of Time? - Proposition,Cadsuane Melaidrin,0.0573,0.0769,0.0196
 2022-02-16 23:30:49.472444,Star Wars Specials - Will any of these characters appear in 'Ahsoka' on Disney+ - Outright,Hera Syndulla,0.05520000000000003,0.4,0.3448
 2022-02-17 09:30:51.681654,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Sevilla,0.04760000000000009,0.7143,0.6667
 2022-02-17 01:31:08.549805,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Man City/PSG,0.04440000000000001,0.1111,0.0667
 2022-02-17 01:31:08.549805,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Liverpool/Man City,0.04269999999999999,0.1538,0.1111
-2022-02-17 09:30:50.094667,Boxing Lines - Mateusz Polski vs Serhii Shvets - To Win the Bout,Serhii Shvets,0.04169999999999999,0.25,0.2083
+2022-02-17 10:30:49.639569,Serie B - Italy Serie B 2021/22 - Outright,Brescia,0.04169999999999999,0.1667,0.125
 2022-02-16 23:30:49.472444,Star Wars Specials - Will any of these characters appear in 'Ahsoka' on Disney+ - Outright,Zeb Orrelios,0.04169999999999999,0.1667,0.125
+2022-02-17 09:30:50.094667,Boxing Lines - Mateusz Polski vs Serhii Shvets - To Win the Bout,Serhii Shvets,0.04169999999999999,0.25,0.2083
 2022-02-17 09:30:51.703885,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Cádiz,0.04169999999999996,0.875,0.8333
 2022-02-17 01:31:08.565483,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,Spain,0.0384,0.0769,0.0385
 2022-02-16 23:30:49.472444,Star Wars Specials - Will any of these characters appear in 'Ahsoka' on Disney+ - Outright,Chopper,0.03570000000000001,0.2857,0.25
@@ -27,47 +29,65 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-16 23:30:49.489914,Star Wars Specials - Will any of these characters appear in 'Andor' on Disney+ - Outright,Jyn Erso,0.033300000000000024,0.2,0.1667
 2022-02-17 01:31:08.535872,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,0.033300000000000024,0.2,0.1667
 2022-02-17 01:31:08.903921,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Real Madrid,0.03180000000000005,0.8889,0.8571
+2022-02-17 10:30:49.821640,League One - England League One 2021/22 - To Be Promoted,Wigan Athletic,0.03180000000000005,0.8889,0.8571
 2022-02-17 09:30:51.703885,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Getafe,0.028799999999999992,0.1538,0.125
+2022-02-17 10:30:49.523680,England Championship - England Championship 21/22 - To Be Promoted,Blackburn Rovers,0.027999999999999997,0.1818,0.1538
 2022-02-16 22:32:42.733214,Marvel Specials - Will Any Of These Characters Appear in She-Hulk on Disney+? - Outright,Starfox,0.0267,0.1176,0.0909
 2022-02-16 23:30:49.472444,Star Wars Specials - Will any of these characters appear in 'Ahsoka' on Disney+ - Outright,C3PO,0.0267,0.1176,0.0909
 2022-02-17 01:31:08.549805,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Liverpool/PSG,0.024299999999999995,0.0769,0.0526
-2022-02-16 22:32:42.790429,TV Specials - Will any of there characters appear in Season 2 of Amazon's Wheel of Time? - Proposition,Faile Bashere,0.022199999999999998,0.2222,0.2
 2022-02-17 09:30:51.373412,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Mohamed Salah,0.022199999999999998,0.1333,0.1111
 2022-02-17 09:30:51.703885,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,0.022199999999999998,0.2222,0.2
+2022-02-16 22:32:42.790429,TV Specials - Will any of there characters appear in Season 2 of Amazon's Wheel of Time? - Proposition,Faile Bashere,0.022199999999999998,0.2222,0.2
 2022-02-17 09:30:51.703885,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Alavés,0.02200000000000002,0.7143,0.6923
 2022-02-16 23:30:49.489914,Star Wars Specials - Will any of these characters appear in 'Andor' on Disney+ - Outright,R2-D2,0.021999999999999964,0.3077,0.2857
 2022-02-17 09:30:51.404990,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Manchester City,0.021699999999999997,0.4762,0.4545
-2022-02-16 22:32:42.733214,Marvel Specials - Will Any Of These Characters Appear in She-Hulk on Disney+? - Outright,Hellcat,0.019000000000000017,0.2857,0.2667
 2022-02-17 01:31:09.448972,League One - England League One 2021/22 - Outright,Wigan Athletic,0.019000000000000017,0.2857,0.2667
+2022-02-16 22:32:42.733214,Marvel Specials - Will Any Of These Characters Appear in She-Hulk on Disney+? - Outright,Hellcat,0.019000000000000017,0.2857,0.2667
 2022-02-16 23:30:49.489914,Star Wars Specials - Will any of these characters appear in 'Andor' on Disney+ - Outright,Chirrut Imwe,0.01820000000000002,0.2,0.1818
 2022-02-16 22:32:42.733214,Marvel Specials - Will Any Of These Characters Appear in She-Hulk on Disney+? - Outright,Colleen Wing,0.018099999999999998,0.0769,0.0588
 2022-02-17 09:30:50.873260,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Miles Bridges,0.0179,0.1429,0.125
 2022-02-17 08:33:01.463154,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,0.016699999999999993,0.4167,0.4
+2022-02-17 10:30:49.523680,England Championship - England Championship 21/22 - To Be Promoted,Bournemouth,0.015100000000000002,0.8333,0.8182
+2022-02-17 10:30:48.664451,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Josh Giddey,0.014399999999999996,0.0769,0.0625
+2022-02-17 10:30:49.523680,England Championship - England Championship 21/22 - To Be Promoted,Fulham,0.01429999999999998,0.9852,0.9709
+2022-02-17 10:30:49.550012,England Championship - England Championship 21/22 - Top 6 Finish,Millwall,0.014099999999999994,0.0667,0.0526
 2022-02-17 08:33:01.507049,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Rudy Gobert,0.013300000000000034,0.3704,0.3571
 2022-02-17 08:33:01.463154,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,0.0131,0.2353,0.2222
+2022-02-17 10:30:47.275445,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Mike Pompeo,0.012700000000000003,0.0323,0.0196
 2022-02-17 01:31:07.470793,MLB - 2022 World Series - Outright,Cincinnati Reds,0.012100000000000001,0.0244,0.0123
-2022-02-17 08:33:01.507049,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,0.01150000000000001,0.3448,0.3333
 2022-02-17 09:30:51.719608,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Betis,0.01150000000000001,0.3448,0.3333
+2022-02-17 08:33:01.507049,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,0.01150000000000001,0.3448,0.3333
 2022-02-17 09:30:50.910508,NBA Season Props - 2021/22 NBA Awards - 2022 The Sixth Man,Kelly Oubre Jr.,0.011199999999999995,0.0588,0.0476
 2022-02-17 09:30:51.719608,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Sevilla,0.011199999999999988,0.9524,0.9412
 2022-02-17 08:33:01.718328,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,0.011099999999999999,0.1111,0.1
-2022-02-17 09:30:51.703885,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Elche,0.010899999999999993,0.1538,0.1429
-2022-02-17 01:31:09.056095,England Championship - England Championship 21/22 - Outright,Bournemouth,0.010899999999999993,0.1538,0.1429
 2022-02-17 07:32:47.892069,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Texas Tech,0.010899999999999993,0.1538,0.1429
+2022-02-17 01:31:09.056095,England Championship - England Championship 21/22 - Outright,Bournemouth,0.010899999999999993,0.1538,0.1429
+2022-02-17 09:30:51.703885,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Elche,0.010899999999999993,0.1538,0.1429
+2022-02-17 10:30:48.007116,Boxing Lines - Osleys Iglesias vs Robert Racz - To Win the Bout,Robert Racz,-0.010499999999999982,0.2,0.2105
+2022-02-17 10:30:47.258187,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Republican,-0.010699999999999932,0.5348,0.5455
 2022-02-17 09:30:51.361755,Champions League - UEFA Champions League 2021/2022 - Outright,Chelsea,-0.011099999999999999,0.1,0.1111
+2022-02-17 10:30:47.275445,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Kamala Harris,-0.011099999999999999,0.1,0.1111
 2022-02-17 08:33:01.463154,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,-0.011700000000000016,0.2105,0.2222
 2022-02-17 09:30:51.404990,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Bayern Munich,-0.012699999999999989,0.3509,0.3636
-2022-02-17 09:30:51.404990,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Manchester United,-0.013899999999999996,0.1111,0.125
 2022-02-17 08:33:01.463154,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,-0.013899999999999996,0.1111,0.125
+2022-02-17 09:30:51.404990,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Manchester United,-0.013899999999999996,0.1111,0.125
 2022-02-17 09:30:51.404990,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Real Madrid,-0.013999999999999999,0.0769,0.0909
+2022-02-17 10:30:49.821640,League One - England League One 2021/22 - To Be Promoted,Bolton Wanderers,-0.014099999999999998,0.0244,0.0385
 2022-02-17 01:31:08.549805,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Bayern Munich/Man Utd,-0.014100000000000001,0.0385,0.0526
 2022-02-17 08:33:01.718328,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,-0.014399999999999968,0.9231,0.9375
 2022-02-17 01:31:08.535872,Champions League - UEFA Champions League 2021/2022 - Outright,Inter Milan,-0.014599999999999998,0.005,0.0196
-2022-02-17 09:30:50.873260,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Ja Morant,-0.015100000000000002,0.8182,0.8333
 2022-02-17 01:31:09.448972,League One - England League One 2021/22 - Outright,Rotherham Utd,-0.015100000000000002,0.7849,0.8
+2022-02-17 10:30:47.275445,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Joe Biden,-0.015100000000000002,0.1667,0.1818
+2022-02-17 09:30:50.873260,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Ja Morant,-0.015100000000000002,0.8182,0.8333
+2022-02-17 10:30:47.275445,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Michelle Obama,-0.015300000000000001,0.0323,0.0476
 2022-02-17 01:31:08.549805,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Bayern Munich/Real Madrid,-0.018099999999999998,0.0345,0.0526
 2022-02-17 01:31:08.535872,Champions League - UEFA Champions League 2021/2022 - Outright,Bayern Munich,-0.01820000000000002,0.1818,0.2
+2022-02-17 10:30:49.523680,England Championship - England Championship 21/22 - To Be Promoted,Sheffield United,-0.019100000000000006,0.2309,0.25
+2022-02-17 10:30:49.639569,Serie B - Italy Serie B 2021/22 - Outright,Benevento,-0.02310000000000001,0.0769,0.1
+2022-02-17 10:30:49.849456,League One - England League One 2021/22 - Top 6 Finish,Plymouth Argyle,-0.023799999999999988,0.4762,0.5
+2022-02-17 10:30:47.258187,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Democratic,-0.023799999999999988,0.4762,0.5
 2022-02-17 01:31:08.549805,Champions League - UEFA Champions League 2021/2022 - Name The Finalists,Bayern Munich/Chelsea,-0.0242,0.0667,0.0909
+2022-02-17 10:30:49.639569,Serie B - Italy Serie B 2021/22 - Outright,Frosinone,-0.0242,0.0667,0.0909
 2022-02-17 09:30:51.719608,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Athletic Bilbao,-0.029299999999999993,0.0476,0.0769
 2022-02-17 09:30:51.703885,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Levante,-0.02969999999999995,0.9412,0.9709
 2022-02-17 09:30:51.422768,Champions League - UEFA Champions League 2021/2022 - Furthest Progressing EPL Team,Chelsea,-0.03259999999999999,0.2,0.2326
@@ -77,6 +97,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-17 09:30:51.404990,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Inter Milan,-0.0392,0.0196,0.0588
 2022-02-17 09:30:51.681654,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Atlético Madrid,-0.04099999999999998,0.2667,0.3077
 2022-02-17 02:32:40.256252,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Denver Broncos,-0.04139999999999999,0.5238,0.5652
+2022-02-17 10:30:49.639569,Serie B - Italy Serie B 2021/22 - Outright,Lecce,-0.04910000000000003,0.3509,0.4
+2022-02-17 10:30:49.523680,England Championship - England Championship 21/22 - To Be Promoted,Queens Park Rangers,-0.05550000000000002,0.1667,0.2222
 2022-02-17 09:30:51.719608,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,-0.0635,0.7143,0.7778
 2022-02-16 22:32:42.682406,Marvel Specials - Will Any Of These Characters Appear in Ironheart on Disney+? - Outright,Wasp,-0.0642,0.1176,0.1818
 2022-02-17 02:32:40.231926,NFL Specials - Will Sean McVay be the head coach of the LA Rams for game 1 of the 2022-2023 NFL Regular Season - Outright,No,-0.07069999999999999,0.1111,0.1818
