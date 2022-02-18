@@ -9,19 +9,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-18 08:30:57.459480,NBA All Star Specials - Odds to win 2022  Taco Bell Skills Challenge - Outright,Team Cavs,0.030299999999999994,0.3636,0.3333
 2022-02-18 10:32:41.254485,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Leicester City,0.027999999999999997,0.1818,0.1538
 2022-02-18 01:32:49.041698,NBA All Star Specials - Odds to win 2022  Taco Bell Skills Challenge - Outright,Team Rooks,0.027700000000000002,0.4444,0.4167
+2022-02-18 12:32:58.816776,Boxing Lines - Jose Larduet Gomez vs Dusan Veletic - To Win the Bout,Dusan Veletic,0.020100000000000007,0.1739,0.1538
 2022-02-18 06:32:44.016799,Boxing Lines - Paul Kroll vs Marquis Taylor - To Win the Bout,Marquis Taylor,0.01820000000000002,0.2,0.1818
 2022-02-18 10:32:41.254485,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Bodø/Glimt,0.018200000000000004,0.0476,0.0294
 2022-02-18 10:32:41.254485,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Marseille,0.0179,0.1429,0.125
 2022-02-18 08:30:57.326801,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Toronto Raptors,0.01759999999999999,0.1176,0.1
 2022-02-18 01:32:49.341198,NBA Specials - WIll Ben Simmons Play March 10 vs. Philadelphia 76ers - Outright,No,0.016000000000000014,0.4082,0.3922
+2022-02-18 11:31:27.103978,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Myles Garrett,0.015400000000000025,0.2857,0.2703
 2022-02-18 10:32:41.236830,Europa League - UEFA Europa League 2021/22 - Outright,Atalanta,0.013899999999999996,0.125,0.1111
 2022-02-18 11:31:27.126018,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game Odds to Score First Point of the Game,Quavo,0.0131,0.2353,0.2222
 2022-02-18 03:30:43.218931,Boxing Lines - Nikodem Jezewski vs Artur Mann - To Win the Bout,Artur Mann,0.0116,0.4878,0.4762
 2022-02-18 10:32:41.236830,Europa League - UEFA Europa League 2021/22 - Outright,Real Betis,0.011199999999999995,0.0588,0.0476
 2022-02-18 08:30:56.698111,Boxing Lines - Osleys Iglesias vs Robert Racz - To Win the Bout,Osleys Iglesias,0.011099999999999999,0.9,0.8889
+2022-02-18 11:31:27.126018,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game Odds to Score First Point of the Game,Myles Garrett,0.010899999999999993,0.1538,0.1429
 2022-02-18 10:32:41.236830,Europa League - UEFA Europa League 2021/22 - Outright,Lyon,0.0102,0.0769,0.0667
 2022-02-18 10:32:41.254485,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Feyenoord,0.0102,0.0769,0.0667
 2022-02-18 11:31:27.126018,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game Odds to Score First Point of the Game,Dearica Hamby,-0.0102,0.0667,0.0769
+2022-02-18 11:31:27.126018,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game Odds to Score First Point of the Game,Crissa Jackson,-0.0102,0.0667,0.0769
 2022-02-18 01:32:49.041698,NBA All Star Specials - Odds to win 2022  Taco Bell Skills Challenge - Outright,Team Antetokounmpos,-0.010699999999999987,0.3226,0.3333
 2022-02-18 11:31:25.204742,Boxing Lines - Kean Simon vs Winters Shawndell Terell - To Win the Bout,Winters Shawndell Terell,-0.010899999999999993,0.1429,0.1538
 2022-02-18 10:32:38.767697,Boxing Lines - Osleys Iglesias vs Robert Racz - To Win the Bout,Osleys Iglesias,-0.011099999999999999,0.8889,0.9
@@ -40,8 +44,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-18 03:30:43.218931,Boxing Lines - Nikodem Jezewski vs Artur Mann - To Win the Bout,Nikodem Jezewski,-0.017299999999999982,0.5744,0.5917
 2022-02-18 01:32:49.041698,NBA All Star Specials - Odds to win 2022  Taco Bell Skills Challenge - Outright,Team Cavs,-0.017600000000000005,0.3333,0.3509
 2022-02-18 01:32:50.092446,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Pittsburgh Steelers,-0.0179,0.125,0.1429
-2022-02-18 10:32:41.254485,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Gent,-0.018200000000000004,0.0294,0.0476
 2022-02-18 10:32:41.236830,Europa League - UEFA Europa League 2021/22 - Outright,Lazio,-0.018200000000000004,0.0294,0.0476
+2022-02-18 10:32:41.254485,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Gent,-0.018200000000000004,0.0294,0.0476
 2022-02-18 07:30:50.060859,Boxing Lines - Paul Kroll vs Marquis Taylor - To Win the Bout,Marquis Taylor,-0.01820000000000002,0.1818,0.2
 2022-02-18 10:32:41.254485,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Fenerbahce,-0.019099999999999995,0.0244,0.0435
 2022-02-18 04:30:58.209214,Boxing Lines - Jose Larduet Gomez vs Dusan Veletic - To Win the Bout,Dusan Veletic,-0.020100000000000007,0.1538,0.1739
