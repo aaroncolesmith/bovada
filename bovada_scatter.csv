@@ -11,15 +11,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-17 21:32:45.914196,NBA All Star Specials - Odds to win 2022  Taco Bell Skills Challenge - Outright,Team Rooks,0.03210000000000002,0.4167,0.3846
 2022-02-18 01:32:49.041698,NBA All Star Specials - Odds to win 2022  Taco Bell Skills Challenge - Outright,Team Rooks,0.027700000000000002,0.4444,0.4167
 2022-02-17 20:33:07.271511,Survivor 42 - The WInner of Survivor Seson 42 - Outright,Chanelle Howell,0.024299999999999995,0.0769,0.0526
-2022-02-17 18:30:55.400690,Boxing Lines - Kean Simon vs Winters Shawndell Terell - To Win the Bout,Kean Simon,0.020199999999999996,0.9091,0.8889
+2022-02-18 06:32:44.016799,Boxing Lines - Paul Kroll vs Marquis Taylor - To Win the Bout,Marquis Taylor,0.01820000000000002,0.2,0.1818
 2022-02-17 23:30:50.590748,Europa League - UEFA Europa League 2021/22 - Outright,Napoli,0.018099999999999998,0.0769,0.0588
 2022-02-17 23:30:50.590748,Europa League - UEFA Europa League 2021/22 - Outright,Rangers,0.017099999999999997,0.0294,0.0123
 2022-02-18 01:32:49.341198,NBA Specials - WIll Ben Simmons Play March 10 vs. Philadelphia 76ers - Outright,No,0.016000000000000014,0.4082,0.3922
 2022-02-17 21:32:45.878443,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Myles Garrett,0.015100000000000002,0.1818,0.1667
 2022-02-17 23:30:50.590748,Europa League - UEFA Europa League 2021/22 - Outright,West Ham United,0.013999999999999999,0.0909,0.0769
-2022-02-17 17:32:49.236372,Boxing Lines - Osleys Iglesias vs Robert Racz - To Win the Bout,Osleys Iglesias,0.013900000000000023,0.8889,0.875
 2022-02-17 20:33:03.501792,Boxing Lines - Jose Larduet Gomez vs Dusan Veletic - To Win the Bout,Dusan Veletic,0.013899999999999996,0.1739,0.16
-2022-02-17 18:30:55.272036,Boxing Lines - Jose Larduet Gomez vs Dusan Veletic - To Win the Bout,Dusan Veletic,0.011899999999999994,0.16,0.1481
 2022-02-18 03:30:43.218931,Boxing Lines - Nikodem Jezewski vs Artur Mann - To Win the Bout,Artur Mann,0.0116,0.4878,0.4762
 2022-02-17 23:30:50.590748,Europa League - UEFA Europa League 2021/22 - Outright,Bayer Leverkusen,0.011199999999999995,0.0588,0.0476
 2022-02-17 23:30:50.590748,Europa League - UEFA Europa League 2021/22 - Outright,Atalanta,0.011099999999999999,0.1111,0.1
@@ -27,11 +25,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-17 23:30:50.590748,Europa League - UEFA Europa League 2021/22 - Outright,FC Barcelona,-0.011099999999999999,0.1,0.1111
 2022-02-17 21:32:45.914196,NBA All Star Specials - Odds to win 2022  Taco Bell Skills Challenge - Outright,Team Antetokounmpos,-0.01150000000000001,0.3333,0.3448
 2022-02-18 01:32:49.007867,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Dearica Hamby,-0.013999999999999999,0.0769,0.0909
-2022-02-17 18:30:55.272036,Boxing Lines - Jose Larduet Gomez vs Dusan Veletic - To Win the Bout,Jose Larduet Gomez,-0.014000000000000012,0.9091,0.9231
-2022-02-18 01:32:50.092446,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Miami Dolphins,-0.014399999999999996,0.0625,0.0769
 2022-02-18 01:32:49.007867,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Gianmarco Tamberi,-0.014399999999999996,0.0625,0.0769
+2022-02-18 01:32:50.092446,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Miami Dolphins,-0.014399999999999996,0.0625,0.0769
 2022-02-18 01:32:49.007867,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Booby Gibson,-0.016600000000000004,0.0667,0.0833
-2022-02-17 17:32:49.236372,Boxing Lines - Osleys Iglesias vs Robert Racz - To Win the Bout,Robert Racz,-0.016600000000000004,0.1739,0.1905
 2022-02-18 03:30:43.218931,Boxing Lines - Nikodem Jezewski vs Artur Mann - To Win the Bout,Nikodem Jezewski,-0.017299999999999982,0.5744,0.5917
 2022-02-18 01:32:49.041698,NBA All Star Specials - Odds to win 2022  Taco Bell Skills Challenge - Outright,Team Cavs,-0.017600000000000005,0.3333,0.3509
 2022-02-18 01:32:50.092446,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Pittsburgh Steelers,-0.0179,0.125,0.1429
