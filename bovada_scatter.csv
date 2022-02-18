@@ -1,6 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-18 01:32:50.092446,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Green Bay Packers,0.12229999999999996,0.6875,0.5652
 2022-02-17 19:32:54.838902,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Green Bay Packers,0.10010000000000002,0.5652,0.4651
+2022-02-18 01:32:49.007867,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Myles Garrett,0.0885,0.2703,0.1818
 2022-02-17 19:32:53.887395,NBA Specials - WIll Ben Simmons Play March 10 vs. Philadelphia 76ers - Outright,No,0.07469999999999999,0.3922,0.3175
 2022-02-17 21:32:45.178156,College Season Props - Odds to win 2022 Heisman Trophy - Outright,Caleb Williams,0.066,0.1429,0.0769
 2022-02-17 15:31:07.009413,Boxing Lines - Mateusz Polski vs Serhii Shvets - To Win the Bout,Serhii Shvets,0.0625,0.3125,0.25
@@ -27,8 +28,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-17 15:31:08.237429,NBA All Star Specials - Odds to Win 2022 NBA All-Star Game MVP - Outright,Ja Morant,0.012299999999999991,0.1176,0.1053
 2022-02-17 18:30:55.272036,Boxing Lines - Jose Larduet Gomez vs Dusan Veletic - To Win the Bout,Dusan Veletic,0.011899999999999994,0.16,0.1481
 2022-02-17 23:30:50.590748,Europa League - UEFA Europa League 2021/22 - Outright,Bayer Leverkusen,0.011199999999999995,0.0588,0.0476
-2022-02-17 23:30:50.590748,Europa League - UEFA Europa League 2021/22 - Outright,Atalanta,0.011099999999999999,0.1111,0.1
 2022-02-17 16:45:04.791043,Boxing Lines - Nikodem Jezewski vs Artur Mann - To Win the Bout,Artur Mann,0.011099999999999999,0.4762,0.4651
+2022-02-17 23:30:50.590748,Europa League - UEFA Europa League 2021/22 - Outright,Atalanta,0.011099999999999999,0.1111,0.1
 2022-02-17 15:31:08.237429,NBA All Star Specials - Odds to Win 2022 NBA All-Star Game MVP - Outright,Luka Doncic,-0.0102,0.0667,0.0769
 2022-02-18 01:32:49.041698,NBA All Star Specials - Odds to win 2022  Taco Bell Skills Challenge - Outright,Team Antetokounmpos,-0.010699999999999987,0.3226,0.3333
 2022-02-17 23:30:50.590748,Europa League - UEFA Europa League 2021/22 - Outright,FC Barcelona,-0.011099999999999999,0.1,0.1111
@@ -42,10 +43,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-17 15:31:08.192634,NBA All Star Specials - Odds to win 2022  MTN DEW 3-Point Contest - Outright,Zach LaVine,-0.015100000000000002,0.1667,0.1818
 2022-02-17 15:31:07.740024,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Scottie Barnes,-0.015700000000000006,0.1176,0.1333
 2022-02-17 17:32:49.236372,Boxing Lines - Osleys Iglesias vs Robert Racz - To Win the Bout,Robert Racz,-0.016600000000000004,0.1739,0.1905
+2022-02-18 01:32:49.007867,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Booby Gibson,-0.016600000000000004,0.0667,0.0833
 2022-02-18 01:32:49.041698,NBA All Star Specials - Odds to win 2022  Taco Bell Skills Challenge - Outright,Team Cavs,-0.017600000000000005,0.3333,0.3509
 2022-02-18 01:32:50.092446,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Pittsburgh Steelers,-0.0179,0.125,0.1429
 2022-02-17 21:32:45.914196,NBA All Star Specials - Odds to win 2022  Taco Bell Skills Challenge - Outright,Team Cavs,-0.019500000000000017,0.3509,0.3704
 2022-02-17 20:33:03.501792,Boxing Lines - Jose Larduet Gomez vs Dusan Veletic - To Win the Bout,Jose Larduet Gomez,-0.020199999999999996,0.8889,0.9091
+2022-02-18 01:32:49.007867,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Crissa Jackson,-0.02310000000000001,0.0769,0.1
 2022-02-17 15:31:08.127769,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Oscar Tshiebwe,-0.031799999999999995,0.4444,0.4762
 2022-02-18 01:32:49.341198,NBA Specials - WIll Ben Simmons Play March 10 vs. Philadelphia 76ers - Outright,Yes,-0.032299999999999995,0.6552,0.6875
 2022-02-17 15:31:07.704087,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Taylor Jenkins (MEM),-0.03889999999999999,0.1429,0.1818
