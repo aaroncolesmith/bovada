@@ -2,8 +2,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-18 19:31:08.203701,TV Specials - Characters to Appear in Amazon's Lord of The Rings: The Rings of Power - Proposition,Legolas,0.2424,0.3333,0.0909
 2022-02-18 19:31:08.203701,TV Specials - Characters to Appear in Amazon's Lord of The Rings: The Rings of Power - Proposition,Gandalf,0.1969,0.3636,0.1667
 2022-02-18 19:31:08.251159,TV Specials - Will any of there characters appear in Season 2 of Amazon's Wheel of Time? - Proposition,Aviendha,0.17900000000000005,0.5238,0.3448
-2022-02-18 19:31:07.252758,Game of Thrones Specials - Game of Thrones - House of Dragons - Last Dragon Standing - Which Dragons will be Alive at the end of Season 1? - Proposition,Sunfyre,0.16810000000000003,0.2857,0.1176
 2022-02-18 19:31:07.252758,Game of Thrones Specials - Game of Thrones - House of Dragons - Last Dragon Standing - Which Dragons will be Alive at the end of Season 1? - Proposition,Vhagar,0.16810000000000003,0.2857,0.1176
+2022-02-18 19:31:07.252758,Game of Thrones Specials - Game of Thrones - House of Dragons - Last Dragon Standing - Which Dragons will be Alive at the end of Season 1? - Proposition,Sunfyre,0.16810000000000003,0.2857,0.1176
 2022-02-18 16:32:59.899771,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game Odds to Score First Point of the Game,Myles Garrett,0.1361,0.2899,0.1538
 2022-02-18 13:31:54.210745,NBA All Star Specials - Odds to win 2022  Taco Bell Skills Challenge - Outright,Team Rooks,0.11549999999999999,0.5917,0.4762
 2022-02-18 14:30:52.168845,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Myles Garrett,0.0958,0.4348,0.339
@@ -32,12 +32,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-18 19:31:07.252758,Game of Thrones Specials - Game of Thrones - House of Dragons - Last Dragon Standing - Which Dragons will be Alive at the end of Season 1? - Proposition,Vermithor,0.03420000000000001,0.1111,0.0769
 2022-02-18 17:30:53.349631,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Machine Gun Kelly,0.03420000000000001,0.1111,0.0769
 2022-02-18 14:30:51.384889,94th Academy Awards - Best Adapted Screenplay - Outright,The Lost Daughter (written by Maggie Gyllenhaal),0.034100000000000005,0.125,0.0909
-2022-02-18 08:30:57.340854,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,0.032299999999999995,0.3448,0.3125
 2022-02-18 14:30:52.251290,NBA All Star Specials - Odds to Win 2022 NBA All-Star Game MVP - Outright,Joel Embiid,0.031799999999999995,0.1429,0.1111
-2022-02-18 08:30:57.459480,NBA All Star Specials - Odds to win 2022  Taco Bell Skills Challenge - Outright,Team Rooks,0.031799999999999995,0.4762,0.4444
 2022-02-18 13:31:51.793870,Boxing Lines - Daniel Adamiec vs Farxod Bohodirov - To Win the Bout,Daniel Adamiec,0.031400000000000095,0.7647,0.7333
-2022-02-18 08:30:57.326801,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.031399999999999983,0.661,0.6296
-2022-02-18 08:30:57.459480,NBA All Star Specials - Odds to win 2022  Taco Bell Skills Challenge - Outright,Team Cavs,0.030299999999999994,0.3636,0.3333
 2022-02-18 14:30:52.251290,NBA All Star Specials - Odds to Win 2022 NBA All-Star Game MVP - Outright,Darius Garland,0.0282,0.0526,0.0244
 2022-02-18 10:32:41.254485,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Leicester City,0.027999999999999997,0.1818,0.1538
 2022-02-18 14:30:51.326492,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Olivia Rodrigo - Sour,0.023800000000000043,0.5238,0.5
@@ -45,79 +41,83 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-18 18:31:02.056470,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game Odds to Score First Point of the Game,Myles Garrett,0.02260000000000001,0.3125,0.2899
 2022-02-18 14:30:51.462707,94th Academy Awards - Best Sound - Outright,"West Side Story (Tod A. Maitland, Gary Rydstrom, Brian Chumney, Andy Nelson and Shawn Murphy)",0.022199999999999998,0.2222,0.2
 2022-02-18 18:30:59.638754,BKFC: Knuckle Mania 2 - Christine Ferea vs Britain Hart - To Win the Bout,Christine Ferea,0.02200000000000002,0.7143,0.6923
+2022-02-18 20:30:58.725652,NBA All Star Specials - Odds to win 2022 AT&T Slam Dunk - Outright,Jalen Green,0.021699999999999997,0.4762,0.4545
+2022-02-18 20:30:58.657943,NBA All Star Specials - Odds to win 2022 Clorox Rising Stars Tournament - Outright,Team Isiah,0.02100000000000002,0.3846,0.3636
 2022-02-18 14:30:52.486786,Bundesliga - Bundesliga 2021/22 - Outright,ALBA Berlin,0.020799999999999985,0.3333,0.3125
 2022-02-18 19:31:08.203701,TV Specials - Characters to Appear in Amazon's Lord of The Rings: The Rings of Power - Proposition,Frodo,0.0203,0.0588,0.0385
-2022-02-18 19:31:05.894771,Boxing Lines - Mark Urvanov vs Angel Rodriguez - To Win the Bout,Angel Rodriguez,0.020100000000000007,0.1739,0.1538
 2022-02-18 12:32:58.816776,Boxing Lines - Jose Larduet Gomez vs Dusan Veletic - To Win the Bout,Dusan Veletic,0.020100000000000007,0.1739,0.1538
+2022-02-18 19:31:05.894771,Boxing Lines - Mark Urvanov vs Angel Rodriguez - To Win the Bout,Angel Rodriguez,0.020100000000000007,0.1739,0.1538
 2022-02-18 15:32:43.016726,Boxing Lines - Paul Kroll vs Marquis Taylor - To Win the Bout,Marquis Taylor,0.01820000000000002,0.2,0.1818
 2022-02-18 10:32:41.254485,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Bodø/Glimt,0.018200000000000004,0.0476,0.0294
 2022-02-18 16:32:59.889487,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Machine Gun Kelly,0.018099999999999998,0.0769,0.0588
 2022-02-18 10:32:41.254485,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Marseille,0.0179,0.1429,0.125
 2022-02-18 17:30:54.074043,Boxing Lines - Daniel Adamiec vs Farxod Bohodirov - To Win the Bout,Daniel Adamiec,0.017899999999999916,0.7826,0.7647
-2022-02-18 08:30:57.326801,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Toronto Raptors,0.01759999999999999,0.1176,0.1
 2022-02-18 13:31:54.186739,NBA All Star Specials - Odds to win 2022  MTN DEW 3-Point Contest - Outright,Desmond Bane,0.017100000000000004,0.16,0.1429
 2022-02-18 14:30:51.505027,94th Academy Awards - Odds to win Best Actor - Outright,Benedict Cumberbatch (The Power of the Dog),0.016699999999999993,0.2667,0.25
 2022-02-18 19:31:06.240096,Boxing Lines - Natasha Jonas vs Chris Namus - To Win the Bout,Chris Namus,0.015899999999999997,0.1538,0.1379
 2022-02-18 11:31:27.103978,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Myles Garrett,0.015400000000000025,0.2857,0.2703
 2022-02-18 18:31:02.056470,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game Odds to Score First Point of the Game,Quavo,0.01469999999999999,0.25,0.2353
 2022-02-18 16:32:59.658940,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,0.01469999999999999,0.25,0.2353
+2022-02-18 20:30:58.671063,NBA All Star Specials - Odds to win 2022  MTN DEW 3-Point Contest - Outright,Luke Kennard,0.01469999999999999,0.25,0.2353
 2022-02-18 17:30:53.003697,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Pete Buttigieg,0.01440000000000001,0.1053,0.0909
 2022-02-18 14:30:51.449631,94th Academy Awards - Best Original Song - Outright,“Be Alive” music and lyrics by DIXSON and Beyoncé Knowles-Carter (King Richard),0.013899999999999996,0.125,0.1111
 2022-02-18 10:32:41.236830,Europa League - UEFA Europa League 2021/22 - Outright,Atalanta,0.013899999999999996,0.125,0.1111
 2022-02-18 19:31:08.109649,TV Specials - WIll any actor from the Original Fresh Prince of Bel Air appear in the Season 1 of the Reboot? - Outright,Yes,0.013899999999999996,0.125,0.1111
+2022-02-18 11:31:27.126018,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game Odds to Score First Point of the Game,Quavo,0.0131,0.2353,0.2222
 2022-02-18 14:30:52.236919,NBA All Star Specials - Odds to win 2022 AT&T Slam Dunk - Outright,Cole Anthony,0.0131,0.2353,0.2222
 2022-02-18 17:30:53.003697,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Kamala Harris,0.0131,0.2353,0.2222
-2022-02-18 11:31:27.126018,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game Odds to Score First Point of the Game,Quavo,0.0131,0.2353,0.2222
 2022-02-18 19:31:08.129157,TV Specials - Will Any Character do the 'Carleton Dance' in the 1st sesaon of the Reboot of the Fresh Prince of Bel Air? - Outright,Yes,0.012899999999999995,0.1667,0.1538
+2022-02-18 20:30:58.743474,NBA All Star Specials - Odds to Win 2022 NBA All-Star Game MVP - Outright,LeBron James,0.012899999999999995,0.1667,0.1538
 2022-02-18 14:30:52.470171,LNB Pro A - LNB Pro A 2021/22 - Outright,ASVEL Lyon-Villeurbanne,0.012699999999999989,0.3636,0.3509
 2022-02-18 10:32:41.236830,Europa League - UEFA Europa League 2021/22 - Outright,Real Betis,0.011199999999999995,0.0588,0.0476
-2022-02-18 08:30:56.698111,Boxing Lines - Osleys Iglesias vs Robert Racz - To Win the Bout,Osleys Iglesias,0.011099999999999999,0.9,0.8889
 2022-02-18 11:31:27.126018,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game Odds to Score First Point of the Game,Myles Garrett,0.010899999999999993,0.1538,0.1429
 2022-02-18 14:30:52.251290,NBA All Star Specials - Odds to Win 2022 NBA All-Star Game MVP - Outright,LeBron James,0.010899999999999993,0.1538,0.1429
-2022-02-18 17:30:52.990406,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Joe Biden,0.010699999999999987,0.3333,0.3226
 2022-02-18 17:30:53.003697,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Joe Biden,0.010699999999999987,0.3333,0.3226
+2022-02-18 20:30:58.636277,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Quavo,0.010699999999999987,0.3333,0.3226
+2022-02-18 17:30:52.990406,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Joe Biden,0.010699999999999987,0.3333,0.3226
 2022-02-18 17:30:54.111288,Boxing Lines - Paul Kroll vs Marquis Taylor - To Win the Bout,Marquis Taylor,0.010499999999999982,0.2105,0.2
+2022-02-18 14:30:52.251290,NBA All Star Specials - Odds to Win 2022 NBA All-Star Game MVP - Outright,Luka Doncic,0.0102,0.0769,0.0667
 2022-02-18 10:32:41.254485,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Feyenoord,0.0102,0.0769,0.0667
 2022-02-18 10:32:41.236830,Europa League - UEFA Europa League 2021/22 - Outright,Lyon,0.0102,0.0769,0.0667
-2022-02-18 14:30:52.251290,NBA All Star Specials - Odds to Win 2022 NBA All-Star Game MVP - Outright,Luka Doncic,0.0102,0.0769,0.0667
 2022-02-18 14:30:52.251290,NBA All Star Specials - Odds to Win 2022 NBA All-Star Game MVP - Outright,Donovan Mitchell,0.010100000000000001,0.0345,0.0244
 2022-02-18 14:30:52.236919,NBA All Star Specials - Odds to win 2022 AT&T Slam Dunk - Outright,Jalen Green,0.010099999999999998,0.4545,0.4444
+2022-02-18 11:31:27.126018,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game Odds to Score First Point of the Game,Dearica Hamby,-0.0102,0.0667,0.0769
+2022-02-18 11:31:27.126018,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game Odds to Score First Point of the Game,Crissa Jackson,-0.0102,0.0667,0.0769
+2022-02-18 18:31:02.056470,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game Odds to Score First Point of the Game,Booby Gibson,-0.0102,0.0667,0.0769
 2022-02-18 13:31:54.147231,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Dearica Hamby,-0.0102,0.0667,0.0769
 2022-02-18 13:31:54.147231,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Crissa Jackson,-0.0102,0.0667,0.0769
-2022-02-18 11:31:27.126018,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game Odds to Score First Point of the Game,Dearica Hamby,-0.0102,0.0667,0.0769
-2022-02-18 18:31:02.056470,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game Odds to Score First Point of the Game,Booby Gibson,-0.0102,0.0667,0.0769
-2022-02-18 11:31:27.126018,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game Odds to Score First Point of the Game,Crissa Jackson,-0.0102,0.0667,0.0769
 2022-02-18 15:32:42.939437,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Joe Biden,-0.010699999999999987,0.3226,0.3333
 2022-02-18 14:30:51.419176,94th Academy Awards - Best Original Score - Outright,Parallel Mothers (Alberto Iglesias),-0.010700000000000001,0.0278,0.0385
 2022-02-18 11:31:25.204742,Boxing Lines - Kean Simon vs Winters Shawndell Terell - To Win the Bout,Winters Shawndell Terell,-0.010899999999999993,0.1429,0.1538
+2022-02-18 20:30:58.725652,NBA All Star Specials - Odds to win 2022 AT&T Slam Dunk - Outright,Juan Toscano-Anderson,-0.010899999999999993,0.1429,0.1538
 2022-02-18 14:30:51.517537,94th Academy Awards - Odds to win Best Actress - Outright,Jessica Chastain (The Eyes of Tammy Faye),-0.010899999999999993,0.1429,0.1538
 2022-02-18 17:30:54.311910,Boxing Lines - Charlie Schofield vs Germaine Brown - To Win the Bout,Germaine Brown,-0.01090000000000002,0.8462,0.8571
-2022-02-18 10:32:38.767697,Boxing Lines - Osleys Iglesias vs Robert Racz - To Win the Bout,Osleys Iglesias,-0.011099999999999999,0.8889,0.9
 2022-02-18 16:32:59.658940,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,-0.011099999999999999,0.1,0.1111
-2022-02-18 16:32:59.889487,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Crissa Jackson,-0.011199999999999995,0.0476,0.0588
+2022-02-18 10:32:38.767697,Boxing Lines - Osleys Iglesias vs Robert Racz - To Win the Bout,Osleys Iglesias,-0.011099999999999999,0.8889,0.9
+2022-02-18 14:30:51.544399,94th Academy Awards - Odds to win Best Picture - Outright,King Richard,-0.011199999999999995,0.0323,0.0435
 2022-02-18 10:32:41.236830,Europa League - UEFA Europa League 2021/22 - Outright,RB Leipzig,-0.011199999999999995,0.0476,0.0588
 2022-02-18 10:32:41.236830,Europa League - UEFA Europa League 2021/22 - Outright,Bayer Leverkusen,-0.011199999999999995,0.0476,0.0588
-2022-02-18 14:30:51.544399,94th Academy Awards - Odds to win Best Picture - Outright,King Richard,-0.011199999999999995,0.0323,0.0435
-2022-02-18 08:30:57.340854,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,-0.011600000000000055,0.5122,0.5238
+2022-02-18 16:32:59.889487,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Crissa Jackson,-0.011199999999999995,0.0476,0.0588
 2022-02-18 18:31:02.039556,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Myles Garrett,-0.012199999999999989,0.4878,0.5
+2022-02-18 20:30:58.725652,NBA All Star Specials - Odds to win 2022 AT&T Slam Dunk - Outright,Obi Toppin,-0.012699999999999989,0.3509,0.3636
 2022-02-18 10:32:41.254485,UEFA Europa Conference League - UEFA Europa Conference League - Outright,FK Qarabag,-0.0129,0.002,0.0149
 2022-02-18 14:30:51.530299,94th Academy Awards - Odds to win Best Director - Outright,Jane Campion (The Power of the Dog,-0.013900000000000023,0.875,0.8889
 2022-02-18 14:30:51.384889,94th Academy Awards - Best Adapted Screenplay - Outright,"Drive My Car (screenplay by Ryusuke Hamaguchi, Takamasa Oe)",-0.013999999999999999,0.0769,0.0909
 2022-02-18 18:31:02.039556,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Booby Gibson,-0.014099999999999994,0.0526,0.0667
+2022-02-18 20:30:58.743474,NBA All Star Specials - Odds to Win 2022 NBA All-Star Game MVP - Outright,Devin Booker,-0.014099999999999994,0.0526,0.0667
 2022-02-18 16:32:59.899771,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game Odds to Score First Point of the Game,Dearica Hamby,-0.014099999999999994,0.0526,0.0667
-2022-02-18 16:32:59.889487,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Matt James,-0.014099999999999998,0.0294,0.0435
 2022-02-18 10:32:41.254485,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Midtjylland,-0.014099999999999998,0.0294,0.0435
 2022-02-18 10:32:41.254485,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Vitesse,-0.014099999999999998,0.0244,0.0385
+2022-02-18 16:32:59.889487,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Matt James,-0.014099999999999998,0.0294,0.0435
+2022-02-18 14:30:51.517537,94th Academy Awards - Odds to win Best Actress - Outright,Penelope Cruz (Parallel Mothers),-0.014899999999999997,0.0476,0.0625
+2022-02-18 14:30:51.436826,94th Academy Awards - Best Original Screenplay - Outright,King Richard (written by Zach Baylin),-0.014899999999999997,0.0476,0.0625
+2022-02-18 14:30:51.530299,94th Academy Awards - Odds to win Best Director - Outright,Paul Thomas Anderson (Licorice Pizza),-0.014899999999999997,0.0476,0.0625
 2022-02-18 14:30:51.462707,94th Academy Awards - Best Sound - Outright,"Belfast (Denise Yarde, Simon Chase, James Mather and Niv Adiri)",-0.014899999999999997,0.0476,0.0625
 2022-02-18 14:30:51.397301,94th Academy Awards - Best Costume Design - Outright,Nightmare Alley (Luis Sequeira),-0.014899999999999997,0.0476,0.0625
-2022-02-18 14:30:51.530299,94th Academy Awards - Odds to win Best Director - Outright,Paul Thomas Anderson (Licorice Pizza),-0.014899999999999997,0.0476,0.0625
-2022-02-18 14:30:51.517537,94th Academy Awards - Odds to win Best Actress - Outright,Penelope Cruz (Parallel Mothers),-0.014899999999999997,0.0476,0.0625
 2022-02-18 14:30:51.462707,94th Academy Awards - Best Sound - Outright,"The Power of the Dog (Richard Flynn, Robert Mackenzie and Tara Webb)",-0.014899999999999997,0.0476,0.0625
-2022-02-18 14:30:51.436826,94th Academy Awards - Best Original Screenplay - Outright,King Richard (written by Zach Baylin),-0.014899999999999997,0.0476,0.0625
 2022-02-18 14:30:51.544399,94th Academy Awards - Odds to win Best Picture - Outright,Dune,-0.015300000000000001,0.0435,0.0588
 2022-02-18 14:30:52.251290,NBA All Star Specials - Odds to Win 2022 NBA All-Star Game MVP - Outright,Jarrett Allen,-0.0159,0.0164,0.0323
 2022-02-18 10:32:39.102558,Boxing Lines - Julio Cesar Martinez Aguilar vs Roman Gonzales - To Win the Bout,Roman Gonzales,-0.016100000000000003,0.5917,0.6078
-2022-02-18 08:30:57.340854,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.016699999999999993,0.25,0.2667
 2022-02-18 14:30:52.251290,NBA All Star Specials - Odds to Win 2022 NBA All-Star Game MVP - Outright,Andrew Wiggins,-0.017400000000000002,0.0149,0.0323
 2022-02-18 14:30:51.505027,94th Academy Awards - Odds to win Best Actor - Outright,"Andrew Garfield (Tick, Tick... Boom!)",-0.0179,0.125,0.1429
 2022-02-18 16:32:58.110643,Boxing Lines - Paul Kroll vs Marquis Taylor - To Win the Bout,Paul Kroll,-0.017900000000000027,0.8571,0.875
@@ -137,22 +137,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-18 16:32:59.889487,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Dearica Hamby,-0.0203,0.0385,0.0588
 2022-02-18 14:30:51.449631,94th Academy Awards - Best Original Song - Outright,“Dos Oruguitas” music and lyrics by Lin-Manuel Miranda (Encanto),-0.020799999999999985,0.3125,0.3333
 2022-02-18 17:30:54.074043,Boxing Lines - Daniel Adamiec vs Farxod Bohodirov - To Win the Bout,Farxod Bohodirov,-0.021299999999999986,0.2817,0.303
+2022-02-18 20:30:58.657943,NBA All Star Specials - Odds to win 2022 Clorox Rising Stars Tournament - Outright,Team Payton,-0.021999999999999964,0.2857,0.3077
 2022-02-18 10:32:41.254485,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Celtic,-0.0228,0.0066,0.0294
 2022-02-18 14:30:52.470171,LNB Pro A - LNB Pro A 2021/22 - Outright,Levallois,-0.023799999999999988,0.1429,0.1667
 2022-02-18 14:30:51.326492,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Billie Eilish - Happier Than Ever,-0.023799999999999988,0.1429,0.1667
-2022-02-18 14:30:52.251290,NBA All Star Specials - Odds to Win 2022 NBA All-Star Game MVP - Outright,Zach LaVine,-0.023899999999999998,0.0196,0.0435
 2022-02-18 10:32:41.254485,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Sparta Prague,-0.023899999999999998,0.0196,0.0435
+2022-02-18 14:30:52.251290,NBA All Star Specials - Odds to Win 2022 NBA All-Star Game MVP - Outright,Zach LaVine,-0.023899999999999998,0.0196,0.0435
 2022-02-18 14:30:51.397301,94th Academy Awards - Best Costume Design - Outright,Cyrano (Massimo Cantini Parrini and Jacqueline Durran),-0.024,0.0385,0.0625
 2022-02-18 14:30:51.489885,94th Academy Awards - Best Supporting Actress - Outright,Aunjanue Ellis (King Richard),-0.028399999999999995,0.0625,0.0909
 2022-02-18 14:30:51.476816,94th Academy Awards - Best Supporting Actor - Outright,Jesse Plemons (The Power of the Dog),-0.029299999999999993,0.0476,0.0769
 2022-02-18 16:32:59.889487,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Quavo,-0.030999999999999972,0.2222,0.2532
-2022-02-18 14:30:51.366681,Grammy Awards 2022 - Grammy 2022 Song of the Year Winner - Outright,Silk Sonic - Leave the Door Open,-0.031799999999999995,0.1111,0.1429
 2022-02-18 14:30:51.544399,94th Academy Awards - Odds to win Best Picture - Outright,West Side Story,-0.031799999999999995,0.1111,0.1429
-2022-02-18 14:30:51.612405,Wordle Specials - Will Wordle be moved exclusivly to the subscription service NYT Games in 2022 - Outright,No,-0.033299999999999996,0.3922,0.4255
+2022-02-18 14:30:51.366681,Grammy Awards 2022 - Grammy 2022 Song of the Year Winner - Outright,Silk Sonic - Leave the Door Open,-0.031799999999999995,0.1111,0.1429
 2022-02-18 13:31:54.186739,NBA All Star Specials - Odds to win 2022  MTN DEW 3-Point Contest - Outright,CJ McCollum,-0.033299999999999996,0.1,0.1333
+2022-02-18 14:30:51.612405,Wordle Specials - Will Wordle be moved exclusivly to the subscription service NYT Games in 2022 - Outright,No,-0.033299999999999996,0.3922,0.4255
 2022-02-18 14:30:51.505027,94th Academy Awards - Odds to win Best Actor - Outright,Will Smith (King Richard),-0.035699999999999954,0.7143,0.75
 2022-02-18 13:31:54.210745,NBA All Star Specials - Odds to win 2022  Taco Bell Skills Challenge - Outright,Team Cavs,-0.035699999999999954,0.3279,0.3636
-2022-02-18 08:30:57.326801,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,-0.03570000000000001,0.25,0.2857
 2022-02-18 13:31:51.793870,Boxing Lines - Daniel Adamiec vs Farxod Bohodirov - To Win the Bout,Farxod Bohodirov,-0.03600000000000003,0.303,0.339
 2022-02-18 14:30:51.436826,94th Academy Awards - Best Original Screenplay - Outright,Belfast (written by Kenneth Branagh),-0.03640000000000004,0.3636,0.4
 2022-02-18 17:30:54.918463,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Kayvon Thibodeaux,-0.03670000000000001,0.1538,0.1905
@@ -160,6 +160,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-18 14:30:52.251290,NBA All Star Specials - Odds to Win 2022 NBA All-Star Game MVP - Outright,Trae Young,-0.0384,0.0385,0.0769
 2022-02-18 17:30:53.349631,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Quavo,-0.04040000000000002,0.1818,0.2222
 2022-02-18 14:30:51.384889,94th Academy Awards - Best Adapted Screenplay - Outright,CODA (screenplay by Siân Heder),-0.04169999999999999,0.125,0.1667
+2022-02-18 20:30:58.684369,NBA All Star Specials - Odds to win 2022  MTN DEW 3-Point Contest - Requested Specials,Young/VanVleet/LaVine all to make the Final 3,-0.04169999999999999,0.125,0.1667
 2022-02-18 17:30:54.918463,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Malik Willis,-0.04329999999999999,0.0476,0.0909
 2022-02-18 18:30:58.950483,Boxing Lines - Mateusz Polski vs Serhii Shvets - To Win the Bout,Serhii Shvets,-0.04930000000000001,0.2632,0.3125
 2022-02-18 18:31:02.039556,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Machine Gun Kelly,-0.052300000000000006,0.0588,0.1111
@@ -167,8 +168,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-18 14:30:50.726561,BKFC: Knuckle Mania 2 - Mike Perry vs Julian Lane - To Win the Bout,Mike Perry,-0.05349999999999999,0.7647,0.8182
 2022-02-18 14:30:52.168845,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Quavo,-0.05449999999999999,0.2532,0.3077
 2022-02-18 13:31:54.186739,NBA All Star Specials - Odds to win 2022  MTN DEW 3-Point Contest - Outright,Zach LaVine,-0.06139999999999998,0.1053,0.1667
+2022-02-18 19:31:08.825422,NBA All Star Specials - Ruffles All-Star Celebrity Game - Ruffles All-Star Celebrity Game MVP,Jack Harlow,-0.0625,0.0625,0.125
 2022-02-18 14:30:51.476816,94th Academy Awards - Best Supporting Actor - Outright,Troy Kotsur (CODA),-0.0635,0.2222,0.2857
 2022-02-18 19:31:08.251159,TV Specials - Will any of there characters appear in Season 2 of Amazon's Wheel of Time? - Proposition,Thom Merrilin,-0.06669999999999998,0.6,0.6667
 2022-02-18 13:31:54.210745,NBA All Star Specials - Odds to win 2022  Taco Bell Skills Challenge - Outright,Team Antetokounmpos,-0.06820000000000001,0.1818,0.25
-2022-02-18 08:30:57.459480,NBA All Star Specials - Odds to win 2022  Taco Bell Skills Challenge - Outright,Team Antetokounmpos,-0.0726,0.25,0.3226
 2022-02-18 14:30:51.600160,Wordle Specials - When Will Wordle be moved exclusivly to the subscription service NYT Games  - Outright,Before or On April 1 2022,-0.09099999999999997,0.4545,0.5455
