@@ -42,29 +42,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-21 10:30:46.847169,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Real Betis,0.0242,0.0909,0.0667
 2022-02-21 09:30:58.053286,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Gaetan Laborde,0.0242,0.0909,0.0667
 2022-02-21 10:30:47.303707,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,St. Mirren,0.023799999999999988,0.5,0.4762
+2022-02-21 10:30:47.168346,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Schalke 04,0.022199999999999998,0.2222,0.2
 2022-02-21 09:30:58.331619,A-League - Australia A-League 2021/2022 - Grand Final Winner,Western United,0.022199999999999998,0.1333,0.1111
 2022-02-21 10:30:47.295599,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Livingston,0.022199999999999998,0.8,0.7778
-2022-02-21 10:30:47.168346,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Schalke 04,0.022199999999999998,0.2222,0.2
 2022-02-21 10:30:46.818392,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Juventus,0.02200000000000002,0.7143,0.6923
 2022-02-21 09:30:58.868197,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Watford,0.021999999999999964,0.3077,0.2857
 2022-02-21 10:30:46.809326,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Venezia,0.02169999999999994,0.5455,0.5238
-2022-02-21 06:30:49.694980,94th Academy Awards - Best Costume Design - Outright,Cruella (Jenny Beavan),0.019199999999999995,0.7692,0.75
 2022-02-21 10:30:46.847169,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Atlético Madrid,0.019000000000000017,0.2857,0.2667
 2022-02-21 09:30:58.805818,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Leeds United,0.0189,0.0385,0.0196
 2022-02-21 08:30:46.381333,NBA Season Props - 2021/22 NBA Playoff Props - To Miss the Playoffs,Potland Trail Blazers,0.01849999999999996,0.9709,0.9524
 2022-02-21 08:30:46.366842,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Boston Celtics,0.018100000000000005,0.9412,0.9231
-2022-02-21 05:31:01.550274,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,0.0174,0.25,0.2326
 2022-02-21 09:30:58.855673,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Leeds United,0.01429999999999998,0.9852,0.9709
 2022-02-21 09:30:58.404000,Superligaen - Denmark Superligaen 2021/22 - Outright,Aalborg BK,0.014099999999999998,0.0435,0.0294
 2022-02-21 10:30:46.818392,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Fiorentina,0.014099999999999998,0.0385,0.0244
 2022-02-21 09:30:58.855673,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Crystal Palace,0.014000000000000012,0.9231,0.9091
 2022-02-21 10:30:46.818392,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Napoli,0.014000000000000012,0.9231,0.9091
-2022-02-21 05:31:01.550274,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,0.013300000000000034,0.3704,0.3571
 2022-02-21 09:30:58.063113,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Montpellier,0.013,0.0196,0.0066
-2022-02-21 05:31:01.118244,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Beto O'Rourke,0.012999999999999998,0.0294,0.0164
-2022-02-21 06:30:49.816703,94th Academy Awards - Odds to win Best Picture - Outright,Belfast,0.012899999999999995,0.1667,0.1538
 2022-02-21 09:30:56.329446,Boxing Lines - Liam Smith vs Jessie Vargas - To Win the Bout,Liam Smith,0.011800000000000033,0.6923,0.6805
-2022-02-21 05:31:01.510787,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.01150000000000001,0.3448,0.3333
 2022-02-21 10:30:47.303707,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Motherwell,0.011499999999999955,0.6667,0.6552
 2022-02-21 10:30:46.873978,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Athletic Bilbao,0.011199999999999995,0.0588,0.0476
 2022-02-21 10:30:47.278787,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hibernian,0.011199999999999995,0.0588,0.0476
@@ -74,40 +68,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-21 08:30:45.231917,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.010099999999999998,0.1111,0.1212
 2022-02-21 09:30:58.331619,A-League - Australia A-League 2021/2022 - Grand Final Winner,Western Sydney Wanderers,-0.010100000000000001,0.0244,0.0345
 2022-02-21 09:30:58.092622,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Bayer Leverkusen,-0.0102,0.0667,0.0769
-2022-02-21 09:30:58.110316,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Wolfsburg,-0.0102,0.0667,0.0769
 2022-02-21 09:30:58.119147,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Mainz,-0.0102,0.0667,0.0769
-2022-02-21 05:31:01.465619,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,-0.010499999999999982,0.2,0.2105
+2022-02-21 09:30:58.110316,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Wolfsburg,-0.0102,0.0667,0.0769
 2022-02-21 10:30:47.226544,Eredivisie - Eredivisie 2021/2022 - Outright,PSV Eindhoven,-0.011099999999999999,0.1,0.1111
-2022-02-21 05:31:01.621855,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.011099999999999999,0.1,0.1111
-2022-02-21 05:31:01.550274,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,-0.012199999999999989,0.4878,0.5
 2022-02-21 09:30:58.331619,A-League - Australia A-League 2021/2022 - Grand Final Winner,Melbourne City,-0.012699999999999989,0.3509,0.3636
-2022-02-21 09:30:58.868197,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Norwich City,-0.012899999999999995,0.1538,0.1667
 2022-02-21 09:30:58.119147,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Freiburg,-0.012899999999999995,0.1538,0.1667
+2022-02-21 09:30:58.868197,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Norwich City,-0.012899999999999995,0.1538,0.1667
 2022-02-21 10:30:47.278787,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Aberdeen,-0.0131,0.0345,0.0476
-2022-02-21 05:31:01.510787,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,-0.013300000000000034,0.3571,0.3704
 2022-02-21 10:30:46.809326,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Cagliari,-0.013799999999999923,0.6226,0.6364
 2022-02-21 10:30:47.212286,Serie B - Italy Serie B 2021/22 - Outright,Frosinone,-0.013999999999999999,0.0769,0.0909
-2022-02-21 10:30:47.212286,Serie B - Italy Serie B 2021/22 - Outright,Monza,-0.013999999999999999,0.0769,0.0909
 2022-02-21 10:30:46.865155,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Elche,-0.013999999999999999,0.0769,0.0909
+2022-02-21 10:30:47.212286,Serie B - Italy Serie B 2021/22 - Outright,Monza,-0.013999999999999999,0.0769,0.0909
 2022-02-21 10:30:47.226544,Eredivisie - Eredivisie 2021/2022 - Outright,Feyenoord,-0.014099999999999994,0.0526,0.0667
-2022-02-21 05:31:01.280172,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,DeMar DeRozan,-0.014399999999999996,0.0625,0.0769
 2022-02-21 08:30:46.366842,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,San Antonio Spurs,-0.01440000000000001,0.0909,0.1053
 2022-02-21 10:30:47.295599,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,St. Mirren,-0.016699999999999937,0.5833,0.6
 2022-02-21 09:30:58.119147,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Hoffenheim,-0.016699999999999993,0.25,0.2667
 2022-02-21 10:30:46.865155,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Alavés,-0.016700000000000048,0.7333,0.75
-2022-02-21 06:30:49.816703,94th Academy Awards - Odds to win Best Picture - Outright,The Power of the Dog,-0.016700000000000048,0.7333,0.75
 2022-02-21 09:30:58.843576,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Crystal Palace,-0.0179,0.125,0.1429
 2022-02-21 09:30:58.868197,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Everton,-0.017900000000000027,0.8571,0.875
 2022-02-21 09:30:58.119147,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Bayer Leverkusen,-0.017900000000000027,0.8571,0.875
 2022-02-21 10:30:46.873978,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Sevilla,-0.018100000000000005,0.9231,0.9412
-2022-02-21 05:31:01.465619,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.01820000000000002,0.1818,0.2
 2022-02-21 10:30:47.303707,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Livingston,-0.019000000000000017,0.2667,0.2857
 2022-02-21 09:30:58.843576,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Leeds United,-0.019099999999999992,0.0476,0.0667
 2022-02-21 10:30:47.212286,Serie B - Italy Serie B 2021/22 - Outright,Pisa,-0.02020000000000001,0.0909,0.1111
 2022-02-21 09:30:58.063113,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lyon,-0.02100000000000002,0.3636,0.3846
 2022-02-21 09:30:58.884474,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Manchester United,-0.02200000000000002,0.6923,0.7143
-2022-02-21 09:30:58.063113,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lille,-0.022199999999999998,0.1111,0.1333
 2022-02-21 10:30:47.168346,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,St. Pauli,-0.022199999999999998,0.2,0.2222
+2022-02-21 09:30:58.063113,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lille,-0.022199999999999998,0.1111,0.1333
 2022-02-21 09:30:57.616957,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,Donovan Mitchell,-0.022400000000000003,0.0099,0.0323
 2022-02-21 10:30:46.798403,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Zlatan Ibrahimovic,-0.022400000000000003,0.0099,0.0323
 2022-02-21 08:30:46.381333,NBA Season Props - 2021/22 NBA Playoff Props - To Miss the Playoffs,L.A. Clippers,-0.023799999999999988,0.4762,0.5
@@ -116,8 +103,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-21 10:30:47.295599,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Motherwell,-0.025499999999999967,0.4,0.4255
 2022-02-21 09:30:58.805818,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Watford,-0.02739999999999998,0.2667,0.2941
 2022-02-21 08:30:46.366842,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,New York Knicks,-0.03330000000000001,0.0667,0.1
-2022-02-21 10:30:46.865155,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,-0.03409999999999999,0.2326,0.2667
 2022-02-21 10:30:47.212286,Serie B - Italy Serie B 2021/22 - Outright,Cremonese,-0.03409999999999999,0.2326,0.2667
+2022-02-21 10:30:46.865155,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,-0.03409999999999999,0.2326,0.2667
 2022-02-21 10:30:47.295599,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Dundee United,-0.03639999999999999,0.6,0.6364
 2022-02-21 09:30:58.855673,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Tottenham Hotspur,-0.0373,0.0294,0.0667
 2022-02-21 09:30:57.616957,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,Jayson Tatum,-0.037700000000000004,0.0099,0.0476
