@@ -7,6 +7,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-21 23:31:24.518447,Italy Serie A - Italy Serie A 2021/2022 - Outright,AC Milan,0.028700000000000003,0.2105,0.1818
 2022-02-22 01:30:46.771995,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,0.027700000000000002,0.4444,0.4167
 2022-02-22 02:31:09.634444,LNB Pro A - LNB Pro A 2021/22 - Outright,Monaco,0.027500000000000024,0.3846,0.3571
+2022-02-22 05:30:49.302083,College Basketball - Big Ten Conference Winner - Big Ten Conference Tournament Winner,Wisconsin,0.024999999999999994,0.125,0.1
+2022-02-22 05:30:49.247014,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Gonzaga,0.022600000000000064,0.5348,0.5122
 2022-02-21 19:31:12.985183,College Basketball - American Athletic Conference Winner - American Athletic Conference Tournament Winner,SMU,0.022199999999999998,0.1333,0.1111
 2022-02-22 02:31:09.840895,WNBL - Australia WNBL 2021/22 - Outright,Melbourne Boomers (W),0.021999999999999964,0.3077,0.2857
 2022-02-22 00:30:45.582053,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Ciro Immobile,0.02169999999999994,0.5455,0.5238
@@ -21,9 +23,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-22 04:30:52.548304,Liga MX - Clausura - Liga MX Clausura 2022  - Top Goalscorer,Camillo Da Silva Sanvezzo,0.011199999999999995,0.0588,0.0476
 2022-02-21 19:31:12.965317,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Florida,0.010700000000000001,0.0385,0.0278
 2022-02-21 19:31:13.022559,College Basketball - Big 12 Conference Winner - Big 12 Conference Tournament Winner,Kansas,0.010699999999999987,0.3333,0.3226
+2022-02-22 05:30:49.227790,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Gonzaga,0.010499999999999982,0.2105,0.2
 2022-02-22 04:30:52.548304,Liga MX - Clausura - Liga MX Clausura 2022  - Top Goalscorer,Henry Martin,0.0102,0.0769,0.0667
-2022-02-22 02:31:09.840895,WNBL - Australia WNBL 2021/22 - Outright,Townsville Fire (W),-0.0102,0.0667,0.0769
 2022-02-21 18:30:51.540860,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Duke,-0.0102,0.0667,0.0769
+2022-02-22 02:31:09.840895,WNBL - Australia WNBL 2021/22 - Outright,Townsville Fire (W),-0.0102,0.0667,0.0769
 2022-02-21 19:31:12.965317,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Texas Tech,-0.010899999999999993,0.1429,0.1538
 2022-02-21 19:31:15.358264,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Ochai Agbaji,-0.011099999999999999,0.1,0.1111
 2022-02-21 19:31:13.088625,College Basketball - Southeastern Conference Winner - Southeastern Conference Tournament Winner,LSU,-0.011099999999999999,0.1,0.1111
