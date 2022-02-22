@@ -1,7 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-21 19:31:15.358264,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Johnny Davis,0.0762,0.1429,0.0667
+2022-02-22 01:30:46.866960,NBA Season Props - 2021/22 NBA Playoff Props - To Miss the Playoffs,Washington Wizards,0.0683999999999999,0.8462,0.7778
 2022-02-21 19:31:13.064915,College Basketball - PAC 12 Conference  Winner - PAC 12 Conference  Tournament Winner,UCLA,0.041800000000000004,0.3448,0.303
 2022-02-21 23:31:24.518447,Italy Serie A - Italy Serie A 2021/2022 - Outright,AC Milan,0.028700000000000003,0.2105,0.1818
+2022-02-22 01:30:46.771995,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,0.027700000000000002,0.4444,0.4167
 2022-02-21 19:31:12.985183,College Basketball - American Athletic Conference Winner - American Athletic Conference Tournament Winner,SMU,0.022199999999999998,0.1333,0.1111
 2022-02-22 00:30:45.582053,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Ciro Immobile,0.02169999999999994,0.5455,0.5238
 2022-02-21 19:31:13.088625,College Basketball - Southeastern Conference Winner - Southeastern Conference Tournament Winner,Arkansas,0.02020000000000001,0.1111,0.0909
@@ -18,9 +20,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-21 19:31:15.358264,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Kofi Cockburn,-0.012899999999999995,0.1538,0.1667
 2022-02-22 00:30:45.582053,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Paulo Dybala,-0.013,0.0066,0.0196
 2022-02-21 19:31:13.088625,College Basketball - Southeastern Conference Winner - Southeastern Conference Tournament Winner,Tennessee,-0.0131,0.2222,0.2353
+2022-02-22 01:30:47.314926,Liga ACB - Liga ACB 2021/2022 - Outright,Real Madrid BC,-0.016699999999999993,0.4,0.4167
 2022-02-21 19:31:13.004650,College Basketball - Atlantic Coast Conference  Winner - Atlantic Coast Conference  Tournament Winner,Virginia Tech,-0.02049999999999999,0.1333,0.1538
-2022-02-21 19:31:12.965317,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Purdue,-0.020799999999999985,0.3125,0.3333
 2022-02-21 19:31:12.965317,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Kentucky,-0.020799999999999985,0.3125,0.3333
+2022-02-21 19:31:12.965317,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Purdue,-0.020799999999999985,0.3125,0.3333
+2022-02-22 01:30:47.634566,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Juventus,-0.02200000000000002,0.6923,0.7143
 2022-02-21 19:31:15.358264,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,E.J. Liddell,-0.023200000000000002,0.0244,0.0476
 2022-02-22 00:30:45.582053,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Dusan Vlahovic,-0.023799999999999988,0.4762,0.5
 2022-02-21 19:31:13.042360,College Basketball - Big Ten Conference Winner - Big Ten Conference Tournament Winner,Ohio State,-0.027999999999999997,0.1538,0.1818
