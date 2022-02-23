@@ -7,12 +7,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-23 13:30:41.777524,League One - England League One 2021/22 - Top 6 Finish,Milton Keynes Dons,0.10000000000000009,0.8333,0.7333
 2022-02-23 13:30:41.594749,England Championship - England Championship 21/22 - Top 6 Finish,Coventry City,0.0857,0.2857,0.2
 2022-02-23 13:30:41.777524,League One - England League One 2021/22 - Top 6 Finish,Bolton Wanderers,0.07579999999999999,0.1667,0.0909
-2022-02-23 13:30:41.830209,League Two - England League Two 2021/22 - Top 7 Finish,Swindon Town,0.06669999999999998,0.6667,0.6
 2022-02-23 13:30:41.650592,Serie B - Italy Serie B 2021/22 - Outright,Brescia,0.06669999999999998,0.1667,0.1
+2022-02-23 13:30:41.830209,League Two - England League Two 2021/22 - Top 7 Finish,Swindon Town,0.06669999999999998,0.6667,0.6
 2022-02-23 11:30:45.058442,NFL Specials - Where will Deshaun Watson Play Game 1 of the 2022/2023 NFL Season? - Outright,Pittsburgh Steelers,0.06669999999999998,0.1667,0.1
 2022-02-23 13:30:41.811390,League Two - England League Two 2021/22 - To Be Promoted,Swindon Town,0.06659999999999999,0.3333,0.2667
 2022-02-23 13:30:41.762092,League One - England League One 2021/22 - To Be Relegated,Shrewsbury Town,0.0642,0.1818,0.1176
-2022-02-23 02:30:50.563371,NBA Season Props - 2021/22 NBA Playoff Props - To Miss the Playoffs,Washington Wizards,0.06290000000000007,0.9091,0.8462
 2022-02-23 14:30:39.590224,94th Academy Awards - Best Supporting Actor - Outright,Ciaran Hinds (Belfast),0.05679999999999999,0.1818,0.125
 2022-02-23 13:30:41.511096,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,England,0.05590000000000006,0.6923,0.6364
 2022-02-23 13:30:41.777524,League One - England League One 2021/22 - Top 6 Finish,Portsmouth,0.05559999999999998,0.1667,0.1111
@@ -33,8 +32,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-23 13:30:41.830209,League Two - England League Two 2021/22 - Top 7 Finish,Harrogate Town,0.0242,0.0909,0.0667
 2022-02-23 14:30:39.523146,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Tony Bennett & Lady Gaga - I Get a Kick Out of You,0.023799999999999988,0.3571,0.3333
 2022-02-23 13:30:41.768822,League One - England League One 2021/22 - Top 2 Finish,Milton Keynes Dons,0.02310000000000001,0.1,0.0769
-2022-02-23 13:30:41.506184,Champions League - UEFA Champions League 2021/2022 - Furthest Progressing EPL Team,Chelsea,0.022199999999999998,0.2222,0.2
 2022-02-23 07:30:42.390282,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Green Bay Packers,0.022199999999999998,0.8,0.7778
+2022-02-23 13:30:41.506184,Champions League - UEFA Champions League 2021/2022 - Furthest Progressing EPL Team,Chelsea,0.022199999999999998,0.2222,0.2
 2022-02-23 14:30:39.612905,94th Academy Awards - Odds to win Best Actress - Outright,Nicole Kidman (Being the Ricardos),0.021699999999999997,0.4762,0.4545
 2022-02-23 13:30:41.650592,Serie B - Italy Serie B 2021/22 - Outright,Lecce,0.021699999999999997,0.4762,0.4545
 2022-02-23 13:30:41.558922,A-League - Australia A-League 2021/2022 - Grand Final Winner,Western United,0.02049999999999999,0.1538,0.1333
@@ -50,28 +49,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-23 13:30:41.762092,League One - England League One 2021/22 - To Be Relegated,Morecambe,0.016700000000000048,0.75,0.7333
 2022-02-23 13:30:41.495388,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Chelsea,0.016699999999999993,0.2667,0.25
 2022-02-23 11:30:46.440019,England Championship - England Championship 21/22 - To Be Promoted,Coventry City,0.016600000000000004,0.0833,0.0667
-2022-02-23 04:30:49.483388,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Connecticut,0.014099999999999994,0.0667,0.0526
-2022-02-23 13:30:41.650592,Serie B - Italy Serie B 2021/22 - Outright,Monza,0.013999999999999999,0.0909,0.0769
-2022-02-23 07:30:42.410452,NFL Specials - Who will be the Pittsburgh Steelers Starting QB for Game 1 of the 2022-2023 Season? - Outright,Jimmy Garopollo,0.013999999999999999,0.0909,0.0769
 2022-02-23 13:30:41.495388,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Real Madrid,0.013999999999999999,0.0909,0.0769
+2022-02-23 07:30:42.410452,NFL Specials - Who will be the Pittsburgh Steelers Starting QB for Game 1 of the 2022-2023 Season? - Outright,Jimmy Garopollo,0.013999999999999999,0.0909,0.0769
+2022-02-23 13:30:41.650592,Serie B - Italy Serie B 2021/22 - Outright,Monza,0.013999999999999999,0.0909,0.0769
 2022-02-23 13:30:41.756062,League One - England League One 2021/22 - To Be Promoted,Wigan Athletic,0.013900000000000023,0.8889,0.875
 2022-02-23 13:30:40.732867,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Kofi Cockburn,0.012899999999999995,0.1667,0.1538
 2022-02-23 13:30:41.830209,League Two - England League Two 2021/22 - Top 7 Finish,Mansfield Town,0.011499999999999955,0.6667,0.6552
-2022-02-23 14:30:39.620421,94th Academy Awards - Odds to win Best Director - Outright,Ryusuke Hamaguchi (Drive My Car),0.0102,0.0769,0.0667
-2022-02-23 13:30:41.762092,League One - England League One 2021/22 - To Be Relegated,Lincoln City,0.0102,0.0769,0.0667
 2022-02-23 13:30:41.511096,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,Any Other Nation,0.0102,0.0769,0.0667
-2022-02-23 02:30:49.210201,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Arkansas,0.0102,0.0769,0.0667
-2022-02-23 13:30:40.805356,NFL Specials - Where will Russell Wilson Play Game 1 of the 2022/2023 NFL Season? - Outright,Pittsburgh Steelers,-0.0102,0.0667,0.0769
+2022-02-23 13:30:41.762092,League One - England League One 2021/22 - To Be Relegated,Lincoln City,0.0102,0.0769,0.0667
+2022-02-23 14:30:39.620421,94th Academy Awards - Odds to win Best Director - Outright,Ryusuke Hamaguchi (Drive My Car),0.0102,0.0769,0.0667
 2022-02-23 13:30:40.805356,NFL Specials - Where will Russell Wilson Play Game 1 of the 2022/2023 NFL Season? - Outright,Tampa Bay Buccaneers,-0.0102,0.0667,0.0769
-2022-02-23 13:30:41.817646,League Two - England League Two 2021/22 - To Be Relegated,Stevenage,-0.010899999999999993,0.1429,0.1538
-2022-02-23 07:30:42.428670,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Kayvon Thibodeaux,-0.010899999999999993,0.1429,0.1538
+2022-02-23 13:30:40.805356,NFL Specials - Where will Russell Wilson Play Game 1 of the 2022/2023 NFL Season? - Outright,Pittsburgh Steelers,-0.0102,0.0667,0.0769
 2022-02-23 13:30:41.823110,League Two - England League Two 2021/22 - Top 3 Finish,Newport County,-0.010899999999999993,0.1429,0.1538
+2022-02-23 07:30:42.428670,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Kayvon Thibodeaux,-0.010899999999999993,0.1429,0.1538
+2022-02-23 13:30:41.817646,League Two - England League Two 2021/22 - To Be Relegated,Stevenage,-0.010899999999999993,0.1429,0.1538
 2022-02-23 11:30:46.440019,England Championship - England Championship 21/22 - To Be Promoted,Nottingham Forest,-0.011099999999999999,0.1,0.1111
 2022-02-23 13:30:41.506184,Champions League - UEFA Champions League 2021/2022 - Furthest Progressing EPL Team,Manchester United,-0.011099999999999999,0.1,0.1111
 2022-02-23 13:30:41.495388,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Manchester City,-0.011099999999999999,0.4651,0.4762
 2022-02-23 13:30:41.589293,England Championship - England Championship 21/22 - Top 2 Finish,West Bromwich Albion,-0.012100000000000001,0.0123,0.0244
-2022-02-23 13:30:41.756062,League One - England League One 2021/22 - To Be Promoted,Wycombe,-0.012899999999999995,0.1538,0.1667
 2022-02-23 11:30:46.440019,England Championship - England Championship 21/22 - To Be Promoted,West Bromwich Albion,-0.012899999999999995,0.1538,0.1667
+2022-02-23 13:30:41.756062,League One - England League One 2021/22 - To Be Promoted,Wycombe,-0.012899999999999995,0.1538,0.1667
 2022-02-23 13:30:41.484386,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Lionel Messi,-0.0131,0.0345,0.0476
 2022-02-23 13:30:41.817646,League Two - England League Two 2021/22 - To Be Relegated,Barrow FC,-0.013899999999999996,0.1111,0.125
 2022-02-23 11:30:45.097148,Boxing Lines - Lawrence Okolie vs Michal Cieslak - To Win the Bout,Michal Cieslak,-0.013899999999999996,0.16,0.1739
@@ -83,16 +80,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-23 13:30:41.830209,League Two - England League Two 2021/22 - Top 7 Finish,Newport County,-0.016699999999999937,0.5833,0.6
 2022-02-23 13:30:41.495388,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Bayern Munich,-0.017600000000000005,0.3333,0.3509
 2022-02-23 13:30:41.511096,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,France,-0.0179,0.125,0.1429
-2022-02-23 11:30:46.440019,England Championship - England Championship 21/22 - To Be Promoted,Stoke City,-0.018099999999999998,0.0588,0.0769
 2022-02-23 13:30:41.511096,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,Spain,-0.018099999999999998,0.0588,0.0769
+2022-02-23 11:30:46.440019,England Championship - England Championship 21/22 - To Be Promoted,Stoke City,-0.018099999999999998,0.0588,0.0769
 2022-02-23 13:30:41.768822,League One - England League One 2021/22 - Top 2 Finish,Wycombe,-0.018200000000000004,0.0294,0.0476
 2022-02-23 13:30:41.511096,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,Germany,-0.01820000000000002,0.1818,0.2
 2022-02-23 13:30:40.335083,MLB Futures - MLB 2022 Player Awards - National League MVP ,Juan Soto,-0.01820000000000002,0.1818,0.2
 2022-02-23 13:30:41.811390,League Two - England League Two 2021/22 - To Be Promoted,Bradford City,-0.0189,0.0196,0.0385
 2022-02-23 13:30:41.823110,League Two - England League Two 2021/22 - Top 3 Finish,Tranmere Rovers,-0.019000000000000017,0.2667,0.2857
 2022-02-23 13:30:41.798893,League Two - England League Two 2021/22 - Outright,Northampton Town,-0.0203,0.0385,0.0588
-2022-02-23 13:30:41.811390,League Two - England League Two 2021/22 - To Be Promoted,Tranmere Rovers,-0.02100000000000002,0.3636,0.3846
 2022-02-23 13:30:41.817646,League Two - England League Two 2021/22 - To Be Relegated,Oldham Athletic,-0.02100000000000002,0.3636,0.3846
+2022-02-23 13:30:41.811390,League Two - England League Two 2021/22 - To Be Promoted,Tranmere Rovers,-0.02100000000000002,0.3636,0.3846
 2022-02-23 14:30:39.507122,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Olivia Rodrigo - Sour,-0.02169999999999994,0.5238,0.5455
 2022-02-23 13:30:41.756062,League One - England League One 2021/22 - To Be Promoted,Plymouth Argyle,-0.022199999999999998,0.1111,0.1333
 2022-02-23 13:30:41.768822,League One - England League One 2021/22 - Top 2 Finish,Plymouth Argyle,-0.023200000000000002,0.0244,0.0476
