@@ -4,7 +4,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-24 01:30:41.029101,TV Specials - Will any of there characters appear in Season 2 of Amazon's Wheel of Time? - Proposition,Aviendha,0.07619999999999993,0.6,0.5238
 2022-02-23 19:31:01.699071,Marvel Specials - Will Any Of These Characters Appear in Ms. Marvel On Disney+? - Outright,America Chavez,0.06670000000000004,0.4,0.3333
 2022-02-24 01:30:41.911097,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Mohamed Salah,0.06669999999999998,0.9,0.8333
-2022-02-23 14:30:39.590224,94th Academy Awards - Best Supporting Actor - Outright,Ciaran Hinds (Belfast),0.05679999999999999,0.1818,0.125
 2022-02-24 00:30:45.750427,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Liverpool,0.05310000000000001,0.2857,0.2326
 2022-02-23 19:31:01.747674,Marvel Specials - Will Any Of These Characters Appear in She-Hulk on Disney+? - Outright,Starfox,0.047599999999999976,0.3333,0.2857
 2022-02-24 01:30:41.596974,England Championship - England Championship 21/22 - Outright,Fulham,0.04619999999999991,0.8462,0.8
@@ -14,54 +13,46 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-23 23:30:45.382432,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Evan Mobley,0.033399999999999985,0.8667,0.8333
 2022-02-23 23:30:45.367435,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Rudy Gobert,0.029600000000000015,0.4,0.3704
 2022-02-24 01:30:41.926970,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Arsenal,0.029000000000000026,0.4545,0.4255
-2022-02-23 14:30:39.597849,94th Academy Awards - Best Supporting Actress - Outright,Ariana DeBose (West Side Story),0.027800000000000047,0.7778,0.75
 2022-02-23 19:31:00.943263,MLB Specials - When will MLB Opeing Day be for the 2022 Regular Season? - Outright,After March 31,0.02739999999999998,0.7333,0.7059
 2022-02-24 01:30:40.406525,NFL Specials - Will Kanye West Become the Majority Owner of the Denver Broncos in 2022 - Outright,No,0.024500000000000077,0.9412,0.9167
 2022-02-23 19:31:02.774564,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,0.0242,0.0909,0.0667
-2022-02-23 14:30:39.523146,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Tony Bennett & Lady Gaga - I Get a Kick Out of You,0.023799999999999988,0.3571,0.3333
 2022-02-24 01:30:41.919053,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Norwich City,0.02310000000000001,0.9231,0.9
 2022-02-23 18:30:55.706062,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Julio Rodriguez,0.022199999999999998,0.1333,0.1111
-2022-02-23 14:30:39.612905,94th Academy Awards - Odds to win Best Actress - Outright,Nicole Kidman (Being the Ricardos),0.021699999999999997,0.4762,0.4545
 2022-02-24 01:30:39.905550,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,Luka Doncic,0.02020000000000001,0.1111,0.0909
-2022-02-23 14:30:39.549805,94th Academy Awards - Best Costume Design - Outright,West Side Story (Paul Tazewell),0.02020000000000001,0.1111,0.0909
-2022-02-23 14:30:39.531077,Grammy Awards 2022 - Grammy 2022 Song of the Year Winner - Outright,Olivia Rodrigo - Drivers License,0.01970000000000005,0.5652,0.5455
-2022-02-23 14:30:39.590224,94th Academy Awards - Best Supporting Actor - Outright,Kodi Smit-McPhee (The Power of the Dog),0.018999999999999906,0.7333,0.7143
+2022-02-24 02:31:26.275520,NFL Specials - 2022 NFL Combine - Fastest  3-Cone Drill to break J.T. Thomas Combine Record - Outright,No (Slower Than 6.28 Seconds),0.018399999999999972,0.7059,0.6875
 2022-02-23 21:30:51.601859,NFL Specials - Will Kanye West Become the Majority Owner of the Denver Broncos in 2022 - Outright,No,0.017900000000000027,0.875,0.8571
 2022-02-23 20:30:46.600571,Boxing Lines - Karim Guerfi vs Jordan Gill - To Win the Bout,Jordan Gill,0.017900000000000027,0.875,0.8571
 2022-02-23 19:30:59.151654,Boxing Lines - Mark Reyes Jr vs Jonathan Jose Eniz - To Win the Bout,Mark Reyes Jr,0.01760000000000006,0.9,0.8824
+2022-02-24 02:31:29.224353,MLB Specials - How Many Games will Each Team Play in the 2022 MLB Season - Outright,Over 81.5,0.017400000000000082,0.8,0.7826
 2022-02-24 01:30:41.919053,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,0.0174,0.25,0.2326
 2022-02-23 20:30:47.822280,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Oscar Tshiebwe,0.016699999999999993,0.4167,0.4
 2022-02-24 01:30:41.926970,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Manchester United,0.015400000000000025,0.4,0.3846
 2022-02-23 23:30:45.360761,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,JB Bickerstaff (CLE),0.01469999999999999,0.25,0.2353
 2022-02-23 23:30:45.367435,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Robert Williams,0.014099999999999998,0.0385,0.0244
 2022-02-23 19:31:01.851627,Survivor 42 - The WInner of Survivor Seson 42 - Outright,Chanelle Howell,0.013999999999999999,0.0909,0.0769
+2022-02-24 02:31:28.582399,Boxing Lines - Liam Smith vs Jessie Vargas - To Win the Bout,Liam Smith,0.013599999999999945,0.7059,0.6923
 2022-02-23 19:31:01.726557,Marvel Specials - Will Any Of These Characters Appear in Secret Invasion On Disney+? - Outright,Spider-Man,0.011199999999999995,0.0588,0.0476
-2022-02-23 19:31:02.712781,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,0.010899999999999993,0.1538,0.1429
-2022-02-23 20:30:47.822280,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Johnny Davis,0.010899999999999993,0.1538,0.1429
 2022-02-23 22:30:44.930781,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Texas Tech,0.010899999999999993,0.1538,0.1429
-2022-02-23 14:30:39.620421,94th Academy Awards - Odds to win Best Director - Outright,Ryusuke Hamaguchi (Drive My Car),0.0102,0.0769,0.0667
+2022-02-23 20:30:47.822280,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Johnny Davis,0.010899999999999993,0.1538,0.1429
+2022-02-23 19:31:02.712781,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,0.010899999999999993,0.1538,0.1429
 2022-02-24 01:30:41.926970,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,West Ham United,0.0102,0.0769,0.0667
 2022-02-23 18:30:55.977291,Boxing Lines - Nick Campbell vs Jay McFarlane - To Win the Bout,Jay McFarlane,-0.010099999999999998,0.1111,0.1212
 2022-02-23 23:30:45.367435,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,-0.011700000000000016,0.2105,0.2222
+2022-02-24 02:31:28.582399,Boxing Lines - Liam Smith vs Jessie Vargas - To Win the Bout,Jessie Vargas,-0.013300000000000034,0.3571,0.3704
 2022-02-23 19:31:02.774564,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,-0.01469999999999999,0.2353,0.25
-2022-02-23 14:30:39.628301,94th Academy Awards - Odds to win Best Picture - Outright,Drive My Car,-0.014899999999999997,0.0476,0.0625
+2022-02-24 02:31:26.275520,NFL Specials - 2022 NFL Combine - Fastest  3-Cone Drill to break J.T. Thomas Combine Record - Outright,Yes (Faster Tahn 6.28 Seconds),-0.01479999999999998,0.3774,0.3922
 2022-02-24 00:30:45.750427,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Manchester City,-0.018199999999999994,0.8,0.8182
-2022-02-23 14:30:39.507122,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Olivia Rodrigo - Sour,-0.02169999999999994,0.5238,0.5455
+2022-02-24 02:31:29.224353,MLB Specials - How Many Games will Each Team Play in the 2022 MLB Season - Outright,Under 81.5,-0.019000000000000017,0.2667,0.2857
 2022-02-23 21:30:51.601859,NFL Specials - Will Kanye West Become the Majority Owner of the Denver Broncos in 2022 - Outright,Yes,-0.022199999999999998,0.2,0.2222
 2022-02-23 23:30:45.367435,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,-0.022199999999999998,0.3226,0.3448
 2022-02-24 01:30:40.406525,NFL Specials - Will Kanye West Become the Majority Owner of the Denver Broncos in 2022 - Outright,Yes,-0.02310000000000001,0.125,0.1481
 2022-02-24 01:30:41.911097,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Diogo Jota,-0.0242,0.0667,0.0909
 2022-02-23 19:31:00.943263,MLB Specials - When will MLB Opeing Day be for the 2022 Regular Season? - Outright,On Or Before March 31,-0.030299999999999994,0.3333,0.3636
 2022-02-23 19:31:00.886952,MLB Specials - What Will Happen to the 2022 MLB Season? - Outright,MLB Teams Play a Full Season,-0.030299999999999994,0.3333,0.3636
-2022-02-23 14:30:39.582570,94th Academy Awards - Best Sound - Outright,"Dune (Mac Ruth, Mark Mangini, Theo Green, Doug Hemphill and Ron Bartlett)",-0.033299999999999996,0.8,0.8333
-2022-02-23 14:30:39.507122,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Tony Bennett & Lady Gaga - Love for Sale,-0.0353,0.2,0.2353
-2022-02-23 14:30:39.531077,Grammy Awards 2022 - Grammy 2022 Song of the Year Winner - Outright,Billie Eilish - Happier Than Ever,-0.03570000000000001,0.25,0.2857
 2022-02-24 01:30:41.926970,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Tottenham Hotspur,-0.0368,0.2299,0.2667
 2022-02-24 01:30:41.919053,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Crystal Palace,-0.0384,0.0385,0.0769
 2022-02-24 01:30:41.596974,England Championship - England Championship 21/22 - Outright,Bournemouth,-0.04040000000000002,0.1818,0.2222
 2022-02-24 01:30:41.919053,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,-0.044399999999999995,0.5556,0.6
 2022-02-23 23:30:44.477683,NFL Specials - Will Kanye West Become the Majority Owner of the Denver Broncos in 2022 - Outright,Yes,-0.0519,0.1481,0.2
-2022-02-23 14:30:39.523146,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Lil Nas X - Montero,-0.052000000000000005,0.0909,0.1429
-2022-02-23 14:30:39.628301,94th Academy Awards - Odds to win Best Picture - Outright,The Power of the Dog,-0.06659999999999999,0.6667,0.7333
 2022-02-23 16:30:53.920035,College Basketball - Big 12 Conference Winner - Big 12 Conference Tournament Winner,Texas Tech,-0.09720000000000001,0.125,0.2222
 2022-02-23 16:30:53.920035,College Basketball - Big 12 Conference Winner - Big 12 Conference Tournament Winner,Baylor,-0.19039999999999999,0.1429,0.3333
