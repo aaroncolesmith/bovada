@@ -15,6 +15,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-25 13:30:35.520975,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Roma,0.031799999999999995,0.1429,0.1111
 2022-02-25 10:30:48.922382,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,0.028800000000000048,0.875,0.8462
 2022-02-25 12:30:38.713576,Europa League - UEFA Europa League 2021/22 - Outright,RB Leipzig,0.028799999999999992,0.1538,0.125
+2022-02-25 21:30:51.854082,Boxing Lines - Jose Miguel Borrego vs Peter Dobson - To Win the Bout,Jose Miguel Borrego,0.028300000000000047,0.4348,0.4065
 2022-02-25 12:30:38.713576,Europa League - UEFA Europa League 2021/22 - Outright,FC Barcelona,0.02779999999999999,0.25,0.2222
 2022-02-25 17:30:52.589746,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Mike Pompeo,0.024,0.0625,0.0385
 2022-02-25 14:30:52.490233,College Basketball - Big 12 Conference Winner - Tournament Winner,Baylor,0.023799999999999988,0.1667,0.1429
@@ -40,18 +41,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-25 18:30:44.873094,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,-0.010499999999999982,0.2,0.2105
 2022-02-25 17:30:54.025840,MLB Specials - When will MLB Opeing Day be for the 2022 Regular Season? - Outright,On Or Before March 31,-0.010699999999999987,0.3226,0.3333
 2022-02-25 17:30:53.382728,NFL Specials - Will Kanye West Become the Majority Owner of the Denver Broncos in 2022 - Outright,No,-0.011199999999999988,0.9412,0.9524
-2022-02-25 17:30:52.636914,Canada Political Specials - Who will be the next leader of the of the Conservative Party Of Canada - Outright,Michelle Rempel Garner,-0.011199999999999995,0.0476,0.0588
 2022-02-25 17:30:52.636914,Canada Political Specials - Who will be the next leader of the of the Conservative Party Of Canada - Outright,Brad Wall,-0.011199999999999995,0.0476,0.0588
+2022-02-25 17:30:52.636914,Canada Political Specials - Who will be the next leader of the of the Conservative Party Of Canada - Outright,Michelle Rempel Garner,-0.011199999999999995,0.0476,0.0588
 2022-02-25 12:30:38.713576,Europa League - UEFA Europa League 2021/22 - Outright,Bayer Leverkusen,-0.011199999999999995,0.0476,0.0588
 2022-02-25 17:30:52.636914,Canada Political Specials - Who will be the next leader of the of the Conservative Party Of Canada - Outright,Patrick Brown,-0.011199999999999995,0.0476,0.0588
-2022-02-25 08:30:52.489695,Boxing Lines - Robeisy Ramirez vs Eric Donovan - To Win the Bout,Eric Donovan,-0.011700000000000002,0.0909,0.1026
-2022-02-25 17:30:52.636914,Canada Political Specials - Who will be the next leader of the of the Conservative Party Of Canada - Outright,Rona Ambrose,-0.011900000000000008,0.0833,0.0952
 2022-02-25 17:30:52.636914,Canada Political Specials - Who will be the next leader of the of the Conservative Party Of Canada - Outright,Caroline Mulroney,-0.011900000000000008,0.0833,0.0952
+2022-02-25 17:30:52.636914,Canada Political Specials - Who will be the next leader of the of the Conservative Party Of Canada - Outright,Rona Ambrose,-0.011900000000000008,0.0833,0.0952
 2022-02-25 13:30:35.520975,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Marseille,-0.012899999999999995,0.1538,0.1667
 2022-02-25 12:30:38.713576,Europa League - UEFA Europa League 2021/22 - Outright,FC Sevilla,-0.012899999999999995,0.1538,0.1667
 2022-02-25 10:30:48.914817,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Wolverhampton Wanderers,-0.0131,0.0345,0.0476
-2022-02-25 14:30:50.969458,NFL Specials - Where will Russell Wilson Play Game 1 of the 2022/2023 NFL Season? - Outright,Philadelphia Eagles,-0.013899999999999996,0.1111,0.125
 2022-02-25 18:30:44.880306,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Billy Donovan (CHI),-0.013899999999999996,0.1111,0.125
+2022-02-25 14:30:50.969458,NFL Specials - Where will Russell Wilson Play Game 1 of the 2022/2023 NFL Season? - Outright,Philadelphia Eagles,-0.013899999999999996,0.1111,0.125
 2022-02-25 13:30:35.520975,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Bodø/Glimt,-0.013999999999999999,0.0769,0.0909
 2022-02-25 17:30:52.636914,Canada Political Specials - Who will be the next leader of the of the Conservative Party Of Canada - Outright,Peter MacKay,-0.014399999999999996,0.0625,0.0769
 2022-02-25 10:30:48.914817,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,West Ham United,-0.018099999999999998,0.0588,0.0769
@@ -60,6 +60,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-25 09:31:22.085435,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Manchester City,-0.022199999999999998,0.7778,0.8
 2022-02-25 18:30:44.873094,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,-0.02310000000000001,0.0769,0.1
 2022-02-25 14:30:50.969458,NFL Specials - Where will Russell Wilson Play Game 1 of the 2022/2023 NFL Season? - Outright,Tampa Bay Buccaneers,-0.023799999999999988,0.1429,0.1667
+2022-02-25 21:30:51.854082,Boxing Lines - Jose Miguel Borrego vs Peter Dobson - To Win the Bout,Peter Dobson,-0.029099999999999904,0.6296,0.6587
 2022-02-25 17:30:53.561765,NFL Specials - 2022 NFL Combine - Position of Player Fastest 40 Yard Dash Time - Outright,Running back,-0.03710000000000002,0.3333,0.3704
 2022-02-25 11:31:15.782115,NFL Specials - Where will Russell Wilson Play Game 1 of the 2022/2023 NFL Season? - Outright,Seattle Seahawks,-0.03920000000000001,0.6667,0.7059
 2022-02-25 10:30:48.914817,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Tottenham Hotspur,-0.048100000000000004,0.1818,0.2299
