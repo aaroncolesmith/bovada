@@ -8,6 +8,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-25 10:30:48.939120,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Tottenham Hotspur,0.04169999999999996,0.875,0.8333
 2022-02-25 01:31:11.647065,Europa League - UEFA Europa League 2021/22 - Outright,FC Porto,0.029299999999999993,0.0769,0.0476
 2022-02-25 10:30:48.922382,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,0.028800000000000048,0.875,0.8462
+2022-02-25 12:30:38.713576,Europa League - UEFA Europa League 2021/22 - Outright,RB Leipzig,0.028799999999999992,0.1538,0.125
+2022-02-25 12:30:38.713576,Europa League - UEFA Europa League 2021/22 - Outright,FC Barcelona,0.02779999999999999,0.25,0.2222
 2022-02-25 07:30:41.711154,NFL Specials - Where will Russell Wilson Play Game 1 of the 2022/2023 NFL Season? - Outright,Tampa Bay Buccaneers,0.0242,0.0909,0.0667
 2022-02-25 00:32:51.373188,UEFA Europa Conference League - UEFA Europa Conference League - Outright,AZ Alkmaar,0.019099999999999992,0.0667,0.0476
 2022-02-25 10:30:48.420595,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Leicester City,0.01820000000000002,0.2,0.1818
@@ -23,14 +25,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-25 10:30:48.420595,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Marseille,0.012899999999999995,0.1667,0.1538
 2022-02-25 08:30:51.846239,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.011700000000000016,0.2222,0.2105
 2022-02-25 01:31:11.647065,Europa League - UEFA Europa League 2021/22 - Outright,Bayer Leverkusen,0.011199999999999995,0.0588,0.0476
+2022-02-25 12:30:38.713576,Europa League - UEFA Europa League 2021/22 - Outright,Rangers,0.011199999999999995,0.0588,0.0476
 2022-02-25 05:30:42.218000,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Ochai Agbaji,0.011099999999999999,0.1111,0.1
 2022-02-25 10:30:48.906356,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Liverpool,0.01090000000000002,0.8571,0.8462
-2022-02-25 08:30:51.876884,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.010899999999999993,0.1538,0.1429
 2022-02-25 00:32:51.373188,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Marseille,0.010899999999999993,0.1538,0.1429
+2022-02-25 08:30:51.876884,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.010899999999999993,0.1538,0.1429
 2022-02-25 10:30:48.885835,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Mohamed Salah,-0.010199999999999987,0.9231,0.9333
+2022-02-25 12:30:38.713576,Europa League - UEFA Europa League 2021/22 - Outright,West Ham United,-0.0102,0.0667,0.0769
+2022-02-25 12:30:38.713576,Europa League - UEFA Europa League 2021/22 - Outright,FC Porto,-0.0102,0.0667,0.0769
 2022-02-25 10:30:48.409621,Europa League - UEFA Europa League 2021/22 - Outright,Lyon,-0.0102,0.0667,0.0769
+2022-02-25 12:30:38.713576,Europa League - UEFA Europa League 2021/22 - Outright,Bayer Leverkusen,-0.011199999999999995,0.0476,0.0588
 2022-02-25 08:30:51.869427,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,-0.0116,0.4762,0.4878
 2022-02-25 08:30:52.489695,Boxing Lines - Robeisy Ramirez vs Eric Donovan - To Win the Bout,Eric Donovan,-0.011700000000000002,0.0909,0.1026
+2022-02-25 12:30:38.713576,Europa League - UEFA Europa League 2021/22 - Outright,FC Sevilla,-0.012899999999999995,0.1538,0.1667
 2022-02-25 10:30:48.914817,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Wolverhampton Wanderers,-0.0131,0.0345,0.0476
 2022-02-25 01:31:11.647065,Europa League - UEFA Europa League 2021/22 - Outright,West Ham United,-0.013999999999999999,0.0769,0.0909
 2022-02-25 05:30:39.733652,Boxing Lines - Jose Miguel Borrego vs Peter Dobson - To Win the Bout,Peter Dobson,-0.01539999999999997,0.6721,0.6875
