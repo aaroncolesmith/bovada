@@ -1,8 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-02-25 18:30:44.873094,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,DeMar DeRozan,0.04120000000000001,0.1,0.0588
 2022-02-25 20:30:50.215771,Survivor 42 - The Winner of Survivor Season 42 - Outright,Lydia Meredith,0.0407,0.1176,0.0769
 2022-02-26 00:31:26.924287,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,0.03570000000000001,0.2857,0.25
-2022-02-25 18:30:44.880306,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Monty Williams (PHO),0.035699999999999954,0.75,0.7143
 2022-02-26 00:31:21.107772,LKL - LKL 2021/22 - Outright,Zalgiris,0.03410000000000002,0.9091,0.875
 2022-02-25 19:31:11.849941,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Rudy Gobert,0.031799999999999995,0.4762,0.4444
 2022-02-25 21:30:51.854082,Boxing Lines - Jose Miguel Borrego vs Peter Dobson - To Win the Bout,Jose Miguel Borrego,0.028300000000000047,0.4348,0.4065
@@ -13,19 +11,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-26 00:31:25.173472,Italy Serie A - Italy Serie A 2021/2022 - Outright,Napoli,0.01820000000000002,0.2,0.1818
 2022-02-25 19:31:11.876748,NBA Season Props - 2021/22 NBA Awards - 2022 The Sixth Man,Kelly Oubre Jr.,0.018099999999999998,0.0769,0.0588
 2022-02-26 00:31:26.924287,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Brentford,0.016699999999999993,0.2667,0.25
-2022-02-25 18:30:44.578936,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Tony Bennett & Lady Gaga - I Get a Kick Out of You,0.013300000000000034,0.3704,0.3571
 2022-02-26 00:31:21.682204,Boxing Lines - Guillermo Rigondeaux vs Vincent Astrolabio - To Win the Bout,Vincent Astrolabio,0.012899999999999995,0.1667,0.1538
 2022-02-25 20:30:48.649536,Boxing Lines - Kanat Islam vs Jimmy Kilrain Kelly - To Win the Bout,Jimmy Kilrain Kelly,0.011700000000000002,0.1026,0.0909
-2022-02-26 00:31:26.924287,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Norwich City,0.010199999999999987,0.9333,0.9231
 2022-02-26 00:31:25.220584,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Real Madrid,0.010199999999999987,0.9333,0.9231
-2022-02-25 18:30:44.873094,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,-0.010099999999999998,0.4444,0.4545
-2022-02-25 18:30:44.873094,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,-0.010499999999999982,0.2,0.2105
+2022-02-26 00:31:26.924287,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Norwich City,0.010199999999999987,0.9333,0.9231
 2022-02-25 19:31:11.849941,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,-0.010499999999999982,0.2,0.2105
-2022-02-25 18:30:44.880306,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Billy Donovan (CHI),-0.013899999999999996,0.1111,0.125
 2022-02-26 00:31:25.220584,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Sevilla,-0.013999999999999999,0.0769,0.0909
 2022-02-26 06:30:34.410590,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.014100000000000001,0.9333,0.9474
 2022-02-25 22:30:51.382000,Boxing Lines - Kanat Islam vs Jimmy Kilrain Kelly - To Win the Bout,Kanat Islam,-0.020299999999999985,0.9412,0.9615
-2022-02-25 18:30:44.873094,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Stephen Curry,-0.02310000000000001,0.0769,0.1
 2022-02-25 21:30:51.854082,Boxing Lines - Jose Miguel Borrego vs Peter Dobson - To Win the Bout,Peter Dobson,-0.029099999999999904,0.6296,0.6587
 2022-02-26 00:31:25.173472,Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,-0.030299999999999994,0.6364,0.6667
 2022-02-26 00:31:26.924287,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,-0.1301,0.4255,0.5556
