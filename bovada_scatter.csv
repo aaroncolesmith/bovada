@@ -21,42 +21,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-27 20:30:45.962872,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Watford,0.022199999999999998,0.8,0.7778
 2022-02-27 13:30:41.357971,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.019100000000000006,0.9524,0.9333
 2022-02-27 12:30:50.490947,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,0.019000000000000017,0.2857,0.2667
-2022-02-27 09:30:47.989963,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,0.019000000000000017,0.2857,0.2667
 2022-02-27 20:30:45.982988,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,West Ham United,0.018099999999999998,0.0769,0.0588
-2022-02-27 09:30:48.014582,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Robert Williams,0.018099999999999998,0.0526,0.0345
 2022-02-27 13:30:43.577829,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Crystal Palace,0.0179,0.1429,0.125
 2022-02-27 12:30:50.503447,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,0.016699999999999993,0.4167,0.4
+2022-02-27 22:30:39.559338,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.015899999999999997,0.2381,0.2222
 2022-02-27 12:30:50.474319,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.01469999999999999,0.25,0.2353
 2022-02-27 14:30:40.292268,MLS - MLS Cup 2022 - Outright,DC United,0.014099999999999998,0.0385,0.0244
 2022-02-27 13:30:41.330913,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,0.014000000000000012,0.9231,0.9091
-2022-02-27 20:30:45.889804,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Club América,0.013999999999999999,0.0909,0.0769
 2022-02-27 16:30:47.266753,College Specials - Odds to win the 2021/2022 NCAABB Women's Championship - Outright,Louisville,0.013999999999999999,0.0909,0.0769
-2022-02-27 09:30:46.741593,Boxing Lines - Tyson Fury vs Dillian Whyte - To Win the Bout,Tyson Fury,0.013900000000000023,0.8889,0.875
+2022-02-27 20:30:45.889804,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Club América,0.013999999999999999,0.0909,0.0769
 2022-02-27 14:30:40.292268,MLS - MLS Cup 2022 - Outright,New England Revolution,0.013899999999999996,0.125,0.1111
 2022-02-27 20:30:45.889804,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Club León,0.013899999999999996,0.125,0.1111
 2022-02-27 12:30:50.482986,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.012699999999999989,0.3636,0.3509
 2022-02-27 20:30:45.889804,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Tijuana,0.012100000000000001,0.0244,0.0123
 2022-02-27 14:30:40.292268,MLS - MLS Cup 2022 - Outright,Los Angeles FC,0.011099999999999999,0.1111,0.1
-2022-02-27 09:30:48.014582,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,0.010499999999999982,0.2105,0.2
 2022-02-27 12:30:50.757416,Boxing Lines - Fabio Wardley vs Daniel Martz - To Win the Bout,Daniel Martz,0.0102,0.0769,0.0667
 2022-02-27 14:30:40.292268,MLS - MLS Cup 2022 - Outright,Philadelphia Union,-0.0102,0.0667,0.0769
 2022-02-27 12:30:50.465431,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.010499999999999982,0.2,0.2105
 2022-02-27 16:30:47.266753,College Specials - Odds to win the 2021/2022 NCAABB Women's Championship - Outright,Texas,-0.010700000000000001,0.0278,0.0385
 2022-02-27 13:30:43.595433,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Everton,-0.01090000000000002,0.8462,0.8571
-2022-02-27 13:30:41.319980,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,-0.011099999999999999,0.8889,0.9
-2022-02-27 15:31:20.091899,MLS - MLS Cup 2022 - Top Goalscorer,Josef Martinez,-0.011099999999999999,0.1,0.1111
 2022-02-27 15:31:20.091899,MLS - MLS Cup 2022 - Top Goalscorer,Javier Hernandez,-0.011099999999999999,0.1,0.1111
+2022-02-27 15:31:20.091899,MLS - MLS Cup 2022 - Top Goalscorer,Josef Martinez,-0.011099999999999999,0.1,0.1111
+2022-02-27 13:30:41.319980,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,-0.011099999999999999,0.8889,0.9
 2022-02-27 15:31:20.091899,MLS - MLS Cup 2022 - Top Goalscorer,Gyasi Zardes,-0.011199999999999995,0.0476,0.0588
+2022-02-27 22:30:39.559338,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.011899999999999994,0.2381,0.25
 2022-02-27 13:30:43.552907,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Arsenal,-0.013,0.0066,0.0196
 2022-02-27 13:30:43.513791,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,West Ham United,-0.013799999999999923,0.6226,0.6364
 2022-02-27 20:30:45.982988,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Wolverhampton Wanderers,-0.014099999999999998,0.0294,0.0435
 2022-02-27 21:30:42.995380,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,West Ham United,-0.014100000000000001,0.9615,0.9756
-2022-02-27 17:30:45.227604,Boxing Lines - Fabio Wardley vs Daniel Martz - To Win the Bout,Daniel Martz,-0.014399999999999996,0.0625,0.0769
 2022-02-27 12:30:50.474319,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Chicago Bulls,-0.014399999999999996,0.0625,0.0769
-2022-02-27 09:30:48.027659,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Ja Morant,-0.015100000000000002,0.8182,0.8333
-2022-02-27 09:30:46.741593,Boxing Lines - Tyson Fury vs Dillian Whyte - To Win the Bout,Dillian Whyte,-0.016600000000000004,0.1739,0.1905
-2022-02-27 15:31:20.091899,MLS - MLS Cup 2022 - Top Goalscorer,Cristian Arango,-0.018099999999999998,0.0588,0.0769
+2022-02-27 17:30:45.227604,Boxing Lines - Fabio Wardley vs Daniel Martz - To Win the Bout,Daniel Martz,-0.014399999999999996,0.0625,0.0769
 2022-02-27 18:30:49.171097,Survivor 42 - The Winner of Survivor Season 42 - Outright,Marya Sherron,-0.018099999999999998,0.0588,0.0769
+2022-02-27 15:31:20.091899,MLS - MLS Cup 2022 - Top Goalscorer,Cristian Arango,-0.018099999999999998,0.0588,0.0769
 2022-02-27 20:30:45.982988,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Arsenal,-0.01880000000000004,0.5556,0.5744
 2022-02-27 13:30:43.513791,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Brighton & Hove Albion,-0.0189,0.0196,0.0385
 2022-02-27 12:30:50.474319,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.019000000000000017,0.2667,0.2857
@@ -64,7 +60,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-27 12:30:50.490947,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Toronto Raptors,-0.02020000000000001,0.0909,0.1111
 2022-02-27 20:30:45.982988,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Manchester United,-0.02560000000000001,0.3077,0.3333
 2022-02-27 12:30:50.490947,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,-0.025600000000000067,0.6667,0.6923
-2022-02-27 09:30:48.014582,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,-0.027999999999999997,0.1538,0.1818
 2022-02-27 13:30:43.577829,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Leeds United,-0.028000000000000004,0.0196,0.0476
 2022-02-27 12:30:50.503447,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,-0.030299999999999994,0.4348,0.4651
 2022-02-27 20:30:45.889804,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Monterrey,-0.031799999999999995,0.1111,0.1429
