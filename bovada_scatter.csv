@@ -1,367 +1,186 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-28 17:30:47.120315,94th Academy Awards - Odds to win Best Actress - Outright,Jessica Chastain (The Eyes of Tammy Faye),0.3015,0.4444,0.1429
 2022-02-28 16:30:44.331234,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Oscar Tshiebwe,0.25139999999999996,0.7059,0.4545
-2022-02-28 10:30:46.927835,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Rennes,0.2479,0.5556,0.3077
-2022-02-28 11:30:44.801873,League Two - England League Two 2021/22 - Top Goalscorer,Dominic Telford (Newport County),0.2094999999999999,0.7333,0.5238
-2022-02-28 10:30:46.992473,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Venezia,0.20590000000000003,0.6226,0.4167
 2022-02-28 17:30:47.079631,94th Academy Awards - Best Supporting Actor - Outright,Troy Kotsur (CODA),0.20329999999999998,0.4255,0.2222
-2022-02-28 11:30:44.706112,League One - England League One 2021/22 - Top Goalscorer,Ross Stewart (Sunderland),0.19199999999999995,0.6364,0.4444
 2022-02-28 14:30:58.721718,NBA Season Props - 2021/22 NBA Regular Season Team Wins - CHA Hornets Regular Season Wins,Over 38.5,0.19049999999999995,0.6667,0.4762
-2022-02-28 10:30:46.904424,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Rennes,0.19039999999999999,0.3333,0.1429
 2022-02-28 16:30:43.702654,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - State of Winning Team,Any Other State,0.18329999999999996,0.6,0.4167
-2022-02-28 10:30:47.548905,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Brighton & Hove Albion,0.1552,0.6552,0.5
-2022-02-28 11:30:44.464840,England Championship - England Championship 21/22 - Top 6 Finish,Huddersfield Town,0.14549999999999996,0.5455,0.4
 2022-02-28 17:30:47.002445,94th Academy Awards - Best Adapted Screenplay - Outright,The Lost Daughter (written by Maggie Gyllenhaal),0.125,0.25,0.125
-2022-02-28 10:30:46.981433,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Dusan Vlahovic,0.12260000000000004,0.6226,0.5
-2022-02-28 10:30:47.377025,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Aberdeen,0.12260000000000004,0.6226,0.5
 2022-02-28 17:30:47.107053,94th Academy Awards - Odds to win Best Actor - Outright,Will Smith (King Richard),0.119,0.8333,0.7143
-2022-02-28 11:30:44.762720,League One - England League One 2021/22 - Top 6 Finish,Sunderland,0.11430000000000007,0.7143,0.6
-2022-02-28 11:30:44.762720,League One - England League One 2021/22 - Top 6 Finish,Oxford United,0.11360000000000003,0.75,0.6364
-2022-02-28 10:30:47.268555,Superligaen - Denmark Superligaen 2021/22 - Outright,FC Copenhagen,0.11109999999999998,0.6667,0.5556
 2022-02-28 17:30:47.092535,94th Academy Awards - Best Supporting Actress - Outright,Ariana DeBose (West Side Story),0.11109999999999998,0.8889,0.7778
 2022-02-28 14:30:58.793110,NBA Season Props - 2021/22 NBA Regular Season Team Wins - NO Pelicans Regular Season Wins,Over 35.5,0.11069999999999997,0.5455,0.4348
-2022-02-28 11:30:44.762720,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,0.10000000000000009,0.8333,0.7333
-2022-02-28 10:30:46.916155,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Kylian Mbappe,0.09999999999999998,0.6,0.5
-2022-02-28 11:30:44.464840,England Championship - England Championship 21/22 - Top 6 Finish,Blackburn Rovers,0.09960000000000002,0.6552,0.5556
-2022-02-28 10:30:47.383560,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Livingston,0.09689999999999999,0.3636,0.2667
-2022-02-28 11:30:44.503030,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Werder Bremen,0.09689999999999999,0.3636,0.2667
 2022-02-28 17:30:46.968825,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Olivia Rodrigo - Drivers License,0.0922,0.4255,0.3333
 2022-02-28 16:30:42.949180,Canada Political Specials - Who will be the next leader of the of the Conservative Party Of Canada - Outright,Pierre Poilievre,0.0917,0.7143,0.6226
-2022-02-28 11:30:44.762720,League One - England League One 2021/22 - Top 6 Finish,Milton Keynes Dons,0.08979999999999999,0.9231,0.8333
-2022-02-28 11:30:44.562071,Premier League - Russia Premier League 2021/2022 - Outright,Dinamo Moscow,0.0857,0.2857,0.2
-2022-02-28 10:30:47.383560,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Hibernian,0.08550000000000002,0.7778,0.6923
-2022-02-28 11:30:44.533498,Serie B - Italy Serie B 2021/22 - Outright,Cremonese,0.08549999999999996,0.3077,0.2222
-2022-02-28 10:30:46.992473,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Spezia,0.08549999999999996,0.3077,0.2222
-2022-02-28 10:30:47.377025,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,St. Mirren,0.08339999999999992,0.6667,0.5833
-2022-02-28 10:30:47.036711,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Sevilla,0.08330000000000004,0.75,0.6667
 2022-02-28 16:30:42.647111,NFL Specials - 2022 NFL Combine - Position of Player Fastest 40 Yard Dash Time - Outright,Cornerback,0.08329999999999999,0.5,0.4167
 2022-02-28 13:31:05.081750,Europa League - UEFA Europa League 2021/22 - Outright,RB Leipzig,0.06840000000000002,0.2222,0.1538
-2022-02-28 10:30:47.367415,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Dundee FC,0.06700000000000006,0.6226,0.5556
-2022-02-28 11:30:44.464840,England Championship - England Championship 21/22 - Top 6 Finish,Luton Town,0.06670000000000004,0.4,0.3333
-2022-02-28 11:30:44.464840,England Championship - England Championship 21/22 - Top 6 Finish,Millwall,0.06669999999999998,0.1667,0.1
 2022-02-28 16:30:43.923616,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Division of Winning Team,Central Division,0.06659999999999999,0.3333,0.2667
-2022-02-28 11:30:44.851986,League Two - England League Two 2021/22 - Top 7 Finish,Mansfield Town,0.06659999999999999,0.7333,0.6667
 2022-02-28 16:30:43.952142,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Division of Winning Team,Pacific Division,0.0635,0.7778,0.7143
-2022-02-28 11:30:44.196557,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Bayer Leverkusen,0.058300000000000005,0.125,0.0667
-2022-02-28 11:30:44.837147,League Two - England League Two 2021/22 - Top 3 Finish,Mansfield Town,0.057699999999999974,0.3077,0.25
-2022-02-28 11:30:44.451447,England Championship - England Championship 21/22 - Top 2 Finish,Bournemouth,0.05679999999999996,0.875,0.8182
 2022-02-28 17:30:46.556449,College Basketball - Horizon League Conference Tournament Winner - Outright,IPFW,0.05550000000000002,0.2222,0.1667
-2022-02-28 11:30:44.851986,League Two - England League Two 2021/22 - Top 7 Finish,Sutton Utd,0.05449999999999999,0.6,0.5455
-2022-02-28 10:30:46.992473,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Udinese,0.05349999999999999,0.0667,0.0132
-2022-02-28 11:30:44.851986,League Two - England League Two 2021/22 - Top 7 Finish,Newport County,0.053099999999999925,0.6364,0.5833
-2022-02-28 10:30:46.478534,NFL Specials - Who will be the Pittsburgh Steelers Starting QB for Game 1 of the 2022-2023 Season? - Outright,Deshaun Watson,0.0524,0.1,0.0476
-2022-02-28 10:30:47.356746,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hearts,0.051899999999999946,0.9852,0.9333
-2022-02-28 17:30:47.146866,94th Academy Awards - Odds to win Best Picture - Outright,Belfast,0.04999999999999999,0.25,0.2
 2022-02-28 12:30:36.459855,MLB Futures - MLB 2022 American League West - Outright,Los Angeles Angels,0.04999999999999999,0.25,0.2
+2022-02-28 17:30:47.146866,94th Academy Awards - Odds to win Best Picture - Outright,Belfast,0.04999999999999999,0.25,0.2
 2022-02-28 12:30:36.480127,MLB Futures - MLB 2022 National League West - Outright,San Diego Padres,0.0494,0.3571,0.3077
-2022-02-28 11:30:44.533498,Serie B - Italy Serie B 2021/22 - Outright,Lecce,0.04910000000000003,0.4,0.3509
-2022-02-28 10:30:47.067933,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,FC Barcelona,0.04810000000000003,0.8182,0.7701
-2022-02-28 11:30:44.464840,England Championship - England Championship 21/22 - Top 6 Finish,Nottingham Forest,0.047599999999999976,0.3333,0.2857
-2022-02-28 11:30:44.837147,League Two - England League Two 2021/22 - Top 3 Finish,Port Vale,0.04620000000000002,0.2,0.1538
-2022-02-28 10:30:47.208699,A-League - Australia A-League 2021/2022 - Grand Final Winner,Western United,0.04620000000000002,0.2,0.1538
 2022-02-28 14:30:58.740532,NBA Season Props - 2021/22 NBA Regular Season Team Wins - DAL Mavericks Regular Season Wins,Over 48.5,0.045499999999999985,0.5455,0.5
-2022-02-28 11:30:44.851986,League Two - England League Two 2021/22 - Top 7 Finish,Salford City,0.043200000000000016,0.3509,0.3077
-2022-02-28 11:30:44.751147,League One - England League One 2021/22 - Top 2 Finish,Milton Keynes Dons,0.042899999999999994,0.1429,0.1
-2022-02-28 10:30:46.927835,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lille,0.04269999999999999,0.1538,0.1111
-2022-02-28 11:30:44.533498,Serie B - Italy Serie B 2021/22 - Outright,Benevento,0.04269999999999999,0.1538,0.1111
 2022-02-28 14:30:58.810457,NBA Season Props - 2021/22 NBA Regular Season Team Wins - SA Spurs Regular Season Wins,Over 33.5,0.04139999999999999,0.5652,0.5238
 2022-02-28 12:30:36.452979,MLB Futures - MLB 2022 American League East - Outright,Toronto Blue Jays,0.04099999999999998,0.3636,0.3226
-2022-02-28 11:30:44.837147,League Two - England League Two 2021/22 - Top 3 Finish,Newport County,0.03889999999999999,0.1818,0.1429
 2022-02-28 14:30:58.648856,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Ja Morant,0.038899999999999935,0.8571,0.8182
 2022-02-28 17:30:47.146866,94th Academy Awards - Odds to win Best Picture - Outright,CODA,0.0384,0.0769,0.0385
-2022-02-28 11:30:44.851986,League Two - England League Two 2021/22 - Top 7 Finish,Port Vale,0.037800000000000056,0.5833,0.5455
 2022-02-28 12:30:36.466592,MLB Futures - MLB 2022 National League Central - Outright,St. Louis Cardinals,0.03710000000000002,0.3704,0.3333
 2022-02-28 17:30:47.040984,94th Academy Awards - Best Original Screenplay - Outright,Belfast (written by Kenneth Branagh),0.03640000000000004,0.4,0.3636
 2022-02-28 16:30:42.684875,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Evan Neal,0.03639999999999999,0.6364,0.6
-2022-02-28 14:30:58.630905,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Rudy Gobert,0.03479999999999994,0.6,0.5652
 2022-02-28 14:30:58.818907,NBA Season Props - 2021/22 NBA Regular Season Team Wins - UTA Jazz Regular Season Wins,Over 51.5,0.03479999999999994,0.6,0.5652
-2022-02-28 11:30:44.837147,League Two - England League Two 2021/22 - Top 3 Finish,Sutton Utd,0.033399999999999985,0.1667,0.1333
+2022-02-28 14:30:58.630905,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Rudy Gobert,0.03479999999999994,0.6,0.5652
+2022-02-28 23:31:02.922255,Italy Serie A - Italy Serie A 2021/2022 - Outright,Napoli,0.03409999999999999,0.2667,0.2326
 2022-02-28 16:30:43.923616,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Division of Winning Team,SouthEast Division,0.033300000000000024,0.2,0.1667
-2022-02-28 16:30:43.987726,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.033300000000000024,0.2,0.1667
 2022-02-28 16:30:43.723418,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Winning Division,Central Division,0.033300000000000024,0.2,0.1667
+2022-02-28 16:30:43.987726,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.033300000000000024,0.2,0.1667
 2022-02-28 12:30:36.446117,MLB Futures - MLB 2022 American League Central - Outright,Chicago White Sox,0.032299999999999995,0.6875,0.6552
-2022-02-28 10:30:47.046796,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Karim Benzema,0.03210000000000002,0.9412,0.9091
-2022-02-28 11:30:44.751147,League One - England League One 2021/22 - Top 2 Finish,Sheffield Wednesday,0.0321,0.0909,0.0588
-2022-02-28 11:30:44.215063,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Bayer Leverkusen,0.03180000000000005,0.8889,0.8571
-2022-02-28 11:30:44.543827,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,FC Porto,0.03180000000000005,0.8889,0.8571
-2022-02-28 10:30:47.002987,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AS Roma,0.031,0.0588,0.0278
-2022-02-28 11:30:44.837147,League Two - England League Two 2021/22 - Top 3 Finish,Salford City,0.029299999999999993,0.0769,0.0476
-2022-02-28 11:30:44.451447,England Championship - England Championship 21/22 - Top 2 Finish,Blackburn Rovers,0.029299999999999993,0.0769,0.0476
 2022-02-28 12:30:36.537174,MLB Futures - MLB 2022 Lead Leaguers  - Most Home Runs in 2022,Joey Gallo,0.028399999999999995,0.0909,0.0625
-2022-02-28 10:30:46.981433,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Giovanni Simeone,0.028000000000000004,0.0476,0.0196
-2022-02-28 11:30:44.503030,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Darmstadt,0.027999999999999997,0.1818,0.1538
-2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Kansas,0.02779999999999999,0.2778,0.25
 2022-02-28 12:30:36.525460,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Oneil Cruz,0.02779999999999999,0.25,0.2222
+2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Kansas,0.02779999999999999,0.2778,0.25
 2022-02-28 14:30:58.692090,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Chicago Bulls,0.0262,0.9877,0.9615
-2022-02-28 10:30:47.383560,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Motherwell,0.025600000000000067,0.6923,0.6667
 2022-02-28 19:30:55.293035,MLB Futures - MLB 2022 League Leaders - Most Stolen Bases 2022,Adalberto Mondesi,0.02560000000000001,0.3333,0.3077
-2022-02-28 11:30:44.739942,League One - England League One 2021/22 - To Finish Bottom,Morecambe,0.024299999999999995,0.0588,0.0345
-2022-02-28 11:30:44.215063,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Union Berlin,0.024299999999999995,0.0769,0.0526
-2022-02-28 10:30:47.002987,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Atalanta,0.023800000000000043,0.5238,0.5
 2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Arizona,0.023799999999999988,0.3571,0.3333
-2022-02-28 11:30:44.215063,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Freiburg,0.023799999999999988,0.1667,0.1429
-2022-02-28 10:30:47.383560,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Dundee United,0.023799999999999988,0.5,0.4762
 2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Kentucky,0.023799999999999988,0.3571,0.3333
-2022-02-28 11:30:44.503030,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,St. Pauli,0.022199999999999998,0.2222,0.2
 2022-02-28 17:30:47.015205,94th Academy Awards - Best Costume Design - Outright,West Side Story (Paul Tazewell),0.022199999999999998,0.1333,0.1111
 2022-02-28 16:30:42.806500,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Gonzaga,0.022199999999999998,0.2222,0.2
 2022-02-28 14:30:58.692090,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Denver Nuggets,0.02200000000000002,0.9901,0.9681
 2022-02-28 12:30:36.549820,MLB Futures - MLB 2022 Lead Leaguers  - Most Stolen Bases 2022,Adalberto Mondesi,0.021999999999999964,0.3077,0.2857
-2022-02-28 11:30:44.208765,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Hertha BSC,0.021999999999999964,0.3077,0.2857
 2022-02-28 12:30:36.466592,MLB Futures - MLB 2022 National League Central - Outright,Milwaukee Brewers,0.02169999999999994,0.5455,0.5238
 2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Gonzaga,0.02169999999999994,0.5455,0.5238
 2022-02-28 16:30:43.723418,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Winning Division,Pacific Division,0.02100000000000002,0.3846,0.3636
 2022-02-28 12:30:36.452979,MLB Futures - MLB 2022 American League East - Outright,New York Yankees,0.020799999999999985,0.3333,0.3125
 2022-02-28 19:30:54.505008,College Basketball - Horizon League Conference Tournament Winner - Outright,Oakland,0.02049999999999999,0.1538,0.1333
 2022-02-28 17:30:47.066953,94th Academy Awards - Best Sound - Outright,"West Side Story (Tod A. Maitland, Gary Rydstrom, Brian Chumney, Andy Nelson and Shawn Murphy)",0.0204,0.2309,0.2105
-2022-02-28 10:30:46.927835,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lens,0.0203,0.0588,0.0385
-2022-02-28 10:30:46.992473,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Empoli,0.019800000000000005,0.0476,0.0278
+2022-02-28 21:31:29.106432,College Basketball - Southeastern Conference Winner - Southeastern Conference Winner,Kentucky,0.020000000000000004,0.0323,0.0123
 2022-02-28 17:30:47.027968,94th Academy Awards - Best Original Score - Outright,Dune (Hans Zimmer),0.019199999999999995,0.7692,0.75
 2022-02-28 14:30:58.604833,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,0.019000000000000017,0.2857,0.2667
 2022-02-28 17:30:47.053840,94th Academy Awards - Best Original Song - Outright,“No Time to Die” music and lyrics by Billie Eilish and Finneas,0.018999999999999906,0.7333,0.7143
-2022-02-28 11:30:44.215063,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,RB Leipzig,0.018999999999999906,0.7333,0.7143
-2022-02-28 10:30:47.543697,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Arsenal,0.01859999999999995,0.999,0.9804
-2022-02-28 10:30:47.208699,A-League - Australia A-League 2021/2022 - Grand Final Winner,Wellington Phoenix,0.018200000000000004,0.0476,0.0294
 2022-02-28 12:30:36.473349,MLB Futures - MLB 2022 National League East - Outright,New York Mets,0.018100000000000005,0.4348,0.4167
-2022-02-28 10:30:47.548905,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Wolverhampton Wanderers,0.018099999999999998,0.0769,0.0588
-2022-02-28 10:30:47.067933,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,0.016700000000000048,0.75,0.7333
 2022-02-28 14:30:58.878031,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.016700000000000048,0.75,0.7333
 2022-02-28 18:30:44.224848,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Donald Trump Sr.,0.016699999999999993,0.2667,0.25
-2022-02-28 10:30:46.461968,NFL Specials - Where will Aaron Rodgers Play Game 1 of the 2022/2023 NFL Season? - Outright,Denver Broncos,0.016699999999999993,0.2667,0.25
 2022-02-28 13:31:05.081750,Europa League - UEFA Europa League 2021/22 - Outright,FC Barcelona,0.016699999999999993,0.2667,0.25
 2022-02-28 12:30:36.473349,MLB Futures - MLB 2022 National League East - Outright,Atlanta Braves,0.016699999999999993,0.4167,0.4
-2022-02-28 10:30:46.992473,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Sampdoria,0.015700000000000006,0.1333,0.1176
 2022-02-28 14:30:58.853722,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.015100000000000002,0.1818,0.1667
 2022-02-28 14:30:58.615591,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,JB Bickerstaff (CLE),0.01469999999999999,0.25,0.2353
-2022-02-28 10:30:47.002987,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Fiorentina,0.0145,0.0244,0.0099
 2022-02-28 16:30:43.943676,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,0.014399999999999996,0.0769,0.0625
 2022-02-28 14:30:58.853722,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Chicago Bulls,0.014399999999999996,0.0769,0.0625
 2022-02-28 14:30:58.911113,NBA Futures - 2022 NBA Pacific Division - Division Winner,Phoenix Suns,0.014399999999999968,0.9375,0.9231
-2022-02-28 10:30:47.548905,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Everton,0.01429999999999998,0.9852,0.9709
-2022-02-28 11:30:44.837147,League Two - England League Two 2021/22 - Top 3 Finish,Bristol Rovers,0.014099999999999998,0.0385,0.0244
-2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Arkansas,0.013999999999999999,0.0909,0.0769
 2022-02-28 16:30:43.702654,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - State of Winning Team,Florida,0.013999999999999999,0.0909,0.0769
-2022-02-28 11:30:44.706112,League One - England League One 2021/22 - Top Goalscorer,Matt Taylor (Oxford Utd),0.013999999999999999,0.0909,0.0769
+2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Arkansas,0.013999999999999999,0.0909,0.0769
 2022-02-28 17:30:47.133374,94th Academy Awards - Odds to win Best Director - Outright,Jane Campion (The Power of the Dog,0.013900000000000023,0.8889,0.875
 2022-02-28 16:30:42.806500,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Kentucky,0.013899999999999996,0.125,0.1111
 2022-02-28 16:30:42.806500,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Arizona,0.013899999999999996,0.125,0.1111
 2022-02-28 16:30:43.952142,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Division of Winning Team,Southwest Division,0.013899999999999996,0.125,0.1111
-2022-02-28 11:30:44.751147,League One - England League One 2021/22 - Top 2 Finish,Oxford United,0.0131,0.0476,0.0345
+2022-02-28 23:31:02.922255,Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,0.013799999999999923,0.6364,0.6226
 2022-02-28 14:30:58.615591,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Monty Williams (PHO),0.0131,0.7778,0.7647
-2022-02-28 10:30:46.992473,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Bologna,0.013,0.0196,0.0066
-2022-02-28 11:30:44.739942,League One - England League One 2021/22 - To Finish Bottom,AFC Wimbledon,0.013,0.0196,0.0066
 2022-02-28 13:31:05.081750,Europa League - UEFA Europa League 2021/22 - Outright,FC Sevilla,0.012899999999999995,0.1667,0.1538
 2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Texas Tech,0.012899999999999995,0.1667,0.1538
-2022-02-28 10:30:47.548905,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Leeds United,0.012800000000000034,0.998,0.9852
-2022-02-28 11:30:44.196557,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,RB Leipzig,0.011199999999999995,0.0588,0.0476
-2022-02-28 11:30:44.543827,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Benfica,0.011199999999999995,0.0588,0.0476
-2022-02-28 10:30:46.904424,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lille,0.011199999999999995,0.0588,0.0476
 2022-02-28 14:30:58.899923,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,0.011099999999999999,0.9,0.8889
 2022-02-28 14:30:58.758193,NBA Season Props - 2021/22 NBA Regular Season Team Wins - GS Warriors Regular Season WIns,Under 55.5,0.01100000000000001,0.5348,0.5238
-2022-02-28 16:30:42.806500,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Kansas,0.0102,0.0769,0.0667
 2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Connecticut,0.0102,0.0769,0.0667
+2022-02-28 16:30:42.806500,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Kansas,0.0102,0.0769,0.0667
 2022-02-28 16:30:44.331234,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Jabari Smith Jr.,-0.010100000000000001,0.0244,0.0345
 2022-02-28 17:30:47.133374,94th Academy Awards - Odds to win Best Director - Outright,Ryusuke Hamaguchi (Drive My Car),-0.0102,0.0667,0.0769
 2022-02-28 14:30:58.630905,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,-0.010499999999999982,0.2,0.2105
 2022-02-28 19:30:55.293035,MLB Futures - MLB 2022 League Leaders - Most Stolen Bases 2022,Starling Marte,-0.010499999999999982,0.2,0.2105
 2022-02-28 14:30:58.758193,NBA Season Props - 2021/22 NBA Regular Season Team Wins - GS Warriors Regular Season WIns,Over 55.5,-0.010699999999999932,0.5348,0.5455
 2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Houston,-0.010899999999999993,0.1429,0.1538
-2022-02-28 11:30:44.706112,League One - England League One 2021/22 - Top Goalscorer,Michael Smith (Rotherham),-0.010899999999999993,0.1429,0.1538
 2022-02-28 16:30:43.987726,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,-0.011099999999999999,0.8889,0.9
-2022-02-28 10:30:47.067933,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Sevilla,-0.011199999999999988,0.9412,0.9524
-2022-02-28 13:31:05.081750,Europa League - UEFA Europa League 2021/22 - Outright,Lyon,-0.011199999999999995,0.0476,0.0588
-2022-02-28 11:30:44.706112,League One - England League One 2021/22 - Top Goalscorer,Alfie May (Cheltenham),-0.011199999999999995,0.0476,0.0588
 2022-02-28 14:30:58.878031,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Brooklyn Nets,-0.011199999999999995,0.0476,0.0588
-2022-02-28 10:30:46.478534,NFL Specials - Who will be the Pittsburgh Steelers Starting QB for Game 1 of the 2022-2023 Season? - Outright,Dwayne Haskins,-0.011700000000000016,0.2105,0.2222
+2022-02-28 13:31:05.081750,Europa League - UEFA Europa League 2021/22 - Outright,Lyon,-0.011199999999999995,0.0476,0.0588
 2022-02-28 16:30:44.331234,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,E.J. Liddell,-0.012100000000000001,0.0123,0.0244
-2022-02-28 10:30:47.367415,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Livingston,-0.012100000000000001,0.0123,0.0244
 2022-02-28 12:30:36.446117,MLB Futures - MLB 2022 American League Central - Outright,Minnesota Twins,-0.012299999999999991,0.1053,0.1176
 2022-02-28 12:30:36.525460,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Joey Bart,-0.012299999999999991,0.1053,0.1176
 2022-02-28 16:30:42.684875,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Matt Corral,-0.012700000000000003,0.0196,0.0323
 2022-02-28 19:30:55.293035,MLB Futures - MLB 2022 League Leaders - Most Stolen Bases 2022,Ronald Acuna Jr..,-0.012899999999999995,0.1538,0.1667
 2022-02-28 16:30:44.331234,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Drew Timme,-0.012999999999999998,0.0164,0.0294
-2022-02-28 17:30:47.066953,94th Academy Awards - Best Sound - Outright,"Belfast (Denise Yarde, Simon Chase, James Mather and Niv Adiri)",-0.0131,0.0345,0.0476
-2022-02-28 11:30:44.851986,League Two - England League Two 2021/22 - Top 7 Finish,Hartlepool United,-0.0131,0.0345,0.0476
 2022-02-28 16:30:42.949180,Canada Political Specials - Who will be the next leader of the of the Conservative Party Of Canada - Outright,Jean Charest,-0.0131,0.2222,0.2353
+2022-02-28 17:30:47.066953,94th Academy Awards - Best Sound - Outright,"Belfast (Denise Yarde, Simon Chase, James Mather and Niv Adiri)",-0.0131,0.0345,0.0476
 2022-02-28 16:30:43.702654,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - State of Winning Team,California,-0.01319999999999999,0.25,0.2632
 2022-02-28 14:30:58.911113,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.013899999999999996,0.1111,0.125
-2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Alabama,-0.013899999999999996,0.1111,0.125
 2022-02-28 14:30:58.615591,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Erik Spoelstra (MIA),-0.013899999999999996,0.1111,0.125
+2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Alabama,-0.013899999999999996,0.1111,0.125
 2022-02-28 14:30:58.648856,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Darius Garland,-0.013999999999999999,0.0769,0.0909
-2022-02-28 11:30:44.279045,MLS - MLS Cup 2022 - Outright,Sporting Kansas City,-0.013999999999999999,0.0769,0.0909
-2022-02-28 16:30:42.806500,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Duke,-0.013999999999999999,0.0769,0.0909
 2022-02-28 16:30:42.806500,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Auburn,-0.013999999999999999,0.0769,0.0909
-2022-02-28 10:30:47.548905,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Crystal Palace,-0.014000000000000012,0.9091,0.9231
+2022-02-28 16:30:42.806500,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Duke,-0.013999999999999999,0.0769,0.0909
 2022-02-28 13:31:05.081750,Europa League - UEFA Europa League 2021/22 - Outright,FC Porto,-0.014099999999999994,0.0526,0.0667
-2022-02-28 11:30:44.202595,Germany Bundesliga - German Bundesliga 2021/22 - Top Goalscorer,Patrik Schick,-0.014099999999999998,0.0244,0.0385
-2022-02-28 10:30:46.981433,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Edin Dzeko,-0.014099999999999998,0.0244,0.0385
 2022-02-28 17:30:47.053840,94th Academy Awards - Best Original Song - Outright,“Somehow You Do” music and lyrics by Diane Warren (Four Good Days),-0.014099999999999998,0.0244,0.0385
 2022-02-28 17:30:46.968825,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Doja Cat ft. SZA - Kiss Me More,-0.014100000000000001,0.0385,0.0526
 2022-02-28 17:30:47.146866,94th Academy Awards - Odds to win Best Picture - Outright,Licorice Pizza,-0.014100000000000001,0.0385,0.0526
 2022-02-28 14:30:58.604833,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Ja Morant,-0.014399999999999996,0.0625,0.0769
-2022-02-28 10:30:47.538396,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Brighton & Hove Albion,-0.014499999999999999,0.0149,0.0294
-2022-02-28 14:30:58.692090,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Sacramento Kings,-0.014899999999999997,0.0476,0.0625
 2022-02-28 12:30:36.549820,MLB Futures - MLB 2022 Lead Leaguers  - Most Stolen Bases 2022,Bo Bichette,-0.014899999999999997,0.0476,0.0625
+2022-02-28 14:30:58.692090,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Sacramento Kings,-0.014899999999999997,0.0476,0.0625
 2022-02-28 16:30:42.806500,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Illinois,-0.014900000000000004,0.0196,0.0345
-2022-02-28 10:30:47.356746,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Aberdeen,-0.014900000000000004,0.0196,0.0345
-2022-02-28 14:30:58.604833,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,-0.015100000000000002,0.1667,0.1818
-2022-02-28 10:30:46.904424,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Nice,-0.015100000000000002,0.1667,0.1818
-2022-02-28 14:30:58.899923,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,-0.015100000000000002,0.1667,0.1818
 2022-02-28 12:30:36.480127,MLB Futures - MLB 2022 National League West - Outright,San Francisco Giants,-0.015100000000000002,0.1667,0.1818
-2022-02-28 10:30:47.377025,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Motherwell,-0.015400000000000025,0.3846,0.4
-2022-02-28 16:30:42.949180,Canada Political Specials - Who will be the next leader of the of the Conservative Party Of Canada - Outright,Leslyn Lewis,-0.015700000000000006,0.1176,0.1333
+2022-02-28 14:30:58.899923,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,-0.015100000000000002,0.1667,0.1818
+2022-02-28 14:30:58.604833,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,-0.015100000000000002,0.1667,0.1818
 2022-02-28 14:30:58.648856,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Miles Bridges,-0.015700000000000006,0.1176,0.1333
-2022-02-28 14:30:58.853722,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.015899999999999997,0.2222,0.2381
+2022-02-28 16:30:42.949180,Canada Political Specials - Who will be the next leader of the of the Conservative Party Of Canada - Outright,Leslyn Lewis,-0.015700000000000006,0.1176,0.1333
 2022-02-28 14:30:58.853722,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.015899999999999997,0.2222,0.2381
-2022-02-28 16:30:42.949180,Canada Political Specials - Who will be the next leader of the of the Conservative Party Of Canada - Outright,Caroline Mulroney,-0.016600000000000004,0.0667,0.0833
+2022-02-28 14:30:58.853722,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.015899999999999997,0.2222,0.2381
 2022-02-28 16:30:42.949180,Canada Political Specials - Who will be the next leader of the of the Conservative Party Of Canada - Outright,Rona Ambrose,-0.016600000000000004,0.0667,0.0833
-2022-02-28 10:30:47.377025,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Dundee United,-0.016699999999999937,0.5833,0.6
-2022-02-28 11:30:44.837147,League Two - England League Two 2021/22 - Top 3 Finish,Tranmere Rovers,-0.016699999999999993,0.25,0.2667
-2022-02-28 10:30:47.057654,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,-0.016699999999999993,0.25,0.2667
-2022-02-28 10:30:47.538396,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Wolverhampton Wanderers,-0.016699999999999993,0.25,0.2667
+2022-02-28 16:30:42.949180,Canada Political Specials - Who will be the next leader of the of the Conservative Party Of Canada - Outright,Caroline Mulroney,-0.016600000000000004,0.0667,0.0833
 2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Seton Hall,-0.0168,0.0217,0.0385
 2022-02-28 16:30:44.331234,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Johnny Juzang,-0.017800000000000003,0.0066,0.0244
-2022-02-28 12:30:36.549820,MLB Futures - MLB 2022 Lead Leaguers  - Most Stolen Bases 2022,Trea Turner,-0.0179,0.125,0.1429
-2022-02-28 14:30:58.630905,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Jaren Jackson Jr.,-0.0179,0.125,0.1429
-2022-02-28 11:30:44.279045,MLS - MLS Cup 2022 - Outright,Seattle Sounders,-0.0179,0.125,0.1429
-2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Tennessee,-0.0179,0.125,0.1429
 2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Ohio State,-0.0179,0.125,0.1429
-2022-02-28 11:30:44.851986,League Two - England League Two 2021/22 - Top 7 Finish,Northampton Town,-0.017900000000000027,0.8571,0.875
-2022-02-28 11:30:44.851986,League Two - England League Two 2021/22 - Top 7 Finish,Exeter City,-0.017900000000000027,0.8571,0.875
-2022-02-28 10:30:46.981433,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Lautaro Martinez,-0.018200000000000004,0.0294,0.0476
+2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Tennessee,-0.0179,0.125,0.1429
+2022-02-28 14:30:58.630905,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Jaren Jackson Jr.,-0.0179,0.125,0.1429
+2022-02-28 12:30:36.549820,MLB Futures - MLB 2022 Lead Leaguers  - Most Stolen Bases 2022,Trea Turner,-0.0179,0.125,0.1429
 2022-02-28 17:30:47.079631,94th Academy Awards - Best Supporting Actor - Outright,Jesse Plemons (The Power of the Dog),-0.018200000000000004,0.0294,0.0476
-2022-02-28 11:30:44.739942,League One - England League One 2021/22 - To Finish Bottom,Gillingham,-0.01820000000000002,0.1818,0.2
 2022-02-28 14:30:58.839907,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.01820000000000002,0.1818,0.2
+2022-02-28 23:31:02.127033,College Basketball - Horizon League Conference Tournament Winner - Outright,IPFW,-0.01820000000000002,0.1818,0.2
+2022-02-28 21:31:29.106432,College Basketball - Southeastern Conference Winner - Southeastern Conference Winner,Tennessee,-0.01820000000000002,0.1818,0.2
 2022-02-28 17:30:47.053840,94th Academy Awards - Best Original Song - Outright,“Dos Oruguitas” music and lyrics by Lin-Manuel Miranda (Encanto),-0.018400000000000027,0.2941,0.3125
-2022-02-28 10:30:46.916155,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Lionel Messi,-0.0189,0.0196,0.0385
-2022-02-28 10:30:47.543697,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Tottenham Hotspur,-0.018900000000000028,0.9615,0.9804
-2022-02-28 10:30:47.046796,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Vinicius Junior,-0.019099999999999992,0.0476,0.0667
-2022-02-28 11:30:44.208765,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Wolfsburg,-0.019099999999999992,0.0476,0.0667
 2022-02-28 16:30:44.331234,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Jaden Ivey,-0.019099999999999995,0.0244,0.0435
 2022-02-28 17:30:47.015205,94th Academy Awards - Best Costume Design - Outright,Dune (Jacqueline West and Robert Morgan),-0.019100000000000006,0.2309,0.25
 2022-02-28 17:30:46.556449,College Basketball - Horizon League Conference Tournament Winner - Outright,Cleveland State,-0.019600000000000006,0.303,0.3226
 2022-02-28 17:30:47.146866,94th Academy Awards - Odds to win Best Picture - Outright,West Side Story,-0.02020000000000001,0.0909,0.1111
 2022-02-28 16:30:42.684875,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Kayvon Thibodeaux,-0.02020000000000001,0.0909,0.1111
 2022-02-28 13:31:05.081750,Europa League - UEFA Europa League 2021/22 - Outright,Rangers,-0.0203,0.0385,0.0588
-2022-02-28 11:30:44.503030,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Heidenheim,-0.0203,0.0385,0.0588
-2022-02-28 10:30:47.356746,Premiership - Scottish Premiership 2021/22 - Winner without Celtic & Rangers,Hibernian,-0.0203,0.0385,0.0588
-2022-02-28 11:30:44.215063,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,FC Köln,-0.0203,0.0385,0.0588
-2022-02-28 10:30:46.927835,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Nice,-0.02100000000000002,0.3636,0.3846
-2022-02-28 11:30:44.464840,England Championship - England Championship 21/22 - Top 6 Finish,West Bromwich Albion,-0.021999999999999964,0.2857,0.3077
-2022-02-28 10:30:47.057654,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,-0.022199999999999998,0.2,0.2222
 2022-02-28 19:30:54.505008,College Basketball - Horizon League Conference Tournament Winner - Outright,IPFW,-0.022199999999999998,0.2,0.2222
-2022-02-28 10:30:47.208699,A-League - Australia A-League 2021/2022 - Grand Final Winner,Melbourne Victory,-0.022199999999999998,0.2,0.2222
-2022-02-28 11:30:44.751147,League One - England League One 2021/22 - Top 2 Finish,Wycombe,-0.0228,0.0066,0.0294
 2022-02-28 17:30:47.146866,94th Academy Awards - Odds to win Best Picture - Outright,Drive My Car,-0.023200000000000002,0.0244,0.0476
 2022-02-28 16:30:44.331234,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Chet Holmgren,-0.023200000000000002,0.0244,0.0476
-2022-02-28 11:30:44.451447,England Championship - England Championship 21/22 - Top 2 Finish,Queens Park Rangers,-0.023200000000000002,0.0244,0.0476
 2022-02-28 14:30:58.604833,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,-0.023800000000000043,0.5,0.5238
 2022-02-28 18:30:44.195488,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Mike Pompeo,-0.024,0.0385,0.0625
-2022-02-28 11:30:44.851986,League Two - England League Two 2021/22 - Top 7 Finish,Harrogate Town,-0.0242,0.0667,0.0909
 2022-02-28 14:30:58.878031,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Toronto Raptors,-0.024299999999999995,0.0526,0.0769
 2022-02-28 16:30:44.331234,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Paolo Banchero,-0.024600000000000004,0.0099,0.0345
 2022-02-28 17:30:47.002445,94th Academy Awards - Best Adapted Screenplay - Outright,CODA (screenplay by Siân Heder),-0.024999999999999994,0.1,0.125
 2022-02-28 17:30:47.107053,94th Academy Awards - Odds to win Best Actor - Outright,"Andrew Garfield (Tick, Tick... Boom!)",-0.024999999999999994,0.1,0.125
-2022-02-28 10:30:47.057654,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Elche,-0.0267,0.0909,0.1176
+2022-02-28 23:31:02.922255,Italy Serie A - Italy Serie A 2021/2022 - Outright,Juventus,-0.026899999999999993,0.05,0.0769
 2022-02-28 16:30:44.331234,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Bennedict Mathurin,-0.027099999999999996,0.0164,0.0435
+2022-02-28 23:31:02.922255,Italy Serie A - Italy Serie A 2021/2022 - Outright,AC Milan,-0.027999999999999997,0.1538,0.1818
 2022-02-28 17:30:47.146866,94th Academy Awards - Odds to win Best Picture - Outright,Don't Look Up,-0.028000000000000004,0.0196,0.0476
-2022-02-28 10:30:46.992473,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Salernitana,-0.02859999999999996,0.9615,0.9901
-2022-02-28 10:30:47.268555,Superligaen - Denmark Superligaen 2021/22 - Outright,Aalborg BK,-0.028599999999999997,0.0149,0.0435
 2022-02-28 12:30:36.549820,MLB Futures - MLB 2022 Lead Leaguers  - Most Stolen Bases 2022,Whit Merrifield,-0.028700000000000003,0.1818,0.2105
-2022-02-28 11:30:44.533498,Serie B - Italy Serie B 2021/22 - Outright,Pisa,-0.029299999999999993,0.0476,0.0769
 2022-02-28 17:30:47.002445,94th Academy Awards - Best Adapted Screenplay - Outright,Dune (screenplay by Jon Spaihts and Denis Villeneuve,-0.029299999999999993,0.0476,0.0769
-2022-02-28 11:30:44.533498,Serie B - Italy Serie B 2021/22 - Outright,Frosinone,-0.0294,0.0294,0.0588
-2022-02-28 11:30:44.215063,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Mainz,-0.0294,0.0294,0.0588
-2022-02-28 10:30:47.067933,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Athletic Bilbao,-0.0294,0.0294,0.0588
 2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Texas,-0.031799999999999995,0.1111,0.1429
-2022-02-28 11:30:44.451447,England Championship - England Championship 21/22 - Top 2 Finish,Middlesbrough,-0.03219999999999999,0.0345,0.0667
 2022-02-28 16:30:43.723418,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Winning Division,Atlantic Division,-0.032299999999999995,0.3125,0.3448
-2022-02-28 11:30:44.837147,League Two - England League Two 2021/22 - Top 3 Finish,Swindon Town,-0.033300000000000024,0.1667,0.2
 2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Illinois,-0.033399999999999985,0.1333,0.1667
 2022-02-28 16:30:44.331234,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Ochai Agbaji,-0.03420000000000001,0.0769,0.1111
 2022-02-28 14:30:58.818907,NBA Season Props - 2021/22 NBA Regular Season Team Wins - UTA Jazz Regular Season Wins,Under 51.5,-0.03489999999999999,0.4651,0.5
-2022-02-28 11:30:44.851986,League Two - England League Two 2021/22 - Top 7 Finish,Tranmere Rovers,-0.035699999999999954,0.7143,0.75
-2022-02-28 11:30:44.215063,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Hoffenheim,-0.03570000000000001,0.25,0.2857
-2022-02-28 11:30:44.851986,League Two - England League Two 2021/22 - Top 7 Finish,Bristol Rovers,-0.03570000000000001,0.25,0.2857
 2022-02-28 17:30:46.968825,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Tony Bennett & Lady Gaga - I Get a Kick Out of You,-0.03710000000000002,0.3333,0.3704
 2022-02-28 17:30:46.618730,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Michigan,-0.0384,0.0385,0.0769
-2022-02-28 11:30:44.543827,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Sporting CP,-0.03889999999999999,0.1429,0.1818
 2022-02-28 12:30:36.549820,MLB Futures - MLB 2022 Lead Leaguers  - Most Stolen Bases 2022,Starling Marte,-0.03950000000000001,0.2105,0.25
-2022-02-28 10:30:47.002987,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Juventus,-0.04039999999999999,0.7778,0.8182
 2022-02-28 14:30:58.692090,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Charlotte Hornets,-0.04040000000000002,0.1818,0.2222
-2022-02-28 10:30:47.057654,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Alavés,-0.040999999999999925,0.6923,0.7333
 2022-02-28 14:30:58.740532,NBA Season Props - 2021/22 NBA Regular Season Team Wins - DAL Mavericks Regular Season Wins,Under 48.5,-0.04139999999999999,0.5238,0.5652
 2022-02-28 17:30:47.066953,94th Academy Awards - Best Sound - Outright,"No Time to Die (Simon Hayes, Oliver Tarney, James Harrison, Paul Massey and Mark Taylor)",-0.0417,0.0833,0.125
 2022-02-28 16:30:44.331234,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Keegan Murray,-0.0417,0.0833,0.125
 2022-02-28 14:30:58.692090,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,New York Knicks,-0.04229999999999999,0.0244,0.0667
 2022-02-28 14:30:58.630905,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,-0.04269999999999999,0.1111,0.1538
-2022-02-28 11:30:44.739942,League One - England League One 2021/22 - To Finish Bottom,Doncaster Rovers,-0.043200000000000016,0.3077,0.3509
-2022-02-28 11:30:44.706112,League One - England League One 2021/22 - Top Goalscorer,Will Keane (Wigan),-0.04440000000000001,0.0667,0.1111
 2022-02-28 17:30:47.107053,94th Academy Awards - Odds to win Best Actor - Outright,Benedict Cumberbatch (The Power of the Dog),-0.044499999999999984,0.2222,0.2667
-2022-02-28 11:30:44.837147,League Two - England League Two 2021/22 - Top 3 Finish,Exeter City,-0.045499999999999985,0.4545,0.5
 2022-02-28 14:30:58.810457,NBA Season Props - 2021/22 NBA Regular Season Team Wins - SA Spurs Regular Season Wins,Under 33.5,-0.045499999999999985,0.5,0.5455
-2022-02-28 11:30:44.208765,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Augsburg,-0.047599999999999976,0.2857,0.3333
-2022-02-28 10:30:46.916155,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Wissam Ben Yedder,-0.047599999999999976,0.2857,0.3333
-2022-02-28 10:30:47.208699,A-League - Australia A-League 2021/2022 - Grand Final Winner,Sydney FC,-0.048100000000000004,0.0769,0.125
-2022-02-28 10:30:47.367415,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Ross County,-0.048100000000000004,0.0769,0.125
-2022-02-28 11:30:44.451447,England Championship - England Championship 21/22 - Top 2 Finish,Sheffield United,-0.048100000000000004,0.0769,0.125
-2022-02-28 11:30:44.801873,League Two - England League Two 2021/22 - Top Goalscorer,Jamille Matt (Forest Green),-0.04849999999999999,0.1333,0.1818
 2022-02-28 16:30:44.331234,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Johnny Davis,-0.04909999999999999,0.1176,0.1667
-2022-02-28 11:30:44.562071,Premier League - Russia Premier League 2021/2022 - Outright,Zenit St. Petersburg,-0.050000000000000044,0.75,0.8
 2022-02-28 17:30:47.002445,94th Academy Awards - Best Adapted Screenplay - Outright,"Drive My Car (screenplay by Ryusuke Hamaguchi, Takamasa Oe)",-0.052300000000000006,0.0588,0.1111
-2022-02-28 10:30:47.036711,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Real Betis,-0.052300000000000006,0.0588,0.1111
-2022-02-28 11:30:44.533498,Serie B - Italy Serie B 2021/22 - Outright,Monza,-0.052300000000000006,0.0588,0.1111
-2022-02-28 10:30:46.904424,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Monaco,-0.052300000000000006,0.0588,0.1111
-2022-02-28 11:30:44.503030,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Hamburger SV,-0.05550000000000002,0.1667,0.2222
-2022-02-28 11:30:44.762720,League One - England League One 2021/22 - Top 6 Finish,Portsmouth,-0.05559999999999998,0.1111,0.1667
-2022-02-28 10:30:46.904424,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lyon,-0.05559999999999998,0.1111,0.1667
-2022-02-28 11:30:44.706112,League One - England League One 2021/22 - Top Goalscorer,Cole Stockton (Morecambe),-0.05559999999999998,0.1111,0.1667
-2022-02-28 10:30:46.916155,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Jonathan David,-0.05559999999999998,0.1111,0.1667
-2022-02-28 11:30:44.751147,League One - England League One 2021/22 - Top 2 Finish,Wigan Athletic,-0.05679999999999996,0.8182,0.875
-2022-02-28 10:30:46.992473,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Genoa,-0.05899999999999994,0.9091,0.9681
-2022-02-28 10:30:46.904424,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Marseille,-0.06190000000000001,0.3636,0.4255
 2022-02-28 16:30:43.952142,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Division of Winning Team,Northwest Division,-0.06319999999999998,0.2,0.2632
-2022-02-28 11:30:44.196557,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Borussia Dortmund,-0.0635,0.8889,0.9524
-2022-02-28 11:30:44.762720,League One - England League One 2021/22 - Top 6 Finish,Ipswich Town,-0.06420000000000001,0.1667,0.2309
-2022-02-28 11:30:44.533498,Serie B - Italy Serie B 2021/22 - Outright,Brescia,-0.06420000000000001,0.1667,0.2309
-2022-02-28 11:30:44.837147,League Two - England League Two 2021/22 - Top 3 Finish,Northampton Town,-0.06519999999999998,0.4348,0.5
-2022-02-28 11:30:44.464840,England Championship - England Championship 21/22 - Top 6 Finish,Sheffield United,-0.06659999999999999,0.6667,0.7333
-2022-02-28 11:30:44.464840,England Championship - England Championship 21/22 - Top 6 Finish,Coventry City,-0.06669999999999998,0.2,0.2667
-2022-02-28 10:30:46.927835,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Marseille,-0.06700000000000006,0.5556,0.6226
-2022-02-28 11:30:44.503030,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Schalke 04,-0.06840000000000002,0.1538,0.2222
-2022-02-28 10:30:47.548905,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Southampton,-0.06929999999999997,0.4762,0.5455
-2022-02-28 10:30:46.992473,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Cagliari,-0.07450000000000001,0.4255,0.5
-2022-02-28 11:30:44.762720,League One - England League One 2021/22 - Top 6 Finish,Bolton Wanderers,-0.07579999999999999,0.0909,0.1667
 2022-02-28 17:30:47.120315,94th Academy Awards - Odds to win Best Actress - Outright,Nicole Kidman (Being the Ricardos),-0.07619999999999999,0.4,0.4762
 2022-02-28 16:30:42.647111,NFL Specials - 2022 NFL Combine - Position of Player Fastest 40 Yard Dash Time - Outright,Wide receiver,-0.07619999999999999,0.4,0.4762
-2022-02-28 10:30:47.067933,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Betis,-0.07690000000000002,0.3077,0.3846
-2022-02-28 11:30:44.464840,England Championship - England Championship 21/22 - Top 6 Finish,Queens Park Rangers,-0.07939999999999997,0.4762,0.5556
-2022-02-28 11:30:44.762720,League One - England League One 2021/22 - Top 6 Finish,Plymouth Argyle,-0.08080000000000004,0.3636,0.4444
 2022-02-28 17:30:47.079631,94th Academy Awards - Best Supporting Actor - Outright,Ciaran Hinds (Belfast),-0.08179999999999998,0.1,0.1818
 2022-02-28 17:30:47.002445,94th Academy Awards - Best Adapted Screenplay - Outright,The Power of the Dog (written by Jane Campion),-0.08330000000000004,0.75,0.8333
-2022-02-28 11:30:44.851986,League Two - England League Two 2021/22 - Top 7 Finish,Swindon Town,-0.08339999999999992,0.5833,0.6667
-2022-02-28 11:30:44.801873,League Two - England League Two 2021/22 - Top Goalscorer,Mathew Stevens (Forest Green),-0.0842,0.2667,0.3509
-2022-02-28 10:30:47.377025,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Livingston,-0.0857,0.7143,0.8
 2022-02-28 16:30:44.331234,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Kofi Cockburn,-0.08979999999999999,0.0769,0.1667
 2022-02-28 14:30:58.692090,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Washington Wizards,-0.0927,0.0323,0.125
-2022-02-28 10:30:47.377025,Premiership - Scottish Premiership 2021/22 - Bottom 6 Finish,Hibernian,-0.09889999999999999,0.2857,0.3846
-2022-02-28 10:30:47.383560,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,St. Mirren,-0.09999999999999998,0.4,0.5
 2022-02-28 17:30:47.092535,94th Academy Awards - Best Supporting Actress - Outright,Kirsten Dunst (The Power of the Dog),-0.1,0.1667,0.2667
-2022-02-28 10:30:46.981433,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Ciro Immobile,-0.10109999999999997,0.4444,0.5455
-2022-02-28 11:30:44.851986,League Two - England League Two 2021/22 - Top 7 Finish,Leyton Orient,-0.1027,0.0149,0.1176
 2022-02-28 14:30:58.793110,NBA Season Props - 2021/22 NBA Regular Season Team Wins - NO Pelicans Regular Season Wins,Under 35.5,-0.1058,0.5238,0.6296
-2022-02-28 11:30:44.464840,England Championship - England Championship 21/22 - Top 6 Finish,Stoke City,-0.10619999999999999,0.0476,0.1538
 2022-02-28 16:30:43.923616,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Division of Winning Team,Atlantic Division,-0.10970000000000002,0.5455,0.6552
 2022-02-28 17:30:47.079631,94th Academy Awards - Best Supporting Actor - Outright,Kodi Smit-McPhee (The Power of the Dog),-0.11069999999999991,0.6226,0.7333
-2022-02-28 10:30:47.548905,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Aston Villa,-0.11069999999999991,0.6226,0.7333
-2022-02-28 10:30:47.057654,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Getafe,-0.1111,0.1111,0.2222
 2022-02-28 17:30:47.120315,94th Academy Awards - Odds to win Best Actress - Outright,Kristen Stewart (Spencer),-0.1129,0.1538,0.2667
 2022-02-28 17:30:47.120315,94th Academy Awards - Odds to win Best Actress - Outright,Olivia Colman (The Lost Daughter),-0.1129,0.1538,0.2667
-2022-02-28 10:30:46.927835,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lyon,-0.11359999999999998,0.25,0.3636
-2022-02-28 10:30:46.927835,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Monaco,-0.1238,0.1429,0.2667
-2022-02-28 10:30:47.383560,Premiership - Scottish Premiership 2021/22 - Top 6 Finish,Aberdeen,-0.12880000000000003,0.4545,0.5833
-2022-02-28 11:30:44.464840,England Championship - England Championship 21/22 - Top 6 Finish,Middlesbrough,-0.13639999999999997,0.5,0.6364
-2022-02-28 10:30:47.268555,Superligaen - Denmark Superligaen 2021/22 - Outright,FC Midtjylland,-0.13670000000000004,0.3077,0.4444
 2022-02-28 16:30:43.702654,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - State of Winning Team,New York,-0.1797,0.1429,0.3226
-2022-02-28 11:30:44.762720,League One - England League One 2021/22 - Top 6 Finish,Wycombe,-0.19050000000000006,0.3333,0.5238
 2022-02-28 14:30:58.721718,NBA Season Props - 2021/22 NBA Regular Season Team Wins - CHA Hornets Regular Season Wins,Under 38.5,-0.19169999999999998,0.4,0.5917
