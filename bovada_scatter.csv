@@ -1,11 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-28 02:30:38.430091,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,0.09040000000000004,0.5348,0.4444
-2022-02-27 21:30:42.995380,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Manchester United,0.08330000000000004,0.75,0.6667
 2022-02-28 07:31:18.268045,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.06659999999999999,0.7333,0.6667
 2022-02-28 00:30:45.414002,NBL - NBL 2021/22 - Outright,Sydney Kings,0.05350000000000002,0.2353,0.1818
 2022-02-28 03:30:35.671446,Italy Serie A - Italy Serie A 2021/2022 - Outright,Napoli,0.05080000000000001,0.2326,0.1818
 2022-02-28 06:30:44.850292,NFL Specials - 2022 NFL Combine - Position of Player Fastest 40 Yard Dash Time - Outright,Cornerback,0.0393,0.4167,0.3774
-2022-02-27 21:30:42.995380,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Chelsea,0.024299999999999995,0.0769,0.0526
 2022-02-28 06:30:44.716088,NFL Specials - 2022 NFL Combine - Fastest 20-Yard Shuttle to break Jason Allen & Brandin Cooks Combine Record - Outright,No (Slower Than 3.81 Seconds),0.018399999999999972,0.7059,0.6875
 2022-02-28 05:30:45.186470,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Taylor Jenkins (MEM),0.0179,0.1429,0.125
 2022-02-28 06:30:44.727913,NFL Specials - 2022 NFL Combine - Fastest 40 Yard Dash Time - Outright,Faster than 4.29 seconds,0.017299999999999982,0.5917,0.5744
@@ -25,7 +23,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-27 22:30:39.559338,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.011899999999999994,0.2381,0.25
 2022-02-28 03:30:35.671446,Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,-0.013799999999999923,0.6226,0.6364
 2022-02-28 07:31:18.268045,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Toronto Raptors,-0.013999999999999999,0.0769,0.0909
-2022-02-27 21:30:42.995380,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,West Ham United,-0.014100000000000001,0.9615,0.9756
 2022-02-28 06:30:44.716088,NFL Specials - 2022 NFL Combine - Fastest 20-Yard Shuttle to break Jason Allen & Brandin Cooks Combine Record - Outright,Yes (Faster Than 3.81 Seconds),-0.01479999999999998,0.3774,0.3922
 2022-02-28 03:30:35.671446,Italy Serie A - Italy Serie A 2021/2022 - Outright,AC Milan,-0.01820000000000002,0.1818,0.2
 2022-02-28 07:31:18.268045,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,-0.019000000000000017,0.2667,0.2857
@@ -34,5 +31,3 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-02-28 08:30:53.704520,NBA Season Props - 2021/22 NBA Awards - 2022 The Sixth Man,Kelly Oubre Jr.,-0.029299999999999993,0.0476,0.0769
 2022-02-28 00:30:45.414002,NBL - NBL 2021/22 - Outright,Perth Wildcats,-0.031399999999999983,0.2353,0.2667
 2022-02-28 02:30:38.430091,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,-0.03570000000000001,0.25,0.2857
-2022-02-27 21:30:42.995380,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Tottenham Hotspur,-0.04169999999999996,0.8333,0.875
-2022-02-27 21:30:42.995380,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Arsenal,-0.0595,0.5238,0.5833
