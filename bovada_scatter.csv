@@ -1,10 +1,12 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-01 13:31:19.500357,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Ja Morant,0.08040000000000003,0.9375,0.8571
 2022-03-01 11:30:54.546942,England Championship - England Championship 21/22 - Top 6 Finish,Luton Town,0.044399999999999995,0.4444,0.4
+2022-03-01 14:31:12.004190,Boxing Lines - Liam Williams vs Joe Noynay - To Win the Bout,Joe Noynay,0.04410000000000003,0.75,0.7059
 2022-03-01 13:31:19.661892,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,0.04139999999999999,0.4762,0.4348
 2022-03-01 05:30:57.938013,94th Academy Awards - Best Supporting Actor - Outright,Troy Kotsur (CODA),0.039600000000000024,0.4651,0.4255
-2022-03-01 11:30:54.668368,Premier League - Russia Premier League 2021/2022 - Outright,Zenit St. Petersburg,0.027800000000000047,0.7778,0.75
+2022-03-01 14:31:12.650255,94th Academy Awards - Best Supporting Actor - Outright,Troy Kotsur (CODA),0.03489999999999999,0.5,0.4651
 2022-03-01 13:31:19.643810,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.027800000000000047,0.7778,0.75
+2022-03-01 11:30:54.668368,Premier League - Russia Premier League 2021/2022 - Outright,Zenit St. Petersburg,0.027800000000000047,0.7778,0.75
 2022-03-01 11:30:54.546942,England Championship - England Championship 21/22 - Top 6 Finish,Middlesbrough,0.023800000000000043,0.5238,0.5
 2022-03-01 09:30:45.119120,NFL Specials - 2022 NFL Combine - Position of Player Fastest 40 Yard Dash Time - Outright,Cornerback,0.023800000000000043,0.5238,0.5
 2022-03-01 13:31:18.067883,Boxing Lines - Joet Gonzalez vs Jeo Santisima - To Win the Bout,Jeo Santisima,0.023800000000000016,0.1905,0.1667
@@ -21,23 +23,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-01 11:30:54.546942,England Championship - England Championship 21/22 - Top 6 Finish,Millwall,0.015100000000000002,0.1818,0.1667
 2022-03-01 13:31:21.033994,NFL Specials - 2022 NFL Combine - Fastest 40 Yard Dash Time - Outright,Faster than 4.29 seconds,0.014200000000000101,0.6296,0.6154
 2022-03-01 11:30:54.538341,England Championship - England Championship 21/22 - Top 2 Finish,Bournemouth,0.013900000000000023,0.8889,0.875
-2022-03-01 13:31:21.316082,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Ikem Ekwonu,0.013899999999999996,0.125,0.1111
 2022-03-01 13:31:19.527054,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Scottie Barnes,0.013899999999999996,0.125,0.1111
+2022-03-01 13:31:21.316082,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Ikem Ekwonu,0.013899999999999996,0.125,0.1111
 2022-03-01 13:31:19.466175,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Erik Spoelstra (MIA),0.013899999999999996,0.125,0.1111
-2022-03-01 07:30:50.881026,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,0.013899999999999996,0.125,0.1111
 2022-03-01 11:30:54.300314,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Getafe,0.013899999999999996,0.125,0.1111
+2022-03-01 07:30:50.881026,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,0.013899999999999996,0.125,0.1111
 2022-03-01 13:31:19.610880,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.0131,0.2353,0.2222
+2022-03-01 14:31:11.965054,Boxing Lines - Nikita Tszyu vs Aaron Stahl - To Win the Bout,Aaron Stahl,0.012899999999999995,0.1379,0.125
 2022-03-01 13:31:17.973593,Boxing Lines - Liam Williams vs Joe Noynay - To Win the Bout,Liam Williams,0.012299999999999978,0.3571,0.3448
+2022-03-01 14:31:11.952437,Boxing Lines - Linn Sandstrom vs Ali Jensen - To Win the Bout,Linn Sandstrom,0.012299999999999978,0.8305,0.8182
 2022-03-01 09:30:44.873386,Boxing Lines - Julio Cesar Martinez Aguilar vs Roman Gonzales - To Win the Bout,Julio Cesar Martinez Aguilar,0.0116,0.4878,0.4762
 2022-03-01 11:30:54.546942,England Championship - England Championship 21/22 - Top 6 Finish,Stoke City,0.011199999999999995,0.0588,0.0476
 2022-03-01 11:30:54.538341,England Championship - England Championship 21/22 - Top 2 Finish,Sheffield United,-0.0102,0.0667,0.0769
 2022-03-01 11:30:54.560245,Superligaen - Denmark Superligaen 2021/22 - Outright,FC Copenhagen,-0.011499999999999955,0.6552,0.6667
 2022-03-01 13:31:18.147763,Boxing Lines - Julio Cesar Martinez Aguilar vs Roman Gonzales - To Win the Bout,Julio Cesar Martinez Aguilar,-0.0116,0.4762,0.4878
 2022-03-01 13:31:19.782901,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.011899999999999994,0.0714,0.0833
+2022-03-01 14:31:11.952437,Boxing Lines - Linn Sandstrom vs Ali Jensen - To Win the Bout,Ali Jensen,-0.011899999999999994,0.2381,0.25
 2022-03-01 13:31:19.624701,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.012299999999999978,0.3448,0.3571
 2022-03-01 13:31:19.610880,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.01319999999999999,0.25,0.2632
-2022-03-01 13:31:19.700738,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.013899999999999996,0.1111,0.125
 2022-03-01 09:30:45.142248,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Ikem Ekwonu,-0.013899999999999996,0.1111,0.125
+2022-03-01 13:31:19.700738,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.013899999999999996,0.1111,0.125
 2022-03-01 13:31:19.527054,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Josh Giddey,-0.013999999999999999,0.0769,0.0909
 2022-03-01 09:30:44.873386,Boxing Lines - Julio Cesar Martinez Aguilar vs Roman Gonzales - To Win the Bout,Roman Gonzales,-0.014100000000000001,0.5744,0.5885
 2022-03-01 13:31:19.500357,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Darius Garland,-0.014399999999999996,0.0625,0.0769
@@ -48,6 +53,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-01 11:30:54.538341,England Championship - England Championship 21/22 - Top 2 Finish,Blackburn Rovers,-0.018099999999999998,0.0588,0.0769
 2022-03-01 13:31:19.661892,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,-0.018100000000000005,0.4167,0.4348
 2022-03-01 13:31:19.481210,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,-0.01820000000000002,0.1818,0.2
+2022-03-01 14:31:12.650255,94th Academy Awards - Best Supporting Actor - Outright,Kodi Smit-McPhee (The Power of the Dog),-0.01880000000000004,0.5556,0.5744
 2022-03-01 11:30:54.668368,Premier League - Russia Premier League 2021/2022 - Outright,Dinamo Moscow,-0.019000000000000017,0.2667,0.2857
 2022-03-01 13:31:21.033994,NFL Specials - 2022 NFL Combine - Fastest 40 Yard Dash Time - Outright,Slower than 4.29 seconds,-0.019699999999999995,0.4348,0.4545
 2022-03-01 13:31:19.481210,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,-0.02020000000000001,0.0909,0.1111
@@ -59,5 +65,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-01 06:30:48.837174,NFL Specials - 2022 NFL Combine - Fastest 40 Yard Dash Time - Outright,Slower than 4.29 seconds,-0.033299999999999996,0.4545,0.4878
 2022-03-01 09:30:45.119120,NFL Specials - 2022 NFL Combine - Position of Player Fastest 40 Yard Dash Time - Outright,Wide receiver,-0.03640000000000004,0.3636,0.4
 2022-03-01 09:30:45.119120,NFL Specials - 2022 NFL Combine - Position of Player Fastest 40 Yard Dash Time - Outright,Running back,-0.04099999999999998,0.2667,0.3077
+2022-03-01 14:31:12.004190,Boxing Lines - Liam Williams vs Joe Noynay - To Win the Bout,Liam Williams,-0.04459999999999997,0.3125,0.3571
 2022-03-01 05:30:57.938013,94th Academy Awards - Best Supporting Actor - Outright,Kodi Smit-McPhee (The Power of the Dog),-0.04820000000000002,0.5744,0.6226
 2022-03-01 11:30:54.546942,England Championship - England Championship 21/22 - Top 6 Finish,West Bromwich Albion,-0.11900000000000002,0.1667,0.2857
