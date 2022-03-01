@@ -28,9 +28,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-01 17:30:49.573103,Boxing Lines - Diego Pacheco vs Genc Pllana - To Win the Bout,Diego Pacheco,0.019100000000000006,0.9524,0.9333
 2022-03-01 18:30:43.460757,College Basketball - Ohio Valley Conference Tournament Winner - Outright,Murray State,0.01880000000000004,0.6552,0.6364
 2022-03-01 15:30:59.981734,College Basketball - Horizon League Conference Tournament Winner - Outright,IPFW,0.01820000000000002,0.2,0.1818
-2022-03-01 16:30:42.186892,College Basketball - Northeast Conference Tournament Winner - Outright,Long Island,0.0179,0.1429,0.125
 2022-03-01 21:30:44.490889,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Bam Adebayo,0.0179,0.0278,0.0099
 2022-03-01 11:30:54.560245,Superligaen - Denmark Superligaen 2021/22 - Outright,Brøndby IF,0.0179,0.1429,0.125
+2022-03-01 16:30:42.186892,College Basketball - Northeast Conference Tournament Winner - Outright,Long Island,0.0179,0.1429,0.125
 2022-03-01 13:31:18.147763,Boxing Lines - Julio Cesar Martinez Aguilar vs Roman Gonzales - To Win the Bout,Roman Gonzales,0.017299999999999982,0.5917,0.5744
 2022-03-01 18:30:43.051705,Boxing Lines - Liam Williams vs Joe Noynay - To Win the Bout,Joe Noynay,0.016700000000000048,0.75,0.7333
 2022-03-01 13:31:19.444966,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Ja Morant,0.016700000000000007,0.1,0.0833
@@ -44,30 +44,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-01 13:31:21.033994,NFL Specials - 2022 NFL Combine - Fastest 40 Yard Dash Time - Outright,Faster than 4.29 seconds,0.014200000000000101,0.6296,0.6154
 2022-03-01 18:30:43.058189,Boxing Lines - Erik Bazinyan vs Reinaldo Panigua - To Win the Bout,Erik Bazinyan,0.014100000000000001,0.9474,0.9333
 2022-03-01 11:30:54.538341,England Championship - England Championship 21/22 - Top 2 Finish,Bournemouth,0.013900000000000023,0.8889,0.875
+2022-03-01 13:31:21.316082,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Ikem Ekwonu,0.013899999999999996,0.125,0.1111
+2022-03-01 13:31:19.466175,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Erik Spoelstra (MIA),0.013899999999999996,0.125,0.1111
 2022-03-01 11:30:54.300314,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Getafe,0.013899999999999996,0.125,0.1111
 2022-03-01 13:31:19.527054,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Scottie Barnes,0.013899999999999996,0.125,0.1111
-2022-03-01 13:31:19.466175,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Erik Spoelstra (MIA),0.013899999999999996,0.125,0.1111
-2022-03-01 13:31:21.316082,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Ikem Ekwonu,0.013899999999999996,0.125,0.1111
 2022-03-01 13:31:19.610880,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.0131,0.2353,0.2222
 2022-03-01 21:30:45.110108,Boxing Lines - Diego Pacheco vs Genc Pllana - To Win the Bout,Diego Pacheco,0.0131,0.9655,0.9524
 2022-03-01 14:31:11.965054,Boxing Lines - Nikita Tszyu vs Aaron Stahl - To Win the Bout,Aaron Stahl,0.012899999999999995,0.1379,0.125
-2022-03-01 14:31:11.952437,Boxing Lines - Linn Sandstrom vs Ali Jensen - To Win the Bout,Linn Sandstrom,0.012299999999999978,0.8305,0.8182
 2022-03-01 13:31:17.973593,Boxing Lines - Liam Williams vs Joe Noynay - To Win the Bout,Liam Williams,0.012299999999999978,0.3571,0.3448
+2022-03-01 14:31:11.952437,Boxing Lines - Linn Sandstrom vs Ali Jensen - To Win the Bout,Linn Sandstrom,0.012299999999999978,0.8305,0.8182
 2022-03-01 16:30:42.186892,College Basketball - Northeast Conference Tournament Winner - Outright,St. Francis PA,0.0118,0.0217,0.0099
 2022-03-01 16:30:41.907441,Boxing Lines - Joet Gonzalez vs Jeo Santisima - To Win the Bout,Jeo Santisima,0.011700000000000016,0.2222,0.2105
 2022-03-01 11:30:54.546942,England Championship - England Championship 21/22 - Top 6 Finish,Stoke City,0.011199999999999995,0.0588,0.0476
 2022-03-01 18:30:43.460757,College Basketball - Ohio Valley Conference Tournament Winner - Outright,Morehead State,0.011099999999999999,0.1111,0.1
 2022-03-01 17:30:49.473550,Boxing Lines - Liam Williams vs Joe Noynay - To Win the Bout,Liam Williams,0.010699999999999987,0.3333,0.3226
 2022-03-01 15:31:01.473448,Boxing Lines - Joet Gonzalez vs Jeo Santisima - To Win the Bout,Jeo Santisima,0.010499999999999982,0.2105,0.2
-2022-03-01 20:30:34.815192,Boxing Lines - Dennis Hogan vs Wade Ryan - To Win the Bout,Wade Ryan,0.010099999999999998,0.3226,0.3125
 2022-03-01 16:30:41.870508,Boxing Lines - Liam Williams vs Joe Noynay - To Win the Bout,Liam Williams,0.010099999999999998,0.3226,0.3125
+2022-03-01 20:30:34.815192,Boxing Lines - Dennis Hogan vs Wade Ryan - To Win the Bout,Wade Ryan,0.010099999999999998,0.3226,0.3125
+2022-03-01 23:30:50.061914,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Liam Wilson,0.010099999999999998,0.3226,0.3125
 2022-03-01 11:30:54.538341,England Championship - England Championship 21/22 - Top 2 Finish,Sheffield United,-0.0102,0.0667,0.0769
 2022-03-01 15:30:59.981734,College Basketball - Horizon League Conference Tournament Winner - Outright,Wright State,-0.010499999999999982,0.2,0.2105
 2022-03-01 16:30:41.907441,Boxing Lines - Joet Gonzalez vs Jeo Santisima - To Win the Bout,Joet Gonzalez,-0.01090000000000002,0.8462,0.8571
 2022-03-01 11:30:54.560245,Superligaen - Denmark Superligaen 2021/22 - Outright,FC Copenhagen,-0.011499999999999955,0.6552,0.6667
 2022-03-01 13:31:18.147763,Boxing Lines - Julio Cesar Martinez Aguilar vs Roman Gonzales - To Win the Bout,Julio Cesar Martinez Aguilar,-0.0116,0.4762,0.4878
-2022-03-01 14:31:11.952437,Boxing Lines - Linn Sandstrom vs Ali Jensen - To Win the Bout,Ali Jensen,-0.011899999999999994,0.2381,0.25
 2022-03-01 13:31:19.782901,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.011899999999999994,0.0714,0.0833
+2022-03-01 14:31:11.952437,Boxing Lines - Linn Sandstrom vs Ali Jensen - To Win the Bout,Ali Jensen,-0.011899999999999994,0.2381,0.25
 2022-03-01 18:30:43.086476,Boxing Lines - Gabriel Flores Jr vs Abraham Montoya - To Win the Bout,Abraham Montoya,-0.0121,0.2778,0.2899
 2022-03-01 13:31:19.624701,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.012299999999999978,0.3448,0.3571
 2022-03-01 15:31:01.356607,Boxing Lines - Nikita Tszyu vs Aaron Stahl - To Win the Bout,Aaron Stahl,-0.012899999999999995,0.125,0.1379
@@ -96,8 +97,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-01 18:30:43.467857,College Basketball - Sun Belt Conference Tournament Winner - Outright,UT Arlington,-0.020000000000000004,0.0123,0.0323
 2022-03-01 13:31:19.481210,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,-0.02020000000000001,0.0909,0.1111
 2022-03-01 18:30:43.051705,Boxing Lines - Liam Williams vs Joe Noynay - To Win the Bout,Liam Williams,-0.020799999999999985,0.3125,0.3333
-2022-03-01 20:30:34.134178,NFL Specials - 2022 NFL Combine - Most bench press reps - Outright,Less than 40 reps,-0.02169999999999994,0.5238,0.5455
 2022-03-01 13:31:21.133902,NFL Specials - 2022 NFL Combine - Highest Vertical Jump - Outright,Under 43.5 inches,-0.02169999999999994,0.5238,0.5455
+2022-03-01 20:30:34.134178,NFL Specials - 2022 NFL Combine - Most bench press reps - Outright,Less than 40 reps,-0.02169999999999994,0.5238,0.5455
 2022-03-01 18:30:43.058189,Boxing Lines - Erik Bazinyan vs Reinaldo Panigua - To Win the Bout,Reinaldo Panigua,-0.022199999999999998,0.1111,0.1333
 2022-03-01 21:30:44.066002,2022 State Of The Union - 2022 State Of The Union - How Long will it take Joe Biden to Deliver the State of the Union Address ,Under 64 Minutes 30 Seconds,-0.022600000000000064,0.5122,0.5348
 2022-03-01 18:30:43.467857,College Basketball - Sun Belt Conference Tournament Winner - Outright,Appalachian State,-0.023799999999999988,0.1429,0.1667
