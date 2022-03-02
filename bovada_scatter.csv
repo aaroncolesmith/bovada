@@ -5,19 +5,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-02 01:31:01.450458,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Ikem Ekwonu,0.0655,0.1905,0.125
 2022-03-02 06:30:42.807643,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Liam Wilson,0.05980000000000002,0.4444,0.3846
 2022-03-02 00:30:59.125377,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,0.044399999999999995,0.4444,0.4
+2022-03-02 08:31:36.763750,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Arizona,0.04290000000000005,0.4,0.3571
 2022-03-02 00:30:58.976723,League One - England League One 2021/22 - Outright,Wigan Athletic,0.04040000000000002,0.2222,0.1818
 2022-03-02 08:31:39.916166,MLB Specials - Where will Freddie Freeman Play Game 1 of the 2022 MLB Season? - Outright,Los Angeles Dodgers,0.038099999999999995,0.1333,0.0952
 2022-03-02 01:31:02.568455,Euroleague - Euroleague 2021/22 - Winner,Olympiakos,0.034100000000000005,0.125,0.0909
-2022-03-02 08:31:37.706067,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Liam Wilson,0.031799999999999995,0.4762,0.4444
 2022-03-02 08:31:39.916166,MLB Specials - Where will Freddie Freeman Play Game 1 of the 2022 MLB Season? - Outright,Toronto Blue Jays,0.031799999999999995,0.1429,0.1111
+2022-03-02 08:31:37.706067,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Liam Wilson,0.031799999999999995,0.4762,0.4444
 2022-03-02 01:31:02.568455,Euroleague - Euroleague 2021/22 - Winner,Barcelona,0.030299999999999994,0.3636,0.3333
 2022-03-02 08:31:37.526201,Boxing Lines - Cameron Hammond vs Danilo Creati - To Win the Bout,Danilo Creati,0.029299999999999993,0.2703,0.241
 2022-03-02 01:30:58.997892,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Liam Wilson,0.022199999999999998,0.3448,0.3226
 2022-03-02 00:30:56.321637,Boxing Lines - Cameron Hammond vs Danilo Creati - To Win the Bout,Cameron Hammond,0.02100000000000002,0.8305,0.8095
-2022-03-01 21:30:44.066002,2022 State Of The Union - 2022 State Of The Union - How Long will it take Joe Biden to Deliver the State of the Union Address ,Over 64 Minutes 30 Seconds,0.02079999999999993,0.5556,0.5348
+2022-03-02 09:30:43.895400,Boxing Lines - Erik Bazinyan vs Reinaldo Panigua - To Win the Bout,Erik Bazinyan,0.019100000000000006,0.9524,0.9333
 2022-03-02 08:31:37.653653,Boxing Lines - Steve Spark vs River Daz - To Win the Bout,Steve Spark,0.019100000000000006,0.9524,0.9333
 2022-03-02 08:31:39.916166,MLB Specials - Where will Freddie Freeman Play Game 1 of the 2022 MLB Season? - Outright,Texas Rangers,0.01830000000000001,0.0952,0.0769
-2022-03-01 21:30:44.490889,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Bam Adebayo,0.0179,0.0278,0.0099
 2022-03-02 05:30:45.884181,Boxing Lines - Dennis Hogan vs Wade Ryan - To Win the Bout,Wade Ryan,0.017600000000000005,0.3509,0.3333
 2022-03-02 06:30:42.934305,Boxing Lines - Diego Pacheco vs Genc Pllana - To Win the Bout,Genc Pllana,0.016700000000000007,0.1,0.0833
 2022-03-02 08:31:37.747111,Boxing Lines - Dennis Hogan vs Wade Ryan - To Win the Bout,Dennis Hogan,0.01629999999999998,0.7222,0.7059
@@ -30,38 +30,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-02 08:31:39.916166,MLB Specials - Where will Freddie Freeman Play Game 1 of the 2022 MLB Season? - Outright,New York Yankees,0.013899999999999996,0.125,0.1111
 2022-03-02 06:30:42.835661,Boxing Lines - Erik Bazinyan vs Reinaldo Panigua - To Win the Bout,Reinaldo Panigua,0.013899999999999996,0.125,0.1111
 2022-03-02 03:30:48.579528,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Liam Wilson,0.013300000000000034,0.3704,0.3571
-2022-03-01 21:30:45.110108,Boxing Lines - Diego Pacheco vs Genc Pllana - To Win the Bout,Diego Pacheco,0.0131,0.9655,0.9524
 2022-03-02 05:30:45.923938,Boxing Lines - Joet Gonzalez vs Jeo Santisima - To Win the Bout,Joet Gonzalez,0.012299999999999978,0.8305,0.8182
 2022-03-02 02:31:14.937849,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Liam Wilson,0.012299999999999978,0.3571,0.3448
 2022-03-02 05:30:45.845050,Boxing Lines - Cameron Hammond vs Danilo Creati - To Win the Bout,Danilo Creati,0.011899999999999994,0.25,0.2381
+2022-03-02 09:30:44.185229,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.011699999999999933,0.7895,0.7778
 2022-03-02 06:30:42.819410,Boxing Lines - Dennis Hogan vs Wade Ryan - To Win the Bout,Wade Ryan,0.011400000000000021,0.3623,0.3509
 2022-03-02 00:30:58.994283,League Two - England League Two 2021/22 - Outright,Exeter City,0.011199999999999995,0.0588,0.0476
 2022-03-02 08:31:37.599284,Boxing Lines - Nikita Tszyu vs Aaron Stahl - To Win the Bout,Nikita Tszyu,0.011199999999999988,0.9524,0.9412
 2022-03-02 01:31:02.568455,Euroleague - Euroleague 2021/22 - Winner,Milano,0.011099999999999999,0.1111,0.1
+2022-03-02 09:30:44.200998,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,0.011099999999999999,0.9,0.8889
+2022-03-02 09:30:43.856392,Boxing Lines - Linn Sandstrom vs Ali Jensen - To Win the Bout,Linn Sandstrom,0.01090000000000002,0.8571,0.8462
 2022-03-02 03:30:48.532250,Boxing Lines - Dennis Hogan vs Wade Ryan - To Win the Bout,Wade Ryan,0.010699999999999987,0.3333,0.3226
 2022-03-01 23:30:50.061914,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Liam Wilson,0.010099999999999998,0.3226,0.3125
 2022-03-02 05:30:45.868609,Boxing Lines - Steve Spark vs River Daz - To Win the Bout,River Daz,-0.010700000000000001,0.1143,0.125
+2022-03-02 09:30:44.193024,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,-0.011099999999999999,0.4651,0.4762
 2022-03-02 05:30:45.965526,Boxing Lines - Julio Cesar Martinez Aguilar vs Roman Gonzales - To Win the Bout,Julio Cesar Martinez Aguilar,-0.011099999999999999,0.4651,0.4762
 2022-03-02 00:30:59.125377,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Everton,-0.011700000000000016,0.2105,0.2222
 2022-03-02 08:31:36.437745,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.011700000000000016,0.2105,0.2222
+2022-03-02 09:30:43.856392,Boxing Lines - Linn Sandstrom vs Ali Jensen - To Win the Bout,Ali Jensen,-0.011700000000000016,0.2105,0.2222
 2022-03-02 00:30:56.321637,Boxing Lines - Cameron Hammond vs Danilo Creati - To Win the Bout,Danilo Creati,-0.011899999999999994,0.2381,0.25
 2022-03-02 05:30:45.845050,Boxing Lines - Cameron Hammond vs Danilo Creati - To Win the Bout,Cameron Hammond,-0.012299999999999978,0.8182,0.8305
 2022-03-02 08:31:37.526201,Boxing Lines - Cameron Hammond vs Danilo Creati - To Win the Bout,Cameron Hammond,-0.012400000000000078,0.8058,0.8182
 2022-03-02 08:31:36.437745,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.0131,0.2222,0.2353
 2022-03-02 03:30:48.579528,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Joe Noynay,-0.013599999999999945,0.6923,0.7059
 2022-03-02 06:30:42.835661,Boxing Lines - Erik Bazinyan vs Reinaldo Panigua - To Win the Bout,Erik Bazinyan,-0.014100000000000001,0.9333,0.9474
-2022-03-02 08:31:37.599284,Boxing Lines - Nikita Tszyu vs Aaron Stahl - To Win the Bout,Aaron Stahl,-0.014299999999999993,0.1,0.1143
 2022-03-02 08:31:37.653653,Boxing Lines - Steve Spark vs River Daz - To Win the Bout,River Daz,-0.014299999999999993,0.1,0.1143
+2022-03-02 08:31:37.599284,Boxing Lines - Nikita Tszyu vs Aaron Stahl - To Win the Bout,Aaron Stahl,-0.014299999999999993,0.1,0.1143
 2022-03-02 05:30:45.876457,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Joe Noynay,-0.014900000000000024,0.6774,0.6923
+2022-03-02 09:30:43.925511,Boxing Lines - Joet Gonzalez vs Jeo Santisima - To Win the Bout,Jeo Santisima,-0.01629999999999998,0.2247,0.241
 2022-03-02 02:31:14.937849,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Joe Noynay,-0.01629999999999998,0.7059,0.7222
-2022-03-01 21:30:45.110108,Boxing Lines - Diego Pacheco vs Genc Pllana - To Win the Bout,Genc Pllana,-0.016700000000000007,0.0833,0.1
 2022-03-02 08:31:37.747111,Boxing Lines - Dennis Hogan vs Wade Ryan - To Win the Bout,Wade Ryan,-0.017500000000000016,0.3448,0.3623
 2022-03-02 01:30:58.997892,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Joe Noynay,-0.018100000000000005,0.7222,0.7403
 2022-03-02 05:30:45.884181,Boxing Lines - Dennis Hogan vs Wade Ryan - To Win the Bout,Dennis Hogan,-0.018999999999999906,0.7143,0.7333
 2022-03-02 01:31:01.450458,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Aidan Hutchinson,-0.019000000000000017,0.2667,0.2857
 2022-03-02 00:30:59.125377,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Brentford,-0.020799999999999985,0.3125,0.3333
+2022-03-02 09:30:44.177188,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,-0.0208,0.0625,0.0833
 2022-03-02 00:30:59.125377,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,-0.02100000000000002,0.3636,0.3846
-2022-03-01 21:30:44.066002,2022 State Of The Union - 2022 State Of The Union - How Long will it take Joe Biden to Deliver the State of the Union Address ,Under 64 Minutes 30 Seconds,-0.022600000000000064,0.5122,0.5348
 2022-03-02 00:30:58.994283,League Two - England League Two 2021/22 - Outright,Forest Green Rovers,-0.0242,0.9091,0.9333
 2022-03-02 08:31:37.706067,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Joe Noynay,-0.03090000000000004,0.5917,0.6226
 2022-03-02 00:30:58.976723,League One - England League One 2021/22 - Outright,Rotherham Utd,-0.038899999999999935,0.8182,0.8571
