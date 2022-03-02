@@ -1,78 +1,59 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-01 20:30:35.250444,Star Wars Specials - Will any of these characters appear in 'Obi-Wan Kenobi' on Disney+ - Outright,Bobba Fett,0.1778,0.4,0.2222
 2022-03-02 01:31:02.568455,Euroleague - Euroleague 2021/22 - Winner,Anadolu Efes,0.09939999999999999,0.2105,0.1111
-2022-03-01 18:30:43.439366,College Basketball - Patriot Conference Tournament Winner - Outright,Navy,0.08330000000000001,0.25,0.1667
 2022-03-01 21:30:46.232343,TV Specials - Will any of there characters appear in Season 2 of Amazon's Wheel of Time? - Proposition,Aram,0.07069999999999999,0.1818,0.1111
 2022-03-01 20:30:35.250444,Star Wars Specials - Will any of these characters appear in 'Obi-Wan Kenobi' on Disney+ - Outright,Sabe,0.06670000000000004,0.4,0.3333
 2022-03-02 01:31:01.450458,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Ikem Ekwonu,0.0655,0.1905,0.125
+2022-03-02 06:30:42.807643,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Liam Wilson,0.05980000000000002,0.4444,0.3846
 2022-03-02 00:30:59.125377,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,0.044399999999999995,0.4444,0.4
 2022-03-01 20:30:35.250444,Star Wars Specials - Will any of these characters appear in 'Obi-Wan Kenobi' on Disney+ - Outright,Yoda,0.044399999999999995,0.4444,0.4
-2022-03-01 17:30:49.461790,Boxing Lines - Dennis Hogan vs Wade Ryan - To Win the Bout,Dennis Hogan,0.04410000000000003,0.75,0.7059
-2022-03-01 18:30:43.424483,College Basketball - Atlantic Sun Conference Tournament Winner - Outright,Jacksonville,0.042899999999999994,0.1429,0.1
 2022-03-02 00:30:58.976723,League One - England League One 2021/22 - Outright,Wigan Athletic,0.04040000000000002,0.2222,0.1818
-2022-03-01 18:30:43.467857,College Basketball - Sun Belt Conference Tournament Winner - Outright,Texas State,0.037699999999999956,0.2941,0.2564
 2022-03-02 01:31:02.568455,Euroleague - Euroleague 2021/22 - Winner,Olympiakos,0.034100000000000005,0.125,0.0909
-2022-03-01 18:30:43.446626,College Basketball - Big South Conference Tournament Winner - Outright,Winthrop,0.032299999999999995,0.3448,0.3125
 2022-03-02 01:31:02.568455,Euroleague - Euroleague 2021/22 - Winner,Barcelona,0.030299999999999994,0.3636,0.3333
-2022-03-01 17:30:49.539239,Boxing Lines - Joet Gonzalez vs Jeo Santisima - To Win the Bout,Jeo Santisima,0.0247,0.2469,0.2222
 2022-03-02 01:30:58.997892,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Liam Wilson,0.022199999999999998,0.3448,0.3226
 2022-03-02 00:30:56.321637,Boxing Lines - Cameron Hammond vs Danilo Creati - To Win the Bout,Cameron Hammond,0.02100000000000002,0.8305,0.8095
 2022-03-01 21:30:44.066002,2022 State Of The Union - 2022 State Of The Union - How Long will it take Joe Biden to Deliver the State of the Union Address ,Over 64 Minutes 30 Seconds,0.02079999999999993,0.5556,0.5348
 2022-03-01 20:30:34.134178,NFL Specials - 2022 NFL Combine - Most bench press reps - Outright,More than 40 reps,0.01970000000000005,0.5652,0.5455
-2022-03-01 17:30:49.573103,Boxing Lines - Diego Pacheco vs Genc Pllana - To Win the Bout,Diego Pacheco,0.019100000000000006,0.9524,0.9333
-2022-03-01 18:30:43.460757,College Basketball - Ohio Valley Conference Tournament Winner - Outright,Murray State,0.01880000000000004,0.6552,0.6364
 2022-03-01 21:30:44.490889,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Bam Adebayo,0.0179,0.0278,0.0099
 2022-03-02 05:30:45.884181,Boxing Lines - Dennis Hogan vs Wade Ryan - To Win the Bout,Wade Ryan,0.017600000000000005,0.3509,0.3333
-2022-03-01 18:30:43.051705,Boxing Lines - Liam Williams vs Joe Noynay - To Win the Bout,Joe Noynay,0.016700000000000048,0.75,0.7333
+2022-03-02 06:30:42.934305,Boxing Lines - Diego Pacheco vs Genc Pllana - To Win the Bout,Genc Pllana,0.016700000000000007,0.1,0.0833
 2022-03-01 20:30:34.052282,NFL Specials - 2022 NFL Combine - Fastest  3-Cone Drill to break J.T. Thomas Combine Record - Outright,No (Slower Than 6.28 Seconds),0.01629999999999998,0.7222,0.7059
 2022-03-01 21:30:46.232343,TV Specials - Will any of there characters appear in Season 2 of Amazon's Wheel of Time? - Proposition,Aviendha,0.01539999999999997,0.6154,0.6
 2022-03-01 20:30:33.950083,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Ron DeSantis,0.015100000000000002,0.1818,0.1667
 2022-03-02 01:31:02.568455,Euroleague - Euroleague 2021/22 - Winner,Bayern Munich,0.014900000000000004,0.0345,0.0196
 2022-03-02 01:31:02.568455,Euroleague - Euroleague 2021/22 - Winner,Maccabi Tel-Aviv,0.014499999999999999,0.0294,0.0149
 2022-03-02 05:30:45.876457,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Liam Wilson,0.01419999999999999,0.3846,0.3704
-2022-03-01 18:30:43.058189,Boxing Lines - Erik Bazinyan vs Reinaldo Panigua - To Win the Bout,Erik Bazinyan,0.014100000000000001,0.9474,0.9333
+2022-03-02 06:30:42.835661,Boxing Lines - Erik Bazinyan vs Reinaldo Panigua - To Win the Bout,Reinaldo Panigua,0.013899999999999996,0.125,0.1111
 2022-03-02 03:30:48.579528,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Liam Wilson,0.013300000000000034,0.3704,0.3571
 2022-03-01 21:30:45.110108,Boxing Lines - Diego Pacheco vs Genc Pllana - To Win the Bout,Diego Pacheco,0.0131,0.9655,0.9524
 2022-03-02 02:31:14.937849,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Liam Wilson,0.012299999999999978,0.3571,0.3448
 2022-03-02 05:30:45.923938,Boxing Lines - Joet Gonzalez vs Jeo Santisima - To Win the Bout,Joet Gonzalez,0.012299999999999978,0.8305,0.8182
 2022-03-02 05:30:45.845050,Boxing Lines - Cameron Hammond vs Danilo Creati - To Win the Bout,Danilo Creati,0.011899999999999994,0.25,0.2381
+2022-03-02 06:30:42.819410,Boxing Lines - Dennis Hogan vs Wade Ryan - To Win the Bout,Wade Ryan,0.011400000000000021,0.3623,0.3509
 2022-03-02 00:30:58.994283,League Two - England League Two 2021/22 - Outright,Exeter City,0.011199999999999995,0.0588,0.0476
-2022-03-01 18:30:43.460757,College Basketball - Ohio Valley Conference Tournament Winner - Outright,Morehead State,0.011099999999999999,0.1111,0.1
 2022-03-02 01:31:02.568455,Euroleague - Euroleague 2021/22 - Winner,Milano,0.011099999999999999,0.1111,0.1
 2022-03-02 03:30:48.532250,Boxing Lines - Dennis Hogan vs Wade Ryan - To Win the Bout,Wade Ryan,0.010699999999999987,0.3333,0.3226
-2022-03-01 17:30:49.473550,Boxing Lines - Liam Williams vs Joe Noynay - To Win the Bout,Liam Williams,0.010699999999999987,0.3333,0.3226
 2022-03-01 23:30:50.061914,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Liam Wilson,0.010099999999999998,0.3226,0.3125
 2022-03-01 20:30:34.815192,Boxing Lines - Dennis Hogan vs Wade Ryan - To Win the Bout,Wade Ryan,0.010099999999999998,0.3226,0.3125
 2022-03-02 05:30:45.868609,Boxing Lines - Steve Spark vs River Daz - To Win the Bout,River Daz,-0.010700000000000001,0.1143,0.125
 2022-03-02 05:30:45.965526,Boxing Lines - Julio Cesar Martinez Aguilar vs Roman Gonzales - To Win the Bout,Julio Cesar Martinez Aguilar,-0.011099999999999999,0.4651,0.4762
 2022-03-02 00:30:59.125377,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Everton,-0.011700000000000016,0.2105,0.2222
 2022-03-02 00:30:56.321637,Boxing Lines - Cameron Hammond vs Danilo Creati - To Win the Bout,Danilo Creati,-0.011899999999999994,0.2381,0.25
-2022-03-01 18:30:43.086476,Boxing Lines - Gabriel Flores Jr vs Abraham Montoya - To Win the Bout,Abraham Montoya,-0.0121,0.2778,0.2899
 2022-03-02 05:30:45.845050,Boxing Lines - Cameron Hammond vs Danilo Creati - To Win the Bout,Cameron Hammond,-0.012299999999999978,0.8182,0.8305
-2022-03-01 18:30:43.467857,College Basketball - Sun Belt Conference Tournament Winner - Outright,Georgia State,-0.01319999999999999,0.25,0.2632
 2022-03-02 03:30:48.579528,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Joe Noynay,-0.013599999999999945,0.6923,0.7059
 2022-03-01 20:30:34.052282,NFL Specials - 2022 NFL Combine - Fastest  3-Cone Drill to break J.T. Thomas Combine Record - Outright,Yes (Faster Tahn 6.28 Seconds),-0.013800000000000034,0.3636,0.3774
-2022-03-01 18:30:43.467857,College Basketball - Sun Belt Conference Tournament Winner - Outright,Troy,-0.013899999999999996,0.1111,0.125
+2022-03-02 06:30:42.835661,Boxing Lines - Erik Bazinyan vs Reinaldo Panigua - To Win the Bout,Erik Bazinyan,-0.014100000000000001,0.9333,0.9474
 2022-03-02 05:30:45.876457,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Joe Noynay,-0.014900000000000024,0.6774,0.6923
 2022-03-02 02:31:14.937849,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Joe Noynay,-0.01629999999999998,0.7059,0.7222
-2022-03-01 18:30:43.439366,College Basketball - Patriot Conference Tournament Winner - Outright,Colgate,-0.01639999999999997,0.661,0.6774
 2022-03-01 21:30:45.110108,Boxing Lines - Diego Pacheco vs Genc Pllana - To Win the Bout,Genc Pllana,-0.016700000000000007,0.0833,0.1
 2022-03-02 01:30:58.997892,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Joe Noynay,-0.018100000000000005,0.7222,0.7403
 2022-03-02 05:30:45.884181,Boxing Lines - Dennis Hogan vs Wade Ryan - To Win the Bout,Dennis Hogan,-0.018999999999999906,0.7143,0.7333
 2022-03-02 01:31:01.450458,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Aidan Hutchinson,-0.019000000000000017,0.2667,0.2857
-2022-03-01 18:30:43.467857,College Basketball - Sun Belt Conference Tournament Winner - Outright,UT Arlington,-0.020000000000000004,0.0123,0.0323
-2022-03-01 18:30:43.051705,Boxing Lines - Liam Williams vs Joe Noynay - To Win the Bout,Liam Williams,-0.020799999999999985,0.3125,0.3333
 2022-03-02 00:30:59.125377,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Brentford,-0.020799999999999985,0.3125,0.3333
 2022-03-02 00:30:59.125377,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,-0.02100000000000002,0.3636,0.3846
 2022-03-01 20:30:34.134178,NFL Specials - 2022 NFL Combine - Most bench press reps - Outright,Less than 40 reps,-0.02169999999999994,0.5238,0.5455
-2022-03-01 18:30:43.058189,Boxing Lines - Erik Bazinyan vs Reinaldo Panigua - To Win the Bout,Reinaldo Panigua,-0.022199999999999998,0.1111,0.1333
 2022-03-01 21:30:44.066002,2022 State Of The Union - 2022 State Of The Union - How Long will it take Joe Biden to Deliver the State of the Union Address ,Under 64 Minutes 30 Seconds,-0.022600000000000064,0.5122,0.5348
-2022-03-01 18:30:43.467857,College Basketball - Sun Belt Conference Tournament Winner - Outright,Appalachian State,-0.023799999999999988,0.1429,0.1667
 2022-03-02 00:30:58.994283,League Two - England League Two 2021/22 - Outright,Forest Green Rovers,-0.0242,0.9091,0.9333
-2022-03-01 17:30:49.573103,Boxing Lines - Diego Pacheco vs Genc Pllana - To Win the Bout,Genc Pllana,-0.024999999999999994,0.1,0.125
-2022-03-01 17:30:49.539239,Boxing Lines - Joet Gonzalez vs Jeo Santisima - To Win the Bout,Joet Gonzalez,-0.027999999999999914,0.8182,0.8462
-2022-03-01 18:30:43.467857,College Basketball - Sun Belt Conference Tournament Winner - Outright,Louisiana,-0.029299999999999993,0.0476,0.0769
-2022-03-01 18:30:43.424483,College Basketball - Atlantic Sun Conference Tournament Winner - Outright,Liberty,-0.030299999999999994,0.4348,0.4651
-2022-03-01 17:30:49.461790,Boxing Lines - Dennis Hogan vs Wade Ryan - To Win the Bout,Wade Ryan,-0.03839999999999999,0.3125,0.3509
 2022-03-02 00:30:58.976723,League One - England League One 2021/22 - Outright,Rotherham Utd,-0.038899999999999935,0.8182,0.8571
+2022-03-02 06:30:42.807643,Boxing Lines - Liam Wilson vs Joe Noynay - To Win the Bout,Joe Noynay,-0.05479999999999996,0.6226,0.6774
 2022-03-02 01:31:01.450458,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Evan Neal,-0.10159999999999991,0.5348,0.6364
