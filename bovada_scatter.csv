@@ -1,6 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-04 14:30:59.877519,College Basketball - Sun Belt Conference Tournament Winner - Outright,Texas State,0.1346,0.3846,0.25
 2022-03-04 14:30:59.961298,College Basketball - Horizon League Conference Tournament Winner - Outright,Wright State,0.12259999999999999,0.3226,0.2
+2022-03-04 19:30:56.972988,94th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,CODA (Siân Heder),0.08330000000000001,0.25,0.1667
 2022-03-04 14:30:59.877519,College Basketball - Sun Belt Conference Tournament Winner - Outright,Troy,0.06669999999999998,0.1667,0.1
 2022-03-04 14:30:58.906566,NFL Specials - Where will Baker Mayfield  Play Game 1 of the 2022/2023 NFL Season? - Outright,Cleveland Browns,0.06269999999999998,0.9718,0.9091
 2022-03-04 14:30:59.961298,College Basketball - Horizon League Conference Tournament Winner - Outright,IPFW,0.06140000000000001,0.2353,0.1739
@@ -17,10 +18,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-04 07:31:24.874992,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.02779999999999999,0.25,0.2222
 2022-03-04 13:30:44.311654,College Basketball - Southern Conference Tournament Winner - Outright,VMI,0.026499999999999996,0.0588,0.0323
 2022-03-04 13:30:44.336187,College Basketball - West Coast Conference Conference Winner - Tournament Winner,Saint Mary's CA,0.024800000000000016,0.2353,0.2105
+2022-03-04 19:30:56.016605,NBA Specials - Where will Zion Williamson play next season? - Outright,New York Knicks,0.0242,0.0909,0.0667
 2022-03-04 10:30:57.293566,94th Academy Awards - Best Supporting Actor - Best Supporting Actor,Troy Kotsur (CODA),0.023800000000000043,0.5238,0.5
 2022-03-04 14:30:59.961298,College Basketball - Horizon League Conference Tournament Winner - Outright,Cleveland State,0.023799999999999988,0.3571,0.3333
 2022-03-04 14:30:59.907024,College Basketball - Atlantic Sun Conference Tournament Winner - Outright,Bellarmine,0.02310000000000001,0.1,0.0769
-2022-03-04 06:33:10.483669,Boxing Lines - Joet Gonzalez vs Jeo Santisima - To Win the Bout,Jeo Santisima,0.022199999999999998,0.2222,0.2
 2022-03-04 14:30:59.907024,College Basketball - Atlantic Sun Conference Tournament Winner - Outright,Liberty,0.019699999999999995,0.4545,0.4348
 2022-03-04 10:30:59.611581,FA Cup - England FA Cup 2021/22 - Outright,Liverpool FC,0.019000000000000017,0.2857,0.2667
 2022-03-04 07:31:24.842551,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.01820000000000002,0.2,0.1818
@@ -36,15 +37,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-04 07:31:24.842551,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.010499999999999982,0.2105,0.2
 2022-03-04 12:30:50.051661,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Evan Neal,-0.010099999999999998,0.5455,0.5556
 2022-03-04 07:31:24.842551,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,-0.010899999999999993,0.1429,0.1538
-2022-03-04 06:33:10.483669,Boxing Lines - Joet Gonzalez vs Jeo Santisima - To Win the Bout,Joet Gonzalez,-0.01090000000000002,0.8462,0.8571
 2022-03-04 07:31:24.928240,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,-0.011699999999999933,0.7778,0.7895
 2022-03-04 14:30:58.906566,NFL Specials - Where will Baker Mayfield  Play Game 1 of the 2022/2023 NFL Season? - Outright,Washington Commanders,-0.012299999999999991,0.1053,0.1176
 2022-03-04 14:30:59.934728,College Basketball - Summit Conference Tournament Winner - Outright,Oral Roberts,-0.012899999999999995,0.1538,0.1667
 2022-03-04 13:30:44.299339,College Basketball - Missouri Valley Conference Tournament Winner - Outright,Drake,-0.012899999999999995,0.1538,0.1667
 2022-03-04 07:31:24.874992,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.01319999999999999,0.25,0.2632
-2022-03-04 15:30:52.901132,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,-0.013999999999999999,0.0769,0.0909
 2022-03-04 14:30:58.906566,NFL Specials - Where will Baker Mayfield  Play Game 1 of the 2022/2023 NFL Season? - Outright,Las Vegas Raiders,-0.013999999999999999,0.0769,0.0909
+2022-03-04 15:30:52.901132,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,-0.013999999999999999,0.0769,0.0909
 2022-03-04 08:30:48.825386,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.013999999999999999,0.0769,0.0909
+2022-03-04 19:30:56.016605,NBA Specials - Where will Zion Williamson play next season? - Outright,Houston Rockets,-0.014100000000000001,0.0385,0.0526
 2022-03-04 07:31:24.928240,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,-0.01469999999999999,0.2353,0.25
 2022-03-04 14:30:59.947947,College Basketball - Patriot Conference Tournament Winner - Outright,Navy,-0.01469999999999999,0.2353,0.25
 2022-03-04 12:30:50.051661,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Kenny Pickett,-0.015300000000000001,0.0323,0.0476
@@ -60,4 +61,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-04 13:30:44.299339,College Basketball - Missouri Valley Conference Tournament Winner - Outright,Missouri State,-0.02779999999999999,0.25,0.2778
 2022-03-04 12:30:50.051661,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Charles Cross,-0.028399999999999995,0.0625,0.0909
 2022-03-04 07:31:24.953973,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.028700000000000003,0.1818,0.2105
+2022-03-04 19:30:56.972988,94th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,The Power of the Dog (Jane Campion),-0.035699999999999954,0.7143,0.75
 2022-03-04 10:30:57.293566,94th Academy Awards - Best Supporting Actor - Best Supporting Actor,Kodi Smit-McPhee (The Power of the Dog),-0.037800000000000056,0.5455,0.5833
+2022-03-04 19:30:56.972988,94th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,The Lost Daughter (Maggie Gyllenhaal),-0.08330000000000001,0.1667,0.25
