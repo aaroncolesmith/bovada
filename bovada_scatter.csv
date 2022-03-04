@@ -1,23 +1,33 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-04 07:31:24.953973,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,0.04760000000000003,0.5238,0.4762
+2022-03-04 13:30:44.299339,College Basketball - Missouri Valley Conference Tournament Winner - Outright,Northern Iowa,0.033300000000000024,0.2,0.1667
 2022-03-04 07:31:24.928240,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Toronto Raptors,0.029299999999999993,0.0769,0.0476
 2022-03-04 07:31:24.874992,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.02779999999999999,0.25,0.2222
+2022-03-04 13:30:44.311654,College Basketball - Southern Conference Tournament Winner - Outright,VMI,0.026499999999999996,0.0588,0.0323
 2022-03-04 10:30:57.293566,94th Academy Awards - Best Supporting Actor - Best Supporting Actor,Troy Kotsur (CODA),0.023800000000000043,0.5238,0.5
 2022-03-04 06:33:10.483669,Boxing Lines - Joet Gonzalez vs Jeo Santisima - To Win the Bout,Jeo Santisima,0.022199999999999998,0.2222,0.2
 2022-03-04 10:30:59.611581,FA Cup - England FA Cup 2021/22 - Outright,Liverpool FC,0.019000000000000017,0.2857,0.2667
 2022-03-04 07:31:24.842551,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.01820000000000002,0.2,0.1818
+2022-03-04 13:30:44.286282,College Basketball - Big South Conference Tournament Winner - Outright,Gardner Webb,0.01820000000000002,0.2,0.1818
+2022-03-04 13:30:44.299339,College Basketball - Missouri Valley Conference Tournament Winner - Outright,Loyola Chicago,0.018100000000000005,0.4348,0.4167
+2022-03-04 13:30:44.323909,College Basketball - Ohio Valley Conference Tournament Winner - Outright,Morehead State,0.015700000000000006,0.1333,0.1176
+2022-03-04 13:30:44.323909,College Basketball - Ohio Valley Conference Tournament Winner - Outright,SE Missouri State,0.014099999999999994,0.0667,0.0526
 2022-03-04 08:30:48.825386,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.011599999999999944,0.9681,0.9565
 2022-03-04 07:31:24.842551,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.010499999999999982,0.2105,0.2
 2022-03-04 12:30:50.051661,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Evan Neal,-0.010099999999999998,0.5455,0.5556
 2022-03-04 07:31:24.842551,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,-0.010899999999999993,0.1429,0.1538
 2022-03-04 06:33:10.483669,Boxing Lines - Joet Gonzalez vs Jeo Santisima - To Win the Bout,Joet Gonzalez,-0.01090000000000002,0.8462,0.8571
 2022-03-04 07:31:24.928240,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,-0.011699999999999933,0.7778,0.7895
+2022-03-04 13:30:44.299339,College Basketball - Missouri Valley Conference Tournament Winner - Outright,Drake,-0.012899999999999995,0.1538,0.1667
 2022-03-04 07:31:24.874992,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.01319999999999999,0.25,0.2632
 2022-03-04 08:30:48.825386,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.013999999999999999,0.0769,0.0909
 2022-03-04 07:31:24.928240,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,-0.01469999999999999,0.2353,0.25
 2022-03-04 12:30:50.051661,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Kenny Pickett,-0.015300000000000001,0.0323,0.0476
 2022-03-04 12:30:48.829159,94th Academy Awards - Best Costume Design - Best Costume Design,Cruella (Jenny Beavan),-0.019199999999999995,0.75,0.7692
+2022-03-04 13:30:44.311654,College Basketball - Southern Conference Tournament Winner - Outright,NC Greensboro,-0.02020000000000001,0.0909,0.1111
 2022-03-04 10:30:56.756135,Boxing Lines - Joet Gonzalez vs Jeo Santisima - To Win the Bout,Jeo Santisima,-0.022199999999999998,0.2,0.2222
+2022-03-04 13:30:44.311654,College Basketball - Southern Conference Tournament Winner - Outright,Wofford,-0.023799999999999988,0.1429,0.1667
+2022-03-04 13:30:44.299339,College Basketball - Missouri Valley Conference Tournament Winner - Outright,Missouri State,-0.02779999999999999,0.25,0.2778
 2022-03-04 12:30:50.051661,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Charles Cross,-0.028399999999999995,0.0625,0.0909
 2022-03-04 07:31:24.953973,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.028700000000000003,0.1818,0.2105
 2022-03-04 10:30:57.293566,94th Academy Awards - Best Supporting Actor - Best Supporting Actor,Kodi Smit-McPhee (The Power of the Dog),-0.037800000000000056,0.5455,0.5833
