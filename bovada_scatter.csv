@@ -20,6 +20,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-04 23:31:11.148723,NBL - NBL 2021/22 - Outright,SE Melbourne Phoenix,0.01469999999999999,0.25,0.2353
 2022-03-05 08:30:42.280185,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,0.013999999999999999,0.0909,0.0769
 2022-03-05 09:30:46.449352,Superligaen - Denmark Superligaen 2021/22 - Outright,FC Copenhagen,0.011499999999999955,0.6667,0.6552
+2022-03-05 11:30:42.921769,College Basketball - Summit Conference Tournament Winner - Outright,South Dakota State,0.011499999999999955,0.6667,0.6552
 2022-03-05 10:30:54.408767,MLB Specials - How Many Games will Each Team Play in the 2022 MLB Season - Outright,Over 124.5,0.010099999999999998,0.5556,0.5455
 2022-03-05 10:30:51.889437,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Evan Neal,0.010099999999999998,0.5556,0.5455
 2022-03-05 08:30:42.471593,Euroleague - Euroleague 2021/22 - Winner,Anadolu Efes,-0.010499999999999982,0.2,0.2105
@@ -28,8 +29,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-04 23:31:10.238058,Boxing Lines - Souleymane Cissokho vs Roberto Valenzuela Jr - To Win the Bout,Roberto Valenzuela Jr,-0.013999999999999999,0.0769,0.0909
 2022-03-05 08:30:42.260441,NBA Futures - 2022 NBA Pacific Division - Division Winner,Golden State Warriors,-0.013999999999999999,0.0769,0.0909
 2022-03-05 10:30:55.051552,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Heidenheim,-0.014099999999999998,0.0244,0.0385
-2022-03-05 08:30:42.234393,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.015100000000000002,0.1667,0.1818
 2022-03-05 09:30:46.432380,England Championship - England Championship 21/22 - Outright,Bournemouth,-0.015100000000000002,0.1667,0.1818
+2022-03-05 08:30:42.234393,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.015100000000000002,0.1667,0.1818
 2022-03-04 23:31:11.414128,Italy Serie A - Italy Serie A 2021/2022 - Outright,Napoli,-0.016699999999999993,0.25,0.2667
 2022-03-05 09:30:46.449352,Superligaen - Denmark Superligaen 2021/22 - Outright,Brøndby IF,-0.0179,0.125,0.1429
 2022-03-05 10:30:55.146928,Eredivisie - Eredivisie 2021/2022 - Outright,Feyenoord,-0.018200000000000004,0.0294,0.0476
