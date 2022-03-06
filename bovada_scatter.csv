@@ -9,6 +9,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-05 20:30:47.869029,College Basketball - West Coast Conference Conference Winner - Tournament Winner,Gonzaga,0.033299999999999996,0.8333,0.8
 2022-03-05 20:30:49.652995,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Ikem Ekwonu,0.029299999999999993,0.2857,0.2564
 2022-03-06 03:31:15.566740,Boxing Lines - Julio Cesar Martinez Aguilar vs Roman Gonzales - To Win the Bout,Roman Gonzales,0.022600000000000064,0.6226,0.6
+2022-03-06 07:30:47.752488,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Ikem Ekwonu,0.021999999999999964,0.3077,0.2857
 2022-03-06 00:30:47.061850,Boxing Lines - Mauricio Lara vs Emilio Sanchez - To Win the Bout,Emilio Sanchez,0.02049999999999999,0.1538,0.1333
 2022-03-05 22:30:42.123040,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Chelsea,0.018900000000000028,0.9804,0.9615
 2022-03-05 20:30:47.785893,College Basketball - CAA Conference Tournament Winner - Outright,NC Wilmington,0.01759999999999999,0.1176,0.1
@@ -21,18 +22,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-05 23:31:05.764245,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Bayer Leverkusen,0.011099999999999999,0.9,0.8889
 2022-03-05 22:30:41.030898,Boxing Lines - Julio Cesar Martinez Aguilar vs Roman Gonzales - To Win the Bout,Julio Cesar Martinez Aguilar,0.010599999999999998,0.4651,0.4545
 2022-03-05 22:30:42.123040,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Arsenal,-0.010099999999999998,0.5455,0.5556
-2022-03-05 23:31:05.643637,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Ochai Agbaji,-0.0102,0.0667,0.0769
 2022-03-05 20:30:49.652995,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Kayvon Thibodeaux,-0.0102,0.0667,0.0769
-2022-03-05 19:30:45.381544,Boxing Lines - Julio Cesar Martinez Aguilar vs Roman Gonzales - To Win the Bout,Julio Cesar Martinez Aguilar,-0.010599999999999998,0.4545,0.4651
+2022-03-05 23:31:05.643637,College Specials - NCAAB Awards 2021-2022 - Odds to win John R. Wooden Award 2021-2022,Ochai Agbaji,-0.0102,0.0667,0.0769
 2022-03-05 20:30:47.785893,College Basketball - CAA Conference Tournament Winner - Outright,Elon,-0.011199999999999995,0.0476,0.0588
 2022-03-06 00:30:46.873408,Euro Cup - Euro Cup 2021/22 - Winner,Valencia,-0.0131,0.2222,0.2353
 2022-03-05 21:30:53.347882,College Basketball - MEAC Tournament Winner - Outright,MD Eastern Shore,-0.014099999999999994,0.0526,0.0667
 2022-03-05 23:31:02.235151,Boxing Lines - Mauricio Lara vs Emilio Sanchez - To Win the Bout,Emilio Sanchez,-0.014800000000000008,0.1333,0.1481
 2022-03-06 03:31:15.566740,Boxing Lines - Julio Cesar Martinez Aguilar vs Roman Gonzales - To Win the Bout,Julio Cesar Martinez Aguilar,-0.01639999999999997,0.4444,0.4608
 2022-03-05 21:30:53.364107,College Basketball - Mountain West Conference  Winner - Tournament Winner,Boise State,-0.016699999999999993,0.25,0.2667
+2022-03-06 07:30:47.752488,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Evan Neal,-0.02079999999999993,0.5348,0.5556
 2022-03-05 21:30:53.364107,College Basketball - Mountain West Conference  Winner - Tournament Winner,Fresno State,-0.02310000000000001,0.0769,0.1
-2022-03-05 22:30:42.123040,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Wolverhampton Wanderers,-0.024399999999999998,0.005,0.0294
 2022-03-05 22:30:42.108425,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Crystal Palace,-0.024399999999999998,0.005,0.0294
+2022-03-05 22:30:42.123040,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Wolverhampton Wanderers,-0.024399999999999998,0.005,0.0294
+2022-03-06 07:30:47.752488,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Aidan Hutchinson,-0.02779999999999999,0.2222,0.25
 2022-03-06 00:30:46.873408,Euro Cup - Euro Cup 2021/22 - Winner,Partizan,-0.0353,0.2,0.2353
 2022-03-05 23:31:05.764245,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,RB Leipzig,-0.040999999999999925,0.6923,0.7333
 2022-03-05 21:30:53.347882,College Basketball - MEAC Tournament Winner - Outright,Coppin State,-0.04120000000000001,0.0588,0.1
