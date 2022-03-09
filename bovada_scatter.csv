@@ -6,6 +6,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-09 12:31:10.491590,League Two - England League Two 2021/22 - Top 7 Finish,Exeter City,0.11109999999999998,0.8889,0.7778
 2022-03-09 10:30:47.438302,England Championship - England Championship 21/22 - Top 6 Finish,Luton Town,0.09999999999999998,0.5,0.4
 2022-03-09 10:30:47.417362,England Championship - England Championship 21/22 - To Be Promoted,Sheffield United,0.09689999999999999,0.3636,0.2667
+2022-03-09 16:31:04.461319,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Olivia Rodrigo - Sour,0.08330000000000004,0.75,0.6667
+2022-03-09 16:31:07.934639,NFL Specials - Where will Jameis Winston Play Game 1 of the 2022/2023 NFL Season? - Outright,Miami Dolphins,0.06139999999999998,0.1667,0.1053
+2022-03-09 16:31:08.035535,NFL Specials - Which team will Amari Cooper play for Game 1 of the NFL Season? - Outright,Dallas Cowboys,0.05879999999999996,0.2941,0.2353
 2022-03-09 10:30:47.427739,England Championship - England Championship 21/22 - Top 2 Finish,Sheffield United,0.058300000000000005,0.125,0.0667
 2022-03-09 12:31:10.491590,League Two - England League Two 2021/22 - Top 7 Finish,Northampton Town,0.05709999999999993,0.8571,0.8
 2022-03-09 12:31:10.491590,League Two - England League Two 2021/22 - Top 7 Finish,Bristol Rovers,0.055900000000000005,0.3636,0.3077
@@ -17,16 +20,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-09 12:31:09.983067,A-League - Australia A-League 2021/2022 - Grand Final Winner,Melbourne City,0.03640000000000004,0.4,0.3636
 2022-03-09 10:30:47.706190,League One - England League One 2021/22 - Top 2 Finish,Milton Keynes Dons,0.0358,0.2667,0.2309
 2022-03-09 10:30:47.664733,League One - England League One 2021/22 - Outright,Milton Keynes Dons,0.0321,0.0909,0.0588
-2022-03-09 10:30:47.686230,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,0.031799999999999995,0.4762,0.4444
 2022-03-09 10:30:47.417362,England Championship - England Championship 21/22 - To Be Promoted,Luton Town,0.031799999999999995,0.1429,0.1111
+2022-03-09 10:30:47.686230,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,0.031799999999999995,0.4762,0.4444
 2022-03-09 09:30:50.239965,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Bayern Munich,0.030299999999999994,0.3636,0.3333
 2022-03-09 10:30:47.730249,League Two - England League Two 2021/22 - Outright,Exeter City,0.0294,0.0588,0.0294
+2022-03-09 14:31:15.447581,College Basketball - PAC 12 Conference  Winner - Tournament Winner,Arizona,0.028900000000000037,0.5744,0.5455
 2022-03-09 10:30:47.392860,England Championship - England Championship 21/22 - Outright,Fulham,0.028000000000000025,0.9804,0.9524
 2022-03-09 09:30:49.158442,Boxing Lines - Gary Cully vs Miguel Vazquez - To Win the Bout,Gary Cully,0.025000000000000022,0.9,0.875
+2022-03-09 14:31:15.476510,College Basketball - Big East Conference  Winner - Tournament Winner,Villanova,0.02260000000000001,0.4,0.3774
 2022-03-09 09:30:50.256579,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,England,0.02200000000000002,0.7143,0.6923
 2022-03-09 09:30:50.247830,Champions League - UEFA Champions League 2021/2022 - Furthest Progressing EPL Team,Liverpool,0.021999999999999964,0.3077,0.2857
 2022-03-09 10:30:47.716218,League One - England League One 2021/22 - Top 6 Finish,Plymouth Argyle,0.02100000000000002,0.3846,0.3636
-2022-03-09 04:30:51.176592,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,0.02079999999999993,0.5556,0.5348
 2022-03-09 10:30:47.675132,League One - England League One 2021/22 - Top Goalscorer,Cole Stockton (Morecambe),0.02020000000000001,0.1111,0.0909
 2022-03-09 08:30:46.281393,94th Academy Awards - Best Original Score - Best Original Score,Encanto (Germaine Franco),0.02020000000000001,0.1111,0.0909
 2022-03-09 14:31:15.420288,College Basketball - Atlantic 10 Conference Winner - Tournament Winner,Virginia Commonwealth,0.01820000000000002,0.2,0.1818
@@ -40,24 +44,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-09 07:30:53.801019,94th Academy Awards - Odds to win Best Picture - Best Picture,CODA,0.015100000000000002,0.1818,0.1667
 2022-03-09 10:30:47.427739,England Championship - England Championship 21/22 - Top 2 Finish,Luton Town,0.014099999999999998,0.0385,0.0244
 2022-03-09 14:31:15.407372,College Basketball - Atlantic Coast Conference  Winner - Tournament Winner,Virginia Tech,0.013999999999999999,0.0909,0.0769
+2022-03-09 16:31:06.117425,College Basketball - Big West Conference Tournament Winner - Outright,UC Santa Barbara,0.0131,0.2353,0.2222
+2022-03-09 16:31:06.024169,College Basketball - WAC Tournament Winner - Outright,Stephen F. Austin,0.012899999999999995,0.1667,0.1538
 2022-03-09 14:31:15.390864,College Basketball - Big Sky Conference Tournament Winner - Outright,Northern Colorado,0.012899999999999995,0.1667,0.1538
+2022-03-09 16:31:05.684040,College Basketball - Mountain West Conference  Winner - Tournament Winner,Nevada,0.012700000000000003,0.0323,0.0196
+2022-03-09 14:31:15.447581,College Basketball - PAC 12 Conference  Winner - Tournament Winner,UCLA,0.011899999999999966,0.3509,0.339
 2022-03-09 12:31:07.350822,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Democratic,0.0116,0.4878,0.4762
-2022-03-09 07:30:54.249341,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.01150000000000001,0.3448,0.3333
 2022-03-09 13:31:11.369941,College Basketball - Big 12 Conference Winner - Tournament Winner,Baylor,0.01150000000000001,0.3448,0.3333
+2022-03-09 07:30:54.249341,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.01150000000000001,0.3448,0.3333
 2022-03-09 07:30:54.235866,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Cleveland Cavaliers,0.011199999999999995,0.0435,0.0323
-2022-03-09 09:30:50.226122,Champions League - UEFA Champions League 2021/2022 - Outright,Chelsea,0.011099999999999999,0.1111,0.1
 2022-03-09 12:31:10.444563,League Two - England League Two 2021/22 - To Be Promoted,Bristol Rovers,0.011099999999999999,0.1111,0.1
+2022-03-09 16:31:06.963395,Boxing Lines - Adrian Rodriguez vs Salvador Jimenez - To Win the Bout,Salvador Jimenez,0.011099999999999999,0.7701,0.759
+2022-03-09 09:30:50.226122,Champions League - UEFA Champions League 2021/2022 - Outright,Chelsea,0.011099999999999999,0.1111,0.1
 2022-03-09 09:30:49.113216,Boxing Lines - Patryk Szymanski vs Karol Welter - To Win the Bout,Patryk Szymanski,0.01100000000000001,0.5348,0.5238
 2022-03-09 07:30:54.221418,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,0.010899999999999993,0.1538,0.1429
 2022-03-09 12:31:08.661350,Rock & Roll Hall of Fame Inductees 2022 - Eminem to be inducted into the 2022 Rock & Roll Hall of Fame? - Outright,Yes,0.010400000000000076,0.7778,0.7674
 2022-03-09 10:30:47.427739,England Championship - England Championship 21/22 - Top 2 Finish,Huddersfield Town,0.0102,0.0769,0.0667
+2022-03-09 16:31:07.009329,Boxing Lines - Nowicki Tomasz vs Juan Ruiz - To Win the Bout,Juan Ruiz,-0.010099999999999998,0.3125,0.3226
 2022-03-09 10:30:47.730249,League Two - England League Two 2021/22 - Outright,Forest Green Rovers,-0.010199999999999987,0.9231,0.9333
 2022-03-09 10:30:47.417362,England Championship - England Championship 21/22 - To Be Promoted,Millwall,-0.0102,0.0667,0.0769
 2022-03-09 09:30:50.256579,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,Any Other Nation,-0.0102,0.0667,0.0769
+2022-03-09 16:31:06.024169,College Basketball - WAC Tournament Winner - Outright,Seattle U,-0.010499999999999982,0.2,0.2105
 2022-03-09 09:30:49.113216,Boxing Lines - Patryk Szymanski vs Karol Welter - To Win the Bout,Karol Welter,-0.010699999999999932,0.5348,0.5455
 2022-03-09 09:30:49.104930,Boxing Lines - Nowicki Tomasz vs Juan Ruiz - To Win the Bout,Juan Ruiz,-0.010699999999999987,0.3226,0.3333
 2022-03-09 13:31:11.369941,College Basketball - Big 12 Conference Winner - Tournament Winner,Kansas,-0.010699999999999987,0.3226,0.3333
 2022-03-09 09:30:49.140062,Boxing Lines - Caoimhin Agyarko vs Juan Carlos Rubio - To Win the Bout,Juan Carlos Rubio,-0.010899999999999993,0.1429,0.1538
+2022-03-09 16:31:06.117425,College Basketball - Big West Conference Tournament Winner - Outright,Hawaii,-0.010899999999999993,0.1429,0.1538
 2022-03-09 10:30:47.696173,League One - England League One 2021/22 - To Be Relegated,Gillingham,-0.011099999999999999,0.8889,0.9
 2022-03-09 12:31:09.983067,A-League - Australia A-League 2021/2022 - Grand Final Winner,Macarthur FC,-0.011099999999999999,0.1,0.1111
 2022-03-09 10:30:47.696173,League One - England League One 2021/22 - To Be Relegated,Shrewsbury Town,-0.011199999999999995,0.0476,0.0588
@@ -72,9 +84,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-09 10:30:47.686230,League One - England League One 2021/22 - To Be Promoted,Bolton Wanderers,-0.014499999999999999,0.0149,0.0294
 2022-03-09 09:30:50.233206,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Lionel Messi,-0.014499999999999999,0.0149,0.0294
 2022-03-09 09:30:50.233206,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Kylian Mbappe-Lottin,-0.014499999999999999,0.0149,0.0294
-2022-03-09 10:30:47.417362,England Championship - England Championship 21/22 - To Be Promoted,Blackburn Rovers,-0.015100000000000002,0.1667,0.1818
 2022-03-09 10:30:47.438302,England Championship - England Championship 21/22 - Top 6 Finish,West Bromwich Albion,-0.015100000000000002,0.1667,0.1818
+2022-03-09 10:30:47.417362,England Championship - England Championship 21/22 - To Be Promoted,Blackburn Rovers,-0.015100000000000002,0.1667,0.1818
 2022-03-09 07:30:54.249341,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,-0.015400000000000025,0.3846,0.4
+2022-03-09 16:31:08.035535,NFL Specials - Which team will Amari Cooper play for Game 1 of the NFL Season? - Outright,Detroit Lions,-0.0179,0.125,0.1429
 2022-03-09 14:31:15.476510,College Basketball - Big East Conference  Winner - Tournament Winner,Marquette,-0.0179,0.125,0.1429
 2022-03-09 09:30:50.239965,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Ajax,-0.0179,0.125,0.1429
 2022-03-09 10:30:47.686230,League One - England League One 2021/22 - To Be Promoted,Wigan Athletic,-0.017900000000000027,0.8571,0.875
@@ -82,22 +95,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-09 09:30:50.233206,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Cristiano Ronaldo,-0.018200000000000004,0.0294,0.0476
 2022-03-09 12:31:09.983067,A-League - Australia A-League 2021/2022 - Grand Final Winner,Melbourne Victory,-0.01820000000000002,0.1818,0.2
 2022-03-09 10:30:47.675132,League One - England League One 2021/22 - Top Goalscorer,Ross Stewart (Sunderland),-0.01880000000000004,0.6364,0.6552
+2022-03-09 14:31:15.407372,College Basketball - Atlantic Coast Conference  Winner - Tournament Winner,Duke,-0.01880000000000004,0.5556,0.5744
 2022-03-09 12:31:10.491590,League Two - England League Two 2021/22 - Top 7 Finish,Harrogate Town,-0.0189,0.0196,0.0385
 2022-03-09 10:30:47.427739,England Championship - England Championship 21/22 - Top 2 Finish,Middlesbrough,-0.019099999999999992,0.0476,0.0667
+2022-03-09 16:31:06.117425,College Basketball - Big West Conference Tournament Winner - Outright,UC Davis,-0.019099999999999992,0.0476,0.0667
 2022-03-09 12:31:10.491590,League Two - England League Two 2021/22 - Top 7 Finish,Swindon Town,-0.020199999999999996,0.5798,0.6
 2022-03-09 10:30:47.417362,England Championship - England Championship 21/22 - To Be Promoted,Coventry City,-0.0203,0.0385,0.0588
+2022-03-09 16:31:04.461319,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Billie Eilish - Happier Than Ever,-0.02049999999999999,0.1333,0.1538
 2022-03-09 09:30:50.247830,Champions League - UEFA Champions League 2021/2022 - Furthest Progressing EPL Team,Chelsea,-0.022199999999999998,0.2,0.2222
-2022-03-09 10:30:47.716218,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,-0.022199999999999998,0.7778,0.8
 2022-03-09 12:31:10.444563,League Two - England League Two 2021/22 - To Be Promoted,Port Vale,-0.022199999999999998,0.2,0.2222
+2022-03-09 10:30:47.716218,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,-0.022199999999999998,0.7778,0.8
 2022-03-09 10:30:47.716218,League One - England League One 2021/22 - Top 6 Finish,Bolton Wanderers,-0.02310000000000001,0.0769,0.1
-2022-03-09 12:31:10.491590,League Two - England League Two 2021/22 - Top 7 Finish,Mansfield Town,-0.023799999999999932,0.8333,0.8571
 2022-03-09 10:30:47.706190,League One - England League One 2021/22 - Top 2 Finish,Wigan Athletic,-0.023799999999999932,0.8333,0.8571
+2022-03-09 12:31:10.491590,League Two - England League Two 2021/22 - Top 7 Finish,Mansfield Town,-0.023799999999999932,0.8333,0.8571
 2022-03-09 12:31:10.491590,League Two - England League Two 2021/22 - Top 7 Finish,Newport County,-0.025600000000000067,0.6667,0.6923
 2022-03-09 09:30:50.239965,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Paris Saint-Germain,-0.02779999999999999,0.2222,0.25
+2022-03-09 16:31:05.987794,College Basketball - MAAC Tournament Winner - Outright,Siena,-0.02840000000000001,0.0769,0.1053
 2022-03-09 12:31:10.444563,League Two - England League Two 2021/22 - To Be Promoted,Newport County,-0.030299999999999994,0.3333,0.3636
 2022-03-09 12:31:10.444563,League Two - England League Two 2021/22 - To Be Promoted,Mansfield Town,-0.03179999999999994,0.5238,0.5556
 2022-03-09 12:31:10.478221,League Two - England League Two 2021/22 - Top 3 Finish,Port Vale,-0.031799999999999995,0.1111,0.1429
 2022-03-09 10:30:47.392860,England Championship - England Championship 21/22 - Outright,Bournemouth,-0.0321,0.0588,0.0909
+2022-03-09 16:31:04.461319,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Tony Bennett & Lady Gaga - Love for Sale,-0.033300000000000024,0.1667,0.2
+2022-03-09 16:31:08.035535,NFL Specials - Which team will Amari Cooper play for Game 1 of the NFL Season? - Outright,New York Jets,-0.033300000000000024,0.1667,0.2
+2022-03-09 16:31:05.987794,College Basketball - MAAC Tournament Winner - Outright,Monmouth,-0.033399999999999985,0.1333,0.1667
 2022-03-09 10:30:47.696173,League One - England League One 2021/22 - To Be Relegated,Morecambe,-0.035699999999999954,0.7143,0.75
 2022-03-09 12:31:10.444563,League Two - England League Two 2021/22 - To Be Promoted,Tranmere Rovers,-0.03570000000000001,0.25,0.2857
 2022-03-09 10:30:47.686230,League One - England League One 2021/22 - To Be Promoted,Sheffield Wednesday,-0.0358,0.2309,0.2667
@@ -111,10 +131,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-09 12:31:10.444563,League Two - England League Two 2021/22 - To Be Promoted,Northampton Town,-0.045499999999999985,0.5,0.5455
 2022-03-09 12:31:10.444563,League Two - England League Two 2021/22 - To Be Promoted,Swindon Town,-0.047599999999999976,0.2857,0.3333
 2022-03-09 12:31:10.491590,League Two - England League Two 2021/22 - Top 7 Finish,Sutton Utd,-0.04760000000000009,0.6667,0.7143
+2022-03-09 14:31:15.447581,College Basketball - PAC 12 Conference  Winner - Tournament Winner,USC,-0.052000000000000005,0.0909,0.1429
 2022-03-09 10:30:47.427739,England Championship - England Championship 21/22 - Top 2 Finish,Bournemouth,-0.055499999999999994,0.7778,0.8333
 2022-03-09 09:30:50.233206,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Mohamed Salah,-0.056400000000000006,0.0769,0.1333
 2022-03-09 12:31:10.478221,League Two - England League Two 2021/22 - Top 3 Finish,Swindon Town,-0.05710000000000001,0.1429,0.2
 2022-03-09 10:30:47.438302,England Championship - England Championship 21/22 - Top 6 Finish,Middlesbrough,-0.06700000000000006,0.5556,0.6226
 2022-03-09 10:30:47.438302,England Championship - England Championship 21/22 - Top 6 Finish,Coventry City,-0.0889,0.1111,0.2
 2022-03-09 10:30:47.438302,England Championship - England Championship 21/22 - Top 6 Finish,Millwall,-0.1,0.1667,0.2667
+2022-03-09 16:31:07.934639,NFL Specials - Where will Jameis Winston Play Game 1 of the 2022/2023 NFL Season? - Outright,Pittsburgh Steelers,-0.1222,0.1,0.2222
 2022-03-09 09:30:50.233206,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Sebatien Haller,-0.1969,0.1667,0.3636
+2022-03-09 16:31:07.934639,NFL Specials - Where will Jameis Winston Play Game 1 of the 2022/2023 NFL Season? - Outright,New Orleans Saints,-0.2378,0.3077,0.5455
