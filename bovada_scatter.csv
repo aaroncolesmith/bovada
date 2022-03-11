@@ -39,21 +39,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-11 18:31:00.941909,TV Specials - First Character to Die in Season 2 of Yellowjackets - Proposition,Lottie,0.045499999999999985,0.5455,0.5
 2022-03-11 18:30:59.157450,College Basketball - Mountain West Conference  Winner - Tournament Winner,Colorado State,0.044499999999999984,0.2667,0.2222
 2022-03-11 19:31:05.543878,Game of Thrones Specials - Characters to sit on the Iron Throne in Season 1 of House of Dragons - Proposition,Princess Rhaenyra Targaryen,0.044399999999999995,0.4444,0.4
-2022-03-11 09:31:19.136514,BAFTA Awards 2022 - Best Actor in a Leading Role - Best Actor,Benedict Cumberbatch (The Power Of The Dog),0.044399999999999995,0.6,0.5556
 2022-03-11 18:30:59.035646,College Basketball - SWAC Tournament Winner - Outright,Grambling,0.04329999999999999,0.0909,0.0476
 2022-03-11 10:30:54.478589,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,0.04290000000000005,0.4,0.3571
 2022-03-11 10:30:55.439581,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Brentford,0.04270000000000007,0.8889,0.8462
 2022-03-11 10:30:55.380927,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Norwich City,0.040999999999999925,0.7333,0.6923
 2022-03-11 18:30:59.134424,College Basketball - Big West Conference Tournament Winner - Outright,Long Beach State,0.04040000000000002,0.2222,0.1818
 2022-03-11 10:30:55.406218,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Aston Villa,0.0392,0.0588,0.0196
+2022-03-11 18:30:59.182322,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Purdue,0.03570000000000001,0.2857,0.25
 2022-03-11 10:30:54.641637,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Tenerife,0.03570000000000001,0.2857,0.25
 2022-03-11 18:30:59.157450,College Basketball - Mountain West Conference  Winner - Tournament Winner,San Diego State,0.03570000000000001,0.2857,0.25
-2022-03-11 18:30:59.182322,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Purdue,0.03570000000000001,0.2857,0.25
 2022-03-11 18:30:59.062998,College Basketball - MEAC Tournament Winner - Outright,Norfolk State,0.035699999999999954,0.75,0.7143
-2022-03-11 18:30:58.676802,NFL Specials - Where will Jordan Love Play Game 1 of the 2022/2023 NFL Season? - Outright,Indianapolis Colts,0.033300000000000024,0.2,0.1667
 2022-03-11 18:30:59.076551,College Basketball - Southland Conference Tournament Winner - Outright,Texas A&M Corpus Christi,0.033300000000000024,0.2,0.1667
-2022-03-11 19:31:05.531047,Game of Thrones Specials - Characters confirmed to be Alive at the End of Season 1 of House of Dragons - Outright,Larys Strong,0.0321,0.0909,0.0588
+2022-03-11 18:30:58.676802,NFL Specials - Where will Jordan Love Play Game 1 of the 2022/2023 NFL Season? - Outright,Indianapolis Colts,0.033300000000000024,0.2,0.1667
 2022-03-11 19:31:05.556877,Game of Thrones Specials - Game of Thrones - House of Dragons - Last Dragon Standing - Which Dragons will be Alive at the end of Season 1? - Proposition,Seasmoke,0.0321,0.0909,0.0588
+2022-03-11 19:31:05.531047,Game of Thrones Specials - Characters confirmed to be Alive at the End of Season 1 of House of Dragons - Outright,Larys Strong,0.0321,0.0909,0.0588
 2022-03-11 10:30:54.641637,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Unicaja Málaga,0.031799999999999995,0.1429,0.1111
 2022-03-11 10:30:55.428470,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Leicester City,0.030299999999999994,0.3636,0.3333
 2022-03-11 18:30:59.142217,College Basketball - PAC 12 Conference  Winner - Tournament Winner,Colorado,0.030199999999999998,0.0625,0.0323
@@ -70,21 +69,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-11 18:30:59.913818,BAFTA Awards 2022 - Best Actor in a Leading Role - Best Actor,Stephen Graham (Boiling Point),0.018099999999999998,0.0769,0.0588
 2022-03-11 18:30:58.358579,Boxing Lines - Leigh Wood vs Michael Conlan - To Win the Bout,Leigh Wood,0.017299999999999982,0.4255,0.4082
 2022-03-11 18:30:59.043667,College Basketball - MAC Tournament Winner - Outright,Kent State,0.016699999999999993,0.2667,0.25
-2022-03-11 09:31:18.242904,Boxing Lines - Kim Clavel vs Mariela Ribera Valverde - To Win the Bout,Mariela Ribera Valverde,0.016600000000000004,0.0833,0.0667
-2022-03-11 08:31:14.096470,Boxing Lines - Kim Clavel vs Mariela Ribera Valverde - To Win the Bout,Kim Clavel,0.014900000000000024,0.9804,0.9655
 2022-03-11 18:30:59.035646,College Basketball - SWAC Tournament Winner - Outright,Alabama A&M,0.014899999999999997,0.0625,0.0476
 2022-03-11 18:30:59.089680,College Basketball - Big East Conference  Winner - Tournament Winner,Connecticut,0.01469999999999999,0.25,0.2353
 2022-03-11 10:30:54.501277,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Darius Garland,0.014399999999999996,0.0769,0.0625
 2022-03-11 10:30:54.631682,Euroleague - Euroleague 2021/22 - Winner,Milano,0.013899999999999996,0.125,0.1111
 2022-03-11 14:30:52.277133,Boxing Lines - Gabriel Maestre vs Taras Shelestyuk - To Win the Bout,Taras Shelestyuk,0.012199999999999989,0.5,0.4878
-2022-03-11 09:31:17.688708,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,0.01150000000000001,0.3448,0.3333
 2022-03-11 10:30:54.656611,Bundesliga - Bundesliga 2021/22 - Outright,ALBA Berlin,0.01150000000000001,0.3448,0.3333
 2022-03-11 14:30:52.355763,Boxing Lines - Jezzrel Corrales vs Miguel Madueno - To Win the Bout,Miguel Madueno,0.011499999999999955,0.697,0.6855
 2022-03-11 10:30:54.641637,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Galatasaray SK,0.011199999999999995,0.0588,0.0476
 2022-03-11 18:30:58.660796,NFL Specials - Which team will Amari Cooper play for Game 1 of the NFL Season? - Outright,New England Patroits,0.010699999999999987,0.3333,0.3226
 2022-03-11 11:30:46.551081,Boxing Lines - Patryk Szymanski vs Karol Welter - To Win the Bout,Patryk Szymanski,0.010699999999999932,0.5455,0.5348
 2022-03-11 14:30:52.522125,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Democratic,0.01040000000000002,0.3279,0.3175
-2022-03-11 08:31:14.096470,Boxing Lines - Kim Clavel vs Mariela Ribera Valverde - To Win the Bout,Mariela Ribera Valverde,-0.0102,0.0667,0.0769
 2022-03-11 10:30:54.641637,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Strasbourg,-0.0102,0.0667,0.0769
 2022-03-11 18:30:59.940639,BAFTA Awards 2022 - Best Actress in a Leading Role - Best Actress,Joanna Scanlan (After Love),-0.010399999999999993,0.2222,0.2326
 2022-03-11 18:30:58.676802,NFL Specials - Where will Jordan Love Play Game 1 of the 2022/2023 NFL Season? - Outright,Green Bay Packers,-0.010500000000000065,0.7895,0.8
@@ -93,6 +88,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-11 10:30:54.641637,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Tofas,-0.011099999999999999,0.1,0.1111
 2022-03-11 10:30:55.428470,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Wolverhampton Wanderers,-0.011099999999999999,0.1,0.1111
 2022-03-11 10:30:54.501277,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Ja Morant,-0.011199999999999988,0.9412,0.9524
+2022-03-11 21:31:34.393366,Boxing Lines - Jezzrel Corrales vs Miguel Madueno - To Win the Bout,Miguel Madueno,-0.011499999999999955,0.6855,0.697
 2022-03-11 13:30:49.865807,Boxing Lines - Jezzrel Corrales vs Miguel Madueno - To Win the Bout,Miguel Madueno,-0.011499999999999955,0.6855,0.697
 2022-03-11 10:30:54.631682,Euroleague - Euroleague 2021/22 - Winner,Real Madrid BC,-0.011700000000000016,0.2105,0.2222
 2022-03-11 10:30:55.380927,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Brentford,-0.012100000000000001,0.0123,0.0244
@@ -107,12 +103,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-11 10:30:54.478589,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,DeMar DeRozan,-0.014100000000000001,0.0385,0.0526
 2022-03-11 19:31:04.326093,Boxing Lines - Terri Harper vs Yamila Belen Abellaneda - To Win the Bout,Terri Harper,-0.014900000000000024,0.9655,0.9804
 2022-03-11 10:30:55.417117,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Brighton & Hove Albion,-0.016699999999999993,0.25,0.2667
-2022-03-11 09:31:17.688708,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,-0.016700000000000048,0.7333,0.75
 2022-03-11 10:30:54.656611,Bundesliga - Bundesliga 2021/22 - Outright,Bayern Munich,-0.017299999999999982,0.5744,0.5917
 2022-03-11 18:30:59.076551,College Basketball - Southland Conference Tournament Winner - Outright,SE Louisiana,-0.01820000000000002,0.1818,0.2
 2022-03-11 10:30:55.417117,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Leicester City,-0.018999999999999906,0.7143,0.7333
-2022-03-11 18:30:59.182322,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Duke,-0.019000000000000017,0.2667,0.2857
 2022-03-11 18:30:59.182322,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Auburn,-0.019000000000000017,0.2667,0.2857
+2022-03-11 18:30:59.182322,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Duke,-0.019000000000000017,0.2667,0.2857
 2022-03-11 10:30:53.920754,Boxing Lines - Kim Clavel vs Mariela Ribera Valverde - To Win the Bout,Mariela Ribera Valverde,-0.0208,0.0625,0.0833
 2022-03-11 18:30:59.051589,College Basketball - MAAC Tournament Winner - Outright,St. Peters,-0.023799999999999988,0.4762,0.5
 2022-03-11 10:30:55.439581,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Norwich City,-0.024299999999999995,0.0526,0.0769
