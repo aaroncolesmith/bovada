@@ -28,8 +28,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-11 18:30:59.102670,College Basketball - Atlantic Coast Conference  Winner - Tournament Winner,Duke,0.05520000000000003,0.6296,0.5744
 2022-03-11 18:30:59.940639,BAFTA Awards 2022 - Best Actress in a Leading Role - Best Actress,Renate Reinsve (The Worst Person In The World),0.05310000000000001,0.2857,0.2326
 2022-03-11 18:30:59.114024,College Basketball - Big 12 Conference Winner - Tournament Winner,TCU,0.0524,0.1,0.0476
-2022-03-11 18:30:59.076551,College Basketball - Southland Conference Tournament Winner - Outright,New Orleans,0.04999999999999999,0.25,0.2
 2022-03-11 18:30:59.043667,College Basketball - MAC Tournament Winner - Outright,Ohio,0.04999999999999999,0.25,0.2
+2022-03-11 18:30:59.076551,College Basketball - Southland Conference Tournament Winner - Outright,New Orleans,0.04999999999999999,0.25,0.2
 2022-03-11 18:30:59.134424,College Basketball - Big West Conference Tournament Winner - Outright,Hawaii,0.0476,0.1905,0.1429
 2022-03-11 18:30:59.035646,College Basketball - SWAC Tournament Winner - Outright,Alcorn State,0.047599999999999976,0.3333,0.2857
 2022-03-11 18:31:00.941909,TV Specials - First Character to Die in Season 2 of Yellowjackets - Proposition,Lottie,0.045499999999999985,0.5455,0.5
@@ -37,13 +37,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-11 19:31:05.543878,Game of Thrones Specials - Characters to sit on the Iron Throne in Season 1 of House of Dragons - Proposition,Princess Rhaenyra Targaryen,0.044399999999999995,0.4444,0.4
 2022-03-11 18:30:59.035646,College Basketball - SWAC Tournament Winner - Outright,Grambling,0.04329999999999999,0.0909,0.0476
 2022-03-11 18:30:59.134424,College Basketball - Big West Conference Tournament Winner - Outright,Long Beach State,0.04040000000000002,0.2222,0.1818
-2022-03-11 23:30:43.871589,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Pachuca,0.03889999999999999,0.1818,0.1429
 2022-03-11 23:30:43.871589,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,FC Puebla,0.03889999999999999,0.1818,0.1429
-2022-03-11 18:30:59.182322,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Purdue,0.03570000000000001,0.2857,0.25
+2022-03-11 23:30:43.871589,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Pachuca,0.03889999999999999,0.1818,0.1429
 2022-03-11 18:30:59.157450,College Basketball - Mountain West Conference  Winner - Tournament Winner,San Diego State,0.03570000000000001,0.2857,0.25
+2022-03-12 03:31:05.723025,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Baylor,0.03570000000000001,0.2857,0.25
+2022-03-11 18:30:59.182322,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Purdue,0.03570000000000001,0.2857,0.25
 2022-03-11 18:30:59.062998,College Basketball - MEAC Tournament Winner - Outright,Norfolk State,0.035699999999999954,0.75,0.7143
+2022-03-12 03:31:05.723025,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Arizona,0.0348,0.4348,0.4
 2022-03-11 18:30:59.076551,College Basketball - Southland Conference Tournament Winner - Outright,Texas A&M Corpus Christi,0.033300000000000024,0.2,0.1667
 2022-03-11 18:30:58.676802,NFL Specials - Where will Jordan Love Play Game 1 of the 2022/2023 NFL Season? - Outright,Indianapolis Colts,0.033300000000000024,0.2,0.1667
+2022-03-12 03:31:05.723025,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Iowa,0.03330000000000001,0.1,0.0667
 2022-03-11 19:31:05.556877,Game of Thrones Specials - Game of Thrones - House of Dragons - Last Dragon Standing - Which Dragons will be Alive at the end of Season 1? - Proposition,Seasmoke,0.0321,0.0909,0.0588
 2022-03-11 19:31:05.531047,Game of Thrones Specials - Characters confirmed to be Alive at the End of Season 1 of House of Dragons - Outright,Larys Strong,0.0321,0.0909,0.0588
 2022-03-11 23:30:43.871589,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Monterrey,0.031799999999999995,0.1429,0.1111
@@ -57,6 +60,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-11 23:30:43.871589,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Club León,0.0179,0.1429,0.125
 2022-03-11 18:30:58.358579,Boxing Lines - Leigh Wood vs Michael Conlan - To Win the Bout,Leigh Wood,0.017299999999999982,0.4255,0.4082
 2022-03-11 18:30:59.043667,College Basketball - MAC Tournament Winner - Outright,Kent State,0.016699999999999993,0.2667,0.25
+2022-03-12 04:30:45.665957,LKL - LKL 2021/22 - Outright,Panevezio Lietkabelis,0.016600000000000004,0.0833,0.0667
+2022-03-12 04:30:45.195652,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,TCU,0.0159,0.0323,0.0164
+2022-03-12 04:30:45.675279,Liga ACB - Liga ACB 2021/2022 - Outright,Barcelona,0.01539999999999997,0.6154,0.6
 2022-03-11 23:30:41.509672,Boxing Lines - Terri Harper vs Yamila Belen Abellaneda - To Win the Bout,Terri Harper,0.014900000000000024,0.9804,0.9655
 2022-03-11 18:30:59.035646,College Basketball - SWAC Tournament Winner - Outright,Alabama A&M,0.014899999999999997,0.0625,0.0476
 2022-03-11 18:30:59.089680,College Basketball - Big East Conference  Winner - Tournament Winner,Connecticut,0.01469999999999999,0.25,0.2353
@@ -66,10 +72,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-11 18:30:58.676802,NFL Specials - Where will Jordan Love Play Game 1 of the 2022/2023 NFL Season? - Outright,Green Bay Packers,-0.010500000000000065,0.7895,0.8
 2022-03-11 18:30:59.182322,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Villanova,-0.010899999999999993,0.1429,0.1538
 2022-03-11 21:31:34.393366,Boxing Lines - Jezzrel Corrales vs Miguel Madueno - To Win the Bout,Miguel Madueno,-0.011499999999999955,0.6855,0.697
+2022-03-12 04:30:45.656769,Serie A - Serie A 2021/22 - Outright,Cuore Napoli,-0.012100000000000001,0.0123,0.0244
 2022-03-11 18:30:59.182322,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Baylor,-0.01319999999999999,0.25,0.2632
 2022-03-11 18:30:59.142217,College Basketball - PAC 12 Conference  Winner - Tournament Winner,UCLA,-0.013800000000000034,0.3636,0.3774
 2022-03-11 23:30:43.871589,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Club América,-0.013999999999999999,0.0769,0.0909
 2022-03-11 19:31:04.326093,Boxing Lines - Terri Harper vs Yamila Belen Abellaneda - To Win the Bout,Terri Harper,-0.014900000000000024,0.9655,0.9804
+2022-03-12 04:30:45.675279,Liga ACB - Liga ACB 2021/2022 - Outright,Real Madrid BC,-0.015400000000000025,0.3846,0.4
 2022-03-11 23:30:43.871589,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Pumas UNAM,-0.018099999999999998,0.0588,0.0769
 2022-03-11 18:30:59.076551,College Basketball - Southland Conference Tournament Winner - Outright,SE Louisiana,-0.01820000000000002,0.1818,0.2
 2022-03-11 18:30:59.182322,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Duke,-0.019000000000000017,0.2667,0.2857
@@ -78,9 +86,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-11 23:30:43.850651,League Two - England League Two 2021/22 - Outright,Mansfield Town,-0.0203,0.0385,0.0588
 2022-03-11 23:30:43.879012,Liga MX - Clausura - Liga MX Clausura 2022  - Top Goalscorer,Nicolas Ibanez,-0.021999999999999964,0.2857,0.3077
 2022-03-11 18:30:59.051589,College Basketball - MAAC Tournament Winner - Outright,St. Peters,-0.023799999999999988,0.4762,0.5
+2022-03-12 04:30:45.693432,A1 - Greece A1 2021/22 - Outright,Panathinaikos,-0.02560000000000001,0.3077,0.3333
 2022-03-11 23:30:43.871589,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Tigres UANL,-0.02779999999999999,0.2222,0.25
 2022-03-11 18:30:59.062998,College Basketball - MEAC Tournament Winner - Outright,Coppin State,-0.031799999999999995,0.1111,0.1429
 2022-03-11 18:30:59.076551,College Basketball - Southland Conference Tournament Winner - Outright,Nicholls State,-0.03480000000000005,0.5,0.5348
+2022-03-12 03:31:05.723025,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Purdue,-0.03570000000000001,0.25,0.2857
 2022-03-11 23:30:43.871589,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Cruz Azul,-0.04169999999999999,0.125,0.1667
 2022-03-11 18:30:59.149975,College Basketball - WAC Tournament Winner - Outright,New Mexico State,-0.053100000000000036,0.3636,0.4167
 2022-03-11 23:30:43.871589,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Atlas FC,-0.05559999999999998,0.1111,0.1667
