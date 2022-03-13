@@ -7,23 +7,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-13 11:30:49.679543,England Championship - England Championship 21/22 - Top 6 Finish,Huddersfield Town,0.08330000000000004,0.75,0.6667
 2022-03-13 11:30:49.900010,League Two - England League Two 2021/22 - Top 7 Finish,Newport County,0.08330000000000004,0.75,0.6667
 2022-03-13 11:30:49.672592,England Championship - England Championship 21/22 - Top 2 Finish,Bournemouth,0.07929999999999993,0.8571,0.7778
-2022-03-13 06:30:53.193904,BAFTA Awards 2022 - Best Animated Film - Outright,The Mitchells vs the Machines,0.07500000000000001,0.2,0.125
 2022-03-13 10:30:49.895344,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Brentford,0.0726,0.9615,0.8889
 2022-03-13 11:30:49.854031,League One - England League One 2021/22 - Top 6 Finish,Plymouth Argyle,0.06990000000000002,0.4545,0.3846
 2022-03-13 11:30:49.884804,League Two - England League Two 2021/22 - To Be Relegated,Oldham Athletic,0.06929999999999997,0.5455,0.4762
 2022-03-13 11:30:49.878310,League Two - England League Two 2021/22 - To Be Promoted,Newport County,0.06670000000000004,0.4,0.3333
-2022-03-13 06:30:53.160493,BAFTA Awards 2022 - Best Actress in a Leading Role - Best Actress,Joanna Scanlan (After Love),0.0635,0.2857,0.2222
 2022-03-13 11:30:49.819254,League One - England League One 2021/22 - Outright,Wigan Athletic,0.06190000000000001,0.4255,0.3636
-2022-03-13 06:30:53.224401,BAFTA Awards 2022 - Best Documentary - Outright,Flee,0.057699999999999974,0.3077,0.25
 2022-03-13 11:30:49.854031,League One - England League One 2021/22 - Top 6 Finish,Oxford United,0.057699999999999974,0.75,0.6923
 2022-03-13 11:30:49.679543,England Championship - England Championship 21/22 - Top 6 Finish,Coventry City,0.05559999999999998,0.1667,0.1111
 2022-03-13 11:30:49.854031,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,0.055499999999999994,0.8333,0.7778
 2022-03-13 11:30:49.839227,League One - England League One 2021/22 - To Be Relegated,Morecambe,0.05489999999999995,0.7692,0.7143
 2022-03-13 12:31:06.276573,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Hertha BSC,0.053099999999999925,0.6364,0.5833
 2022-03-13 11:30:49.741755,Serie B - Italy Serie B 2021/22 - Outright,Cremonese,0.05130000000000001,0.3846,0.3333
-2022-03-13 11:30:49.878310,League Two - England League Two 2021/22 - To Be Promoted,Port Vale,0.04999999999999999,0.25,0.2
 2022-03-13 10:30:49.873385,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Manchester United,0.04999999999999999,0.25,0.2
-2022-03-13 06:30:53.160493,BAFTA Awards 2022 - Best Actress in a Leading Role - Best Actress,Renate Reinsve (The Worst Person In The World),0.047599999999999976,0.3333,0.2857
+2022-03-13 11:30:49.878310,League Two - England League Two 2021/22 - To Be Promoted,Port Vale,0.04999999999999999,0.25,0.2
 2022-03-13 11:30:49.679543,England Championship - England Championship 21/22 - Top 6 Finish,Luton Town,0.045499999999999985,0.5455,0.5
 2022-03-13 08:30:41.339545,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,0.044499999999999984,0.2667,0.2222
 2022-03-13 10:30:49.842360,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Mohamed Salah,0.043300000000000005,0.9524,0.9091
@@ -33,8 +29,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-13 10:30:49.888338,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,0.04039999999999999,0.8182,0.7778
 2022-03-13 11:30:49.900010,League Two - England League Two 2021/22 - Top 7 Finish,Swindon Town,0.040000000000000036,0.6198,0.5798
 2022-03-13 11:30:49.891559,League Two - England League Two 2021/22 - Top 3 Finish,Swindon Town,0.03889999999999999,0.1818,0.1429
-2022-03-13 12:31:06.290465,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Atlético Madrid,0.03640000000000004,0.4,0.3636
 2022-03-13 11:30:49.900010,League Two - England League Two 2021/22 - Top 7 Finish,Bristol Rovers,0.03640000000000004,0.4,0.3636
+2022-03-13 12:31:06.290465,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Atlético Madrid,0.03640000000000004,0.4,0.3636
 2022-03-13 11:30:49.679543,England Championship - England Championship 21/22 - Top 6 Finish,Millwall,0.033300000000000024,0.2,0.1667
 2022-03-13 12:31:06.302629,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,0.03180000000000005,0.8889,0.8571
 2022-03-13 11:30:49.710223,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Darmstadt,0.030899999999999983,0.2309,0.2
@@ -43,9 +39,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-13 10:30:49.829787,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without Man City,Liverpool,0.0242,0.9333,0.9091
 2022-03-13 11:30:49.666010,England Championship - England Championship 21/22 - To Be Promoted,Luton Town,0.023799999999999988,0.1667,0.1429
 2022-03-13 11:30:49.891559,League Two - England League Two 2021/22 - Top 3 Finish,Port Vale,0.022199999999999998,0.1333,0.1111
-2022-03-13 11:30:49.884804,League Two - England League Two 2021/22 - To Be Relegated,Stevenage,0.022199999999999998,0.2222,0.2
 2022-03-13 11:30:49.839227,League One - England League One 2021/22 - To Be Relegated,Fleetwood Town,0.022199999999999998,0.2222,0.2
-2022-03-13 06:30:53.160493,BAFTA Awards 2022 - Best Actress in a Leading Role - Best Actress,Emilia Jones,0.022199999999999998,0.2222,0.2
+2022-03-13 11:30:49.884804,League Two - England League Two 2021/22 - To Be Relegated,Stevenage,0.022199999999999998,0.2222,0.2
 2022-03-13 11:30:49.878310,League Two - England League Two 2021/22 - To Be Promoted,Swindon Town,0.021999999999999964,0.3077,0.2857
 2022-03-13 11:30:49.900010,League Two - England League Two 2021/22 - Top 7 Finish,Port Vale,0.021699999999999997,0.4762,0.4545
 2022-03-13 11:30:49.560622,MLS - MLS Cup 2022 - Outright,New York City FC,0.02020000000000001,0.1111,0.0909
@@ -59,15 +54,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-13 11:30:49.839227,League One - England League One 2021/22 - To Be Relegated,Doncaster Rovers,0.01849999999999996,0.9709,0.9524
 2022-03-13 12:31:06.298706,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Cádiz,0.018199999999999994,0.8182,0.8
 2022-03-13 11:30:49.871200,League Two - England League Two 2021/22 - Top Goalscorer,Dominic Telford (Newport County),0.018199999999999994,0.8182,0.8
-2022-03-13 11:30:49.560622,MLS - MLS Cup 2022 - Outright,Seattle Sounders,0.0179,0.1429,0.125
 2022-03-13 12:31:06.302629,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Villarreal,0.0179,0.1429,0.125
+2022-03-13 11:30:49.560622,MLS - MLS Cup 2022 - Outright,Seattle Sounders,0.0179,0.1429,0.125
 2022-03-13 06:30:54.356794,NFL Specials - Where will Bobby Wagner  Play Game 1 of the 2022/2023 NFL Season? - Outright,Dallas Cowboys,0.016699999999999993,0.2667,0.25
 2022-03-13 12:31:06.280514,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Freiburg,0.015100000000000002,0.1818,0.1667
 2022-03-13 11:30:49.884804,League Two - England League Two 2021/22 - To Be Relegated,Scunthorpe United,0.014599999999999946,0.995,0.9804
-2022-03-13 13:30:48.310364,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Duke,0.013999999999999999,0.0909,0.0769
-2022-03-13 11:30:49.666010,England Championship - England Championship 21/22 - To Be Promoted,Queens Park Rangers,0.013999999999999999,0.0909,0.0769
 2022-03-13 10:30:49.857824,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Burnley,0.013999999999999999,0.0909,0.0769
+2022-03-13 11:30:49.666010,England Championship - England Championship 21/22 - To Be Promoted,Queens Park Rangers,0.013999999999999999,0.0909,0.0769
 2022-03-13 11:30:49.672592,England Championship - England Championship 21/22 - Top 2 Finish,Huddersfield Town,0.013999999999999999,0.0909,0.0769
+2022-03-13 13:30:48.310364,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Duke,0.013999999999999999,0.0909,0.0769
 2022-03-13 11:30:49.560622,MLS - MLS Cup 2022 - Outright,Los Angeles FC,0.013899999999999996,0.125,0.1111
 2022-03-13 11:30:49.741755,Serie B - Italy Serie B 2021/22 - Outright,Benevento,0.013899999999999996,0.125,0.1111
 2022-03-13 11:30:49.854031,League One - England League One 2021/22 - Top 6 Finish,Sunderland,0.013899999999999912,0.6667,0.6528
@@ -76,19 +71,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-13 10:30:49.895344,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Everton,0.012899999999999912,0.8462,0.8333
 2022-03-13 08:30:41.334623,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,0.012299999999999978,0.3571,0.3448
 2022-03-13 11:30:49.710223,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Schalke 04,0.010899999999999993,0.1538,0.1429
+2022-03-13 17:30:39.754695,NFL Specials - Where will Tyrann Mathieu Play Game 1 of the 2022/2023 NFL Season? - Outright,Kansas City Chiefs,0.010499999999999982,0.2105,0.2
+2022-03-13 11:30:49.666010,England Championship - England Championship 21/22 - To Be Promoted,Millwall,0.0102,0.0769,0.0667
 2022-03-13 11:30:49.560622,MLS - MLS Cup 2022 - Outright,Colorado Rapids,0.0102,0.0769,0.0667
 2022-03-13 11:30:49.560622,MLS - MLS Cup 2022 - Outright,Philadelphia Union,0.0102,0.0769,0.0667
-2022-03-13 11:30:49.666010,England Championship - England Championship 21/22 - To Be Promoted,Millwall,0.0102,0.0769,0.0667
 2022-03-13 12:31:06.298706,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Levante,0.010199999999999987,0.9333,0.9231
 2022-03-13 11:30:49.710223,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Heidenheim,0.010100000000000001,0.0345,0.0244
 2022-03-13 09:30:58.564827,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Republican,0.010099999999999998,0.5556,0.5455
 2022-03-13 11:30:49.679543,England Championship - England Championship 21/22 - Top 6 Finish,Middlesbrough,-0.010099999999999998,0.5455,0.5556
-2022-03-13 11:30:49.560622,MLS - MLS Cup 2022 - Outright,Sporting Kansas City,-0.0102,0.0667,0.0769
 2022-03-13 11:30:49.666010,England Championship - England Championship 21/22 - To Be Promoted,West Bromwich Albion,-0.0102,0.0667,0.0769
+2022-03-13 11:30:49.560622,MLS - MLS Cup 2022 - Outright,Sporting Kansas City,-0.0102,0.0667,0.0769
 2022-03-13 10:30:49.857824,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Brentford,-0.0103,0.002,0.0123
 2022-03-13 12:31:06.302629,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Sociedad,-0.010899999999999993,0.1429,0.1538
-2022-03-13 08:30:41.339545,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.011099999999999999,0.1,0.1111
 2022-03-13 11:30:49.741755,Serie B - Italy Serie B 2021/22 - Outright,Pisa,-0.011099999999999999,0.1,0.1111
+2022-03-13 08:30:41.339545,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.011099999999999999,0.1,0.1111
 2022-03-13 11:30:49.891559,League Two - England League Two 2021/22 - Top 3 Finish,Salford City,-0.011199999999999995,0.0476,0.0588
 2022-03-13 10:30:49.857824,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Leeds United,-0.011199999999999995,0.0476,0.0588
 2022-03-13 12:31:06.302629,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Athletic Bilbao,-0.0131,0.0345,0.0476
@@ -100,7 +96,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-13 12:31:06.276573,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,VfB Stuttgart,-0.019699999999999995,0.4348,0.4545
 2022-03-13 12:31:06.276573,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Arminia Bielefeld,-0.02100000000000002,0.3636,0.3846
 2022-03-13 12:31:06.302629,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Betis,-0.022199999999999998,0.2,0.2222
-2022-03-13 06:30:53.160493,BAFTA Awards 2022 - Best Actress in a Leading Role - Best Actress,Alana Haim (Licorice Pizza),-0.02310000000000001,0.0769,0.1
 2022-03-13 12:31:06.276573,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Borussia Mönchengladbach,-0.023200000000000002,0.0244,0.0476
 2022-03-13 11:30:49.832612,League One - England League One 2021/22 - To Be Promoted,Wycombe,-0.0242,0.0667,0.0909
 2022-03-13 11:30:49.864700,League Two - England League Two 2021/22 - Outright,Forest Green Rovers,-0.0242,0.9091,0.9333
@@ -111,8 +106,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-13 08:30:41.339545,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,-0.027800000000000047,0.75,0.7778
 2022-03-13 11:30:49.884804,League Two - England League Two 2021/22 - To Be Relegated,Barrow FC,-0.027999999999999997,0.1538,0.1818
 2022-03-13 10:30:49.888338,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Tottenham Hotspur,-0.03080000000000005,0.7692,0.8
-2022-03-13 11:30:49.832612,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,-0.031799999999999995,0.4444,0.4762
 2022-03-13 10:30:49.829787,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without Man City,Chelsea,-0.031799999999999995,0.1111,0.1429
+2022-03-13 11:30:49.832612,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,-0.031799999999999995,0.4444,0.4762
 2022-03-13 11:30:49.819254,League One - England League One 2021/22 - Outright,Milton Keynes Dons,-0.0321,0.0588,0.0909
 2022-03-13 11:30:49.839227,League One - England League One 2021/22 - To Be Relegated,Lincoln City,-0.03270000000000001,0.0149,0.0476
 2022-03-13 11:30:49.819254,League One - England League One 2021/22 - Outright,Rotherham Utd,-0.03300000000000003,0.6198,0.6528
@@ -121,8 +116,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-13 10:30:49.873385,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Tottenham Hotspur,-0.0358,0.2309,0.2667
 2022-03-13 11:30:49.666010,England Championship - England Championship 21/22 - To Be Promoted,Middlesbrough,-0.04040000000000002,0.1818,0.2222
 2022-03-13 11:30:49.741755,Serie B - Italy Serie B 2021/22 - Outright,Lecce,-0.04089999999999999,0.3846,0.4255
-2022-03-13 12:31:06.298706,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,-0.04099999999999998,0.2667,0.3077
 2022-03-13 11:30:49.878310,League Two - England League Two 2021/22 - To Be Promoted,Sutton Utd,-0.04099999999999998,0.2667,0.3077
+2022-03-13 12:31:06.298706,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,-0.04099999999999998,0.2667,0.3077
 2022-03-13 11:30:49.679543,England Championship - England Championship 21/22 - Top 6 Finish,West Bromwich Albion,-0.04169999999999999,0.125,0.1667
 2022-03-13 11:30:49.854031,League One - England League One 2021/22 - Top 6 Finish,Portsmouth,-0.042899999999999994,0.1,0.1429
 2022-03-13 11:30:49.710223,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Werder Bremen,-0.043200000000000016,0.3077,0.3509
@@ -142,7 +137,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-13 11:30:49.854031,League One - England League One 2021/22 - Top 6 Finish,Ipswich Town,-0.07069999999999999,0.1111,0.1818
 2022-03-13 11:30:49.891559,League Two - England League Two 2021/22 - Top 3 Finish,Northampton Town,-0.09230000000000005,0.3077,0.4
 2022-03-13 10:30:49.895344,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Burnley,-0.10970000000000002,0.5455,0.6552
-2022-03-13 06:30:53.160493,BAFTA Awards 2022 - Best Actress in a Leading Role - Best Actress,Lady Gaga (House Of Gucci),-0.11430000000000001,0.2857,0.4
 2022-03-13 11:30:49.839227,League One - England League One 2021/22 - To Be Relegated,Gillingham,-0.13890000000000002,0.75,0.8889
 2022-03-13 11:30:49.679543,England Championship - England Championship 21/22 - Top 6 Finish,Sheffield United,-0.14279999999999993,0.7143,0.8571
 2022-03-13 11:30:49.679543,England Championship - England Championship 21/22 - Top 6 Finish,Blackburn Rovers,-0.1745,0.4255,0.6
