@@ -42,6 +42,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-14 09:31:09.644942,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Strasbourg,0.0203,0.0588,0.0385
 2022-03-14 09:31:09.865591,A-League - Australia A-League 2021/2022 - Grand Final Winner,Adelaide United,0.02020000000000001,0.1111,0.0909
 2022-03-14 10:30:45.503212,England Championship - England Championship 21/22 - To Be Promoted,Queens Park Rangers,0.02020000000000001,0.1111,0.0909
+2022-03-14 13:30:53.536216,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Cooper Kupp,0.0189,0.0385,0.0196
 2022-03-14 10:30:45.718239,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Brentford,0.0189,0.0385,0.0196
 2022-03-14 10:30:45.381379,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Freiburg,0.01820000000000002,0.2,0.1818
 2022-03-14 10:30:45.409427,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Real Betis,0.018200000000000004,0.0476,0.0294
@@ -64,11 +65,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-14 10:30:45.503212,England Championship - England Championship 21/22 - To Be Promoted,Millwall,-0.0102,0.0667,0.0769
 2022-03-14 10:30:45.507218,England Championship - England Championship 21/22 - Top 2 Finish,Sheffield United,-0.0102,0.0667,0.0769
 2022-03-14 13:30:53.536216,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Trey Lance,-0.010600000000000002,0.0217,0.0323
-2022-03-14 12:30:38.282498,MLB Futures - MLB 2022 National League - Outright,Atlanta Braves,-0.010899999999999993,0.1429,0.1538
 2022-03-14 10:30:45.375651,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Augsburg,-0.010899999999999993,0.1429,0.1538
+2022-03-14 12:30:38.282498,MLB Futures - MLB 2022 National League - Outright,Atlanta Braves,-0.010899999999999993,0.1429,0.1538
 2022-03-14 10:30:45.533314,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,St. Pauli,-0.011099999999999999,0.2667,0.2778
-2022-03-14 10:30:45.434074,MLS - MLS Cup 2022 - Top Goalscorer,Gyasi Zardes,-0.011199999999999995,0.0476,0.0588
 2022-03-14 10:30:45.434074,MLS - MLS Cup 2022 - Top Goalscorer,Valentin Castellanos,-0.011199999999999995,0.0476,0.0588
+2022-03-14 10:30:45.434074,MLS - MLS Cup 2022 - Top Goalscorer,Gyasi Zardes,-0.011199999999999995,0.0476,0.0588
 2022-03-14 12:30:38.286810,MLB Futures - MLB 2022 American League Central - Outright,Minnesota Twins,-0.012299999999999991,0.1053,0.1176
 2022-03-14 12:30:38.303685,MLB Futures - MLB 2022 National League East - Outright,Philadelphia Phillies,-0.012899999999999995,0.1538,0.1667
 2022-03-14 10:30:45.507218,England Championship - England Championship 21/22 - Top 2 Finish,Nottingham Forest,-0.014099999999999998,0.0294,0.0435
@@ -92,8 +93,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-14 09:31:09.882925,Superligaen - Denmark Superligaen 2021/22 - Outright,Brøndby IF,-0.023799999999999988,0.1429,0.1667
 2022-03-14 09:31:09.664093,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Nice,-0.023799999999999988,0.4762,0.5
 2022-03-14 12:30:38.307934,MLB Futures - MLB 2022 National League West - Outright,San Francisco Giants,-0.023800000000000016,0.1667,0.1905
-2022-03-14 10:30:45.507218,England Championship - England Championship 21/22 - Top 2 Finish,Huddersfield Town,-0.0242,0.0667,0.0909
 2022-03-14 10:30:45.434074,MLS - MLS Cup 2022 - Top Goalscorer,Raul Ruidiaz,-0.0242,0.0667,0.0909
+2022-03-14 10:30:45.507218,England Championship - England Championship 21/22 - Top 2 Finish,Huddersfield Town,-0.0242,0.0667,0.0909
 2022-03-14 10:30:45.533314,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Hamburger SV,-0.024999999999999994,0.1,0.125
 2022-03-14 10:30:45.699274,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Leeds United,-0.028000000000000004,0.0196,0.0476
 2022-03-14 09:31:09.644942,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lille,-0.028199999999999996,0.0385,0.0667
