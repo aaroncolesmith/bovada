@@ -1,37 +1,48 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-03-14 09:31:09.664093,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Marseille,0.13890000000000002,0.5833,0.4444
+2022-03-14 09:31:09.664093,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Rennes,0.11259999999999992,0.6364,0.5238
+2022-03-14 09:31:09.654766,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Kylian Mbappe,0.11259999999999992,0.6364,0.5238
+2022-03-14 09:31:09.644942,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Rennes,0.11110000000000003,0.4444,0.3333
+2022-03-14 09:31:08.262588,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Tampa Bay Buccaneers,0.09720000000000001,0.125,0.0278
+2022-03-14 09:31:09.882925,Superligaen - Denmark Superligaen 2021/22 - Outright,FC Copenhagen,0.0948,0.75,0.6552
 2022-03-14 01:30:34.736846,Italy Serie A - Italy Serie A 2021/2022 - Outright,AC Milan,0.06659999999999999,0.3333,0.2667
 2022-03-14 01:30:34.648387,WNBL - Australia WNBL 2021/22 - Outright,Melbourne Boomers (W),0.047599999999999976,0.3333,0.2857
 2022-03-14 01:30:34.637028,NBL - NBL 2021/22 - Outright,Melbourne United,0.044800000000000006,0.3226,0.2778
 2022-03-14 01:30:34.648387,WNBL - Australia WNBL 2021/22 - Outright,Canberra Capitals (W),0.04409999999999997,0.2941,0.25
-2022-03-13 21:30:49.938608,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Tennessee,0.04169999999999999,0.1667,0.125
-2022-03-13 21:30:49.938608,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Duke,0.04099999999999998,0.3077,0.2667
+2022-03-14 09:31:09.664093,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Strasbourg,0.042899999999999994,0.1429,0.1
+2022-03-14 09:31:09.644942,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Marseille,0.04099999999999998,0.3077,0.2667
 2022-03-14 01:30:34.637028,NBL - NBL 2021/22 - Outright,Perth Wildcats,0.0363,0.303,0.2667
 2022-03-14 08:30:45.736412,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.035699999999999954,0.75,0.7143
-2022-03-13 21:30:49.938608,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Texas Tech,0.023799999999999988,0.1667,0.1429
 2022-03-14 06:30:45.285296,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Cade Cunningham,0.023799999999999988,0.1667,0.1429
-2022-03-13 21:30:49.938608,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Arkansas,0.02310000000000001,0.1,0.0769
 2022-03-14 01:30:34.736846,Italy Serie A - Italy Serie A 2021/2022 - Outright,Napoli,0.022199999999999998,0.2222,0.2
+2022-03-14 09:31:09.644942,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Strasbourg,0.0203,0.0588,0.0385
+2022-03-14 09:31:09.865591,A-League - Australia A-League 2021/2022 - Grand Final Winner,Adelaide United,0.02020000000000001,0.1111,0.0909
 2022-03-14 03:30:40.016382,College Basketball - 2021 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Arizona,0.0179,0.1429,0.125
-2022-03-13 21:30:49.938608,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Virginia Tech,0.0159,0.0323,0.0164
+2022-03-14 09:31:09.644942,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Nantes,0.017099999999999997,0.0294,0.0123
 2022-03-13 22:30:58.544553,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,0.014899999999999997,0.0625,0.0476
 2022-03-14 08:30:45.741082,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,0.014700000000000046,0.7647,0.75
 2022-03-14 01:30:34.637028,NBL - NBL 2021/22 - Outright,Sydney Kings,0.01469999999999999,0.25,0.2353
-2022-03-13 21:30:49.938608,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Miami (FL),0.012700000000000003,0.0323,0.0196
-2022-03-13 21:30:49.938608,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Indiana,0.012700000000000003,0.0323,0.0196
-2022-03-13 21:30:49.938608,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Illinois,0.011099999999999999,0.1111,0.1
-2022-03-13 21:30:49.938608,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Kansas,0.011099999999999999,0.2778,0.2667
-2022-03-13 21:30:49.938608,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Houston,0.011099999999999999,0.1111,0.1
-2022-03-13 21:30:49.938608,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Villanova,0.010899999999999993,0.1538,0.1429
+2022-03-14 09:31:07.970191,Boxing Lines - Gennady Golovkin vs Ryota Murata - To Win the Bout,Ryota Murata,0.010499999999999982,0.2105,0.2
 2022-03-14 03:30:40.016382,College Basketball - 2021 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Houston,0.010100000000000001,0.0345,0.0244
-2022-03-13 21:30:49.938608,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Wake Forest,-0.010300000000000002,0.0141,0.0244
-2022-03-13 21:30:49.938608,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Providence,-0.011199999999999995,0.0476,0.0588
 2022-03-13 22:30:58.544553,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.012299999999999978,0.3448,0.3571
-2022-03-13 21:30:49.938608,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Xavier,-0.012700000000000003,0.0196,0.0323
 2022-03-14 08:30:45.741082,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.016700000000000007,0.0833,0.1
+2022-03-14 09:31:07.970191,Boxing Lines - Gennady Golovkin vs Ryota Murata - To Win the Bout,Gennady Golovkin,-0.017900000000000027,0.8571,0.875
 2022-03-13 22:30:58.539275,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.01820000000000002,0.1818,0.2
+2022-03-14 09:31:09.644942,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Nice,-0.019000000000000017,0.2667,0.2857
 2022-03-14 01:30:34.648387,WNBL - Australia WNBL 2021/22 - Outright,Adelaide Lightning (W),-0.02310000000000001,0.0769,0.1
+2022-03-14 09:31:09.664093,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Nice,-0.023799999999999988,0.4762,0.5
+2022-03-14 09:31:09.882925,Superligaen - Denmark Superligaen 2021/22 - Outright,Brøndby IF,-0.023799999999999988,0.1429,0.1667
+2022-03-14 09:31:09.644942,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lille,-0.028199999999999996,0.0385,0.0667
+2022-03-14 09:31:09.654766,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Gaetan Laborde,-0.031799999999999995,0.1111,0.1429
+2022-03-14 09:31:09.664093,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lille,-0.031799999999999995,0.1111,0.1429
+2022-03-14 09:31:09.654766,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Jonathan David,-0.034100000000000005,0.0909,0.125
+2022-03-14 09:31:09.644942,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Monaco,-0.0373,0.0294,0.0667
 2022-03-14 01:30:34.637028,NBL - NBL 2021/22 - Outright,SE Melbourne Phoenix,-0.041600000000000026,0.1667,0.2083
-2022-03-13 21:30:49.938608,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Auburn,-0.044499999999999984,0.2222,0.2667
+2022-03-14 09:31:09.654766,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Wissam Ben Yedder,-0.05310000000000001,0.2326,0.2857
 2022-03-14 01:30:34.637028,NBL - NBL 2021/22 - Outright,Illawarra Hawks,-0.05450000000000002,0.1538,0.2083
+2022-03-14 09:31:09.644942,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Lyon,-0.0635,0.0476,0.1111
 2022-03-14 08:30:45.736412,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,-0.07929999999999998,0.2778,0.3571
+2022-03-14 09:31:09.664093,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Monaco,-0.0909,0.0909,0.1818
+2022-03-14 09:31:09.882925,Superligaen - Denmark Superligaen 2021/22 - Outright,FC Midtjylland,-0.0925,0.2105,0.303
 2022-03-14 01:30:34.736846,Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,-0.09550000000000003,0.4878,0.5833
+2022-03-14 09:31:09.664093,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lyon,-0.1417,0.125,0.2667
