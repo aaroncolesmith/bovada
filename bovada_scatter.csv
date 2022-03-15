@@ -5,18 +5,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-14 23:30:53.383937,43rd Annual Razzie Awards - Worst Picture - Outright,Diana the Musical,0.06929999999999997,0.5455,0.4762
 2022-03-14 22:30:43.119000,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Liverpool,0.047599999999999976,0.3333,0.2857
 2022-03-14 23:30:54.514194,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,Real Madrid,0.028000000000000025,0.9804,0.9524
-2022-03-14 21:31:10.064986,College Specials - How many games will go into OT in the 2022 NCAA Men’s Basketball Championship? - Outright,Over 3.5,0.023800000000000043,0.5238,0.5
 2022-03-15 07:30:43.213448,College Specials - What will be the highest point total scored by 1 team during the Round of 64 in the 2022 NCAA Men's Basketball Championship Tournament? - Outright,Over 97.5,0.023699999999999943,0.6154,0.5917
-2022-03-14 21:31:09.992371,College Specials - Combined seed number for Final Four teams - Outright,Over 10.5,0.022600000000000064,0.5348,0.5122
 2022-03-15 07:30:43.206500,College Specials - What will be the highest margin of victory during the Round of 64 in the 2022 NCAA Men's Basketball Championship Tournament? - Outright,Under 38.5,0.02169999999999994,0.5455,0.5238
 2022-03-15 01:30:37.964507,College Specials - Combined seed number for Final Four teams - Outright,Over 10.5,0.02079999999999993,0.5556,0.5348
 2022-03-15 07:30:43.171461,College Specials - How many games will go into Double OT in the 2022 NCAA Men’s Basketball Championship? - Outright,Under 0.5,0.020299999999999985,0.6429,0.6226
+2022-03-15 10:30:41.442721,NBA Specials - Who will be the NBA 2K23 Cover Athlete? - Outright,Nikola Jokic,0.02020000000000001,0.1111,0.0909
 2022-03-15 01:30:38.083495,College Specials - Will Automatic bid Team win the 2022 NCAA Tournament? - Outright,Yes (Automatic bid team wins NCAA Tournament),0.01970000000000005,0.5652,0.5455
 2022-03-15 08:30:53.142694,NBA Futures - 2022 NBA Northwest Division - Division Winner,Minnesota Timberwolves,0.0189,0.0385,0.0196
+2022-03-15 10:30:41.663220,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Moussa Dembele,0.0189,0.0385,0.0196
 2022-03-15 07:30:42.896741,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.018799999999999983,0.3636,0.3448
 2022-03-15 08:30:53.153318,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,0.016700000000000007,0.1,0.0833
 2022-03-15 07:30:42.888040,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,0.016699999999999993,0.2667,0.25
-2022-03-14 21:31:10.000347,College Specials - First #1 Seed Eliminated - Outright,Baylor,0.016699999999999993,0.4167,0.4
 2022-03-15 07:30:43.190263,College Specials - Most points by a single player in the Round of 64 in the 2022 NCAA Men’s Basketball Championship - Outright,Under 32.5,0.016000000000000014,0.4082,0.3922
 2022-03-15 01:30:38.041951,College Specials - Most points by a single player in the Round of 64 in the 2022 NCAA Men’s Basketball Championship - Outright,Under 32.5,0.01479999999999998,0.3922,0.3774
 2022-03-15 03:30:57.046658,BKFC 23 - Marciano Hernandez vs Jerald Gregori - To Win the Bout,Marciano Hernandez,0.013900000000000023,0.871,0.8571
@@ -28,27 +27,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-15 01:30:38.122640,College Specials - Will a #16 seed win a game in the Round of 64? - Outright,No,0.010199999999999987,0.9333,0.9231
 2022-03-15 01:30:38.041951,College Specials - Most points by a single player in the Round of 64 in the 2022 NCAA Men’s Basketball Championship - Outright,Over 32.5,-0.010099999999999998,0.6774,0.6875
 2022-03-14 23:30:53.348917,43rd Annual Razzie Awards - Worst Bruce Willis Performance in a 2021 Movie - Outright,Fortress,-0.0102,0.0667,0.0769
-2022-03-15 07:30:42.740370,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Baylor,-0.0102,0.0667,0.0769
-2022-03-15 07:30:42.740370,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Auburn,-0.0102,0.0667,0.0769
-2022-03-14 23:30:53.348917,43rd Annual Razzie Awards - Worst Bruce Willis Performance in a 2021 Movie - Outright,Out of Death,-0.0102,0.0667,0.0769
 2022-03-14 23:30:53.364010,43rd Annual Razzie Awards - Worst Director - Outright,Renny Harlin (The Misfits),-0.0102,0.0667,0.0769
+2022-03-15 07:30:42.740370,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Baylor,-0.0102,0.0667,0.0769
+2022-03-14 23:30:53.348917,43rd Annual Razzie Awards - Worst Bruce Willis Performance in a 2021 Movie - Outright,Out of Death,-0.0102,0.0667,0.0769
+2022-03-15 07:30:42.740370,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Auburn,-0.0102,0.0667,0.0769
 2022-03-14 23:30:53.364010,43rd Annual Razzie Awards - Worst Director - Outright,Joe Wright (The Woman In The Window),-0.012299999999999991,0.1053,0.1176
 2022-03-15 07:30:43.250919,College Specials - Will a #12 seed win a game in the Round of 64? - Outright,No,-0.012699999999999989,0.3509,0.3636
 2022-03-14 23:30:53.383937,43rd Annual Razzie Awards - Worst Picture - Outright,Infinite,-0.013899999999999996,0.1111,0.125
 2022-03-15 07:30:42.896741,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,-0.01419999999999999,0.3704,0.3846
 2022-03-15 07:30:42.879167,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,-0.015700000000000006,0.1176,0.1333
 2022-03-15 07:30:42.888040,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.015899999999999997,0.2222,0.2381
-2022-03-14 21:31:10.000347,College Specials - First #1 Seed Eliminated - Outright,Arizona,-0.016400000000000026,0.3226,0.339
 2022-03-15 07:30:43.267153,College Specials - Will a #14 seed win a game in the Round of 64? - Outright,No,-0.018399999999999972,0.6875,0.7059
 2022-03-15 07:30:43.171461,College Specials - How many games will go into Double OT in the 2022 NCAA Men’s Basketball Championship? - Outright,Over 0.5,-0.018900000000000028,0.4255,0.4444
-2022-03-14 21:31:10.064986,College Specials - How many games will go into OT in the 2022 NCAA Men’s Basketball Championship? - Outright,Under 3.5,-0.01970000000000005,0.5455,0.5652
-2022-03-14 21:31:09.992371,College Specials - Combined seed number for Final Four teams - Outright,Under 10.5,-0.02079999999999993,0.5348,0.5556
 2022-03-15 07:30:43.206500,College Specials - What will be the highest margin of victory during the Round of 64 in the 2022 NCAA Men's Basketball Championship Tournament? - Outright,Over 38.5,-0.02169999999999994,0.5238,0.5455
 2022-03-15 07:30:43.213448,College Specials - What will be the highest point total scored by 1 team during the Round of 64 in the 2022 NCAA Men's Basketball Championship Tournament? - Outright,Under 97.5,-0.021699999999999997,0.4545,0.4762
 2022-03-15 07:30:43.190263,College Specials - Most points by a single player in the Round of 64 in the 2022 NCAA Men’s Basketball Championship - Outright,Over 32.5,-0.022199999999999998,0.6552,0.6774
 2022-03-15 01:30:37.964507,College Specials - Combined seed number for Final Four teams - Outright,Under 10.5,-0.022600000000000064,0.5122,0.5348
-2022-03-14 23:30:53.395394,"43rd Annual Razzie Awards - Worst Prequel, Remake, Rip-off or Sequel - Outright",Karen (Inadvertent remake of Cruella de Vil),-0.023799999999999988,0.1429,0.1667
 2022-03-14 23:30:53.364010,43rd Annual Razzie Awards - Worst Director - Outright,Stephen Chbosky (Dear Evan Hansen),-0.023799999999999988,0.1429,0.1667
+2022-03-14 23:30:53.395394,"43rd Annual Razzie Awards - Worst Prequel, Remake, Rip-off or Sequel - Outright",Karen (Inadvertent remake of Cruella de Vil),-0.023799999999999988,0.1429,0.1667
 2022-03-15 01:30:38.083495,College Specials - Will Automatic bid Team win the 2022 NCAA Tournament? - Outright,No (At-Large team wins NCAA Tournament),-0.023800000000000043,0.5,0.5238
 2022-03-15 07:30:43.153597,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,3,-0.033300000000000024,0.1667,0.2
 2022-03-14 22:30:43.119000,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Manchester City,-0.044500000000000095,0.7333,0.7778
