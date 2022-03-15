@@ -16,13 +16,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Tennessee,0.06590000000000001,0.2326,0.1667
 2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Auburn,0.0635,0.2857,0.2222
 2022-03-15 22:30:46.206399,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,2,0.06059999999999999,0.3636,0.303
-2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Houston,0.05559999999999998,0.1667,0.1111
 2022-03-15 14:31:33.892064,94th Academy Awards - Odds to win Best Actor - Best Actor,Will Smith (King Richard),0.05559999999999998,0.8889,0.8333
+2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Houston,0.05559999999999998,0.1667,0.1111
 2022-03-15 11:30:58.072248,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Cagliari,0.05559999999999998,0.5,0.4444
 2022-03-15 11:30:58.078718,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Napoli,0.0524,0.9615,0.9091
 2022-03-15 14:31:33.689179,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Olivia Rodrigo - Sour,0.04760000000000009,0.7143,0.6667
-2022-03-15 14:31:33.826133,94th Academy Awards - Best Sound - Best Sound,Dune,0.047599999999999976,0.8571,0.8095
 2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Baylor,0.047599999999999976,0.3333,0.2857
+2022-03-15 14:31:33.826133,94th Academy Awards - Best Sound - Best Sound,Dune,0.047599999999999976,0.8571,0.8095
 2022-03-15 13:30:52.854515,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Robert Williams,0.04329999999999999,0.0909,0.0476
 2022-03-15 20:30:42.318628,MLB Futures - MLB 2022 National League West - Outright,Los Angeles Dodgers,0.04290000000000005,0.6429,0.6
 2022-03-15 12:30:46.160382,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,0.04099999999999998,0.3077,0.2667
@@ -38,15 +38,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-15 21:31:11.139821,"College Specials - How Many ""Bad Beats"" Will occur in the Round of 64 - Outright",4,0.028399999999999995,0.0909,0.0625
 2022-03-15 20:30:42.266989,MLB Futures - MLB 2022 World Series - Outright,Toronto Blue Jays,0.027800000000000005,0.1111,0.0833
 2022-03-15 15:30:58.825064,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Gonzaga,0.02779999999999999,0.25,0.2222
+2022-03-15 22:30:46.399520,College Specials - Will Automatic bid Team win the 2022 NCAA Tournament? - Outright,Yes (Automatic bid team wins NCAA Tournament),0.026499999999999968,0.5917,0.5652
 2022-03-15 22:30:46.223315,College Specials - How many Round of 64 games will go into OT in the 2022 NCAA Men’s Basketball Championship? - Outright,Over 2,0.024399999999999977,0.5122,0.4878
 2022-03-15 22:30:46.444601,"College Specials - Will a #14, #15 or #16 seed win a game in the Round of 64? - Outright",No,0.023800000000000043,0.5238,0.5
 2022-03-15 22:30:46.197772,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,Over 1.5,0.023799999999999988,0.5,0.4762
 2022-03-15 15:30:58.825064,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Villanova,0.0232,0.0667,0.0435
+2022-03-15 13:30:52.847628,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Monty Williams (PHO),0.022199999999999998,0.8,0.7778
 2022-03-15 22:30:46.693410,Champions League - UEFA Champions League 2021/2022 - Outright,Bayern Munich,0.022199999999999998,0.2222,0.2
 2022-03-15 13:30:52.941017,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.022199999999999998,0.2222,0.2
-2022-03-15 13:30:52.847628,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Monty Williams (PHO),0.022199999999999998,0.8,0.7778
-2022-03-15 21:31:11.139821,"College Specials - How Many ""Bad Beats"" Will occur in the Round of 64 - Outright",3,0.02020000000000001,0.1111,0.0909
+2022-03-15 22:30:46.249038,College Specials - How many games will go into OT in the 2022 NCAA Men’s Basketball Championship? - Outright,Over 3.5,0.02169999999999994,0.5455,0.5238
 2022-03-15 22:30:46.693410,Champions League - UEFA Champions League 2021/2022 - Outright,Real Madrid,0.02020000000000001,0.1111,0.0909
+2022-03-15 21:31:11.139821,"College Specials - How Many ""Bad Beats"" Will occur in the Round of 64 - Outright",3,0.02020000000000001,0.1111,0.0909
 2022-03-15 13:30:52.869728,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Evan Mobley,0.020199999999999996,0.9091,0.8889
 2022-03-15 14:31:33.864745,94th Academy Awards - Best Supporting Actress - Best Supporting Actress,Ariana DeBose (West Side Story),0.020199999999999996,0.9091,0.8889
 2022-03-15 14:31:33.921156,94th Academy Awards - Odds to win Best Actress - Best Actress,Olivia Colman (The Lost Daughter),0.020100000000000007,0.1739,0.1538
@@ -66,10 +68,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-15 12:30:46.420205,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Sporting CP,0.0179,0.1429,0.125
 2022-03-15 20:30:42.272268,MLB Futures - MLB 2022 Amercian League - Outright,Toronto Blue Jays,0.016600000000000004,0.1905,0.1739
 2022-03-15 13:30:52.910020,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.015899999999999997,0.2381,0.2222
+2022-03-15 23:30:55.125508,"College Specials - How Many ""Bad Beats"" Will occur in the Round of 64 - Outright",6 Or More,0.015300000000000001,0.0588,0.0435
 2022-03-15 20:30:42.277346,MLB Futures - MLB 2022 National League - Outright,Cincinnati Reds,0.015300000000000001,0.0476,0.0323
 2022-03-15 15:30:58.825064,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Tennessee,0.015300000000000001,0.0588,0.0435
-2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Texas Tech,0.015100000000000002,0.1818,0.1667
 2022-03-15 20:30:42.318628,MLB Futures - MLB 2022 National League West - Outright,San Francisco Giants,0.015100000000000002,0.1818,0.1667
+2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Texas Tech,0.015100000000000002,0.1818,0.1667
 2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,San Diego State,0.014099999999999998,0.0385,0.0244
 2022-03-15 22:30:46.693410,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,0.0131,0.2353,0.2222
 2022-03-15 12:30:46.153654,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Karim Benzema,0.012599999999999945,0.993,0.9804
@@ -80,8 +83,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-15 20:30:42.266989,MLB Futures - MLB 2022 World Series - Outright,Seattle Mariners,0.010600000000000002,0.0323,0.0217
 2022-03-15 13:30:52.901993,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.010499999999999982,0.2105,0.2
 2022-03-15 15:30:58.825064,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Auburn,0.0102,0.0769,0.0667
-2022-03-15 17:31:12.549423,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Auburn,0.0102,0.0769,0.0667
 2022-03-15 17:31:12.549423,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Baylor,0.0102,0.0769,0.0667
+2022-03-15 17:31:12.549423,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Auburn,0.0102,0.0769,0.0667
 2022-03-15 15:30:58.825064,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Houston,0.010100000000000001,0.0345,0.0244
 2022-03-15 14:31:33.962998,94th Academy Awards - Odds to win Best Picture - Best Picture,Dune,-0.010100000000000001,0.0244,0.0345
 2022-03-15 14:31:33.962998,94th Academy Awards - Odds to win Best Picture - Best Picture,Licorice Pizza,-0.010100000000000001,0.0244,0.0345
@@ -89,9 +92,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Wisconsin,-0.0102,0.0667,0.0769
 2022-03-15 13:30:52.910020,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.010399999999999993,0.2222,0.2326
 2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Boise State,-0.010600000000000002,0.0217,0.0323
-2022-03-15 13:30:52.910020,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Cleveland Cavaliers,-0.011199999999999995,0.0323,0.0435
 2022-03-15 13:30:52.854515,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Mikal Bridges,-0.011199999999999995,0.0476,0.0588
+2022-03-15 13:30:52.910020,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Cleveland Cavaliers,-0.011199999999999995,0.0323,0.0435
 2022-03-15 13:30:52.854515,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Jarrett Allen,-0.0118,0.0099,0.0217
+2022-03-15 23:30:55.125508,"College Specials - How Many ""Bad Beats"" Will occur in the Round of 64 - Outright",0,-0.012199999999999989,0.5,0.5122
 2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Indiana,-0.012700000000000003,0.0196,0.0323
 2022-03-15 13:30:52.847628,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Taylor Jenkins (MEM),-0.012899999999999995,0.1538,0.1667
 2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Wyoming,-0.013,0.0066,0.0196
@@ -100,47 +104,49 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-15 15:30:58.825064,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Kentucky,-0.013899999999999996,0.1111,0.125
 2022-03-15 12:30:46.420205,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,FC Porto,-0.014000000000000012,0.9091,0.9231
 2022-03-15 13:30:52.941017,NBA Futures - 2022 NBA Northwest Division - Division Winner,Minnesota Timberwolves,-0.014099999999999998,0.0244,0.0385
+2022-03-15 13:30:52.933189,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.014399999999999996,0.0625,0.0769
 2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Connecticut,-0.014399999999999996,0.0625,0.0769
 2022-03-15 14:31:33.864745,94th Academy Awards - Best Supporting Actress - Best Supporting Actress,Aunjanue Ellis (King Richard),-0.014399999999999996,0.0625,0.0769
 2022-03-15 13:30:52.910020,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Chicago Bulls,-0.014399999999999996,0.0625,0.0769
-2022-03-15 13:30:52.933189,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.014399999999999996,0.0625,0.0769
-2022-03-15 12:30:46.153654,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Enes Unal,-0.0145,0.0099,0.0244
 2022-03-15 12:30:46.153654,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Raul de Tomas,-0.0145,0.0099,0.0244
+2022-03-15 12:30:46.153654,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Enes Unal,-0.0145,0.0099,0.0244
 2022-03-15 15:30:58.825064,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - Odds to Win NCAAB Men's Basketball Championship 2021/2022,Purdue,-0.014899999999999997,0.0476,0.0625
 2022-03-15 13:30:52.854515,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Joel Embiid,-0.015300000000000001,0.0323,0.0476
 2022-03-15 12:30:46.160382,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,-0.015400000000000025,0.3846,0.4
 2022-03-15 14:31:33.826133,94th Academy Awards - Best Sound - Best Sound,No Time to Die,-0.016600000000000004,0.0667,0.0833
-2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,North Carolina,-0.017099999999999997,0.0385,0.0556
 2022-03-15 12:30:46.153654,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Iago Aspas,-0.017099999999999997,0.0123,0.0294
+2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,North Carolina,-0.017099999999999997,0.0385,0.0556
 2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,TCU,-0.017100000000000004,0.0152,0.0323
 2022-03-15 13:30:52.869728,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Franz Wagner,-0.017400000000000002,0.0149,0.0323
 2022-03-15 12:30:46.343533,Superligaen - Denmark Superligaen 2021/22 - Outright,Randers,-0.017599999999999998,0.002,0.0196
 2022-03-15 13:30:52.917879,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.018799999999999983,0.3448,0.3636
 2022-03-15 22:30:46.223315,College Specials - How many Round of 64 games will go into OT in the 2022 NCAA Men’s Basketball Championship? - Outright,Under 2,-0.01880000000000004,0.5556,0.5744
 2022-03-15 22:30:46.189228,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,Under 2.5,-0.019000000000000017,0.8667,0.8857
-2022-03-15 14:31:33.799565,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,King Richard (Zach Baylin),-0.019099999999999992,0.0476,0.0667
 2022-03-15 14:31:33.948498,94th Academy Awards - Odds to win Best Director - Best Director,Ryusuke Hamaguchi (Drive My Car),-0.019099999999999992,0.0476,0.0667
+2022-03-15 14:31:33.799565,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,King Richard (Zach Baylin),-0.019099999999999992,0.0476,0.0667
 2022-03-15 13:30:52.847628,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Billy Donovan (CHI),-0.01949999999999999,0.0714,0.0909
 2022-03-15 22:30:46.444601,"College Specials - Will a #14, #15 or #16 seed win a game in the Round of 64? - Outright",Yes,-0.01970000000000005,0.5455,0.5652
 2022-03-15 14:31:33.962998,94th Academy Awards - Odds to win Best Picture - Best Picture,King Richard,-0.019800000000000005,0.0278,0.0476
-2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Michigan State,-0.019800000000000005,0.0278,0.0476
 2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Providence,-0.019800000000000005,0.0278,0.0476
-2022-03-15 22:30:46.693410,Champions League - UEFA Champions League 2021/2022 - Outright,Chelsea,-0.02020000000000001,0.0909,0.1111
+2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,Michigan State,-0.019800000000000005,0.0278,0.0476
 2022-03-15 13:30:53.170792,NBA Specials - Who will be the NBA 2K23 Cover Athlete? - Outright,Nikola Jokic,-0.02020000000000001,0.0909,0.1111
 2022-03-15 13:30:52.854515,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Jaren Jackson Jr.,-0.02020000000000001,0.0909,0.1111
+2022-03-15 22:30:46.693410,Champions League - UEFA Champions League 2021/2022 - Outright,Chelsea,-0.02020000000000001,0.0909,0.1111
 2022-03-15 22:30:46.240281,College Specials - How many games will go into Double OT in the 2022 NCAA Men’s Basketball Championship? - Outright,Under 0.5,-0.020299999999999985,0.6226,0.6429
 2022-03-15 16:31:11.549627,College Basketball - Odds to Win NCAAB Men's Basketball Championship 2021/2022 - To Make Final 4,USC,-0.0203,0.0323,0.0526
-2022-03-15 13:30:52.847628,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,JB Bickerstaff (CLE),-0.022199999999999998,0.2,0.2222
+2022-03-15 23:30:55.125508,"College Specials - How Many ""Bad Beats"" Will occur in the Round of 64 - Outright",1,-0.02150000000000002,0.3175,0.339
+2022-03-15 22:30:46.249038,College Specials - How many games will go into OT in the 2022 NCAA Men’s Basketball Championship? - Outright,Under 3.5,-0.02169999999999994,0.5238,0.5455
 2022-03-15 14:31:33.826133,94th Academy Awards - Best Sound - Best Sound,West Side Story,-0.022199999999999998,0.2,0.2222
 2022-03-15 14:31:33.892064,94th Academy Awards - Odds to win Best Actor - Best Actor,Benedict Cumberbatch (The Power of the Dog),-0.022199999999999998,0.2,0.2222
+2022-03-15 13:30:52.847628,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,JB Bickerstaff (CLE),-0.022199999999999998,0.2,0.2222
 2022-03-15 14:31:33.948498,94th Academy Awards - Odds to win Best Director - Best Director,Steven Spielberg (West Side Story),-0.02310000000000001,0.0769,0.1
 2022-03-15 14:31:33.948498,94th Academy Awards - Odds to win Best Director - Best Director,Kenneth Branagh (Belfast),-0.02310000000000001,0.0769,0.1
 2022-03-15 13:30:52.941017,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,-0.023799999999999932,0.8333,0.8571
 2022-03-15 13:30:52.869728,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Scottie Barnes,-0.023799999999999988,0.1429,0.1667
+2022-03-15 14:31:33.864745,94th Academy Awards - Best Supporting Actress - Best Supporting Actress,Kirsten Dunst (The Power of the Dog),-0.023799999999999988,0.1429,0.1667
+2022-03-15 14:31:33.689179,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Tony Bennett & Lady Gaga - Love for Sale,-0.023799999999999988,0.1429,0.1667
 2022-03-15 14:31:33.689179,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Billie Eilish - Happier Than Ever,-0.023799999999999988,0.1429,0.1667
 2022-03-15 22:30:46.399520,College Specials - Will Automatic bid Team win the 2022 NCAA Tournament? - Outright,No (At-Large team wins NCAA Tournament),-0.023799999999999988,0.4762,0.5
-2022-03-15 14:31:33.689179,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Tony Bennett & Lady Gaga - Love for Sale,-0.023799999999999988,0.1429,0.1667
-2022-03-15 14:31:33.864745,94th Academy Awards - Best Supporting Actress - Best Supporting Actress,Kirsten Dunst (The Power of the Dog),-0.023799999999999988,0.1429,0.1667
 2022-03-15 21:31:10.316490,College Specials - Combined seed number for Final Four teams - Outright,Under 10.5,-0.024399999999999977,0.4878,0.5122
 2022-03-15 14:31:33.774392,94th Academy Awards - Best Costume Design - Best Costume Design,Dune (Jacqueline West and Robert Morgan),-0.024800000000000016,0.2105,0.2353
 2022-03-15 22:30:46.197772,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,Under 1.5,-0.026499999999999968,0.5652,0.5917
