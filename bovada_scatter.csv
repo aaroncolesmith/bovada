@@ -3,6 +3,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-15 07:30:43.153597,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,2,0.0925,0.303,0.2105
 2022-03-15 11:30:58.072248,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Cagliari,0.05559999999999998,0.5,0.4444
 2022-03-15 11:30:58.078718,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Napoli,0.0524,0.9615,0.9091
+2022-03-15 12:30:46.160382,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,0.04099999999999998,0.3077,0.2667
 2022-03-15 11:30:58.066264,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Ciro Immobile,0.037800000000000056,0.5833,0.5455
 2022-03-15 11:30:58.078718,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AC Milan,0.034399999999999986,0.9756,0.9412
 2022-03-15 11:30:58.072248,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Sampdoria,0.033300000000000024,0.2,0.1667
@@ -12,27 +13,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-15 07:30:43.171461,College Specials - How many games will go into Double OT in the 2022 NCAA Men’s Basketball Championship? - Outright,Under 0.5,0.020299999999999985,0.6429,0.6226
 2022-03-15 10:30:41.442721,NBA Specials - Who will be the NBA 2K23 Cover Athlete? - Outright,Nikola Jokic,0.02020000000000001,0.1111,0.0909
 2022-03-15 01:30:38.083495,College Specials - Will Automatic bid Team win the 2022 NCAA Tournament? - Outright,Yes (Automatic bid team wins NCAA Tournament),0.01970000000000005,0.5652,0.5455
-2022-03-15 10:30:41.663220,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Moussa Dembele,0.0189,0.0385,0.0196
 2022-03-15 08:30:53.142694,NBA Futures - 2022 NBA Northwest Division - Division Winner,Minnesota Timberwolves,0.0189,0.0385,0.0196
+2022-03-15 10:30:41.663220,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Moussa Dembele,0.0189,0.0385,0.0196
 2022-03-15 07:30:42.896741,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.018799999999999983,0.3636,0.3448
 2022-03-15 11:30:58.078718,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Lazio,0.018099999999999998,0.0769,0.0588
+2022-03-15 12:30:46.420205,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Sporting CP,0.0179,0.1429,0.125
 2022-03-15 08:30:53.153318,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,0.016700000000000007,0.1,0.0833
 2022-03-15 07:30:42.888040,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,0.016699999999999993,0.2667,0.25
 2022-03-15 07:30:43.190263,College Specials - Most points by a single player in the Round of 64 in the 2022 NCAA Men’s Basketball Championship - Outright,Under 32.5,0.016000000000000014,0.4082,0.3922
 2022-03-15 01:30:38.041951,College Specials - Most points by a single player in the Round of 64 in the 2022 NCAA Men’s Basketball Championship - Outright,Under 32.5,0.01479999999999998,0.3922,0.3774
 2022-03-15 03:30:57.046658,BKFC 23 - Marciano Hernandez vs Jerald Gregori - To Win the Bout,Marciano Hernandez,0.013900000000000023,0.871,0.8571
 2022-03-15 07:30:43.267153,College Specials - Will a #14 seed win a game in the Round of 64? - Outright,Yes,0.013800000000000034,0.3774,0.3636
+2022-03-15 12:30:46.153654,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Karim Benzema,0.012599999999999945,0.993,0.9804
 2022-03-15 07:30:42.905414,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,0.01150000000000001,0.3448,0.3333
 2022-03-15 07:30:42.888040,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Cleveland Cavaliers,0.011199999999999995,0.0435,0.0323
 2022-03-15 07:30:42.888040,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.010399999999999993,0.2326,0.2222
 2022-03-15 01:30:38.122640,College Specials - Will a #16 seed win a game in the Round of 64? - Outright,No,0.010199999999999987,0.9333,0.9231
 2022-03-15 01:30:38.041951,College Specials - Most points by a single player in the Round of 64 in the 2022 NCAA Men’s Basketball Championship - Outright,Over 32.5,-0.010099999999999998,0.6774,0.6875
-2022-03-15 07:30:42.740370,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Baylor,-0.0102,0.0667,0.0769
 2022-03-15 07:30:42.740370,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Auburn,-0.0102,0.0667,0.0769
+2022-03-15 07:30:42.740370,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Baylor,-0.0102,0.0667,0.0769
 2022-03-15 07:30:43.250919,College Specials - Will a #12 seed win a game in the Round of 64? - Outright,No,-0.012699999999999989,0.3509,0.3636
+2022-03-15 12:30:46.420205,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,FC Porto,-0.014000000000000012,0.9091,0.9231
 2022-03-15 07:30:42.896741,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,-0.01419999999999999,0.3704,0.3846
+2022-03-15 12:30:46.153654,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Raul de Tomas,-0.0145,0.0099,0.0244
+2022-03-15 12:30:46.153654,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Enes Unal,-0.0145,0.0099,0.0244
+2022-03-15 12:30:46.160382,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,-0.015400000000000025,0.3846,0.4
 2022-03-15 07:30:42.879167,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,-0.015700000000000006,0.1176,0.1333
 2022-03-15 07:30:42.888040,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.015899999999999997,0.2222,0.2381
+2022-03-15 12:30:46.153654,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Iago Aspas,-0.017099999999999997,0.0123,0.0294
+2022-03-15 12:30:46.343533,Superligaen - Denmark Superligaen 2021/22 - Outright,Randers,-0.017599999999999998,0.002,0.0196
 2022-03-15 07:30:43.267153,College Specials - Will a #14 seed win a game in the Round of 64? - Outright,No,-0.018399999999999972,0.6875,0.7059
 2022-03-15 07:30:43.171461,College Specials - How many games will go into Double OT in the 2022 NCAA Men’s Basketball Championship? - Outright,Over 0.5,-0.018900000000000028,0.4255,0.4444
 2022-03-15 07:30:43.206500,College Specials - What will be the highest margin of victory during the Round of 64 in the 2022 NCAA Men's Basketball Championship Tournament? - Outright,Over 38.5,-0.02169999999999994,0.5238,0.5455
