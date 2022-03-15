@@ -1,10 +1,19 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-03-15 14:31:33.841794,94th Academy Awards - Best Supporting Actor - Best Supporting Actor,Troy Kotsur (CODA),0.20340000000000003,0.7778,0.5744
 2022-03-15 13:30:52.854515,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Bam Adebayo,0.19999999999999998,0.3333,0.1333
+2022-03-15 14:31:33.921156,94th Academy Awards - Odds to win Best Actress - Best Actress,Jessica Chastain (The Eyes of Tammy Faye),0.14549999999999996,0.6,0.4545
 2022-03-15 11:30:58.078718,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Juventus,0.1049,0.9231,0.8182
 2022-03-15 07:30:43.153597,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,2,0.0925,0.303,0.2105
+2022-03-15 14:31:33.799565,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,Licorice Pizza (Paul Thomas Anderson),0.08339999999999992,0.6667,0.5833
+2022-03-15 14:31:33.962998,94th Academy Awards - Odds to win Best Picture - Best Picture,The Power of the Dog,0.08330000000000004,0.75,0.6667
+2022-03-15 14:31:33.774392,94th Academy Awards - Best Costume Design - Best Costume Design,Cruella (Jenny Beavan),0.08330000000000004,0.8333,0.75
+2022-03-15 14:31:33.787062,94th Academy Awards - Best Original Score - Best Original Score,Dune (Hans Zimmer),0.07720000000000005,0.8333,0.7561
+2022-03-15 14:31:33.948498,94th Academy Awards - Odds to win Best Director - Best Director,Jane Campion (The Power of the Dog,0.0726,0.9615,0.8889
 2022-03-15 13:30:52.933189,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,0.0683999999999999,0.8462,0.7778
+2022-03-15 14:31:33.892064,94th Academy Awards - Odds to win Best Actor - Best Actor,Will Smith (King Richard),0.05559999999999998,0.8889,0.8333
 2022-03-15 11:30:58.072248,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Cagliari,0.05559999999999998,0.5,0.4444
 2022-03-15 11:30:58.078718,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Napoli,0.0524,0.9615,0.9091
+2022-03-15 14:31:33.689179,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Olivia Rodrigo - Sour,0.04760000000000009,0.7143,0.6667
 2022-03-15 13:30:52.854515,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Robert Williams,0.04329999999999999,0.0909,0.0476
 2022-03-15 12:30:46.160382,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,0.04099999999999998,0.3077,0.2667
 2022-03-15 13:30:52.925681,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,0.0398,0.3846,0.3448
@@ -13,15 +22,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-15 11:30:58.072248,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Sampdoria,0.033300000000000024,0.2,0.1667
 2022-03-15 13:30:52.847628,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Erik Spoelstra (MIA),0.028799999999999992,0.1538,0.125
 2022-03-15 07:30:43.213448,College Specials - What will be the highest point total scored by 1 team during the Round of 64 in the 2022 NCAA Men's Basketball Championship Tournament? - Outright,Over 97.5,0.023699999999999943,0.6154,0.5917
-2022-03-15 13:30:52.847628,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Monty Williams (PHO),0.022199999999999998,0.8,0.7778
 2022-03-15 13:30:52.941017,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.022199999999999998,0.2222,0.2
+2022-03-15 13:30:52.847628,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Monty Williams (PHO),0.022199999999999998,0.8,0.7778
 2022-03-15 07:30:43.206500,College Specials - What will be the highest margin of victory during the Round of 64 in the 2022 NCAA Men's Basketball Championship Tournament? - Outright,Under 38.5,0.02169999999999994,0.5455,0.5238
 2022-03-15 07:30:43.171461,College Specials - How many games will go into Double OT in the 2022 NCAA Men’s Basketball Championship? - Outright,Under 0.5,0.020299999999999985,0.6429,0.6226
 2022-03-15 10:30:41.442721,NBA Specials - Who will be the NBA 2K23 Cover Athlete? - Outright,Nikola Jokic,0.02020000000000001,0.1111,0.0909
+2022-03-15 14:31:33.864745,94th Academy Awards - Best Supporting Actress - Best Supporting Actress,Ariana DeBose (West Side Story),0.020199999999999996,0.9091,0.8889
 2022-03-15 13:30:52.869728,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Evan Mobley,0.020199999999999996,0.9091,0.8889
+2022-03-15 14:31:33.921156,94th Academy Awards - Odds to win Best Actress - Best Actress,Olivia Colman (The Lost Daughter),0.020100000000000007,0.1739,0.1538
 2022-03-15 10:30:41.663220,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Moussa Dembele,0.0189,0.0385,0.0196
 2022-03-15 08:30:53.142694,NBA Futures - 2022 NBA Northwest Division - Division Winner,Minnesota Timberwolves,0.0189,0.0385,0.0196
 2022-03-15 07:30:42.896741,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.018799999999999983,0.3636,0.3448
+2022-03-15 14:31:33.962998,94th Academy Awards - Odds to win Best Picture - Best Picture,CODA,0.01820000000000002,0.2,0.1818
 2022-03-15 11:30:58.078718,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Lazio,0.018099999999999998,0.0769,0.0588
 2022-03-15 12:30:46.420205,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Sporting CP,0.0179,0.1429,0.125
 2022-03-15 08:30:53.153318,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,0.016700000000000007,0.1,0.0833
@@ -35,22 +47,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-15 07:30:42.888040,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Cleveland Cavaliers,0.011199999999999995,0.0435,0.0323
 2022-03-15 13:30:52.901993,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.010499999999999982,0.2105,0.2
 2022-03-15 07:30:42.888040,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.010399999999999993,0.2326,0.2222
+2022-03-15 14:31:33.962998,94th Academy Awards - Odds to win Best Picture - Best Picture,Licorice Pizza,-0.010100000000000001,0.0244,0.0345
+2022-03-15 14:31:33.962998,94th Academy Awards - Odds to win Best Picture - Best Picture,Dune,-0.010100000000000001,0.0244,0.0345
 2022-03-15 13:30:52.854515,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,-0.0102,0.0667,0.0769
 2022-03-15 07:30:42.740370,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Baylor,-0.0102,0.0667,0.0769
 2022-03-15 07:30:42.740370,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Auburn,-0.0102,0.0667,0.0769
 2022-03-15 13:30:52.910020,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.010399999999999993,0.2222,0.2326
-2022-03-15 13:30:52.854515,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Mikal Bridges,-0.011199999999999995,0.0476,0.0588
 2022-03-15 13:30:52.910020,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Cleveland Cavaliers,-0.011199999999999995,0.0323,0.0435
+2022-03-15 13:30:52.854515,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Mikal Bridges,-0.011199999999999995,0.0476,0.0588
 2022-03-15 13:30:52.854515,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Jarrett Allen,-0.0118,0.0099,0.0217
 2022-03-15 07:30:43.250919,College Specials - Will a #12 seed win a game in the Round of 64? - Outright,No,-0.012699999999999989,0.3509,0.3636
 2022-03-15 13:30:52.847628,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Taylor Jenkins (MEM),-0.012899999999999995,0.1538,0.1667
 2022-03-15 12:30:46.420205,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,FC Porto,-0.014000000000000012,0.9091,0.9231
 2022-03-15 13:30:52.941017,NBA Futures - 2022 NBA Northwest Division - Division Winner,Minnesota Timberwolves,-0.014099999999999998,0.0244,0.0385
 2022-03-15 07:30:42.896741,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,-0.01419999999999999,0.3704,0.3846
+2022-03-15 14:31:33.864745,94th Academy Awards - Best Supporting Actress - Best Supporting Actress,Aunjanue Ellis (King Richard),-0.014399999999999996,0.0625,0.0769
 2022-03-15 13:30:52.933189,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,-0.014399999999999996,0.0625,0.0769
 2022-03-15 13:30:52.910020,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Chicago Bulls,-0.014399999999999996,0.0625,0.0769
-2022-03-15 12:30:46.153654,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Raul de Tomas,-0.0145,0.0099,0.0244
 2022-03-15 12:30:46.153654,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Enes Unal,-0.0145,0.0099,0.0244
+2022-03-15 12:30:46.153654,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Raul de Tomas,-0.0145,0.0099,0.0244
 2022-03-15 13:30:52.854515,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Joel Embiid,-0.015300000000000001,0.0323,0.0476
 2022-03-15 12:30:46.160382,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,-0.015400000000000025,0.3846,0.4
 2022-03-15 07:30:42.879167,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,-0.015700000000000006,0.1176,0.1333
@@ -61,21 +76,40 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-15 07:30:43.267153,College Specials - Will a #14 seed win a game in the Round of 64? - Outright,No,-0.018399999999999972,0.6875,0.7059
 2022-03-15 13:30:52.917879,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.018799999999999983,0.3448,0.3636
 2022-03-15 07:30:43.171461,College Specials - How many games will go into Double OT in the 2022 NCAA Men’s Basketball Championship? - Outright,Over 0.5,-0.018900000000000028,0.4255,0.4444
+2022-03-15 14:31:33.799565,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,King Richard (Zach Baylin),-0.019099999999999992,0.0476,0.0667
+2022-03-15 14:31:33.948498,94th Academy Awards - Odds to win Best Director - Best Director,Ryusuke Hamaguchi (Drive My Car),-0.019099999999999992,0.0476,0.0667
+2022-03-15 13:30:52.847628,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Billy Donovan (CHI),-0.01949999999999999,0.0714,0.0909
+2022-03-15 14:31:33.962998,94th Academy Awards - Odds to win Best Picture - Best Picture,King Richard,-0.019800000000000005,0.0278,0.0476
 2022-03-15 13:30:52.854515,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Jaren Jackson Jr.,-0.02020000000000001,0.0909,0.1111
 2022-03-15 13:30:53.170792,NBA Specials - Who will be the NBA 2K23 Cover Athlete? - Outright,Nikola Jokic,-0.02020000000000001,0.0909,0.1111
 2022-03-15 07:30:43.206500,College Specials - What will be the highest margin of victory during the Round of 64 in the 2022 NCAA Men's Basketball Championship Tournament? - Outright,Over 38.5,-0.02169999999999994,0.5238,0.5455
 2022-03-15 07:30:43.213448,College Specials - What will be the highest point total scored by 1 team during the Round of 64 in the 2022 NCAA Men's Basketball Championship Tournament? - Outright,Under 97.5,-0.021699999999999997,0.4545,0.4762
+2022-03-15 14:31:33.892064,94th Academy Awards - Odds to win Best Actor - Best Actor,Benedict Cumberbatch (The Power of the Dog),-0.022199999999999998,0.2,0.2222
 2022-03-15 07:30:43.190263,College Specials - Most points by a single player in the Round of 64 in the 2022 NCAA Men’s Basketball Championship - Outright,Over 32.5,-0.022199999999999998,0.6552,0.6774
 2022-03-15 13:30:52.847628,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,JB Bickerstaff (CLE),-0.022199999999999998,0.2,0.2222
+2022-03-15 14:31:33.948498,94th Academy Awards - Odds to win Best Director - Best Director,Kenneth Branagh (Belfast),-0.02310000000000001,0.0769,0.1
+2022-03-15 14:31:33.948498,94th Academy Awards - Odds to win Best Director - Best Director,Steven Spielberg (West Side Story),-0.02310000000000001,0.0769,0.1
 2022-03-15 13:30:52.941017,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,-0.023799999999999932,0.8333,0.8571
 2022-03-15 13:30:52.869728,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Scottie Barnes,-0.023799999999999988,0.1429,0.1667
+2022-03-15 14:31:33.689179,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Tony Bennett & Lady Gaga - Love for Sale,-0.023799999999999988,0.1429,0.1667
+2022-03-15 14:31:33.689179,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Billie Eilish - Happier Than Ever,-0.023799999999999988,0.1429,0.1667
+2022-03-15 14:31:33.864745,94th Academy Awards - Best Supporting Actress - Best Supporting Actress,Kirsten Dunst (The Power of the Dog),-0.023799999999999988,0.1429,0.1667
+2022-03-15 14:31:33.774392,94th Academy Awards - Best Costume Design - Best Costume Design,Dune (Jacqueline West and Robert Morgan),-0.024800000000000016,0.2105,0.2353
 2022-03-15 11:30:58.078718,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AS Roma,-0.028199999999999996,0.0385,0.0667
 2022-03-15 13:30:52.869728,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Josh Giddey,-0.0282,0.0244,0.0526
+2022-03-15 14:31:33.689179,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Doja Cat - Planet Her,-0.028399999999999995,0.0625,0.0909
+2022-03-15 14:31:33.962998,94th Academy Awards - Odds to win Best Picture - Best Picture,Belfast,-0.028799999999999992,0.125,0.1538
+2022-03-15 14:31:33.962998,94th Academy Awards - Odds to win Best Picture - Best Picture,West Side Story,-0.029299999999999993,0.0476,0.0769
 2022-03-15 07:30:43.153597,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,3,-0.033300000000000024,0.1667,0.2
+2022-03-15 14:31:33.774392,94th Academy Awards - Best Costume Design - Best Costume Design,West Side Story (Paul Tazewell),-0.04240000000000001,0.0909,0.1333
 2022-03-15 11:30:58.066264,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Dusan Vlahovic,-0.045499999999999985,0.5,0.5455
 2022-03-15 13:30:52.925681,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,-0.04579999999999995,0.6875,0.7333
 2022-03-15 13:30:52.854515,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,-0.04620000000000002,0.1538,0.2
 2022-03-15 13:30:52.933189,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,-0.04999999999999999,0.2,0.25
 2022-03-15 07:30:43.153597,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,1,-0.05559999999999998,0.5,0.5556
+2022-03-15 14:31:33.787062,94th Academy Awards - Best Original Score - Best Original Score,The Power of the Dog (Jonny Greenwood),-0.0635,0.2222,0.2857
+2022-03-15 14:31:33.787062,94th Academy Awards - Best Original Score - Best Original Score,Encanto (Germaine Franco),-0.06669999999999998,0.1,0.1667
 2022-03-15 11:30:58.072248,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Spezia,-0.0849,0.1818,0.2667
 2022-03-15 11:30:58.078718,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Atalanta,-0.17770000000000002,0.2667,0.4444
+2022-03-15 14:31:33.921156,94th Academy Awards - Odds to win Best Actress - Best Actress,Nicole Kidman (Being the Ricardos),-0.1778,0.2222,0.4
+2022-03-15 14:31:33.841794,94th Academy Awards - Best Supporting Actor - Best Supporting Actor,Kodi Smit-McPhee (The Power of the Dog),-0.1789,0.3333,0.5122
