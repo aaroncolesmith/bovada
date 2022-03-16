@@ -1,7 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 11:30:57.416454,League One - England League One 2021/22 - Top 6 Finish,Plymouth Argyle,0.14549999999999996,0.6,0.4545
+2022-03-16 13:30:44.935001,43rd Annual Razzie Awards - Worst Bruce Willis Performance in a 2021 Movie - Outright,Midnight in the Switchgrass,0.14200000000000002,0.4545,0.3125
 2022-03-16 11:30:57.465508,League Two - England League Two 2021/22 - To Be Relegated,Stevenage,0.14139999999999997,0.3636,0.2222
 2022-03-16 11:30:57.477036,League Two - England League Two 2021/22 - Top 3 Finish,Bristol Rovers,0.0871,0.1538,0.0667
+2022-03-16 13:30:44.935001,43rd Annual Razzie Awards - Worst Bruce Willis Performance in a 2021 Movie - Outright,Cosmic Sin,0.08329999999999999,0.3333,0.25
 2022-03-16 11:30:57.178798,Serie B - Italy Serie B 2021/22 - Outright,Monza,0.0762,0.1429,0.0667
 2022-03-16 11:30:57.454573,League Two - England League Two 2021/22 - To Be Promoted,Bristol Rovers,0.06840000000000002,0.2222,0.1538
 2022-03-16 03:30:50.408615,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Bam Adebayo,0.06670000000000004,0.4,0.3333
@@ -9,8 +11,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 11:30:57.178798,Serie B - Italy Serie B 2021/22 - Outright,Pisa,0.05710000000000001,0.2,0.1429
 2022-03-16 11:30:57.477036,League Two - England League Two 2021/22 - Top 3 Finish,Northampton Town,0.055900000000000005,0.3636,0.3077
 2022-03-16 11:30:57.443829,League Two - England League Two 2021/22 - Top Goalscorer,Mathew Stevens (Forest Green),0.054800000000000015,0.2857,0.2309
-2022-03-16 11:30:57.465508,League Two - England League Two 2021/22 - To Be Relegated,Oldham Athletic,0.05449999999999999,0.6,0.5455
 2022-03-16 11:30:57.454573,League Two - England League Two 2021/22 - To Be Promoted,Newport County,0.05449999999999999,0.4545,0.4
+2022-03-16 11:30:57.465508,League Two - England League Two 2021/22 - To Be Relegated,Oldham Athletic,0.05449999999999999,0.6,0.5455
+2022-03-16 13:30:44.536563,MLB Futures - MLB 2022 Player Awards - National League MVP ,Ronald Acuna Jr..,0.05379999999999999,0.1538,0.1
 2022-03-16 11:30:57.386287,League One - England League One 2021/22 - To Be Promoted,Wigan Athletic,0.052000000000000046,0.9091,0.8571
 2022-03-16 11:30:57.416454,League One - England League One 2021/22 - Top 6 Finish,Wycombe,0.05130000000000001,0.3846,0.3333
 2022-03-16 11:30:57.477036,League Two - England League Two 2021/22 - Top 3 Finish,Swindon Town,0.049100000000000005,0.2309,0.1818
@@ -20,66 +23,73 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 11:30:55.295183,NBA Specials - Who will be the NBA 2K23 Cover Athlete? - Outright,Karl-Anthony Towns,0.035300000000000005,0.0476,0.0123
 2022-03-16 11:30:57.375377,League One - England League One 2021/22 - Top Goalscorer,Will Keane (Wigan),0.034100000000000005,0.125,0.0909
 2022-03-16 11:30:57.454573,League Two - England League Two 2021/22 - To Be Promoted,Northampton Town,0.031799999999999995,0.4762,0.4444
+2022-03-16 13:30:44.476831,MLB Futures - MLB 2022 American League West - Outright,Seattle Mariners,0.027999999999999997,0.1818,0.1538
 2022-03-16 11:30:57.397343,League One - England League One 2021/22 - To Be Relegated,Gillingham,0.027800000000000047,0.7778,0.75
 2022-03-16 11:30:57.397343,League One - England League One 2021/22 - To Be Relegated,Fleetwood Town,0.02779999999999999,0.25,0.2222
+2022-03-16 13:30:44.536563,MLB Futures - MLB 2022 Player Awards - National League MVP ,Juan Soto,0.02779999999999999,0.25,0.2222
 2022-03-16 11:30:57.454573,League Two - England League Two 2021/22 - To Be Promoted,Swindon Town,0.02560000000000001,0.3333,0.3077
-2022-03-16 01:30:44.166771,College Specials - Combined seed number for Final Four teams - Outright,Over 10.5,0.025599999999999956,0.6,0.5744
 2022-03-16 11:30:57.386287,League One - England League One 2021/22 - To Be Promoted,Plymouth Argyle,0.024999999999999994,0.125,0.1
-2022-03-16 11:30:57.386287,League One - England League One 2021/22 - To Be Promoted,Wycombe,0.0242,0.0909,0.0667
 2022-03-16 11:30:57.431657,League Two - England League Two 2021/22 - Outright,Exeter City,0.0242,0.0909,0.0667
+2022-03-16 11:30:57.386287,League One - England League One 2021/22 - To Be Promoted,Wycombe,0.0242,0.0909,0.0667
+2022-03-16 13:30:44.943420,43rd Annual Razzie Awards - Worst Director - Outright,Stephen Chbosky (Dear Evan Hansen),0.023799999999999988,0.1667,0.1429
+2022-03-16 13:30:44.959546,"43rd Annual Razzie Awards - Worst Prequel, Remake, Rip-off or Sequel - Outright",Karen (Inadvertent remake of Cruella de Vil),0.023799999999999988,0.1667,0.1429
+2022-03-16 13:30:44.536563,MLB Futures - MLB 2022 Player Awards - National League MVP ,Christian Yelich,0.023200000000000002,0.0476,0.0244
 2022-03-16 11:30:57.431657,League Two - England League Two 2021/22 - Outright,Northampton Town,0.023200000000000002,0.0476,0.0244
 2022-03-16 04:30:47.746478,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,Over 1.5,0.022600000000000064,0.5348,0.5122
-2022-03-16 01:30:44.203168,College Specials - How many Round of 64 games will go into OT in the 2022 NCAA Men’s Basketball Championship? - Outright,Over 2,0.022600000000000064,0.5348,0.5122
 2022-03-16 11:30:57.477036,League Two - England League Two 2021/22 - Top 3 Finish,Newport County,0.021999999999999964,0.3077,0.2857
-2022-03-16 01:30:44.345528,"College Specials - Will a #14, #15 or #16 seed win a game in the Round of 64? - Outright",No,0.02169999999999994,0.5455,0.5238
 2022-03-16 11:30:57.477036,League Two - England League Two 2021/22 - Top 3 Finish,Exeter City,0.02169999999999994,0.5455,0.5238
 2022-03-16 11:30:57.477036,League Two - England League Two 2021/22 - Top 3 Finish,Port Vale,0.02049999999999999,0.1538,0.1333
 2022-03-16 08:30:52.828566,"College Specials - Will a #14, #15 or #16 seed win a game in the Round of 64? - Outright",No,0.01970000000000005,0.5652,0.5455
 2022-03-16 11:30:57.408359,League One - England League One 2021/22 - Top 2 Finish,Rotherham Utd,0.019100000000000006,0.9524,0.9333
 2022-03-16 11:30:57.477036,League Two - England League Two 2021/22 - Top 3 Finish,Tranmere Rovers,0.01820000000000002,0.2,0.1818
+2022-03-16 13:30:44.307389,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Sunny Edwards,0.018100000000000005,0.9655,0.9474
 2022-03-16 05:30:49.269422,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Sweet 16,Indiana,0.0179,0.1429,0.125
-2022-03-16 01:30:44.335673,College Specials - Will a #13 seed win a game in the Round of 64? - Outright,No,0.01689999999999997,0.3448,0.3279
+2022-03-16 13:30:44.975030,43rd Annual Razzie Awards - Worst Screenplay - Outright,Karen,0.016699999999999993,0.2667,0.25
 2022-03-16 09:31:10.243317,England Championship - England Championship 21/22 - Outright,Bournemouth,0.016600000000000004,0.0833,0.0667
+2022-03-16 13:30:45.149004,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Toronto Raptors,0.0159,0.0323,0.0164
 2022-03-16 03:30:50.524645,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,0.015699999999999936,0.9681,0.9524
+2022-03-16 13:30:44.476831,MLB Futures - MLB 2022 American League West - Outright,Houston Astros,0.01539999999999997,0.6154,0.6
+2022-03-16 13:30:44.542836,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,CJ Abrams,0.015300000000000001,0.0476,0.0323
 2022-03-16 09:31:08.055526,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Ochai Agbaji (Kansas),0.014899999999999997,0.0625,0.0476
 2022-03-16 11:30:56.999187,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,0.01469999999999999,0.25,0.2353
 2022-03-16 11:30:57.431657,League Two - England League Two 2021/22 - Outright,Swindon Town,0.014499999999999999,0.0294,0.0149
+2022-03-16 13:30:44.536563,MLB Futures - MLB 2022 Player Awards - National League MVP ,Bryce Harper,0.01440000000000001,0.1053,0.0909
 2022-03-16 11:30:55.015100,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Chicago Bulls,0.014399999999999996,0.0769,0.0625
-2022-03-16 01:30:44.281206,College Specials - What will be the highest point total scored by 1 team during the Round of 64 in the 2022 NCAA Men's Basketball Championship Tournament? - Outright,Over 97.5,0.014200000000000101,0.6296,0.6154
-2022-03-16 00:31:11.814606,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,0.012899999999999995,0.1667,0.1538
+2022-03-16 13:30:44.536563,MLB Futures - MLB 2022 Player Awards - National League MVP ,Trea Turner,0.014399999999999996,0.0769,0.0625
+2022-03-16 13:30:44.943420,43rd Annual Razzie Awards - Worst Director - Outright,Joe Wright (The Woman In The Window),0.012299999999999991,0.1176,0.1053
 2022-03-16 11:30:55.027305,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.012299999999999978,0.3571,0.3448
-2022-03-16 01:30:44.183367,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,Over 1.5,0.012199999999999989,0.5122,0.5
 2022-03-16 04:30:48.089719,College Specials - Will A West Region Team win the 2022 NCAA Tournament? - Outright,Yes,0.0121,0.2899,0.2778
 2022-03-16 04:30:48.104788,College Specials - Will a #10 seed win a game in the Round of 64? - Outright,No,0.011900000000000008,0.0952,0.0833
 2022-03-16 06:31:05.052478,College Specials - Will a #9 seed win a game in the Round of 64? - Outright,No,0.011900000000000008,0.0952,0.0833
+2022-03-16 13:30:44.536563,MLB Futures - MLB 2022 Player Awards - National League MVP ,Manny Machado,0.010700000000000001,0.0385,0.0278
 2022-03-16 05:30:49.278305,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,Indiana,0.010600000000000002,0.0323,0.0217
 2022-03-16 04:30:48.081959,College Specials - Will A South Region Team win the 2022 NCAA Tournament? - Outright,Yes,0.010499999999999982,0.2105,0.2
 2022-03-16 04:30:48.144616,College Specials - Will a #15 or #16 seed win a game in the Round of 64? - Outright,No,0.010400000000000076,0.7778,0.7674
-2022-03-16 00:31:09.971671,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Baylor,-0.0102,0.0667,0.0769
-2022-03-16 00:31:09.971671,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Auburn,-0.0102,0.0667,0.0769
-2022-03-16 11:30:56.999187,Champions League - UEFA Champions League 2021/2022 - Outright,Real Madrid,-0.011099999999999999,0.1,0.1111
 2022-03-16 11:30:57.416454,League One - England League One 2021/22 - Top 6 Finish,Ipswich Town,-0.011099999999999999,0.1,0.1111
+2022-03-16 13:30:44.542836,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Hunter Greene,-0.011099999999999999,0.1,0.1111
+2022-03-16 11:30:56.999187,Champions League - UEFA Champions League 2021/2022 - Outright,Real Madrid,-0.011099999999999999,0.1,0.1111
 2022-03-16 11:30:57.443829,League Two - England League Two 2021/22 - Top Goalscorer,Jamille Matt (Forest Green),-0.011199999999999995,0.0476,0.0588
 2022-03-16 11:30:57.477036,League Two - England League Two 2021/22 - Top 3 Finish,Forest Green Rovers,-0.012599999999999945,0.9804,0.993
 2022-03-16 11:30:57.375377,League One - England League One 2021/22 - Top Goalscorer,Michael Smith (Rotherham),-0.013899999999999996,0.1111,0.125
 2022-03-16 09:31:10.243317,England Championship - England Championship 21/22 - Outright,Fulham,-0.014100000000000001,0.9615,0.9756
-2022-03-16 01:30:44.335673,College Specials - Will a #13 seed win a game in the Round of 64? - Outright,Yes,-0.014600000000000057,0.7222,0.7368
+2022-03-16 13:30:44.943420,43rd Annual Razzie Awards - Worst Director - Outright,Christopher Ashley (Diana the Musical),-0.014200000000000101,0.6154,0.6296
 2022-03-16 11:30:57.178798,Serie B - Italy Serie B 2021/22 - Outright,Frosinone,-0.014900000000000004,0.0196,0.0345
+2022-03-16 13:30:44.959546,"43rd Annual Razzie Awards - Worst Prequel, Remake, Rip-off or Sequel - Outright",The Woman in the Window (rip-off of Rear Window),-0.015100000000000002,0.1667,0.1818
 2022-03-16 11:30:55.015100,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.015899999999999997,0.2222,0.2381
 2022-03-16 03:30:50.524645,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,-0.016700000000000007,0.0833,0.1
 2022-03-16 11:30:57.477036,League Two - England League Two 2021/22 - Top 3 Finish,Salford City,-0.018200000000000004,0.0294,0.0476
+2022-03-16 13:30:45.154151,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,-0.01820000000000002,0.1818,0.2
 2022-03-16 11:30:57.178798,Serie B - Italy Serie B 2021/22 - Outright,Cremonese,-0.019000000000000017,0.2667,0.2857
-2022-03-16 01:30:44.281206,College Specials - What will be the highest point total scored by 1 team during the Round of 64 in the 2022 NCAA Men's Basketball Championship Tournament? - Outright,Under 97.5,-0.019699999999999995,0.4348,0.4545
 2022-03-16 11:30:57.454573,League Two - England League Two 2021/22 - To Be Promoted,Exeter City,-0.01980000000000004,0.6,0.6198
 2022-03-16 11:30:57.375377,League One - England League One 2021/22 - Top Goalscorer,Cole Stockton (Morecambe),-0.02020000000000001,0.0909,0.1111
 2022-03-16 10:30:48.350625,League One - England League One 2021/22 - Outright,Milton Keynes Dons,-0.0203,0.0385,0.0588
 2022-03-16 04:30:47.746478,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,Under 1.5,-0.02079999999999993,0.5348,0.5556
-2022-03-16 01:30:44.203168,College Specials - How many Round of 64 games will go into OT in the 2022 NCAA Men’s Basketball Championship? - Outright,Under 2,-0.02079999999999993,0.5348,0.5556
-2022-03-16 01:30:44.345528,"College Specials - Will a #14, #15 or #16 seed win a game in the Round of 64? - Outright",Yes,-0.02169999999999994,0.5238,0.5455
-2022-03-16 01:30:44.166771,College Specials - Combined seed number for Final Four teams - Outright,Under 10.5,-0.022699999999999998,0.4651,0.4878
 2022-03-16 08:30:52.828566,"College Specials - Will a #14, #15 or #16 seed win a game in the Round of 64? - Outright",Yes,-0.023800000000000043,0.5,0.5238
+2022-03-16 13:30:44.476831,MLB Futures - MLB 2022 American League West - Outright,Los Angeles Angels,-0.024800000000000016,0.2105,0.2353
 2022-03-16 11:30:57.431657,League Two - England League Two 2021/22 - Outright,Mansfield Town,-0.0262,0.0123,0.0385
+2022-03-16 13:30:44.307389,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Muhammad Waseem,-0.027800000000000005,0.0833,0.1111
 2022-03-16 11:30:57.416454,League One - England League One 2021/22 - Top 6 Finish,Sunderland,-0.030299999999999994,0.6364,0.6667
+2022-03-16 13:30:44.975030,43rd Annual Razzie Awards - Worst Screenplay - Outright,Diana the Musical,-0.030299999999999994,0.6667,0.697
 2022-03-16 11:30:57.408359,League One - England League One 2021/22 - Top 2 Finish,Milton Keynes Dons,-0.030899999999999983,0.2,0.2309
 2022-03-16 11:30:57.386287,League One - England League One 2021/22 - To Be Promoted,Oxford United,-0.030899999999999983,0.2,0.2309
 2022-03-16 11:30:57.454573,League Two - England League Two 2021/22 - To Be Promoted,Salford City,-0.033299999999999996,0.1,0.1333
@@ -99,4 +109,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 11:30:57.454573,League Two - England League Two 2021/22 - To Be Promoted,Mansfield Town,-0.09160000000000001,0.3846,0.4762
 2022-03-16 11:30:57.178798,Serie B - Italy Serie B 2021/22 - Outright,Lecce,-0.09230000000000005,0.3077,0.4
 2022-03-16 11:30:57.454573,League Two - England League Two 2021/22 - To Be Promoted,Sutton Utd,-0.1,0.1667,0.2667
+2022-03-16 13:30:44.536563,MLB Futures - MLB 2022 Player Awards - National League MVP ,Fernando Tatís Jr.,-0.127,0.0952,0.2222
 2022-03-16 11:30:57.477036,League Two - England League Two 2021/22 - Top 3 Finish,Mansfield Town,-0.16359999999999997,0.2,0.3636
