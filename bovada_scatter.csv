@@ -15,8 +15,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 11:30:57.477036,League Two - England League Two 2021/22 - Top 3 Finish,Northampton Town,0.055900000000000005,0.3636,0.3077
 2022-03-16 18:31:02.415140,Boxing Lines - Alexis Rocha vs Blair Cobbs - To Win the Bout,Alexis Rocha,0.05589999999999995,0.7333,0.6774
 2022-03-16 11:30:57.443829,League Two - England League Two 2021/22 - Top Goalscorer,Mathew Stevens (Forest Green),0.054800000000000015,0.2857,0.2309
-2022-03-16 11:30:57.454573,League Two - England League Two 2021/22 - To Be Promoted,Newport County,0.05449999999999999,0.4545,0.4
 2022-03-16 11:30:57.465508,League Two - England League Two 2021/22 - To Be Relegated,Oldham Athletic,0.05449999999999999,0.6,0.5455
+2022-03-16 11:30:57.454573,League Two - England League Two 2021/22 - To Be Promoted,Newport County,0.05449999999999999,0.4545,0.4
 2022-03-16 13:30:44.536563,MLB Futures - MLB 2022 Player Awards - National League MVP ,Ronald Acuna Jr..,0.05379999999999999,0.1538,0.1
 2022-03-16 11:30:57.386287,League One - England League One 2021/22 - To Be Promoted,Wigan Athletic,0.052000000000000046,0.9091,0.8571
 2022-03-16 11:30:57.416454,League One - England League One 2021/22 - Top 6 Finish,Wycombe,0.05130000000000001,0.3846,0.3333
@@ -33,27 +33,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 17:32:56.631694,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Duke,0.033300000000000024,0.2,0.1667
 2022-03-16 11:30:57.454573,League Two - England League Two 2021/22 - To Be Promoted,Northampton Town,0.031799999999999995,0.4762,0.4444
 2022-03-16 17:32:56.596511,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,Texas,0.030699999999999998,0.0833,0.0526
-2022-03-16 17:32:56.071495,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,0.029000000000000026,0.4545,0.4255
 2022-03-16 21:30:44.016274,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,0.029000000000000026,0.4545,0.4255
+2022-03-16 17:32:56.071495,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,0.029000000000000026,0.4545,0.4255
 2022-03-16 20:30:52.621816,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,O'Shaquie Foster,0.02859999999999996,0.6364,0.6078
 2022-03-16 13:30:44.476831,MLB Futures - MLB 2022 American League West - Outright,Seattle Mariners,0.027999999999999997,0.1818,0.1538
 2022-03-16 11:30:57.397343,League One - England League One 2021/22 - To Be Relegated,Gillingham,0.027800000000000047,0.7778,0.75
-2022-03-16 13:30:44.536563,MLB Futures - MLB 2022 Player Awards - National League MVP ,Juan Soto,0.02779999999999999,0.25,0.2222
 2022-03-16 21:30:45.502541,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Tigres UANL,0.02779999999999999,0.25,0.2222
+2022-03-16 13:30:44.536563,MLB Futures - MLB 2022 Player Awards - National League MVP ,Juan Soto,0.02779999999999999,0.25,0.2222
 2022-03-16 11:30:57.397343,League One - England League One 2021/22 - To Be Relegated,Fleetwood Town,0.02779999999999999,0.25,0.2222
 2022-03-16 11:30:57.454573,League Two - England League Two 2021/22 - To Be Promoted,Swindon Town,0.02560000000000001,0.3333,0.3077
 2022-03-16 11:30:57.386287,League One - England League One 2021/22 - To Be Promoted,Plymouth Argyle,0.024999999999999994,0.125,0.1
 2022-03-16 20:30:52.668643,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Muhammad Waseem,0.024999999999999994,0.125,0.1
-2022-03-16 11:30:57.431657,League Two - England League Two 2021/22 - Outright,Exeter City,0.0242,0.0909,0.0667
 2022-03-16 11:30:57.386287,League One - England League One 2021/22 - To Be Promoted,Wycombe,0.0242,0.0909,0.0667
+2022-03-16 11:30:57.431657,League Two - England League Two 2021/22 - Outright,Exeter City,0.0242,0.0909,0.0667
 2022-03-16 14:31:10.069154,Boxing Lines - Henry Turner vs Ivan Njegac - To Win the Bout,Ivan Njegac,0.0242,0.0909,0.0667
-2022-03-16 13:30:44.943420,43rd Annual Razzie Awards - Worst Director - Outright,Stephen Chbosky (Dear Evan Hansen),0.023799999999999988,0.1667,0.1429
 2022-03-16 13:30:44.959546,"43rd Annual Razzie Awards - Worst Prequel, Remake, Rip-off or Sequel - Outright",Karen (Inadvertent remake of Cruella de Vil),0.023799999999999988,0.1667,0.1429
 2022-03-16 20:30:52.684461,Boxing Lines - Alexis Rocha vs Blair Cobbs - To Win the Bout,Blair Cobbs,0.023799999999999988,0.3571,0.3333
+2022-03-16 13:30:44.943420,43rd Annual Razzie Awards - Worst Director - Outright,Stephen Chbosky (Dear Evan Hansen),0.023799999999999988,0.1667,0.1429
 2022-03-16 18:31:02.426217,Boxing Lines - Xander Zayas vs Quincy LaVallais - To Win the Bout,Xander Zayas,0.023699999999999943,0.9852,0.9615
 2022-03-16 21:30:44.038562,Boxing Lines - Regis Prograis vs Tyrone Mckenna - To Win the Bout,Regis Prograis,0.023499999999999965,0.9709,0.9474
-2022-03-16 11:30:57.431657,League Two - England League Two 2021/22 - Outright,Northampton Town,0.023200000000000002,0.0476,0.0244
 2022-03-16 13:30:44.536563,MLB Futures - MLB 2022 Player Awards - National League MVP ,Christian Yelich,0.023200000000000002,0.0476,0.0244
+2022-03-16 11:30:57.431657,League Two - England League Two 2021/22 - Outright,Northampton Town,0.023200000000000002,0.0476,0.0244
 2022-03-16 11:30:57.477036,League Two - England League Two 2021/22 - Top 3 Finish,Newport County,0.021999999999999964,0.3077,0.2857
 2022-03-16 11:30:57.477036,League Two - England League Two 2021/22 - Top 3 Finish,Exeter City,0.02169999999999994,0.5455,0.5238
 2022-03-16 20:30:52.692265,Boxing Lines - Xander Zayas vs Quincy LaVallais - To Win the Bout,Quincy LaVallais,0.0208,0.0833,0.0625
@@ -62,29 +62,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 20:30:52.637538,Boxing Lines - Henry Turner vs Ivan Njegac - To Win the Bout,Ivan Njegac,0.02020000000000001,0.1111,0.0909
 2022-03-16 14:31:10.102204,Boxing Lines - Bektemir Melikuziev vs David Zegarra - To Win the Bout,David Zegarra,0.02020000000000001,0.1111,0.0909
 2022-03-16 17:32:56.048061,Boxing Lines - Bakhodir Jalolov vs Kamil Sokolowski - To Win the Bout,Bakhodir Jalolov,0.01969999999999994,0.9852,0.9655
-2022-03-16 11:30:57.408359,League One - England League One 2021/22 - Top 2 Finish,Rotherham Utd,0.019100000000000006,0.9524,0.9333
 2022-03-16 21:30:44.043018,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Sunny Edwards,0.019100000000000006,0.9524,0.9333
+2022-03-16 11:30:57.408359,League One - England League One 2021/22 - Top 2 Finish,Rotherham Utd,0.019100000000000006,0.9524,0.9333
 2022-03-16 17:32:56.631694,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Alabama,0.019099999999999995,0.0435,0.0244
 2022-03-16 21:30:44.069290,Boxing Lines - Kiko Martinez vs Josh Warrington - To Win the Bout,Kiko Martinez,0.01830000000000001,0.2564,0.2381
-2022-03-16 11:30:57.477036,League Two - England League Two 2021/22 - Top 3 Finish,Tranmere Rovers,0.01820000000000002,0.2,0.1818
 2022-03-16 21:30:45.502541,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Pachuca,0.01820000000000002,0.2,0.1818
+2022-03-16 11:30:57.477036,League Two - England League Two 2021/22 - Top 3 Finish,Tranmere Rovers,0.01820000000000002,0.2,0.1818
 2022-03-16 13:30:44.307389,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Sunny Edwards,0.018100000000000005,0.9655,0.9474
 2022-03-16 21:30:45.502541,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Cruz Azul,0.0179,0.1429,0.125
 2022-03-16 19:30:41.585041,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Muhammad Waseem,0.016700000000000007,0.1,0.0833
 2022-03-16 13:30:44.975030,43rd Annual Razzie Awards - Worst Screenplay - Outright,Karen,0.016699999999999993,0.2667,0.25
-2022-03-16 09:31:10.243317,England Championship - England Championship 21/22 - Outright,Bournemouth,0.016600000000000004,0.0833,0.0667
 2022-03-16 13:30:45.149004,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Toronto Raptors,0.0159,0.0323,0.0164
 2022-03-16 13:30:44.476831,MLB Futures - MLB 2022 American League West - Outright,Houston Astros,0.01539999999999997,0.6154,0.6
 2022-03-16 13:30:44.542836,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,CJ Abrams,0.015300000000000001,0.0476,0.0323
-2022-03-16 09:31:08.055526,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Ochai Agbaji (Kansas),0.014899999999999997,0.0625,0.0476
 2022-03-16 17:32:56.631694,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Connecticut,0.014899999999999997,0.0625,0.0476
+2022-03-16 22:30:56.827954,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,O'Shaquie Foster,0.014800000000000035,0.6226,0.6078
 2022-03-16 11:30:56.999187,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,0.01469999999999999,0.25,0.2353
 2022-03-16 21:30:45.502541,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Atletico San Luis,0.014499999999999999,0.0294,0.0149
 2022-03-16 11:30:57.431657,League Two - England League Two 2021/22 - Outright,Swindon Town,0.014499999999999999,0.0294,0.0149
 2022-03-16 13:30:44.536563,MLB Futures - MLB 2022 Player Awards - National League MVP ,Bryce Harper,0.01440000000000001,0.1053,0.0909
 2022-03-16 11:30:55.015100,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Chicago Bulls,0.014399999999999996,0.0769,0.0625
-2022-03-16 17:32:57.511339,"College Specials - How Many ""Bad Beats"" Will occur in the Round of 64 - Outright",5,0.014399999999999996,0.0769,0.0625
 2022-03-16 13:30:44.536563,MLB Futures - MLB 2022 Player Awards - National League MVP ,Trea Turner,0.014399999999999996,0.0769,0.0625
+2022-03-16 17:32:57.511339,"College Specials - How Many ""Bad Beats"" Will occur in the Round of 64 - Outright",5,0.014399999999999996,0.0769,0.0625
 2022-03-16 20:30:52.613367,Boxing Lines - Bakhodir Jalolov vs Kamil Sokolowski - To Win the Bout,Kamil Sokolowski,0.014399999999999996,0.0769,0.0625
 2022-03-16 17:32:56.631694,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Rutgers,0.014199999999999999,0.0294,0.0152
 2022-03-16 17:32:56.631694,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Notre Dame (#11),0.014199999999999999,0.0294,0.0152
@@ -95,13 +94,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 13:30:44.943420,43rd Annual Razzie Awards - Worst Director - Outright,Joe Wright (The Woman In The Window),0.012299999999999991,0.1176,0.1053
 2022-03-16 11:30:55.027305,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.012299999999999978,0.3571,0.3448
 2022-03-16 19:30:41.613987,Boxing Lines - Kiko Martinez vs Josh Warrington - To Win the Bout,Josh Warrington,0.012299999999999978,0.8305,0.8182
+2022-03-16 22:30:59.622586,Champions League - UEFA Champions League 2021/2022 - Outright,Chelsea,0.011099999999999999,0.1111,0.1
 2022-03-16 20:30:52.701289,Boxing Lines - Edgar Berlanga vs Steve Rolls - To Win the Bout,Steve Rolls,0.011099999999999999,0.1111,0.1
 2022-03-16 17:32:56.118794,Boxing Lines - Louie Lynn vs James Beech Jnr - To Win the Bout,James Beech Jnr,0.010899999999999993,0.1538,0.1429
 2022-03-16 14:31:10.108640,Boxing Lines - Alexis Rocha vs Blair Cobbs - To Win the Bout,Alexis Rocha,0.010700000000000043,0.6774,0.6667
 2022-03-16 13:30:44.536563,MLB Futures - MLB 2022 Player Awards - National League MVP ,Manny Machado,0.010700000000000001,0.0385,0.0278
+2022-03-16 22:30:56.827954,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,-0.010099999999999998,0.4444,0.4545
+2022-03-16 13:30:44.542836,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Hunter Greene,-0.011099999999999999,0.1,0.1111
 2022-03-16 11:30:56.999187,Champions League - UEFA Champions League 2021/2022 - Outright,Real Madrid,-0.011099999999999999,0.1,0.1111
 2022-03-16 11:30:57.416454,League One - England League One 2021/22 - Top 6 Finish,Ipswich Town,-0.011099999999999999,0.1,0.1111
-2022-03-16 13:30:44.542836,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Hunter Greene,-0.011099999999999999,0.1,0.1111
 2022-03-16 11:30:57.443829,League Two - England League Two 2021/22 - Top Goalscorer,Jamille Matt (Forest Green),-0.011199999999999995,0.0476,0.0588
 2022-03-16 20:30:52.735993,Boxing Lines - Gennady Golovkin vs Ryota Murata - To Win the Bout,Ryota Murata,-0.011200000000000015,0.2062,0.2174
 2022-03-16 17:32:56.618678,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - South Region Winner,Villanova,-0.011700000000000016,0.2105,0.2222
@@ -116,7 +117,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 17:32:56.608434,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - Midwest Region Winner,Wisconsin,-0.013999999999999999,0.0769,0.0909
 2022-03-16 17:32:56.608434,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - Midwest Region Winner,Miami Florida,-0.014099999999999998,0.0244,0.0385
 2022-03-16 17:32:56.608434,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - Midwest Region Winner,Colgate,-0.0141,0.0055,0.0196
-2022-03-16 09:31:10.243317,England Championship - England Championship 21/22 - Outright,Fulham,-0.014100000000000001,0.9615,0.9756
 2022-03-16 13:30:44.943420,43rd Annual Razzie Awards - Worst Director - Outright,Christopher Ashley (Diana the Musical),-0.014200000000000101,0.6154,0.6296
 2022-03-16 17:32:56.608434,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - Midwest Region Winner,LSU,-0.014399999999999996,0.0625,0.0769
 2022-03-16 11:30:57.178798,Serie B - Italy Serie B 2021/22 - Outright,Frosinone,-0.014900000000000004,0.0196,0.0345
@@ -135,11 +135,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 14:31:10.054186,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,-0.018900000000000028,0.4255,0.4444
 2022-03-16 11:30:57.178798,Serie B - Italy Serie B 2021/22 - Outright,Cremonese,-0.019000000000000017,0.2667,0.2857
 2022-03-16 11:30:57.454573,League Two - England League Two 2021/22 - To Be Promoted,Exeter City,-0.01980000000000004,0.6,0.6198
-2022-03-16 11:30:57.375377,League One - England League One 2021/22 - Top Goalscorer,Cole Stockton (Morecambe),-0.02020000000000001,0.0909,0.1111
 2022-03-16 21:30:44.038562,Boxing Lines - Regis Prograis vs Tyrone Mckenna - To Win the Bout,Tyrone Mckenna,-0.02020000000000001,0.0909,0.1111
+2022-03-16 11:30:57.375377,League One - England League One 2021/22 - Top Goalscorer,Cole Stockton (Morecambe),-0.02020000000000001,0.0909,0.1111
 2022-03-16 21:30:44.060485,Boxing Lines - Edgar Berlanga vs Steve Rolls - To Win the Bout,Edgar Berlanga,-0.020299999999999985,0.9412,0.9615
 2022-03-16 21:30:45.502541,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Pumas UNAM,-0.0203,0.0385,0.0588
-2022-03-16 10:30:48.350625,League One - England League One 2021/22 - Outright,Milton Keynes Dons,-0.0203,0.0385,0.0588
 2022-03-16 17:32:56.188717,Boxing Lines - Edgar Berlanga vs Steve Rolls - To Win the Bout,Steve Rolls,-0.023400000000000004,0.0909,0.1143
 2022-03-16 17:32:57.511339,"College Specials - How Many ""Bad Beats"" Will occur in the Round of 64 - Outright",0,-0.023799999999999988,0.4762,0.5
 2022-03-16 17:32:56.596511,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,Virginia Tech,-0.024,0.0385,0.0625
@@ -150,17 +149,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 21:30:45.502541,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,FC Puebla,-0.027999999999999997,0.1538,0.1818
 2022-03-16 17:32:56.596511,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,San Francisco (#10),-0.028000000000000004,0.0196,0.0476
 2022-03-16 17:32:56.048061,Boxing Lines - Bakhodir Jalolov vs Kamil Sokolowski - To Win the Bout,Kamil Sokolowski,-0.028399999999999995,0.0625,0.0909
-2022-03-16 17:32:56.071495,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,O'Shaquie Foster,-0.02859999999999996,0.6078,0.6364
 2022-03-16 21:30:44.016274,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,O'Shaquie Foster,-0.02859999999999996,0.6078,0.6364
+2022-03-16 17:32:56.071495,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,O'Shaquie Foster,-0.02859999999999996,0.6078,0.6364
 2022-03-16 17:32:56.618678,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - South Region Winner,Tennessee,-0.028700000000000003,0.1818,0.2105
 2022-03-16 20:30:52.621816,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,-0.029000000000000026,0.4255,0.4545
-2022-03-16 11:30:57.416454,League One - England League One 2021/22 - Top 6 Finish,Sunderland,-0.030299999999999994,0.6364,0.6667
 2022-03-16 13:30:44.975030,43rd Annual Razzie Awards - Worst Screenplay - Outright,Diana the Musical,-0.030299999999999994,0.6667,0.697
-2022-03-16 11:30:57.408359,League One - England League One 2021/22 - Top 2 Finish,Milton Keynes Dons,-0.030899999999999983,0.2,0.2309
+2022-03-16 11:30:57.416454,League One - England League One 2021/22 - Top 6 Finish,Sunderland,-0.030299999999999994,0.6364,0.6667
 2022-03-16 11:30:57.386287,League One - England League One 2021/22 - To Be Promoted,Oxford United,-0.030899999999999983,0.2,0.2309
+2022-03-16 11:30:57.408359,League One - England League One 2021/22 - Top 2 Finish,Milton Keynes Dons,-0.030899999999999983,0.2,0.2309
 2022-03-16 20:30:52.668643,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Sunny Edwards,-0.032200000000000006,0.9333,0.9655
-2022-03-16 20:30:52.660873,Boxing Lines - Regis Prograis vs Tyrone Mckenna - To Win the Bout,Regis Prograis,-0.03300000000000003,0.9474,0.9804
 2022-03-16 20:30:52.637538,Boxing Lines - Henry Turner vs Ivan Njegac - To Win the Bout,Henry Turner,-0.03300000000000003,0.9474,0.9804
+2022-03-16 20:30:52.660873,Boxing Lines - Regis Prograis vs Tyrone Mckenna - To Win the Bout,Regis Prograis,-0.03300000000000003,0.9474,0.9804
 2022-03-16 11:30:57.454573,League Two - England League Two 2021/22 - To Be Promoted,Salford City,-0.033299999999999996,0.1,0.1333
 2022-03-16 17:32:56.596511,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,Saint Mary's CA,-0.0334,0.0435,0.0769
 2022-03-16 17:32:56.161603,Boxing Lines - Bektemir Melikuziev vs David Zegarra - To Win the Bout,David Zegarra,-0.03420000000000001,0.0769,0.1111
