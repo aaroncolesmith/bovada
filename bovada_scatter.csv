@@ -13,8 +13,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 17:32:56.631694,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Duke,0.033300000000000024,0.2,0.1667
 2022-03-16 17:32:56.596511,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,Texas,0.030699999999999998,0.0833,0.0526
 2022-03-16 23:30:44.242726,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Liverpool,0.030299999999999994,0.3636,0.3333
-2022-03-16 17:32:56.071495,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,0.029000000000000026,0.4545,0.4255
 2022-03-16 21:30:44.016274,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,0.029000000000000026,0.4545,0.4255
+2022-03-16 17:32:56.071495,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,0.029000000000000026,0.4545,0.4255
 2022-03-16 20:30:52.621816,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,O'Shaquie Foster,0.02859999999999996,0.6364,0.6078
 2022-03-16 21:30:45.502541,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Tigres UANL,0.02779999999999999,0.25,0.2222
 2022-03-16 20:30:52.668643,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Muhammad Waseem,0.024999999999999994,0.125,0.1
@@ -22,6 +22,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 20:30:52.684461,Boxing Lines - Alexis Rocha vs Blair Cobbs - To Win the Bout,Blair Cobbs,0.023799999999999988,0.3571,0.3333
 2022-03-16 18:31:02.426217,Boxing Lines - Xander Zayas vs Quincy LaVallais - To Win the Bout,Xander Zayas,0.023699999999999943,0.9852,0.9615
 2022-03-16 21:30:44.038562,Boxing Lines - Regis Prograis vs Tyrone Mckenna - To Win the Bout,Regis Prograis,0.023499999999999965,0.9709,0.9474
+2022-03-17 04:30:51.328249,WNBL - Australia WNBL 2021/22 - Outright,Adelaide Lightning (W),0.02310000000000001,0.1,0.0769
 2022-03-16 20:30:52.692265,Boxing Lines - Xander Zayas vs Quincy LaVallais - To Win the Bout,Quincy LaVallais,0.0208,0.0833,0.0625
 2022-03-16 17:32:56.188717,Boxing Lines - Edgar Berlanga vs Steve Rolls - To Win the Bout,Edgar Berlanga,0.020299999999999985,0.9615,0.9412
 2022-03-16 20:30:52.637538,Boxing Lines - Henry Turner vs Ivan Njegac - To Win the Bout,Ivan Njegac,0.02020000000000001,0.1111,0.0909
@@ -31,19 +32,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 21:30:44.069290,Boxing Lines - Kiko Martinez vs Josh Warrington - To Win the Bout,Kiko Martinez,0.01830000000000001,0.2564,0.2381
 2022-03-16 21:30:45.502541,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Pachuca,0.01820000000000002,0.2,0.1818
 2022-03-16 21:30:45.502541,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Cruz Azul,0.0179,0.1429,0.125
+2022-03-17 04:30:51.124421,Boxing Lines - Alexis Rocha vs Blair Cobbs - To Win the Bout,Alexis Rocha,0.017300000000000093,0.7143,0.697
 2022-03-16 19:30:41.585041,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Muhammad Waseem,0.016700000000000007,0.1,0.0833
 2022-03-17 03:31:10.051393,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.015899999999999997,0.2381,0.2222
 2022-03-16 17:32:56.631694,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Connecticut,0.014899999999999997,0.0625,0.0476
 2022-03-16 22:30:56.827954,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,O'Shaquie Foster,0.014800000000000035,0.6226,0.6078
 2022-03-16 21:30:45.502541,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Atletico San Luis,0.014499999999999999,0.0294,0.0149
-2022-03-16 17:32:57.511339,"College Specials - How Many ""Bad Beats"" Will occur in the Round of 64 - Outright",5,0.014399999999999996,0.0769,0.0625
 2022-03-16 20:30:52.613367,Boxing Lines - Bakhodir Jalolov vs Kamil Sokolowski - To Win the Bout,Kamil Sokolowski,0.014399999999999996,0.0769,0.0625
-2022-03-16 17:32:56.631694,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Rutgers,0.014199999999999999,0.0294,0.0152
+2022-03-16 17:32:57.511339,"College Specials - How Many ""Bad Beats"" Will occur in the Round of 64 - Outright",5,0.014399999999999996,0.0769,0.0625
 2022-03-16 17:32:56.631694,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Notre Dame (#11),0.014199999999999999,0.0294,0.0152
+2022-03-16 17:32:56.631694,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Rutgers,0.014199999999999999,0.0294,0.0152
 2022-03-17 01:30:53.728708,Boxing Lines - Hamzah Sheeraz vs Jez Smith - To Win the Bout,Hamzah Sheeraz,0.014100000000000001,0.9474,0.9333
 2022-03-16 21:30:45.502541,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Atlas FC,0.013899999999999996,0.125,0.1111
 2022-03-16 17:32:56.618678,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - South Region Winner,Houston,0.012899999999999995,0.1667,0.1538
 2022-03-16 19:30:41.613987,Boxing Lines - Kiko Martinez vs Josh Warrington - To Win the Bout,Josh Warrington,0.012299999999999978,0.8305,0.8182
+2022-03-17 04:30:51.328249,WNBL - Australia WNBL 2021/22 - Outright,Melbourne Boomers (W),0.01150000000000001,0.3448,0.3333
 2022-03-16 22:30:59.622586,Champions League - UEFA Champions League 2021/2022 - Outright,Chelsea,0.011099999999999999,0.1111,0.1
 2022-03-16 20:30:52.701289,Boxing Lines - Edgar Berlanga vs Steve Rolls - To Win the Bout,Steve Rolls,0.011099999999999999,0.1111,0.1
 2022-03-16 17:32:56.118794,Boxing Lines - Louie Lynn vs James Beech Jnr - To Win the Bout,James Beech Jnr,0.010899999999999993,0.1538,0.1429
@@ -54,8 +57,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 17:32:56.618678,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - South Region Winner,Villanova,-0.011700000000000016,0.2105,0.2222
 2022-03-16 17:32:56.631694,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Vermont,-0.0118,0.0099,0.0217
 2022-03-16 19:30:41.613987,Boxing Lines - Kiko Martinez vs Josh Warrington - To Win the Bout,Kiko Martinez,-0.011899999999999994,0.2381,0.25
-2022-03-16 20:30:52.718942,Boxing Lines - Kiko Martinez vs Josh Warrington - To Win the Bout,Josh Warrington,-0.012299999999999978,0.8182,0.8305
 2022-03-17 03:31:10.065054,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.012299999999999978,0.3448,0.3571
+2022-03-16 20:30:52.718942,Boxing Lines - Kiko Martinez vs Josh Warrington - To Win the Bout,Josh Warrington,-0.012299999999999978,0.8182,0.8305
 2022-03-16 17:32:56.608434,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - Midwest Region Winner,Creighton,-0.012700000000000003,0.0196,0.0323
 2022-03-16 17:32:56.596511,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,UCLA,-0.012899999999999995,0.1538,0.1667
 2022-03-16 17:32:56.631694,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,New Mexico State,-0.013,0.0066,0.0196
@@ -77,6 +80,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 17:32:57.511339,"College Specials - How Many ""Bad Beats"" Will occur in the Round of 64 - Outright",0,-0.023799999999999988,0.4762,0.5
 2022-03-16 17:32:56.596511,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,Virginia Tech,-0.024,0.0385,0.0625
 2022-03-17 01:30:53.820528,Boxing Lines - Errol Spence Jr vs Yordenis Ugas - To Win the Bout,Yordenis Ugas,-0.02400000000000002,0.25,0.274
+2022-03-17 04:30:51.124421,Boxing Lines - Alexis Rocha vs Blair Cobbs - To Win the Bout,Blair Cobbs,-0.024599999999999955,0.339,0.3636
 2022-03-16 20:30:52.684461,Boxing Lines - Alexis Rocha vs Blair Cobbs - To Win the Bout,Alexis Rocha,-0.02739999999999998,0.7059,0.7333
 2022-03-17 03:31:09.907509,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,-0.027700000000000058,0.5556,0.5833
 2022-03-16 21:30:45.502541,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,FC Puebla,-0.027999999999999997,0.1538,0.1818
@@ -95,3 +99,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 18:31:02.415140,Boxing Lines - Alexis Rocha vs Blair Cobbs - To Win the Bout,Blair Cobbs,-0.05130000000000001,0.3333,0.3846
 2022-03-16 18:31:02.426217,Boxing Lines - Xander Zayas vs Quincy LaVallais - To Win the Bout,Quincy LaVallais,-0.0518,0.0625,0.1143
 2022-03-16 21:30:44.056178,Boxing Lines - Xander Zayas vs Quincy LaVallais - To Win the Bout,Xander Zayas,-0.051899999999999946,0.9333,0.9852
+2022-03-17 04:30:51.328249,WNBL - Australia WNBL 2021/22 - Outright,Perth Lynx (W),-0.05509999999999998,0.3704,0.4255
