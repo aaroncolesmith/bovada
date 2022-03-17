@@ -8,13 +8,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 20:30:52.660873,Boxing Lines - Regis Prograis vs Tyrone Mckenna - To Win the Bout,Tyrone Mckenna,0.04440000000000001,0.1111,0.0667
 2022-03-16 17:32:56.618678,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - South Region Winner,Arizona,0.04290000000000005,0.4,0.3571
 2022-03-16 21:30:44.056178,Boxing Lines - Xander Zayas vs Quincy LaVallais - To Win the Bout,Quincy LaVallais,0.0417,0.125,0.0833
+2022-03-17 05:30:50.308047,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Notre Dame (#11),0.0385,0.0526,0.0141
 2022-03-16 17:32:56.608434,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - Midwest Region Winner,Auburn,0.03570000000000001,0.2857,0.25
 2022-03-17 03:31:09.907509,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,0.0348,0.4348,0.4
 2022-03-16 17:32:56.631694,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Duke,0.033300000000000024,0.2,0.1667
 2022-03-16 17:32:56.596511,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,Texas,0.030699999999999998,0.0833,0.0526
 2022-03-16 23:30:44.242726,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Liverpool,0.030299999999999994,0.3636,0.3333
-2022-03-16 21:30:44.016274,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,0.029000000000000026,0.4545,0.4255
 2022-03-16 17:32:56.071495,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,0.029000000000000026,0.4545,0.4255
+2022-03-16 21:30:44.016274,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,0.029000000000000026,0.4545,0.4255
 2022-03-16 20:30:52.621816,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,O'Shaquie Foster,0.02859999999999996,0.6364,0.6078
 2022-03-16 21:30:45.502541,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Tigres UANL,0.02779999999999999,0.25,0.2222
 2022-03-16 20:30:52.668643,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Muhammad Waseem,0.024999999999999994,0.125,0.1
@@ -33,6 +34,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 21:30:45.502541,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Pachuca,0.01820000000000002,0.2,0.1818
 2022-03-16 21:30:45.502541,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Cruz Azul,0.0179,0.1429,0.125
 2022-03-17 04:30:51.124421,Boxing Lines - Alexis Rocha vs Blair Cobbs - To Win the Bout,Alexis Rocha,0.017300000000000093,0.7143,0.697
+2022-03-17 05:30:50.323584,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Sweet 16,Notre Dame (#11),0.016700000000000007,0.1,0.0833
 2022-03-16 19:30:41.585041,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Muhammad Waseem,0.016700000000000007,0.1,0.0833
 2022-03-17 03:31:10.051393,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.015899999999999997,0.2381,0.2222
 2022-03-16 17:32:56.631694,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Connecticut,0.014899999999999997,0.0625,0.0476
@@ -40,10 +42,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 21:30:45.502541,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Atletico San Luis,0.014499999999999999,0.0294,0.0149
 2022-03-16 20:30:52.613367,Boxing Lines - Bakhodir Jalolov vs Kamil Sokolowski - To Win the Bout,Kamil Sokolowski,0.014399999999999996,0.0769,0.0625
 2022-03-16 17:32:57.511339,"College Specials - How Many ""Bad Beats"" Will occur in the Round of 64 - Outright",5,0.014399999999999996,0.0769,0.0625
-2022-03-16 17:32:56.631694,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Notre Dame (#11),0.014199999999999999,0.0294,0.0152
 2022-03-16 17:32:56.631694,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Rutgers,0.014199999999999999,0.0294,0.0152
+2022-03-16 17:32:56.631694,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Notre Dame (#11),0.014199999999999999,0.0294,0.0152
 2022-03-17 01:30:53.728708,Boxing Lines - Hamzah Sheeraz vs Jez Smith - To Win the Bout,Hamzah Sheeraz,0.014100000000000001,0.9474,0.9333
 2022-03-16 21:30:45.502541,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Atlas FC,0.013899999999999996,0.125,0.1111
+2022-03-17 05:30:50.875379,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Sunny Edwards,0.0131,0.9655,0.9524
 2022-03-16 17:32:56.618678,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - South Region Winner,Houston,0.012899999999999995,0.1667,0.1538
 2022-03-16 19:30:41.613987,Boxing Lines - Kiko Martinez vs Josh Warrington - To Win the Bout,Josh Warrington,0.012299999999999978,0.8305,0.8182
 2022-03-17 04:30:51.328249,WNBL - Australia WNBL 2021/22 - Outright,Melbourne Boomers (W),0.01150000000000001,0.3448,0.3333
@@ -51,6 +54,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 20:30:52.701289,Boxing Lines - Edgar Berlanga vs Steve Rolls - To Win the Bout,Steve Rolls,0.011099999999999999,0.1111,0.1
 2022-03-16 17:32:56.118794,Boxing Lines - Louie Lynn vs James Beech Jnr - To Win the Bout,James Beech Jnr,0.010899999999999993,0.1538,0.1429
 2022-03-17 01:30:53.845824,Boxing Lines - Shakur Stevenson vs Oscar Valdez - To Win the Bout,Shakur Stevenson,0.010500000000000065,0.8,0.7895
+2022-03-17 05:30:50.834498,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,0.010099999999999998,0.4545,0.4444
 2022-03-16 22:30:56.827954,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,-0.010099999999999998,0.4444,0.4545
 2022-03-17 01:30:53.845824,Boxing Lines - Shakur Stevenson vs Oscar Valdez - To Win the Bout,Oscar Valdez,-0.011099999999999999,0.2667,0.2778
 2022-03-16 20:30:52.735993,Boxing Lines - Gennady Golovkin vs Ryota Murata - To Win the Bout,Ryota Murata,-0.011200000000000015,0.2062,0.2174
@@ -66,9 +70,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-16 17:32:56.608434,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - Midwest Region Winner,Miami Florida,-0.014099999999999998,0.0244,0.0385
 2022-03-16 17:32:56.608434,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - Midwest Region Winner,Colgate,-0.0141,0.0055,0.0196
 2022-03-16 17:32:56.608434,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - Midwest Region Winner,LSU,-0.014399999999999996,0.0625,0.0769
+2022-03-17 05:30:50.834498,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,O'Shaquie Foster,-0.014800000000000035,0.6078,0.6226
 2022-03-16 17:32:56.608434,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - Midwest Region Winner,USC,-0.015300000000000001,0.0323,0.0476
 2022-03-16 17:32:56.631694,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Gonzaga,-0.01539999999999997,0.6,0.6154
 2022-03-16 20:30:52.645151,Boxing Lines - Louie Lynn vs James Beech Jnr - To Win the Bout,Louie Lynn,-0.016699999999999937,0.9,0.9167
+2022-03-17 05:30:50.870521,Boxing Lines - David Avanesyan vs Oskari Metz - To Win the Bout,Oskari Metz,-0.016700000000000007,0.0833,0.1
+2022-03-17 05:30:50.875379,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Muhammad Waseem,-0.016700000000000007,0.0833,0.1
 2022-03-16 21:30:44.043018,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Muhammad Waseem,-0.0169,0.1081,0.125
 2022-03-16 21:30:45.502541,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Club León,-0.0179,0.125,0.1429
 2022-03-16 17:32:56.608434,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - Midwest Region Winner,Iowa State,-0.0182,0.0141,0.0323
