@@ -6,6 +6,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-17 10:31:02.898405,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Tottenham Hotspur,0.0857,0.8,0.7143
 2022-03-17 10:31:02.540769,England Championship - England Championship 21/22 - Top 6 Finish,Millwall,0.0857,0.2857,0.2
 2022-03-17 10:31:02.887344,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Tottenham Hotspur,0.0849,0.2667,0.1818
+2022-03-17 15:30:47.659800,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Tennessee,0.08250000000000002,0.4,0.3175
 2022-03-17 10:31:02.540769,England Championship - England Championship 21/22 - Top 6 Finish,Blackburn Rovers,0.07450000000000001,0.5,0.4255
 2022-03-17 08:30:52.415714,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,0.06290000000000007,0.9091,0.8462
 2022-03-17 10:31:02.540769,England Championship - England Championship 21/22 - Top 6 Finish,West Bromwich Albion,0.05679999999999999,0.1818,0.125
@@ -16,30 +17,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-17 05:30:50.308047,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Notre Dame (#11),0.0385,0.0526,0.0141
 2022-03-17 08:30:51.822055,Boxing Lines - Xander Zayas vs Quincy LaVallais - To Win the Bout,Xander Zayas,0.03759999999999997,0.9709,0.9333
 2022-03-17 09:30:46.476154,43rd Annual Razzie Awards - Worst Bruce Willis Performance in a 2021 Movie - Outright,Deadlock,0.03570000000000001,0.2857,0.25
-2022-03-17 03:31:09.907509,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,0.0348,0.4348,0.4
 2022-03-17 10:31:02.520268,England Championship - England Championship 21/22 - To Be Promoted,Luton Town,0.031799999999999995,0.1429,0.1111
+2022-03-17 06:31:06.470410,College Specials - Total NCAA Tournament Wins for the #8 Seeds - Outright,Over 2.5,0.026499999999999968,0.5917,0.5652
 2022-03-17 06:31:06.447988,College Specials - Total NCAA Tournament Wins for the #6 Seeds - Outright,Under 3.5,0.026499999999999968,0.5917,0.5652
 2022-03-17 06:31:06.304236,College Specials - Most NCAA Tournament Wins - Saint Marys vs. San Diego State - Outright,Saint Marys,0.026499999999999968,0.5917,0.5652
-2022-03-17 06:31:06.470410,College Specials - Total NCAA Tournament Wins for the #8 Seeds - Outright,Over 2.5,0.026499999999999968,0.5917,0.5652
 2022-03-17 10:31:02.520268,England Championship - England Championship 21/22 - To Be Promoted,Blackburn Rovers,0.025300000000000003,0.1429,0.1176
 2022-03-17 06:31:06.438644,College Specials - Total NCAA Tournament Wins for the #5 Seeds - Outright,Over 6.5,0.024399999999999977,0.5122,0.4878
-2022-03-17 06:31:06.428877,College Specials - Total NCAA Tournament Wins for the #4 Seeds - Outright,Over 5.5,0.023800000000000043,0.5238,0.5
-2022-03-17 06:31:06.294102,College Specials - Most NCAA Tournament Wins - North Carolina vs. Providence - Outright,Providence,0.023800000000000043,0.5238,0.5
 2022-03-17 06:31:06.284359,College Specials - Most NCAA Tournament Wins - Michigan vs. Michigan State - Outright,Michigan State,0.023800000000000043,0.5238,0.5
+2022-03-17 06:31:06.294102,College Specials - Most NCAA Tournament Wins - North Carolina vs. Providence - Outright,Providence,0.023800000000000043,0.5238,0.5
+2022-03-17 06:31:06.428877,College Specials - Total NCAA Tournament Wins for the #4 Seeds - Outright,Over 5.5,0.023800000000000043,0.5238,0.5
 2022-03-17 06:31:06.394554,College Specials - Total NCAA Tournament Wins for the #1 Seeds - Outright,Over 12.5,0.023799999999999988,0.5,0.4762
 2022-03-17 13:31:21.845801,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Arizona,0.023799999999999988,0.1667,0.1429
 2022-03-17 06:31:06.419021,College Specials - Total NCAA Tournament Wins for the #2 Seeds - Outright,Over 9.5,0.023699999999999943,0.6154,0.5917
 2022-03-17 08:30:51.779356,Boxing Lines - Henry Turner vs Ivan Njegac - To Win the Bout,Henry Turner,0.023499999999999965,0.9709,0.9474
 2022-03-17 04:30:51.328249,WNBL - Australia WNBL 2021/22 - Outright,Adelaide Lightning (W),0.02310000000000001,0.1,0.0769
 2022-03-17 06:31:06.332149,College Specials - Most NCAA Tournament Wins - Villanova vs. Auburn - Outright,Villanova,0.022699999999999998,0.4878,0.4651
-2022-03-17 06:31:06.113908,College Specials - Most NCAA Tournament Wins - Arizona vs. Kansas - Outright,Arizona,0.022600000000000064,0.5348,0.5122
 2022-03-17 13:31:22.648349,College Specials - Total NCAA Tournament Wins for the #5 Seeds - Outright,Over 6.5,0.022600000000000064,0.5348,0.5122
-2022-03-17 06:31:06.364911,College Specials - Most points by a single player in the Round of 64 in the 2022 NCAA Men’s Basketball Championship - Outright,Over 32.5,0.022199999999999998,0.6774,0.6552
+2022-03-17 06:31:06.113908,College Specials - Most NCAA Tournament Wins - Arizona vs. Kansas - Outright,Arizona,0.022600000000000064,0.5348,0.5122
 2022-03-17 11:30:38.066330,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Freiburg,0.022199999999999998,0.2222,0.2
+2022-03-17 06:31:06.364911,College Specials - Most points by a single player in the Round of 64 in the 2022 NCAA Men’s Basketball Championship - Outright,Over 32.5,0.022199999999999998,0.6774,0.6552
 2022-03-17 06:31:06.342494,College Specials - Most NCAA Tournament Wins - Villanova vs. Duke - Outright,Villanova,0.02079999999999993,0.5556,0.5348
-2022-03-17 06:31:06.005432,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,Over 1.5,0.02079999999999993,0.5556,0.5348
 2022-03-17 06:31:06.459244,College Specials - Total NCAA Tournament Wins for the #7 Seeds - Outright,Over 2.5,0.02079999999999993,0.5556,0.5348
 2022-03-17 06:31:06.056208,College Specials - How many Round of 64 games will go into OT in the 2022 NCAA Men’s Basketball Championship? - Outright,Over 2,0.02079999999999993,0.5556,0.5348
+2022-03-17 06:31:06.005432,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,Over 1.5,0.02079999999999993,0.5556,0.5348
 2022-03-17 06:31:06.123504,College Specials - Most NCAA Tournament Wins - Auburn vs. Duke - Outright,Duke,0.020699999999999996,0.4651,0.4444
 2022-03-17 10:31:02.530644,England Championship - England Championship 21/22 - Top 2 Finish,Middlesbrough,0.0203,0.0588,0.0385
 2022-03-17 06:31:06.209661,College Specials - Most NCAA Tournament Wins - Duke vs. Kentucky - Outright,Kentucky,0.020299999999999985,0.6429,0.6226
@@ -55,14 +55,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-17 06:31:06.480098,College Specials - Total NCAA Tournament Wins for the #9 Seeds - Outright,Over 2.5,0.017299999999999982,0.4255,0.4082
 2022-03-17 13:31:23.045494,Boxing Lines - Eddie Hall vs Hafthor Bjornsson - To Win the Bout,Hafthor Bjornsson,0.016900000000000026,0.6721,0.6552
 2022-03-17 06:31:07.007663,Boxing Lines - David Avanesyan vs Oskari Metz - To Win the Bout,Oskari Metz,0.016700000000000007,0.1,0.0833
-2022-03-17 08:30:51.808126,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Muhammad Waseem,0.016700000000000007,0.1,0.0833
 2022-03-17 05:30:50.323584,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Sweet 16,Notre Dame (#11),0.016700000000000007,0.1,0.0833
-2022-03-17 03:31:10.051393,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.015899999999999997,0.2381,0.2222
+2022-03-17 08:30:51.808126,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Muhammad Waseem,0.016700000000000007,0.1,0.0833
 2022-03-17 10:31:01.286625,Boxing Lines - Tim Tszyu vs Terrell Gausha - To Win the Bout,Tim Tszyu,0.015699999999999936,0.8824,0.8667
-2022-03-17 08:30:52.410591,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,0.015400000000000025,0.4,0.3846
 2022-03-17 06:31:06.660656,College Specials - Will a #14 seed win a game in the Round of 64? - Outright,Yes,0.015400000000000025,0.4,0.3846
-2022-03-17 09:30:46.714384,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Cade Cunningham,0.015100000000000002,0.1818,0.1667
+2022-03-17 08:30:52.410591,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,0.015400000000000025,0.4,0.3846
 2022-03-17 10:31:02.520268,England Championship - England Championship 21/22 - To Be Promoted,Nottingham Forest,0.015100000000000002,0.1818,0.1667
+2022-03-17 09:30:46.714384,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Cade Cunningham,0.015100000000000002,0.1818,0.1667
 2022-03-17 08:30:51.769363,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,O'Shaquie Foster,0.014800000000000035,0.6226,0.6078
 2022-03-17 15:30:47.420714,Boxing Lines - Mark Chamberlain vs Jeff Ofori - To Win the Bout,Mark Chamberlain,0.014100000000000001,0.9474,0.9333
 2022-03-17 06:31:06.240456,College Specials - Most NCAA Tournament Wins - Gonzaga vs. Kansas - Outright,Kansas,0.013800000000000034,0.3774,0.3636
@@ -73,8 +72,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-17 11:30:37.108376,BKFC 23 - Jared Warren vs Isaac Doolittle - To Win the Bout,Isaac Doolittle,0.011199999999999988,0.4367,0.4255
 2022-03-17 11:30:37.070798,Boxing Lines - Gennady Golovkin vs Ryota Murata - To Win the Bout,Ryota Murata,0.010499999999999982,0.2105,0.2
 2022-03-17 10:31:02.520268,England Championship - England Championship 21/22 - To Be Promoted,Millwall,0.0102,0.0769,0.0667
-2022-03-17 06:31:06.615407,College Specials - Will a #10 seed win a game in the Round of 64? - Outright,No,0.010099999999999998,0.1053,0.0952
 2022-03-17 05:30:50.834498,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,0.010099999999999998,0.4545,0.4444
+2022-03-17 06:31:06.615407,College Specials - Will a #10 seed win a game in the Round of 64? - Outright,No,0.010099999999999998,0.1053,0.0952
 2022-03-17 08:30:51.769363,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,-0.010099999999999998,0.4444,0.4545
 2022-03-17 06:31:07.079384,Boxing Lines - Edgar Berlanga vs Steve Rolls - To Win the Bout,Steve Rolls,-0.010099999999999998,0.1111,0.1212
 2022-03-17 06:31:06.590842,College Specials - Will A West Region Team win the 2022 NCAA Tournament? - Outright,No,-0.010400000000000076,0.7674,0.7778
@@ -86,10 +85,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-17 10:31:02.887344,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,West Ham United,-0.011199999999999995,0.0476,0.0588
 2022-03-17 11:30:38.051838,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Bayer Leverkusen,-0.011199999999999995,0.0476,0.0588
 2022-03-17 15:30:48.379477,College Specials - Will a #15 or #16 seed win a game in the Round of 64? - Outright,Yes,-0.0121,0.2778,0.2899
-2022-03-17 10:31:02.530644,England Championship - England Championship 21/22 - Top 2 Finish,Queens Park Rangers,-0.012100000000000001,0.0123,0.0244
 2022-03-17 11:30:38.066330,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Mainz,-0.012100000000000001,0.0123,0.0244
+2022-03-17 10:31:02.530644,England Championship - England Championship 21/22 - Top 2 Finish,Queens Park Rangers,-0.012100000000000001,0.0123,0.0244
 2022-03-17 15:30:48.256254,College Specials - Total NCAA Tournament Wins for the #10 Seeds - Outright,Under 2.5,-0.012199999999999989,0.4878,0.5
-2022-03-17 03:31:10.065054,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.012299999999999978,0.3448,0.3571
 2022-03-17 06:31:06.480098,College Specials - Total NCAA Tournament Wins for the #9 Seeds - Outright,Under 2.5,-0.012299999999999978,0.6429,0.6552
 2022-03-17 06:31:06.571823,College Specials - Will A Midwest Region Team win the 2022 NCAA Tournament? - Outright,Yes,-0.012699999999999989,0.3509,0.3636
 2022-03-17 10:31:01.295639,Boxing Lines - Gennady Golovkin vs Ryota Murata - To Win the Bout,Ryota Murata,-0.012799999999999978,0.2,0.2128
@@ -102,48 +100,47 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-17 13:31:23.045494,Boxing Lines - Eddie Hall vs Hafthor Bjornsson - To Win the Bout,Eddie Hall,-0.016000000000000014,0.3922,0.4082
 2022-03-17 06:31:06.364911,College Specials - Most points by a single player in the Round of 64 in the 2022 NCAA Men’s Basketball Championship - Outright,Under 32.5,-0.016000000000000014,0.3922,0.4082
 2022-03-17 06:31:06.149222,College Specials - Most NCAA Tournament Wins - Baylor vs. Arizona - Outright,Baylor,-0.016699999999999993,0.4,0.4167
-2022-03-17 05:30:50.870521,Boxing Lines - David Avanesyan vs Oskari Metz - To Win the Bout,Oskari Metz,-0.016700000000000007,0.0833,0.1
 2022-03-17 05:30:50.875379,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Muhammad Waseem,-0.016700000000000007,0.0833,0.1
+2022-03-17 05:30:50.870521,Boxing Lines - David Avanesyan vs Oskari Metz - To Win the Bout,Oskari Metz,-0.016700000000000007,0.0833,0.1
 2022-03-17 08:30:52.348792,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,-0.01759999999999999,0.1,0.1176
-2022-03-17 12:30:42.948241,Euroleague - Euroleague 2021/22 - Winner,Anadolu Efes,-0.01820000000000002,0.1818,0.2
 2022-03-17 11:30:38.213864,Serie B - Italy Serie B 2021/22 - Outright,Pisa,-0.01820000000000002,0.1818,0.2
+2022-03-17 12:30:42.948241,Euroleague - Euroleague 2021/22 - Winner,Anadolu Efes,-0.01820000000000002,0.1818,0.2
 2022-03-17 06:31:06.240456,College Specials - Most NCAA Tournament Wins - Gonzaga vs. Kansas - Outright,Gonzaga,-0.018399999999999972,0.6875,0.7059
 2022-03-17 06:31:06.438644,College Specials - Total NCAA Tournament Wins for the #5 Seeds - Outright,Under 6.5,-0.01880000000000004,0.5556,0.5744
 2022-03-17 06:31:06.209661,College Specials - Most NCAA Tournament Wins - Duke vs. Kentucky - Outright,Duke,-0.018900000000000028,0.4255,0.4444
 2022-03-17 08:30:52.356716,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,-0.019099999999999992,0.0476,0.0667
 2022-03-17 10:31:02.530644,England Championship - England Championship 21/22 - Top 2 Finish,Sheffield United,-0.019099999999999992,0.0476,0.0667
 2022-03-17 10:31:02.540769,England Championship - England Championship 21/22 - Top 6 Finish,Preston North End,-0.019499999999999997,0.0099,0.0294
-2022-03-17 06:31:06.294102,College Specials - Most NCAA Tournament Wins - North Carolina vs. Providence - Outright,North Carolina,-0.01970000000000005,0.5455,0.5652
 2022-03-17 06:31:06.428877,College Specials - Total NCAA Tournament Wins for the #4 Seeds - Outright,Under 5.5,-0.01970000000000005,0.5455,0.5652
+2022-03-17 06:31:06.294102,College Specials - Most NCAA Tournament Wins - North Carolina vs. Providence - Outright,North Carolina,-0.01970000000000005,0.5455,0.5652
 2022-03-17 06:31:06.284359,College Specials - Most NCAA Tournament Wins - Michigan vs. Michigan State - Outright,Michigan,-0.01970000000000005,0.5455,0.5652
 2022-03-17 06:31:06.175435,College Specials - Most NCAA Tournament Wins - Baylor vs. Kansas - Outright,Kansas,-0.020299999999999985,0.6226,0.6429
 2022-03-17 06:31:06.113908,College Specials - Most NCAA Tournament Wins - Arizona vs. Kansas - Outright,Kansas,-0.02079999999999993,0.5348,0.5556
 2022-03-17 13:31:22.648349,College Specials - Total NCAA Tournament Wins for the #5 Seeds - Outright,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-03-17 06:31:06.419021,College Specials - Total NCAA Tournament Wins for the #2 Seeds - Outright,Under 9.5,-0.021699999999999997,0.4545,0.4762
-2022-03-17 06:31:06.123504,College Specials - Most NCAA Tournament Wins - Auburn vs. Duke - Outright,Auburn,-0.022600000000000064,0.6,0.6226
-2022-03-17 06:31:06.005432,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,Under 1.5,-0.022600000000000064,0.5122,0.5348
 2022-03-17 06:31:06.459244,College Specials - Total NCAA Tournament Wins for the #7 Seeds - Outright,Under 2.5,-0.022600000000000064,0.5122,0.5348
-2022-03-17 06:31:06.342494,College Specials - Most NCAA Tournament Wins - Villanova vs. Duke - Outright,Duke,-0.022600000000000064,0.5122,0.5348
+2022-03-17 06:31:06.123504,College Specials - Most NCAA Tournament Wins - Auburn vs. Duke - Outright,Auburn,-0.022600000000000064,0.6,0.6226
 2022-03-17 06:31:06.056208,College Specials - How many Round of 64 games will go into OT in the 2022 NCAA Men’s Basketball Championship? - Outright,Under 2,-0.022600000000000064,0.5122,0.5348
+2022-03-17 06:31:06.342494,College Specials - Most NCAA Tournament Wins - Villanova vs. Duke - Outright,Duke,-0.022600000000000064,0.5122,0.5348
+2022-03-17 06:31:06.005432,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,Under 1.5,-0.022600000000000064,0.5122,0.5348
 2022-03-17 10:31:02.530644,England Championship - England Championship 21/22 - Top 2 Finish,Bournemouth,-0.023799999999999932,0.8333,0.8571
 2022-03-17 06:31:06.304236,College Specials - Most NCAA Tournament Wins - Saint Marys vs. San Diego State - Outright,San Diego State,-0.023799999999999988,0.4762,0.5
 2022-03-17 06:31:06.447988,College Specials - Total NCAA Tournament Wins for the #6 Seeds - Outright,Over 3.5,-0.023799999999999988,0.4762,0.5
 2022-03-17 06:31:06.470410,College Specials - Total NCAA Tournament Wins for the #8 Seeds - Outright,Under 2.5,-0.023799999999999988,0.4762,0.5
 2022-03-17 10:31:02.876131,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Chelsea,-0.023799999999999988,0.1429,0.1667
-2022-03-17 06:31:06.070336,College Specials - How many Total 3 Point Shots will be made in the Round of 64? - Outright,Under 485.5,-0.024399999999999977,0.4878,0.5122
 2022-03-17 06:31:06.264776,College Specials - Most NCAA Tournament Wins - Kentucky vs. Auburn - Outright,Auburn,-0.024399999999999977,0.4878,0.5122
+2022-03-17 06:31:06.070336,College Specials - How many Total 3 Point Shots will be made in the Round of 64? - Outright,Under 485.5,-0.024399999999999977,0.4878,0.5122
 2022-03-17 04:30:51.124421,Boxing Lines - Alexis Rocha vs Blair Cobbs - To Win the Bout,Blair Cobbs,-0.024599999999999955,0.339,0.3636
 2022-03-17 10:31:02.898405,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,-0.025499999999999967,0.4,0.4255
 2022-03-17 06:31:06.332149,College Specials - Most NCAA Tournament Wins - Villanova vs. Auburn - Outright,Auburn,-0.025599999999999956,0.5744,0.6
 2022-03-17 06:31:06.394554,College Specials - Total NCAA Tournament Wins for the #1 Seeds - Outright,Under 12.5,-0.026499999999999968,0.5652,0.5917
-2022-03-17 03:31:09.907509,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,-0.027700000000000058,0.5556,0.5833
 2022-03-17 09:30:47.299395,A-League - Australia A-League 2021/2022 - Grand Final Winner,Adelaide United,-0.027800000000000005,0.0833,0.1111
 2022-03-17 10:31:02.898405,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,-0.033299999999999996,0.8,0.8333
-2022-03-17 08:30:52.356716,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,-0.033300000000000024,0.1667,0.2
 2022-03-17 10:31:02.898405,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Wolverhampton Wanderers,-0.033300000000000024,0.1667,0.2
+2022-03-17 08:30:52.356716,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,-0.033300000000000024,0.1667,0.2
 2022-03-17 10:31:02.832103,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without Man City,Chelsea,-0.034100000000000005,0.0909,0.125
-2022-03-17 10:31:02.520268,England Championship - England Championship 21/22 - To Be Promoted,Queens Park Rangers,-0.03420000000000001,0.0769,0.1111
 2022-03-17 08:30:51.779356,Boxing Lines - Henry Turner vs Ivan Njegac - To Win the Bout,Ivan Njegac,-0.03420000000000001,0.0769,0.1111
+2022-03-17 10:31:02.520268,England Championship - England Championship 21/22 - To Be Promoted,Queens Park Rangers,-0.03420000000000001,0.0769,0.1111
 2022-03-17 10:31:02.520268,England Championship - England Championship 21/22 - To Be Promoted,Coventry City,-0.0373,0.0294,0.0667
 2022-03-17 10:31:02.520268,England Championship - England Championship 21/22 - To Be Promoted,Sheffield United,-0.047599999999999976,0.2857,0.3333
 2022-03-17 08:30:51.822055,Boxing Lines - Xander Zayas vs Quincy LaVallais - To Win the Bout,Quincy LaVallais,-0.048100000000000004,0.0769,0.125
