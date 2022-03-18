@@ -14,13 +14,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-18 13:30:44.183068,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Sweet 16,Houston,0.10010000000000002,0.5652,0.4651
 2022-03-18 12:30:45.529196,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Manchester City,0.09999999999999998,0.6,0.5
 2022-03-18 13:30:44.178580,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Tennessee,0.09999999999999998,0.5,0.4
-2022-03-18 12:30:45.520526,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,0.08329999999999999,0.3333,0.25
 2022-03-18 13:30:44.187695,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Gonzaga,0.08329999999999999,0.3333,0.25
+2022-03-18 12:30:45.520526,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,0.08329999999999999,0.3333,0.25
 2022-03-18 13:30:44.178580,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,UCLA,0.08250000000000002,0.4,0.3175
-2022-03-18 13:30:44.178580,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Texas Tech,0.08080000000000004,0.4444,0.3636
 2022-03-18 12:30:45.529196,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Bayern Munich,0.08080000000000004,0.4444,0.3636
+2022-03-18 13:30:44.178580,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Texas Tech,0.08080000000000004,0.4444,0.3636
 2022-03-18 13:30:44.178580,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Providence,0.07649999999999998,0.1818,0.1053
-2022-03-18 07:31:13.150843,Exhibition Fights - Eddie Hall vs Hafthor Bjornsson - To Win the Bout,Eddie Hall,0.07450000000000001,0.5,0.4255
 2022-03-18 13:30:44.178580,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Saint Mary's CA,0.06670000000000001,0.2,0.1333
 2022-03-18 18:30:53.932327,43rd Annual Razzie Awards - Worst Screenplay - Outright,Karen,0.06659999999999999,0.3333,0.2667
 2022-03-18 13:30:44.183068,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Sweet 16,Villanova,0.06430000000000002,0.7468,0.6825
@@ -51,6 +50,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-18 13:30:44.178580,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Auburn,0.04139999999999999,0.5652,0.5238
 2022-03-18 18:30:53.790543,Grammy Awards 2022 - Grammy 2022 - Song of the Year Winner - Outright,Olivia Rodrigo - Drivers License,0.03639999999999999,0.6364,0.6
 2022-03-18 09:30:50.405824,94th Academy Awards - Odds to win Best Actress - Best Actress,Jessica Chastain (The Eyes of Tammy Faye),0.03639999999999999,0.6364,0.6
+2022-03-18 20:30:50.174988,Exhibition Fights - Eddie Hall vs Hafthor Bjornsson - To Win the Bout,Eddie Hall,0.03480000000000005,0.5348,0.5
 2022-03-18 12:30:45.529196,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Villarreal,0.0344,0.0588,0.0244
 2022-03-18 08:31:01.083136,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - To Play in the Play-In Tournament,Los Angeles Lakers,0.033399999999999985,0.8667,0.8333
 2022-03-18 12:30:44.631371,College Basketball - 2022 NCAA DI Men's Basketball Tournament - West Regional Winner,Duke,0.033300000000000024,0.2,0.1667
@@ -66,15 +66,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-18 19:30:45.327478,Boxing Lines - Louie Lynn vs James Beech Jnr - To Win the Bout,James Beech Jnr,0.023800000000000016,0.1905,0.1667
 2022-03-18 13:30:44.178580,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Michigan,0.023799999999999988,0.1667,0.1429
 2022-03-18 12:30:45.525336,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Mohamed Salah,0.02310000000000001,0.1,0.0769
-2022-03-18 15:31:24.266621,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Auburn,0.02310000000000001,0.1,0.0769
 2022-03-18 13:30:44.178580,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Alabama,0.02310000000000001,0.1,0.0769
-2022-03-18 07:31:12.483200,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - To Play in the Play-In Tournament,Cleveland Cavaliers,0.022600000000000064,0.5348,0.5122
+2022-03-18 15:31:24.266621,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Auburn,0.02310000000000001,0.1,0.0769
 2022-03-18 09:30:50.482845,"43rd Annual Razzie Awards - Worst Prequel, Remake, Rip-off or Sequel - Outright",Space Jam: A New Legacy,0.022499999999999964,0.7368,0.7143
 2022-03-18 10:30:53.489235,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,JB Bickerstaff (CLE),0.022199999999999998,0.2222,0.2
 2022-03-18 08:31:01.083136,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - To Play in the Play-In Tournament,Denver Nuggets,0.022199999999999998,0.2222,0.2
 2022-03-18 14:31:03.410840,94th Academy Awards - Best Supporting Actor - Best Supporting Actor,Troy Kotsur (CODA),0.022199999999999998,0.8,0.7778
-2022-03-18 13:30:44.486519,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,2,0.02100000000000002,0.3846,0.3636
 2022-03-18 10:30:54.031279,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,0.02100000000000002,0.3846,0.3636
+2022-03-18 13:30:44.486519,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,2,0.02100000000000002,0.3846,0.3636
 2022-03-18 15:31:24.266621,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,UCLA,0.019000000000000003,0.0625,0.0435
 2022-03-18 15:31:25.071509,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,0.018900000000000028,0.4444,0.4255
 2022-03-18 12:30:44.623268,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Midwest Regional Winner,Richmond,0.0182,0.0323,0.0141
@@ -94,27 +93,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-18 13:30:44.178580,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Creighton,0.012299999999999991,0.1176,0.1053
 2022-03-18 13:30:44.178580,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Colgate,0.0113,0.0179,0.0066
 2022-03-18 13:30:44.187695,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Purdue,0.011199999999999995,0.0588,0.0476
-2022-03-18 12:30:45.537608,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,Spain,0.010899999999999993,0.1538,0.1429
 2022-03-18 11:30:53.488891,Boxing Lines - Estelle Mossely vs Yanina Del Carmen Lescano - To Win the Bout,Yanina Del Carmen Lescano,0.010899999999999993,0.1538,0.1429
+2022-03-18 12:30:45.537608,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,Spain,0.010899999999999993,0.1538,0.1429
 2022-03-18 15:31:24.266621,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Tennessee,0.0102,0.0769,0.0667
 2022-03-18 11:30:53.556976,Boxing Lines - Mark Chamberlain vs Jeff Ofori - To Win the Bout,Jeff Ofori,0.010099999999999998,0.1212,0.1111
-2022-03-18 09:30:50.201546,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Tom Brady,-0.010099999999999998,0.0952,0.1053
 2022-03-18 13:30:44.178580,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Duke,-0.010099999999999998,0.4444,0.4545
-2022-03-18 10:30:54.031279,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Brentford,-0.0102,0.0667,0.0769
-2022-03-18 12:30:44.606434,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Villanova,-0.0102,0.0667,0.0769
-2022-03-18 09:30:50.232684,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Denver Broncos,-0.0102,0.0667,0.0769
-2022-03-18 13:30:44.187695,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Auburn,-0.0102,0.0667,0.0769
+2022-03-18 09:30:50.201546,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Tom Brady,-0.010099999999999998,0.0952,0.1053
 2022-03-18 12:30:44.606434,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Tennessee,-0.0102,0.0667,0.0769
+2022-03-18 13:30:44.187695,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Auburn,-0.0102,0.0667,0.0769
+2022-03-18 09:30:50.232684,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Denver Broncos,-0.0102,0.0667,0.0769
+2022-03-18 12:30:44.606434,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Villanova,-0.0102,0.0667,0.0769
+2022-03-18 10:30:54.031279,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Brentford,-0.0102,0.0667,0.0769
 2022-03-18 12:30:44.627058,College Basketball - 2022 NCAA DI Men's Basketball Tournament - South Regional Winner,TCU,-0.010300000000000002,0.0141,0.0244
 2022-03-18 12:30:44.627058,College Basketball - 2022 NCAA DI Men's Basketball Tournament - South Regional Winner,Tennessee,-0.010499999999999982,0.2,0.2105
 2022-03-18 12:30:44.623268,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Midwest Regional Winner,Miami (FL),-0.010700000000000001,0.0278,0.0385
-2022-03-18 09:30:50.201546,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Derrick Henry,-0.010700000000000001,0.0278,0.0385
 2022-03-18 13:30:44.486519,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,4,-0.010700000000000001,0.0278,0.0385
+2022-03-18 09:30:50.201546,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Derrick Henry,-0.010700000000000001,0.0278,0.0385
 2022-03-18 10:30:53.489235,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Erik Spoelstra (MIA),-0.010899999999999993,0.1429,0.1538
 2022-03-18 10:30:53.489235,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Taylor Jenkins (MEM),-0.010899999999999993,0.1429,0.1538
 2022-03-18 11:30:53.511633,Boxing Lines - Masamichi Yabuki vs Kenshiro Teraji - To Win the Bout,Masamichi Yabuki,-0.011199999999999988,0.4255,0.4367
-2022-03-18 11:30:53.532007,Boxing Lines - Sonny Liston Ali vs Lee Glover - To Win the Bout,Lee Glover,-0.011700000000000002,0.0909,0.1026
 2022-03-18 11:30:53.526548,Boxing Lines - Masood Abdulah vs Sandeep Singh Bhatti - To Win the Bout,Sandeep Singh Bhatti,-0.011700000000000002,0.0909,0.1026
+2022-03-18 11:30:53.532007,Boxing Lines - Sonny Liston Ali vs Lee Glover - To Win the Bout,Lee Glover,-0.011700000000000002,0.0909,0.1026
 2022-03-18 12:30:44.627058,College Basketball - 2022 NCAA DI Men's Basketball Tournament - South Regional Winner,Villanova,-0.011700000000000016,0.2105,0.2222
 2022-03-18 16:30:52.466733,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,O'Shaquie Foster,-0.011700000000000044,0.6109,0.6226
 2022-03-18 08:31:01.083136,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - To Play in the Play-In Tournament,New Orleans Pelicans,-0.012899999999999912,0.8333,0.8462
@@ -124,14 +123,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-18 09:30:50.020901,Boxing Lines - Tyson Fury vs Dillian Whyte - To Win the Bout,Tyson Fury,-0.013900000000000023,0.875,0.8889
 2022-03-18 10:30:53.498854,NBA Season Props - 2021/22 NBA Awards - 2022 The Most Improved Player,Miles Bridges,-0.013999999999999999,0.0769,0.0909
 2022-03-18 11:30:53.488891,Boxing Lines - Estelle Mossely vs Yanina Del Carmen Lescano - To Win the Bout,Estelle Mossely,-0.014000000000000012,0.9091,0.9231
-2022-03-18 13:30:44.183068,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Sweet 16,Chattanooga,-0.014399999999999996,0.0625,0.0769
 2022-03-18 14:31:03.410840,94th Academy Awards - Best Supporting Actor - Best Supporting Actor,Ciaran Hinds (Belfast),-0.014399999999999996,0.0625,0.0769
-2022-03-18 13:30:44.183068,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Sweet 16,Jacksonville State (#15),-0.0145,0.0099,0.0244
+2022-03-18 13:30:44.183068,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Sweet 16,Chattanooga,-0.014399999999999996,0.0625,0.0769
 2022-03-18 13:30:44.183068,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Sweet 16,Delaware (#15),-0.0145,0.0099,0.0244
 2022-03-18 13:30:44.183068,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Sweet 16,CS Fullerton,-0.0145,0.0099,0.0244
+2022-03-18 13:30:44.183068,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Sweet 16,Jacksonville State (#15),-0.0145,0.0099,0.0244
 2022-03-18 12:30:44.623268,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Midwest Regional Winner,Colgate,-0.014599999999999998,0.005,0.0196
 2022-03-18 13:30:44.183068,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Sweet 16,USC,-0.015100000000000002,0.1667,0.1818
-2022-03-18 07:31:12.483200,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - To Play in the Play-In Tournament,Chicago Bulls,-0.015100000000000002,0.1667,0.1818
 2022-03-18 13:30:44.187695,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Villanova,-0.015300000000000001,0.0435,0.0588
 2022-03-18 12:30:44.631371,College Basketball - 2022 NCAA DI Men's Basketball Tournament - West Regional Winner,New Mexico State,-0.0156,0.004,0.0196
 2022-03-18 18:30:53.910530,43rd Annual Razzie Awards - Worst Bruce Willis Performance in a 2021 Movie - Outright,American Siege,-0.016600000000000004,0.0667,0.0833
@@ -151,22 +149,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-18 13:30:44.178580,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Marquette,-0.0242,0.0667,0.0909
 2022-03-18 13:30:44.178580,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Davidson,-0.0245,0.0588,0.0833
 2022-03-18 11:30:53.566850,Boxing Lines - Regis Prograis vs Tyrone Mckenna - To Win the Bout,Regis Prograis,-0.024599999999999955,0.9655,0.9901
-2022-03-18 13:30:44.183068,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Sweet 16,TCU,-0.024999999999999994,0.1,0.125
 2022-03-18 12:30:44.606434,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Kansas,-0.024999999999999994,0.1,0.125
-2022-03-18 12:30:44.852447,Boxing Lines - Louie Lynn vs James Beech Jnr - To Win the Bout,Louie Lynn,-0.025000000000000022,0.875,0.9
+2022-03-18 13:30:44.183068,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Sweet 16,TCU,-0.024999999999999994,0.1,0.125
 2022-03-18 19:30:45.327478,Boxing Lines - Louie Lynn vs James Beech Jnr - To Win the Bout,Louie Lynn,-0.025000000000000022,0.875,0.9
+2022-03-18 12:30:44.852447,Boxing Lines - Louie Lynn vs James Beech Jnr - To Win the Bout,Louie Lynn,-0.025000000000000022,0.875,0.9
 2022-03-18 13:30:44.486519,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,1,-0.026600000000000013,0.4082,0.4348
 2022-03-18 18:30:53.790543,Grammy Awards 2022 - Grammy 2022 - Song of the Year Winner - Outright,Silk Sonic - Leave the Door Open,-0.027800000000000005,0.0833,0.1111
-2022-03-18 18:30:53.932327,43rd Annual Razzie Awards - Worst Screenplay - Outright,Diana the Musical,-0.030299999999999994,0.6364,0.6667
 2022-03-18 18:30:53.910530,43rd Annual Razzie Awards - Worst Bruce Willis Performance in a 2021 Movie - Outright,Cosmic Sin,-0.030299999999999994,0.303,0.3333
+2022-03-18 18:30:53.932327,43rd Annual Razzie Awards - Worst Screenplay - Outright,Diana the Musical,-0.030299999999999994,0.6364,0.6667
+2022-03-18 20:30:50.174988,Exhibition Fights - Eddie Hall vs Hafthor Bjornsson - To Win the Bout,Hafthor Bjornsson,-0.030399999999999983,0.5348,0.5652
 2022-03-18 18:30:53.834359,94th Academy Awards - Odds to win Best Actress - Best Actress,Olivia Colman (The Lost Daughter),-0.031,0.1429,0.1739
 2022-03-18 13:30:44.183068,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Sweet 16,Wisconsin,-0.031799999999999995,0.4444,0.4762
 2022-03-18 11:30:53.379933,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Bennedict Mathurin (Arizona),-0.0321,0.0588,0.0909
 2022-03-18 13:30:44.183068,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Sweet 16,Illinois,-0.03210000000000002,0.3846,0.4167
 2022-03-18 12:30:45.520526,Champions League - UEFA Champions League 2021/2022 - Outright,Real Madrid,-0.03330000000000001,0.0667,0.1
 2022-03-18 18:30:54.651493,Boxing Lines - Louie Lynn vs James Beech Jnr - To Win the Bout,James Beech Jnr,-0.033300000000000024,0.1667,0.2
-2022-03-18 12:30:44.619393,College Basketball - 2022 NCAA DI Men's Basketball Tournament - East Regional Winner,UCLA,-0.033300000000000024,0.1667,0.2
 2022-03-18 13:30:44.178580,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Illinois,-0.033300000000000024,0.1667,0.2
+2022-03-18 12:30:44.619393,College Basketball - 2022 NCAA DI Men's Basketball Tournament - East Regional Winner,UCLA,-0.033300000000000024,0.1667,0.2
 2022-03-18 12:30:45.520526,Champions League - UEFA Champions League 2021/2022 - Outright,Chelsea,-0.03420000000000001,0.0769,0.1111
 2022-03-18 18:30:53.845438,94th Academy Awards - Odds to win Best Picture - Best Picture,The Power of the Dog,-0.035699999999999954,0.7143,0.75
 2022-03-18 18:30:53.910530,43rd Annual Razzie Awards - Worst Bruce Willis Performance in a 2021 Movie - Outright,Midnight in the Switchgrass,-0.03640000000000004,0.3636,0.4
@@ -177,8 +176,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-18 10:30:52.820201,Boxing Lines - Louie Lynn vs James Beech Jnr - To Win the Bout,James Beech Jnr,-0.043800000000000006,0.1667,0.2105
 2022-03-18 13:30:44.486519,College Specials - How many #1 seeds will make it to the Final Four of the 2022 Men’s Basketball Championship? - Outright,0,-0.04620000000000002,0.1538,0.2
 2022-03-18 13:30:44.178580,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Miami (FL),-0.04650000000000001,0.0588,0.1053
-2022-03-18 08:31:01.077226,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.047599999999999976,0.2857,0.3333
 2022-03-18 14:31:03.410840,94th Academy Awards - Best Supporting Actor - Best Supporting Actor,Kodi Smit-McPhee (The Power of the Dog),-0.047599999999999976,0.2857,0.3333
+2022-03-18 08:31:01.077226,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.047599999999999976,0.2857,0.3333
 2022-03-18 13:30:44.178580,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,TCU,-0.048799999999999996,0.0345,0.0833
 2022-03-18 12:30:45.529196,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Real Madrid,-0.049100000000000005,0.1818,0.2309
 2022-03-18 13:30:44.178580,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Ohio State,-0.05,0.0833,0.1333
@@ -190,6 +189,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-18 10:30:54.031279,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Everton,-0.06519999999999998,0.2857,0.3509
 2022-03-18 12:30:45.529196,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Chelsea,-0.06820000000000001,0.1818,0.25
 2022-03-18 13:30:44.183068,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Sweet 16,Ohio State,-0.06840000000000002,0.1538,0.2222
-2022-03-18 07:31:13.150843,Exhibition Fights - Eddie Hall vs Hafthor Bjornsson - To Win the Bout,Hafthor Bjornsson,-0.07119999999999993,0.5652,0.6364
 2022-03-18 13:30:44.183068,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Sweet 16,Texas,-0.07790000000000002,0.25,0.3279
 2022-03-18 18:30:53.795868,94th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,The Power of the Dog (Jane Campion),-0.14289999999999992,0.5238,0.6667
