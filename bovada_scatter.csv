@@ -38,16 +38,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-17 17:30:35.998212,College Basketball - 2022 Men's NIT Winner - 2022 Men's NIT Winner,Virginia,0.024800000000000003,0.0526,0.0278
 2022-03-17 19:30:49.528286,Boxing Lines - Estelle Mossely vs Yanina Del Carmen Lescano - To Win the Bout,Estelle Mossely,0.024500000000000077,0.9412,0.9167
 2022-03-18 00:30:53.685116,UEFA Europa Conference League - UEFA Europa Conference League - Outright,PSV,0.0242,0.0909,0.0667
-2022-03-17 13:31:21.845801,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Arizona,0.023799999999999988,0.1667,0.1429
 2022-03-17 21:31:03.658722,94th Academy Awards - Best Costume Design - Best Costume Design,Cruella (Jenny Beavan),0.023799999999999932,0.8571,0.8333
 2022-03-17 17:30:35.998212,College Basketball - 2022 Men's NIT Winner - 2022 Men's NIT Winner,Northern Iowa,0.023200000000000002,0.0476,0.0244
-2022-03-17 13:31:22.648349,College Specials - Total NCAA Tournament Wins for the #5 Seeds - Outright,Over 6.5,0.022600000000000064,0.5348,0.5122
 2022-03-17 17:30:35.752103,43rd Annual Razzie Awards - Worst Bruce Willis Performance in a 2021 Movie - Outright,Deadlock,0.021999999999999964,0.3077,0.2857
 2022-03-17 17:30:36.111552,WNCAA - Odds to win NCAA Women's Basketball Championship 2022 - Outright,South Carolina,0.02100000000000002,0.3846,0.3636
 2022-03-17 17:30:35.977181,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,0.02020000000000001,0.1111,0.0909
 2022-03-18 00:30:53.685116,UEFA Europa Conference League - UEFA Europa Conference League - Outright,PAOK Salonika,0.018200000000000004,0.0476,0.0294
+2022-03-18 02:30:58.615414,Boxing Lines - John Bauza vs Tony Salam - To Win the Bout,John Bauza,0.018100000000000005,0.9412,0.9231
 2022-03-17 22:30:55.901031,Boxing Lines - Eddie Hall vs Hafthor Bjornsson - To Win the Bout,Hafthor Bjornsson,0.016900000000000026,0.6721,0.6552
-2022-03-17 13:31:23.045494,Boxing Lines - Eddie Hall vs Hafthor Bjornsson - To Win the Bout,Hafthor Bjornsson,0.016900000000000026,0.6721,0.6552
 2022-03-17 19:30:49.557998,Boxing Lines - Eddie Hall vs Hafthor Bjornsson - To Win the Bout,Eddie Hall,0.016000000000000014,0.4082,0.3922
 2022-03-17 17:30:35.998212,College Basketball - 2022 Men's NIT Winner - 2022 Men's NIT Winner,Wake Forest,0.015899999999999997,0.1111,0.0952
 2022-03-17 17:30:35.935060,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,0.015100000000000002,0.1818,0.1667
@@ -77,20 +75,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-17 17:30:35.935060,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.015100000000000002,0.1667,0.1818
 2022-03-17 22:30:57.153720,MLB Futures - MLB 2022 World Series - Outright,St. Louis Cardinals,-0.015300000000000001,0.0323,0.0476
 2022-03-17 17:30:35.963228,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,-0.015700000000000006,0.1176,0.1333
-2022-03-17 13:31:23.031964,Boxing Lines - O'Shaquie Foster vs Muhammadkhuja Yaqubov - To Win the Bout,O'Shaquie Foster,-0.015700000000000047,0.6139,0.6296
 2022-03-17 22:30:55.901031,Boxing Lines - Eddie Hall vs Hafthor Bjornsson - To Win the Bout,Eddie Hall,-0.016000000000000014,0.3922,0.4082
-2022-03-17 13:31:23.045494,Boxing Lines - Eddie Hall vs Hafthor Bjornsson - To Win the Bout,Eddie Hall,-0.016000000000000014,0.3922,0.4082
 2022-03-17 23:30:54.899606,Boxing Lines - Shabaz Masoud vs Yoan Boyeaux - To Win the Bout,Yoan Boyeaux,-0.016600000000000004,0.1739,0.1905
 2022-03-17 19:30:49.557998,Boxing Lines - Eddie Hall vs Hafthor Bjornsson - To Win the Bout,Hafthor Bjornsson,-0.016900000000000026,0.6552,0.6721
 2022-03-17 21:31:04.285761,Boxing Lines - Alexis Rocha vs Blair Cobbs - To Win the Bout,Alexis Rocha,-0.017300000000000093,0.697,0.7143
 2022-03-17 19:30:49.528286,Boxing Lines - Estelle Mossely vs Yanina Del Carmen Lescano - To Win the Bout,Yanina Del Carmen Lescano,-0.0179,0.125,0.1429
 2022-03-18 00:30:52.412129,Boxing Lines - Estelle Mossely vs Yanina Del Carmen Lescano - To Win the Bout,Estelle Mossely,-0.018100000000000005,0.9231,0.9412
 2022-03-17 21:31:03.696669,94th Academy Awards - Best Sound - Best Sound,West Side Story,-0.01820000000000002,0.1818,0.2
-2022-03-17 13:31:22.648349,College Specials - Total NCAA Tournament Wins for the #5 Seeds - Outright,Under 6.5,-0.02079999999999993,0.5348,0.5556
 2022-03-17 17:30:35.929052,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,Trae Young,-0.024800000000000003,0.0278,0.0526
 2022-03-17 17:30:35.958650,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,-0.025600000000000067,0.6667,0.6923
-2022-03-17 19:30:50.034484,TV Specials - Who will blow the Horn of Valere In Season 2 of Amazon's The Wheel Of Time - Outright,Egwene al'Vere,-0.0267,0.0909,0.1176
 2022-03-18 00:30:52.399217,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Green Bay Packers,-0.0267,0.0909,0.1176
+2022-03-17 19:30:50.034484,TV Specials - Who will blow the Horn of Valere In Season 2 of Amazon's The Wheel Of Time - Outright,Egwene al'Vere,-0.0267,0.0909,0.1176
 2022-03-17 19:30:50.034484,TV Specials - Who will blow the Horn of Valere In Season 2 of Amazon's The Wheel Of Time - Outright,Rand al'Thor,-0.0267,0.0909,0.1176
 2022-03-17 17:30:35.998212,College Basketball - 2022 Men's NIT Winner - 2022 Men's NIT Winner,SMU,-0.027999999999999997,0.1053,0.1333
 2022-03-17 20:31:03.705605,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Charlotte Hornets,-0.033300000000000024,0.1667,0.2
