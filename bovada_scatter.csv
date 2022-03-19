@@ -1,20 +1,25 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-19 19:30:51.032767,NBA Season Props - 2021/22 NBA Regular Season Team Wins - TOR Raptors Regular Season Wins,Over 44.5,0.16880000000000006,0.7143,0.5455
+2022-03-19 21:30:15.809006,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,West Ham United,0.14480000000000004,0.8,0.6552
 2022-03-19 19:30:51.021773,NBA Season Props - 2021/22 NBA Regular Season Team Wins - MIN Timberwolves Regular Season Wins,Over 44.5,0.11430000000000007,0.7143,0.6
 2022-03-19 19:30:50.999729,NBA Season Props - 2021/22 NBA Regular Season Team Wins - CHA Hornets Regular Season Wins,Over 40.5,0.10010000000000002,0.5652,0.4651
 2022-03-19 19:30:50.996109,NBA Season Props - 2021/22 NBA Regular Season Team Wins - BOS Celtics Regular Season Wins,Over 49.5,0.07740000000000002,0.5652,0.4878
 2022-03-19 19:30:51.025368,NBA Season Props - 2021/22 NBA Regular Season Team Wins - PHI 76ers Regular Season Wins,Over 51.5,0.06519999999999992,0.6,0.5348
 2022-03-19 19:30:50.991080,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Cleveland Cavaliers,0.06290000000000007,0.9091,0.8462
+2022-03-19 21:30:15.824659,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Arsenal,0.05590000000000006,0.6923,0.6364
 2022-03-19 19:30:51.018067,NBA Season Props - 2021/22 NBA Regular Season Team Wins - MIL Bucks Regular Season Wins,Under 52.5,0.05019999999999991,0.6154,0.5652
 2022-03-19 19:30:51.063338,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.04760000000000009,0.7143,0.6667
 2022-03-19 19:30:51.014412,NBA Season Props - 2021/22 NBA Regular Season Team Wins - MIA Heat Regular Season Wins,Under 54.5,0.04620000000000002,0.5917,0.5455
 2022-03-19 12:30:56.473997,Boxing Lines - John Bauza vs Tony Luis - To Win the Bout,Tony Luis,0.04240000000000001,0.16,0.1176
 2022-03-19 19:30:51.073126,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,0.04169999999999996,0.875,0.8333
+2022-03-19 21:30:15.817189,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,0.0393,0.6226,0.5833
+2022-03-19 21:30:15.817189,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Brentford,0.03330000000000001,0.1,0.0667
 2022-03-19 19:30:50.991080,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Brooklyn Nets,0.03180000000000005,0.8889,0.8571
 2022-03-19 09:31:17.545055,Exhibition Fights - Eddie Hall vs Hafthor Bjornsson - To Win the Bout,Eddie Hall,0.030399999999999983,0.5652,0.5348
 2022-03-19 14:30:45.169539,43rd Annual Razzie Awards - Worst Bruce Willis Performance in a 2021 Movie - Outright,Deadlock,0.030299999999999994,0.3636,0.3333
 2022-03-19 12:30:56.745995,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,St. Peter's (#15),0.024,0.0625,0.0385
 2022-03-19 19:30:50.991080,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Atlanta Hawks,0.023799999999999988,0.3571,0.3333
+2022-03-19 21:30:15.817189,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Everton,0.021999999999999964,0.3077,0.2857
 2022-03-19 11:30:56.437969,Europa League - UEFA Europa League 2021/22 - Outright,FC Barcelona,0.02100000000000002,0.3846,0.3636
 2022-03-19 15:31:10.539285,CFL - Odds to win 109th (2022) Grey Cup - Outright,Toronto Argonauts,0.02049999999999999,0.1538,0.1333
 2022-03-19 14:30:44.876392,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,UCLA,0.0203,0.0526,0.0323
@@ -29,16 +34,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-19 19:30:51.068255,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,0.014399999999999968,0.9375,0.9231
 2022-03-19 18:30:36.110186,Boxing Lines - Dennis McCann vs Charles Tondo - To Win the Bout,Dennis McCann,0.01429999999999998,0.9852,0.9709
 2022-03-19 14:30:44.463557,Boxing Lines - Abass Baraou vs Brian Damian Chaves - To Win the Bout,Abass Baraou,0.014000000000000012,0.9231,0.9091
-2022-03-19 15:31:10.539285,CFL - Odds to win 109th (2022) Grey Cup - Outright,British Columbia Lions,0.013999999999999999,0.0909,0.0769
+2022-03-19 16:30:47.008230,Boxing Lines - Henry Turner vs Ivan Njegac - To Win the Bout,Ivan Njegac,0.013999999999999999,0.0909,0.0769
 2022-03-19 16:30:47.051926,Boxing Lines - Regis Prograis vs Tyrone Mckenna - To Win the Bout,Tyrone Mckenna,0.013999999999999999,0.0909,0.0769
 2022-03-19 19:30:51.078040,NBA Futures - 2022 NBA Southwest Division - Division Winner,Dallas Mavericks,0.013999999999999999,0.0909,0.0769
-2022-03-19 16:30:47.008230,Boxing Lines - Henry Turner vs Ivan Njegac - To Win the Bout,Ivan Njegac,0.013999999999999999,0.0909,0.0769
+2022-03-19 15:31:10.539285,CFL - Odds to win 109th (2022) Grey Cup - Outright,British Columbia Lions,0.013999999999999999,0.0909,0.0769
 2022-03-19 14:30:44.515194,Boxing Lines - Xander Zayas vs Quincy LaVallais - To Win the Bout,Quincy LaVallais,0.013999999999999999,0.0909,0.0769
 2022-03-19 19:30:51.038736,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.013899999999999996,0.2222,0.2083
 2022-03-19 15:31:10.539285,CFL - Odds to win 109th (2022) Grey Cup - Outright,Hamilton Tiger-Cats,0.012899999999999995,0.1667,0.1538
 2022-03-19 11:30:55.480335,Boxing Lines - Alexis Rocha vs Blair Cobbs - To Win the Bout,Blair Cobbs,0.012299999999999978,0.3571,0.3448
 2022-03-19 13:30:37.534416,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Texas Tech,0.011199999999999995,0.0588,0.0476
 2022-03-19 15:31:10.539285,CFL - Odds to win 109th (2022) Grey Cup - Outright,Montreal Alouettes,0.011099999999999999,0.1111,0.1
+2022-03-19 21:30:15.817189,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Watford,0.01090000000000002,0.8571,0.8462
 2022-03-19 16:30:47.026572,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Muhammad Waseem,0.010700000000000001,0.125,0.1143
 2022-03-19 11:30:56.437969,Europa League - UEFA Europa League 2021/22 - Outright,Atalanta,-0.010899999999999993,0.1429,0.1538
 2022-03-19 20:30:44.767535,Boxing Lines - Hamzah Sheeraz vs Jez Smith - To Win the Bout,Jez Smith,-0.011099999999999999,0.1,0.1111
@@ -53,8 +59,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-19 19:30:51.058360,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - To Play in the Play-In Tournament,Minnesota Timberwolves,-0.016700000000000048,0.7333,0.75
 2022-03-19 11:30:56.437969,Europa League - UEFA Europa League 2021/22 - Outright,Eintracht Frankfurt,-0.018099999999999998,0.0588,0.0769
 2022-03-19 19:30:51.078040,NBA Futures - 2022 NBA Southwest Division - Division Winner,Memphis Grizzlies,-0.018900000000000028,0.9615,0.9804
-2022-03-19 19:30:51.058360,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - To Play in the Play-In Tournament,San Antonio Spurs,-0.019000000000000017,0.2667,0.2857
 2022-03-19 15:31:10.539285,CFL - Odds to win 109th (2022) Grey Cup - Outright,Winnipeg Blue Bombers,-0.019000000000000017,0.2667,0.2857
+2022-03-19 19:30:51.058360,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - To Play in the Play-In Tournament,San Antonio Spurs,-0.019000000000000017,0.2667,0.2857
 2022-03-19 19:30:51.058360,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - To Play in the Play-In Tournament,Denver Nuggets,-0.019000000000000017,0.2667,0.2857
 2022-03-19 16:30:47.026572,Boxing Lines - Sunny Edwards vs Muhammad Waseem - To Win the Bout,Sunny Edwards,-0.019100000000000006,0.9333,0.9524
 2022-03-19 17:31:42.585171,Boxing Lines - Henry Turner vs Ivan Njegac - To Win the Bout,Ivan Njegac,-0.01949999999999999,0.0714,0.0909
@@ -65,14 +71,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-19 19:30:51.038736,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.023799999999999988,0.1429,0.1667
 2022-03-19 14:30:44.862793,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Villanova,-0.024299999999999995,0.0526,0.0769
 2022-03-19 19:30:51.068255,NBA Futures - 2022 NBA Central Division - Division Winner,Chicago Bulls,-0.0267,0.0909,0.1176
-2022-03-19 19:30:51.043737,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.02779999999999999,0.2222,0.25
 2022-03-19 19:30:51.073126,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,-0.02779999999999999,0.2222,0.25
+2022-03-19 19:30:51.043737,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.02779999999999999,0.2222,0.25
 2022-03-19 19:30:50.946072,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,Luka Doncic,-0.030199999999999998,0.0323,0.0625
 2022-03-19 14:30:45.169539,43rd Annual Razzie Awards - Worst Bruce Willis Performance in a 2021 Movie - Outright,Midnight in the Switchgrass,-0.030299999999999994,0.3333,0.3636
 2022-03-19 14:30:44.872273,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Arizona,-0.030299999999999994,0.6364,0.6667
+2022-03-19 21:30:15.824659,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Manchester United,-0.030899999999999983,0.2,0.2309
 2022-03-19 18:30:36.153027,Boxing Lines - John Bauza vs Tony Luis - To Win the Bout,John Bauza,-0.03210000000000002,0.9091,0.9412
 2022-03-19 19:30:50.982278,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - State of Winning Team,California,-0.033300000000000024,0.1667,0.2
 2022-03-19 11:30:56.437969,Europa League - UEFA Europa League 2021/22 - Outright,West Ham United,-0.033399999999999985,0.1333,0.1667
+2022-03-19 21:30:15.824659,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Tottenham Hotspur,-0.03409999999999999,0.2326,0.2667
 2022-03-19 09:31:17.545055,Exhibition Fights - Eddie Hall vs Hafthor Bjornsson - To Win the Bout,Hafthor Bjornsson,-0.03480000000000005,0.5,0.5348
 2022-03-19 19:30:51.048735,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - To Play in the Play-In Tournament,Cleveland Cavaliers,-0.044399999999999995,0.4,0.4444
 2022-03-19 19:30:51.018067,NBA Season Props - 2021/22 NBA Regular Season Team Wins - MIL Bucks Regular Season Wins,Over 52.5,-0.045499999999999985,0.4545,0.5
@@ -83,4 +91,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-19 19:30:50.991080,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Toronto Raptors,-0.07929999999999993,0.7778,0.8571
 2022-03-19 19:30:50.999729,NBA Season Props - 2021/22 NBA Regular Season Team Wins - CHA Hornets Regular Season Wins,Under 40.5,-0.09999999999999998,0.5,0.6
 2022-03-19 19:30:51.021773,NBA Season Props - 2021/22 NBA Regular Season Team Wins - MIN Timberwolves Regular Season Wins,Under 44.5,-0.11420000000000002,0.3509,0.4651
+2022-03-19 21:30:15.817189,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,-0.1179,0.2667,0.3846
+2022-03-19 21:30:15.809006,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Wolverhampton Wanderers,-0.13099999999999998,0.2326,0.3636
 2022-03-19 19:30:51.032767,NBA Season Props - 2021/22 NBA Regular Season Team Wins - TOR Raptors Regular Season Wins,Under 44.5,-0.17290000000000005,0.3509,0.5238
