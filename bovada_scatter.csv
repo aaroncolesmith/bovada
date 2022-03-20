@@ -1,15 +1,20 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-03-20 10:30:43.202775,League Two - England League Two 2021/22 - Top 7 Finish,Bristol Rovers,0.2528,0.6528,0.4
 2022-03-19 23:31:39.665921,League One - England League One 2021/22 - Outright,Wigan Athletic,0.21089999999999998,0.6364,0.4255
+2022-03-20 10:30:43.202775,League Two - England League Two 2021/22 - Top 7 Finish,Port Vale,0.19049999999999995,0.6667,0.4762
 2022-03-20 05:30:46.272922,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,North Carolina,0.1863,0.2632,0.0769
+2022-03-20 09:31:05.798738,College Basketball - 2022 NCAA DI Men's Basketball Tournament - East Regional Winner,North Carolina,0.18330000000000002,0.25,0.0667
 2022-03-20 05:30:46.264350,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Villanova,0.15780000000000005,0.5833,0.4255
 2022-03-19 23:31:39.473435,England Championship - England Championship 21/22 - Top 6 Finish,Sheffield United,0.14140000000000008,0.7778,0.6364
 2022-03-19 23:31:39.473435,England Championship - England Championship 21/22 - Top 6 Finish,Luton Town,0.13670000000000004,0.6923,0.5556
 2022-03-19 23:31:39.681093,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,0.13640000000000002,0.5,0.3636
 2022-03-19 23:31:39.724325,League One - England League One 2021/22 - Top 6 Finish,Plymouth Argyle,0.13329999999999997,0.7333,0.6
 2022-03-20 01:30:36.499523,League Two - England League Two 2021/22 - To Be Promoted,Exeter City,0.13329999999999997,0.7333,0.6
+2022-03-20 09:31:05.798738,College Basketball - 2022 NCAA DI Men's Basketball Tournament - East Regional Winner,UCLA,0.12589999999999998,0.3077,0.1818
 2022-03-20 01:30:36.508249,League Two - England League Two 2021/22 - Top 3 Finish,Exeter City,0.12119999999999997,0.6667,0.5455
 2022-03-20 01:30:36.503728,League Two - England League Two 2021/22 - To Be Relegated,Oldham Athletic,0.11430000000000007,0.7143,0.6
 2022-03-20 05:30:46.286251,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - South Region Winner,Michigan,0.11409999999999998,0.1667,0.0526
+2022-03-20 10:30:43.319887,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Leeds United,0.10770000000000002,0.8,0.6923
 2022-03-19 23:31:39.706031,League One - England League One 2021/22 - Top 2 Finish,Milton Keynes Dons,0.10769999999999996,0.3077,0.2
 2022-03-20 05:30:46.272922,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,UCLA,0.10709999999999997,0.3571,0.25
 2022-03-20 05:30:46.264350,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Purdue,0.10419999999999996,0.6875,0.5833
@@ -20,44 +25,63 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-20 05:30:46.279645,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - Midwest Region Winner,Kansas,0.08330000000000004,0.5833,0.5
 2022-03-20 09:31:05.798738,College Basketball - 2022 NCAA DI Men's Basketball Tournament - East Regional Winner,St. Peter's (#15),0.08099999999999999,0.0909,0.0099
 2022-03-20 01:30:36.499523,League Two - England League Two 2021/22 - To Be Promoted,Port Vale,0.07789999999999997,0.3636,0.2857
+2022-03-20 09:31:05.805152,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Midwest Regional Winner,Kansas,0.07740000000000002,0.5652,0.4878
+2022-03-20 10:30:43.193345,League Two - England League Two 2021/22 - Top 3 Finish,Port Vale,0.0771,0.2309,0.1538
 2022-03-19 23:31:39.446370,England Championship - England Championship 21/22 - Top 2 Finish,Bournemouth,0.07579999999999998,0.9091,0.8333
 2022-03-20 05:30:46.272922,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,Texas,0.07500000000000001,0.2,0.125
+2022-03-20 09:31:05.811717,College Basketball - 2022 NCAA DI Men's Basketball Tournament - South Regional Winner,Michigan,0.07239999999999999,0.125,0.0526
 2022-03-20 05:30:46.272922,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,St. Peter's (#15),0.0703,0.0769,0.0066
 2022-03-20 05:30:46.286251,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - South Region Winner,Houston,0.06860000000000002,0.2353,0.1667
 2022-03-20 06:31:03.520869,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Drew Timme (Gonzaga),0.06670000000000001,0.2,0.1333
-2022-03-20 05:30:46.292905,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Gonzaga,0.06669999999999998,0.6667,0.6
 2022-03-20 06:31:03.541250,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Kansas,0.06669999999999998,0.1667,0.1
+2022-03-20 05:30:46.292905,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Gonzaga,0.06669999999999998,0.6667,0.6
+2022-03-20 09:31:05.798738,College Basketball - 2022 NCAA DI Men's Basketball Tournament - East Regional Winner,Purdue,0.06659999999999999,0.3333,0.2667
 2022-03-20 01:30:36.499523,League Two - England League Two 2021/22 - To Be Promoted,Bristol Rovers,0.0635,0.2857,0.2222
 2022-03-19 23:31:39.694444,League One - England League One 2021/22 - To Be Relegated,AFC Wimbledon,0.06190000000000001,0.4255,0.3636
 2022-03-19 23:31:39.434223,England Championship - England Championship 21/22 - To Be Promoted,Bournemouth,0.05830000000000002,0.9333,0.875
 2022-03-19 23:31:39.473435,England Championship - England Championship 21/22 - Top 6 Finish,Nottingham Forest,0.056599999999999984,0.6364,0.5798
+2022-03-20 10:30:43.202775,League Two - England League Two 2021/22 - Top 7 Finish,Tranmere Rovers,0.05590000000000006,0.6923,0.6364
 2022-03-20 06:31:04.104907,WNCAA - Odds to win NCAA Women's Basketball Championship 2022 - Outright,South Carolina,0.05449999999999999,0.4545,0.4
 2022-03-20 05:30:46.264350,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Ohio State,0.05379999999999999,0.1538,0.1
+2022-03-20 10:30:43.202775,League Two - England League Two 2021/22 - Top 7 Finish,Exeter City,0.05230000000000001,0.9412,0.8889
+2022-03-20 09:31:05.818531,College Basketball - 2022 NCAA DI Men's Basketball Tournament - West Regional Winner,Gonzaga,0.05130000000000001,0.6667,0.6154
 2022-03-19 23:31:39.434223,England Championship - England Championship 21/22 - To Be Promoted,Sheffield United,0.047599999999999976,0.3333,0.2857
+2022-03-20 09:31:05.811717,College Basketball - 2022 NCAA DI Men's Basketball Tournament - South Regional Winner,Houston,0.04620000000000002,0.2,0.1538
 2022-03-20 00:30:12.142960,Italy Serie A - Italy Serie A 2021/2022 - Outright,Napoli,0.044499999999999984,0.2667,0.2222
+2022-03-20 10:30:43.115250,League One - England League One 2021/22 - Top Goalscorer,Will Keane (Wigan),0.04169999999999999,0.1667,0.125
 2022-03-19 23:31:39.434223,England Championship - England Championship 21/22 - To Be Promoted,Luton Town,0.03889999999999999,0.1818,0.1429
 2022-03-19 23:31:39.665921,League One - England League One 2021/22 - Outright,Milton Keynes Dons,0.0384,0.0769,0.0385
 2022-03-20 05:30:46.286251,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - South Region Winner,Arizona,0.0348,0.4348,0.4
 2022-03-20 05:30:46.279645,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - Midwest Region Winner,Providence,0.03420000000000001,0.1111,0.0769
 2022-03-19 23:31:39.706031,League One - England League One 2021/22 - Top 2 Finish,Wigan Athletic,0.03410000000000002,0.9091,0.875
 2022-03-20 01:30:36.495130,League Two - England League Two 2021/22 - Outright,Exeter City,0.034100000000000005,0.125,0.0909
+2022-03-20 09:31:05.798738,College Basketball - 2022 NCAA DI Men's Basketball Tournament - East Regional Winner,Texas,0.033300000000000024,0.2,0.1667
+2022-03-20 09:31:05.805152,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Midwest Regional Winner,Providence,0.03330000000000001,0.1,0.0667
+2022-03-20 10:30:43.308561,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,0.033299999999999996,0.8333,0.8
 2022-03-20 06:31:03.541250,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,North Carolina,0.033,0.0526,0.0196
 2022-03-20 05:30:46.256067,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Kansas,0.031,0.1739,0.1429
+2022-03-20 10:30:43.033672,FA Cup - England FA Cup 2021/22 - Outright,Chelsea FC,0.030899999999999983,0.2309,0.2
 2022-03-19 23:31:39.681093,League One - England League One 2021/22 - To Be Promoted,Plymouth Argyle,0.028799999999999992,0.1538,0.125
 2022-03-20 05:30:46.256067,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,North Carolina,0.028000000000000004,0.0476,0.0196
+2022-03-20 10:30:43.193345,League Two - England League Two 2021/22 - Top 3 Finish,Bristol Rovers,0.027999999999999997,0.1818,0.1538
+2022-03-20 09:31:05.811717,College Basketball - 2022 NCAA DI Men's Basketball Tournament - South Regional Winner,Villanova,0.02779999999999999,0.25,0.2222
 2022-03-20 06:31:04.104907,WNCAA - Odds to win NCAA Women's Basketball Championship 2022 - Outright,Connecticut,0.02779999999999999,0.25,0.2222
 2022-03-19 22:30:59.560634,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - To Play in the Play-In Tournament,Chicago Bulls,0.02779999999999999,0.25,0.2222
 2022-03-20 05:30:46.256067,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Gonzaga,0.02679999999999999,0.3125,0.2857
+2022-03-20 10:30:43.308561,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,0.025499999999999967,0.4255,0.4
 2022-03-19 23:31:39.681093,League One - England League One 2021/22 - To Be Promoted,Wigan Athletic,0.0242,0.9333,0.9091
 2022-03-19 23:31:39.724325,League One - England League One 2021/22 - Top 6 Finish,Milton Keynes Dons,0.02410000000000001,0.995,0.9709
 2022-03-20 03:30:52.858620,Professional Baseball - NPB 2022 - Outright,Fukuoka SoftBank Hawks,0.023799999999999988,0.1667,0.1429
-2022-03-20 01:30:36.508249,League Two - England League Two 2021/22 - Top 3 Finish,Tranmere Rovers,0.022199999999999998,0.2222,0.2
+2022-03-20 10:30:43.308561,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Arsenal,0.0232,0.9756,0.9524
 2022-03-20 01:30:36.508249,League Two - England League Two 2021/22 - Top 3 Finish,Mansfield Town,0.022199999999999998,0.2222,0.2
+2022-03-20 01:30:36.508249,League Two - England League Two 2021/22 - Top 3 Finish,Tranmere Rovers,0.022199999999999998,0.2222,0.2
 2022-03-20 03:30:53.760449,Japan B League - Japan League B1 2021/22 - Outright,Okinawa Ryukyu,0.022199999999999998,0.2222,0.2
 2022-03-20 05:30:46.264350,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Texas Tech,0.02169999999999994,0.5455,0.5238
 2022-03-20 06:31:03.541250,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Gonzaga,0.020799999999999985,0.3333,0.3125
 2022-03-20 05:30:46.286251,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - South Region Winner,Ohio State,0.019800000000000005,0.0476,0.0278
 2022-03-19 23:31:39.706031,League One - England League One 2021/22 - Top 2 Finish,Plymouth Argyle,0.0189,0.0385,0.0196
+2022-03-20 09:31:05.811717,College Basketball - 2022 NCAA DI Men's Basketball Tournament - South Regional Winner,Arizona,0.018100000000000005,0.4348,0.4167
+2022-03-20 10:30:43.033672,FA Cup - England FA Cup 2021/22 - Outright,Manchester City,0.018100000000000005,0.3817,0.3636
 2022-03-20 06:31:03.136542,Boxing Lines - Gennady Golovkin vs Ryota Murata - To Win the Bout,Gennady Golovkin,0.017900000000000027,0.875,0.8571
 2022-03-20 09:31:05.541499,Boxing Lines - Tim Tszyu vs Terrell Gausha - To Win the Bout,Tim Tszyu,0.01760000000000006,0.9,0.8824
 2022-03-20 01:30:36.495130,League Two - England League Two 2021/22 - Outright,Mansfield Town,0.017099999999999997,0.0294,0.0123
@@ -66,27 +90,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-20 03:30:53.760449,Japan B League - Japan League B1 2021/22 - Outright,Alvark Tokyo,0.015100000000000002,0.1818,0.1667
 2022-03-20 06:31:03.520869,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Armando Bacot (North Carolina),0.0151,0.0217,0.0066
 2022-03-20 05:30:46.256067,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,UCLA,0.014099999999999994,0.0667,0.0526
-2022-03-20 05:30:46.286251,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - South Region Winner,Illinois,0.013999999999999999,0.0909,0.0769
+2022-03-20 09:31:05.811717,College Basketball - 2022 NCAA DI Men's Basketball Tournament - South Regional Winner,Ohio State,0.014099999999999994,0.0667,0.0526
 2022-03-19 22:30:59.905552,England Championship - England Championship 21/22 - Outright,Bournemouth,0.013999999999999999,0.0909,0.0769
+2022-03-20 05:30:46.286251,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - South Region Winner,Illinois,0.013999999999999999,0.0909,0.0769
 2022-03-20 05:30:46.264350,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Houston,0.013300000000000034,0.3704,0.3571
 2022-03-20 05:30:46.292905,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Texas Tech,0.0131,0.2353,0.2222
 2022-03-20 05:30:46.264350,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Miami (FL),0.012899999999999995,0.1667,0.1538
 2022-03-19 23:31:39.473435,England Championship - England Championship 21/22 - Top 6 Finish,Bournemouth,0.012800000000000034,0.998,0.9852
 2022-03-20 06:31:03.541250,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Michigan,0.012100000000000001,0.0244,0.0123
 2022-03-20 03:30:52.651196,Boxing Lines - Edgar Berlanga vs Steve Rolls - To Win the Bout,Edgar Berlanga,0.011199999999999988,0.9524,0.9412
-2022-03-20 01:30:36.503728,League Two - England League Two 2021/22 - To Be Relegated,Barrow FC,0.011099999999999999,0.1111,0.1
 2022-03-20 05:30:46.279645,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - Midwest Region Winner,Wisconsin,0.011099999999999999,0.1111,0.1
+2022-03-20 01:30:36.503728,League Two - England League Two 2021/22 - To Be Relegated,Barrow FC,0.011099999999999999,0.1111,0.1
 2022-03-20 05:30:46.292905,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - West Region Winner,Arkansas,0.011099999999999999,0.1111,0.1
 2022-03-19 23:31:39.665921,League One - England League One 2021/22 - Outright,Plymouth Argyle,0.0109,0.0149,0.004
 2022-03-20 05:30:46.264350,College Basketball - 2022 NCAA DI Men's Basketball Tournament - To Make it to the Elite 8,Auburn,0.010700000000000043,0.6774,0.6667
+2022-03-20 09:31:05.818531,College Basketball - 2022 NCAA DI Men's Basketball Tournament - West Regional Winner,Duke,0.010499999999999982,0.2105,0.2
 2022-03-20 06:31:03.541250,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Arkansas,0.010300000000000002,0.0244,0.0141
+2022-03-20 10:30:43.115250,League One - England League One 2021/22 - Top Goalscorer,Alfie May (Cheltenham),0.0102,0.0769,0.0667
 2022-03-20 06:31:03.541250,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Purdue,0.0102,0.0769,0.0667
 2022-03-20 03:30:53.760449,Japan B League - Japan League B1 2021/22 - Outright,Hiroshima Dragonflies,-0.010100000000000001,0.0244,0.0345
-2022-03-20 06:31:03.541250,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Auburn,-0.0102,0.0667,0.0769
 2022-03-20 00:30:12.115282,Germany Bundesliga - German Bundesliga 2021/22 - Outright,Borussia Dortmund,-0.0102,0.0667,0.0769
+2022-03-20 10:30:43.033672,FA Cup - England FA Cup 2021/22 - Outright,Crystal Palace,-0.0102,0.0667,0.0769
+2022-03-20 06:31:03.541250,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Auburn,-0.0102,0.0667,0.0769
 2022-03-20 06:31:03.541250,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Texas Tech,-0.011199999999999995,0.0476,0.0588
+2022-03-20 10:30:43.033672,FA Cup - England FA Cup 2021/22 - Outright,Southampton,-0.011199999999999995,0.0476,0.0588
 2022-03-20 06:31:03.520869,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Jabari Smith (Auburn),-0.011199999999999995,0.0476,0.0588
 2022-03-20 06:31:03.520869,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Julian Strawther (Gonzaga),-0.0115,0.0179,0.0294
+2022-03-20 09:31:05.805152,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Midwest Regional Winner,Auburn,-0.012299999999999978,0.3448,0.3571
+2022-03-20 10:30:43.137485,League One - England League One 2021/22 - Top 2 Finish,Rotherham Utd,-0.012899999999999912,0.8333,0.8462
+2022-03-20 10:30:43.202775,League Two - England League Two 2021/22 - Top 7 Finish,Rochdale,-0.0129,0.002,0.0149
 2022-03-20 03:30:53.760449,Japan B League - Japan League B1 2021/22 - Outright,Akita Northern Happinets,-0.0131,0.0345,0.0476
 2022-03-20 00:30:09.940205,Boxing Lines - Xander Zayas vs Quincy LaVallais - To Win the Bout,Quincy LaVallais,-0.013999999999999999,0.0769,0.0909
 2022-03-19 23:31:39.681093,League One - England League One 2021/22 - To Be Promoted,Ipswich Town,-0.014099999999999998,0.0244,0.0385
@@ -95,40 +127,56 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-20 05:30:46.279645,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - Midwest Region Winner,Auburn,-0.015400000000000025,0.3846,0.4
 2022-03-19 23:31:39.681093,League One - England League One 2021/22 - To Be Promoted,Sheffield Wednesday,-0.016699999999999993,0.25,0.2667
 2022-03-19 23:31:39.446370,England Championship - England Championship 21/22 - Top 2 Finish,Blackburn Rovers,-0.017099999999999997,0.0123,0.0294
-2022-03-19 23:31:39.434223,England Championship - England Championship 21/22 - To Be Promoted,Millwall,-0.018099999999999998,0.0588,0.0769
 2022-03-19 23:31:39.473435,England Championship - England Championship 21/22 - Top 6 Finish,Coventry City,-0.018099999999999998,0.0588,0.0769
+2022-03-19 23:31:39.434223,England Championship - England Championship 21/22 - To Be Promoted,Millwall,-0.018099999999999998,0.0588,0.0769
+2022-03-20 10:30:43.033672,FA Cup - England FA Cup 2021/22 - Outright,Everton FC,-0.018099999999999998,0.0588,0.0769
 2022-03-20 01:30:36.503728,League Two - England League Two 2021/22 - To Be Relegated,Leyton Orient,-0.0189,0.0196,0.0385
+2022-03-20 10:30:43.202775,League Two - England League Two 2021/22 - Top 7 Finish,Hartlepool United,-0.0189,0.0196,0.0385
+2022-03-20 10:30:43.308561,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Aston Villa,-0.019499999999999997,0.0099,0.0294
+2022-03-20 09:31:05.805152,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Midwest Regional Winner,Wisconsin,-0.019699999999999995,0.1053,0.125
 2022-03-20 06:31:03.136542,Boxing Lines - Gennady Golovkin vs Ryota Murata - To Win the Bout,Ryota Murata,-0.01999999999999999,0.1905,0.2105
 2022-03-19 23:31:39.446370,England Championship - England Championship 21/22 - Top 2 Finish,Middlesbrough,-0.0203,0.0385,0.0588
-2022-03-20 01:30:36.499523,League Two - England League Two 2021/22 - To Be Promoted,Mansfield Town,-0.02100000000000002,0.3636,0.3846
 2022-03-19 23:31:39.724325,League One - England League One 2021/22 - Top 6 Finish,Wycombe,-0.02100000000000002,0.3636,0.3846
+2022-03-20 01:30:36.499523,League Two - England League Two 2021/22 - To Be Promoted,Mansfield Town,-0.02100000000000002,0.3636,0.3846
 2022-03-20 03:30:52.651196,Boxing Lines - Edgar Berlanga vs Steve Rolls - To Win the Bout,Steve Rolls,-0.021199999999999997,0.1,0.1212
+2022-03-20 10:30:43.202775,League Two - England League Two 2021/22 - Top 7 Finish,Northampton Town,-0.022199999999999998,0.7778,0.8
+2022-03-20 10:30:43.319887,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Watford,-0.022199999999999998,0.2,0.2222
 2022-03-19 23:31:39.681093,League One - England League One 2021/22 - To Be Promoted,Sunderland,-0.022199999999999998,0.2,0.2222
-2022-03-20 05:30:46.256067,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Auburn,-0.02310000000000001,0.0769,0.1
 2022-03-19 23:31:39.724325,League One - England League One 2021/22 - Top 6 Finish,Ipswich Town,-0.02310000000000001,0.0769,0.1
+2022-03-20 05:30:46.256067,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Auburn,-0.02310000000000001,0.0769,0.1
 2022-03-20 01:30:36.495130,League Two - England League Two 2021/22 - Outright,Northampton Town,-0.023200000000000002,0.0244,0.0476
+2022-03-20 10:30:43.319887,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Everton,-0.027800000000000047,0.75,0.7778
 2022-03-19 23:31:39.473435,England Championship - England Championship 21/22 - Top 6 Finish,West Bromwich Albion,-0.027999999999999997,0.1538,0.1818
+2022-03-20 10:30:43.319887,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Brentford,-0.02969999999999995,0.9412,0.9709
+2022-03-20 10:30:43.193345,League Two - England League Two 2021/22 - Top 3 Finish,Sutton Utd,-0.0321,0.0588,0.0909
 2022-03-20 01:30:36.503728,League Two - England League Two 2021/22 - To Be Relegated,Colchester United,-0.03330000000000001,0.0667,0.1
 2022-03-19 23:31:39.724325,League One - England League One 2021/22 - Top 6 Finish,Sunderland,-0.03639999999999999,0.6,0.6364
 2022-03-19 23:31:39.446370,England Championship - England Championship 21/22 - Top 2 Finish,Huddersfield Town,-0.0392,0.0196,0.0588
 2022-03-20 01:30:36.499523,League Two - England League Two 2021/22 - To Be Promoted,Sutton Utd,-0.04169999999999999,0.125,0.1667
 2022-03-19 23:31:39.434223,England Championship - England Championship 21/22 - To Be Promoted,Huddersfield Town,-0.04269999999999999,0.1111,0.1538
 2022-03-19 23:31:39.434223,England Championship - England Championship 21/22 - To Be Promoted,Blackburn Rovers,-0.042899999999999994,0.1,0.1429
+2022-03-20 10:30:43.319887,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Burnley,-0.045499999999999985,0.4545,0.5
 2022-03-20 01:30:36.499523,League Two - England League Two 2021/22 - To Be Promoted,Swindon Town,-0.047599999999999976,0.2857,0.3333
 2022-03-20 06:31:03.520869,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Chet Holmgren (Gonzaga),-0.05,0.0833,0.1333
 2022-03-19 23:31:39.473435,England Championship - England Championship 21/22 - Top 6 Finish,Huddersfield Town,-0.05449999999999999,0.5455,0.6
+2022-03-20 10:30:43.115250,League One - England League One 2021/22 - Top Goalscorer,Ross Stewart (Sunderland),-0.056599999999999984,0.5798,0.6364
 2022-03-19 23:31:39.724325,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,-0.057699999999999974,0.6923,0.75
 2022-03-19 23:31:39.694444,League One - England League One 2021/22 - To Be Relegated,Gillingham,-0.0635,0.7143,0.7778
 2022-03-20 01:30:36.503728,League Two - England League Two 2021/22 - To Be Relegated,Carlisle Utd,-0.0637,0.0196,0.0833
 2022-03-19 23:31:39.681093,League One - England League One 2021/22 - To Be Promoted,Rotherham Utd,-0.0726,0.8889,0.9615
 2022-03-20 01:30:36.499523,League Two - England League Two 2021/22 - To Be Promoted,Northampton Town,-0.07619999999999999,0.4,0.4762
-2022-03-20 01:30:36.503728,League Two - England League Two 2021/22 - To Be Relegated,Stevenage,-0.07789999999999997,0.2857,0.3636
 2022-03-20 01:30:36.508249,League Two - England League Two 2021/22 - Top 3 Finish,Northampton Town,-0.07789999999999997,0.2857,0.3636
+2022-03-20 01:30:36.503728,League Two - England League Two 2021/22 - To Be Relegated,Stevenage,-0.07789999999999997,0.2857,0.3636
+2022-03-20 10:30:43.202775,League Two - England League Two 2021/22 - Top 7 Finish,Salford City,-0.08329999999999999,0.25,0.3333
+2022-03-20 10:30:43.202775,League Two - England League Two 2021/22 - Top 7 Finish,Newport County,-0.08330000000000004,0.6667,0.75
 2022-03-20 01:30:36.508249,League Two - England League Two 2021/22 - Top 3 Finish,Newport County,-0.08549999999999996,0.2222,0.3077
 2022-03-20 01:30:36.508249,League Two - England League Two 2021/22 - Top 3 Finish,Swindon Town,-0.088,0.1429,0.2309
+2022-03-20 10:30:43.308561,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Wolverhampton Wanderers,-0.08979999999999999,0.0769,0.1667
 2022-03-19 23:31:39.706031,League One - England League One 2021/22 - Top 2 Finish,Rotherham Utd,-0.10620000000000007,0.8462,0.9524
 2022-03-20 00:30:12.142960,Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,-0.11260000000000003,0.3636,0.4762
+2022-03-20 10:30:43.202775,League Two - England League Two 2021/22 - Top 7 Finish,Mansfield Town,-0.11360000000000003,0.6364,0.75
 2022-03-19 23:31:39.473435,England Championship - England Championship 21/22 - Top 6 Finish,Blackburn Rovers,-0.1154,0.3846,0.5
 2022-03-20 01:30:36.499523,League Two - England League Two 2021/22 - To Be Promoted,Newport County,-0.12120000000000003,0.3333,0.4545
 2022-03-19 23:31:39.473435,England Championship - England Championship 21/22 - Top 6 Finish,Millwall,-0.13190000000000002,0.1538,0.2857
 2022-03-19 23:31:39.665921,League One - England League One 2021/22 - Outright,Rotherham Utd,-0.23800000000000004,0.3846,0.6226
+2022-03-20 10:30:43.202775,League Two - England League Two 2021/22 - Top 7 Finish,Sutton Utd,-0.25620000000000004,0.3636,0.6198
