@@ -5,8 +5,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-22 16:31:22.742290,League Two - England League Two 2021/22 - Top Goalscorer,Mathew Stevens (Forest Green),0.07789999999999997,0.3636,0.2857
 2022-03-22 16:31:20.389862,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Charlotte Hornets,0.06820000000000001,0.25,0.1818
 2022-03-22 16:31:20.446660,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - To Play in the Play-In Tournament,Cleveland Cavaliers,0.06670000000000004,0.4,0.3333
-2022-03-22 16:31:21.741934,TV Specials - Will any of there characters appear in Season 2 of Amazon's Wheel of Time? - Proposition,Aram,0.06669999999999998,0.6667,0.6
 2022-03-22 16:31:20.446660,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - To Play in the Play-In Tournament,Toronto Raptors,0.06669999999999998,0.6667,0.6
+2022-03-22 16:31:21.741934,TV Specials - Will any of there characters appear in Season 2 of Amazon's Wheel of Time? - Proposition,Aram,0.06669999999999998,0.6667,0.6
 2022-03-22 20:31:00.886279,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Idris Elba,0.058300000000000005,0.125,0.0667
 2022-03-22 16:31:19.328997,Boxing Lines - Sonny Bill Williams vs Barry Hall - To Win the Bout,Sonny Bill Williams,0.056599999999999984,0.6364,0.5798
 2022-03-22 16:31:20.490632,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - To Play in the Play-In Tournament,Los Angeles Lakers,0.055499999999999994,0.8333,0.7778
@@ -15,8 +15,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-22 16:31:22.730455,League Two - England League Two 2021/22 - Outright,Forest Green Rovers,0.052000000000000046,0.9091,0.8571
 2022-03-22 20:31:00.886279,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Cillian Murphy,0.044599999999999994,0.0769,0.0323
 2022-03-22 16:31:20.389862,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Minnesota Timberwolves,0.043300000000000005,0.9524,0.9091
-2022-03-22 16:31:20.490632,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - To Play in the Play-In Tournament,Minnesota Timberwolves,0.04290000000000005,0.6429,0.6
 2022-03-22 16:31:19.344781,Boxing Lines - Lukasz Stanioch vs Hadillah Mohoumadi - To Win the Bout,Lukasz Stanioch,0.04290000000000005,0.9,0.8571
+2022-03-22 16:31:20.490632,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - To Play in the Play-In Tournament,Minnesota Timberwolves,0.04290000000000005,0.6429,0.6
 2022-03-22 16:31:21.252777,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Olivia Rodrigo - Sour,0.035699999999999954,0.75,0.7143
 2022-03-22 16:31:20.389862,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,L.A. Clippers,0.035699999999999954,0.75,0.7143
 2022-03-22 16:31:20.313332,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Possible Matchups,Bulls - Grizzlies,0.0323,0.0385,0.0062
@@ -25,12 +25,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-22 20:31:00.886279,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Jamie Bell,0.026499999999999996,0.0588,0.0323
 2022-03-22 20:31:00.886279,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Rege-Jean Page,0.02250000000000002,0.2857,0.2632
 2022-03-22 16:31:20.389862,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Toronto Raptors,0.022199999999999998,0.8,0.7778
-2022-03-22 18:31:12.300453,MLB Futures - MLB 2022 Amercian League - Outright,Boston Red Sox,0.02020000000000001,0.1111,0.0909
 2022-03-22 16:31:20.313332,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Possible Matchups,Bucks - Suns,0.02020000000000001,0.1111,0.0909
+2022-03-22 18:31:12.300453,MLB Futures - MLB 2022 Amercian League - Outright,Boston Red Sox,0.02020000000000001,0.1111,0.0909
 2022-03-22 16:31:20.313332,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Possible Matchups,Heat - Suns,0.01949999999999999,0.0909,0.0714
 2022-03-22 16:31:20.313332,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Possible Matchups,Celtics - Suns,0.019000000000000003,0.0625,0.0435
 2022-03-22 18:31:12.288685,MLB Futures - MLB 2022 World Series - Outright,Boston Red Sox,0.019000000000000003,0.0625,0.0435
 2022-03-22 16:31:20.313332,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Possible Matchups,Nets - Suns,0.01759999999999999,0.1176,0.1
+2022-03-22 23:30:42.627036,Boxing Lines - Sonny Bill Williams vs Barry Hall - To Win the Bout,Sonny Bill Williams,0.01759999999999995,0.6667,0.6491
 2022-03-22 16:31:20.313332,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Possible Matchups,76ers - Suns,0.016700000000000007,0.1,0.0833
 2022-03-22 18:31:12.288685,MLB Futures - MLB 2022 World Series - Outright,St. Louis Cardinals,0.015300000000000001,0.0476,0.0323
 2022-03-22 16:31:20.364596,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Winning Division,Southwest Division,0.014399999999999996,0.0769,0.0625
@@ -41,6 +42,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-22 16:31:20.422522,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,0.010899999999999993,0.1538,0.1429
 2022-03-22 20:31:02.501814,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,0.010200000000000015,0.1481,0.1379
 2022-03-22 16:31:22.774001,League Two - England League Two 2021/22 - To Be Relegated,Colchester United,0.0102,0.0769,0.0667
+2022-03-22 23:30:42.671087,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.010200000000000015,0.1379,0.1481
 2022-03-22 19:30:50.481609,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.010200000000000015,0.1379,0.1481
 2022-03-22 16:31:20.764899,WNCAA - Odds to win NCAA Women's Basketball Championship 2022 - Outright,South Carolina,-0.010599999999999998,0.4545,0.4651
 2022-03-22 16:31:22.774001,League Two - England League Two 2021/22 - To Be Relegated,Barrow FC,-0.011099999999999999,0.1,0.1111
@@ -50,8 +52,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-22 16:31:19.787575,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Aaron Rodgers,-0.01440000000000001,0.0909,0.1053
 2022-03-22 16:31:19.890391,MLB Futures - MLB 2022 World Series - Outright,Los Angeles Dodgers,-0.015100000000000002,0.1667,0.1818
 2022-03-22 16:31:20.313332,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Possible Matchups,Bucks - Warriors,-0.016600000000000004,0.0667,0.0833
-2022-03-22 16:31:21.252777,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Tony Bennett & Lady Gaga - Love for Sale,-0.0179,0.125,0.1429
+2022-03-22 23:30:42.627036,Boxing Lines - Sonny Bill Williams vs Barry Hall - To Win the Bout,Barry Hall,-0.016699999999999993,0.4,0.4167
 2022-03-22 16:31:20.764899,WNCAA - Odds to win NCAA Women's Basketball Championship 2022 - Outright,North Carolina State,-0.0179,0.125,0.1429
+2022-03-22 16:31:21.252777,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Tony Bennett & Lady Gaga - Love for Sale,-0.0179,0.125,0.1429
 2022-03-22 16:31:20.389862,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,New Orleans Pelicans,-0.0179,0.125,0.1429
 2022-03-22 16:31:21.252777,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Billie Eilish - Happier Than Ever,-0.0179,0.125,0.1429
 2022-03-22 16:31:20.433616,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Division of Winning Team,SouthEast Division,-0.01820000000000002,0.1818,0.2
@@ -63,8 +66,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-22 16:31:20.490632,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - To Play in the Play-In Tournament,San Antonio Spurs,-0.023799999999999988,0.3333,0.3571
 2022-03-22 16:31:20.313332,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Possible Matchups,Nets - Warriors,-0.0242,0.0667,0.0909
 2022-03-22 16:31:20.389862,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Los Angeles Lakers,-0.02779999999999999,0.2222,0.25
-2022-03-22 20:31:00.886279,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Richard Madden,-0.0321,0.0588,0.0909
 2022-03-22 16:31:21.161383,France Politics - Next French President - Outright,Marine Le Pen,-0.0321,0.0588,0.0909
+2022-03-22 20:31:00.886279,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Richard Madden,-0.0321,0.0588,0.0909
 2022-03-22 16:31:22.730455,League Two - England League Two 2021/22 - Outright,Exeter City,-0.034100000000000005,0.0909,0.125
 2022-03-22 16:31:20.503817,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,-0.03479999999999994,0.5652,0.6
 2022-03-22 16:31:20.490632,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - To Play in the Play-In Tournament,Dallas Mavericks,-0.0391,0.0323,0.0714
