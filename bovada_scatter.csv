@@ -17,15 +17,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-23 21:31:07.719312,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,0.03059999999999996,0.9681,0.9375
 2022-03-23 12:30:55.465836,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Wolverhampton Wanderers,0.029299999999999993,0.0769,0.0476
 2022-03-23 17:30:53.351061,CFL - Odds to win 109th (2022) Grey Cup - Outright,Edmonton Elks,0.0267,0.1176,0.0909
-2022-03-23 17:30:54.492807,94th Academy Awards - Best Supporting Actress - Best Supporting Actress,Kirsten Dunst (The Power of the Dog),0.025300000000000003,0.1429,0.1176
 2022-03-23 17:30:54.518587,94th Academy Awards - Odds to win Best Actress - Best Actress,Kristen Stewart (Spencer),0.025300000000000003,0.1429,0.1176
+2022-03-23 17:30:54.492807,94th Academy Awards - Best Supporting Actress - Best Supporting Actress,Kirsten Dunst (The Power of the Dog),0.025300000000000003,0.1429,0.1176
 2022-03-23 21:31:07.635311,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.025099999999999983,0.2632,0.2381
 2022-03-23 17:30:54.440929,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,Licorice Pizza (Paul Thomas Anderson),0.023799999999999988,0.5,0.4762
 2022-03-23 20:31:05.519384,College Basketball - 2022 Men's NIT Winner - 2022 Men's NIT Winner,BYU,0.02239999999999999,0.1176,0.0952
 2022-03-23 17:30:54.401501,94th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,The Power of the Dog (Jane Campion),0.02100000000000002,0.3846,0.3636
 2022-03-23 11:31:15.156936,Boxing Lines - Louis Greene vs Harry Scarff - To Win the Bout,Harry Scarff,0.02080000000000004,0.6875,0.6667
-2022-03-23 20:31:06.634233,MLB Futures - MLB 2022 Regular Season Props - Cincinnati Reds Regular Season Win Total,Under 75.5,0.02079999999999993,0.5556,0.5348
 2022-03-23 20:31:06.703380,MLB Futures - MLB 2022 Regular Season Props - Colorado Rockies Regular Season Win Total,Over 69.5,0.02079999999999993,0.5556,0.5348
+2022-03-23 20:31:06.634233,MLB Futures - MLB 2022 Regular Season Props - Cincinnati Reds Regular Season Win Total,Under 75.5,0.02079999999999993,0.5556,0.5348
 2022-03-23 18:31:02.780236,Boxing Lines - Troy Williamson vs Mason Cartwright - To Win the Bout,Troy Williamson,0.01969999999999994,0.9852,0.9655
 2022-03-23 11:31:19.346448,England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Declan Rice,0.019499999999999997,0.0294,0.0099
 2022-03-23 11:31:15.123943,Boxing Lines - Hassan Azim vs Des Newton - To Win the Bout,Hassan Azim,0.018900000000000028,0.9804,0.9615
@@ -39,15 +39,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-23 20:31:05.519384,College Basketball - 2022 Men's NIT Winner - 2022 Men's NIT Winner,Washington State,0.01440000000000001,0.1053,0.0909
 2022-03-23 12:30:52.908096,MLB Futures - MLB 2022 League Leaders - Most Home Runs in 2022,Vladimir Guerrero Jr.,0.012899999999999995,0.1667,0.1538
 2022-03-23 17:30:53.351061,CFL - Odds to win 109th (2022) Grey Cup - Outright,Toronto Argonauts,0.012899999999999995,0.1667,0.1538
+2022-03-23 22:31:07.272900,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,0.012199999999999989,0.5122,0.5
 2022-03-23 18:31:02.819512,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,0.012199999999999989,0.5,0.4878
 2022-03-23 21:31:07.656640,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,0.011099999999999999,0.2778,0.2667
 2022-03-23 11:31:18.011336,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Remy Martin (Kansas),0.010600000000000002,0.0323,0.0217
-2022-03-23 20:31:08.352541,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,0.010200000000000015,0.1481,0.1379
 2022-03-23 16:30:46.904595,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,0.010200000000000015,0.1481,0.1379
+2022-03-23 20:31:08.352541,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,0.010200000000000015,0.1481,0.1379
 2022-03-23 17:30:52.779761,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,UCLA,-0.0102,0.0667,0.0769
-2022-03-23 21:31:09.300382,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.010200000000000015,0.1379,0.1481
-2022-03-23 18:31:03.194533,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.010200000000000015,0.1379,0.1481
 2022-03-23 15:30:54.766586,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.010200000000000015,0.1379,0.1481
+2022-03-23 18:31:03.194533,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.010200000000000015,0.1379,0.1481
+2022-03-23 21:31:09.300382,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.010200000000000015,0.1379,0.1481
 2022-03-23 21:31:07.656640,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,-0.010899999999999993,0.1429,0.1538
 2022-03-23 15:30:54.586909,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,-0.012199999999999989,0.4878,0.5
 2022-03-23 21:31:07.656640,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.013899999999999996,0.2083,0.2222
