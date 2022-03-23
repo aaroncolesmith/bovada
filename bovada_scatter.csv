@@ -17,8 +17,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-23 09:30:50.053313,League Two - England League Two 2021/22 - To Be Promoted,Sutton Utd,0.04169999999999999,0.1667,0.125
 2022-03-23 06:31:07.501288,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,0.03479999999999994,0.6,0.5652
 2022-03-23 09:30:50.068064,League Two - England League Two 2021/22 - Top 3 Finish,Sutton Utd,0.0321,0.0909,0.0588
-2022-03-23 12:30:55.465836,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Wolverhampton Wanderers,0.029299999999999993,0.0769,0.0476
 2022-03-23 07:31:21.491915,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,"The Worst Person in the World (Eskil Vogt, Joachim Trier)",0.029299999999999993,0.0769,0.0476
+2022-03-23 12:30:55.465836,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Wolverhampton Wanderers,0.029299999999999993,0.0769,0.0476
 2022-03-23 06:31:07.527445,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.0286,0.1,0.0714
 2022-03-23 07:31:21.460122,94th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Drive My Car (Ryusuke Hamaguchi & Takamasa Oe),0.028399999999999995,0.0909,0.0625
 2022-03-23 07:31:21.554520,94th Academy Awards - Odds to win Best Actress - Best Actress,Jessica Chastain (The Eyes of Tammy Faye),0.026800000000000046,0.7143,0.6875
@@ -35,18 +35,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-23 11:31:19.346448,England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Harry Kane,0.0145,0.0244,0.0099
 2022-03-23 06:31:07.514658,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,0.014399999999999968,0.9375,0.9231
 2022-03-23 09:30:50.036444,League Two - England League Two 2021/22 - Outright,Mansfield Town,0.014099999999999998,0.0385,0.0244
-2022-03-23 07:31:21.544029,94th Academy Awards - Odds to win Best Actor - Best Actor,Benedict Cumberbatch (The Power of the Dog),0.012899999999999995,0.1667,0.1538
 2022-03-23 12:30:52.908096,MLB Futures - MLB 2022 League Leaders - Most Home Runs in 2022,Vladimir Guerrero Jr.,0.012899999999999995,0.1667,0.1538
+2022-03-23 07:31:21.544029,94th Academy Awards - Odds to win Best Actor - Best Actor,Benedict Cumberbatch (The Power of the Dog),0.012899999999999995,0.1667,0.1538
 2022-03-23 06:31:07.474560,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.011700000000000016,0.2222,0.2105
 2022-03-23 06:31:07.488340,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Memphis Grizzlies,0.011099999999999999,0.1111,0.1
 2022-03-23 11:31:18.011336,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Remy Martin (Kansas),0.010600000000000002,0.0323,0.0217
 2022-03-23 06:31:07.488340,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.010299999999999976,0.2667,0.2564
+2022-03-23 16:30:46.904595,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,0.010200000000000015,0.1481,0.1379
 2022-03-23 09:30:48.218302,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,0.010200000000000015,0.1481,0.1379
 2022-03-23 09:30:49.995233,League One - England League One 2021/22 - To Be Promoted,Wigan Athletic,-0.010199999999999987,0.9231,0.9333
 2022-03-23 09:30:49.988416,League One - England League One 2021/22 - Top Goalscorer,Alfie May (Cheltenham),-0.0102,0.0667,0.0769
 2022-03-23 09:30:50.022265,League One - England League One 2021/22 - Top 6 Finish,Ipswich Town,-0.0102,0.0667,0.0769
-2022-03-23 15:30:54.766586,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.010200000000000015,0.1379,0.1481
 2022-03-23 08:31:13.731461,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.010200000000000015,0.1379,0.1481
+2022-03-23 15:30:54.766586,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.010200000000000015,0.1379,0.1481
 2022-03-23 07:31:21.533879,94th Academy Awards - Best Supporting Actress - Best Supporting Actress,Aunjanue Ellis (King Richard),-0.011199999999999995,0.0476,0.0588
 2022-03-23 09:30:50.008724,League One - England League One 2021/22 - To Finish Bottom,Morecambe,-0.011199999999999995,0.0476,0.0588
 2022-03-23 15:30:54.586909,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,-0.012199999999999989,0.4878,0.5
@@ -91,8 +92,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-23 07:31:21.491915,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,Belfast (Kenneth Branagh),-0.05559999999999998,0.4444,0.5
 2022-03-23 11:31:19.346448,England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Bernardo Silva,-0.058300000000000005,0.0667,0.125
 2022-03-23 09:30:50.068064,League Two - England League Two 2021/22 - Top 3 Finish,Port Vale,-0.06420000000000001,0.1667,0.2309
-2022-03-23 09:30:50.076892,League Two - England League Two 2021/22 - Top 7 Finish,Port Vale,-0.06669999999999998,0.6,0.6667
 2022-03-23 12:30:55.455647,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Aston Villa,-0.06669999999999998,0.6,0.6667
+2022-03-23 09:30:50.076892,League Two - England League Two 2021/22 - Top 7 Finish,Port Vale,-0.06669999999999998,0.6,0.6667
 2022-03-23 12:30:55.455647,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Brighton & Hove Albion,-0.06820000000000001,0.1818,0.25
 2022-03-23 11:31:19.346448,England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Kevin De Bruyne,-0.07579999999999999,0.0909,0.1667
 2022-03-23 07:31:21.575317,94th Academy Awards - Odds to win Best Picture - Best Picture,The Power of the Dog,-0.07619999999999993,0.5238,0.6
