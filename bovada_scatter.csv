@@ -11,57 +11,76 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-23 09:30:50.076892,League Two - England League Two 2021/22 - Top 7 Finish,Sutton Utd,0.08080000000000004,0.4444,0.3636
 2022-03-23 12:30:55.465836,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Aston Villa,0.07619999999999999,0.4762,0.4
 2022-03-23 12:30:55.465836,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Brighton & Hove Albion,0.07069999999999999,0.8889,0.8182
+2022-03-23 17:30:54.545509,94th Academy Awards - Odds to win Best Picture - Best Picture,The Power of the Dog,0.06789999999999996,0.5917,0.5238
 2022-03-23 09:30:49.988416,League One - England League One 2021/22 - Top Goalscorer,Ross Stewart (Sunderland),0.056599999999999984,0.6364,0.5798
+2022-03-23 17:30:54.561267,Box Office Specials - Character to Appear in Star Trek 4 - Proposition,Pavel Chekov,0.04909999999999999,0.1667,0.1176
 2022-03-23 09:30:49.995233,League One - England League One 2021/22 - To Be Promoted,Plymouth Argyle,0.04620000000000002,0.2,0.1538
+2022-03-23 17:30:54.561267,Box Office Specials - Character to Appear in Star Trek 4 - Proposition,George Kirk,0.044399999999999995,0.4444,0.4
 2022-03-23 06:31:04.974383,Boxing Lines - Sonny Bill Williams vs Barry Hall - To Win the Bout,Sonny Bill Williams,0.042200000000000015,0.7143,0.6721
 2022-03-23 09:30:50.053313,League Two - England League Two 2021/22 - To Be Promoted,Sutton Utd,0.04169999999999999,0.1667,0.125
 2022-03-23 06:31:07.501288,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,0.03479999999999994,0.6,0.5652
+2022-03-23 17:30:54.574032,Box Office Specials - Will there be a Beach Volleyball scene in Top Gun: Maverick - Outright,Yes,0.03420000000000001,0.1111,0.0769
 2022-03-23 09:30:50.068064,League Two - England League Two 2021/22 - Top 3 Finish,Sutton Utd,0.0321,0.0909,0.0588
-2022-03-23 07:31:21.491915,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,"The Worst Person in the World (Eskil Vogt, Joachim Trier)",0.029299999999999993,0.0769,0.0476
+2022-03-23 17:30:54.440929,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,Belfast (Kenneth Branagh),0.031799999999999995,0.4762,0.4444
+2022-03-23 17:30:54.518587,94th Academy Awards - Odds to win Best Actress - Best Actress,Nicole Kidman (Being the Ricardos),0.031700000000000006,0.2222,0.1905
 2022-03-23 12:30:55.465836,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Wolverhampton Wanderers,0.029299999999999993,0.0769,0.0476
+2022-03-23 07:31:21.491915,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,"The Worst Person in the World (Eskil Vogt, Joachim Trier)",0.029299999999999993,0.0769,0.0476
 2022-03-23 06:31:07.527445,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.0286,0.1,0.0714
 2022-03-23 07:31:21.460122,94th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Drive My Car (Ryusuke Hamaguchi & Takamasa Oe),0.028399999999999995,0.0909,0.0625
 2022-03-23 07:31:21.554520,94th Academy Awards - Odds to win Best Actress - Best Actress,Jessica Chastain (The Eyes of Tammy Faye),0.026800000000000046,0.7143,0.6875
+2022-03-23 17:30:53.351061,CFL - Odds to win 109th (2022) Grey Cup - Outright,Edmonton Elks,0.0267,0.1176,0.0909
+2022-03-23 17:30:54.518587,94th Academy Awards - Odds to win Best Actress - Best Actress,Kristen Stewart (Spencer),0.025300000000000003,0.1429,0.1176
+2022-03-23 17:30:54.492807,94th Academy Awards - Best Supporting Actress - Best Supporting Actress,Kirsten Dunst (The Power of the Dog),0.025300000000000003,0.1429,0.1176
 2022-03-23 07:31:21.575317,94th Academy Awards - Odds to win Best Picture - Best Picture,CODA,0.023800000000000043,0.5238,0.5
+2022-03-23 17:30:54.440929,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,Licorice Pizza (Paul Thomas Anderson),0.023799999999999988,0.5,0.4762
 2022-03-23 09:30:50.190725,UEFA Champions League Women - UEFA Champions League Women 21/22 - Outright,Barcelona W,0.021699999999999997,0.4762,0.4545
+2022-03-23 17:30:54.401501,94th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,The Power of the Dog (Jane Campion),0.02100000000000002,0.3846,0.3636
 2022-03-23 11:31:15.156936,Boxing Lines - Louis Greene vs Harry Scarff - To Win the Bout,Harry Scarff,0.02080000000000004,0.6875,0.6667
 2022-03-23 11:31:19.346448,England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Declan Rice,0.019499999999999997,0.0294,0.0099
 2022-03-23 11:31:15.123943,Boxing Lines - Hassan Azim vs Des Newton - To Win the Bout,Hassan Azim,0.018900000000000028,0.9804,0.9615
+2022-03-23 17:30:53.351061,CFL - Odds to win 109th (2022) Grey Cup - Outright,Ottawa Redblacks,0.018800000000000004,0.0714,0.0526
 2022-03-23 12:30:55.465836,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Newcastle United,0.018100000000000005,0.9412,0.9231
 2022-03-23 11:31:19.346448,England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Diogo Jota,0.017099999999999997,0.0294,0.0123
 2022-03-23 09:30:50.053313,League Two - England League Two 2021/22 - To Be Promoted,Exeter City,0.016700000000000048,0.75,0.7333
+2022-03-23 17:30:54.561267,Box Office Specials - Character to Appear in Star Trek 4 - Proposition,Ambassador Sarek,0.016699999999999993,0.4167,0.4
 2022-03-23 09:30:50.190725,UEFA Champions League Women - UEFA Champions League Women 21/22 - Outright,Bayern Munich W,0.015300000000000001,0.0588,0.0435
 2022-03-23 09:30:49.988416,League One - England League One 2021/22 - Top Goalscorer,Will Keane (Wigan),0.015100000000000002,0.1818,0.1667
+2022-03-23 17:30:54.545509,94th Academy Awards - Odds to win Best Picture - Best Picture,Belfast,0.014899999999999997,0.0625,0.0476
 2022-03-23 11:31:19.346448,England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Harry Kane,0.0145,0.0244,0.0099
 2022-03-23 06:31:07.514658,NBA Futures - 2022 NBA Central Division - Division Winner,Milwaukee Bucks,0.014399999999999968,0.9375,0.9231
 2022-03-23 09:30:50.036444,League Two - England League Two 2021/22 - Outright,Mansfield Town,0.014099999999999998,0.0385,0.0244
 2022-03-23 12:30:52.908096,MLB Futures - MLB 2022 League Leaders - Most Home Runs in 2022,Vladimir Guerrero Jr.,0.012899999999999995,0.1667,0.1538
+2022-03-23 17:30:53.351061,CFL - Odds to win 109th (2022) Grey Cup - Outright,Toronto Argonauts,0.012899999999999995,0.1667,0.1538
 2022-03-23 07:31:21.544029,94th Academy Awards - Odds to win Best Actor - Best Actor,Benedict Cumberbatch (The Power of the Dog),0.012899999999999995,0.1667,0.1538
 2022-03-23 06:31:07.474560,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.011700000000000016,0.2222,0.2105
 2022-03-23 06:31:07.488340,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Memphis Grizzlies,0.011099999999999999,0.1111,0.1
 2022-03-23 11:31:18.011336,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Remy Martin (Kansas),0.010600000000000002,0.0323,0.0217
 2022-03-23 06:31:07.488340,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.010299999999999976,0.2667,0.2564
-2022-03-23 16:30:46.904595,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,0.010200000000000015,0.1481,0.1379
 2022-03-23 09:30:48.218302,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,0.010200000000000015,0.1481,0.1379
+2022-03-23 16:30:46.904595,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,0.010200000000000015,0.1481,0.1379
 2022-03-23 09:30:49.995233,League One - England League One 2021/22 - To Be Promoted,Wigan Athletic,-0.010199999999999987,0.9231,0.9333
-2022-03-23 09:30:49.988416,League One - England League One 2021/22 - Top Goalscorer,Alfie May (Cheltenham),-0.0102,0.0667,0.0769
 2022-03-23 09:30:50.022265,League One - England League One 2021/22 - Top 6 Finish,Ipswich Town,-0.0102,0.0667,0.0769
+2022-03-23 09:30:49.988416,League One - England League One 2021/22 - Top Goalscorer,Alfie May (Cheltenham),-0.0102,0.0667,0.0769
 2022-03-23 08:31:13.731461,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.010200000000000015,0.1379,0.1481
 2022-03-23 15:30:54.766586,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.010200000000000015,0.1379,0.1481
-2022-03-23 07:31:21.533879,94th Academy Awards - Best Supporting Actress - Best Supporting Actress,Aunjanue Ellis (King Richard),-0.011199999999999995,0.0476,0.0588
 2022-03-23 09:30:50.008724,League One - England League One 2021/22 - To Finish Bottom,Morecambe,-0.011199999999999995,0.0476,0.0588
+2022-03-23 07:31:21.533879,94th Academy Awards - Best Supporting Actress - Best Supporting Actress,Aunjanue Ellis (King Richard),-0.011199999999999995,0.0476,0.0588
 2022-03-23 15:30:54.586909,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,-0.012199999999999989,0.4878,0.5
 2022-03-23 09:30:49.981737,League One - England League One 2021/22 - Outright,Wigan Athletic,-0.013799999999999923,0.6226,0.6364
 2022-03-23 09:30:49.995233,League One - England League One 2021/22 - To Be Promoted,Rotherham Utd,-0.013900000000000023,0.875,0.8889
 2022-03-23 07:31:21.470976,94th Academy Awards - Best Costume Design - Best Costume Design,West Side Story (Paul Tazewell),-0.013999999999999999,0.0769,0.0909
+2022-03-23 17:30:54.401501,94th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,The Lost Daughter (Maggie Gyllenhaal),-0.013999999999999999,0.0769,0.0909
 2022-03-23 09:30:49.988416,League One - England League One 2021/22 - Top Goalscorer,Scott Twine (Milton Keynes Dons),-0.014099999999999998,0.0244,0.0385
+2022-03-23 17:30:54.492807,94th Academy Awards - Best Supporting Actress - Best Supporting Actress,Ariana DeBose (West Side Story),-0.014900000000000024,0.9375,0.9524
 2022-03-23 09:30:50.068064,League Two - England League Two 2021/22 - Top 3 Finish,Bristol Rovers,-0.015100000000000002,0.1667,0.1818
 2022-03-23 09:30:50.053313,League Two - England League Two 2021/22 - To Be Promoted,Northampton Town,-0.015400000000000025,0.3846,0.4
 2022-03-23 07:31:21.554520,94th Academy Awards - Odds to win Best Actress - Best Actress,Kristen Stewart (Spencer),-0.015700000000000006,0.1176,0.1333
 2022-03-23 07:31:21.523675,94th Academy Awards - Best Supporting Actor - Best Supporting Actor,Kodi Smit-McPhee (The Power of the Dog),-0.01629999999999998,0.2778,0.2941
 2022-03-23 09:30:50.022265,League One - England League One 2021/22 - Top 6 Finish,Sunderland,-0.016699999999999937,0.5833,0.6
+2022-03-23 17:30:53.351061,CFL - Odds to win 109th (2022) Grey Cup - Outright,Winnipeg Blue Bombers,-0.016699999999999993,0.25,0.2667
 2022-03-23 09:30:50.076892,League Two - England League Two 2021/22 - Top 7 Finish,Salford City,-0.0174,0.2326,0.25
 2022-03-23 09:30:49.995233,League One - England League One 2021/22 - To Be Promoted,Sheffield Wednesday,-0.0174,0.2326,0.25
+2022-03-23 17:30:54.440929,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,"The Worst Person in the World (Eskil Vogt, Joachim Trier)",-0.018099999999999998,0.0588,0.0769
 2022-03-23 09:30:49.995233,League One - England League One 2021/22 - To Be Promoted,Sunderland,-0.01820000000000002,0.1818,0.2
 2022-03-23 09:30:50.053313,League Two - England League Two 2021/22 - To Be Promoted,Swindon Town,-0.019000000000000017,0.2667,0.2857
 2022-03-23 07:31:21.575317,94th Academy Awards - Odds to win Best Picture - Best Picture,Belfast,-0.019099999999999992,0.0476,0.0667
@@ -75,11 +94,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-23 12:30:55.455647,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Brentford,-0.0236,0.0149,0.0385
 2022-03-23 06:31:07.501288,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,-0.023799999999999988,0.4762,0.5
 2022-03-23 07:31:21.491915,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,Licorice Pizza (Paul Thomas Anderson),-0.023799999999999988,0.4762,0.5
+2022-03-23 17:30:54.401501,94th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Drive My Car (Ryusuke Hamaguchi & Takamasa Oe),-0.0242,0.0667,0.0909
 2022-03-23 09:30:50.036444,League Two - England League Two 2021/22 - Outright,Exeter City,-0.0242,0.0667,0.0909
+2022-03-23 17:30:54.574032,Box Office Specials - Will there be a Beach Volleyball scene in Top Gun: Maverick - Outright,No,-0.02529999999999999,0.9615,0.9868
 2022-03-23 09:30:50.022265,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,-0.025600000000000067,0.6667,0.6923
 2022-03-23 09:30:50.076892,League Two - England League Two 2021/22 - Top 7 Finish,Northampton Town,-0.027800000000000047,0.75,0.7778
 2022-03-23 09:30:50.060753,League Two - England League Two 2021/22 - To Be Relegated,Colchester United,-0.029299999999999993,0.0476,0.0769
-2022-03-23 05:30:52.215767,Boxing Lines - Sonny Bill Williams vs Barry Hall - To Win the Bout,Barry Hall,-0.029600000000000015,0.3704,0.4
 2022-03-23 09:30:50.076892,League Two - England League Two 2021/22 - Top 7 Finish,Bristol Rovers,-0.030200000000000005,0.6226,0.6528
 2022-03-23 09:30:50.022265,League One - England League One 2021/22 - Top 6 Finish,Wycombe,-0.030299999999999994,0.3333,0.3636
 2022-03-23 09:30:50.076892,League Two - England League Two 2021/22 - Top 7 Finish,Newport County,-0.030299999999999994,0.6364,0.6667
