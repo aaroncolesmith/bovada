@@ -11,7 +11,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-24 14:31:03.680141,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,0.017900000000000027,0.5348,0.5169
 2022-03-24 06:30:53.388892,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.0179,0.1429,0.125
 2022-03-24 13:30:57.389921,Boxing Lines - Gustavo Daniel Lemos vs Lee Selby - To Win the Bout,Gustavo Daniel Lemos,0.017300000000000093,0.7143,0.697
-2022-03-24 03:30:50.131478,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Marcus Smart,0.0145,0.0244,0.0099
 2022-03-24 12:31:03.982737,Boxing Lines - Elvis Rodriguez vs Juan Jose Velasco - To Win the Bout,Elvis Rodriguez,0.014100000000000001,0.9474,0.9333
 2022-03-24 08:30:52.048843,Boxing Lines - Thomas Patrick Ward vs Alexis Boureima Kabore - To Win the Bout,Alexis Boureima Kabore,0.013999999999999999,0.0909,0.0769
 2022-03-24 12:31:06.796752,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Liverpool,0.013800000000000034,0.3774,0.3636
@@ -20,23 +19,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-24 13:30:57.241491,Boxing Lines - Caroline Dubois vs Martina Horgasz - To Win the Bout,Martina Horgasz,0.012499999999999997,0.0625,0.05
 2022-03-24 13:30:57.191644,Boxing Lines - Jimmy Lee vs Jose Hernandez - To Win the Bout,Jose Hernandez,0.011899999999999994,0.0833,0.0714
 2022-03-24 09:30:47.617535,Boxing Lines - Dalton Smith vs Ray Moylette - To Win the Bout,Ray Moylette,0.011700000000000002,0.1026,0.0909
+2022-03-24 15:31:08.186888,Boxing Lines - Movladdin Biyarslanov vs Roberto Verdugo - To Win the Bout,Roberto Verdugo,0.011700000000000002,0.1026,0.0909
 2022-03-24 06:30:52.472598,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,0.011600000000000055,0.5238,0.5122
-2022-03-24 03:30:51.154750,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,0.011600000000000055,0.5238,0.5122
 2022-03-24 14:31:04.751638,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Ime Udoka (BOS),0.011199999999999995,0.0588,0.0476
-2022-03-24 03:30:51.167232,Boxing Lines - Movladdin Biyarslanov vs Roberto Verdugo - To Win the Bout,Movladdin Biyarslanov,0.011199999999999988,0.9524,0.9412
-2022-03-24 10:30:44.956209,Euro Cup - Euro Cup 2021/22 - Winner,KK Cedevita Olimpija,0.010700000000000001,0.0385,0.0278
 2022-03-24 06:30:53.445741,NBA Futures - 2022 NBA Central Division - Division Winner,Cleveland Cavaliers,0.010700000000000001,0.0385,0.0278
-2022-03-24 05:30:56.667185,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Mikael Zewski,0.010099999999999998,0.5556,0.5455
+2022-03-24 10:30:44.956209,Euro Cup - Euro Cup 2021/22 - Winner,KK Cedevita Olimpija,0.010700000000000001,0.0385,0.0278
 2022-03-24 07:30:59.940703,Boxing Lines - Lewis Ritson vs Dejan Zlaticanin - To Win the Bout,Dejan Zlaticanin,0.010099999999999998,0.2299,0.2198
 2022-03-24 08:30:52.112294,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Mikael Zewski,0.010099999999999998,0.5556,0.5455
-2022-03-24 03:30:51.154750,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Mikael Zewski,-0.010099999999999998,0.5455,0.5556
-2022-03-24 12:31:03.982737,Boxing Lines - Elvis Rodriguez vs Juan Jose Velasco - To Win the Bout,Juan Jose Velasco,-0.010099999999999998,0.1111,0.1212
+2022-03-24 05:30:56.667185,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Mikael Zewski,0.010099999999999998,0.5556,0.5455
 2022-03-24 06:30:52.472598,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Mikael Zewski,-0.010099999999999998,0.5455,0.5556
+2022-03-24 12:31:03.982737,Boxing Lines - Elvis Rodriguez vs Juan Jose Velasco - To Win the Bout,Juan Jose Velasco,-0.010099999999999998,0.1111,0.1212
 2022-03-24 06:30:53.432212,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,-0.0102,0.0667,0.0769
+2022-03-24 15:31:08.762700,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.010200000000000015,0.1379,0.1481
 2022-03-24 14:31:04.751638,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Taylor Jenkins (MEM),-0.011099999999999999,0.1,0.1111
 2022-03-24 14:31:04.751638,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,JB Bickerstaff (CLE),-0.011099999999999999,0.1,0.1111
-2022-03-24 10:30:42.936111,Boxing Lines - Mark Dickinson vs peter kramer - To Win the Bout,Peter Kramer,-0.011099999999999999,0.1,0.1111
 2022-03-24 05:30:56.935802,Boxing Lines - Dan Azeez vs Matthew Tinker - To Win the Bout,Matthew Tinker,-0.011099999999999999,0.1,0.1111
+2022-03-24 10:30:42.936111,Boxing Lines - Mark Dickinson vs peter kramer - To Win the Bout,Peter Kramer,-0.011099999999999999,0.1,0.1111
 2022-03-24 10:30:44.956209,Euro Cup - Euro Cup 2021/22 - Winner,BC Andorra,-0.011199999999999995,0.0476,0.0588
 2022-03-24 05:30:56.667185,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,-0.011600000000000055,0.5122,0.5238
 2022-03-24 08:30:52.123855,Boxing Lines - Movladdin Biyarslanov vs Roberto Verdugo - To Win the Bout,Roberto Verdugo,-0.011700000000000002,0.0909,0.1026
@@ -45,8 +43,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-24 09:30:51.429949,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Outright,Republican,-0.012899999999999912,0.8333,0.8462
 2022-03-24 06:30:53.388892,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,-0.012899999999999995,0.1538,0.1667
 2022-03-24 14:31:04.766941,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Draymond Green,-0.0131,0.0345,0.0476
-2022-03-24 10:30:44.937613,Euroleague - Euroleague 2021/22 - Winner,Olympiakos,-0.013899999999999996,0.1111,0.125
 2022-03-24 13:30:58.381846,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,-0.013899999999999996,0.1111,0.125
+2022-03-24 10:30:44.937613,Euroleague - Euroleague 2021/22 - Winner,Olympiakos,-0.013899999999999996,0.1111,0.125
 2022-03-24 09:30:47.530638,Boxing Lines - Hassan Azim vs Yoncho Markov - To Win the Bout,Yoncho Markov,-0.013999999999999999,0.0769,0.0909
 2022-03-24 08:30:52.112294,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,-0.014000000000000012,0.5098,0.5238
 2022-03-24 14:31:04.751638,NBA Season Props - 2021/22 NBA Awards - 2022 The Coach of the Year,Steve Kerr (GSW),-0.014099999999999998,0.0244,0.0385
