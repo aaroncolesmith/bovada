@@ -46,6 +46,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,North Carolina vs. Houston,0.0253,0.0385,0.0132
 2022-03-25 13:31:11.515815,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Kenny Pickett,0.024599999999999955,0.3636,0.339
 2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Arkansas to beat Villanova,0.024499999999999997,0.0278,0.0033
+2022-03-25 22:30:56.872695,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Mikael Zewski,0.024399999999999977,0.5122,0.4878
 2022-03-25 19:30:48.885413,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Mikael Zewski,0.023799999999999988,0.5,0.4762
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,UCLA vs. Villanova,0.023200000000000002,0.0476,0.0244
 2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Purdue to beat Houston,0.021799999999999996,0.0435,0.0217
@@ -65,12 +66,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Duke to beat Miami Florida,0.013,0.0196,0.0066
 2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Villanova to beat UCLA,0.012599999999999998,0.0278,0.0152
 2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Duke to beat Providence,0.012199999999999999,0.0179,0.0057
-2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Houston to beat North Carolina,0.0118,0.0217,0.0099
 2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,UCLA to beat Houston,0.0118,0.0217,0.0099
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Houston to beat North Carolina,0.0118,0.0217,0.0099
 2022-03-25 14:31:02.597100,Boxing Lines - Dan Azeez vs Matthew Tinker - To Win the Bout,Matthew Tinker,0.010700000000000001,0.125,0.1143
 2022-03-25 11:31:00.549495,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Duke,0.010499999999999982,0.2105,0.2
-2022-03-25 17:30:57.934508,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,0.010200000000000015,0.1481,0.1379
 2022-03-25 15:33:00.866483,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,0.010200000000000015,0.1481,0.1379
+2022-03-25 17:30:57.934508,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,0.010200000000000015,0.1481,0.1379
 2022-03-25 16:31:18.983427,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.010200000000000015,0.1379,0.1481
 2022-03-25 21:32:50.405114,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Bam Adebayo,-0.011099999999999999,0.4651,0.4762
 2022-03-25 13:31:10.084221,Boxing Lines - Felix Sturm vs Istvan Szili - To Win the Bout,Istvan Szili,-0.01150000000000001,0.1905,0.202
@@ -82,8 +83,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-25 15:33:03.440541,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Ja Morant,-0.014099999999999998,0.0294,0.0435
 2022-03-25 14:31:05.446255,Euroleague - Euroleague 2021/22 - Winner,Anadolu Efes,-0.01820000000000002,0.1818,0.2
 2022-03-25 21:32:50.405114,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Mikal Bridges,-0.01820000000000002,0.1818,0.2
-2022-03-25 10:31:26.390903,94th Academy Awards - Odds to win Best Actress - Best Actress,Nicole Kidman (Being the Ricardos),-0.022199999999999998,0.2,0.2222
+2022-03-25 22:30:56.872695,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,-0.01880000000000004,0.5556,0.5744
 2022-03-25 13:31:11.712610,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,North Carolina,-0.022199999999999998,0.2,0.2222
+2022-03-25 10:31:26.390903,94th Academy Awards - Odds to win Best Actress - Best Actress,Nicole Kidman (Being the Ricardos),-0.022199999999999998,0.2,0.2222
 2022-03-25 16:31:18.113130,NBA Specials - 2022 First Team All-NBA - Odds to be selected,Kevin Durant,-0.022199999999999998,0.2,0.2222
 2022-03-25 18:31:01.150423,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Mikael Zewski,-0.023799999999999988,0.4762,0.5
 2022-03-25 19:30:48.885413,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,-0.026499999999999968,0.5652,0.5917
