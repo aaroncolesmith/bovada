@@ -6,7 +6,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,Duke vs. Kansas,0.10439999999999999,0.1429,0.0385
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,Duke vs. Villanova,0.1033,0.125,0.0217
 2022-03-25 15:33:02.815911,94th Academy Awards - Best Supporting Actor - Best Supporting Actor,Troy Kotsur (CODA),0.09089999999999998,0.9091,0.8182
-2022-03-25 10:31:26.390903,94th Academy Awards - Odds to win Best Actress - Best Actress,Penelope Cruz (Parallel Mothers),0.0889,0.2,0.1111
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,Arkansas vs. Houston,0.0754,0.0833,0.0079
 2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Houston to beat Duke,0.06699999999999999,0.0769,0.0099
 2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Duke to beat Houston,0.0665,0.0769,0.0104
@@ -21,8 +20,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Duke to beat Villanova,0.0526,0.0625,0.0099
 2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Villanova to beat Duke,0.0484,0.0588,0.0104
 2022-03-25 15:33:03.829384,NBA Specials - 2022 First Team All-NBA - Odds to be selected,Nikola Jokic,0.047599999999999976,0.3333,0.2857
-2022-03-25 17:30:58.082889,Game of Thrones Specials - Game of Thrones - House of Dragons - Last Dragon Standing - Which Dragons will be Alive at the end of Season 1? - Proposition,Sunfyre,0.044399999999999995,0.4444,0.4
 2022-03-25 17:30:58.082889,Game of Thrones Specials - Game of Thrones - House of Dragons - Last Dragon Standing - Which Dragons will be Alive at the end of Season 1? - Proposition,Vhagar,0.044399999999999995,0.4444,0.4
+2022-03-25 17:30:58.082889,Game of Thrones Specials - Game of Thrones - House of Dragons - Last Dragon Standing - Which Dragons will be Alive at the end of Season 1? - Proposition,Sunfyre,0.044399999999999995,0.4444,0.4
 2022-03-25 13:31:11.744027,College Basketball - 2022 Men's NIT Winner - 2022 Men's NIT Winner,Washington State,0.04409999999999997,0.2941,0.25
 2022-03-25 14:31:03.967478,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Kansas,0.043800000000000006,0.2105,0.1667
 2022-03-25 19:30:48.747083,NBA Specials - 2022 First Team All-NBA - Odds to be selected,Giannis Antetokounmpo,0.043300000000000005,0.9524,0.9091
@@ -66,8 +65,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Duke to beat Miami Florida,0.013,0.0196,0.0066
 2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Villanova to beat UCLA,0.012599999999999998,0.0278,0.0152
 2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Duke to beat Providence,0.012199999999999999,0.0179,0.0057
-2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,UCLA to beat Houston,0.0118,0.0217,0.0099
 2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Houston to beat North Carolina,0.0118,0.0217,0.0099
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,UCLA to beat Houston,0.0118,0.0217,0.0099
 2022-03-25 14:31:02.597100,Boxing Lines - Dan Azeez vs Matthew Tinker - To Win the Bout,Matthew Tinker,0.010700000000000001,0.125,0.1143
 2022-03-25 11:31:00.549495,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Duke,0.010499999999999982,0.2105,0.2
 2022-03-25 15:33:00.866483,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,0.010200000000000015,0.1481,0.1379
@@ -76,17 +75,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-25 21:32:50.405114,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Bam Adebayo,-0.011099999999999999,0.4651,0.4762
 2022-03-25 13:31:10.084221,Boxing Lines - Felix Sturm vs Istvan Szili - To Win the Bout,Istvan Szili,-0.01150000000000001,0.1905,0.202
 2022-03-25 14:31:05.446255,Euroleague - Euroleague 2021/22 - Winner,Real Madrid BC,-0.011700000000000016,0.2105,0.2222
-2022-03-25 17:30:57.516351,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Mikael Zewski,-0.012199999999999989,0.5,0.5122
 2022-03-25 21:32:47.345760,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Mikael Zewski,-0.012199999999999989,0.4878,0.5
+2022-03-25 17:30:57.516351,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Mikael Zewski,-0.012199999999999989,0.5,0.5122
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,Saint Peter's vs. Kansas,-0.0127,0.0025,0.0152
 2022-03-25 17:30:58.131249,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Tony Bennett & Lady Gaga - Love for Sale,-0.013999999999999999,0.0769,0.0909
 2022-03-25 15:33:03.440541,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Ja Morant,-0.014099999999999998,0.0294,0.0435
 2022-03-25 14:31:05.446255,Euroleague - Euroleague 2021/22 - Winner,Anadolu Efes,-0.01820000000000002,0.1818,0.2
 2022-03-25 21:32:50.405114,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Mikal Bridges,-0.01820000000000002,0.1818,0.2
 2022-03-25 22:30:56.872695,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,-0.01880000000000004,0.5556,0.5744
-2022-03-25 13:31:11.712610,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,North Carolina,-0.022199999999999998,0.2,0.2222
-2022-03-25 10:31:26.390903,94th Academy Awards - Odds to win Best Actress - Best Actress,Nicole Kidman (Being the Ricardos),-0.022199999999999998,0.2,0.2222
 2022-03-25 16:31:18.113130,NBA Specials - 2022 First Team All-NBA - Odds to be selected,Kevin Durant,-0.022199999999999998,0.2,0.2222
+2022-03-25 13:31:11.712610,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,North Carolina,-0.022199999999999998,0.2,0.2222
 2022-03-25 18:31:01.150423,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Mikael Zewski,-0.023799999999999988,0.4762,0.5
 2022-03-25 19:30:48.885413,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Carlos Ocampo,-0.026499999999999968,0.5652,0.5917
 2022-03-25 18:31:02.166002,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,King Richard (Zach Baylin),-0.027999999999999997,0.0345,0.0625
@@ -97,6 +95,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-25 15:33:03.829384,NBA Specials - 2022 First Team All-NBA - Odds to be selected,Joel Embiid,-0.04760000000000009,0.6667,0.7143
 2022-03-25 19:30:48.747083,NBA Specials - 2022 First Team All-NBA - Odds to be selected,LeBron James,-0.050000000000000044,0.75,0.8
 2022-03-25 13:31:11.744027,College Basketball - 2022 Men's NIT Winner - 2022 Men's NIT Winner,Texas A&M,-0.054800000000000015,0.3226,0.3774
-2022-03-25 10:31:26.390903,94th Academy Awards - Odds to win Best Actress - Best Actress,Olivia Colman (The Lost Daughter),-0.05559999999999998,0.1111,0.1667
-2022-03-25 10:31:26.390903,94th Academy Awards - Odds to win Best Actress - Best Actress,Jessica Chastain (The Eyes of Tammy Faye),-0.06669999999999998,0.6,0.6667
 2022-03-25 15:33:02.815911,94th Academy Awards - Best Supporting Actor - Best Supporting Actor,Kodi Smit-McPhee (The Power of the Dog),-0.10390000000000002,0.1818,0.2857
