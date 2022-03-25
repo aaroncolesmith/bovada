@@ -1,86 +1,101 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-03-25 17:30:58.055462,Game of Thrones Specials - Characters confirmed to be Alive at the End of Season 1 of House of Dragons - Outright,Larys Strong,0.16810000000000003,0.2857,0.1176
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,Duke vs. Houston,0.13419999999999999,0.1538,0.0196
-2022-03-25 05:30:50.324066,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Houston,0.1222,0.2222,0.1
 2022-03-25 14:31:03.967478,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Houston,0.1196,0.2105,0.0909
 2022-03-25 14:31:03.967478,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Duke,0.1049,0.1818,0.0769
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,Duke vs. Kansas,0.10439999999999999,0.1429,0.0385
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,Duke vs. Villanova,0.1033,0.125,0.0217
-2022-03-25 05:30:50.324066,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Duke,0.09999999999999999,0.1667,0.0667
 2022-03-25 15:33:02.815911,94th Academy Awards - Best Supporting Actor - Best Supporting Actor,Troy Kotsur (CODA),0.09089999999999998,0.9091,0.8182
-2022-03-25 05:30:50.336135,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,Purdue,0.09049999999999997,0.5556,0.4651
 2022-03-25 10:31:26.390903,94th Academy Awards - Odds to win Best Actress - Best Actress,Penelope Cruz (Parallel Mothers),0.0889,0.2,0.1111
-2022-03-25 05:30:50.324066,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Arkansas,0.0804,0.1,0.0196
-2022-03-25 05:30:50.324066,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Villanova,0.0762,0.1429,0.0667
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,Arkansas vs. Houston,0.0754,0.0833,0.0079
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Paolo Banchero (Duke),0.0708,0.1053,0.0345
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Houston to beat Duke,0.06699999999999999,0.0769,0.0099
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Duke to beat Houston,0.0665,0.0769,0.0104
 2022-03-25 14:31:03.967478,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Villanova,0.066,0.1429,0.0769
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,Arkansas vs. Kansas,0.0617,0.0769,0.0152
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,Purdue vs. Houston,0.061500000000000006,0.1,0.0385
 2022-03-25 14:31:03.967478,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Arkansas,0.058899999999999994,0.0833,0.0244
 2022-03-25 14:31:03.967478,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,UCLA,0.0588,0.1176,0.0588
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,Arkansas vs. Villanova,0.056799999999999996,0.0667,0.0099
+2022-03-25 17:30:58.067668,Game of Thrones Specials - Characters to sit on the Iron Throne in Season 1 of House of Dragons - Proposition,Princess Rhaenyra Targaryen,0.05559999999999998,0.5,0.4444
 2022-03-25 09:30:17.257498,NFL Specials - Where will Baker Mayfield  Play Game 1 of the 2022/2023 NFL Season? - Outright,Cleveland Browns,0.05550000000000002,0.2222,0.1667
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Duke to beat Kansas,0.0552,0.0769,0.0217
 2022-03-25 09:30:17.329330,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Drake London,0.053100000000000036,0.4167,0.3636
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Duke to beat Villanova,0.0526,0.0625,0.0099
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Villanova to beat Duke,0.0484,0.0588,0.0104
 2022-03-25 09:30:17.364932,NFL Specials - 2022 NFL Draft Props - 1st RB Selected,Breece Hall,0.04760000000000009,0.7143,0.6667
 2022-03-25 15:33:03.829384,NBA Specials - 2022 First Team All-NBA - Odds to be selected,Nikola Jokic,0.047599999999999976,0.3333,0.2857
+2022-03-25 17:30:58.082889,Game of Thrones Specials - Game of Thrones - House of Dragons - Last Dragon Standing - Which Dragons will be Alive at the end of Season 1? - Proposition,Sunfyre,0.044399999999999995,0.4444,0.4
+2022-03-25 17:30:58.082889,Game of Thrones Specials - Game of Thrones - House of Dragons - Last Dragon Standing - Which Dragons will be Alive at the end of Season 1? - Proposition,Vhagar,0.044399999999999995,0.4444,0.4
 2022-03-25 13:31:11.744027,College Basketball - 2022 Men's NIT Winner - 2022 Men's NIT Winner,Washington State,0.04409999999999997,0.2941,0.25
 2022-03-25 14:31:03.967478,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Kansas,0.043800000000000006,0.2105,0.1667
-2022-03-25 05:30:50.324066,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Purdue,0.042899999999999994,0.1429,0.1
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Houston to beat Arkansas,0.042600000000000006,0.0476,0.005
 2022-03-25 14:31:03.967478,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Tournament Runner Up,Purdue,0.04240000000000001,0.1333,0.0909
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Fabian White Jr. (Houston),0.04229999999999999,0.0667,0.0244
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,Purdue vs. Villanova,0.0398,0.0833,0.0435
 2022-03-25 13:31:11.693111,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Ochai Agbaji (Kansas),0.03889999999999999,0.1818,0.1429
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Kansas to beat Duke,0.038099999999999995,0.0625,0.0244
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Ochai Agbaji (Kansas),0.037599999999999995,0.1429,0.1053
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,UCLA vs. Houston,0.037099999999999994,0.0588,0.0217
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Houston to beat Purdue,0.037099999999999994,0.0588,0.0217
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Collin Gillespie (Villanova),0.035699999999999996,0.0833,0.0476
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,JD Notae (Arkansas),0.0344,0.0476,0.0132
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Kyler Edwards (Houston),0.0344,0.0588,0.0244
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Kansas to beat Arkansas,0.0336,0.0435,0.0099
 2022-03-25 08:31:13.112312,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Duke,0.033300000000000024,0.2,0.1667
-2022-03-25 05:30:50.324066,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,UCLA,0.03330000000000001,0.1,0.0667
-2022-03-25 05:30:50.343794,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - Midwest Region Winner,Kansas,0.032299999999999995,0.6875,0.6552
-2022-03-25 05:30:50.324066,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Kansas,0.031700000000000006,0.2222,0.1905
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Villanova to beat Arkansas,0.032799999999999996,0.0385,0.0057
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Taze Moore (Houston),0.030400000000000003,0.05,0.0196
 2022-03-25 13:31:11.515815,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Malik WIllis,0.030299999999999994,0.6667,0.6364
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Arkansas to beat Houston,0.029200000000000004,0.0323,0.0031
 2022-03-25 16:31:18.113130,NBA Specials - 2022 First Team All-NBA - Odds to be selected,Jayson Tatum,0.028199999999999996,0.0667,0.0385
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Johnny Juzang (UCLA),0.026499999999999996,0.0588,0.0323
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Arkansas to beat Kansas,0.0257,0.0323,0.0066
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,North Carolina vs. Houston,0.0253,0.0385,0.0132
 2022-03-25 13:31:11.515815,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Kenny Pickett,0.024599999999999955,0.3636,0.339
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Arkansas to beat Villanova,0.024499999999999997,0.0278,0.0033
 2022-03-25 09:30:17.353966,NFL Specials - 2022 NFL Draft Props - 1st Offensive Lineman Selected,Evan Neal,0.024399999999999977,0.5122,0.4878
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Mark Williams (Duke),0.024100000000000003,0.0357,0.0116
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Josh Carlton (Houston),0.0233,0.0385,0.0152
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,UCLA vs. Villanova,0.023200000000000002,0.0476,0.0244
 2022-03-25 09:30:17.150261,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Matt Ryan,0.022400000000000003,0.0323,0.0099
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Purdue to beat Houston,0.021799999999999996,0.0435,0.0217
 2022-03-25 13:31:12.296859,NBA Specials - 2022 First Team All-NBA - Odds to be selected,Devin Booker,0.02020000000000001,0.1111,0.0909
 2022-03-25 15:33:03.440541,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Devin Booker,0.020000000000000004,0.0323,0.0123
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Justin Moore (Villanova),0.019800000000000005,0.0476,0.0278
 2022-03-25 13:31:11.693111,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Paolo Banchero (Duke),0.019699999999999995,0.125,0.1053
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,AJ Griffin (Duke),0.0196,0.0312,0.0116
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Wendell Moore Jr. (Duke),0.0193,0.0357,0.0164
-2022-03-25 05:30:52.578015,Japan B League - Japan League B1 2021/22 - Outright,Alvark Tokyo,0.01820000000000002,0.2,0.1818
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Villanova to beat Purdue,0.019099999999999995,0.0435,0.0244
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Houston to beat UCLA,0.0182,0.0323,0.0141
 2022-03-25 07:30:54.042434,Boxing Lines - Shakur Stevenson vs Oscar Valdez - To Win the Bout,Shakur Stevenson,0.018199999999999994,0.8182,0.8
 2022-03-25 13:31:10.084221,Boxing Lines - Felix Sturm vs Istvan Szili - To Win the Bout,Felix Sturm,0.017900000000000027,0.875,0.8571
-2022-03-25 14:31:05.446255,Euroleague - Euroleague 2021/22 - Winner,Milano,0.0179,0.1429,0.125
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,Duke vs. Miami Florida,0.0179,0.0278,0.0099
+2022-03-25 14:31:05.446255,Euroleague - Euroleague 2021/22 - Winner,Milano,0.0179,0.1429,0.125
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Purdue to beat Villanova,0.0168,0.0385,0.0217
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Jaden Ivey (Purdue),0.016600000000000004,0.0833,0.0667
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,Duke vs. Providence,0.0165,0.0244,0.0079
 2022-03-25 14:31:05.446255,Euroleague - Euroleague 2021/22 - Winner,Maccabi Tel-Aviv,0.014099999999999998,0.0435,0.0294
-2022-03-25 05:30:51.233118,College Season Props - Odds to win 2022 Heisman Trophy - Outright,Jaxon Smith-Njigba,0.014099999999999998,0.0435,0.0294
 2022-03-25 06:30:49.496017,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Mikael Zewski,0.014000000000000012,0.5238,0.5098
-2022-03-25 05:30:52.578015,Japan B League - Japan League B1 2021/22 - Outright,Kawasaki Brave Thunders,0.013899999999999996,0.125,0.1111
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,Duke vs. Iowa State,0.0138,0.0217,0.0079
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,North Carolina vs. Villanova,0.013699999999999999,0.0278,0.0141
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Duke to beat Miami Florida,0.013,0.0196,0.0066
 2022-03-25 08:31:17.871034,FIFA World Cup 2022 - FIFA World Cup 2022 - Outright Winner,Brazil,0.012899999999999995,0.1667,0.1538
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Villanova to beat UCLA,0.012599999999999998,0.0278,0.0152
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Duke to beat Providence,0.012199999999999999,0.0179,0.0057
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,Houston to beat North Carolina,0.0118,0.0217,0.0099
+2022-03-25 17:31:00.215414,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Result,UCLA to beat Houston,0.0118,0.0217,0.0099
 2022-03-25 06:30:49.506414,Boxing Lines - Movladdin Biyarslanov vs Roberto Verdugo - To Win the Bout,Roberto Verdugo,0.011700000000000002,0.1026,0.0909
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Trevor Keels (Duke),0.0113,0.0179,0.0066
-2022-03-25 09:30:17.257498,NFL Specials - Where will Baker Mayfield  Play Game 1 of the 2022/2023 NFL Season? - Outright,Houston Texans,0.011199999999999995,0.0588,0.0476
 2022-03-25 08:31:17.871034,FIFA World Cup 2022 - FIFA World Cup 2022 - Outright Winner,Portugal,0.011199999999999995,0.0588,0.0476
-2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Tyger Campbell (UCLA),0.010899999999999998,0.0208,0.0099
+2022-03-25 09:30:17.257498,NFL Specials - Where will Baker Mayfield  Play Game 1 of the 2022/2023 NFL Season? - Outright,Houston Texans,0.011199999999999995,0.0588,0.0476
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Jules Bernard (UCLA),0.010899999999999998,0.0208,0.0099
+2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Tyger Campbell (UCLA),0.010899999999999998,0.0208,0.0099
 2022-03-25 08:31:17.871034,FIFA World Cup 2022 - FIFA World Cup 2022 - Outright Winner,France,0.010899999999999993,0.1538,0.1429
-2022-03-25 14:31:02.597100,Boxing Lines - Dan Azeez vs Matthew Tinker - To Win the Bout,Matthew Tinker,0.010700000000000001,0.125,0.1143
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Christian Braun (Kansas),0.010700000000000001,0.0385,0.0278
+2022-03-25 14:31:02.597100,Boxing Lines - Dan Azeez vs Matthew Tinker - To Win the Bout,Matthew Tinker,0.010700000000000001,0.125,0.1143
 2022-03-25 11:31:00.549495,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Duke,0.010499999999999982,0.2105,0.2
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Jalen Wilson (Kansas),0.010300000000000002,0.0244,0.0141
+2022-03-25 17:30:57.934508,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,0.010200000000000015,0.1481,0.1379
 2022-03-25 15:33:00.866483,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,0.010200000000000015,0.1481,0.1379
 2022-03-25 06:30:49.898063,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,0.010200000000000015,0.1481,0.1379
 2022-03-25 09:30:17.422570,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Jaime Jaquez Jr. (UCLA),0.010100000000000001,0.0345,0.0244
@@ -92,27 +107,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-25 13:31:10.084221,Boxing Lines - Felix Sturm vs Istvan Szili - To Win the Bout,Istvan Szili,-0.01150000000000001,0.1905,0.202
 2022-03-25 09:30:16.027346,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Mikael Zewski,-0.011600000000000055,0.5122,0.5238
 2022-03-25 14:31:05.446255,Euroleague - Euroleague 2021/22 - Winner,Real Madrid BC,-0.011700000000000016,0.2105,0.2222
+2022-03-25 17:30:57.516351,Boxing Lines - Mikael Zewski vs Carlos Ocampo - To Win the Bout,Mikael Zewski,-0.012199999999999989,0.5,0.5122
 2022-03-25 14:31:03.946339,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Exact Finals Matchup,Saint Peter's vs. Kansas,-0.0127,0.0025,0.0152
+2022-03-25 17:30:58.131249,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Tony Bennett & Lady Gaga - Love for Sale,-0.013999999999999999,0.0769,0.0909
 2022-03-25 15:33:03.440541,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Ja Morant,-0.014099999999999998,0.0294,0.0435
 2022-03-25 07:30:54.042434,Boxing Lines - Shakur Stevenson vs Oscar Valdez - To Win the Bout,Oscar Valdez,-0.016699999999999993,0.25,0.2667
 2022-03-25 14:31:05.446255,Euroleague - Euroleague 2021/22 - Winner,Anadolu Efes,-0.01820000000000002,0.1818,0.2
-2022-03-25 05:30:50.336135,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,UCLA,-0.019600000000000006,0.303,0.3226
-2022-03-25 13:31:11.712610,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,North Carolina,-0.022199999999999998,0.2,0.2222
-2022-03-25 16:31:18.113130,NBA Specials - 2022 First Team All-NBA - Odds to be selected,Kevin Durant,-0.022199999999999998,0.2,0.2222
 2022-03-25 10:31:26.390903,94th Academy Awards - Odds to win Best Actress - Best Actress,Nicole Kidman (Being the Ricardos),-0.022199999999999998,0.2,0.2222
+2022-03-25 16:31:18.113130,NBA Specials - 2022 First Team All-NBA - Odds to be selected,Kevin Durant,-0.022199999999999998,0.2,0.2222
+2022-03-25 13:31:11.712610,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,North Carolina,-0.022199999999999998,0.2,0.2222
 2022-03-25 08:31:13.112312,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Kansas,-0.022199999999999998,0.2,0.2222
 2022-03-25 09:30:17.387259,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Atlanta Falcons,-0.022200000000000004,0.0123,0.0345
-2022-03-25 09:30:17.257498,NFL Specials - Where will Baker Mayfield  Play Game 1 of the 2022/2023 NFL Season? - Outright,Pittsburgh Steelers,-0.023799999999999988,0.1429,0.1667
 2022-03-25 09:30:17.329330,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Garrett Wilson,-0.023799999999999988,0.4762,0.5
-2022-03-25 05:30:50.336135,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,St. Peter's (#15),-0.028199999999999996,0.0385,0.0667
+2022-03-25 09:30:17.257498,NFL Specials - Where will Baker Mayfield  Play Game 1 of the 2022/2023 NFL Season? - Outright,Pittsburgh Steelers,-0.023799999999999988,0.1429,0.1667
+2022-03-25 17:31:01.300069,A-League - Australia A-League 2021/2022 - Grand Final Winner,Sydney FC,-0.029299999999999993,0.0476,0.0769
 2022-03-25 13:31:11.725638,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - Midwest Region Winner,Kansas,-0.032299999999999995,0.6552,0.6875
 2022-03-25 09:30:17.353966,NFL Specials - 2022 NFL Draft Props - 1st Offensive Lineman Selected,Ikem Ekwonu,-0.033299999999999996,0.5122,0.5455
-2022-03-25 05:30:52.675250,LKL - LKL 2021/22 - Outright,Rytas,-0.03889999999999999,0.1429,0.1818
 2022-03-25 09:30:17.257498,NFL Specials - Where will Baker Mayfield  Play Game 1 of the 2022/2023 NFL Season? - Outright,Seattle Seahawks,-0.04290000000000005,0.6,0.6429
 2022-03-25 13:31:12.296859,NBA Specials - 2022 First Team All-NBA - Odds to be selected,DeMar DeRozan,-0.044399999999999995,0.5556,0.6
 2022-03-25 15:33:03.829384,NBA Specials - 2022 First Team All-NBA - Odds to be selected,Joel Embiid,-0.04760000000000009,0.6667,0.7143
 2022-03-25 13:31:11.744027,College Basketball - 2022 Men's NIT Winner - 2022 Men's NIT Winner,Texas A&M,-0.054800000000000015,0.3226,0.3774
-2022-03-25 05:30:50.336135,College Basketball - 2022 NCAA DI Men's Basketball Tournament Region Winners - East Region Winner,North Carolina,-0.05559999999999998,0.2222,0.2778
 2022-03-25 10:31:26.390903,94th Academy Awards - Odds to win Best Actress - Best Actress,Olivia Colman (The Lost Daughter),-0.05559999999999998,0.1111,0.1667
 2022-03-25 10:31:26.390903,94th Academy Awards - Odds to win Best Actress - Best Actress,Jessica Chastain (The Eyes of Tammy Faye),-0.06669999999999998,0.6,0.6667
 2022-03-25 15:33:02.815911,94th Academy Awards - Best Supporting Actor - Best Supporting Actor,Kodi Smit-McPhee (The Power of the Dog),-0.10390000000000002,0.1818,0.2857
