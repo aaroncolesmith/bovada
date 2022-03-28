@@ -1,21 +1,27 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-03-28 02:32:47.159174,WNBL - Australia WNBL 2021/22 - Outright,Melbourne Boomers (W),0.18980000000000002,0.5744,0.3846
 2022-03-27 19:30:13.997065,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Billie Eilish - Happier Than Ever,0.09720000000000001,0.2222,0.125
+2022-03-28 02:32:47.159174,WNBL - Australia WNBL 2021/22 - Outright,Perth Lynx (W),0.08400000000000002,0.4762,0.3922
+2022-03-28 02:32:47.108377,NBL - NBL 2021/22 - Outright,Illawarra Hawks,0.08330000000000001,0.25,0.1667
 2022-03-27 20:31:27.730585,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,LeBron James,0.07140000000000002,0.7143,0.6429
 2022-03-28 01:30:44.233586,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Marcus Smart,0.07069999999999999,0.1818,0.1111
 2022-03-27 15:30:59.243133,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Paolo Banchero (Duke),0.057699999999999974,0.3077,0.25
+2022-03-28 02:32:47.108377,NBL - NBL 2021/22 - Outright,Sydney Kings,0.057699999999999974,0.3077,0.25
 2022-03-27 19:30:14.109353,94th Academy Awards - Best Film Editing - Outright,Dune,0.05449999999999999,0.6,0.5455
 2022-03-28 01:30:44.183456,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Armando Bacot (North Carolina),0.052399999999999995,0.0909,0.0385
 2022-03-28 01:30:43.067920,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Malik WIllis,0.04760000000000009,0.7143,0.6667
 2022-03-27 17:30:47.792140,94th Academy Awards - Best Documentary Short - Best Documentary Short,Audible,0.044499999999999984,0.2667,0.2222
 2022-03-27 20:31:25.155906,94th Academy Awards - Odds to win Best Picture - Best Picture,CODA,0.04290000000000005,0.6429,0.6
-2022-03-27 13:30:49.601997,94th Academy Awards - Odds to win Best Actress - Best Actress,Jessica Chastain (The Eyes of Tammy Faye),0.0393,0.6226,0.5833
+2022-03-28 02:32:46.933353,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Marcus Smart,0.04040000000000002,0.2222,0.1818
+2022-03-28 02:32:46.933353,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Mikal Bridges,0.04040000000000002,0.2222,0.1818
 2022-03-27 19:30:14.034364,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Billie Eilish - Happier Than Ever,0.03889999999999999,0.1818,0.1429
 2022-03-27 17:30:47.962122,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,"The Worst Person in the World (Eskil Vogt, Joachim Trier)",0.036199999999999996,0.1538,0.1176
 2022-03-27 19:30:14.079716,94th Academy Awards - Best Animated Short Film - Best Animated Short Film,Robin Robin,0.035699999999999954,0.75,0.7143
-2022-03-27 19:30:14.148646,94th Academy Awards - Best Makeup and Hairstyling - Outright,The Eyes of Tammy Faye,0.033299999999999996,0.8333,0.8
+2022-03-28 01:30:44.165446,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Kansas,0.034499999999999975,0.3571,0.3226
+2022-03-28 01:30:44.165446,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,North Carolina,0.033399999999999985,0.1667,0.1333
 2022-03-27 20:31:27.593343,NFL Specials - 2022 NFL Draft Props - 1st Offensive Lineman Selected,Ikem Ekwonu,0.033299999999999996,0.5455,0.5122
+2022-03-27 19:30:14.148646,94th Academy Awards - Best Makeup and Hairstyling - Outright,The Eyes of Tammy Faye,0.033299999999999996,0.8333,0.8
 2022-03-27 19:30:14.165887,94th Academy Awards - Best Original Score - Best Original Score,Dune (Hans Zimmer),0.03180000000000005,0.8889,0.8571
-2022-03-27 14:30:54.731133,94th Academy Awards - Best Supporting Actor - Best Supporting Actor,Kodi Smit-McPhee (The Power of the Dog),0.028700000000000003,0.2105,0.1818
 2022-03-28 01:30:44.233586,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Mikal Bridges,0.027999999999999997,0.1818,0.1538
 2022-03-27 21:30:21.815708,94th Academy Awards - Best Animated Short Film - Best Animated Short Film,Robin Robin,0.027800000000000047,0.7778,0.75
 2022-03-28 01:30:44.307986,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,0.026500000000000024,0.2083,0.1818
@@ -23,23 +29,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-27 19:30:14.010662,Grammy Awards 2022 - Grammy 2022 - Best Country Album - Outright,Chris Stapleton – Starting Over,0.023800000000000043,0.5238,0.5
 2022-03-27 21:30:22.183777,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,Belfast (Kenneth Branagh),0.022699999999999998,0.4878,0.4651
 2022-03-27 21:30:22.330793,94th Academy Awards - Odds to win Best Actress - Best Actress,Penelope Cruz (Parallel Mothers),0.021999999999999964,0.3077,0.2857
-2022-03-27 14:30:53.794126,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Duke,0.02100000000000002,0.3846,0.3636
 2022-03-27 19:30:14.096826,94th Academy Awards - Best Documentary Short - Best Documentary Short,The Queen of Basketball,0.02100000000000002,0.6364,0.6154
 2022-03-27 19:30:14.034364,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Olivia Rodrigo - Drivers License,0.01970000000000005,0.5652,0.5455
-2022-03-27 13:30:49.424845,94th Academy Awards - Best Documentary Feature - Best Documentary Feature,Flee,0.019000000000000017,0.2857,0.2667
 2022-03-27 19:30:14.096826,94th Academy Awards - Best Documentary Short - Best Documentary Short,Audible,0.019000000000000017,0.2857,0.2667
 2022-03-27 20:31:25.100230,94th Academy Awards - Odds to win Best Actress - Best Actress,Penelope Cruz (Parallel Mothers),0.019000000000000017,0.2857,0.2667
 2022-03-27 19:30:14.210474,94th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,CODA (Siân Heder),0.018999999999999906,0.7333,0.7143
-2022-03-27 13:30:49.369388,94th Academy Awards - Best Original Song - Best Original Song,“No Time to Die”  Billie Eilish and Finneas,0.018999999999999906,0.7333,0.7143
 2022-03-27 17:30:47.096114,College Season Props - Odds to win 2022 Heisman Trophy - Outright,Jahmyr Gibbs,0.0189,0.0385,0.0196
-2022-03-27 13:30:49.356635,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,Don’t Look Up (Adam McKay & David Sirota),0.01820000000000002,0.2,0.1818
-2022-03-27 13:30:49.424845,94th Academy Awards - Best Documentary Feature - Best Documentary Feature,Summer of Soul,0.018199999999999994,0.8182,0.8
 2022-03-27 19:30:14.184191,94th Academy Awards - Best Production Design - Outright,Dune,0.017400000000000082,0.8,0.7826
-2022-03-27 14:30:52.297648,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Conor Benn,0.01660000000000006,0.9333,0.9167
 2022-03-27 21:30:21.876605,94th Academy Awards - Best Film Editing - Outright,Dune,0.01539999999999997,0.6154,0.6
 2022-03-27 15:30:59.243133,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,AJ Griffin (Duke),0.015300000000000001,0.0588,0.0435
 2022-03-27 19:30:14.244590,94th Academy Awards - Best Documentary Feature - Best Documentary Feature,Summer of Soul,0.015100000000000002,0.8333,0.8182
-2022-03-27 14:30:54.691451,94th Academy Awards - Best Live Action Short Film - Best Live Action Short Film,On My Mind,0.013999999999999999,0.0909,0.0769
+2022-03-28 02:32:47.024081,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,0.013999999999999999,0.0909,0.0769
 2022-03-27 19:30:13.997065,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Tony Bennett & Lady Gaga - Love for Sale,0.013999999999999999,0.0909,0.0769
 2022-03-27 19:30:14.327823,94th Academy Awards - Odds to win Best Actress - Best Actress,Jessica Chastain (The Eyes of Tammy Faye),0.013799999999999923,0.6364,0.6226
 2022-03-27 21:30:22.330793,94th Academy Awards - Odds to win Best Actress - Best Actress,Jessica Chastain (The Eyes of Tammy Faye),0.013299999999999979,0.6429,0.6296
@@ -50,60 +50,62 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-27 19:30:14.109353,94th Academy Awards - Best Film Editing - Outright,"tick, tick... BOOM!",0.012299999999999991,0.1176,0.1053
 2022-03-27 21:30:22.386665,94th Academy Awards - Odds to win Best Picture - Best Picture,CODA,0.012299999999999978,0.6552,0.6429
 2022-03-27 21:30:22.211252,94th Academy Awards - Best Original Song - Best Original Song,“Dos Oruguitas” Lin-Manuel Miranda (Encanto),0.01150000000000001,0.3448,0.3333
-2022-03-27 17:30:50.027085,CBA - CBA 2021/22 - Outright,Beijing Ducks,0.011199999999999995,0.0588,0.0476
 2022-03-28 01:30:44.208119,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Devin Booker,0.011199999999999995,0.0435,0.0323
+2022-03-27 17:30:50.027085,CBA - CBA 2021/22 - Outright,Beijing Ducks,0.011199999999999995,0.0588,0.0476
 2022-03-28 01:30:44.293739,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,0.011099999999999999,0.1111,0.1
 2022-03-27 19:30:14.270683,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,Belfast (Kenneth Branagh),0.010599999999999998,0.4651,0.4545
 2022-03-27 19:30:14.270683,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,Licorice Pizza (Paul Thomas Anderson),-0.010099999999999998,0.4444,0.4545
 2022-03-27 19:30:14.034364,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Lil Nas X - Montero,-0.0102,0.0667,0.0769
 2022-03-27 19:30:14.244590,94th Academy Awards - Best Documentary Feature - Best Documentary Feature,Attica,-0.0102,0.0667,0.0769
+2022-03-28 02:32:46.933353,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Robert Williams,-0.0102,0.0667,0.0769
 2022-03-27 19:30:14.165887,94th Academy Awards - Best Original Score - Best Original Score,The Power of the Dog (Jonny Greenwood),-0.010499999999999982,0.2,0.2105
 2022-03-27 19:30:14.232031,94th Academy Awards - Best Costume Design - Best Costume Design,Dune (Jacqueline West and Robert Morgan),-0.010499999999999982,0.2,0.2105
 2022-03-27 21:30:21.938334,94th Academy Awards - Best Makeup and Hairstyling - Outright,Dune,-0.010499999999999982,0.2,0.2105
 2022-03-27 17:30:47.962122,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,Licorice Pizza (Paul Thomas Anderson),-0.010599999999999998,0.4545,0.4651
 2022-03-27 17:30:48.442948,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Kansas,-0.010699999999999987,0.3226,0.3333
-2022-03-27 13:30:49.356635,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,Licorice Pizza (Paul Thomas Anderson),-0.011099999999999999,0.4651,0.4762
 2022-03-28 01:30:44.183456,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Collin Gillespie (Villanova),-0.011099999999999999,0.1,0.1111
 2022-03-27 21:30:21.815708,94th Academy Awards - Best Animated Short Film - Best Animated Short Film,Boxballet,-0.011099999999999999,0.1,0.1111
 2022-03-27 19:30:14.109353,94th Academy Awards - Best Film Editing - Outright,Don't Look Up,-0.011199999999999995,0.0476,0.0588
 2022-03-28 01:30:44.183456,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Brady Manek (North Carolina),-0.011199999999999995,0.0476,0.0588
 2022-03-27 19:30:14.148646,94th Academy Awards - Best Makeup and Hairstyling - Outright,Dune,-0.011700000000000016,0.2105,0.2222
-2022-03-27 17:30:47.372487,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.012899999999999995,0.125,0.1379
-2022-03-27 14:30:52.297648,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.012899999999999995,0.125,0.1379
 2022-03-27 19:30:14.079716,94th Academy Awards - Best Animated Short Film - Best Animated Short Film,The Windshield Wiper,-0.012899999999999995,0.1538,0.1667
+2022-03-27 17:30:47.372487,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.012899999999999995,0.125,0.1379
 2022-03-27 17:30:47.096114,College Season Props - Odds to win 2022 Heisman Trophy - Outright,Bryce Young,-0.0131,0.2222,0.2353
 2022-03-27 15:30:59.763136,MLB Futures - MLB 2022 National League West - Outright,San Diego Padres,-0.0131,0.2222,0.2353
 2022-03-27 19:30:14.210474,94th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,The Power of the Dog (Jane Campion),-0.013600000000000001,0.2941,0.3077
 2022-03-27 15:30:59.243133,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Collin Gillespie (Villanova),-0.013899999999999996,0.1111,0.125
+2022-03-28 02:32:46.933353,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,-0.013999999999999999,0.0769,0.0909
 2022-03-28 01:30:44.183456,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Mark Williams (Duke),-0.014099999999999994,0.0526,0.0667
 2022-03-27 19:30:14.096826,94th Academy Awards - Best Documentary Short - Best Documentary Short,Lead Me Home,-0.014099999999999998,0.0244,0.0385
 2022-03-27 19:30:14.010662,Grammy Awards 2022 - Grammy 2022 - Best Country Album - Outright,Sturgill Simpson – The Ballad of Dood and Juanita,-0.01469999999999999,0.2353,0.25
 2022-03-27 21:30:21.815708,94th Academy Awards - Best Animated Short Film - Best Animated Short Film,Bestia,-0.015100000000000002,0.1667,0.1818
-2022-03-27 19:30:13.997065,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,H.E.R. - Back of My Mind,-0.015300000000000001,0.0323,0.0476
 2022-03-28 01:30:44.183456,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,AJ Griffin (Duke),-0.015300000000000001,0.0435,0.0588
-2022-03-27 14:30:53.794126,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,North Carolina,-0.0179,0.125,0.1429
+2022-03-27 19:30:13.997065,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,H.E.R. - Back of My Mind,-0.015300000000000001,0.0323,0.0476
 2022-03-27 21:30:22.330793,94th Academy Awards - Odds to win Best Actress - Best Actress,Nicole Kidman (Being the Ricardos),-0.0179,0.125,0.1429
 2022-03-27 19:30:14.096826,94th Academy Awards - Best Documentary Short - Best Documentary Short,Three Songs for Benazir,-0.018400000000000027,0.2941,0.3125
 2022-03-27 21:30:22.183777,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,Licorice Pizza (Paul Thomas Anderson),-0.018900000000000028,0.4255,0.4444
 2022-03-28 01:30:44.183456,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Jeremy Roach (Duke),-0.019099999999999992,0.0476,0.0667
 2022-03-27 17:30:50.027085,CBA - CBA 2021/22 - Outright,Shanghai Sharks,-0.02020000000000001,0.0909,0.1111
-2022-03-27 14:30:54.731133,94th Academy Awards - Best Supporting Actor - Best Supporting Actor,Ciaran Hinds (Belfast),-0.0203,0.0385,0.0588
 2022-03-27 17:30:47.792140,94th Academy Awards - Best Documentary Short - Best Documentary Short,Three Songs for Benazir,-0.020799999999999985,0.3125,0.3333
 2022-03-28 01:30:44.183456,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Paolo Banchero (Duke),-0.021999999999999964,0.2857,0.3077
 2022-03-28 01:30:44.307986,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.02250000000000002,0.2632,0.2857
-2022-03-27 20:31:25.155906,94th Academy Awards - Odds to win Best Picture - Best Picture,The Power of the Dog,-0.023799999999999988,0.4762,0.5
 2022-03-27 19:30:14.327823,94th Academy Awards - Odds to win Best Actress - Best Actress,Nicole Kidman (Being the Ricardos),-0.023799999999999988,0.1429,0.1667
+2022-03-27 20:31:25.155906,94th Academy Awards - Odds to win Best Picture - Best Picture,The Power of the Dog,-0.023799999999999988,0.4762,0.5
 2022-03-27 20:31:27.730585,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,Giannis Antetokounmpo,-0.023799999999999988,0.1429,0.1667
 2022-03-27 20:31:27.593343,NFL Specials - 2022 NFL Draft Props - 1st Offensive Lineman Selected,Evan Neal,-0.024399999999999977,0.4878,0.5122
 2022-03-28 01:30:44.183456,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Ochai Agbaji (Kansas),-0.026100000000000012,0.1739,0.2
+2022-03-28 02:32:47.108377,NBL - NBL 2021/22 - Outright,SE Melbourne Phoenix,-0.02840000000000001,0.0769,0.1053
 2022-03-27 19:30:14.079716,94th Academy Awards - Best Animated Short Film - Best Animated Short Film,Bestia,-0.028700000000000003,0.1818,0.2105
 2022-03-27 17:30:47.962122,94th Academy Awards - Best Original Screenplay - Best Original Screenplay,Don’t Look Up (Adam McKay & David Sirota),-0.033300000000000024,0.1667,0.2
 2022-03-28 01:30:44.233586,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Giannis Antetokounmpo,-0.034100000000000005,0.0909,0.125
-2022-03-27 13:30:49.424845,94th Academy Awards - Best Documentary Feature - Best Documentary Feature,Attica,-0.03420000000000001,0.0769,0.1111
 2022-03-27 20:31:27.730585,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,Joel Embiid,-0.03570000000000001,0.25,0.2857
-2022-03-27 13:30:49.601997,94th Academy Awards - Odds to win Best Actress - Best Actress,Nicole Kidman (Being the Ricardos),-0.043800000000000006,0.1667,0.2105
-2022-03-27 19:30:14.034364,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Tony Bennett & Lady Gaga - I Get a Kick Out of You,-0.047599999999999976,0.2857,0.3333
+2022-03-28 02:32:46.933353,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Bam Adebayo,-0.03640000000000004,0.3636,0.4
 2022-03-28 01:30:44.233586,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Rudy Gobert,-0.047599999999999976,0.2857,0.3333
+2022-03-27 19:30:14.034364,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Tony Bennett & Lady Gaga - I Get a Kick Out of You,-0.047599999999999976,0.2857,0.3333
 2022-03-28 01:30:44.183456,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Most Outstanding Player,Remy Martin (Kansas),-0.052000000000000005,0.0909,0.1429
 2022-03-27 19:30:14.109353,94th Academy Awards - Best Film Editing - Outright,The Power of the Dog,-0.05550000000000002,0.1667,0.2222
+2022-03-28 02:32:46.933353,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Rudy Gobert,-0.0635,0.2222,0.2857
+2022-03-28 02:32:47.108377,NBL - NBL 2021/22 - Outright,Perth Wildcats,-0.06659999999999999,0.2667,0.3333
+2022-03-28 01:30:44.165446,College Basketball - 2022 NCAA DI Men's Basketball Tournament - Odds to win 2022 NCAA DI Men's Basketball Tournament,Villanova,-0.06820000000000001,0.1818,0.25
 2022-03-27 19:30:13.997065,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Olivia Rodrigo - Sour,-0.08330000000000004,0.6667,0.75
+2022-03-28 02:32:47.159174,WNBL - Australia WNBL 2021/22 - Outright,Canberra Capitals (W),-0.15239999999999998,0.0294,0.1818
