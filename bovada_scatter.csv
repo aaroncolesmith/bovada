@@ -1,9 +1,13 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-31 11:30:49.206180,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.15559999999999996,0.5556,0.4
+2022-03-31 18:31:00.540523,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Smith,0.14480000000000004,0.8948,0.75
 2022-03-31 15:32:44.091386,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,C. Holmgren,0.12209999999999999,0.8948,0.7727
+2022-03-31 18:31:00.555302,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,C. Holmgren,0.12209999999999999,0.8948,0.7727
+2022-03-31 18:31:00.403062,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,0.11259999999999992,0.6364,0.5238
 2022-03-31 11:30:49.199144,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.0917,0.5917,0.5
 2022-03-31 11:30:52.844067,MLB Specials - Albert Pujols Specials  - Regular Season Homeruns,Over 8.5,0.06519999999999992,0.6,0.5348
 2022-03-31 11:30:52.884865,MLB Specials - Albert Pujols Specials  - Regular Season RBIs,Over 27.5,0.06519999999999992,0.6,0.5348
+2022-03-31 18:31:00.394838,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.0635,0.6552,0.5917
 2022-03-31 11:30:49.146635,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,LeBron James,0.05130000000000001,0.6667,0.6154
 2022-03-31 11:30:48.588494,BKFC 23 - Tom Shoaff vs Bruce Lutchmedial - To Win the Bout,Tom Shoaff,0.04949999999999999,0.6721,0.6226
 2022-03-31 11:30:48.310507,Boxing Lines - Alexander Devyatov vs Evgeny Smirnov - To Win the Bout,Alexander Devyatov,0.048800000000000066,0.9655,0.9167
@@ -11,19 +15,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-31 11:30:48.079693,Grammy Awards 2022 - Grammy 2022 - Song of the Year Winner - Outright,Billie Eilish - Happier Than Ever,0.044499999999999984,0.2667,0.2222
 2022-03-31 11:30:49.155624,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,0.04290000000000005,0.6429,0.6
 2022-03-31 15:32:47.540487,Professional Baseball - NPB 2022 - Outright,Hiroshima Toyo Carp,0.0392,0.0588,0.0196
+2022-03-31 18:31:05.609726,NFL Specials - 2022 NFL Draft Props - 1st Offensive Lineman Selected,Ikem Ekwonu,0.037800000000000056,0.5833,0.5455
 2022-03-31 11:30:49.073275,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Jameson Williams,0.037599999999999995,0.1429,0.1053
 2022-03-31 11:30:48.079693,Grammy Awards 2022 - Grammy 2022 - Song of the Year Winner - Outright,Silk Sonic - Leave the Door Open,0.03420000000000001,0.1111,0.0769
 2022-03-31 15:32:43.903709,NBA Season Props - 2021/22 NBA Awards - 2022 The Defensive Player of the Year,Marcus Smart,0.031799999999999995,0.4762,0.4444
 2022-03-31 11:30:48.055650,Grammy Awards 2022 - Grammy 2022 - Best Country Album - Outright,Chris Stapleton – Starting Over,0.030299999999999994,0.6667,0.6364
+2022-03-31 18:31:05.665723,Boxing Lines - Sandor Martin vs Jose Felix Jr - To Win the Bout,Sandor Martin,0.028200000000000003,0.9615,0.9333
 2022-03-31 11:30:48.071691,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Billie Eilish - Happier Than Ever,0.024800000000000016,0.2353,0.2105
+2022-03-31 18:31:06.520263,Copa Libertadores - Copa Libertadores 2022 - Outright,Athletico Paranaense-PR,0.023200000000000002,0.0476,0.0244
 2022-03-31 11:30:48.984118,NFL Specials - Hard Knocks 2022 - Will Dan Campbell be shown in the weight room lifting weights in Episode 1 - Outright,Yes,0.022199999999999998,0.2222,0.2
+2022-03-31 18:31:00.562510,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,P. Banchero,0.020799999999999985,0.3333,0.3125
 2022-03-31 15:32:44.098745,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,P. Banchero,0.020799999999999985,0.3333,0.3125
 2022-03-31 15:32:47.540487,Professional Baseball - NPB 2022 - Outright,Saitama Seibu Lions,0.0203,0.0588,0.0385
 2022-03-31 11:30:48.063708,Grammy Awards 2022 - Grammy 2022 - Best New Artist Winner - Outright,The Kid Laroi,0.02020000000000001,0.1111,0.0909
 2022-03-31 11:30:48.047905,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Billie Eilish - Happier Than Ever,0.019000000000000017,0.2857,0.2667
+2022-03-31 18:31:05.593396,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Drake London,0.018900000000000028,0.4444,0.4255
 2022-03-31 11:30:48.330891,Boxing Lines - Hrvoje Sep vs Ricards Bolotniks - To Win the Bout,Hrvoje Sep,0.018900000000000028,0.4444,0.4255
 2022-03-31 11:30:48.533677,BKFC 23 - Mike Richman vs David Rickels - To Win the Bout,Mike Richman,0.01759999999999995,0.6667,0.6491
 2022-03-31 11:30:49.183740,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.015100000000000002,0.1818,0.1667
+2022-03-31 18:31:06.520263,Copa Libertadores - Copa Libertadores 2022 - Outright,Atlético Mineiro-MG,0.015100000000000002,0.1818,0.1667
+2022-03-31 18:31:06.520263,Copa Libertadores - Copa Libertadores 2022 - Outright,Universidad Católica (CHI),0.0145,0.0244,0.0099
+2022-03-31 18:31:05.783363,Boxing Lines - Florian Marku vs Chris Jenkins - To Win the Bout,Florian Marku,0.014200000000000101,0.8403,0.8261
 2022-03-31 11:30:48.047905,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Tony Bennett & Lady Gaga - Love for Sale,0.013999999999999999,0.0909,0.0769
 2022-03-31 11:30:48.071691,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Silk Sonic - Leave the Door Open,0.013999999999999999,0.0909,0.0769
 2022-03-31 11:30:48.390097,Boxing Lines - Marcos Nader vs Marten Arsumanjan - To Win the Bout,Marten Arsumanjan,0.013899999999999996,0.1739,0.16
@@ -33,33 +45,50 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-03-31 15:32:43.643798,Boxing Lines - Florian Marku vs Chris Jenkins - To Win the Bout,Florian Marku,0.0129999999999999,0.8261,0.8131
 2022-03-31 15:32:43.696268,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,0.0121,0.1333,0.1212
 2022-03-31 11:30:48.324064,Boxing Lines - Sergey Vorobiev vs Ulugbek Sobirov - To Win the Bout,Sergey Vorobiev,0.011099999999999999,0.9,0.8889
+2022-03-31 18:31:06.520263,Copa Libertadores - Copa Libertadores 2022 - Outright,Palmeiras-SP,0.010899999999999993,0.1538,0.1429
+2022-03-31 18:31:06.504026,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Palmeiras,0.010399999999999993,0.2326,0.2222
+2022-03-31 18:31:05.656767,Boxing Lines - Hrvoje Sep vs Ricards Bolotniks - To Win the Bout,Hrvoje Sep,0.010099999999999998,0.4545,0.4444
+2022-03-31 18:31:06.504026,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Corinthians,-0.0102,0.0667,0.0769
+2022-03-31 18:31:05.849120,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.0121,0.1212,0.1333
 2022-03-31 11:30:48.443547,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,-0.0121,0.1212,0.1333
 2022-03-31 11:30:49.183740,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.01319999999999999,0.25,0.2632
 2022-03-31 11:30:48.330891,Boxing Lines - Hrvoje Sep vs Ricards Bolotniks - To Win the Bout,Ricards Bolotniks,-0.013799999999999923,0.6226,0.6364
 2022-03-31 11:30:48.063708,Grammy Awards 2022 - Grammy 2022 - Best New Artist Winner - Outright,Olivia Rodrigo,-0.014000000000000012,0.9091,0.9231
 2022-03-31 11:30:49.206180,NBA Futures - 2022 NBA Northwest Division - Division Winner,Minnesota Timberwolves,-0.0145,0.0099,0.0244
 2022-03-31 15:32:43.643798,Boxing Lines - Florian Marku vs Chris Jenkins - To Win the Bout,Chris Jenkins,-0.01469999999999999,0.2353,0.25
+2022-03-31 18:31:05.656767,Boxing Lines - Hrvoje Sep vs Ricards Bolotniks - To Win the Bout,Ricards Bolotniks,-0.014800000000000035,0.6078,0.6226
 2022-03-31 11:30:48.324064,Boxing Lines - Sergey Vorobiev vs Ulugbek Sobirov - To Win the Bout,Ulugbek Sobirov,-0.015100000000000002,0.1667,0.1818
 2022-03-31 11:30:48.533677,BKFC 23 - Mike Richman vs David Rickels - To Win the Bout,David Rickels,-0.016699999999999993,0.4,0.4167
 2022-03-31 15:32:43.590124,Boxing Lines - Chloe Watson vs Gemma Ruegg - To Win the Bout,Gemma Ruegg,-0.016700000000000007,0.0833,0.1
 2022-03-31 11:30:48.984118,NFL Specials - Hard Knocks 2022 - Will Dan Campbell be shown in the weight room lifting weights in Episode 1 - Outright,No,-0.017900000000000027,0.8571,0.875
+2022-03-31 18:31:06.520263,Copa Libertadores - Copa Libertadores 2022 - Outright,Corinthians-SP,-0.018099999999999998,0.0588,0.0769
 2022-03-31 11:30:49.146635,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,Giannis Antetokounmpo,-0.01820000000000002,0.1818,0.2
 2022-03-31 15:32:43.658850,Boxing Lines - Savannah Marshall vs Femke Hermans - To Win the Bout,Femke Hermans,-0.01949999999999999,0.0714,0.0909
+2022-03-31 18:31:05.593396,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,George Pickens,-0.019499999999999997,0.0099,0.0294
 2022-03-31 11:30:49.192028,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,-0.020699999999999996,0.4444,0.4651
+2022-03-31 18:31:00.547928,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,P. Banchero,-0.020799999999999985,0.3125,0.3333
 2022-03-31 15:32:43.628709,Boxing Lines - Bradley Rea vs Lukas Ndafoluma - To Win the Bout,Lukas Ndafoluma,-0.022000000000000006,0.0833,0.1053
-2022-03-31 11:30:48.071691,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Tony Bennett & Lady Gaga - I Get a Kick Out of You,-0.030299999999999994,0.3333,0.3636
+2022-03-31 18:31:05.665723,Boxing Lines - Sandor Martin vs Jose Felix Jr - To Win the Bout,Jose Felix Jr,-0.0267,0.0909,0.1176
+2022-03-31 18:31:06.520263,Copa Libertadores - Copa Libertadores 2022 - Outright,Estudiantes La Plata,-0.0294,0.0294,0.0588
 2022-03-31 11:30:49.073275,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Garrett Wilson,-0.030299999999999994,0.4348,0.4651
+2022-03-31 11:30:48.071691,Grammy Awards 2022 - Grammy 2022 - Record of the Year Winner - Outright,Tony Bennett & Lady Gaga - I Get a Kick Out of You,-0.030299999999999994,0.3333,0.3636
 2022-03-31 11:30:48.047905,Grammy Awards 2022 - Grammy 2022 - Album of the Year. Winner - Outright,Olivia Rodrigo - Sour,-0.030299999999999994,0.6364,0.6667
 2022-03-31 15:32:47.540487,Professional Baseball - NPB 2022 - Outright,Hanshin Tigers,-0.031799999999999995,0.1111,0.1429
+2022-03-31 18:31:05.609726,NFL Specials - 2022 NFL Draft Props - 1st Offensive Lineman Selected,Evan Neal,-0.033299999999999996,0.4545,0.4878
 2022-03-31 15:32:43.909176,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Evan Mobley,-0.033299999999999996,0.8,0.8333
 2022-03-31 15:32:47.540487,Professional Baseball - NPB 2022 - Outright,Orix Buffaloes,-0.033300000000000024,0.1667,0.2
 2022-03-31 11:30:49.146635,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,Joel Embiid,-0.03570000000000001,0.25,0.2857
+2022-03-31 18:31:05.593396,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Jameson Williams,-0.037599999999999995,0.1053,0.1429
 2022-03-31 11:30:48.310507,Boxing Lines - Alexander Devyatov vs Evgeny Smirnov - To Win the Bout,Evgeny Smirnov,-0.05,0.0833,0.1333
 2022-03-31 11:30:48.588494,BKFC 23 - Tom Shoaff vs Bruce Lutchmedial - To Win the Bout,Bruce Lutchmedial,-0.052200000000000024,0.3922,0.4444
 2022-03-31 11:30:49.155624,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,-0.0595,0.4167,0.4762
-2022-03-31 11:30:52.844067,MLB Specials - Albert Pujols Specials  - Regular Season Homeruns,Under 8.5,-0.06970000000000004,0.4651,0.5348
+2022-03-31 18:31:00.394838,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,-0.068,0.4082,0.4762
 2022-03-31 11:30:52.884865,MLB Specials - Albert Pujols Specials  - Regular Season RBIs,Under 27.5,-0.06970000000000004,0.4651,0.5348
+2022-03-31 11:30:52.844067,MLB Specials - Albert Pujols Specials  - Regular Season Homeruns,Under 8.5,-0.06970000000000004,0.4651,0.5348
 2022-03-31 11:30:49.199144,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Boston Celtics,-0.08900000000000002,0.4762,0.5652
+2022-03-31 18:31:00.403062,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,-0.10109999999999997,0.4545,0.5556
 2022-03-31 11:30:48.079693,Grammy Awards 2022 - Grammy 2022 - Song of the Year Winner - Outright,Olivia Rodrigo - Drivers License,-0.11430000000000007,0.6,0.7143
+2022-03-31 18:31:00.547928,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,C. Holmgren,-0.12209999999999999,0.7727,0.8948
 2022-03-31 11:30:49.206180,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,-0.14289999999999992,0.5238,0.6667
 2022-03-31 15:32:44.098745,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Smith,-0.14480000000000004,0.75,0.8948
+2022-03-31 18:31:00.562510,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Smith,-0.14480000000000004,0.75,0.8948
