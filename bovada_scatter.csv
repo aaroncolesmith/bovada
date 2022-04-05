@@ -11,6 +11,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-05 09:31:00.638006,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,0.05059999999999998,0.5744,0.5238
 2022-04-05 11:31:32.894695,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.04139999999999999,0.4762,0.4348
 2022-04-05 09:31:00.024911,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Genoa,0.038899999999999935,0.8571,0.8182
+2022-04-05 12:31:17.318737,MLB Regular Season Props - MLB 2022 Regular Season Props - New York Mets To Make The Playoffs,No,0.03710000000000002,0.3704,0.3333
+2022-04-05 12:31:13.914000,MLB Futures - MLB 2022 American League Central - Outright,Detroit Tigers,0.036199999999999996,0.1538,0.1176
+2022-04-05 12:31:17.717878,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Evan Mobley,0.035699999999999954,0.75,0.7143
 2022-04-05 09:31:00.032467,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Napoli,0.034499999999999975,0.996,0.9615
 2022-04-05 09:31:00.990118,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 2 Finish,Liverpool,0.034499999999999975,0.996,0.9615
 2022-04-05 09:31:00.514119,Superligaen - Denmark Superligaen 2021/22 - Outright,FC Midtjylland,0.033300000000000024,0.2,0.1667
@@ -19,13 +22,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-05 09:31:00.995597,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Chelsea,0.029299999999999993,0.9524,0.9231
 2022-04-05 09:31:00.032467,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,AS Roma,0.028199999999999996,0.0667,0.0385
 2022-04-05 11:31:32.866046,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.02679999999999999,0.3125,0.2857
+2022-04-05 12:31:17.696236,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,0.022199999999999998,0.8,0.7778
+2022-04-05 12:31:15.006561,MLB Regular Season Props - MLB 2022 Regular Season Player Props - Houston Astros - Justin Verlander Total Wins,Over 10.5,0.02079999999999993,0.5556,0.5348
+2022-04-05 12:31:17.348089,MLB Regular Season Props - MLB 2022 Regular Season Props - Oakland Athletics Regular Season Win Total,Under 69.5,0.02079999999999993,0.5556,0.5348
 2022-04-05 09:31:01.013170,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,West Ham United,0.019399999999999973,0.995,0.9756
 2022-04-05 01:31:01.893379,Italy Serie A - Italy Serie A 2021/2022 - Outright,Napoli,0.019000000000000017,0.2857,0.2667
+2022-04-05 12:31:17.506865,MLB Regular Season Props - MLB 2022 Regular Season Props - Washington Nationals Regular Season Win Total,Under 71.5,0.01880000000000004,0.5744,0.5556
+2022-04-05 12:31:13.963580,MLB Futures - MLB 2022 National League Central - Outright,Milwaukee Brewers,0.01880000000000004,0.6552,0.6364
 2022-04-05 09:31:01.001080,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Tottenham Hotspur,0.01849999999999996,0.9709,0.9524
 2022-04-05 06:31:04.441896,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.01820000000000002,0.2,0.1818
 2022-04-05 09:31:00.032467,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Inter Milan,0.01759999999999995,0.998,0.9804
+2022-04-05 12:31:13.994330,MLB Futures - MLB 2022 National League West - Outright,Los Angeles Dodgers,0.017300000000000093,0.7143,0.697
+2022-04-05 12:31:17.791885,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.015100000000000002,0.1818,0.1667
 2022-04-05 02:31:02.611646,NBL - NBL 2021/22 - Outright,Sydney Kings,0.014900000000000024,0.3226,0.3077
 2022-04-05 11:31:32.873835,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,0.013999999999999999,0.0909,0.0769
+2022-04-05 12:31:17.696236,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,0.012899999999999995,0.1667,0.1538
 2022-04-05 02:31:02.595344,FIBA Champions League - FIBA Champions League 2021/22 - Outright,MHP Riesen Ludwigsburg,0.011099999999999999,0.1111,0.1
 2022-04-05 11:31:32.873835,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.010599999999999998,0.4651,0.4545
 2022-04-05 02:31:02.580368,CBA - CBA 2021/22 - Outright,Zhejiang Lions,0.010499999999999982,0.2105,0.2
@@ -38,18 +49,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-05 09:31:00.055706,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Iago Aspas,-0.0103,0.002,0.0123
 2022-04-05 09:31:00.032467,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Atalanta,-0.010399999999999993,0.2222,0.2326
 2022-04-05 06:31:04.441896,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,-0.010599999999999998,0.4545,0.4651
-2022-04-05 09:31:00.638006,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,-0.011099999999999999,0.1,0.1111
 2022-04-05 02:31:02.595344,FIBA Champions League - FIBA Champions League 2021/22 - Outright,UBT Cluj-Napoca,-0.011099999999999999,0.1,0.1111
+2022-04-05 09:31:00.638006,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,-0.011099999999999999,0.1,0.1111
 2022-04-05 11:31:32.873835,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Los Angeles Clippers,-0.011199999999999995,0.0476,0.0588
+2022-04-05 12:31:13.914000,MLB Futures - MLB 2022 American League Central - Outright,Cleveland Guardians,-0.011899999999999994,0.0714,0.0833
 2022-04-05 09:31:00.004424,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Fiorentina,-0.0119,0.0004,0.0123
+2022-04-05 12:31:13.994330,MLB Futures - MLB 2022 National League West - Outright,San Francisco Giants,-0.012899999999999995,0.1538,0.1667
+2022-04-05 12:31:17.791885,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.012899999999999995,0.1538,0.1667
 2022-04-05 11:31:32.866046,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.0131,0.2222,0.2353
 2022-04-05 09:31:00.583129,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Sporting CP,-0.013899999999999996,0.1111,0.125
-2022-04-05 09:31:00.055706,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Enes Unal,-0.0139,0.001,0.0149
 2022-04-05 09:31:00.004424,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,AS Roma,-0.0139,0.001,0.0149
+2022-04-05 09:31:00.055706,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Enes Unal,-0.0139,0.001,0.0149
 2022-04-05 06:31:04.441896,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,-0.013999999999999999,0.0769,0.0909
 2022-04-05 09:31:00.004424,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Lazio,-0.0142,0.0007,0.0149
 2022-04-05 06:31:04.434666,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.01469999999999999,0.2353,0.25
 2022-04-05 11:31:32.866046,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.015100000000000002,0.1667,0.1818
+2022-04-05 12:31:17.769842,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Los Angeles Lakers,-0.015300000000000001,0.0323,0.0476
 2022-04-05 09:31:00.638006,Allsvenskan - Swedish Allsvenskan 2022 - Outright,IFK Göteborg,-0.015300000000000001,0.0323,0.0476
 2022-04-05 02:31:02.611646,NBL - NBL 2021/22 - Outright,Illawarra Hawks,-0.016699999999999993,0.25,0.2667
 2022-04-05 09:31:00.055706,Spain La Liga - Spain La Liga 2021/22 - Top Goalscorer,Raul de Tomas,-0.017599999999999998,0.002,0.0196
@@ -60,11 +75,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-05 11:31:32.873835,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.01820000000000002,0.1818,0.2
 2022-04-05 09:31:01.013170,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Chelsea,-0.02020000000000001,0.0909,0.1111
 2022-04-05 09:31:00.004424,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Atalanta,-0.022400000000000003,0.002,0.0244
+2022-04-05 12:31:17.348089,MLB Regular Season Props - MLB 2022 Regular Season Props - Oakland Athletics Regular Season Win Total,Over 69.5,-0.022600000000000064,0.5122,0.5348
+2022-04-05 12:31:15.006561,MLB Regular Season Props - MLB 2022 Regular Season Player Props - Houston Astros - Justin Verlander Total Wins,Under 10.5,-0.022600000000000064,0.5122,0.5348
 2022-04-05 09:31:00.024911,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Sampdoria,-0.02310000000000001,0.0769,0.1
+2022-04-05 12:31:17.506865,MLB Regular Season Props - MLB 2022 Regular Season Props - Washington Nationals Regular Season Win Total,Over 71.5,-0.024399999999999977,0.4878,0.5122
+2022-04-05 12:31:17.696236,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,-0.02679999999999999,0.2857,0.3125
 2022-04-05 11:31:32.755613,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,Giannis Antetokounmpo,-0.02779999999999999,0.2222,0.25
 2022-04-05 09:31:00.638006,Allsvenskan - Swedish Allsvenskan 2022 - Outright,IF Elfsborg,-0.029299999999999993,0.0476,0.0769
+2022-04-05 12:31:17.769842,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,L.A. Clippers,-0.03180000000000005,0.8571,0.8889
 2022-04-05 09:31:00.514119,Superligaen - Denmark Superligaen 2021/22 - Outright,FC Copenhagen,-0.03410000000000002,0.875,0.9091
 2022-04-05 11:31:32.894695,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,-0.03479999999999994,0.5652,0.6
+2022-04-05 12:31:17.318737,MLB Regular Season Props - MLB 2022 Regular Season Props - New York Mets To Make The Playoffs,Yes,-0.035699999999999954,0.7143,0.75
 2022-04-05 11:31:32.755613,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,Joel Embiid,-0.03570000000000001,0.25,0.2857
 2022-04-05 06:31:04.461695,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,-0.03639999999999999,0.6,0.6364
 2022-04-05 01:31:01.893379,Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,-0.03640000000000004,0.3636,0.4
