@@ -1,10 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-05 18:30:55.954238,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,Giannis Antetokounmpo,0.11109999999999998,0.3333,0.2222
-2022-04-05 11:31:32.755613,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,LeBron James,0.05449999999999999,0.6,0.5455
 2022-04-05 13:30:56.599582,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Washington Commanders,Over 7.5,0.043399999999999994,0.5556,0.5122
-2022-04-05 11:31:32.894695,NBA Futures - 2022 NBA Northwest Division - Division Winner,Denver Nuggets,0.04139999999999999,0.4762,0.4348
 2022-04-05 18:30:55.954238,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,Kevin Durant,0.04040000000000002,0.2222,0.1818
 2022-04-05 12:31:17.318737,MLB Regular Season Props - MLB 2022 Regular Season Props - New York Mets To Make The Playoffs,No,0.03710000000000002,0.3704,0.3333
+2022-04-06 00:31:05.669440,League One - England League One 2021/22 - Outright,Wigan Athletic,0.03639999999999999,0.6364,0.6
 2022-04-05 12:31:13.914000,MLB Futures - MLB 2022 American League Central - Outright,Detroit Tigers,0.036199999999999996,0.1538,0.1176
 2022-04-05 18:30:55.954238,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,Joel Embiid,0.03570000000000001,0.2857,0.25
 2022-04-05 12:31:17.717878,NBA Season Props - 2021/22 NBA Awards - 2022 The Rookie of the Year,Evan Mobley,0.035699999999999954,0.75,0.7143
@@ -13,25 +12,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-05 13:30:56.519760,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Indianapolis Colts,Over 9.5,0.028900000000000037,0.5744,0.5455
 2022-04-05 20:31:08.882428,NFL Specials - Hard Knocks 2022 - Will Dan Campbell be shown in the weight room lifting weights in Episode 1 - Outright,Yes,0.02779999999999999,0.25,0.2222
 2022-04-05 19:30:59.273645,MLB Regular Season Props - MLB 2022 Regular Season Props - Oakland Athletics Regular Season Win Total,Under 69.5,0.027700000000000058,0.5833,0.5556
-2022-04-05 11:31:32.866046,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.02679999999999999,0.3125,0.2857
+2022-04-06 00:31:05.685956,League Two - England League Two 2021/22 - Outright,Forest Green Rovers,0.024500000000000077,0.9412,0.9167
 2022-04-05 13:30:56.497184,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Dallas Cowboys,Over 10.5,0.023800000000000043,0.5238,0.5
 2022-04-05 13:30:56.564171,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Philadelphia Eagles,Over 8.5,0.022600000000000064,0.5348,0.5122
 2022-04-05 12:31:17.696236,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,0.022199999999999998,0.8,0.7778
 2022-04-05 15:30:45.358984,Boxing Lines - Erickson Lubin vs Sebastian Fundora - To Win the Bout,Erickson Lubin,0.02190000000000003,0.5833,0.5614
 2022-04-05 19:30:59.206150,MLB Regular Season Props - MLB 2022 Regular Season Props - Minnesota Twins Regular Season Win Total,Over 81.5,0.02169999999999994,0.5455,0.5238
 2022-04-05 12:31:17.348089,MLB Regular Season Props - MLB 2022 Regular Season Props - Oakland Athletics Regular Season Win Total,Under 69.5,0.02079999999999993,0.5556,0.5348
+2022-04-05 19:30:59.361244,MLB Regular Season Props - MLB 2022 Regular Season Props - San Francisco Giants Regular Season Win Total,Over 85.5,0.02079999999999993,0.5556,0.5348
 2022-04-05 12:31:15.006561,MLB Regular Season Props - MLB 2022 Regular Season Player Props - Houston Astros - Justin Verlander Total Wins,Over 10.5,0.02079999999999993,0.5556,0.5348
 2022-04-05 19:30:58.861094,MLB Regular Season Props - MLB 2022 Regular Season Props - Atlanta Braves Regular Season Win Total,Over 90.5,0.02079999999999993,0.5556,0.5348
-2022-04-05 19:30:59.361244,MLB Regular Season Props - MLB 2022 Regular Season Props - San Francisco Giants Regular Season Win Total,Over 85.5,0.02079999999999993,0.5556,0.5348
 2022-04-05 13:30:56.470319,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Atlanta Falcons,Under 5,0.02079999999999993,0.5556,0.5348
 2022-04-05 13:30:56.506353,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Detroit Lions,Over 6,0.01970000000000005,0.5652,0.5455
-2022-04-05 12:31:13.963580,MLB Futures - MLB 2022 National League Central - Outright,Milwaukee Brewers,0.01880000000000004,0.6552,0.6364
 2022-04-05 19:30:59.481258,MLB Regular Season Props - MLB 2022 Regular Season Props - Toronto Blue Jays Regular Season Win Total,Over 92.5,0.01880000000000004,0.5744,0.5556
-2022-04-05 12:31:17.506865,MLB Regular Season Props - MLB 2022 Regular Season Props - Washington Nationals Regular Season Win Total,Under 71.5,0.01880000000000004,0.5744,0.5556
 2022-04-05 13:30:56.492682,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Cincinnati Bengals,Under 10,0.01880000000000004,0.5744,0.5556
+2022-04-05 12:31:13.963580,MLB Futures - MLB 2022 National League Central - Outright,Milwaukee Brewers,0.01880000000000004,0.6552,0.6364
+2022-04-05 12:31:17.506865,MLB Regular Season Props - MLB 2022 Regular Season Props - Washington Nationals Regular Season Win Total,Under 71.5,0.01880000000000004,0.5744,0.5556
 2022-04-05 12:31:13.994330,MLB Futures - MLB 2022 National League West - Outright,Los Angeles Dodgers,0.017300000000000093,0.7143,0.697
 2022-04-05 12:31:17.791885,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.015100000000000002,0.1818,0.1667
-2022-04-05 11:31:32.873835,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,0.013999999999999999,0.0909,0.0769
 2022-04-05 12:31:17.696236,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Giannis Antetokounmpo,0.012899999999999995,0.1667,0.1538
 2022-04-05 21:31:01.252362,Champions League - UEFA Champions League 2021/2022 - Outright,Manchester City,0.012699999999999989,0.3636,0.3509
 2022-04-05 13:30:56.524257,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Jacksonville Jaguars,Over 6.5,0.012199999999999989,0.5122,0.5
@@ -39,30 +37,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-05 19:30:52.018454,Boxing Lines - Manuer A Matet vs Harrison Garside - To Win the Bout,Harrison Garside,0.011199999999999988,0.9524,0.9412
 2022-04-05 13:30:56.488076,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Chicago Bears,Over 7,0.011099999999999999,0.4762,0.4651
 2022-04-05 13:30:56.559729,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Jets,Over 5.5,0.010699999999999932,0.5455,0.5348
-2022-04-05 11:31:32.873835,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.010599999999999998,0.4651,0.4545
 2022-04-05 13:30:56.515209,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Houston Texans,Under 4.5,0.010099999999999998,0.5556,0.5455
-2022-04-05 11:31:32.880958,NBA Futures - 2022 NBA Atlantic Division - Division Winner,Philadelphia 76ers,0.010099999999999998,0.4545,0.4444
 2022-04-05 20:31:08.330156,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win 2023 NCAA DI Men's Basketball Tournament,Gonzaga,-0.0102,0.0667,0.0769
 2022-04-05 13:30:56.559729,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Jets,Under 5.5,-0.01100000000000001,0.5238,0.5348
 2022-04-05 20:31:08.330156,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win 2023 NCAA DI Men's Basketball Tournament,Duke,-0.011099999999999999,0.1,0.1111
-2022-04-05 11:31:32.873835,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Los Angeles Clippers,-0.011199999999999995,0.0476,0.0588
 2022-04-05 13:30:56.515209,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Houston Texans,Over 4.5,-0.011600000000000055,0.5122,0.5238
 2022-04-05 12:31:13.914000,MLB Futures - MLB 2022 American League Central - Outright,Cleveland Guardians,-0.011899999999999994,0.0714,0.0833
 2022-04-05 13:30:56.474858,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Baltimore Ravens,Under 9.5,-0.012199999999999989,0.4878,0.5
 2022-04-05 12:31:13.994330,MLB Futures - MLB 2022 National League West - Outright,San Francisco Giants,-0.012899999999999995,0.1538,0.1667
 2022-04-05 12:31:17.791885,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.012899999999999995,0.1538,0.1667
-2022-04-05 11:31:32.866046,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.0131,0.2222,0.2353
-2022-04-05 11:31:32.866046,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.015100000000000002,0.1667,0.1818
 2022-04-05 12:31:17.769842,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,Los Angeles Lakers,-0.015300000000000001,0.0323,0.0476
-2022-04-05 11:31:32.873835,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.01820000000000002,0.1818,0.2
 2022-04-05 13:30:56.497184,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Dallas Cowboys,Under 10.5,-0.01970000000000005,0.5455,0.5652
 2022-04-05 13:30:56.564171,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Philadelphia Eagles,Under 8.5,-0.02079999999999993,0.5348,0.5556
 2022-04-05 19:30:59.206150,MLB Regular Season Props - MLB 2022 Regular Season Props - Minnesota Twins Regular Season Win Total,Under 81.5,-0.02169999999999994,0.5238,0.5455
-2022-04-05 19:30:58.861094,MLB Regular Season Props - MLB 2022 Regular Season Props - Atlanta Braves Regular Season Win Total,Under 90.5,-0.022600000000000064,0.5122,0.5348
+2022-04-05 13:30:56.470319,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Atlanta Falcons,Over 5,-0.022600000000000064,0.5122,0.5348
+2022-04-05 12:31:15.006561,MLB Regular Season Props - MLB 2022 Regular Season Player Props - Houston Astros - Justin Verlander Total Wins,Under 10.5,-0.022600000000000064,0.5122,0.5348
 2022-04-05 12:31:17.348089,MLB Regular Season Props - MLB 2022 Regular Season Props - Oakland Athletics Regular Season Win Total,Over 69.5,-0.022600000000000064,0.5122,0.5348
 2022-04-05 19:30:59.361244,MLB Regular Season Props - MLB 2022 Regular Season Props - San Francisco Giants Regular Season Win Total,Under 85.5,-0.022600000000000064,0.5122,0.5348
-2022-04-05 12:31:15.006561,MLB Regular Season Props - MLB 2022 Regular Season Player Props - Houston Astros - Justin Verlander Total Wins,Under 10.5,-0.022600000000000064,0.5122,0.5348
-2022-04-05 13:30:56.470319,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Atlanta Falcons,Over 5,-0.022600000000000064,0.5122,0.5348
+2022-04-05 19:30:58.861094,MLB Regular Season Props - MLB 2022 Regular Season Props - Atlanta Braves Regular Season Win Total,Under 90.5,-0.022600000000000064,0.5122,0.5348
 2022-04-05 20:31:08.882428,NFL Specials - Hard Knocks 2022 - Will Dan Campbell be shown in the weight room lifting weights in Episode 1 - Outright,No,-0.023799999999999932,0.8333,0.8571
 2022-04-05 15:30:45.358984,Boxing Lines - Erickson Lubin vs Sebastian Fundora - To Win the Bout,Sebastian Fundora,-0.023799999999999988,0.4762,0.5
 2022-04-05 13:30:56.506353,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Detroit Lions,Under 6,-0.023800000000000043,0.5,0.5238
@@ -71,14 +63,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-05 13:30:56.492682,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Cincinnati Bengals,Over 10,-0.024399999999999977,0.4878,0.5122
 2022-04-05 12:31:17.696236,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,-0.02679999999999999,0.2857,0.3125
 2022-04-05 21:31:01.252362,Champions League - UEFA Champions League 2021/2022 - Outright,Bayern Munich,-0.02779999999999999,0.2222,0.25
-2022-04-05 11:31:32.755613,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,Giannis Antetokounmpo,-0.02779999999999999,0.2222,0.25
 2022-04-05 13:30:56.528655,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Las Vegas Raiders,Over 8.5,-0.030399999999999983,0.5348,0.5652
 2022-04-05 12:31:17.769842,NBA Season Props - 2021/22 NBA Playoff Props - To Make the Playoffs,L.A. Clippers,-0.03180000000000005,0.8571,0.8889
-2022-04-05 11:31:32.894695,NBA Futures - 2022 NBA Northwest Division - Division Winner,Utah Jazz,-0.03479999999999994,0.5652,0.6
 2022-04-05 12:31:17.318737,MLB Regular Season Props - MLB 2022 Regular Season Props - New York Mets To Make The Playoffs,Yes,-0.035699999999999954,0.7143,0.75
-2022-04-05 11:31:32.755613,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,Joel Embiid,-0.03570000000000001,0.25,0.2857
 2022-04-05 19:30:59.273645,MLB Regular Season Props - MLB 2022 Regular Season Props - Oakland Athletics Regular Season Win Total,Over 69.5,-0.035999999999999976,0.4762,0.5122
 2022-04-05 13:30:56.519760,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Indianapolis Colts,Under 9.5,-0.03600000000000003,0.4878,0.5238
 2022-04-05 13:31:00.077985,MLB Regular Season Props - MLB 2022 Regular Season Props - Los Angeles Angels Regular To make The Playoffs,No,-0.03709999999999991,0.6296,0.6667
+2022-04-06 00:31:05.669440,League One - England League One 2021/22 - Outright,Rotherham Utd,-0.04089999999999999,0.3846,0.4255
 2022-04-05 13:30:56.599582,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Washington Commanders,Under 7.5,-0.043399999999999994,0.5122,0.5556
 2022-04-05 18:30:55.954238,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,LeBron James,-0.05449999999999999,0.5455,0.6
+2022-04-06 00:31:04.145020,Professional Baseball - NPB 2022 - Outright,Tokyo Yakult Swallows,-0.05550000000000002,0.1667,0.2222
+2022-04-06 00:31:04.145020,Professional Baseball - NPB 2022 - Outright,Orix Buffaloes,-0.07579999999999999,0.0909,0.1667
