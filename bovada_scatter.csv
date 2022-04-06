@@ -6,10 +6,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-05 20:31:08.882428,NFL Specials - Hard Knocks 2022 - Will Dan Campbell be shown in the weight room lifting weights in Episode 1 - Outright,Yes,0.02779999999999999,0.25,0.2222
 2022-04-05 19:30:59.273645,MLB Regular Season Props - MLB 2022 Regular Season Props - Oakland Athletics Regular Season Win Total,Under 69.5,0.027700000000000058,0.5833,0.5556
 2022-04-06 00:31:05.685956,League Two - England League Two 2021/22 - Outright,Forest Green Rovers,0.024500000000000077,0.9412,0.9167
-2022-04-05 15:30:45.358984,Boxing Lines - Erickson Lubin vs Sebastian Fundora - To Win the Bout,Erickson Lubin,0.02190000000000003,0.5833,0.5614
+2022-04-06 03:32:00.638989,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,0.021999999999999964,0.3077,0.2857
 2022-04-05 19:30:59.206150,MLB Regular Season Props - MLB 2022 Regular Season Props - Minnesota Twins Regular Season Win Total,Over 81.5,0.02169999999999994,0.5455,0.5238
-2022-04-05 19:30:58.861094,MLB Regular Season Props - MLB 2022 Regular Season Props - Atlanta Braves Regular Season Win Total,Over 90.5,0.02079999999999993,0.5556,0.5348
 2022-04-05 19:30:59.361244,MLB Regular Season Props - MLB 2022 Regular Season Props - San Francisco Giants Regular Season Win Total,Over 85.5,0.02079999999999993,0.5556,0.5348
+2022-04-05 19:30:58.861094,MLB Regular Season Props - MLB 2022 Regular Season Props - Atlanta Braves Regular Season Win Total,Over 90.5,0.02079999999999993,0.5556,0.5348
 2022-04-05 19:30:59.481258,MLB Regular Season Props - MLB 2022 Regular Season Props - Toronto Blue Jays Regular Season Win Total,Over 92.5,0.01880000000000004,0.5744,0.5556
 2022-04-05 21:31:01.252362,Champions League - UEFA Champions League 2021/2022 - Outright,Manchester City,0.012699999999999989,0.3636,0.3509
 2022-04-05 19:30:52.018454,Boxing Lines - Manuer A Matet vs Harrison Garside - To Win the Bout,Harrison Garside,0.011199999999999988,0.9524,0.9412
@@ -19,9 +19,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-05 19:30:59.361244,MLB Regular Season Props - MLB 2022 Regular Season Props - San Francisco Giants Regular Season Win Total,Under 85.5,-0.022600000000000064,0.5122,0.5348
 2022-04-05 19:30:58.861094,MLB Regular Season Props - MLB 2022 Regular Season Props - Atlanta Braves Regular Season Win Total,Under 90.5,-0.022600000000000064,0.5122,0.5348
 2022-04-05 20:31:08.882428,NFL Specials - Hard Knocks 2022 - Will Dan Campbell be shown in the weight room lifting weights in Episode 1 - Outright,No,-0.023799999999999932,0.8333,0.8571
-2022-04-05 15:30:45.358984,Boxing Lines - Erickson Lubin vs Sebastian Fundora - To Win the Bout,Sebastian Fundora,-0.023799999999999988,0.4762,0.5
 2022-04-05 19:30:59.481258,MLB Regular Season Props - MLB 2022 Regular Season Props - Toronto Blue Jays Regular Season Win Total,Under 92.5,-0.024399999999999977,0.4878,0.5122
 2022-04-05 21:31:01.252362,Champions League - UEFA Champions League 2021/2022 - Outright,Bayern Munich,-0.02779999999999999,0.2222,0.25
+2022-04-06 03:32:00.638989,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,-0.0353,0.7647,0.8
 2022-04-05 19:30:59.273645,MLB Regular Season Props - MLB 2022 Regular Season Props - Oakland Athletics Regular Season Win Total,Over 69.5,-0.035999999999999976,0.4762,0.5122
 2022-04-06 00:31:05.669440,League One - England League One 2021/22 - Outright,Rotherham Utd,-0.04089999999999999,0.3846,0.4255
 2022-04-05 18:30:55.954238,NBA Season Props - 2021/22 NBA Regular Season Player Futures - 2022 Points/Game Leader,LeBron James,-0.05449999999999999,0.5455,0.6
