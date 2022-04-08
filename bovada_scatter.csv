@@ -1,8 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-04-08 20:48:35.405573,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,C. Holmgren,0.22749999999999992,0.8571,0.6296
 2022-04-08 16:40:36.875749,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,C. Holmgren,0.22749999999999992,0.8571,0.6296
 2022-04-08 17:30:43.545400,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,C. Holmgren,0.22749999999999992,0.8571,0.6296
 2022-04-08 18:30:49.807214,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,C. Holmgren,0.22749999999999992,0.8571,0.6296
+2022-04-08 20:48:35.405573,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,C. Holmgren,0.22749999999999992,0.8571,0.6296
+2022-04-08 23:30:39.287882,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,C. Holmgren,0.22749999999999992,0.8571,0.6296
 2022-04-08 16:40:37.078127,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Karim Benzema,0.22690000000000002,0.2857,0.0588
 2022-04-08 20:48:35.558221,France Politics - Next French President - Outright,Marine Le Pen,0.22690000000000002,0.2857,0.0588
 2022-04-08 16:40:37.381258,League Two - England League Two 2021/22 - Top 3 Finish,Port Vale,0.21610000000000007,0.5238,0.3077
@@ -11,18 +12,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-08 16:40:37.578901,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Burnley,0.17979999999999996,0.5798,0.4
 2022-04-08 16:40:37.367922,League Two - England League Two 2021/22 - To Be Promoted,Port Vale,0.1754,0.6198,0.4444
 2022-04-08 16:40:37.353488,League One - England League One 2021/22 - Top 6 Finish,Wycombe,0.17290000000000005,0.5238,0.3509
+2022-04-08 23:30:39.274284,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Smith,0.14480000000000004,0.8948,0.75
 2022-04-08 16:40:36.860968,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Smith,0.14480000000000004,0.8948,0.75
-2022-04-08 17:30:43.529932,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Smith,0.14480000000000004,0.8948,0.75
-2022-04-08 18:30:49.790531,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Smith,0.14480000000000004,0.8948,0.75
 2022-04-08 20:48:35.392184,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Smith,0.14480000000000004,0.8948,0.75
+2022-04-08 18:30:49.790531,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Smith,0.14480000000000004,0.8948,0.75
+2022-04-08 17:30:43.529932,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Smith,0.14480000000000004,0.8948,0.75
 2022-04-08 16:40:37.083059,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Real Madrid,0.12589999999999998,0.3077,0.1818
 2022-04-08 16:40:37.387518,League Two - England League Two 2021/22 - Top 7 Finish,Port Vale,0.11909999999999998,0.9524,0.8333
 2022-04-08 16:40:37.227633,England Championship - England Championship 21/22 - Top 6 Finish,Nottingham Forest,0.119,0.8333,0.7143
 2022-04-08 16:40:37.227633,England Championship - England Championship 21/22 - Top 6 Finish,Sheffield United,0.11360000000000003,0.75,0.6364
-2022-04-08 16:40:36.869324,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,P. Banchero,0.10150000000000003,0.4348,0.3333
-2022-04-08 17:30:43.537692,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,P. Banchero,0.10150000000000003,0.4348,0.3333
 2022-04-08 20:48:35.398933,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,P. Banchero,0.10150000000000003,0.4348,0.3333
 2022-04-08 18:30:49.799137,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,P. Banchero,0.10150000000000003,0.4348,0.3333
+2022-04-08 23:30:39.281034,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,P. Banchero,0.10150000000000003,0.4348,0.3333
+2022-04-08 17:30:43.537692,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,P. Banchero,0.10150000000000003,0.4348,0.3333
+2022-04-08 16:40:36.869324,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,P. Banchero,0.10150000000000003,0.4348,0.3333
 2022-04-08 16:40:37.343134,League One - England League One 2021/22 - To Be Relegated,Gillingham,0.09999999999999998,0.6,0.5
 2022-04-08 16:40:37.266304,Serie B - Italy Serie B 2021/22 - Outright,Lecce,0.09350000000000003,0.4444,0.3509
 2022-04-08 16:40:37.332656,League One - England League One 2021/22 - Top Goalscorer,Will Keane (Wigan),0.0849,0.2667,0.1818
@@ -44,10 +47,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-08 16:40:36.993447,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,RB Leipzig,0.04169999999999996,0.875,0.8333
 2022-04-08 16:40:37.353488,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,0.04169999999999996,0.875,0.8333
 2022-04-08 16:40:37.337844,League One - England League One 2021/22 - To Be Promoted,Wigan Athletic,0.041200000000000014,0.9412,0.9
-2022-04-08 18:30:49.807214,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Ivey,0.04040000000000002,0.2222,0.1818
+2022-04-08 23:30:39.673531,BKFC 23 - Mike Richman vs David Rickels - To Win the Bout,Mike Richman,0.040999999999999925,0.7333,0.6923
 2022-04-08 20:48:35.405573,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Ivey,0.04040000000000002,0.2222,0.1818
-2022-04-08 16:40:36.875749,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Ivey,0.04040000000000002,0.2222,0.1818
+2022-04-08 18:30:49.807214,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Ivey,0.04040000000000002,0.2222,0.1818
+2022-04-08 23:30:39.287882,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Ivey,0.04040000000000002,0.2222,0.1818
 2022-04-08 17:30:43.545400,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Ivey,0.04040000000000002,0.2222,0.1818
+2022-04-08 16:40:36.875749,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Ivey,0.04040000000000002,0.2222,0.1818
 2022-04-08 16:40:37.101687,Europa League - UEFA Europa League 2021/22 - Outright,Atalanta,0.03889999999999999,0.1818,0.1429
 2022-04-08 16:40:37.212012,England Championship - England Championship 21/22 - Outright,Fulham,0.037699999999999956,0.9901,0.9524
 2022-04-08 16:40:35.694985,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Jameson Williams,0.037599999999999995,0.1429,0.1053
@@ -60,9 +65,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-08 20:48:34.578582,BKFC 23 - Shawn Moffett vs Antonio Soto III - To Win the Bout,Antonio Soto III,0.03379999999999994,0.6416,0.6078
 2022-04-08 16:40:36.850401,NBA Specials - 2022 NBA Draft - Player to be selected 1st Overall - Outright,Chet Holmgren,0.03260000000000002,0.3774,0.3448
 2022-04-08 16:40:37.083059,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Villarreal,0.0321,0.0909,0.0588
-2022-04-08 16:40:35.335553,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Tom Hardy,0.031799999999999995,0.1429,0.1111
-2022-04-08 16:40:35.224599,BKFC 23 - Nick Villar vs Edmund Santos - To Win the Bout,Edmund Santos,0.031799999999999995,0.4762,0.4444
 2022-04-08 16:40:37.109953,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Feyenoord,0.031799999999999995,0.1429,0.1111
+2022-04-08 16:40:35.224599,BKFC 23 - Nick Villar vs Edmund Santos - To Win the Bout,Edmund Santos,0.031799999999999995,0.4762,0.4444
+2022-04-08 16:40:35.335553,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Tom Hardy,0.031799999999999995,0.1429,0.1111
 2022-04-08 16:40:37.337844,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,0.03179999999999994,0.5556,0.5238
 2022-04-08 16:40:35.178294,BKFC 23 - Marciano Hernandez vs Jerald Gregori - To Win the Bout,Marciano Hernandez,0.030299999999999994,0.9091,0.8788
 2022-04-08 16:40:37.094186,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,Spain,0.027999999999999997,0.1818,0.1538
@@ -77,20 +82,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-08 16:40:37.083059,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Manchester City,0.022600000000000064,0.6226,0.6
 2022-04-08 17:30:43.365882,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,0.022199999999999998,0.8,0.7778
 2022-04-08 16:40:35.200922,BKFC 23 - Jonathan Martinez vs Chancey Wilson - To Win the Bout,Chancey Wilson,0.02079999999999993,0.5556,0.5348
-2022-04-08 16:40:35.054644,Boxing Lines - Giovanni Santillan vs Jeovanis Barraza - To Win the Bout,Giovanni Santillan,0.01969999999999994,0.9852,0.9655
 2022-04-08 16:40:35.090110,Boxing Lines - Mikaela Mayer vs Jennifer Han - To Win the Bout,Mikaela Mayer,0.01969999999999994,0.9852,0.9655
+2022-04-08 16:40:35.054644,Boxing Lines - Giovanni Santillan vs Jeovanis Barraza - To Win the Bout,Giovanni Santillan,0.01969999999999994,0.9852,0.9655
 2022-04-08 16:40:35.113076,Boxing Lines - Errol Spence vs Yordenis Ugas - To Win the Bout,Errol Spence,0.018900000000000028,0.8403,0.8214
 2022-04-08 16:40:35.457424,TV Specials - Characters to appear in the Friday Night Lights reboot - Proposition,Landry Clarke,0.0189,0.0385,0.0196
-2022-04-08 16:40:36.787559,Euro Cup - Euro Cup 2021/22 - Winner,Partizan,0.01820000000000002,0.2,0.1818
 2022-04-08 16:40:37.578901,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Watford,0.01820000000000002,0.2,0.1818
+2022-04-08 16:40:36.787559,Euro Cup - Euro Cup 2021/22 - Winner,Partizan,0.01820000000000002,0.2,0.1818
 2022-04-08 16:40:37.117775,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,São Paulo,0.018200000000000004,0.0476,0.0294
+2022-04-08 16:40:36.987540,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,VfB Stuttgart,0.018100000000000005,0.3817,0.3636
 2022-04-08 16:40:35.017585,Boxing Lines - Dina Thorslund vs Niorkis Carreno - To Win the Bout,Dina Thorslund,0.018100000000000005,0.9655,0.9474
 2022-04-08 16:40:36.656465,MLB Regular Season Props - MLB 2022 Regular Season Props - Philadelphia Phillies To Make The Playoffs,No,0.018100000000000005,0.5833,0.5652
-2022-04-08 16:40:36.987540,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,VfB Stuttgart,0.018100000000000005,0.3817,0.3636
 2022-04-08 17:30:43.089169,Boxing Lines - Tony Harrison vs Sergio Garcia - To Win the Bout,Tony Harrison,0.01809999999999995,0.3571,0.339
 2022-04-08 16:40:37.072958,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,0.017600000000000005,0.3509,0.3333
 2022-04-08 20:48:34.539764,BKFC 23 - Jared Warren vs Isaac Doolittle - To Win the Bout,Jared Warren,0.01759999999999995,0.6667,0.6491
 2022-04-08 16:40:37.109953,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Marseille,0.0174,0.25,0.2326
+2022-04-08 23:30:39.487142,Boxing Lines - Marlen Esparza vs Naoko Fujioka - To Win the Bout,Naoko Fujioka,0.017299999999999982,0.303,0.2857
 2022-04-08 16:40:35.640535,CFL - Odds to win 109th (2022) Grey Cup - Outright,Winnipeg Blue Bombers,0.016699999999999993,0.2667,0.25
 2022-04-08 16:40:36.906328,NBA Specials - 2022 NBA Draft - Will Bennedict Mathurin Be Drafted in the Top 5 - Outright,No,0.016699999999999937,0.9167,0.9
 2022-04-08 16:40:37.327335,League One - England League One 2021/22 - Outright,Wigan Athletic,0.01640000000000008,0.6528,0.6364
@@ -101,8 +107,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-08 16:40:35.095954,Boxing Lines - Ryan Garcia vs Emmanuel Tagoe - To Win the Bout,Ryan Garcia,0.014100000000000001,0.9474,0.9333
 2022-04-08 16:40:35.048610,Boxing Lines - George Rincon vs Alejandro Rene Frias - To Win the Bout,George Rincon,0.014100000000000001,0.9474,0.9333
 2022-04-08 16:40:37.353488,League One - England League One 2021/22 - Top 6 Finish,Plymouth Argyle,0.013900000000000023,0.8889,0.875
-2022-04-08 16:40:36.731820,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,0.0131,0.7778,0.7647
 2022-04-08 16:40:35.072334,Boxing Lines - Marlen Esparza vs Naoko Fujioka - To Win the Bout,Marlen Esparza,0.0131,0.7778,0.7647
+2022-04-08 16:40:36.731820,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Nikola Jokic,0.0131,0.7778,0.7647
 2022-04-08 16:40:34.999418,Boxing Lines - Junto Nakatani vs Ryota Yamauchi - To Win the Bout,Junto Nakatani,0.0131,0.9655,0.9524
 2022-04-08 16:40:36.773069,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Memphis Grizzlies,0.012899999999999995,0.1667,0.1538
 2022-04-08 20:48:35.494389,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Democratic,0.012799999999999978,0.2985,0.2857
@@ -128,22 +134,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-08 16:40:35.640535,CFL - Odds to win 109th (2022) Grey Cup - Outright,Hamilton Tiger-Cats,-0.012899999999999995,0.1538,0.1667
 2022-04-08 16:40:36.993447,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Mainz,-0.013,0.0066,0.0196
 2022-04-08 16:40:37.217250,England Championship - England Championship 21/22 - To Be Promoted,Coventry City,-0.013,0.0066,0.0196
+2022-04-08 23:30:39.487142,Boxing Lines - Marlen Esparza vs Naoko Fujioka - To Win the Bout,Marlen Esparza,-0.0131,0.7647,0.7778
 2022-04-08 20:48:35.558221,France Politics - Next French President - Outright,Eric Zemmour,-0.0131,0.0345,0.0476
 2022-04-08 16:40:35.684008,NFL Specials - 2022 NFL Draft - Number 1 Overall Pick - Outright,Travon Walker,-0.0131,0.2222,0.2353
 2022-04-08 16:40:37.381258,League Two - England League Two 2021/22 - Top 3 Finish,Exeter City,-0.013900000000000023,0.875,0.8889
+2022-04-08 23:30:39.458878,Boxing Lines - Jason Moloney vs Francisco Pedroza - To Win the Bout,Francisco Pedroza,-0.013999999999999999,0.0769,0.0909
 2022-04-08 16:40:37.332656,League One - England League One 2021/22 - Top Goalscorer,Michael Smith (Rotherham),-0.013999999999999999,0.0769,0.0909
 2022-04-08 16:40:37.222424,England Championship - England Championship 21/22 - Top 2 Finish,Bournemouth,-0.014000000000000012,0.9091,0.9231
-2022-04-08 16:40:35.690045,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Desmond Ridder,-0.014100000000000001,0.0385,0.0526
 2022-04-08 16:40:35.690045,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Sam Howell,-0.014100000000000001,0.0385,0.0526
+2022-04-08 16:40:35.690045,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Desmond Ridder,-0.014100000000000001,0.0385,0.0526
 2022-04-08 16:40:35.090110,Boxing Lines - Mikaela Mayer vs Jennifer Han - To Win the Bout,Jennifer Han,-0.014399999999999996,0.0625,0.0769
-2022-04-08 16:40:37.222424,England Championship - England Championship 21/22 - Top 2 Finish,Luton Town,-0.014499999999999999,0.0149,0.0294
 2022-04-08 16:40:37.217250,England Championship - England Championship 21/22 - To Be Promoted,Queens Park Rangers,-0.014499999999999999,0.0149,0.0294
+2022-04-08 16:40:37.222424,England Championship - England Championship 21/22 - Top 2 Finish,Luton Town,-0.014499999999999999,0.0149,0.0294
 2022-04-08 16:40:36.993447,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,FC Köln,-0.0145,0.0099,0.0244
 2022-04-08 16:40:37.083059,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Benfica,-0.014599999999999998,0.005,0.0196
 2022-04-08 16:40:37.348263,League One - England League One 2021/22 - Top 2 Finish,Plymouth Argyle,-0.014900000000000004,0.0196,0.0345
 2022-04-08 16:40:36.993447,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Freiburg,-0.015100000000000002,0.1667,0.1818
+2022-04-08 20:48:35.494389,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Republican,-0.015199999999999991,0.7674,0.7826
 2022-04-08 16:40:37.348263,League One - England League One 2021/22 - Top 2 Finish,Milton Keynes Dons,-0.015400000000000025,0.3846,0.4
 2022-04-08 16:40:36.993447,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Eintracht Frankfurt,-0.0156,0.004,0.0196
+2022-04-08 23:30:39.437624,Boxing Lines - Andrew Moloney vs Gilberto Mendoza - To Win the Bout,Gilberto Mendoza,-0.016600000000000004,0.0667,0.0833
 2022-04-08 20:48:34.539764,BKFC 23 - Jared Warren vs Isaac Doolittle - To Win the Bout,Isaac Doolittle,-0.016699999999999993,0.4,0.4167
 2022-04-08 16:40:34.999418,Boxing Lines - Junto Nakatani vs Ryota Yamauchi - To Win the Bout,Ryota Yamauchi,-0.016700000000000007,0.0833,0.1
 2022-04-08 18:30:47.646761,BKFC 23 - Jessica Link vs Crystal Pittman - To Win the Bout,Jessica Link,-0.017299999999999982,0.5744,0.5917
@@ -158,16 +168,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-08 16:40:35.113076,Boxing Lines - Errol Spence vs Yordenis Ugas - To Win the Bout,Yordenis Ugas,-0.019600000000000006,0.2273,0.2469
 2022-04-08 16:40:37.353488,League One - England League One 2021/22 - Top 6 Finish,Sunderland,-0.020199999999999996,0.5798,0.6
 2022-04-08 16:40:36.811122,LKL - LKL 2021/22 - Outright,Zalgiris,-0.020199999999999996,0.8889,0.9091
-2022-04-08 16:40:37.266304,Serie B - Italy Serie B 2021/22 - Outright,Brescia,-0.0203,0.0385,0.0588
 2022-04-08 16:40:37.101687,Europa League - UEFA Europa League 2021/22 - Outright,Rangers,-0.0203,0.0385,0.0588
+2022-04-08 16:40:37.266304,Serie B - Italy Serie B 2021/22 - Outright,Brescia,-0.0203,0.0385,0.0588
 2022-04-08 16:40:35.054644,Boxing Lines - Giovanni Santillan vs Jeovanis Barraza - To Win the Bout,Jeovanis Barraza,-0.0208,0.0625,0.0833
 2022-04-08 17:30:43.365882,NBA Season Props - 2021/22 NBA Awards - 2022 Regular Season MVP,Joel Embiid,-0.021999999999999964,0.2857,0.3077
 2022-04-08 16:40:37.227633,England Championship - England Championship 21/22 - Top 6 Finish,Huddersfield Town,-0.02200000000000002,0.6923,0.7143
-2022-04-08 16:40:35.335553,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Rege-Jean Page,-0.022199999999999998,0.2,0.2222
-2022-04-08 16:40:37.367922,League Two - England League Two 2021/22 - To Be Promoted,Swindon Town,-0.022199999999999998,0.2,0.2222
-2022-04-08 16:40:37.552899,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,-0.022199999999999998,0.2,0.2222
 2022-04-08 16:40:37.072958,Champions League - UEFA Champions League 2021/2022 - Outright,Bayern Munich,-0.022199999999999998,0.2,0.2222
+2022-04-08 16:40:37.552899,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,-0.022199999999999998,0.2,0.2222
+2022-04-08 16:40:35.335553,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Rege-Jean Page,-0.022199999999999998,0.2,0.2222
 2022-04-08 16:40:37.101687,Europa League - UEFA Europa League 2021/22 - Outright,West Ham United,-0.022199999999999998,0.1111,0.1333
+2022-04-08 16:40:37.367922,League Two - England League Two 2021/22 - To Be Promoted,Swindon Town,-0.022199999999999998,0.2,0.2222
 2022-04-08 16:40:37.227633,England Championship - England Championship 21/22 - Top 6 Finish,Coventry City,-0.022200000000000004,0.0123,0.0345
 2022-04-08 16:40:35.200922,BKFC 23 - Jonathan Martinez vs Chancey Wilson - To Win the Bout,Jonathan Martinez,-0.022600000000000064,0.5122,0.5348
 2022-04-08 16:40:37.078127,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Mohamed Salah,-0.02310000000000001,0.0769,0.1
@@ -191,20 +201,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-08 16:40:37.227633,England Championship - England Championship 21/22 - Top 6 Finish,Middlesbrough,-0.035699999999999954,0.7143,0.75
 2022-04-08 16:40:35.690045,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Malik WIllis,-0.03709999999999991,0.6296,0.6667
 2022-04-08 16:40:37.348263,League One - England League One 2021/22 - Top 2 Finish,Rotherham Utd,-0.04039999999999999,0.7778,0.8182
-2022-04-08 16:40:36.860968,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Ivey,-0.04040000000000002,0.1818,0.2222
-2022-04-08 17:30:43.529932,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Ivey,-0.04040000000000002,0.1818,0.2222
-2022-04-08 18:30:49.790531,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Ivey,-0.04040000000000002,0.1818,0.2222
 2022-04-08 20:48:35.392184,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Ivey,-0.04040000000000002,0.1818,0.2222
+2022-04-08 23:30:39.274284,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Ivey,-0.04040000000000002,0.1818,0.2222
+2022-04-08 18:30:49.790531,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Ivey,-0.04040000000000002,0.1818,0.2222
+2022-04-08 17:30:43.529932,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Ivey,-0.04040000000000002,0.1818,0.2222
+2022-04-08 16:40:36.860968,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Ivey,-0.04040000000000002,0.1818,0.2222
 2022-04-08 16:40:37.266304,Serie B - Italy Serie B 2021/22 - Outright,Pisa,-0.04120000000000001,0.0588,0.1
 2022-04-08 16:40:35.335553,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Aiden Turner,-0.04169999999999999,0.125,0.1667
-2022-04-08 16:40:37.558174,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Burnley,-0.04329999999999999,0.0476,0.0909
 2022-04-08 16:40:37.381258,League Two - England League Two 2021/22 - Top 3 Finish,Salford City,-0.04329999999999999,0.0476,0.0909
+2022-04-08 16:40:37.558174,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Burnley,-0.04329999999999999,0.0476,0.0909
 2022-04-08 16:40:35.648345,NFL Specials - Where will DK Metcalf Play Game 1 of the 2022/2023 NFL Season? - Outright,Seattle Seahawks,-0.04489999999999994,0.661,0.7059
-2022-04-08 16:40:37.367922,League Two - England League Two 2021/22 - To Be Promoted,Salford City,-0.04620000000000002,0.1538,0.2
 2022-04-08 16:40:35.178294,BKFC 23 - Marciano Hernandez vs Jerald Gregori - To Win the Bout,Jerald Gregori,-0.04620000000000002,0.1538,0.2
+2022-04-08 16:40:37.367922,League Two - England League Two 2021/22 - To Be Promoted,Salford City,-0.04620000000000002,0.1538,0.2
+2022-04-08 23:30:39.673531,BKFC 23 - Mike Richman vs David Rickels - To Win the Bout,David Rickels,-0.0469,0.3333,0.3802
 2022-04-08 16:40:37.072958,Champions League - UEFA Champions League 2021/2022 - Outright,Chelsea,-0.0475,0.0294,0.0769
-2022-04-08 16:40:37.094186,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,Germany,-0.04999999999999999,0.2,0.25
 2022-04-08 16:40:37.109953,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Roma,-0.04999999999999999,0.2,0.25
+2022-04-08 16:40:37.094186,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,Germany,-0.04999999999999999,0.2,0.25
 2022-04-08 16:40:37.101687,Europa League - UEFA Europa League 2021/22 - Outright,RB Leipzig,-0.05080000000000001,0.1818,0.2326
 2022-04-08 16:40:37.227633,England Championship - England Championship 21/22 - Top 6 Finish,Queens Park Rangers,-0.052300000000000006,0.0588,0.1111
 2022-04-08 16:40:37.212012,England Championship - England Championship 21/22 - Outright,Bournemouth,-0.052399999999999995,0.0385,0.0909
@@ -221,25 +233,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-08 20:48:34.802165,TV Specials - Homelander Kill Count for Season 3 of The Boys on Amazon - Proposition,26-50,-0.10109999999999997,0.4444,0.5455
 2022-04-08 16:40:36.881915,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,P. Banchero,-0.10150000000000003,0.3333,0.4348
 2022-04-08 17:30:43.553124,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,P. Banchero,-0.10150000000000003,0.3333,0.4348
-2022-04-08 18:30:49.815082,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,P. Banchero,-0.10150000000000003,0.3333,0.4348
 2022-04-08 20:48:35.412195,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,P. Banchero,-0.10150000000000003,0.3333,0.4348
+2022-04-08 18:30:49.815082,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,P. Banchero,-0.10150000000000003,0.3333,0.4348
+2022-04-08 23:30:39.294876,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,P. Banchero,-0.10150000000000003,0.3333,0.4348
 2022-04-08 16:40:37.089056,Champions League - UEFA Champions League 2021/2022 - Furthest Progressing EPL Team,Chelsea,-0.10439999999999999,0.0385,0.1429
 2022-04-08 16:40:37.227633,England Championship - England Championship 21/22 - Top 6 Finish,Millwall,-0.1151,0.0667,0.1818
 2022-04-08 16:40:37.083059,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Chelsea,-0.123,0.0588,0.1818
 2022-04-08 16:40:37.387518,League Two - England League Two 2021/22 - Top 7 Finish,Salford City,-0.12380000000000002,0.4,0.5238
 2022-04-08 20:48:34.802165,TV Specials - Homelander Kill Count for Season 3 of The Boys on Amazon - Proposition,0-25,-0.13640000000000002,0.3636,0.5
-2022-04-08 20:48:35.412195,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Smith,-0.14480000000000004,0.75,0.8948
+2022-04-08 23:30:39.294876,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Smith,-0.14480000000000004,0.75,0.8948
 2022-04-08 16:40:36.881915,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Smith,-0.14480000000000004,0.75,0.8948
 2022-04-08 17:30:43.553124,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Smith,-0.14480000000000004,0.75,0.8948
 2022-04-08 18:30:49.815082,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Smith,-0.14480000000000004,0.75,0.8948
+2022-04-08 20:48:35.412195,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,J. Smith,-0.14480000000000004,0.75,0.8948
 2022-04-08 16:40:37.367922,League Two - England League Two 2021/22 - To Be Promoted,Newport County,-0.15389999999999998,0.1538,0.3077
 2022-04-08 20:48:35.558221,France Politics - Next French President - Outright,Emmanuel Macron,-0.1622,0.8182,0.9804
 2022-04-08 16:40:37.552899,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,-0.16669999999999996,0.5,0.6667
-2022-04-08 16:40:37.343134,League One - England League One 2021/22 - To Be Relegated,Morecambe,-0.2094999999999999,0.5238,0.7333
 2022-04-08 16:40:37.578901,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Everton,-0.2094999999999999,0.5238,0.7333
+2022-04-08 16:40:37.343134,League One - England League One 2021/22 - To Be Relegated,Morecambe,-0.2094999999999999,0.5238,0.7333
 2022-04-08 16:40:37.078127,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Robert Lewandowski,-0.21910000000000007,0.7333,0.9524
 2022-04-08 16:40:36.869324,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,C. Holmgren,-0.22749999999999992,0.6296,0.8571
 2022-04-08 17:30:43.537692,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,C. Holmgren,-0.22749999999999992,0.6296,0.8571
 2022-04-08 18:30:49.799137,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,C. Holmgren,-0.22749999999999992,0.6296,0.8571
 2022-04-08 20:48:35.398933,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,C. Holmgren,-0.22749999999999992,0.6296,0.8571
+2022-04-08 23:30:39.281034,NBA Specials - 2022 NBA Draft - Who will be Drafted first - Outright,C. Holmgren,-0.22749999999999992,0.6296,0.8571
 2022-04-08 16:40:37.353488,League One - England League One 2021/22 - Top 6 Finish,Oxford United,-0.2378,0.3077,0.5455
