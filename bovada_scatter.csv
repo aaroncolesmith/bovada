@@ -1,5 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-13 19:30:53.653033,Superhero TV Specials - Characters to appear in Season 1 of 'The Penguin' TV show on HBO Max - Proposition,Batman,0.07579999999999999,0.1667,0.0909
+2022-04-14 04:30:54.684663,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,0.06820000000000004,0.8182,0.75
 2022-04-13 22:30:50.168255,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,0.06820000000000004,0.8182,0.75
 2022-04-14 03:30:55.956518,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,0.06659999999999999,0.3333,0.2667
 2022-04-13 21:30:51.044075,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,0.06659999999999999,0.3333,0.2667
@@ -19,19 +20,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-13 17:32:45.517116,Boxing Lines - Isaac Cruz Gonzalez vs Yuriorkis Gamboa - To Win the Bout,Isaac Cruz Gonzalez,0.014100000000000001,0.9474,0.9333
 2022-04-13 21:30:50.455882,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Matt Corral,0.014100000000000001,0.0526,0.0385
 2022-04-13 16:33:06.480693,Boxing Lines - Jose Valenzuela vs Francisco Vargas - To Win the Bout,Jose Valenzuela,0.014000000000000012,0.9231,0.9091
-2022-04-13 19:30:53.458471,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Buffalo Bills,0.013899999999999996,0.125,0.1111
 2022-04-13 23:30:57.855612,Boxing Lines - Jarico O'Quinn vs Jobert Alvarez - To Win the Bout,Jobert Alvarez,0.013899999999999996,0.2222,0.2083
+2022-04-13 19:30:53.458471,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Buffalo Bills,0.013899999999999996,0.125,0.1111
 2022-04-13 19:30:53.925307,Boxing Lines - Vito Mielnicki Jr vs Dan Karpency - To Win the Bout,Vito Mielnicki Jr,0.0131,0.9655,0.9524
+2022-04-14 04:30:54.140066,Boxing Lines - Efetobor Apochi vs Adrian Taylor - To Win the Bout,Adrian Taylor,0.012899999999999995,0.1379,0.125
 2022-04-14 02:30:59.306746,Champions League - UEFA Champions League 2021/2022 - Outright,Real Madrid,0.012899999999999995,0.1667,0.1538
 2022-04-13 21:30:52.049263,Boxing Lines - Gavin Gwynne vs Luke Willis - To Win the Bout,Gavin Gwynne,0.012700000000000045,0.6491,0.6364
+2022-04-14 04:30:53.912723,Boxing Lines - Mike Balogun vs Sergio Ramirez - To Win the Bout,Sergio Ramirez,0.0102,0.0769,0.0667
 2022-04-14 03:30:56.737838,Boxing Lines - Radzhab Butaev vs Eimantas Stanionis - To Win the Bout,Eimantas Stanionis,0.010099999999999998,0.5556,0.5455
 2022-04-13 17:32:45.517116,Boxing Lines - Isaac Cruz Gonzalez vs Yuriorkis Gamboa - To Win the Bout,Yuriorkis Gamboa,-0.010099999999999998,0.1111,0.1212
 2022-04-13 22:30:51.649456,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,-0.010099999999999998,0.4444,0.4545
 2022-04-13 19:30:53.397829,NFL Specials - Who will be on the next Madden Cover? - Outright,Matthew Stafford,-0.0102,0.0667,0.0769
 2022-04-13 16:33:06.385287,Boxing Lines - Jason Cunningham vs terry le couviour - To Win the Bout,Terry Le Couviour,-0.010499999999999982,0.2,0.2105
 2022-04-13 16:33:06.035760,Boxing Lines - Gavin Gwynne vs Luke Willis - To Win the Bout,Luke Willis,-0.010599999999999998,0.4149,0.4255
-2022-04-13 23:30:57.838593,Boxing Lines - Sam Gilley vs Drew Brown - To Win the Bout,Drew Brown,-0.0116,0.2353,0.2469
 2022-04-14 02:30:58.556004,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.0116,0.4762,0.4878
+2022-04-13 23:30:57.838593,Boxing Lines - Sam Gilley vs Drew Brown - To Win the Bout,Drew Brown,-0.0116,0.2353,0.2469
 2022-04-14 03:30:56.737838,Boxing Lines - Radzhab Butaev vs Eimantas Stanionis - To Win the Bout,Radzhab Butaev,-0.011600000000000055,0.5122,0.5238
 2022-04-13 22:30:51.656611,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,Spain,-0.0131,0.2222,0.2353
 2022-04-13 16:33:09.238465,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.013899999999999996,0.2083,0.2222
@@ -42,6 +45,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-13 19:30:53.397829,NFL Specials - Who will be on the next Madden Cover? - Outright,Cooper Kupp,-0.022199999999999998,0.1111,0.1333
 2022-04-14 01:30:57.453184,Boxing Lines - Thomas Whittaker Hart vs Ben Ridings - To Win the Bout,Thomas Whittaker Hart,-0.0242,0.9091,0.9333
 2022-04-13 19:30:53.683442,TV Specials - Homelander Kill Count for Season 3 of The Boys on Amazon - Proposition,51-75,-0.027700000000000002,0.4167,0.4444
+2022-04-14 04:30:54.684663,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,-0.06659999999999999,0.2667,0.3333
 2022-04-13 22:30:50.168255,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,-0.06659999999999999,0.2667,0.3333
 2022-04-13 21:30:51.044075,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,-0.06820000000000004,0.75,0.8182
 2022-04-14 03:30:55.956518,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,-0.06820000000000004,0.75,0.8182
