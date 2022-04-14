@@ -5,11 +5,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-14 08:31:00.459425,Champions League - UEFA Champions League 2021/2022 - To Reach the Final,Liverpool,0.07499999999999996,0.875,0.8
 2022-04-14 04:30:54.684663,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,0.06820000000000004,0.8182,0.75
 2022-04-13 22:30:50.168255,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,0.06820000000000004,0.8182,0.75
-2022-04-13 21:30:51.044075,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,0.06659999999999999,0.3333,0.2667
 2022-04-14 03:30:55.956518,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,0.06659999999999999,0.3333,0.2667
+2022-04-13 21:30:51.044075,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,0.06659999999999999,0.3333,0.2667
 2022-04-13 22:30:51.649456,Champions League - UEFA Champions League 2021/2022 - Outright,Manchester City,0.044399999999999995,0.4444,0.4
-2022-04-14 05:30:53.602347,MLB Futures - MLB 2022 Player Awards - American League MVP,Vladimir Guerrero Jr,0.043800000000000006,0.2105,0.1667
 2022-04-14 07:30:54.064243,LKL - LKL 2021/22 - Outright,Rytas,0.043800000000000006,0.2105,0.1667
+2022-04-14 05:30:53.602347,MLB Futures - MLB 2022 Player Awards - American League MVP,Vladimir Guerrero Jr,0.043800000000000006,0.2105,0.1667
 2022-04-14 05:30:53.602347,MLB Futures - MLB 2022 Player Awards - American League MVP,Byron Buxton,0.04329999999999999,0.0909,0.0476
 2022-04-14 05:30:53.608864,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Matt Brash,0.0384,0.0769,0.0385
 2022-04-14 05:30:53.608864,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Josh Lowe,0.033,0.0526,0.0196
@@ -20,14 +20,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-14 07:30:53.333423,Boxing Lines - Efetobor Apochi vs Adrian Taylor - To Win the Bout,Adrian Taylor,0.022199999999999998,0.1333,0.1111
 2022-04-14 08:30:58.348727,Boxing Lines - Jarico O'Quinn vs Jobert Alvarez - To Win the Bout,Jarico O'Quinn,0.020500000000000074,0.8667,0.8462
 2022-04-14 01:30:57.453184,Boxing Lines - Thomas Whittaker Hart vs Ben Ridings - To Win the Bout,Ben Ridings,0.0203,0.1379,0.1176
+2022-04-14 09:30:41.035192,College Season Props - Odds to win 2022 Heisman Trophy - Outright,CJ Stroud,0.019000000000000017,0.2857,0.2667
 2022-04-14 07:30:53.956533,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,0.01820000000000002,0.2,0.1818
+2022-04-14 09:30:40.366193,Boxing Lines - Efetobor Apochi vs Adrian Taylor - To Win the Bout,Efetobor Apochi,0.018100000000000005,0.9412,0.9231
 2022-04-14 05:30:53.602347,MLB Futures - MLB 2022 Player Awards - American League MVP,Jose Ramirez,0.018099999999999998,0.0526,0.0345
 2022-04-14 05:30:53.278552,Boxing Lines - Gavin Gwynne vs Luke Willis - To Win the Bout,Gavin Gwynne,0.016900000000000026,0.6721,0.6552
 2022-04-14 05:30:53.608864,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Bobby Witt Jr,0.016699999999999993,0.2667,0.25
 2022-04-14 02:30:58.556004,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01539999999999997,0.5917,0.5763
+2022-04-14 09:30:40.229554,Boxing Lines - Jarico O'Quinn vs Jobert Alvarez - To Win the Bout,Jobert Alvarez,0.015100000000000002,0.2151,0.2
 2022-04-14 01:30:57.744655,Boxing Lines - Errol Spence vs Yordenis Ugas - To Win the Bout,Yordenis Ugas,0.014200000000000018,0.2247,0.2105
-2022-04-14 05:30:53.417745,Boxing Lines - Efetobor Apochi vs Adrian Taylor - To Win the Bout,Efetobor Apochi,0.014100000000000001,0.9474,0.9333
 2022-04-13 21:30:50.455882,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Matt Corral,0.014100000000000001,0.0526,0.0385
+2022-04-14 05:30:53.417745,Boxing Lines - Efetobor Apochi vs Adrian Taylor - To Win the Bout,Efetobor Apochi,0.014100000000000001,0.9474,0.9333
 2022-04-13 23:30:57.855612,Boxing Lines - Jarico O'Quinn vs Jobert Alvarez - To Win the Bout,Jobert Alvarez,0.013899999999999996,0.2222,0.2083
 2022-04-14 07:30:53.984947,Euro Cup - Euro Cup 2021/22 - Winner,Virtus Bologna,0.0131,0.2353,0.2222
 2022-04-14 02:30:59.306746,Champions League - UEFA Champions League 2021/2022 - Outright,Real Madrid,0.012899999999999995,0.1667,0.1538
@@ -48,17 +51,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-13 23:30:57.838593,Boxing Lines - Sam Gilley vs Drew Brown - To Win the Bout,Drew Brown,-0.0116,0.2353,0.2469
 2022-04-14 03:30:56.737838,Boxing Lines - Radzhab Butaev vs Eimantas Stanionis - To Win the Bout,Radzhab Butaev,-0.011600000000000055,0.5122,0.5238
 2022-04-14 05:30:53.323770,Boxing Lines - Luke Evans vs Miguel Cesario Antin - To Win the Bout,Miguel Cesario Antin,-0.011700000000000002,0.0909,0.1026
+2022-04-14 09:30:41.011944,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Georgia,-0.011700000000000016,0.2105,0.2222
 2022-04-14 05:30:53.602347,MLB Futures - MLB 2022 Player Awards - American League MVP,Mike Trout,-0.012899999999999995,0.1538,0.1667
 2022-04-14 07:30:53.956533,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.012899999999999995,0.1538,0.1667
 2022-04-13 22:30:51.656611,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,Spain,-0.0131,0.2222,0.2353
+2022-04-14 09:30:40.781865,France Politics - Next French President - Outright,Emmanuel Macron,-0.013900000000000023,0.875,0.8889
 2022-04-14 05:30:53.602347,MLB Futures - MLB 2022 Player Awards - American League MVP,Corey Seager,-0.014900000000000004,0.0196,0.0345
 2022-04-14 08:30:58.348727,Boxing Lines - Jarico O'Quinn vs Jobert Alvarez - To Win the Bout,Jobert Alvarez,-0.015100000000000002,0.2,0.2151
 2022-04-14 07:30:53.973952,Euroleague - Euroleague 2021/22 - Winner,Anadolu Efes,-0.015100000000000002,0.1667,0.1818
 2022-04-14 05:30:53.608864,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Grayson Rodriguez,-0.015499999999999998,0.0123,0.0278
 2022-04-14 07:30:53.973952,Euroleague - Euroleague 2021/22 - Winner,Barcelona,-0.016699999999999993,0.4,0.4167
 2022-04-14 05:30:53.616045,MLB Futures - MLB 2022 Player Awards - National League MVP ,Ronald Acuna Jr..,-0.01759999999999999,0.1,0.1176
-2022-04-14 07:30:54.064243,LKL - LKL 2021/22 - Outright,Panevezio Lietkabelis,-0.018099999999999998,0.0588,0.0769
 2022-04-14 05:30:53.616045,MLB Futures - MLB 2022 Player Awards - National League MVP ,Freddie Freeman,-0.018099999999999998,0.0588,0.0769
+2022-04-14 07:30:54.064243,LKL - LKL 2021/22 - Outright,Panevezio Lietkabelis,-0.018099999999999998,0.0588,0.0769
 2022-04-14 05:30:53.616045,MLB Futures - MLB 2022 Player Awards - National League MVP ,Fernando Tatís Jr.,-0.018099999999999998,0.0345,0.0526
 2022-04-14 08:31:00.567759,A-League - Australia A-League 2021/2022 - Grand Final Winner,Western United,-0.01820000000000002,0.1818,0.2
 2022-04-14 05:30:53.608864,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Reid Detmers,-0.0189,0.0196,0.0385
@@ -68,6 +73,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-14 05:30:53.608864,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Luis Gil,-0.020000000000000004,0.0123,0.0323
 2022-04-14 08:31:00.567759,A-League - Australia A-League 2021/2022 - Grand Final Winner,Adelaide United,-0.02020000000000001,0.0909,0.1111
 2022-04-14 08:31:00.449995,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Mohamed Salah,-0.0203,0.0385,0.0588
+2022-04-14 09:30:40.229554,Boxing Lines - Jarico O'Quinn vs Jobert Alvarez - To Win the Bout,Jarico O'Quinn,-0.020500000000000074,0.8462,0.8667
 2022-04-14 07:30:54.064243,LKL - LKL 2021/22 - Outright,Zalgiris,-0.022199999999999998,0.8667,0.8889
 2022-04-14 07:30:53.860865,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Alek Thomas,-0.023200000000000002,0.0244,0.0476
 2022-04-14 05:30:53.608864,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,M. J. Melendez,-0.0236,0.0149,0.0385
@@ -78,6 +84,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-14 05:30:53.602347,MLB Futures - MLB 2022 Player Awards - American League MVP,Shohei Ohtani,-0.024800000000000016,0.2105,0.2353
 2022-04-14 05:30:53.616045,MLB Futures - MLB 2022 Player Awards - National League MVP ,Juan Soto,-0.024800000000000016,0.2105,0.2353
 2022-04-14 08:31:00.626413,Superligaen - Denmark Superligaen 2021/22 - Outright,Brøndby IF,-0.0253,0.0025,0.0278
+2022-04-14 09:30:41.011944,NCAAF - 2022-2023 NCAA Championship Winner - Outright,Alabama,-0.02560000000000001,0.3077,0.3333
 2022-04-14 05:30:53.417745,Boxing Lines - Efetobor Apochi vs Adrian Taylor - To Win the Bout,Adrian Taylor,-0.02679999999999999,0.1111,0.1379
 2022-04-14 07:30:53.860865,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Brennen Davis,-0.028599999999999997,0.0149,0.0435
 2022-04-14 08:31:00.567759,A-League - Australia A-League 2021/2022 - Grand Final Winner,Sydney FC,-0.0294,0.0294,0.0588
