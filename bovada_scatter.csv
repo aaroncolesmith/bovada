@@ -1,13 +1,13 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-15 10:31:00.963977,Serie B - Italy Serie B 2021/22 - Outright,Lecce,0.13450000000000006,0.7143,0.5798
 2022-04-15 09:30:39.143310,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,0.06820000000000004,0.8182,0.75
+2022-04-15 17:30:43.838263,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,0.06659999999999999,0.3333,0.2667
 2022-04-15 07:30:47.419352,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,0.06659999999999999,0.3333,0.2667
 2022-04-15 06:30:50.449775,NFL Specials - 2022 NFL Draft Specials - Requested Specials,New York Jets select a WR in Round 1 or Round 2,0.035699999999999954,0.75,0.7143
 2022-04-15 10:31:00.901239,Superligaen - Denmark Superligaen 2021/22 - Outright,FC Midtjylland,0.031799999999999995,0.1429,0.1111
 2022-04-15 09:30:38.862850,NFL Specials - 2022 NFL Draft Specials - Requested Specials,New York Jets select a WR in Round 1 or Round 2,0.027800000000000047,0.7778,0.75
 2022-04-15 14:32:50.161641,Boxing Lines - Sam Gilley vs Drew Brown - To Win the Bout,Drew Brown,0.025300000000000017,0.2381,0.2128
 2022-04-15 09:30:40.158971,Europa League - UEFA Europa League 2021/22 - Outright,RB Leipzig,0.023799999999999988,0.5,0.4762
-2022-04-15 04:30:56.598117,Boxing Lines - Nathan Heaney vs Diego Ramirez - To Win the Bout,Nathan Heaney,0.020500000000000074,0.8667,0.8462
 2022-04-15 15:30:58.291713,Boxing Lines - Chris Billam-Smith vs Tommy Mccarthy - To Win the Bout,Chris Billam-Smith,0.018999999999999906,0.7333,0.7143
 2022-04-15 14:32:49.948688,FIBA Champions League - FIBA Champions League 2021/22 - Outright,MHP Riesen Ludwigsburg,0.016700000000000007,0.1,0.0833
 2022-04-15 14:32:49.901737,CBA - CBA 2021/22 - Outright,Zhejiang Lions,0.016699999999999993,0.2667,0.25
@@ -17,8 +17,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-15 16:30:54.357785,Boxing Lines - Radzhab Butaev vs Eimantas Stanionis - To Win the Bout,Eimantas Stanionis,0.012199999999999989,0.5122,0.5
 2022-04-15 15:30:58.282770,Boxing Lines - Rylan Charlton vs Joe Hughes - To Win the Bout,Rylan Charlton,0.0121,0.8058,0.7937
 2022-04-15 09:30:40.158971,Europa League - UEFA Europa League 2021/22 - Outright,Rangers,0.011099999999999999,0.1111,0.1
+2022-04-15 17:30:41.812208,Boxing Lines - Sam Gilley vs Drew Brown - To Win the Bout,Drew Brown,0.010599999999999998,0.2353,0.2247
 2022-04-15 11:30:51.845833,Boxing Lines - Gavin Gwynne vs Luke Willis - To Win the Bout,Luke Willis,0.010099999999999998,0.3846,0.3745
 2022-04-15 09:30:39.796006,Boxing Lines - Radzhab Butaev vs Eimantas Stanionis - To Win the Bout,Eimantas Stanionis,-0.012199999999999989,0.5,0.5122
+2022-04-15 17:30:41.812208,Boxing Lines - Sam Gilley vs Drew Brown - To Win the Bout,Sam Gilley,-0.012899999999999912,0.8333,0.8462
 2022-04-15 15:30:58.137415,Boxing Lines - Sam Gilley vs Drew Brown - To Win the Bout,Drew Brown,-0.013399999999999995,0.2247,0.2381
 2022-04-15 11:30:51.845833,Boxing Lines - Gavin Gwynne vs Luke Willis - To Win the Bout,Gavin Gwynne,-0.014900000000000024,0.6774,0.6923
 2022-04-15 14:32:50.161641,Boxing Lines - Sam Gilley vs Drew Brown - To Win the Bout,Sam Gilley,-0.015699999999999936,0.8305,0.8462
@@ -30,4 +32,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-15 10:31:00.901239,Superligaen - Denmark Superligaen 2021/22 - Outright,FC Copenhagen,-0.03839999999999999,0.9231,0.9615
 2022-04-15 09:30:39.143310,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,-0.06659999999999999,0.2667,0.3333
 2022-04-15 07:30:47.419352,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,-0.06820000000000004,0.75,0.8182
+2022-04-15 17:30:43.838263,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,-0.06820000000000004,0.75,0.8182
 2022-04-15 10:31:00.963977,Serie B - Italy Serie B 2021/22 - Outright,Benevento,-0.10619999999999999,0.0476,0.1538
