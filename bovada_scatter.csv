@@ -1,9 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-15 10:31:00.963977,Serie B - Italy Serie B 2021/22 - Outright,Lecce,0.13450000000000006,0.7143,0.5798
+2022-04-15 19:30:32.259031,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,0.06820000000000004,0.8182,0.75
 2022-04-15 09:30:39.143310,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,0.06820000000000004,0.8182,0.75
 2022-04-15 17:30:43.838263,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,0.06659999999999999,0.3333,0.2667
 2022-04-15 07:30:47.419352,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,0.06659999999999999,0.3333,0.2667
-2022-04-15 06:30:50.449775,NFL Specials - 2022 NFL Draft Specials - Requested Specials,New York Jets select a WR in Round 1 or Round 2,0.035699999999999954,0.75,0.7143
 2022-04-15 10:31:00.901239,Superligaen - Denmark Superligaen 2021/22 - Outright,FC Midtjylland,0.031799999999999995,0.1429,0.1111
 2022-04-15 09:30:38.862850,NFL Specials - 2022 NFL Draft Specials - Requested Specials,New York Jets select a WR in Round 1 or Round 2,0.027800000000000047,0.7778,0.75
 2022-04-15 14:32:50.161641,Boxing Lines - Sam Gilley vs Drew Brown - To Win the Bout,Drew Brown,0.025300000000000017,0.2381,0.2128
@@ -19,6 +19,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-15 09:30:40.158971,Europa League - UEFA Europa League 2021/22 - Outright,Rangers,0.011099999999999999,0.1111,0.1
 2022-04-15 17:30:41.812208,Boxing Lines - Sam Gilley vs Drew Brown - To Win the Bout,Drew Brown,0.010599999999999998,0.2353,0.2247
 2022-04-15 11:30:51.845833,Boxing Lines - Gavin Gwynne vs Luke Willis - To Win the Bout,Luke Willis,0.010099999999999998,0.3846,0.3745
+2022-04-15 19:30:32.313223,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win 2023 NCAA DI Men's Basketball Tournament,Arkansas,-0.011899999999999994,0.0714,0.0833
+2022-04-15 19:30:32.569774,Boxing Lines - Macauley Owen vs Liam Richards - To Win the Bout,Liam Richards,-0.011899999999999994,0.0714,0.0833
 2022-04-15 09:30:39.796006,Boxing Lines - Radzhab Butaev vs Eimantas Stanionis - To Win the Bout,Eimantas Stanionis,-0.012199999999999989,0.5,0.5122
 2022-04-15 17:30:41.812208,Boxing Lines - Sam Gilley vs Drew Brown - To Win the Bout,Sam Gilley,-0.012899999999999912,0.8333,0.8462
 2022-04-15 15:30:58.137415,Boxing Lines - Sam Gilley vs Drew Brown - To Win the Bout,Drew Brown,-0.013399999999999995,0.2247,0.2381
@@ -31,6 +33,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-15 14:32:49.901737,CBA - CBA 2021/22 - Outright,Shanghai Sharks,-0.024299999999999995,0.0345,0.0588
 2022-04-15 10:31:00.901239,Superligaen - Denmark Superligaen 2021/22 - Outright,FC Copenhagen,-0.03839999999999999,0.9231,0.9615
 2022-04-15 09:30:39.143310,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,-0.06659999999999999,0.2667,0.3333
+2022-04-15 19:30:32.259031,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,-0.06659999999999999,0.2667,0.3333
 2022-04-15 07:30:47.419352,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,-0.06820000000000004,0.75,0.8182
 2022-04-15 17:30:43.838263,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,-0.06820000000000004,0.75,0.8182
 2022-04-15 10:31:00.963977,Serie B - Italy Serie B 2021/22 - Outright,Benevento,-0.10619999999999999,0.0476,0.1538
