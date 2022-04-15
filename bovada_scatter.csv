@@ -8,7 +8,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-14 21:30:45.259179,Star Wars Specials - Will any of these characters appear in 'The Mandalorian' Season 3 on Disney+ - Proposition,Mace Windu,0.07579999999999999,0.1667,0.0909
 2022-04-14 18:30:39.913774,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,0.06820000000000004,0.8182,0.75
 2022-04-15 01:30:53.021356,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Roma,0.06669999999999998,0.2667,0.2
-2022-04-14 16:30:57.447716,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,0.06659999999999999,0.3333,0.2667
 2022-04-14 22:30:42.848920,Europa League - UEFA Europa League 2021/22 - Outright,Rangers,0.061500000000000006,0.1,0.0385
 2022-04-15 01:30:53.021356,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Marseille,0.057699999999999974,0.3077,0.25
 2022-04-15 01:30:53.021356,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Feyenoord,0.05710000000000001,0.2,0.1429
@@ -16,6 +15,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-15 02:30:59.931465,NBL - NBL 2021/22 - Outright,Sydney Kings,0.04099999999999998,0.3636,0.3226
 2022-04-14 19:30:59.687234,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.033300000000000024,0.2,0.1667
 2022-04-15 02:30:59.894825,CBA - CBA 2021/22 - Outright,Zhejiang Lions,0.022699999999999998,0.25,0.2273
+2022-04-15 04:30:56.598117,Boxing Lines - Nathan Heaney vs Diego Ramirez - To Win the Bout,Nathan Heaney,0.020500000000000074,0.8667,0.8462
 2022-04-14 19:30:58.047700,Boxing Lines - Sam Gilley vs Drew Brown - To Win the Bout,Sam Gilley,0.020500000000000074,0.8667,0.8462
 2022-04-14 19:30:58.077737,Boxing Lines - Jarico O'Quinn vs Jobert Alvarez - To Win the Bout,Jarico O'Quinn,0.020500000000000074,0.8667,0.8462
 2022-04-14 21:30:45.717323,CFL - Odds to win 109th (2022) Grey Cup - Outright,Winnipeg Blue Bombers,0.019000000000000017,0.2857,0.2667
@@ -33,14 +33,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-14 21:30:45.883440,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - State of Winning Team,Any Other State,0.011699999999999933,0.726,0.7143
 2022-04-15 02:30:59.931465,NBL - NBL 2021/22 - Outright,Melbourne United,0.010699999999999987,0.3333,0.3226
 2022-04-14 19:30:59.666996,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,0.010499999999999982,0.2105,0.2
-2022-04-14 21:30:45.781777,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Desmond Ridder,0.0102,0.0769,0.0667
 2022-04-14 19:30:58.114913,Boxing Lines - George Bance vs Des Newton - To Win the Bout,Des Newton,0.0102,0.0769,0.0667
+2022-04-14 21:30:45.781777,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Desmond Ridder,0.0102,0.0769,0.0667
 2022-04-14 19:30:59.647676,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Philadelphia 76ers,-0.0102,0.0667,0.0769
 2022-04-15 01:30:51.280005,Boxing Lines - Jarico O'Quinn vs Jobert Alvarez - To Win the Bout,Jobert Alvarez,-0.01050000000000001,0.1818,0.1923
 2022-04-14 19:30:59.666996,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.010899999999999993,0.1429,0.1538
-2022-04-14 19:30:58.094383,Boxing Lines - Mike Balogun vs Sergio Ramirez - To Win the Bout,Sergio Ramirez,-0.011899999999999994,0.0714,0.0833
-2022-04-14 17:30:46.833987,Boxing Lines - Mike Balogun vs Sergio Ramirez - To Win the Bout,Sergio Ramirez,-0.011899999999999994,0.0714,0.0833
 2022-04-15 02:30:59.931465,NBL - NBL 2021/22 - Outright,Illawarra Hawks,-0.011899999999999994,0.2381,0.25
+2022-04-14 17:30:46.833987,Boxing Lines - Mike Balogun vs Sergio Ramirez - To Win the Bout,Sergio Ramirez,-0.011899999999999994,0.0714,0.0833
+2022-04-14 19:30:58.094383,Boxing Lines - Mike Balogun vs Sergio Ramirez - To Win the Bout,Sergio Ramirez,-0.011899999999999994,0.0714,0.0833
 2022-04-14 19:30:59.687234,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,-0.012600000000000007,0.0588,0.0714
 2022-04-14 19:30:58.077737,Boxing Lines - Jarico O'Quinn vs Jobert Alvarez - To Win the Bout,Jobert Alvarez,-0.012799999999999978,0.2,0.2128
 2022-04-14 19:30:58.054440,Boxing Lines - Gavin Gwynne vs Luke Willis - To Win the Bout,Luke Willis,-0.014600000000000002,0.3745,0.3891
@@ -59,6 +59,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-14 21:30:45.736099,NFL Specials - Which team will Odell Beckham Jr. sign with to start the 2022 Regular Season? - Outright,Green Bay Packers,-0.04909999999999999,0.1176,0.1667
 2022-04-15 02:30:59.894825,CBA - CBA 2021/22 - Outright,Shanghai Sharks,-0.052300000000000006,0.0588,0.1111
 2022-04-14 18:30:39.913774,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,-0.06659999999999999,0.2667,0.3333
-2022-04-14 16:30:57.447716,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,-0.06820000000000004,0.75,0.8182
 2022-04-14 21:30:45.259179,Star Wars Specials - Will any of these characters appear in 'The Mandalorian' Season 3 on Disney+ - Proposition,Fennec Shand,-0.09889999999999999,0.2857,0.3846
 2022-04-15 02:30:59.894825,CBA - CBA 2021/22 - Outright,Guangdong Southern Tigers,-0.2191,0.0476,0.2667
