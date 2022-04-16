@@ -12,7 +12,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-16 08:30:42.778547,England Championship - England Championship 21/22 - To Be Promoted,Middlesbrough,0.05550000000000002,0.2222,0.1667
 2022-04-16 08:30:42.933695,League Two - England League Two 2021/22 - Top 3 Finish,Exeter City,0.047799999999999954,0.9709,0.9231
 2022-04-16 08:30:42.921409,League Two - England League Two 2021/22 - To Be Promoted,Bristol Rovers,0.04040000000000002,0.2222,0.1818
-2022-04-15 22:35:09.612926,NFL Specials - Which team will Jarvis Landry  sign with to start the 2022 Regular Season? - Outright,New England Patriots,0.03570000000000001,0.2857,0.25
 2022-04-16 08:30:42.921409,League Two - England League Two 2021/22 - To Be Promoted,Northampton Town,0.03570000000000001,0.2857,0.25
 2022-04-16 01:32:53.121341,Serie A - Serie A 2021/22 - Outright,Virtus Bologna,0.03480000000000005,0.5348,0.5
 2022-04-16 08:30:42.791165,England Championship - England Championship 21/22 - Top 6 Finish,Coventry City,0.0344,0.0588,0.0244
@@ -36,8 +35,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-16 07:33:30.325570,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,-0.01440000000000001,0.0909,0.1053
 2022-04-16 08:30:42.933695,League Two - England League Two 2021/22 - Top 3 Finish,Tranmere Rovers,-0.014599999999999998,0.005,0.0196
 2022-04-16 08:30:42.894330,Allsvenskan - Swedish Allsvenskan 2022 - Outright,BK Häcken,-0.014899999999999997,0.0476,0.0625
-2022-04-16 08:30:42.903812,League One - England League One 2021/22 - Outright,Milton Keynes Dons,-0.018099999999999998,0.0588,0.0769
 2022-04-16 08:30:42.921409,League Two - England League Two 2021/22 - To Be Promoted,Tranmere Rovers,-0.018099999999999998,0.0588,0.0769
+2022-04-16 08:30:42.903812,League One - England League One 2021/22 - Outright,Milton Keynes Dons,-0.018099999999999998,0.0588,0.0769
 2022-04-16 08:30:42.915169,League Two - England League Two 2021/22 - Outright,Mansfield Town,-0.0204,0.004,0.0244
 2022-04-16 08:30:42.933695,League Two - England League Two 2021/22 - Top 3 Finish,Salford City,-0.0266,0.0028,0.0294
 2022-04-16 08:30:42.894330,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,-0.028900000000000037,0.5455,0.5744
