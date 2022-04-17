@@ -14,22 +14,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-17 10:30:40.684972,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,0.05550000000000002,0.2222,0.1667
 2022-04-17 10:30:41.544471,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,0.052000000000000046,0.9091,0.8571
 2022-04-17 10:30:41.528963,League One - England League One 2021/22 - To Be Promoted,Sheffield Wednesday,0.05130000000000001,0.3846,0.3333
-2022-04-17 08:30:39.028983,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Schalke 04,0.05130000000000001,0.3846,0.3333
-2022-04-17 07:31:02.504775,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.04999999999999999,0.25,0.2
 2022-04-17 18:30:44.922612,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,0.04769999999999999,0.1429,0.0952
 2022-04-17 16:31:00.985263,Marvel Specials - Will Any Of These Characters Appear in Secret Invasion On Disney+? - Outright,Wolverine,0.04329999999999999,0.0909,0.0476
 2022-04-17 10:30:41.534585,League One - England League One 2021/22 - To Be Relegated,Gillingham,0.0393,0.6226,0.5833
-2022-04-17 07:31:02.512036,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.03570000000000001,0.2857,0.25
 2022-04-17 10:30:40.637823,NBA Season Props - 2021/22 Stage of Elimination - Philadelphia 76ers,Lose in the NBA Finals,0.03420000000000001,0.1111,0.0769
-2022-04-17 07:31:02.512036,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.033299999999999996,0.5455,0.5122
+2022-04-17 20:31:21.908428,France Politics - Next French President - Outright,Emmanuel Macron,0.03410000000000002,0.9091,0.875
 2022-04-17 10:30:40.684972,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,0.031700000000000006,0.2222,0.1905
-2022-04-17 08:30:39.028983,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Werder Bremen,0.030299999999999994,0.3636,0.3333
-2022-04-17 08:30:39.072598,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,FC Porto,0.02969999999999995,0.9709,0.9412
 2022-04-17 16:31:01.224050,The Walking Dead - Will Rick Grimes (Andrew Lincoln) Appear In The Walking Dead Season 11 - Outright,Yes,0.025499999999999967,0.4255,0.4
 2022-04-17 10:30:40.677812,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,0.024999999999999994,0.125,0.1
-2022-04-17 07:31:02.496785,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.02049999999999999,0.1538,0.1333
+2022-04-17 20:31:22.646644,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Aidan Hutchinson,0.023799999999999932,0.6667,0.6429
 2022-04-17 10:30:40.677812,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,0.02020000000000001,0.1111,0.0909
-2022-04-17 07:31:02.496785,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.019600000000000006,0.3226,0.303
 2022-04-17 18:30:45.745945,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Garrett Wilson,0.018900000000000028,0.4444,0.4255
 2022-04-17 10:30:41.539528,League One - England League One 2021/22 - Top 2 Finish,Sheffield Wednesday,0.0189,0.0385,0.0196
 2022-04-17 14:31:23.423399,CFL - Odds to win 109th (2022) Grey Cup - Outright,Saskatchewan Roughriders,0.0179,0.1429,0.125
@@ -38,13 +32,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-17 10:30:41.528963,League One - England League One 2021/22 - To Be Promoted,Wycombe,0.013899999999999996,0.125,0.1111
 2022-04-17 10:30:41.534585,League One - England League One 2021/22 - To Be Relegated,Doncaster Rovers,0.013800000000000034,0.999,0.9852
 2022-04-17 10:30:41.200949,MLS - MLS Cup 2022 - Outright,Los Angeles FC,0.012899999999999995,0.1667,0.1538
-2022-04-17 07:31:02.496785,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.012299999999999991,0.1176,0.1053
 2022-04-17 16:31:01.500197,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Green Bay Packers,Under 11,0.012199999999999989,0.5122,0.5
 2022-04-17 10:30:41.200949,MLS - MLS Cup 2022 - Outright,Toronto FC,0.011199999999999995,0.0588,0.0476
 2022-04-17 11:30:44.751280,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.011099999999999999,0.241,0.2299
 2022-04-17 16:31:01.398051,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Arizona Cardinals,Under 9,0.01100000000000001,0.5348,0.5238
 2022-04-17 14:31:23.423399,CFL - Odds to win 109th (2022) Grey Cup - Outright,Toronto Argonauts,0.010899999999999993,0.1538,0.1429
-2022-04-17 07:31:02.504775,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.010899999999999993,0.1538,0.1429
+2022-04-17 20:31:22.646644,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Ikem Ekwonu,0.0102,0.0769,0.0667
 2022-04-17 10:30:40.649067,NBA Season Props - 2021/22 Stage of Elimination - Toronto Raptors,Lose in the NBA Finals,0.010100000000000001,0.0345,0.0244
 2022-04-17 16:31:01.565684,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Los Angeles Rams,Over 10.5,0.010099999999999998,0.5556,0.5455
 2022-04-17 10:30:40.994057,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Ikem Ekwonu,-0.0102,0.0667,0.0769
@@ -52,42 +45,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-17 10:30:40.684972,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.010699999999999987,0.3226,0.3333
 2022-04-17 10:30:40.677812,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.010899999999999993,0.1429,0.1538
 2022-04-17 10:30:40.684972,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.010899999999999993,0.1429,0.1538
-2022-04-17 13:30:41.664524,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.011099999999999999,0.2299,0.241
-2022-04-17 16:31:01.449144,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Chicago Bears,Over 7,-0.011099999999999999,0.4651,0.4762
-2022-04-17 16:31:01.429490,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Buffalo Bills,Under 11.5,-0.011099999999999999,0.4651,0.4762
 2022-04-17 10:30:41.200949,MLS - MLS Cup 2022 - Outright,Seattle Sounders,-0.011099999999999999,0.1,0.1111
+2022-04-17 16:31:01.449144,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Chicago Bears,Over 7,-0.011099999999999999,0.4651,0.4762
 2022-04-17 10:30:41.200949,MLS - MLS Cup 2022 - Outright,Philadelphia Union,-0.011099999999999999,0.1,0.1111
+2022-04-17 16:31:01.429490,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Buffalo Bills,Under 11.5,-0.011099999999999999,0.4651,0.4762
+2022-04-17 13:30:41.664524,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.011099999999999999,0.2299,0.241
 2022-04-17 10:30:41.200949,MLS - MLS Cup 2022 - Outright,Atlanta United,-0.011199999999999995,0.0476,0.0588
 2022-04-17 16:31:01.224050,The Walking Dead - Will Rick Grimes (Andrew Lincoln) Appear In The Walking Dead Season 11 - Outright,No,-0.011499999999999955,0.6552,0.6667
 2022-04-17 16:31:01.565684,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Los Angeles Rams,Under 10.5,-0.011600000000000055,0.5122,0.5238
-2022-04-17 07:31:02.512036,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Memphis Grizzlies,-0.012299999999999991,0.1053,0.1176
 2022-04-17 10:30:40.677812,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.012299999999999991,0.1053,0.1176
-2022-04-17 08:30:39.096390,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,-0.012899999999999995,0.1538,0.1667
 2022-04-17 10:30:40.994057,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Kayvon Thibodeaux,-0.0131,0.0345,0.0476
-2022-04-17 07:31:02.496785,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Utah Jazz,-0.014100000000000001,0.0385,0.0526
 2022-04-17 10:30:41.539528,League One - England League One 2021/22 - Top 2 Finish,Wigan Athletic,-0.01429999999999998,0.9709,0.9852
 2022-04-17 10:30:41.528963,League One - England League One 2021/22 - To Be Promoted,Wigan Athletic,-0.014499999999999957,0.9756,0.9901
 2022-04-17 18:30:45.745945,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Drake London,-0.015400000000000025,0.3846,0.4
-2022-04-17 07:31:02.512036,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,-0.016499999999999997,0.027,0.0435
-2022-04-17 07:31:02.504775,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,-0.01780000000000001,0.1905,0.2083
 2022-04-17 10:30:41.200949,MLS - MLS Cup 2022 - Outright,New York Red Bulls,-0.018099999999999998,0.0588,0.0769
 2022-04-17 10:30:41.539528,League One - England League One 2021/22 - Top 2 Finish,Plymouth Argyle,-0.019499999999999997,0.0099,0.0294
 2022-04-17 10:30:40.677812,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,-0.019600000000000006,0.303,0.3226
-2022-04-17 07:31:02.496785,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,-0.02020000000000001,0.0909,0.1111
-2022-04-17 08:30:39.096390,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,-0.02169999999999994,0.5238,0.5455
 2022-04-17 10:30:41.523219,League One - England League One 2021/22 - Top Goalscorer,Matt Taylor (Oxford Utd),-0.0232,0.0435,0.0667
 2022-04-17 10:30:40.994057,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Aidan Hutchinson,-0.023799999999999932,0.6429,0.6667
-2022-04-17 08:30:39.028983,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Darmstadt,-0.023799999999999988,0.1429,0.1667
 2022-04-17 10:30:41.528963,League One - England League One 2021/22 - To Be Promoted,Plymouth Argyle,-0.023799999999999988,0.1429,0.1667
 2022-04-17 10:30:40.637823,NBA Season Props - 2021/22 Stage of Elimination - Philadelphia 76ers,Win the NBA Championship,-0.0245,0.0588,0.0833
-2022-04-17 07:31:02.496785,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.024999999999999994,0.1,0.125
-2022-04-17 07:31:02.512036,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,-0.029799999999999993,0.0952,0.125
-2022-04-17 08:30:39.028983,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,St. Pauli,-0.033300000000000024,0.1667,0.2
-2022-04-17 07:31:02.504775,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.041600000000000026,0.1667,0.2083
-2022-04-17 08:30:39.072598,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Sporting CP,-0.04440000000000001,0.0667,0.1111
+2022-04-17 20:31:22.646644,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Travon Walker,-0.03640000000000004,0.3636,0.4
 2022-04-17 10:30:40.684972,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.04999999999999999,0.2,0.25
 2022-04-17 10:30:41.523219,League One - England League One 2021/22 - Top Goalscorer,Alfie May (Cheltenham),-0.052000000000000005,0.0909,0.1429
 2022-04-17 10:30:41.523219,League One - England League One 2021/22 - Top Goalscorer,Ross Stewart (Sunderland),-0.05449999999999999,0.4,0.4545
+2022-04-17 20:31:21.908428,France Politics - Next French President - Outright,Marine Le Pen,-0.0572,0.1333,0.1905
 2022-04-17 17:30:49.972381,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,-0.06659999999999999,0.2667,0.3333
 2022-04-17 16:31:01.629241,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Seattle Seahawks,Over 6.5,-0.06779999999999997,0.4444,0.5122
 2022-04-17 16:31:01.164566,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,-0.06820000000000004,0.75,0.8182
