@@ -20,8 +20,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-16 21:30:47.367296,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,0.06659999999999999,0.3333,0.2667
 2022-04-17 00:30:56.052237,Copa Libertadores - Copa Libertadores 2022 - To Reach the Final,Palmeiras-SP,0.0562,0.2667,0.2105
 2022-04-17 01:30:48.457694,Copa Libertadores - Group E - Outright,Corinthians,0.05449999999999999,0.4545,0.4
-2022-04-16 23:30:49.269701,Italy Serie A - Italy Serie A 2021/2022 - Outright,AC Milan,0.04999999999999999,0.25,0.2
+2022-04-17 08:30:39.028983,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Schalke 04,0.05130000000000001,0.3846,0.3333
 2022-04-17 07:31:02.504775,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.04999999999999999,0.25,0.2
+2022-04-16 23:30:49.269701,Italy Serie A - Italy Serie A 2021/2022 - Outright,AC Milan,0.04999999999999999,0.25,0.2
 2022-04-16 22:30:44.215716,Marvel Specials - Will Any Of These Characters Appear in She-Hulk on Disney+? - Outright,Hellcat,0.047599999999999976,0.3333,0.2857
 2022-04-16 20:30:48.359895,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Monterrey,0.04040000000000002,0.2222,0.1818
 2022-04-17 01:30:48.465962,Copa Libertadores - Group F - Outright,River Plate,0.04039999999999999,0.8182,0.7778
@@ -37,6 +38,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-16 22:30:44.067262,Boxing Lines - Errol Spence vs Yordenis Ugas - To Win the Bout,Yordenis Ugas,0.031700000000000006,0.2222,0.1905
 2022-04-17 06:30:45.562622,NFL Specials - 2022 NFL Draft Props - 1st Cornerback Selected,Derek Stingley Jr.,0.031399999999999983,0.2667,0.2353
 2022-04-17 01:30:48.441433,Copa Libertadores - Group C - Outright,RB Bragantino,0.030299999999999994,0.3636,0.3333
+2022-04-17 08:30:39.028983,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Werder Bremen,0.030299999999999994,0.3636,0.3333
+2022-04-17 08:30:39.072598,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,FC Porto,0.02969999999999995,0.9709,0.9412
 2022-04-17 01:30:48.441433,Copa Libertadores - Group C - Outright,Estudiantes de La Plata,0.029000000000000026,0.4545,0.4255
 2022-04-16 20:30:48.359895,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Club América,0.028799999999999992,0.1538,0.125
 2022-04-17 01:30:48.449658,Copa Libertadores - Group D - Outright,Tolima,0.028199999999999996,0.0667,0.0385
@@ -58,8 +61,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-17 03:30:50.714280,NBA Season Props - 2021/22 Stage of Elimination - Brooklyn Nets,Lose in the 1st Round,0.016699999999999937,0.6,0.5833
 2022-04-16 20:30:47.605241,Boxing Lines - Conor Benn vs Chris Van Heerden - To Win the Bout,Chris Van Heerden,0.01440000000000001,0.1053,0.0909
 2022-04-17 01:30:48.482545,Copa Libertadores - Group H - Outright,Flamengo,0.014000000000000012,0.9231,0.9091
-2022-04-17 03:30:50.775197,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.013899999999999996,0.2222,0.2083
 2022-04-17 03:30:50.775197,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,0.013899999999999996,0.125,0.1111
+2022-04-17 03:30:50.775197,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.013899999999999996,0.2222,0.2083
 2022-04-17 00:30:56.045047,Copa Libertadores - Copa Libertadores 2022 - Outright,Palmeiras-SP,0.012899999999999995,0.1667,0.1538
 2022-04-17 07:31:02.496785,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.012299999999999991,0.1176,0.1053
 2022-04-17 03:30:50.775197,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.012199999999999989,0.5122,0.5
@@ -72,21 +75,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-17 02:32:49.988052,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Liga de Quito,-0.010100000000000001,0.0244,0.0345
 2022-04-16 22:30:44.215716,Marvel Specials - Will Any Of These Characters Appear in She-Hulk on Disney+? - Outright,Valkyrie,-0.0102,0.0667,0.0769
 2022-04-17 03:30:50.766767,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Toronto Raptors,-0.010700000000000001,0.0278,0.0385
-2022-04-17 02:32:49.902782,Copa Sudamericana - Group C - Outright,Universidad Católica,-0.011099999999999999,0.1,0.1111
-2022-04-17 03:30:50.898059,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.011099999999999999,0.2299,0.241
 2022-04-17 01:30:48.457694,Copa Libertadores - Group E - Outright,Deportivo Cali,-0.011099999999999999,0.1,0.1111
+2022-04-17 03:30:50.898059,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.011099999999999999,0.2299,0.241
 2022-04-16 20:30:48.359895,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Atlas FC,-0.011099999999999999,0.1,0.1111
+2022-04-17 02:32:49.902782,Copa Sudamericana - Group C - Outright,Universidad Católica,-0.011099999999999999,0.1,0.1111
 2022-04-16 22:30:44.055701,Boxing Lines - Isaac Cruz Gonzalez vs Yuriorkis Gamboa - To Win the Bout,Isaac Cruz Gonzalez,-0.011199999999999988,0.9412,0.9524
 2022-04-17 06:30:44.905548,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Memphis Grizzlies,-0.011199999999999995,0.0476,0.0588
 2022-04-17 06:30:44.887556,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Luka Doncic,-0.011399999999999997,0.0164,0.0278
 2022-04-17 02:32:49.959329,Copa Sudamericana - Group G - Outright,Independiente,-0.011600000000000055,0.5122,0.5238
 2022-04-16 23:30:48.276994,Boxing Lines - Radzhab Butaev vs Eimantas Stanionis - To Win the Bout,Eimantas Stanionis,-0.012199999999999989,0.4878,0.5
 2022-04-17 07:31:02.512036,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Memphis Grizzlies,-0.012299999999999991,0.1053,0.1176
+2022-04-17 08:30:39.096390,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,-0.012899999999999995,0.1538,0.1667
 2022-04-16 20:30:48.359895,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Atletico San Luis,-0.0131,0.0345,0.0476
-2022-04-17 03:30:50.766767,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.013899999999999996,0.2083,0.2222
 2022-04-17 01:30:48.425532,Copa Libertadores - Group A - Outright,CS Emelec,-0.013899999999999996,0.1111,0.125
-2022-04-16 22:30:44.417022,TV Specials - Characters to appear in the Friday Night Lights reboot - Proposition,Coach Taylor,-0.013999999999999999,0.0769,0.0909
+2022-04-17 03:30:50.766767,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.013899999999999996,0.2083,0.2222
 2022-04-16 22:30:44.417022,TV Specials - Characters to appear in the Friday Night Lights reboot - Proposition,Tami Taylor,-0.013999999999999999,0.0769,0.0909
+2022-04-16 22:30:44.417022,TV Specials - Characters to appear in the Friday Night Lights reboot - Proposition,Coach Taylor,-0.013999999999999999,0.0769,0.0909
 2022-04-17 02:32:49.959329,Copa Sudamericana - Group G - Outright,Deportivo La Guaira,-0.014099999999999998,0.0294,0.0435
 2022-04-17 07:31:02.496785,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Utah Jazz,-0.014100000000000001,0.0385,0.0526
 2022-04-17 02:32:49.946625,Copa Sudamericana - Group F - Outright,Antofagasta,-0.014499999999999999,0.0149,0.0294
@@ -103,18 +107,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-17 01:30:48.433490,Copa Libertadores - Group B - Outright,Caracas FC,-0.019099999999999992,0.0476,0.0667
 2022-04-17 03:30:50.775197,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Memphis Grizzlies,-0.020100000000000007,0.1538,0.1739
 2022-04-17 07:31:02.496785,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,-0.02020000000000001,0.0909,0.1111
-2022-04-17 00:30:56.045047,Copa Libertadores - Copa Libertadores 2022 - Outright,Flamengo-RJ,-0.022199999999999998,0.2,0.2222
+2022-04-17 08:30:39.096390,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,-0.02169999999999994,0.5238,0.5455
 2022-04-16 23:30:49.269701,Italy Serie A - Italy Serie A 2021/2022 - Outright,Napoli,-0.022199999999999998,0.1111,0.1333
+2022-04-17 00:30:56.045047,Copa Libertadores - Copa Libertadores 2022 - Outright,Flamengo-RJ,-0.022199999999999998,0.2,0.2222
 2022-04-17 03:30:50.857802,Boxing Lines - Errol Spence vs Yordenis Ugas - To Win the Bout,Yordenis Ugas,-0.022199999999999998,0.2,0.2222
 2022-04-17 03:30:50.758828,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,-0.022199999999999998,0.1111,0.1333
 2022-04-17 02:32:49.988052,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Cuiabá,-0.022200000000000004,0.0123,0.0345
 2022-04-17 06:30:44.887556,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Ja Morant,-0.0232,0.0435,0.0667
 2022-04-17 02:32:49.988052,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Santos,-0.0232,0.0435,0.0667
 2022-04-17 03:30:50.775197,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,-0.0232,0.0435,0.0667
+2022-04-17 08:30:39.028983,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Darmstadt,-0.023799999999999988,0.1429,0.1667
 2022-04-17 07:31:02.496785,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.024999999999999994,0.1,0.125
-2022-04-17 01:30:47.430750,NBL - NBL 2021/22 - Outright,Perth Wildcats,-0.027999999999999997,0.1538,0.1818
 2022-04-17 06:30:44.887556,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Giannis Antetokounmpo,-0.027999999999999997,0.1538,0.1818
 2022-04-17 06:30:44.887556,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Devin Booker,-0.027999999999999997,0.1538,0.1818
+2022-04-17 01:30:47.430750,NBL - NBL 2021/22 - Outright,Perth Wildcats,-0.027999999999999997,0.1538,0.1818
 2022-04-17 02:32:49.988052,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Ceará,-0.028199999999999996,0.0385,0.0667
 2022-04-17 02:32:49.988052,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Atlético Lanús,-0.028199999999999996,0.0385,0.0667
 2022-04-17 02:32:49.988052,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Atlético Goianiense,-0.028199999999999996,0.0385,0.0667
@@ -125,8 +131,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-17 02:32:49.919743,Copa Sudamericana - Group D - Outright,Everton Viña del Mar,-0.0321,0.0588,0.0909
 2022-04-17 02:32:49.988052,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Barcelona SC,-0.03219999999999999,0.0345,0.0667
 2022-04-17 06:30:45.562622,NFL Specials - 2022 NFL Draft Props - 1st Cornerback Selected,Ahmad Gardner,-0.033299999999999996,0.8,0.8333
-2022-04-16 22:30:44.215716,Marvel Specials - Will Any Of These Characters Appear in She-Hulk on Disney+? - Outright,Spider-Woman,-0.033300000000000024,0.1667,0.2
 2022-04-17 01:30:48.441433,Copa Libertadores - Group C - Outright,Vélez Sarsfield,-0.033300000000000024,0.1667,0.2
+2022-04-16 22:30:44.215716,Marvel Specials - Will Any Of These Characters Appear in She-Hulk on Disney+? - Outright,Spider-Woman,-0.033300000000000024,0.1667,0.2
+2022-04-17 08:30:39.028983,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,St. Pauli,-0.033300000000000024,0.1667,0.2
 2022-04-17 06:30:45.551326,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Drake London,-0.0348,0.4,0.4348
 2022-04-17 02:32:49.988052,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Racing Club,-0.035699999999999996,0.0476,0.0833
 2022-04-17 02:32:49.888916,Copa Sudamericana - Group B - Outright,River Plate Montevideo,-0.035699999999999996,0.0476,0.0833
@@ -141,6 +148,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-17 02:32:49.988052,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Independiente,-0.04239999999999999,0.0345,0.0769
 2022-04-17 02:32:49.869202,Copa Sudamericana - Group A - Outright,Montevideo Wanderers,-0.04329999999999999,0.0476,0.0909
 2022-04-17 01:30:48.433490,Copa Libertadores - Group B - Outright,Athletico Paranaense,-0.04409999999999992,0.6226,0.6667
+2022-04-17 08:30:39.072598,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Sporting CP,-0.04440000000000001,0.0667,0.1111
 2022-04-17 01:30:48.474211,Copa Libertadores - Group G - Outright,Colón de Santa Fe,-0.044499999999999984,0.2222,0.2667
 2022-04-17 02:32:49.988052,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Internacional,-0.04650000000000001,0.0588,0.1053
 2022-04-17 01:30:48.449658,Copa Libertadores - Group D - Outright,Atlético Mineiro,-0.050000000000000044,0.75,0.8
@@ -149,8 +157,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-16 22:30:44.348008,TV Specials - Homelander Kill Count for Season 3 of The Boys on Amazon - Proposition,51-75,-0.06670000000000004,0.3333,0.4
 2022-04-16 21:30:47.367296,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,-0.06820000000000004,0.75,0.8182
 2022-04-16 22:30:45.177394,League One - England League One 2021/22 - Outright,Wigan Athletic,-0.07620000000000005,0.8571,0.9333
-2022-04-16 22:30:44.348008,TV Specials - Homelander Kill Count for Season 3 of The Boys on Amazon - Proposition,0-25,-0.07789999999999997,0.2857,0.3636
 2022-04-17 00:30:56.052237,Copa Libertadores - Copa Libertadores 2022 - To Reach the Final,Flamengo-RJ,-0.07789999999999997,0.2857,0.3636
+2022-04-16 22:30:44.348008,TV Specials - Homelander Kill Count for Season 3 of The Boys on Amazon - Proposition,0-25,-0.07789999999999997,0.2857,0.3636
 2022-04-16 22:30:44.348008,TV Specials - Homelander Kill Count for Season 3 of The Boys on Amazon - Proposition,26-50,-0.08080000000000004,0.3636,0.4444
 2022-04-17 06:30:45.532458,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Aidan Hutchinson,-0.08330000000000004,0.6667,0.75
 2022-04-17 01:30:48.474211,Copa Libertadores - Group G - Outright,Club Olimpia,-0.0857,0.2,0.2857
