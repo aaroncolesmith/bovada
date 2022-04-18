@@ -14,20 +14,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-17 16:31:01.224050,The Walking Dead - Will Rick Grimes (Andrew Lincoln) Appear In The Walking Dead Season 11 - Outright,Yes,0.025499999999999967,0.4255,0.4
 2022-04-17 20:31:22.646644,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Aidan Hutchinson,0.023799999999999932,0.6667,0.6429
 2022-04-17 18:30:45.745945,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Garrett Wilson,0.018900000000000028,0.4444,0.4255
-2022-04-17 14:31:23.423399,CFL - Odds to win 109th (2022) Grey Cup - Outright,Saskatchewan Roughriders,0.0179,0.1429,0.125
 2022-04-17 22:30:50.573501,Boxing Lines - Michael Zerafa vs Issac Hardman - To Win the Bout,Issac Hardman,0.016900000000000026,0.6721,0.6552
 2022-04-17 21:30:44.845377,"TV Specials - Who will be cast as the Next Dr. Who, after Jodie Whittaker? - Outright",David Tennant,0.01539999999999997,0.6154,0.6
-2022-04-17 14:31:23.423399,CFL - Odds to win 109th (2022) Grey Cup - Outright,British Columbia Lions,0.014399999999999996,0.0769,0.0625
 2022-04-17 16:31:01.500197,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Green Bay Packers,Under 11,0.012199999999999989,0.5122,0.5
 2022-04-17 22:30:50.633022,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.011099999999999999,0.241,0.2299
 2022-04-17 16:31:01.398051,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Arizona Cardinals,Under 9,0.01100000000000001,0.5348,0.5238
-2022-04-17 14:31:23.423399,CFL - Odds to win 109th (2022) Grey Cup - Outright,Toronto Argonauts,0.010899999999999993,0.1538,0.1429
 2022-04-17 20:31:22.646644,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Ikem Ekwonu,0.0102,0.0769,0.0667
 2022-04-17 16:31:01.565684,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Los Angeles Rams,Over 10.5,0.010099999999999998,0.5556,0.5455
 2022-04-17 16:31:01.398051,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Arizona Cardinals,Over 9,-0.010699999999999932,0.5348,0.5455
-2022-04-18 01:32:42.335559,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.011099999999999999,0.2299,0.241
 2022-04-17 16:31:01.449144,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Chicago Bears,Over 7,-0.011099999999999999,0.4651,0.4762
 2022-04-17 16:31:01.429490,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Buffalo Bills,Under 11.5,-0.011099999999999999,0.4651,0.4762
+2022-04-18 01:32:42.335559,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.011099999999999999,0.2299,0.241
 2022-04-17 16:31:01.224050,The Walking Dead - Will Rick Grimes (Andrew Lincoln) Appear In The Walking Dead Season 11 - Outright,No,-0.011499999999999955,0.6552,0.6667
 2022-04-17 16:31:01.565684,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Los Angeles Rams,Under 10.5,-0.011600000000000055,0.5122,0.5238
 2022-04-17 18:30:45.745945,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Drake London,-0.015400000000000025,0.3846,0.4
@@ -42,8 +39,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-17 20:31:22.646644,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Travon Walker,-0.03640000000000004,0.3636,0.4
 2022-04-17 22:30:51.622457,FA Cup - England FA Cup 2021/22 - Outright,Liverpool FC,-0.05590000000000006,0.6364,0.6923
 2022-04-17 20:31:21.908428,France Politics - Next French President - Outright,Marine Le Pen,-0.0572,0.1333,0.1905
-2022-04-17 17:30:49.972381,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,-0.06659999999999999,0.2667,0.3333
 2022-04-18 02:30:47.770258,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,-0.06659999999999999,0.2667,0.3333
+2022-04-17 17:30:49.972381,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,-0.06659999999999999,0.2667,0.3333
 2022-04-17 16:31:01.629241,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Seattle Seahawks,Over 6.5,-0.06779999999999997,0.4444,0.5122
 2022-04-17 16:31:01.164566,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,-0.06820000000000004,0.75,0.8182
 2022-04-18 01:32:42.747728,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,-0.06820000000000004,0.75,0.8182
