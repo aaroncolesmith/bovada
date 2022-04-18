@@ -4,8 +4,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-18 09:30:44.115908,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Brentford,0.1518,0.1667,0.0149
 2022-04-18 09:30:43.299721,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Atlético Madrid,0.13890000000000002,0.5833,0.4444
 2022-04-18 09:30:43.243685,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Arminia Bielefeld,0.13370000000000004,0.7701,0.6364
-2022-04-18 08:30:55.379976,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Monaco,0.13329999999999997,0.3333,0.2
 2022-04-18 09:30:44.095791,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Watford,0.13329999999999997,0.3333,0.2
+2022-04-18 08:30:55.379976,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Monaco,0.13329999999999997,0.3333,0.2
 2022-04-18 09:30:44.115908,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Brighton & Hove Albion,0.12589999999999998,0.3077,0.1818
 2022-04-18 09:30:43.248460,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Freiburg,0.1076,0.2326,0.125
 2022-04-18 09:30:43.307753,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,0.09889999999999999,0.3846,0.2857
@@ -16,13 +16,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-18 09:30:44.110985,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,0.08330000000000004,0.8333,0.75
 2022-04-18 06:33:06.548310,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Jameson Williams,0.08329999999999999,0.3333,0.25
 2022-04-18 08:30:55.379976,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Marseille,0.07779999999999998,0.7701,0.6923
-2022-04-17 21:30:44.831281,TV Specials - Homelander Kill Count for Season 3 of The Boys on Amazon - Proposition,100+,0.07490000000000002,0.4082,0.3333
 2022-04-18 08:30:54.667003,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,0.06820000000000004,0.8182,0.75
 2022-04-18 02:30:47.770258,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,0.06820000000000004,0.8182,0.75
 2022-04-18 05:30:43.952879,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,0.06820000000000004,0.8182,0.75
+2022-04-18 01:32:42.747728,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,0.06659999999999999,0.3333,0.2667
 2022-04-18 04:30:18.582036,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,0.06659999999999999,0.3333,0.2667
 2022-04-18 07:30:21.544029,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,0.06659999999999999,0.3333,0.2667
-2022-04-18 01:32:42.747728,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,0.06659999999999999,0.3333,0.2667
 2022-04-18 09:30:43.754428,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,0.0595,0.5833,0.5238
 2022-04-18 09:30:43.315111,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,0.05559999999999998,0.8889,0.8333
 2022-04-18 08:30:55.451276,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Venezia,0.05230000000000001,0.9412,0.8889
@@ -30,16 +29,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-18 08:30:55.365707,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Monaco,0.052300000000000006,0.1111,0.0588
 2022-04-18 09:30:44.125754,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Burnley,0.0494,0.3571,0.3077
 2022-04-18 09:30:43.339737,MLS - MLS Cup 2022 - Top Goalscorer,Valentin Castellanos,0.0475,0.0769,0.0294
+2022-04-18 10:30:33.416413,Boxing Lines - Michael Zerafa vs Issac Hardman - To Win the Bout,Michael Zerafa,0.044399999999999995,0.4444,0.4
 2022-04-18 08:30:54.198792,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,0.04269999999999999,0.1538,0.1111
 2022-04-18 09:30:43.248460,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,RB Leipzig,0.042300000000000004,0.9756,0.9333
 2022-04-18 09:30:44.077335,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Wolverhampton Wanderers,0.04040000000000002,0.2222,0.1818
-2022-04-18 08:30:55.374086,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Kylian Mbappe,0.04039999999999999,0.8182,0.7778
 2022-04-18 09:30:44.133670,England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Mohamed Salah,0.04039999999999999,0.8182,0.7778
+2022-04-18 08:30:55.374086,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Kylian Mbappe,0.04039999999999999,0.8182,0.7778
 2022-04-18 06:33:05.615574,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.037800000000000056,0.5833,0.5455
 2022-04-18 09:30:44.090201,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Everton,0.03570000000000001,0.2857,0.25
 2022-04-18 05:30:43.429900,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.033399999999999985,0.1667,0.1333
-2022-04-17 21:30:44.845377,"TV Specials - Who will be cast as the Next Dr. Who, after Jodie Whittaker? - Outright",Hugh Grant,0.0321,0.0909,0.0588
-2022-04-17 21:30:44.590603,Marvel Specials - Will Any Of These Characters Appear in Ironheart on Disney+? - Outright,Shuri,0.031799999999999995,0.4762,0.4444
 2022-04-18 05:30:43.429900,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.030299999999999994,0.3333,0.303
 2022-04-18 08:30:54.198792,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,0.02779999999999999,0.25,0.2222
 2022-04-18 09:30:43.713017,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,FC Porto,0.02410000000000001,0.995,0.9709
@@ -54,10 +52,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-18 09:30:43.243685,Germany Bundesliga - German Bundesliga 2021/22 - To Be Relegated,Augsburg,0.0189,0.0385,0.0196
 2022-04-17 22:30:50.573501,Boxing Lines - Michael Zerafa vs Issac Hardman - To Win the Bout,Issac Hardman,0.016900000000000026,0.6721,0.6552
 2022-04-18 08:30:54.182113,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,0.016600000000000004,0.0833,0.0667
-2022-04-17 21:30:44.845377,"TV Specials - Who will be cast as the Next Dr. Who, after Jodie Whittaker? - Outright",David Tennant,0.01539999999999997,0.6154,0.6
 2022-04-18 09:30:44.121026,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Newcastle United,0.01529999999999998,0.9565,0.9412
-2022-04-18 09:30:43.332831,MLS - MLS Cup 2022 - Outright,Los Angeles FC,0.015100000000000002,0.1818,0.1667
 2022-04-18 09:30:44.121026,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Southampton,0.015100000000000002,0.8333,0.8182
+2022-04-18 09:30:43.332831,MLS - MLS Cup 2022 - Outright,Los Angeles FC,0.015100000000000002,0.1818,0.1667
 2022-04-18 06:33:05.599928,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Toronto Raptors,0.014900000000000004,0.0345,0.0196
 2022-04-18 08:30:55.379976,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lens,0.0145,0.0244,0.0099
 2022-04-18 09:30:44.115908,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Crystal Palace,0.01419999999999999,0.3846,0.3704
@@ -65,14 +62,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-18 09:30:43.754428,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,0.012899999999999995,0.1667,0.1538
 2022-04-18 09:30:43.307753,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Getafe,0.011199999999999995,0.0588,0.0476
 2022-04-18 05:30:43.562488,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.011099999999999999,0.241,0.2299
-2022-04-17 22:30:50.633022,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.011099999999999999,0.241,0.2299
 2022-04-18 07:30:20.540906,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.011099999999999999,0.241,0.2299
+2022-04-17 22:30:50.633022,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.011099999999999999,0.241,0.2299
 2022-04-18 09:30:42.749076,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,0.010099999999999998,0.1053,0.0952
 2022-04-18 06:33:06.548310,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Treylon Burks,-0.0102,0.0667,0.0769
 2022-04-18 08:30:54.182113,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,-0.010699999999999987,0.3226,0.3333
-2022-04-18 01:32:42.335559,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.011099999999999999,0.2299,0.241
-2022-04-18 06:33:05.258417,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.011099999999999999,0.2299,0.241
 2022-04-18 08:30:54.145572,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.011099999999999999,0.2299,0.241
+2022-04-18 06:33:05.258417,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.011099999999999999,0.2299,0.241
+2022-04-18 01:32:42.335559,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.011099999999999999,0.2299,0.241
 2022-04-18 06:33:06.513043,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Aidan Hutchinson,-0.011499999999999955,0.6552,0.6667
 2022-04-18 08:30:54.182113,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.012899999999999995,0.1538,0.1667
 2022-04-18 05:30:43.429900,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Utah Jazz,-0.0131,0.0345,0.0476
@@ -81,39 +78,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-18 08:30:55.374086,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Gaetan Laborde,-0.014499999999999999,0.0149,0.0294
 2022-04-18 08:30:55.374086,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Jonathan David,-0.0145,0.0099,0.0244
 2022-04-18 09:30:42.749076,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.014600000000000002,0.2632,0.2778
-2022-04-18 09:30:43.238405,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,RB Leipzig,-0.014900000000000004,0.0196,0.0345
 2022-04-18 08:30:54.198792,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Toronto Raptors,-0.014900000000000004,0.0196,0.0345
+2022-04-18 09:30:43.238405,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,RB Leipzig,-0.014900000000000004,0.0196,0.0345
 2022-04-18 05:30:43.429900,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,-0.016600000000000004,0.0667,0.0833
 2022-04-18 09:30:44.115908,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Southampton,-0.0174,0.2326,0.25
 2022-04-18 09:30:44.133670,England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Kevin De Bruyne,-0.0179,0.125,0.1429
+2022-04-18 09:30:43.339737,MLS - MLS Cup 2022 - Top Goalscorer,Karol Swiderski,-0.018099999999999998,0.0588,0.0769
 2022-04-18 08:30:55.379976,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lyon,-0.018099999999999998,0.0588,0.0769
 2022-04-18 09:30:43.579089,A-League - Australia A-League 2021/2022 - Grand Final Winner,Wellington Phoenix,-0.018099999999999998,0.0588,0.0769
-2022-04-18 09:30:43.339737,MLS - MLS Cup 2022 - Top Goalscorer,Karol Swiderski,-0.018099999999999998,0.0588,0.0769
 2022-04-18 09:30:43.339737,MLS - MLS Cup 2022 - Top Goalscorer,Josef Martinez,-0.018099999999999998,0.0588,0.0769
 2022-04-18 09:30:44.095791,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Burnley,-0.018200000000000004,0.0294,0.0476
-2022-04-17 21:30:44.845377,"TV Specials - Who will be cast as the Next Dr. Who, after Jodie Whittaker? - Outright",Lydia West,-0.01820000000000002,0.1818,0.2
 2022-04-18 08:30:55.379976,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Rennes,-0.018999999999999906,0.7143,0.7333
-2022-04-17 21:30:44.831281,TV Specials - Homelander Kill Count for Season 3 of The Boys on Amazon - Proposition,76-100,-0.019000000000000017,0.2667,0.2857
 2022-04-18 08:30:55.438797,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Inter Milan,-0.020100000000000007,0.75,0.7701
 2022-04-18 00:30:55.407114,Serie A - Serie A 2021/22 - Outright,Olimpia Milano,-0.021699999999999997,0.4545,0.4762
-2022-04-18 08:30:54.198792,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.022199999999999998,0.3226,0.3448
 2022-04-18 05:30:43.429900,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.022199999999999998,0.1111,0.1333
+2022-04-18 08:30:54.198792,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.022199999999999998,0.3226,0.3448
 2022-04-17 22:30:51.320149,Spain La Liga - Spain La Liga 2021/22 - Outright Winner,FC Barcelona,-0.023200000000000002,0.0294,0.0526
 2022-04-18 09:30:44.110985,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Arsenal,-0.024500000000000077,0.9167,0.9412
 2022-04-18 09:30:43.315111,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Sevilla,-0.025000000000000022,0.875,0.9
-2022-04-17 21:30:44.831281,TV Specials - Homelander Kill Count for Season 3 of The Boys on Amazon - Proposition,51-75,-0.02560000000000001,0.3077,0.3333
 2022-04-18 06:33:06.548310,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Garrett Wilson,-0.027700000000000002,0.4167,0.4444
 2022-04-18 00:30:55.338648,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,-0.027800000000000005,0.0833,0.1111
 2022-04-18 09:30:43.754428,Allsvenskan - Swedish Allsvenskan 2022 - Outright,AIK,-0.028799999999999992,0.125,0.1538
 2022-04-18 09:30:43.315111,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Sociedad,-0.028799999999999992,0.125,0.1538
-2022-04-18 09:30:44.077335,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Leicester City,-0.029299999999999993,0.0476,0.0769
 2022-04-18 08:30:55.459839,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Lazio,-0.029299999999999993,0.0476,0.0769
-2022-04-17 21:30:44.831281,TV Specials - Homelander Kill Count for Season 3 of The Boys on Amazon - Proposition,26-50,-0.030299999999999994,0.3333,0.3636
+2022-04-18 09:30:44.077335,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Leicester City,-0.029299999999999993,0.0476,0.0769
 2022-04-18 09:30:44.077335,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,West Ham United,-0.033299999999999996,0.8,0.8333
 2022-04-18 08:30:55.438797,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Napoli,-0.033300000000000024,0.1667,0.2
 2022-04-18 09:30:44.090201,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,-0.035699999999999954,0.7143,0.75
 2022-04-18 08:30:54.198792,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.03570000000000001,0.25,0.2857
-2022-04-17 21:30:44.590603,Marvel Specials - Will Any Of These Characters Appear in Ironheart on Disney+? - Outright,Blade,-0.03570000000000001,0.25,0.2857
 2022-04-18 09:30:43.238405,Germany Bundesliga - German Bundesliga 2021/22 - Winner without Bayern Munich,Bayer Leverkusen,-0.0365,0.002,0.0385
 2022-04-18 09:30:43.713017,Primeira Liga - Portugal Primeira Liga 2021/2022 - Outright,Sporting CP,-0.0373,0.0294,0.0667
 2022-04-18 09:30:43.248460,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Hoffenheim,-0.037700000000000004,0.0099,0.0476
@@ -121,6 +113,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-18 06:33:06.548310,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Drake London,-0.0398,0.3448,0.3846
 2022-04-18 09:30:44.125754,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Everton,-0.04039999999999999,0.7778,0.8182
 2022-04-18 08:30:55.374086,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Wissam Ben Yedder,-0.04040000000000002,0.1818,0.2222
+2022-04-18 10:30:33.416413,Boxing Lines - Michael Zerafa vs Issac Hardman - To Win the Bout,Issac Hardman,-0.04409999999999992,0.6226,0.6667
 2022-04-18 08:30:55.459839,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Juventus,-0.044399999999999995,0.8889,0.9333
 2022-04-18 06:33:05.615574,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,-0.04769999999999999,0.0952,0.1429
 2022-04-18 09:30:44.115908,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Newcastle United,-0.048100000000000004,0.0769,0.125
@@ -131,13 +124,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-18 09:30:43.307753,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Elche,-0.062,0.0149,0.0769
 2022-04-18 09:30:43.307753,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Levante,-0.0635,0.8889,0.9524
 2022-04-18 08:30:55.379976,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Strasbourg,-0.066,0.0769,0.1429
-2022-04-18 08:30:54.667003,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,-0.06659999999999999,0.2667,0.3333
 2022-04-18 05:30:43.952879,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,-0.06659999999999999,0.2667,0.3333
 2022-04-18 02:30:47.770258,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,-0.06659999999999999,0.2667,0.3333
+2022-04-18 08:30:54.667003,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,-0.06659999999999999,0.2667,0.3333
 2022-04-18 09:30:44.121026,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Wolverhampton Wanderers,-0.06699999999999999,0.0099,0.0769
-2022-04-18 07:30:21.544029,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,-0.06820000000000004,0.75,0.8182
-2022-04-18 04:30:18.582036,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,-0.06820000000000004,0.75,0.8182
 2022-04-18 01:32:42.747728,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,-0.06820000000000004,0.75,0.8182
+2022-04-18 04:30:18.582036,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,-0.06820000000000004,0.75,0.8182
+2022-04-18 07:30:21.544029,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,-0.06820000000000004,0.75,0.8182
 2022-04-18 09:30:44.110985,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,-0.07789999999999997,0.2857,0.3636
 2022-04-18 08:30:55.374086,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Martin Terrier,-0.07930000000000001,0.1429,0.2222
 2022-04-18 08:30:55.365707,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Rennes,-0.07940000000000003,0.4444,0.5238
