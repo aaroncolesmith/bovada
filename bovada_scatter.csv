@@ -34,6 +34,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-19 15:31:45.193163,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Charles Cross,0.050000000000000044,0.8,0.75
 2022-04-19 15:31:45.928708,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,0.048100000000000004,0.125,0.0769
 2022-04-19 15:31:45.224984,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Ahmad Gardner,0.04620000000000002,0.2,0.1538
+2022-04-19 16:31:18.250350,NFL Specials - 2022 NFL Draft Props - 1st Cornerback Selected,Ahmad Gardner,0.04619999999999991,0.8462,0.8
 2022-04-19 15:31:45.848003,NBA Season Props - 2021/22 Stage of Elimination - Philadelphia 76ers,Lose in the Conference Finals,0.04459999999999997,0.3571,0.3125
 2022-04-19 15:31:47.306256,League One - England League One 2021/22 - Top 6 Finish,Plymouth Argyle,0.044500000000000095,0.7778,0.7333
 2022-04-19 15:31:46.147346,NBA Specials - Next Full time Head coach of the LA Lakers - Outright,Mark Jackson,0.044399999999999995,0.4444,0.4
@@ -55,6 +56,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-19 15:31:46.423218,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Getafe,0.0321,0.0909,0.0588
 2022-04-19 15:31:45.193163,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Garrett Wilson,0.02960000000000007,0.6296,0.6
 2022-04-19 15:31:47.396307,Superettan - Swedish Superettan 2022 - Outright,Örebro SK,0.027999999999999997,0.1818,0.1538
+2022-04-19 16:31:21.374989,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Tigres UANL,0.02779999999999999,0.25,0.2222
 2022-04-19 15:31:47.050459,Superligaen - Denmark Superligaen 2021/22 - Outright,FC Copenhagen,0.02429999999999999,0.9474,0.9231
 2022-04-19 15:31:47.306256,League One - England League One 2021/22 - Top 6 Finish,Sheffield Wednesday,0.0242,0.9333,0.9091
 2022-04-19 15:31:45.893691,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Winning Conference,Western Conference,0.023800000000000043,0.5238,0.5
@@ -62,8 +64,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-19 15:31:47.306256,League One - England League One 2021/22 - Top 6 Finish,Sunderland,0.023799999999999932,0.8571,0.8333
 2022-04-19 15:31:45.972807,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.02250000000000002,0.2857,0.2632
 2022-04-19 15:31:45.204090,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Kyle Hamilton,0.022199999999999998,0.2222,0.2
-2022-04-19 15:31:47.275960,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,0.021699999999999997,0.4762,0.4545
+2022-04-19 16:31:21.374989,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,FC Puebla,0.022199999999999998,0.1333,0.1111
+2022-04-19 16:31:21.374989,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Chivas Guadalajara,0.022099999999999998,0.0385,0.0164
 2022-04-19 15:31:45.906157,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Winning Division,Pacific Division,0.021699999999999997,0.4762,0.4545
+2022-04-19 15:31:47.275960,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,0.021699999999999997,0.4762,0.4545
 2022-04-19 15:31:45.928708,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jordan Poole,0.021300000000000003,0.0323,0.011
 2022-04-19 15:31:46.980893,England Championship - England Championship 21/22 - Outright,Bournemouth,0.0203,0.0588,0.0385
 2022-04-19 15:31:46.995728,England Championship - England Championship 21/22 - To Be Promoted,Bournemouth,0.020299999999999985,0.9615,0.9412
@@ -72,6 +76,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-19 15:31:45.972807,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.01970000000000005,0.5652,0.5455
 2022-04-19 15:31:45.803409,NBA Season Props - 2021/22 Stage of Elimination - Milwuakee Bucks,Lose in the Conference Semi-Finals,0.019699999999999995,0.4545,0.4348
 2022-04-19 15:31:45.972807,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,0.019099999999999995,0.0435,0.0244
+2022-04-19 16:31:21.374989,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Pumas UNAM,0.019099999999999992,0.0667,0.0476
 2022-04-19 15:31:47.396307,Superettan - Swedish Superettan 2022 - Outright,Trelleborgs FF,0.018799999999999997,0.0588,0.04
 2022-04-19 15:31:45.204090,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Drake London,0.0179,0.1429,0.125
 2022-04-19 15:31:45.683944,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Eastern Conference Finals,BKN Nets v PHI 76ers,0.01759999999999999,0.1176,0.1
@@ -86,32 +91,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-19 15:31:45.244502,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Desmond Ridder,0.013999999999999999,0.0909,0.0769
 2022-04-19 15:31:47.287889,League One - England League One 2021/22 - To Be Relegated,Gillingham,0.013799999999999923,0.6364,0.6226
 2022-04-19 15:31:43.589124,Boxing Lines - Michael Zerafa vs Issac Hardman - To Win the Bout,Michael Zerafa,0.013300000000000034,0.3704,0.3571
-2022-04-19 15:31:47.265281,League One - England League One 2021/22 - Top Goalscorer,Will Keane (Wigan),0.0131,0.2353,0.2222
-2022-04-19 15:31:45.193163,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Malik Willis,0.0131,0.7778,0.7647
 2022-04-19 15:31:46.995728,England Championship - England Championship 21/22 - To Be Promoted,Sheffield United,0.0131,0.2353,0.2222
 2022-04-19 15:31:45.204090,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Jermaine Johnson,0.0131,0.2353,0.2222
+2022-04-19 15:31:47.265281,League One - England League One 2021/22 - Top Goalscorer,Will Keane (Wigan),0.0131,0.2353,0.2222
+2022-04-19 15:31:45.193163,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Malik Willis,0.0131,0.7778,0.7647
 2022-04-19 15:31:45.696336,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Western Conference Finals,UTA Jazz v GS Warriors,0.012899999999999995,0.1667,0.1538
 2022-04-19 15:31:45.960081,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.012899999999999995,0.1667,0.1538
 2022-04-19 15:31:45.193163,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Nakobe Dean,0.012700000000000003,0.0323,0.0196
 2022-04-19 15:31:46.995728,England Championship - England Championship 21/22 - To Be Promoted,Nottingham Forest,0.012699999999999989,0.3636,0.3509
-2022-04-19 15:31:45.848003,NBA Season Props - 2021/22 Stage of Elimination - Philadelphia 76ers,Win the NBA Championship,0.012600000000000007,0.0714,0.0588
 2022-04-19 15:31:45.947388,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Philadelphia 76ers,0.012600000000000007,0.0714,0.0588
+2022-04-19 15:31:45.848003,NBA Season Props - 2021/22 Stage of Elimination - Philadelphia 76ers,Win the NBA Championship,0.012600000000000007,0.0714,0.0588
+2022-04-19 16:31:18.260938,NFL Specials - 2022 NFL Draft Props - 1st Offensive Lineman Selected,Ikem Ekwonu,0.012299999999999978,0.6552,0.6429
 2022-04-19 08:31:25.954549,Boxing Lines - Michael Zerafa vs Issac Hardman - To Win the Bout,Michael Zerafa,0.012299999999999978,0.3571,0.3448
 2022-04-19 15:31:45.367255,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Devin Lloyd Draft Position,Over 18.5,0.012199999999999989,0.5122,0.5
 2022-04-19 05:30:57.216882,Japan B League - Japan League B1 2021/22 - Outright,Alvark Tokyo,0.011700000000000016,0.2222,0.2105
 2022-04-19 15:31:45.528929,NFL Specials - 2022 NFL Draft Props - Total Number of Offensive Players Drafted in Round 1,Over 16.5,0.011600000000000055,0.5238,0.5122
-2022-04-19 15:31:45.498349,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Tyler Linderbaum Draft Position,Over 27.5,0.011600000000000055,0.5238,0.5122
 2022-04-19 15:31:45.377819,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Drake London Draft Position,Under 10.5,0.011600000000000055,0.5238,0.5122
+2022-04-19 15:31:45.498349,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Tyler Linderbaum Draft Position,Over 27.5,0.011600000000000055,0.5238,0.5122
 2022-04-19 05:30:57.233525,LNB Pro A - LNB Pro A 2021/22 - Outright,Monaco,0.0116,0.4878,0.4762
 2022-04-19 15:31:45.204090,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Jameson Williams,0.011199999999999995,0.0588,0.0476
-2022-04-19 15:31:45.928708,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jayson Tatum,0.011099999999999999,0.1111,0.1
 2022-04-19 15:31:46.431750,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,0.011099999999999999,0.9,0.8889
-2022-04-19 15:31:45.960081,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,0.010899999999999993,0.1538,0.1429
-2022-04-19 15:31:47.275960,League One - England League One 2021/22 - To Be Promoted,Plymouth Argyle,0.010899999999999993,0.1538,0.1429
+2022-04-19 15:31:45.928708,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jayson Tatum,0.011099999999999999,0.1111,0.1
 2022-04-19 15:31:45.193163,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Devin Lloyd,0.010899999999999993,0.1538,0.1429
+2022-04-19 15:31:47.275960,League One - England League One 2021/22 - To Be Promoted,Plymouth Argyle,0.010899999999999993,0.1538,0.1429
+2022-04-19 15:31:45.960081,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,0.010899999999999993,0.1538,0.1429
 2022-04-19 15:31:45.947388,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.010699999999999987,0.3333,0.3226
-2022-04-19 15:31:45.193163,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Chris Olave,0.0102,0.0769,0.0667
 2022-04-19 15:31:45.193163,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Treylon Burks,0.0102,0.0769,0.0667
+2022-04-19 15:31:45.193163,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Chris Olave,0.0102,0.0769,0.0667
 2022-04-19 15:31:46.147346,NBA Specials - Next Full time Head coach of the LA Lakers - Outright,Sam Cassell,-0.0102,0.0667,0.0769
 2022-04-19 15:31:47.396307,Superettan - Swedish Superettan 2022 - Outright,Östersunds FK,-0.010600000000000002,0.0294,0.04
 2022-04-19 15:31:47.396307,Superettan - Swedish Superettan 2022 - Outright,Västerås SK,-0.010600000000000002,0.0294,0.04
@@ -119,29 +125,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-19 15:31:45.947388,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.010899999999999993,0.1429,0.1538
 2022-04-19 15:31:45.193163,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Derek Stingley,-0.01100000000000001,0.5238,0.5348
 2022-04-19 15:31:45.193163,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Sam Howell,-0.011199999999999995,0.0476,0.0588
-2022-04-19 15:31:45.224984,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Ikem Ekwonu,-0.01150000000000001,0.3333,0.3448
 2022-04-19 15:31:45.256031,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Drake London,-0.01150000000000001,0.3333,0.3448
-2022-04-19 15:31:45.477744,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Trevor Penning Draft Position,Over 16.5,-0.011600000000000055,0.5122,0.5238
+2022-04-19 15:31:45.224984,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Ikem Ekwonu,-0.01150000000000001,0.3333,0.3448
 2022-04-19 15:31:45.399006,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Ikem Ekwonu Draft Position,Under 3.5,-0.011600000000000055,0.5122,0.5238
 2022-04-19 15:31:45.336580,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Chris Olave Draft Position,Over 17.5,-0.011600000000000055,0.5122,0.5238
+2022-04-19 15:31:45.477744,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Trevor Penning Draft Position,Over 16.5,-0.011600000000000055,0.5122,0.5238
 2022-04-19 15:31:45.972807,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,-0.012700000000000003,0.0196,0.0323
 2022-04-19 15:31:45.696336,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Western Conference Finals,DEN Nuggets v UTA Jazz,-0.013699999999999999,0.0141,0.0278
-2022-04-19 15:31:46.431750,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Sociedad,-0.013899999999999996,0.1111,0.125
 2022-04-19 15:31:47.275960,League One - England League One 2021/22 - To Be Promoted,Wycombe,-0.013899999999999996,0.1111,0.125
-2022-04-19 15:31:45.224984,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Kyle Hamilton,-0.013999999999999999,0.0769,0.0909
+2022-04-19 15:31:46.431750,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Sociedad,-0.013899999999999996,0.1111,0.125
 2022-04-19 15:31:45.193163,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Desmond Ridder,-0.013999999999999999,0.0769,0.0909
+2022-04-19 15:31:45.224984,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Kyle Hamilton,-0.013999999999999999,0.0769,0.0909
 2022-04-19 05:30:57.249027,Bundesliga - Bundesliga 2021/22 - Outright,MHP Riesen Ludwigsburg,-0.014099999999999994,0.0526,0.0667
 2022-04-19 15:31:47.160710,Serie B - Italy Serie B 2021/22 - Outright,Brescia,-0.014099999999999998,0.0244,0.0385
 2022-04-19 15:31:47.256005,League One - England League One 2021/22 - Outright,Milton Keynes Dons,-0.014100000000000001,0.0385,0.0526
+2022-04-19 16:31:18.250350,NFL Specials - 2022 NFL Draft Props - 1st Cornerback Selected,Trent McDuffie,-0.014399999999999996,0.0625,0.0769
 2022-04-19 15:31:47.297152,League One - England League One 2021/22 - Top 2 Finish,Sunderland,-0.0145,0.0099,0.0244
 2022-04-19 15:31:45.215066,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Kyle Hamilton,-0.014899999999999997,0.0476,0.0625
 2022-04-19 15:31:45.175136,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Evan Neal,-0.014899999999999997,0.0476,0.0625
 2022-04-19 15:31:45.906157,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Winning Division,Northwest Division,-0.014899999999999997,0.0476,0.0625
 2022-04-19 15:31:45.947388,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Utah Jazz,-0.0157,0.0278,0.0435
 2022-04-19 15:31:47.275960,League One - England League One 2021/22 - To Be Promoted,Sunderland,-0.016699999999999993,0.25,0.2667
+2022-04-19 16:31:18.250350,NFL Specials - 2022 NFL Draft Props - 1st Cornerback Selected,Derek Stingley Jr.,-0.016699999999999993,0.25,0.2667
 2022-04-19 15:31:47.352165,League Two - England League Two 2021/22 - Top 3 Finish,Swindon Town,-0.017800000000000003,0.0066,0.0244
 2022-04-19 05:30:57.233525,LNB Pro A - LNB Pro A 2021/22 - Outright,Levallois,-0.0179,0.125,0.1429
 2022-04-19 15:31:45.683944,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Eastern Conference Finals,BOS Celtics v TOR Raptors,-0.0182,0.0141,0.0323
+2022-04-19 16:31:18.260938,NFL Specials - 2022 NFL Draft Props - 1st Offensive Lineman Selected,Trevor Penning,-0.018200000000000004,0.0294,0.0476
 2022-04-19 15:31:45.538533,NFL Specials - 2022 NFL Draft Props - Total Number of Quarterbacks Drafted in Round 1,Under 3.5,-0.018399999999999972,0.6875,0.7059
 2022-04-19 15:31:45.256031,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Treylon Burks,-0.019099999999999992,0.0476,0.0667
 2022-04-19 15:31:45.893691,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Winning Conference,Eastern Conference,-0.01970000000000005,0.5455,0.5652
@@ -153,7 +162,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-19 15:31:45.683944,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Eastern Conference Finals,TOR Raptors v MIL Bucks,-0.023899999999999998,0.0196,0.0435
 2022-04-19 15:31:47.396307,Superettan - Swedish Superettan 2022 - Outright,Halmstads BK,-0.02400000000000002,0.25,0.274
 2022-04-19 15:31:47.265281,League One - England League One 2021/22 - Top Goalscorer,Alfie May (Cheltenham),-0.0242,0.0667,0.0909
+2022-04-19 16:31:21.374989,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Club León,-0.0242,0.0667,0.0909
 2022-04-19 15:31:47.027233,England Championship - England Championship 21/22 - Top 6 Finish,West Bromwich Albion,-0.024600000000000004,0.0099,0.0345
+2022-04-19 16:31:18.271199,NFL Specials - 2022 NFL Draft Props - 1st RB Selected,Kyren Williams,-0.024800000000000003,0.0278,0.0526
+2022-04-19 16:31:21.374989,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Cruz Azul,-0.024999999999999994,0.1,0.125
 2022-04-19 15:31:47.050459,Superligaen - Denmark Superligaen 2021/22 - Outright,FC Midtjylland,-0.025300000000000003,0.1176,0.1429
 2022-04-19 15:31:45.960081,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.02779999999999999,0.2222,0.25
 2022-04-19 15:31:45.215066,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Ikem Ekwonu,-0.029299999999999993,0.0476,0.0769
@@ -165,8 +177,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-19 15:31:47.027233,England Championship - England Championship 21/22 - Top 6 Finish,Sheffield United,-0.037800000000000056,0.5455,0.5833
 2022-04-19 15:31:45.696336,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Western Conference Finals,DEN Nuggets v PHO Suns,-0.0384,0.0385,0.0769
 2022-04-19 15:31:47.335273,League Two - England League Two 2021/22 - To Be Promoted,Salford City,-0.0384,0.0385,0.0769
-2022-04-19 15:31:46.147346,NBA Specials - Next Full time Head coach of the LA Lakers - Outright,Nick Nurse,-0.03889999999999999,0.1429,0.1818
 2022-04-19 15:31:45.224984,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Travon Walker,-0.03889999999999999,0.1429,0.1818
+2022-04-19 15:31:46.147346,NBA Specials - Next Full time Head coach of the LA Lakers - Outright,Nick Nurse,-0.03889999999999999,0.1429,0.1818
 2022-04-19 15:31:47.027233,England Championship - England Championship 21/22 - Top 6 Finish,Coventry City,-0.0392,0.0196,0.0588
 2022-04-19 15:31:45.803409,NBA Season Props - 2021/22 Stage of Elimination - Milwuakee Bucks,Lose in the Conference Finals,-0.04099999999999998,0.2222,0.2632
 2022-04-19 15:31:45.876410,NBA Season Props - 2021/22 Stage of Elimination - Toronto Raptors,Lose in the Conference Semi-Finals,-0.04240000000000001,0.0909,0.1333
@@ -175,6 +187,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-19 15:31:47.265281,League One - England League One 2021/22 - Top Goalscorer,Ross Stewart (Sunderland),-0.04910000000000003,0.3509,0.4
 2022-04-19 15:31:47.343406,League Two - England League Two 2021/22 - To Be Relegated,Barrow FC,-0.052300000000000006,0.0588,0.1111
 2022-04-19 15:31:45.803409,NBA Season Props - 2021/22 Stage of Elimination - Milwuakee Bucks,Lose in the 1st Round,-0.053599999999999995,0.0714,0.125
+2022-04-19 16:31:21.374989,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Monterrey,-0.05550000000000002,0.1667,0.2222
 2022-04-19 15:31:45.352132,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Derek Stingley Draft Position,Over 11.5,-0.057699999999999974,0.4545,0.5122
 2022-04-19 15:31:47.396307,Superettan - Swedish Superettan 2022 - Outright,Örgryte IS,-0.061500000000000006,0.0385,0.1
 2022-04-19 15:31:46.389142,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Atalanta,-0.06649999999999999,0.0244,0.0909
@@ -183,6 +196,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-19 15:31:46.368743,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Dusan Vlahovic,-0.06670000000000004,0.3333,0.4
 2022-04-19 06:31:06.506357,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,-0.06820000000000004,0.75,0.8182
 2022-04-19 15:31:45.876410,NBA Season Props - 2021/22 Stage of Elimination - Toronto Raptors,Lose in the Conference Finals,-0.06999999999999999,0.0476,0.1176
+2022-04-19 16:31:18.271199,NFL Specials - 2022 NFL Draft Props - 1st RB Selected,Kenneth Walker III,-0.0701,0.2632,0.3333
+2022-04-19 16:31:18.271199,NFL Specials - 2022 NFL Draft Props - 1st RB Selected,Isaiah Spiller,-0.0708,0.0625,0.1333
 2022-04-19 15:31:47.335273,League Two - England League Two 2021/22 - To Be Promoted,Newport County,-0.0726,0.0385,0.1111
 2022-04-19 15:31:47.335273,League Two - England League Two 2021/22 - To Be Promoted,Swindon Town,-0.0769,0.0769,0.1538
 2022-04-19 15:31:47.256005,League One - England League One 2021/22 - Outright,Wigan Athletic,-0.07929999999999993,0.7778,0.8571
