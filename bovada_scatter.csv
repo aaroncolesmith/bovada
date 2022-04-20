@@ -8,6 +8,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-20 11:30:37.610214,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.10649999999999998,0.3922,0.2857
 2022-04-20 11:30:39.234628,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Mohamed Salah,0.09589999999999999,0.9709,0.875
 2022-04-20 11:30:39.024530,Superettan - Swedish Superettan 2022 - Outright,Halmstads BK,0.08329999999999999,0.3333,0.25
+2022-04-20 14:31:20.558610,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Napoli,0.07579999999999999,0.1667,0.0909
 2022-04-20 11:30:38.403938,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Napoli,0.07579999999999999,0.1667,0.0909
 2022-04-20 11:30:37.054709,BKFC 23 - Frank Tate vs Joey Beltran - To Win the Bout,Joey Beltran,0.07299999999999995,0.6078,0.5348
 2022-04-20 06:30:55.742844,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.0676,0.2105,0.1429
@@ -28,12 +29,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-20 11:30:38.453809,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,0.033299999999999996,0.9333,0.9
 2022-04-20 03:30:55.657726,Boxing Lines - Isaac Lowe vs Nick Ball - To Win the Bout,Nick Ball,0.031799999999999995,0.4762,0.4444
 2022-04-20 11:30:38.453809,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Sociedad,0.031799999999999995,0.1429,0.1111
-2022-04-20 13:31:07.869327,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Memphis Grizzlies,0.028799999999999992,0.1538,0.125
 2022-04-20 13:31:07.823427,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,0.028799999999999992,0.1538,0.125
+2022-04-20 13:31:07.869327,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Memphis Grizzlies,0.028799999999999992,0.1538,0.125
 2022-04-20 13:31:10.386608,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Wolverhampton Wanderers,0.0286,0.0385,0.0099
 2022-04-20 11:30:39.301676,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Manchester United,0.028200000000000003,0.9615,0.9333
 2022-04-20 11:30:37.602032,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.02779999999999999,0.25,0.2222
 2022-04-20 11:30:38.942900,League One - England League One 2021/22 - Top 2 Finish,Wigan Athletic,0.027100000000000013,0.998,0.9709
+2022-04-20 14:31:19.908604,NBA Specials - Will Nick Nurse be Asked to Comment Post Game on what he said to Joel Embiid During Game 3 of the Series - Outright,No,0.026800000000000046,0.7143,0.6875
+2022-04-20 14:31:19.901551,NBA Specials - Will Joel Embiid be Asked to Comment Post Game on what he said to  Nick Nurse During Game 3 of the Series - Outright,No,0.026800000000000046,0.7143,0.6875
 2022-04-20 13:31:07.709974,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Eastern Conference Finals,BOS Celtics v MIA Heat,0.026500000000000024,0.2083,0.1818
 2022-04-20 11:30:39.262164,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Tottenham Hotspur,0.025600000000000067,0.6923,0.6667
 2022-04-20 11:30:39.262164,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Arsenal,0.02560000000000001,0.3333,0.3077
@@ -55,18 +58,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-20 07:32:53.784871,College Season Props - Odds to win 2022 Heisman Trophy - Outright,Jahmyr Gibbs,0.011199999999999995,0.0435,0.0323
 2022-04-20 13:31:07.839903,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.011099999999999999,0.2778,0.2667
 2022-04-20 13:31:07.823427,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jaylen Brown,0.010700000000000001,0.0385,0.0278
-2022-04-20 13:31:08.237342,Boxing Lines - Shakur Stevenson vs Oscar Valdez - To Win the Bout,Oscar Valdez,0.010499999999999982,0.2105,0.2
+2022-04-20 14:31:19.235490,BKFC 23 - Frank Tate vs Joey Beltran - To Win the Bout,Frank Tate,0.010599999999999998,0.4651,0.4545
 2022-04-20 07:32:53.869317,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Ahmad Gardner,0.010499999999999982,0.2105,0.2
+2022-04-20 13:31:08.237342,Boxing Lines - Shakur Stevenson vs Oscar Valdez - To Win the Bout,Oscar Valdez,0.010499999999999982,0.2105,0.2
 2022-04-20 13:31:07.839903,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Philadelphia 76ers,0.0102,0.0769,0.0667
 2022-04-20 11:30:37.610214,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Minnesota Timberwolves,-0.010700000000000001,0.0278,0.0385
 2022-04-20 11:30:37.602032,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.010899999999999993,0.1429,0.1538
 2022-04-20 13:31:07.823427,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jayson Tatum,-0.011099999999999999,0.1,0.1111
 2022-04-20 11:30:38.794353,England Championship - England Championship 21/22 - Top 6 Finish,Luton Town,-0.0121,0.9756,0.9877
-2022-04-20 13:31:07.709974,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Eastern Conference Finals,MIL Bucks v ATL Hawks,-0.012700000000000003,0.0196,0.0323
 2022-04-20 13:31:07.823427,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Donovan Mitchell,-0.012700000000000003,0.0196,0.0323
+2022-04-20 13:31:07.709974,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Eastern Conference Finals,MIL Bucks v ATL Hawks,-0.012700000000000003,0.0196,0.0323
 2022-04-20 13:31:07.823427,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Giannis Antetokounmpo,-0.012899999999999995,0.1538,0.1667
-2022-04-20 11:30:39.024530,Superettan - Swedish Superettan 2022 - Outright,Östersunds FK,-0.012999999999999998,0.0164,0.0294
 2022-04-20 11:30:39.024530,Superettan - Swedish Superettan 2022 - Outright,Västerås SK,-0.012999999999999998,0.0164,0.0294
+2022-04-20 11:30:39.024530,Superettan - Swedish Superettan 2022 - Outright,Östersunds FK,-0.012999999999999998,0.0164,0.0294
 2022-04-20 11:30:38.781281,England Championship - England Championship 21/22 - To Be Promoted,Luton Town,-0.0131,0.2222,0.2353
 2022-04-20 11:30:38.781281,England Championship - England Championship 21/22 - To Be Promoted,Sheffield United,-0.0131,0.2222,0.2353
 2022-04-20 13:31:07.709974,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Eastern Conference Finals,PHI 76ers v MIL Bucks,-0.01319999999999999,0.25,0.2632
@@ -83,6 +87,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-20 11:30:39.024530,Superettan - Swedish Superettan 2022 - Outright,Trelleborgs FF,-0.0203,0.0385,0.0588
 2022-04-20 11:30:38.920031,League One - England League One 2021/22 - To Be Promoted,Plymouth Argyle,-0.02049999999999999,0.1333,0.1538
 2022-04-20 13:31:07.807088,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Winning Division,Pacific Division,-0.021699999999999997,0.4545,0.4762
+2022-04-20 14:31:19.901551,NBA Specials - Will Joel Embiid be Asked to Comment Post Game on what he said to  Nick Nurse During Game 3 of the Series - Outright,Yes,-0.021799999999999986,0.3704,0.3922
+2022-04-20 14:31:19.908604,NBA Specials - Will Nick Nurse be Asked to Comment Post Game on what he said to Joel Embiid During Game 3 of the Series - Outright,Yes,-0.021799999999999986,0.3704,0.3922
 2022-04-20 11:30:38.949622,League One - England League One 2021/22 - Top 6 Finish,Sunderland,-0.023799999999999932,0.8333,0.8571
 2022-04-20 06:30:57.436571,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Chris Olave Draft Position,Over 17.5,-0.024399999999999977,0.4878,0.5122
 2022-04-20 13:31:07.839903,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.026999999999999996,0.2083,0.2353
@@ -101,12 +107,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-20 11:30:39.024530,Superettan - Swedish Superettan 2022 - Outright,IK Brage,-0.04440000000000001,0.0556,0.1
 2022-04-20 11:30:39.024530,Superettan - Swedish Superettan 2022 - Outright,Brommapojkarna,-0.04440000000000001,0.0556,0.1
 2022-04-20 11:30:38.949622,League One - England League One 2021/22 - Top 6 Finish,Plymouth Argyle,-0.044500000000000095,0.7333,0.7778
-2022-04-20 11:30:39.234628,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Son-Heung Min,-0.048100000000000004,0.0769,0.125
 2022-04-20 11:30:39.262164,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Manchester United,-0.048100000000000004,0.0769,0.125
+2022-04-20 11:30:39.234628,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Son-Heung Min,-0.048100000000000004,0.0769,0.125
 2022-04-20 11:30:38.824687,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,Union Berlin,-0.049100000000000005,0.1818,0.2309
 2022-04-20 11:30:38.403938,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Inter Milan,-0.050000000000000044,0.75,0.8
-2022-04-20 11:30:38.949622,League One - England League One 2021/22 - Top 6 Finish,Wycombe,-0.05070000000000002,0.4255,0.4762
+2022-04-20 14:31:20.558610,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Inter Milan,-0.050000000000000044,0.75,0.8
 2022-04-20 11:30:38.920031,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,-0.05070000000000002,0.4255,0.4762
+2022-04-20 11:30:38.949622,League One - England League One 2021/22 - Top 6 Finish,Wycombe,-0.05070000000000002,0.4255,0.4762
 2022-04-20 11:30:39.301676,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Chelsea,-0.052399999999999995,0.0385,0.0909
 2022-04-20 11:30:38.834866,Coppa Italia - Italy Coppa Italia 2021/22 - Outright Winner,Juventus,-0.05559999999999998,0.4444,0.5
 2022-04-20 11:30:38.913506,League One - England League One 2021/22 - Top Goalscorer,Ross Stewart (Sunderland),-0.06519999999999998,0.2857,0.3509
