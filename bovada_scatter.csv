@@ -3,8 +3,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-21 05:31:00.004200,Euro Cup - Euro Cup 2021/22 - Winner,Gran Canaria,0.1071,0.25,0.1429
 2022-04-21 05:31:00.004200,Euro Cup - Euro Cup 2021/22 - Winner,Virtus Bologna,0.09799999999999998,0.3333,0.2353
 2022-04-21 06:31:18.887101,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Kayvon Thibodeaux,0.07789999999999997,0.3636,0.2857
-2022-04-20 23:30:59.132481,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Napoli,0.07579999999999999,0.1667,0.0909
 2022-04-21 06:31:19.549800,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Napoli,0.07579999999999999,0.1667,0.0909
+2022-04-20 23:30:59.132481,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Napoli,0.07579999999999999,0.1667,0.0909
 2022-04-21 05:31:00.004200,Euro Cup - Euro Cup 2021/22 - Winner,Valencia,0.06820000000000001,0.25,0.1818
 2022-04-21 06:31:16.860870,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.0625,0.3125,0.25
 2022-04-21 05:31:00.004200,Euro Cup - Euro Cup 2021/22 - Winner,Bursaspor,0.0544,0.0667,0.0123
@@ -15,6 +15,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-20 20:31:05.908225,Star Wars Specials - Will any of these characters appear in 'The Mandalorian' Season 3 on Disney+ - Proposition,Cara Dune,0.0343,0.1176,0.0833
 2022-04-21 05:30:59.995517,Euroleague - Euroleague 2021/22 - Winner,Olympiakos,0.033300000000000024,0.2,0.1667
 2022-04-21 06:31:16.843967,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.031799999999999995,0.1429,0.1111
+2022-04-21 08:30:59.267438,Boxing Lines - Jeremy Smith vs Davian Green - To Win the Bout,Davian Green,0.030399999999999983,0.5652,0.5348
 2022-04-21 06:31:19.116234,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Garrett Wilson Draft Position,Under 10.5,0.030299999999999994,0.6667,0.6364
 2022-04-21 04:31:18.240731,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,0.028799999999999992,0.1538,0.125
 2022-04-21 05:31:00.004200,Euro Cup - Euro Cup 2021/22 - Winner,Ratiopharm Ulm,0.0286,0.0385,0.0099
@@ -33,19 +34,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-21 06:31:16.860870,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Chicago Bulls,0.0159,0.0323,0.0164
 2022-04-20 21:30:58.835332,BKFC 23 - Frank Tate vs Joey Beltran - To Win the Bout,Joey Beltran,0.015700000000000047,0.6296,0.6139
 2022-04-21 05:31:00.004200,Euro Cup - Euro Cup 2021/22 - Winner,Boulogne-Levallois,0.015300000000000001,0.0588,0.0435
-2022-04-21 05:30:59.995517,Euroleague - Euroleague 2021/22 - Winner,Real Madrid BC,0.015100000000000002,0.1818,0.1667
 2022-04-21 06:31:16.860870,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.015100000000000002,0.1818,0.1667
+2022-04-21 05:30:59.995517,Euroleague - Euroleague 2021/22 - Winner,Real Madrid BC,0.015100000000000002,0.1818,0.1667
 2022-04-21 06:31:16.878383,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,0.013999999999999999,0.0909,0.0769
 2022-04-21 06:31:16.843967,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,0.012899999999999995,0.1667,0.1538
 2022-04-21 03:31:21.032292,BKFC 23 - Frank Tate vs Joey Beltran - To Win the Bout,Joey Beltran,0.012700000000000045,0.6491,0.6364
 2022-04-21 06:31:19.291054,NFL Specials - 2022 NFL Draft Props - Total Number of Offensive Lineman Drafted in Round 1,Under 7.5,0.012299999999999978,0.6552,0.6429
 2022-04-21 04:31:18.240731,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.011899999999999994,0.25,0.2381
 2022-04-21 00:30:52.143838,Boxing Lines - Isaac Lowe vs Nick Ball - To Win the Bout,Nick Ball,0.0116,0.4878,0.4762
-2022-04-21 06:31:18.837549,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Aidan Hutchinson,0.011499999999999955,0.6667,0.6552
 2022-04-21 06:31:19.152269,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Kayvon Thibodeaux Draft Position,Under 5.5,0.011499999999999955,0.6667,0.6552
-2022-04-21 07:32:48.775773,Boxing Lines - Joel Diaz Jr vs Mercito Gesta - To Win the Bout,Mercito Gesta,0.011099999999999999,0.3774,0.3663
+2022-04-21 06:31:18.837549,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Aidan Hutchinson,0.011499999999999955,0.6667,0.6552
 2022-04-21 06:31:18.900750,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Derek Stingley,0.011099999999999999,0.1111,0.1
+2022-04-21 07:32:48.775773,Boxing Lines - Joel Diaz Jr vs Mercito Gesta - To Win the Bout,Mercito Gesta,0.011099999999999999,0.3774,0.3663
 2022-04-21 06:31:18.887101,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Ahmad Gardner,0.0102,0.0769,0.0667
+2022-04-21 08:30:59.275241,Boxing Lines - Joel Diaz Jr vs Mercito Gesta - To Win the Bout,Joel Diaz Jr,-0.010099999999999998,0.6774,0.6875
 2022-04-21 05:31:00.089739,LKL - LKL 2021/22 - Outright,Rytas,-0.010499999999999982,0.2,0.2105
 2022-04-21 05:31:00.040332,Japan B League - Japan League B1 2021/22 - Outright,Kawasaki Brave Thunders,-0.011099999999999999,0.1,0.1111
 2022-04-21 06:31:16.843967,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Brooklyn Nets,-0.011199999999999995,0.0476,0.0588
@@ -53,8 +55,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-21 04:31:18.240731,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.013899999999999996,0.1111,0.125
 2022-04-20 23:30:57.312794,Boxing Lines - Francesco Grandelli vs Kane Baker - To Win the Bout,Kane Baker,-0.013999999999999999,0.0769,0.0909
 2022-04-21 04:31:18.240731,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,-0.015100000000000002,0.1667,0.1818
-2022-04-21 06:31:16.878383,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,-0.015400000000000025,0.3846,0.4
 2022-04-21 06:31:18.887101,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Aidan Hutchinson,-0.015400000000000025,0.3846,0.4
+2022-04-21 06:31:16.878383,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,-0.015400000000000025,0.3846,0.4
 2022-04-20 22:30:45.967704,TV Specials - Homelander Kill Count for Season 3 of The Boys on Amazon - Proposition,76-100,-0.016699999999999993,0.25,0.2667
 2022-04-21 06:31:19.140525,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Jermaine Johnson Draft Position,Under 9.5,-0.017299999999999982,0.5744,0.5917
 2022-04-21 00:30:52.143838,Boxing Lines - Isaac Lowe vs Nick Ball - To Win the Bout,Isaac Lowe,-0.017299999999999982,0.5744,0.5917
@@ -74,11 +76,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-21 05:30:59.979258,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.031799999999999995,0.1111,0.1429
 2022-04-21 05:30:59.995517,Euroleague - Euroleague 2021/22 - Winner,Milano,-0.0321,0.0588,0.0909
 2022-04-21 06:31:16.843967,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,-0.033399999999999985,0.1333,0.1667
+2022-04-21 08:30:59.267438,Boxing Lines - Jeremy Smith vs Davian Green - To Win the Bout,Jeremy Smith,-0.03480000000000005,0.5,0.5348
 2022-04-21 06:31:18.887101,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Malik Willis,-0.036199999999999996,0.1176,0.1538
 2022-04-21 05:30:59.995517,Euroleague - Euroleague 2021/22 - Winner,Maccabi Tel-Aviv,-0.0384,0.0385,0.0769
 2022-04-21 06:31:18.887101,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Travon Walker,-0.04999999999999999,0.2,0.25
-2022-04-21 06:31:19.549800,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Inter Milan,-0.050000000000000044,0.75,0.8
 2022-04-20 23:30:59.132481,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Inter Milan,-0.050000000000000044,0.75,0.8
+2022-04-21 06:31:19.549800,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Inter Milan,-0.050000000000000044,0.75,0.8
 2022-04-20 22:30:46.887777,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Napoli,-0.07579999999999999,0.0909,0.1667
 2022-04-21 05:31:01.492029,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Napoli,-0.07579999999999999,0.0909,0.1667
 2022-04-21 06:31:16.860870,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.08559999999999998,0.2174,0.303
