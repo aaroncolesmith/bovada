@@ -23,8 +23,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-22 13:30:41.880819,A1 - Greece A1 2021/22 - Outright,Olympiacos,0.033399999999999985,0.8667,0.8333
 2022-04-22 15:31:03.356468,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,0.033300000000000024,0.2,0.1667
 2022-04-22 15:31:03.356468,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Ja Morant,0.0321,0.0909,0.0588
-2022-04-22 09:31:06.314557,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Newcastle United,0.031799999999999995,0.1429,0.1111
 2022-04-22 09:31:05.165611,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Betis,0.031799999999999995,0.1429,0.1111
+2022-04-22 09:31:06.314557,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Newcastle United,0.031799999999999995,0.1429,0.1111
 2022-04-22 07:31:24.925829,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Memphis Grizzlies,0.02840000000000001,0.1053,0.0769
 2022-04-22 10:31:05.893374,Boxing Lines - Aleksander Jasiewicz vs Bazargur Jugder - To Win the Bout,Aleksander Jasiewicz,0.026599999999999957,0.8571,0.8305
 2022-04-22 07:31:24.925829,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Dallas Mavericks,0.025900000000000003,0.0476,0.0217
@@ -39,21 +39,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-22 09:31:05.155611,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Alavés,0.018100000000000005,0.9412,0.9231
 2022-04-22 06:31:09.877560,Euroleague - Euroleague 2021/22 - Winner,Milano,0.018099999999999998,0.0769,0.0588
 2022-04-22 09:31:04.468642,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Aidan Hutchinson Draft Position,Over 1.5,0.017299999999999982,0.4255,0.4082
-2022-04-22 15:31:03.925754,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.01629999999999998,0.241,0.2247
 2022-04-22 13:30:40.491041,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.01629999999999998,0.241,0.2247
+2022-04-22 15:31:03.925754,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.01629999999999998,0.241,0.2247
 2022-04-22 08:32:00.268307,Boxing Lines - Dean Dodge vs Reece Bellotti - To Win the Bout,Reece Bellotti,0.014800000000000035,0.6226,0.6078
 2022-04-22 10:31:05.915267,Boxing Lines - Ashley Sexton vs Sabelo Ngebinyana - To Win the Bout,Sabelo Ngebinyana,0.014700000000000046,0.7647,0.75
 2022-04-22 08:32:00.283490,Boxing Lines - Samuel Maxwell vs Alejandro Meneses - To Win the Bout,Alejandro Meneses,0.01440000000000001,0.1053,0.0909
-2022-04-22 06:31:06.584450,Boxing Lines - Ashley Sexton vs Sabelo Ngebinyana - To Win the Bout,Ashley Sexton,0.0131,0.303,0.2899
 2022-04-22 15:31:03.356468,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jaylen Brown,0.0131,0.0476,0.0345
+2022-04-22 06:31:06.584450,Boxing Lines - Ashley Sexton vs Sabelo Ngebinyana - To Win the Bout,Ashley Sexton,0.0131,0.303,0.2899
 2022-04-22 09:31:04.568160,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Total Number of SEC Players Drafted in Round 1,Under 10.5,0.012199999999999989,0.5122,0.5
 2022-04-22 12:30:44.679191,Boxing Lines - Isaac Lowe vs Nick Ball - To Win the Bout,Nick Ball,0.012199999999999989,0.5122,0.5
 2022-04-22 09:31:04.435441,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Jameson Williams,0.01150000000000001,0.3448,0.3333
 2022-04-22 10:31:07.278200,NFL Specials - 2022 NFL Draft Props - Total Number of Offensive Lineman Drafted in Round 1,Under 7.5,0.011499999999999955,0.6667,0.6552
 2022-04-22 13:30:40.370188,Boxing Lines - Dean Dodge vs Reece Bellotti - To Win the Bout,Dean Dodge,0.010599999999999998,0.4651,0.4545
 2022-04-22 14:31:13.487145,Boxing Lines - Tyson Fury vs Dillian Whyte - To Win the Bout,Dillian Whyte,0.010499999999999982,0.2105,0.2
-2022-04-22 07:31:24.938376,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,0.010099999999999998,0.3226,0.3125
 2022-04-22 09:31:02.924796,Boxing Lines - Dean Dodge vs Reece Bellotti - To Win the Bout,Dean Dodge,0.010099999999999998,0.4545,0.4444
+2022-04-22 07:31:24.938376,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,0.010099999999999998,0.3226,0.3125
 2022-04-22 12:30:44.663814,Boxing Lines - Ekow Essuman vs Darren Tetley - To Win the Bout,Darren Tetley,0.010099999999999998,0.1212,0.1111
 2022-04-22 08:32:00.268307,Boxing Lines - Dean Dodge vs Reece Bellotti - To Win the Bout,Dean Dodge,-0.010099999999999998,0.4444,0.4545
 2022-04-22 06:31:06.642109,Boxing Lines - Dean Dodge vs Reece Bellotti - To Win the Bout,Dean Dodge,-0.010599999999999998,0.4545,0.4651
@@ -65,6 +65,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-22 06:31:09.877560,Euroleague - Euroleague 2021/22 - Winner,Anadolu Efes,-0.0131,0.2222,0.2353
 2022-04-22 07:31:24.950480,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,-0.0139,0.004,0.0179
 2022-04-22 07:31:24.950480,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Minnesota Timberwolves,-0.014199999999999999,0.0152,0.0294
+2022-04-22 16:30:55.868844,Boxing Lines - Paul Butler vs Jonas Sultan - To Win the Bout,Paul Butler,-0.014300000000000007,0.2326,0.2469
+2022-04-22 16:30:55.933244,Boxing Lines - Tyson Fury vs Dillian Whyte - To Win the Bout,Dillian Whyte,-0.014399999999999996,0.1961,0.2105
 2022-04-22 07:31:22.736901,Boxing Lines - Ashley Sexton vs Sabelo Ngebinyana - To Win the Bout,Sabelo Ngebinyana,-0.014700000000000046,0.75,0.7647
 2022-04-22 09:31:02.924796,Boxing Lines - Dean Dodge vs Reece Bellotti - To Win the Bout,Reece Bellotti,-0.014800000000000035,0.6078,0.6226
 2022-04-22 10:31:07.120792,NFL Specials - 2022 NFL Draft Props - 1st Cornerback Selected,Trent McDuffie,-0.014899999999999997,0.0476,0.0625
@@ -83,8 +85,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-22 09:31:05.765805,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,-0.027700000000000058,0.5556,0.5833
 2022-04-22 07:31:24.950480,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,-0.028399999999999995,0.0625,0.0909
 2022-04-22 10:31:05.952697,Boxing Lines - Damian Jonak vs Andrew Robinson - To Win the Bout,Andrew Robinson,-0.028600000000000014,0.3636,0.3922
-2022-04-22 09:31:06.324631,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Newcastle United,-0.03210000000000002,0.9091,0.9412
 2022-04-22 06:31:09.877560,Euroleague - Euroleague 2021/22 - Winner,Barcelona,-0.03210000000000002,0.3846,0.4167
+2022-04-22 09:31:06.324631,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Newcastle United,-0.03210000000000002,0.9091,0.9412
 2022-04-22 09:31:06.314557,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Southampton,-0.03259999999999999,0.2,0.2326
 2022-04-22 15:31:03.356468,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Devin Booker,-0.033299999999999996,0.1,0.1333
 2022-04-22 15:31:03.356468,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Chris Paul,-0.03420000000000001,0.0769,0.1111
