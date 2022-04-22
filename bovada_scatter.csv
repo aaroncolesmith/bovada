@@ -4,13 +4,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-22 09:31:06.262684,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Everton,0.0922,0.4255,0.3333
 2022-04-22 09:31:04.405208,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Derek Stingley,0.0889,0.2,0.1111
 2022-04-22 07:31:24.950480,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.08779999999999999,0.4878,0.4
-2022-04-21 23:31:12.714802,BKFC 23 - Tom Shoaff vs Bruce Lutchmedial - To Win the Bout,Tom Shoaff,0.07939999999999992,0.7937,0.7143
 2022-04-22 09:31:04.480536,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Charles Cross Draft Position,Under 7.5,0.06930000000000003,0.5238,0.4545
 2022-04-22 07:31:24.950480,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,0.065,0.1176,0.0526
 2022-04-22 09:31:06.262684,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,0.0629,0.1538,0.0909
 2022-04-22 07:31:24.925829,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.055999999999999966,0.2941,0.2381
 2022-04-22 09:31:05.765805,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,0.05550000000000002,0.2222,0.1667
 2022-04-22 09:31:04.474441,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Andrew Booth Draft Position,OVer 26.5,0.05449999999999999,0.6,0.5455
+2022-04-22 12:30:44.555920,Boxing Lines - Ashley Sexton vs Sabelo Ngebinyana - To Win the Bout,Sabelo Ngebinyana,0.05349999999999999,0.8182,0.7647
 2022-04-22 09:31:04.493754,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Devin Lloyd Draft Position,Over 18.5,0.05300000000000005,0.5652,0.5122
 2022-04-22 10:31:07.295090,NFL Specials - 2022 NFL Draft Props - Total Number of Quarterbacks Drafted in Round 1,Under 3.5,0.04930000000000001,0.7368,0.6875
 2022-04-22 07:31:24.950480,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Memphis Grizzlies,0.04620000000000002,0.2,0.1538
@@ -42,22 +42,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-22 02:31:15.366841,Boxing Lines - Ashley Sexton vs Sabelo Ngebinyana - To Win the Bout,Sabelo Ngebinyana,0.0131,0.7778,0.7647
 2022-04-22 06:31:06.584450,Boxing Lines - Ashley Sexton vs Sabelo Ngebinyana - To Win the Bout,Ashley Sexton,0.0131,0.303,0.2899
 2022-04-22 09:31:04.568160,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Total Number of SEC Players Drafted in Round 1,Under 10.5,0.012199999999999989,0.5122,0.5
+2022-04-22 12:30:44.679191,Boxing Lines - Isaac Lowe vs Nick Ball - To Win the Bout,Nick Ball,0.012199999999999989,0.5122,0.5
 2022-04-22 09:31:04.435441,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Jameson Williams,0.01150000000000001,0.3448,0.3333
 2022-04-22 10:31:07.278200,NFL Specials - 2022 NFL Draft Props - Total Number of Offensive Lineman Drafted in Round 1,Under 7.5,0.011499999999999955,0.6667,0.6552
-2022-04-21 23:31:09.466692,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - San Francisco 49ers,Under 10,0.01100000000000001,0.5348,0.5238
-2022-04-21 23:31:09.377400,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Minnesota Vikings,Over 9,0.010699999999999932,0.5455,0.5348
-2022-04-21 23:31:09.327699,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Las Vegas Raiders,Over 8.5,0.010099999999999998,0.5556,0.5455
 2022-04-22 09:31:02.924796,Boxing Lines - Dean Dodge vs Reece Bellotti - To Win the Bout,Dean Dodge,0.010099999999999998,0.4545,0.4444
 2022-04-22 07:31:24.938376,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,0.010099999999999998,0.3226,0.3125
+2022-04-22 12:30:44.663814,Boxing Lines - Ekow Essuman vs Darren Tetley - To Win the Bout,Darren Tetley,0.010099999999999998,0.1212,0.1111
 2022-04-22 08:32:00.268307,Boxing Lines - Dean Dodge vs Reece Bellotti - To Win the Bout,Dean Dodge,-0.010099999999999998,0.4444,0.4545
 2022-04-22 06:31:06.642109,Boxing Lines - Dean Dodge vs Reece Bellotti - To Win the Bout,Dean Dodge,-0.010599999999999998,0.4545,0.4651
-2022-04-21 23:31:09.466692,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - San Francisco 49ers,Over 10,-0.010699999999999932,0.5348,0.5455
 2022-04-22 09:31:04.435441,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Drake London,-0.010699999999999987,0.3226,0.3333
-2022-04-21 23:31:09.377400,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Minnesota Vikings,Under 9,-0.01100000000000001,0.5238,0.5348
-2022-04-21 23:31:09.327699,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Las Vegas Raiders,Under 8.5,-0.011600000000000055,0.5122,0.5238
 2022-04-22 09:31:04.530214,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Jermaine Johnson Draft Position,Under 9.5,-0.012199999999999989,0.5,0.5122
-2022-04-22 09:31:04.390069,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Aidan Hutchinson,-0.012700000000000045,0.6364,0.6491
 2022-04-22 09:31:04.468642,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Aidan Hutchinson Draft Position,Under 1.5,-0.012700000000000045,0.6364,0.6491
+2022-04-22 09:31:04.390069,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Aidan Hutchinson,-0.012700000000000045,0.6364,0.6491
 2022-04-22 06:31:09.877560,Euroleague - Euroleague 2021/22 - Winner,Anadolu Efes,-0.0131,0.2222,0.2353
 2022-04-22 06:31:06.584450,Boxing Lines - Ashley Sexton vs Sabelo Ngebinyana - To Win the Bout,Sabelo Ngebinyana,-0.0131,0.7647,0.7778
 2022-04-22 07:31:24.950480,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,-0.0139,0.004,0.0179
@@ -84,6 +80,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-22 09:31:06.324631,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Newcastle United,-0.03210000000000002,0.9091,0.9412
 2022-04-22 09:31:06.314557,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Southampton,-0.03259999999999999,0.2,0.2326
 2022-04-22 10:31:07.231497,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Travon Walker Draft Position,Over 3.5,-0.03710000000000002,0.3333,0.3704
+2022-04-22 12:30:44.555920,Boxing Lines - Ashley Sexton vs Sabelo Ngebinyana - To Win the Bout,Ashley Sexton,-0.03989999999999999,0.25,0.2899
 2022-04-22 10:31:07.295090,NFL Specials - 2022 NFL Draft Props - Total Number of Quarterbacks Drafted in Round 1,Over 3.5,-0.0413,0.3509,0.3922
 2022-04-22 07:31:24.925829,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,-0.04240000000000001,0.0909,0.1333
 2022-04-22 09:31:05.165611,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,-0.044399999999999995,0.8889,0.9333
@@ -92,7 +89,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-22 09:31:04.480536,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Charles Cross Draft Position,Over 7.5,-0.05019999999999991,0.5652,0.6154
 2022-04-22 09:31:04.493754,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Devin Lloyd Draft Position,Under 18.5,-0.05059999999999998,0.5238,0.5744
 2022-04-22 09:31:06.331303,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Leeds United,-0.0615,0.9,0.9615
-2022-04-21 23:31:12.714802,BKFC 23 - Tom Shoaff vs Bruce Lutchmedial - To Win the Bout,Bruce Lutchmedial,-0.065,0.274,0.339
 2022-04-22 09:31:04.474441,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Andrew Booth Draft Position,Under 26.5,-0.06929999999999997,0.4762,0.5455
 2022-04-22 09:31:06.331303,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Everton,-0.07809999999999995,0.6552,0.7333
 2022-04-22 09:31:05.155611,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Getafe,-0.0804,0.0196,0.1
