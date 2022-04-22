@@ -1,76 +1,56 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-04-22 09:31:05.155611,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Cádiz,0.16850000000000004,0.4762,0.3077
-2022-04-22 09:31:06.331303,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Burnley,0.16020000000000006,0.5238,0.3636
 2022-04-22 21:30:47.424249,Stranger Things Specials - Characters to Appear in Stranger Things Season 4 - Outright,Lonnie Byers,0.11900000000000002,0.2857,0.1667
 2022-04-22 21:30:47.468459,Superhero Movie Specials - Will Any Of These Characters Appear In Marvel's 'Thor: Love and Thunder' - Outright,Beta Ray Bill,0.10109999999999997,0.5455,0.4444
 2022-04-22 21:30:47.424249,Stranger Things Specials - Characters to Appear in Stranger Things Season 4 - Outright,Billy Hargrove,0.09999999999999998,0.5,0.4
-2022-04-22 09:31:06.262684,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Everton,0.0922,0.4255,0.3333
-2022-04-22 09:31:04.405208,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Derek Stingley,0.0889,0.2,0.1111
 2022-04-22 19:31:11.518381,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Jameson Williams,0.08080000000000004,0.4444,0.3636
-2022-04-22 09:31:04.480536,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Charles Cross Draft Position,Under 7.5,0.06930000000000003,0.5238,0.4545
 2022-04-22 19:31:11.535484,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Travon Walker,0.06820000000000001,0.25,0.1818
-2022-04-22 09:31:06.262684,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,0.0629,0.1538,0.0909
-2022-04-22 09:31:05.765805,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,0.05550000000000002,0.2222,0.1667
-2022-04-22 09:31:04.474441,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Andrew Booth Draft Position,OVer 26.5,0.05449999999999999,0.6,0.5455
 2022-04-22 12:30:44.555920,Boxing Lines - Ashley Sexton vs Sabelo Ngebinyana - To Win the Bout,Sabelo Ngebinyana,0.05349999999999999,0.8182,0.7647
-2022-04-22 09:31:04.493754,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Devin Lloyd Draft Position,Over 18.5,0.05300000000000005,0.5652,0.5122
 2022-04-22 21:30:47.711049,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Rosita,0.052399999999999995,0.0909,0.0385
 2022-04-22 10:31:07.295090,NFL Specials - 2022 NFL Draft Props - Total Number of Quarterbacks Drafted in Round 1,Under 3.5,0.04930000000000001,0.7368,0.6875
 2022-04-22 21:30:48.558418,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Malik Willis,Pittsburgh Steelers,0.047599999999999976,0.3333,0.2857
 2022-04-22 21:30:47.733468,The Walking Dead - Will Rick Grimes (Andrew Lincoln) Appear In The Walking Dead Season 11 - Outright,Yes,0.045499999999999985,0.5,0.4545
 2022-04-22 21:30:48.289130,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Ahmad Gardner,0.03950000000000001,0.25,0.2105
-2022-04-22 09:31:05.155611,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Levante,0.03839999999999999,0.9615,0.9231
-2022-04-22 09:31:05.165611,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Sevilla,0.03839999999999999,0.9615,0.9231
 2022-04-22 19:31:11.518381,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Garrett Wilson,0.03709999999999991,0.6667,0.6296
 2022-04-22 10:31:07.120792,NFL Specials - 2022 NFL Draft Props - 1st Cornerback Selected,Derek Stingley Jr.,0.03570000000000001,0.2857,0.25
-2022-04-22 21:30:48.282225,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Travon Walker,0.03570000000000001,0.2857,0.25
 2022-04-22 17:30:50.963312,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.03570000000000001,0.2857,0.25
+2022-04-22 21:30:48.282225,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Travon Walker,0.03570000000000001,0.2857,0.25
 2022-04-22 10:31:07.231497,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Travon Walker Draft Position,Under 3.5,0.035699999999999954,0.75,0.7143
 2022-04-22 10:31:07.269761,NFL Specials - 2022 NFL Draft Props - Total Number of Cornerbacks Drafted in Round 1,Over 4.5,0.03489999999999999,0.5,0.4651
 2022-04-22 10:31:07.249361,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Trevor Penning Draft Position,Under 16.5,0.033399999999999985,0.6078,0.5744
 2022-04-22 13:30:41.880819,A1 - Greece A1 2021/22 - Outright,Olympiacos,0.033399999999999985,0.8667,0.8333
 2022-04-22 15:31:03.356468,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,0.033300000000000024,0.2,0.1667
 2022-04-22 15:31:03.356468,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Ja Morant,0.0321,0.0909,0.0588
-2022-04-22 09:31:06.314557,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Newcastle United,0.031799999999999995,0.1429,0.1111
-2022-04-22 09:31:05.165611,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Betis,0.031799999999999995,0.1429,0.1111
 2022-04-22 19:31:11.509264,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Aidan Hutchinson,0.030299999999999994,0.6667,0.6364
 2022-04-22 19:31:11.546937,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Evan Neal,0.02779999999999999,0.25,0.2222
 2022-04-22 19:31:11.518381,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Derek Stingley,0.027700000000000058,0.5833,0.5556
 2022-04-22 21:30:48.258208,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Travon Walker,0.027500000000000024,0.3846,0.3571
 2022-04-22 10:31:05.893374,Boxing Lines - Aleksander Jasiewicz vs Bazargur Jugder - To Win the Bout,Aleksander Jasiewicz,0.026599999999999957,0.8571,0.8305
-2022-04-22 09:31:06.314557,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Brighton & Hove Albion,0.02560000000000001,0.3333,0.3077
 2022-04-22 10:31:05.952697,Boxing Lines - Damian Jonak vs Andrew Robinson - To Win the Bout,Damian Jonak,0.024899999999999922,0.697,0.6721
 2022-04-22 17:30:50.923593,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win 2023 NCAA DI Men's Basketball Tournament,Houston,0.0242,0.0909,0.0667
 2022-04-22 19:31:11.546937,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Travon Walker,0.023799999999999988,0.1667,0.1429
 2022-04-22 17:30:50.945925,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.023799999999999988,0.1667,0.1429
-2022-04-22 09:31:06.324631,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Southampton,0.023799999999999932,0.8571,0.8333
 2022-04-22 21:30:47.611454,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,0.022199999999999998,0.8,0.7778
 2022-04-22 21:30:48.551645,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Kenny Pickett,New Orleans Saints,0.021999999999999964,0.3077,0.2857
-2022-04-22 09:31:04.539187,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Kayvon Thibodeaux Draft Position,Under 5.5,0.02080000000000004,0.6875,0.6667
 2022-04-22 10:31:07.263244,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Tyler Linderbaum Draft Position,Over 27.5,0.01970000000000005,0.5652,0.5455
 2022-04-22 19:31:11.509264,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Evan Neal,0.019099999999999992,0.0667,0.0476
 2022-04-22 21:30:47.651253,TV Specials - Will any of these characters appear in Cobra Kai season 5 on Netflix? - Proposition,Julie Pierce,0.019000000000000017,0.2857,0.2667
 2022-04-22 15:31:03.356468,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Luka Doncic,0.0189,0.0385,0.0196
 2022-04-22 20:30:38.261075,Boxing Lines - Isaac Lowe vs Nick Ball - To Win the Bout,Isaac Lowe,0.01880000000000004,0.5744,0.5556
 2022-04-22 19:31:11.518381,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Charles Cross,0.018199999999999994,0.8182,0.8
-2022-04-22 09:31:05.155611,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Alavés,0.018100000000000005,0.9412,0.9231
 2022-04-22 19:31:11.535484,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Ahmad Gardner,0.018099999999999998,0.0769,0.0588
 2022-04-22 21:30:48.289130,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Derek Stingley,0.0179,0.1429,0.125
-2022-04-22 09:31:04.468642,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Aidan Hutchinson Draft Position,Over 1.5,0.017299999999999982,0.4255,0.4082
 2022-04-22 15:31:03.925754,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.01629999999999998,0.241,0.2247
 2022-04-22 13:30:40.491041,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.01629999999999998,0.241,0.2247
 2022-04-22 19:31:11.063428,Boxing Lines - Paul Butler vs Jonas Sultan - To Win the Bout,Paul Butler,0.01579999999999998,0.2597,0.2439
 2022-04-22 20:30:39.121705,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Outright,Republican,0.015699999999999936,0.8824,0.8667
 2022-04-22 10:31:05.915267,Boxing Lines - Ashley Sexton vs Sabelo Ngebinyana - To Win the Bout,Sabelo Ngebinyana,0.014700000000000046,0.7647,0.75
 2022-04-22 17:30:50.923593,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win 2023 NCAA DI Men's Basketball Tournament,Baylor,0.014099999999999994,0.0667,0.0526
-2022-04-22 19:31:11.873720,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Los Angeles Rams,0.013999999999999999,0.0909,0.0769
 2022-04-22 19:31:11.438207,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Aaron Rodgers,0.013999999999999999,0.0909,0.0769
+2022-04-22 19:31:11.873720,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Los Angeles Rams,0.013999999999999999,0.0909,0.0769
 2022-04-22 19:31:11.518381,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Ahmad Gardner,0.013900000000000023,0.8889,0.875
 2022-04-22 19:31:11.438207,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Josh Allen,0.013899999999999996,0.125,0.1111
 2022-04-22 15:31:03.356468,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jaylen Brown,0.0131,0.0476,0.0345
-2022-04-22 09:31:04.568160,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Total Number of SEC Players Drafted in Round 1,Under 10.5,0.012199999999999989,0.5122,0.5
 2022-04-22 12:30:44.679191,Boxing Lines - Isaac Lowe vs Nick Ball - To Win the Bout,Nick Ball,0.012199999999999989,0.5122,0.5
-2022-04-22 09:31:04.435441,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Jameson Williams,0.01150000000000001,0.3448,0.3333
 2022-04-22 10:31:07.278200,NFL Specials - 2022 NFL Draft Props - Total Number of Offensive Lineman Drafted in Round 1,Under 7.5,0.011499999999999955,0.6667,0.6552
 2022-04-22 17:30:51.155490,Boxing Lines - Paul Butler vs Jonas Sultan - To Win the Bout,Paul Butler,0.011300000000000004,0.2439,0.2326
 2022-04-22 19:31:11.438207,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Dak Prescott,0.011199999999999995,0.0588,0.0476
@@ -78,42 +58,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-22 17:30:50.953283,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,0.010699999999999987,0.3333,0.3226
 2022-04-22 13:30:40.370188,Boxing Lines - Dean Dodge vs Reece Bellotti - To Win the Bout,Dean Dodge,0.010599999999999998,0.4651,0.4545
 2022-04-22 14:31:13.487145,Boxing Lines - Tyson Fury vs Dillian Whyte - To Win the Bout,Dillian Whyte,0.010499999999999982,0.2105,0.2
+2022-04-22 22:30:44.964233,Boxing Lines - Karol Itauma vs Michal Ciach - To Win the Bout,Michal Ciach,0.0102,0.0769,0.0667
 2022-04-22 12:30:44.663814,Boxing Lines - Ekow Essuman vs Darren Tetley - To Win the Bout,Darren Tetley,0.010099999999999998,0.1212,0.1111
-2022-04-22 09:31:02.924796,Boxing Lines - Dean Dodge vs Reece Bellotti - To Win the Bout,Dean Dodge,0.010099999999999998,0.4545,0.4444
-2022-04-22 09:31:04.435441,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Drake London,-0.010699999999999987,0.3226,0.3333
 2022-04-22 19:31:11.438207,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Deshaun Watson,-0.011199999999999995,0.0476,0.0588
 2022-04-22 19:31:11.580988,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Jameson Williams,-0.01150000000000001,0.3333,0.3448
-2022-04-22 09:31:04.530214,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Jermaine Johnson Draft Position,Under 9.5,-0.012199999999999989,0.5,0.5122
-2022-04-22 09:31:04.390069,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Aidan Hutchinson,-0.012700000000000045,0.6364,0.6491
-2022-04-22 09:31:04.468642,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Aidan Hutchinson Draft Position,Under 1.5,-0.012700000000000045,0.6364,0.6491
 2022-04-22 17:30:50.923593,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win 2023 NCAA DI Men's Basketball Tournament,Kentucky,-0.013999999999999999,0.0769,0.0909
 2022-04-22 19:31:11.568816,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Matt Corral,-0.014099999999999994,0.0526,0.0667
 2022-04-22 19:31:11.568816,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Sam Howell,-0.014099999999999998,0.0244,0.0385
 2022-04-22 16:30:55.868844,Boxing Lines - Paul Butler vs Jonas Sultan - To Win the Bout,Paul Butler,-0.014300000000000007,0.2326,0.2469
 2022-04-22 16:30:55.933244,Boxing Lines - Tyson Fury vs Dillian Whyte - To Win the Bout,Dillian Whyte,-0.014399999999999996,0.1961,0.2105
 2022-04-22 20:30:39.121705,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Outright,Democratic,-0.014800000000000008,0.1852,0.2
-2022-04-22 09:31:02.924796,Boxing Lines - Dean Dodge vs Reece Bellotti - To Win the Bout,Reece Bellotti,-0.014800000000000035,0.6078,0.6226
 2022-04-22 10:31:07.120792,NFL Specials - 2022 NFL Draft Props - 1st Cornerback Selected,Trent McDuffie,-0.014899999999999997,0.0476,0.0625
 2022-04-22 19:31:11.580988,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Drake London,-0.014900000000000024,0.3077,0.3226
 2022-04-22 17:30:50.923593,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win 2023 NCAA DI Men's Basketball Tournament,Texas,-0.015300000000000001,0.0323,0.0476
 2022-04-22 19:31:11.568816,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Malik WIllis,-0.01539999999999997,0.6,0.6154
 2022-04-22 17:30:50.945925,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.015700000000000006,0.1176,0.1333
-2022-04-22 19:31:11.162042,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.01629999999999998,0.2247,0.241
 2022-04-22 14:31:13.519820,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.01629999999999998,0.2247,0.241
+2022-04-22 19:31:11.162042,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.01629999999999998,0.2247,0.241
 2022-04-22 19:31:11.063428,Boxing Lines - Paul Butler vs Jonas Sultan - To Win the Bout,Jonas Sultan,-0.016599999999999948,0.8095,0.8261
-2022-04-22 09:31:06.324631,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Brighton & Hove Albion,-0.016700000000000048,0.7333,0.75
-2022-04-22 19:31:11.525108,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Drake London,-0.0179,0.125,0.1429
 2022-04-22 19:31:11.546937,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Derek Stingley,-0.0179,0.125,0.1429
-2022-04-22 09:31:05.165611,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Sociedad,-0.0179,0.125,0.1429
-2022-04-22 09:31:06.251939,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Son-Heung Min,-0.018099999999999998,0.0588,0.0769
+2022-04-22 19:31:11.525108,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Drake London,-0.0179,0.125,0.1429
 2022-04-22 19:31:11.535484,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Kayvon Thibodeaux,-0.018100000000000005,0.4167,0.4348
 2022-04-22 19:31:11.525108,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Derek Stingley,-0.01820000000000002,0.1818,0.2
 2022-04-22 19:31:11.518381,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Kenny Pickett,-0.018900000000000028,0.4255,0.4444
 2022-04-22 19:31:11.546937,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Aidan Hutchinson,-0.019099999999999992,0.0476,0.0667
 2022-04-22 19:31:11.438207,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Lamar Jackson,-0.019099999999999995,0.0244,0.0435
+2022-04-22 22:30:44.977411,Boxing Lines - Ekow Essuman vs Darren Tetley - To Win the Bout,Ekow Essuman,-0.019100000000000006,0.9333,0.9524
+2022-04-22 22:30:44.952386,Boxing Lines - David Adeleye vs Chris Healey - To Win the Bout,David Adeleye,-0.01969999999999994,0.9655,0.9852
 2022-04-22 19:31:11.525108,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Travon Walker,-0.01980000000000004,0.875,0.8948
 2022-04-22 10:31:07.263244,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Tyler Linderbaum Draft Position,Under 27.5,-0.02169999999999994,0.5238,0.5455
-2022-04-22 09:31:05.155611,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,-0.021999999999999964,0.2857,0.3077
 2022-04-22 21:30:47.611454,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,-0.021999999999999964,0.2857,0.3077
 2022-04-22 10:31:05.915267,Boxing Lines - Ashley Sexton vs Sabelo Ngebinyana - To Win the Bout,Ashley Sexton,-0.02260000000000001,0.2899,0.3125
 2022-04-22 17:30:50.963312,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.022699999999999998,0.4651,0.4878
@@ -123,13 +96,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-22 10:31:07.269761,NFL Specials - 2022 NFL Draft Props - Total Number of Cornerbacks Drafted in Round 1,Under 4.5,-0.024499999999999966,0.5833,0.6078
 2022-04-22 19:31:11.509264,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Travon Walker,-0.027500000000000024,0.3571,0.3846
 2022-04-22 10:31:05.893374,Boxing Lines - Aleksander Jasiewicz vs Bazargur Jugder - To Win the Bout,Bazargur Jugder,-0.027600000000000013,0.2105,0.2381
-2022-04-22 09:31:05.765805,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,-0.027700000000000058,0.5556,0.5833
 2022-04-22 10:31:05.952697,Boxing Lines - Damian Jonak vs Andrew Robinson - To Win the Bout,Andrew Robinson,-0.028600000000000014,0.3636,0.3922
 2022-04-22 19:31:11.525108,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Evan Neal,-0.028900000000000037,0.5455,0.5744
 2022-04-22 19:31:11.535484,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Aidan Hutchinson,-0.030299999999999994,0.3333,0.3636
 2022-04-22 21:30:47.733468,The Walking Dead - Will Rick Grimes (Andrew Lincoln) Appear In The Walking Dead Season 11 - Outright,No,-0.032099999999999906,0.5833,0.6154
-2022-04-22 09:31:06.324631,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Newcastle United,-0.03210000000000002,0.9091,0.9412
-2022-04-22 09:31:06.314557,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 10 Finish,Southampton,-0.03259999999999999,0.2,0.2326
 2022-04-22 15:31:03.356468,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Devin Booker,-0.033299999999999996,0.1,0.1333
 2022-04-22 15:31:03.356468,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Chris Paul,-0.03420000000000001,0.0769,0.1111
 2022-04-22 19:31:11.568816,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Kenny Pickett,-0.0348,0.4,0.4348
@@ -142,21 +112,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-22 19:31:11.525108,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Kyle Hamilton,-0.04040000000000002,0.1818,0.2222
 2022-04-22 13:30:41.880819,A1 - Greece A1 2021/22 - Outright,Panathinaikos,-0.04040000000000002,0.1818,0.2222
 2022-04-22 10:31:07.295090,NFL Specials - 2022 NFL Draft Props - Total Number of Quarterbacks Drafted in Round 1,Over 3.5,-0.0413,0.3509,0.3922
-2022-04-22 09:31:05.165611,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,-0.044399999999999995,0.8889,0.9333
 2022-04-22 19:31:11.525108,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Ikem Ekwonu,-0.044499999999999984,0.6923,0.7368
-2022-04-22 09:31:05.155611,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,-0.045499999999999985,0.5,0.5455
 2022-04-22 10:31:07.249361,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Trevor Penning Draft Position,Over 16.5,-0.047099999999999975,0.4651,0.5122
-2022-04-22 19:31:11.525108,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Malik Willis,-0.04999999999999999,0.2,0.25
 2022-04-22 19:31:11.518381,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Jordan Davis,-0.04999999999999999,0.2,0.25
-2022-04-22 09:31:04.480536,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Charles Cross Draft Position,Over 7.5,-0.05019999999999991,0.5652,0.6154
+2022-04-22 19:31:11.525108,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Malik Willis,-0.04999999999999999,0.2,0.25
 2022-04-22 19:31:11.518381,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Kyle Hamilton,-0.05059999999999998,0.5238,0.5744
-2022-04-22 09:31:04.493754,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Devin Lloyd Draft Position,Under 18.5,-0.05059999999999998,0.5238,0.5744
-2022-04-22 09:31:06.331303,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Leeds United,-0.0615,0.9,0.9615
 2022-04-22 21:30:47.387386,Star Wars Specials - Will any of these characters appear in 'Obi-Wan Kenobi' on Disney+ - Outright,Sabe,-0.06670000000000004,0.3333,0.4
-2022-04-22 09:31:04.474441,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Andrew Booth Draft Position,Under 26.5,-0.06929999999999997,0.4762,0.5455
-2022-04-22 09:31:06.331303,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Everton,-0.07809999999999995,0.6552,0.7333
-2022-04-22 09:31:05.155611,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Getafe,-0.0804,0.0196,0.1
 2022-04-22 19:31:11.518381,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Drake London,-0.0867,0.4255,0.5122
 2022-04-22 21:30:47.387386,Star Wars Specials - Will any of these characters appear in 'Obi-Wan Kenobi' on Disney+ - Outright,Bobba Fett,-0.11430000000000001,0.2857,0.4
-2022-04-22 09:31:06.262684,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,-0.15870000000000006,0.5556,0.7143
 2022-04-22 19:31:11.518381,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Malik Willis,-0.17780000000000007,0.6,0.7778
