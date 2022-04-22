@@ -1,21 +1,29 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-21 22:30:47.979351,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Sevilla,0.23810000000000003,0.7143,0.4762
 2022-04-21 20:30:58.140060,Superhero Movie Specials - How many planets wil Thor Travel to in Thor: Love and Thunder - Proposition,6+,0.11900000000000002,0.2857,0.1667
+2022-04-22 07:31:24.950480,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.08779999999999999,0.4878,0.4
 2022-04-21 23:31:12.714802,BKFC 23 - Tom Shoaff vs Bruce Lutchmedial - To Win the Bout,Tom Shoaff,0.07939999999999992,0.7937,0.7143
+2022-04-22 07:31:24.950480,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,0.065,0.1176,0.0526
+2022-04-22 07:31:24.925829,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.055999999999999966,0.2941,0.2381
+2022-04-22 07:31:24.950480,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Memphis Grizzlies,0.04620000000000002,0.2,0.1538
+2022-04-22 07:31:24.925829,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Memphis Grizzlies,0.02840000000000001,0.1053,0.0769
+2022-04-22 07:31:24.925829,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Dallas Mavericks,0.025900000000000003,0.0476,0.0217
 2022-04-21 22:30:46.686707,Boxing Lines - Masataka Taniguchi vs Kai Ishizawa - To Win the Bout,Masataka Taniguchi,0.02440000000000009,0.7647,0.7403
 2022-04-22 06:31:09.877560,Euroleague - Euroleague 2021/22 - Winner,Bayern Munich,0.023200000000000002,0.0476,0.0244
 2022-04-22 01:30:53.420988,Boxing Lines - Dean Dodge vs Reece Bellotti - To Win the Bout,Dean Dodge,0.020699999999999996,0.4651,0.4444
 2022-04-21 20:30:59.467313,BKFC 23 - Vinny Turiello vs Robert Fuller - To Win the Bout,Vinny Turiello,0.018999999999999906,0.7333,0.7143
+2022-04-22 07:31:24.938376,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.01820000000000002,0.2,0.1818
 2022-04-22 06:31:09.877560,Euroleague - Euroleague 2021/22 - Winner,Milano,0.018099999999999998,0.0769,0.0588
 2022-04-21 20:30:59.329873,BKFC 23 - Brian Duran vs Glendel Futrell - To Win the Bout,Brian Duran,0.01759999999999995,0.6667,0.6491
 2022-04-21 22:30:46.679001,Boxing Lines - Joel Diaz Jr vs Mercito Gesta - To Win the Bout,Mercito Gesta,0.017000000000000015,0.4444,0.4274
 2022-04-21 20:30:58.927003,Boxing Lines - Joel Diaz Jr vs Mercito Gesta - To Win the Bout,Mercito Gesta,0.015900000000000025,0.4274,0.4115
-2022-04-22 06:31:06.584450,Boxing Lines - Ashley Sexton vs Sabelo Ngebinyana - To Win the Bout,Ashley Sexton,0.0131,0.303,0.2899
 2022-04-22 02:31:15.366841,Boxing Lines - Ashley Sexton vs Sabelo Ngebinyana - To Win the Bout,Sabelo Ngebinyana,0.0131,0.7778,0.7647
+2022-04-22 06:31:06.584450,Boxing Lines - Ashley Sexton vs Sabelo Ngebinyana - To Win the Bout,Ashley Sexton,0.0131,0.303,0.2899
 2022-04-21 19:31:28.276442,BKFC 23 - Vinny Turiello vs Robert Fuller - To Win the Bout,Robert Fuller,0.012299999999999978,0.3571,0.3448
 2022-04-21 23:31:09.466692,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - San Francisco 49ers,Under 10,0.01100000000000001,0.5348,0.5238
 2022-04-21 23:31:09.377400,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Minnesota Vikings,Over 9,0.010699999999999932,0.5455,0.5348
 2022-04-21 23:31:09.327699,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Las Vegas Raiders,Over 8.5,0.010099999999999998,0.5556,0.5455
+2022-04-22 07:31:24.938376,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,0.010099999999999998,0.3226,0.3125
 2022-04-22 06:31:06.642109,Boxing Lines - Dean Dodge vs Reece Bellotti - To Win the Bout,Dean Dodge,-0.010599999999999998,0.4545,0.4651
 2022-04-21 23:31:09.466692,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - San Francisco 49ers,Over 10,-0.010699999999999932,0.5348,0.5455
 2022-04-21 23:31:09.377400,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Minnesota Vikings,Under 9,-0.01100000000000001,0.5238,0.5348
@@ -24,35 +32,44 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-22 06:31:09.877560,Euroleague - Euroleague 2021/22 - Winner,Anadolu Efes,-0.0131,0.2222,0.2353
 2022-04-22 06:31:06.584450,Boxing Lines - Ashley Sexton vs Sabelo Ngebinyana - To Win the Bout,Sabelo Ngebinyana,-0.0131,0.7647,0.7778
 2022-04-21 22:30:46.679001,Boxing Lines - Joel Diaz Jr vs Mercito Gesta - To Win the Bout,Joel Diaz Jr,-0.013799999999999923,0.6226,0.6364
+2022-04-22 07:31:24.950480,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Denver Nuggets,-0.0139,0.004,0.0179
+2022-04-22 07:31:24.950480,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Minnesota Timberwolves,-0.014199999999999999,0.0152,0.0294
+2022-04-22 07:31:22.736901,Boxing Lines - Ashley Sexton vs Sabelo Ngebinyana - To Win the Bout,Sabelo Ngebinyana,-0.014700000000000046,0.75,0.7647
+2022-04-22 07:31:24.925829,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Utah Jazz,-0.014900000000000004,0.0196,0.0345
 2022-04-21 19:31:27.835491,Boxing Lines - Masataka Taniguchi vs Kai Ishizawa - To Win the Bout,Kai Ishizawa,-0.016400000000000026,0.3226,0.339
 2022-04-21 20:30:59.329873,BKFC 23 - Brian Duran vs Glendel Futrell - To Win the Bout,Glendel Futrell,-0.016699999999999993,0.4,0.4167
-2022-04-21 20:30:58.538709,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Yumiko,-0.0189,0.0196,0.0385
-2022-04-21 20:30:58.538709,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Princess,-0.0189,0.0196,0.0385
-2022-04-21 20:30:58.538709,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Lydia,-0.0189,0.0196,0.0385
+2022-04-22 07:31:24.938376,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.0174,0.2,0.2174
 2022-04-21 20:30:58.538709,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Kelly,-0.0189,0.0196,0.0385
 2022-04-21 20:30:58.538709,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Eugene,-0.0189,0.0196,0.0385
 2022-04-21 20:30:58.538709,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Elijah,-0.0189,0.0196,0.0385
 2022-04-21 20:30:58.538709,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Connie,-0.0189,0.0196,0.0385
+2022-04-21 20:30:58.538709,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Lydia,-0.0189,0.0196,0.0385
+2022-04-21 20:30:58.538709,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Princess,-0.0189,0.0196,0.0385
+2022-04-21 20:30:58.538709,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Yumiko,-0.0189,0.0196,0.0385
 2022-04-21 22:30:46.686707,Boxing Lines - Masataka Taniguchi vs Kai Ishizawa - To Win the Bout,Kai Ishizawa,-0.019600000000000006,0.303,0.3226
 2022-04-21 20:30:58.538709,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Rosita,-0.0203,0.0385,0.0588
-2022-04-21 20:30:58.538709,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Ezekiel,-0.0203,0.0385,0.0588
 2022-04-21 20:30:58.538709,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Father Gabriel,-0.0203,0.0385,0.0588
+2022-04-21 20:30:58.538709,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Ezekiel,-0.0203,0.0385,0.0588
 2022-04-22 06:31:06.846238,Boxing Lines - Shakur Stevenson vs Oscar Valdez - To Win the Bout,Oscar Valdez,-0.021300000000000013,0.1961,0.2174
 2022-04-22 01:30:53.420988,Boxing Lines - Dean Dodge vs Reece Bellotti - To Win the Bout,Reece Bellotti,-0.022600000000000064,0.6,0.6226
 2022-04-21 20:30:59.467313,BKFC 23 - Vinny Turiello vs Robert Fuller - To Win the Bout,Robert Fuller,-0.023799999999999988,0.3333,0.3571
 2022-04-21 20:30:58.538709,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Stephanie,-0.0267,0.0909,0.1176
 2022-04-21 20:30:58.091900,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Max,-0.0267,0.0909,0.1176
+2022-04-22 07:31:24.950480,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,-0.028399999999999995,0.0625,0.0909
 2022-04-22 06:31:09.877560,Euroleague - Euroleague 2021/22 - Winner,Barcelona,-0.03210000000000002,0.3846,0.4167
 2022-04-21 20:30:58.091900,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Robin,-0.0407,0.0769,0.1176
+2022-04-22 07:31:24.925829,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,-0.04240000000000001,0.0909,0.1333
 2022-04-21 20:30:58.538709,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Luke,-0.047599999999999976,0.2857,0.3333
 2022-04-21 20:30:58.538709,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Mercer,-0.052399999999999995,0.0385,0.0909
 2022-04-21 23:31:12.714802,BKFC 23 - Tom Shoaff vs Bruce Lutchmedial - To Win the Bout,Bruce Lutchmedial,-0.065,0.274,0.339
+2022-04-22 07:31:24.925829,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,-0.0952,0.1429,0.2381
 2022-04-21 20:30:58.091900,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Jonathan,-0.11900000000000002,0.1667,0.2857
 2022-04-21 20:30:58.091900,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Steve,-0.11900000000000002,0.1667,0.2857
-2022-04-21 20:30:58.091900,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Mike,-0.11909999999999998,0.0476,0.1667
 2022-04-21 20:30:58.091900,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Dustin,-0.11909999999999998,0.0476,0.1667
 2022-04-21 20:30:58.091900,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Lucas,-0.11909999999999998,0.0476,0.1667
+2022-04-21 20:30:58.091900,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Mike,-0.11909999999999998,0.0476,0.1667
 2022-04-21 20:30:58.538709,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Virgil,-0.13240000000000002,0.1176,0.25
+2022-04-22 07:31:24.950480,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,-0.1346,0.25,0.3846
 2022-04-21 22:30:47.979351,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Atlético Madrid,-0.18330000000000002,0.4,0.5833
 2022-04-21 20:30:58.091900,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Nancy,-0.19480000000000003,0.0909,0.2857
 2022-04-21 20:30:58.091900,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Will,-0.2088,0.0769,0.2857
