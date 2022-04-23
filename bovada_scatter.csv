@@ -1,17 +1,23 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-23 09:30:56.096668,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Derek Stingley,0.1515,0.3333,0.1818
+2022-04-23 16:31:00.938883,Superhero Movie Specials - Will Any Of These Characters Appear In Marvel's 'Thor: Love and Thunder' - Outright,Hulk,0.1428,0.2857,0.1429
+2022-04-23 16:31:00.938883,Superhero Movie Specials - Will Any Of These Characters Appear In Marvel's 'Thor: Love and Thunder' - Outright,Professor Selvig,0.11900000000000002,0.2857,0.1667
+2022-04-23 16:31:00.938883,Superhero Movie Specials - Will Any Of These Characters Appear In Marvel's 'Thor: Love and Thunder' - Outright,Darcey Lewis,0.11900000000000002,0.2857,0.1667
 2022-04-23 09:30:56.096668,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Kayvon Thibodeaux,0.119,0.8333,0.7143
 2022-04-23 09:30:56.116762,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Travon Walker,0.1,0.2667,0.1667
 2022-04-23 09:30:56.090207,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Derek Stingley,0.08339999999999992,0.6667,0.5833
 2022-04-23 09:30:56.096668,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Ahmad Gardner,0.0805999999999999,0.6154,0.5348
 2022-04-23 09:30:56.090207,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Drake London,0.07450000000000001,0.5,0.4255
 2022-04-23 10:30:53.298267,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Malik Willis,Pittsburgh Steelers,0.06670000000000004,0.4,0.3333
+2022-04-23 16:31:00.576457,Game of Thrones Specials - Characters to sit on the Iron Throne in Season 1 of House of Dragons - Proposition,Princess Rhaenyra Targaryen,0.06669999999999998,0.6667,0.6
 2022-04-23 09:30:56.207561,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Drake London Draft Position,Over 10.5,0.0635,0.6552,0.5917
 2022-04-23 11:31:06.662588,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,0.059799999999999964,0.6154,0.5556
+2022-04-23 16:31:00.938883,Superhero Movie Specials - Will Any Of These Characters Appear In Marvel's 'Thor: Love and Thunder' - Outright,Storm,0.052399999999999995,0.0909,0.0385
 2022-04-23 09:30:56.190712,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Charles Cross Draft Position,Under 7.5,0.05059999999999998,0.5744,0.5238
 2022-04-23 12:30:40.133382,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.04459999999999997,0.3571,0.3125
 2022-04-23 12:30:40.118653,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.043800000000000006,0.2105,0.1667
 2022-04-23 09:30:56.185373,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Andrew Booth Draft Position,OVer 26.5,0.04290000000000005,0.6429,0.6
+2022-04-23 16:31:00.938883,Superhero Movie Specials - Will Any Of These Characters Appear In Marvel's 'Thor: Love and Thunder' - Outright,Lady Loki,0.03570000000000001,0.2857,0.25
 2022-04-23 09:30:56.137577,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Kenny Pickett,0.0348,0.4348,0.4
 2022-04-23 09:30:56.096668,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Travon Walker,0.03410000000000002,0.9091,0.875
 2022-04-23 09:30:56.236870,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Total Number of Pac-12 Players Drafted in Round 1,Over 4.5,0.030299999999999994,0.4651,0.4348
@@ -20,6 +26,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-23 10:30:53.292450,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Kenny Pickett,Pittsburgh Steelers,0.02779999999999999,0.25,0.2222
 2022-04-23 10:30:53.298267,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Malik Willis,New Orleans Saints,0.02779999999999999,0.25,0.2222
 2022-04-23 07:31:03.802956,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.02679999999999999,0.3125,0.2857
+2022-04-23 16:30:58.815327,Boxing Lines - Isaac Lowe vs Nick Ball - To Win the Bout,Isaac Lowe,0.026700000000000057,0.5917,0.565
 2022-04-23 10:30:53.292450,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Kenny Pickett,New Orleans Saints,0.02560000000000001,0.3333,0.3077
 2022-04-23 09:30:56.090207,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Devin Lloyd,0.025300000000000003,0.1429,0.1176
 2022-04-23 05:31:29.802901,Boxing Lines - Isaac Lowe vs Nick Ball - To Win the Bout,Nick Ball,0.024399999999999977,0.5122,0.4878
@@ -29,8 +36,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-23 09:30:56.090207,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Jordan Davis,0.022199999999999998,0.2222,0.2
 2022-04-23 12:30:40.126047,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.022199999999999998,0.2222,0.2
 2022-04-23 09:30:57.563876,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,RB Leipzig,0.02200000000000002,0.7143,0.6923
+2022-04-23 16:31:01.092412,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,Yes,0.021399999999999975,0.8214,0.8
 2022-04-23 09:30:56.218950,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Ikem Ekwonu Draft Position,Over 3.5,0.02100000000000002,0.6364,0.6154
+2022-04-23 16:31:00.576457,Game of Thrones Specials - Characters to sit on the Iron Throne in Season 1 of House of Dragons - Proposition,Otto Hightower,0.02020000000000001,0.1111,0.0909
 2022-04-23 07:31:03.782681,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,0.02020000000000001,0.1111,0.0909
+2022-04-23 16:31:00.938883,Superhero Movie Specials - Will Any Of These Characters Appear In Marvel's 'Thor: Love and Thunder' - Outright,Nova,0.02020000000000001,0.1111,0.0909
 2022-04-23 09:30:56.090207,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Ahmad Gardner,0.020199999999999996,0.9091,0.8889
 2022-04-23 09:30:56.096668,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Evan Neal,0.01970000000000005,0.5652,0.5455
 2022-04-23 05:31:29.842945,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.018799999999999983,0.241,0.2222
@@ -38,29 +48,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-23 09:30:56.229870,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Total Number of ACC Players Drafted in Round 1,Over 4.5,0.018100000000000005,0.5833,0.5652
 2022-04-23 09:30:56.116762,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Ahmad Gardner,0.016699999999999993,0.2667,0.25
 2022-04-23 09:30:56.080343,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Travon Walker,0.015400000000000025,0.4,0.3846
+2022-04-23 16:30:58.757991,Boxing Lines - David Adeleye vs Chris Healey - To Win the Bout,David Adeleye,0.014900000000000024,0.9804,0.9655
+2022-04-23 16:30:58.720536,Boxing Lines - Kurt Walker vs Stefan Nicolae - To Win the Bout,Kurt Walker,0.01429999999999998,0.9852,0.9709
 2022-04-23 07:31:02.971245,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Saul 'Canelo' Alvarez,0.014200000000000101,0.8403,0.8261
 2022-04-23 09:30:55.599836,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Saul 'Canelo' Alvarez,0.014200000000000101,0.8403,0.8261
 2022-04-23 09:30:57.494200,England Championship - England Championship 21/22 - Top 2 Finish,Huddersfield Town,0.014099999999999998,0.0385,0.0244
-2022-04-23 12:30:40.126047,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.013899999999999996,0.2222,0.2083
 2022-04-23 12:30:40.118653,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,0.013899999999999996,0.125,0.1111
+2022-04-23 12:30:40.126047,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.013899999999999996,0.2222,0.2083
 2022-04-23 08:30:48.024709,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.01369999999999999,0.241,0.2273
 2022-04-23 09:30:56.242602,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Total Number of SEC Players Drafted in Round 1,Under 10.5,0.011600000000000055,0.5238,0.5122
-2022-04-23 12:30:39.410826,Boxing Lines - Joshua Buatsi vs Richards Craig - To Win the Bout,Richards Craig,0.01150000000000001,0.202,0.1905
 2022-04-23 07:31:03.793783,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,0.01150000000000001,0.3448,0.3333
+2022-04-23 12:30:39.410826,Boxing Lines - Joshua Buatsi vs Richards Craig - To Win the Bout,Richards Craig,0.01150000000000001,0.202,0.1905
+2022-04-23 16:30:58.895696,Boxing Lines - Joshua Buatsi vs Richards Craig - To Win the Bout,Richards Craig,0.01150000000000001,0.202,0.1905
 2022-04-23 09:30:57.723113,League Two - England League Two 2021/22 - Top 7 Finish,Bristol Rovers,0.011199999999999988,0.9524,0.9412
 2022-04-23 12:30:40.108468,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Winning Conference,Western Conference,0.01100000000000001,0.5348,0.5238
 2022-04-23 09:30:56.116762,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Derek Stingley,0.010899999999999993,0.1538,0.1429
 2022-04-23 15:31:12.210058,NFL Specials - 2022 NFL Draft Specials - Requested Specials,[Exacta] #1 Kayvon Thibodeaux - #2 Aidan Hutchinson,0.010700000000000001,0.0385,0.0278
+2022-04-23 16:30:58.757991,Boxing Lines - David Adeleye vs Chris Healey - To Win the Bout,Chris Healey,-0.0102,0.0667,0.0769
 2022-04-23 12:30:40.108468,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Winning Conference,Eastern Conference,-0.010699999999999932,0.5348,0.5455
 2022-04-23 07:31:02.937809,Boxing Lines - Tyson Fury vs Dillian Whyte - To Win the Bout,Tyson Fury,-0.01090000000000002,0.8462,0.8571
 2022-04-23 12:30:40.118653,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.011099999999999999,0.1,0.1111
 2022-04-23 09:30:56.096668,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Jameson Williams,-0.011199999999999995,0.0476,0.0588
 2022-04-23 15:31:12.833140,Boxing Lines - Joshua Buatsi vs Richards Craig - To Win the Bout,Richards Craig,-0.01150000000000001,0.1905,0.202
-2022-04-23 09:30:55.532152,Boxing Lines - Isaac Lowe vs Nick Ball - To Win the Bout,Nick Ball,-0.012199999999999989,0.5,0.5122
 2022-04-23 09:30:56.224430,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Jermaine Johnson Draft Position,Under 9.5,-0.012199999999999989,0.4878,0.5
+2022-04-23 09:30:55.532152,Boxing Lines - Isaac Lowe vs Nick Ball - To Win the Bout,Nick Ball,-0.012199999999999989,0.5,0.5122
 2022-04-23 07:31:03.793783,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.012799999999999978,0.2857,0.2985
-2022-04-23 10:30:53.298267,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Malik Willis,Philadelphia Eagles,-0.0131,0.0345,0.0476
 2022-04-23 10:30:53.298267,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Malik Willis,Houston Texans,-0.0131,0.0345,0.0476
+2022-04-23 10:30:53.298267,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Malik Willis,Philadelphia Eagles,-0.0131,0.0345,0.0476
 2022-04-23 07:31:02.971245,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.01369999999999999,0.2273,0.241
 2022-04-23 09:30:55.599836,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.01369999999999999,0.2273,0.241
 2022-04-23 09:30:56.080343,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Evan Neal,-0.014099999999999994,0.0526,0.0667
@@ -79,17 +93,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-23 09:30:57.563876,DFB Pokal - Germany DFB Pokal 2021/22 - Outright,Freiburg,-0.02100000000000002,0.3636,0.3846
 2022-04-23 09:30:56.236870,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Total Number of Pac-12 Players Drafted in Round 1,Under 4.5,-0.02180000000000004,0.6078,0.6296
 2022-04-23 11:31:06.662588,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,-0.022199999999999998,0.2,0.2222
+2022-04-23 16:31:01.092412,TV Specials - Will Homelander Kill any Member of the Seven during Season 3 of The Boys on Amazon? - Outright,No,-0.02250000000000002,0.2632,0.2857
 2022-04-23 12:30:40.118653,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.02250000000000002,0.2632,0.2857
-2022-04-23 15:31:12.210058,NFL Specials - 2022 NFL Draft Specials - Requested Specials,"[Exacta] #1 Walker, #2 Hutchinson",-0.023799999999999988,0.3333,0.3571
 2022-04-23 09:30:56.090207,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Trevor Penning,-0.023799999999999988,0.1429,0.1667
-2022-04-23 09:30:56.090207,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Kyle Hamilton,-0.023800000000000043,0.5,0.5238
+2022-04-23 15:31:12.210058,NFL Specials - 2022 NFL Draft Specials - Requested Specials,"[Exacta] #1 Walker, #2 Hutchinson",-0.023799999999999988,0.3333,0.3571
+2022-04-23 16:30:58.815327,Boxing Lines - Isaac Lowe vs Nick Ball - To Win the Bout,Nick Ball,-0.023799999999999988,0.4762,0.5
 2022-04-23 09:30:56.229870,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Total Number of ACC Players Drafted in Round 1,Under 4.5,-0.023800000000000043,0.5,0.5238
+2022-04-23 09:30:56.090207,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Kyle Hamilton,-0.023800000000000043,0.5,0.5238
 2022-04-23 09:30:57.706661,League Two - England League Two 2021/22 - To Be Promoted,Newport County,-0.0262,0.0123,0.0385
 2022-04-23 10:30:53.298267,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Malik Willis,Carolina Panthers,-0.02779999999999999,0.2222,0.25
 2022-04-23 11:31:06.662588,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Djurgårdens IF,-0.028399999999999995,0.0625,0.0909
 2022-04-23 09:30:56.218950,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Ikem Ekwonu Draft Position,Under 3.5,-0.029000000000000026,0.4255,0.4545
-2022-04-23 12:30:40.133382,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.030299999999999994,0.4348,0.4651
 2022-04-23 09:30:56.090207,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Garrett Wilson,-0.030299999999999994,0.6364,0.6667
+2022-04-23 12:30:40.133382,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.030299999999999994,0.4348,0.4651
 2022-04-23 09:30:56.116762,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Kyle Hamilton,-0.033,0.0196,0.0526
 2022-04-23 09:30:56.137577,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Malik WIllis,-0.03479999999999994,0.5652,0.6
 2022-04-23 12:30:40.126047,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.03570000000000001,0.25,0.2857
@@ -110,8 +126,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-23 10:30:53.292450,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Kenny Pickett,Seattle Seahawks,-0.07579999999999999,0.0909,0.1667
 2022-04-23 09:30:56.207561,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Drake London Draft Position,Under 10.5,-0.0796,0.4082,0.4878
 2022-04-23 09:30:56.090207,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Jameson Williams,-0.08080000000000004,0.3636,0.4444
-2022-04-23 09:30:56.096668,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Kyle Hamilton,-0.08179999999999998,0.1,0.1818
 2022-04-23 10:30:53.298267,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Malik Willis,Seattle Seahawks,-0.08179999999999998,0.1,0.1818
+2022-04-23 09:30:56.096668,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Kyle Hamilton,-0.08179999999999998,0.1,0.1818
 2022-04-23 09:30:56.096668,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Kenny Pickett,-0.08410000000000001,0.0588,0.1429
 2022-04-23 10:30:53.298267,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Malik Willis,Detroit Lions,-0.0889,0.1111,0.2
 2022-04-23 09:30:56.096668,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Ikem Ekwonu,-0.09230000000000005,0.6,0.6923
