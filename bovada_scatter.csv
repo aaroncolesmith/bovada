@@ -13,7 +13,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-22 21:30:48.282225,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Travon Walker,0.03570000000000001,0.2857,0.25
 2022-04-23 00:32:18.855420,NBL - NBL 2021/22 - Outright,Illawarra Hawks,0.03570000000000001,0.2857,0.25
 2022-04-22 17:30:50.963312,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.03570000000000001,0.2857,0.25
-2022-04-22 13:30:41.880819,A1 - Greece A1 2021/22 - Outright,Olympiacos,0.033399999999999985,0.8667,0.8333
 2022-04-22 15:31:03.356468,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,0.033300000000000024,0.2,0.1667
 2022-04-22 15:31:03.356468,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Ja Morant,0.0321,0.0909,0.0588
 2022-04-23 00:32:18.855420,NBL - NBL 2021/22 - Outright,Melbourne United,0.030299999999999994,0.3636,0.3333
@@ -36,7 +35,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-22 19:31:11.535484,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Ahmad Gardner,0.018099999999999998,0.0769,0.0588
 2022-04-22 21:30:48.289130,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Derek Stingley,0.0179,0.1429,0.125
 2022-04-22 15:31:03.925754,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.01629999999999998,0.241,0.2247
-2022-04-22 13:30:40.491041,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.01629999999999998,0.241,0.2247
 2022-04-22 19:31:11.063428,Boxing Lines - Paul Butler vs Jonas Sultan - To Win the Bout,Paul Butler,0.01579999999999998,0.2597,0.2439
 2022-04-22 20:30:39.121705,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Outright,Republican,0.015699999999999936,0.8824,0.8667
 2022-04-22 17:30:50.923593,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win 2023 NCAA DI Men's Basketball Tournament,Baylor,0.014099999999999994,0.0667,0.0526
@@ -49,7 +47,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-22 19:31:11.438207,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Dak Prescott,0.011199999999999995,0.0588,0.0476
 2022-04-22 21:30:47.140959,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.011099999999999999,0.241,0.2299
 2022-04-22 17:30:50.953283,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,0.010699999999999987,0.3333,0.3226
-2022-04-22 13:30:40.370188,Boxing Lines - Dean Dodge vs Reece Bellotti - To Win the Bout,Dean Dodge,0.010599999999999998,0.4651,0.4545
 2022-04-22 14:31:13.487145,Boxing Lines - Tyson Fury vs Dillian Whyte - To Win the Bout,Dillian Whyte,0.010499999999999982,0.2105,0.2
 2022-04-22 22:30:44.964233,Boxing Lines - Karol Itauma vs Michal Ciach - To Win the Bout,Michal Ciach,0.0102,0.0769,0.0667
 2022-04-23 00:32:18.788174,Euroleague - Euroleague 2021/22 - Winner,Milano,-0.0102,0.0667,0.0769
@@ -67,8 +64,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-22 17:30:50.923593,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win 2023 NCAA DI Men's Basketball Tournament,Texas,-0.015300000000000001,0.0323,0.0476
 2022-04-22 19:31:11.568816,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Malik WIllis,-0.01539999999999997,0.6,0.6154
 2022-04-22 17:30:50.945925,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.015700000000000006,0.1176,0.1333
-2022-04-22 14:31:13.519820,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.01629999999999998,0.2247,0.241
 2022-04-22 19:31:11.162042,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.01629999999999998,0.2247,0.241
+2022-04-22 14:31:13.519820,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.01629999999999998,0.2247,0.241
 2022-04-22 19:31:11.063428,Boxing Lines - Paul Butler vs Jonas Sultan - To Win the Bout,Jonas Sultan,-0.016599999999999948,0.8095,0.8261
 2022-04-22 19:31:11.546937,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Derek Stingley,-0.0179,0.125,0.1429
 2022-04-22 19:31:11.525108,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Drake London,-0.0179,0.125,0.1429
@@ -96,7 +93,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-22 19:31:11.525108,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Charles Cross,-0.03570000000000001,0.25,0.2857
 2022-04-22 19:31:11.518381,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Devin Lloyd,-0.036199999999999996,0.1176,0.1538
 2022-04-22 15:31:03.356468,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Giannis Antetokounmpo,-0.037599999999999995,0.1053,0.1429
-2022-04-22 13:30:41.880819,A1 - Greece A1 2021/22 - Outright,Panathinaikos,-0.04040000000000002,0.1818,0.2222
 2022-04-22 19:31:11.525108,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Kyle Hamilton,-0.04040000000000002,0.1818,0.2222
 2022-04-22 19:31:11.525108,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Ikem Ekwonu,-0.044499999999999984,0.6923,0.7368
 2022-04-22 19:31:11.518381,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Jordan Davis,-0.04999999999999999,0.2,0.25
