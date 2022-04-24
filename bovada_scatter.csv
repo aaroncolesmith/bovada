@@ -1,15 +1,12 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-23 23:31:29.333585,NFL Specials - 2022 NFL Draft Team Specials - Detroit Lions 1st Position Drafted,Defensive Line/EDGE,0.08330000000000004,0.8333,0.75
-2022-04-23 17:31:22.990952,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Garrett Wilson Draft Position,Under 10.5,0.08330000000000004,0.75,0.6667
 2022-04-23 23:31:30.629579,League One - England League One 2021/22 - Outright,Rotherham Utd,0.08240000000000001,0.2,0.1176
 2022-04-24 02:31:06.843381,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,0.07190000000000002,0.4167,0.3448
-2022-04-23 17:31:23.148312,NFL Specials - 2022 NFL Draft Specials - Requested Specials,"K. Thibodeaux (Oregon) Top 5 Pick, D. Stingley Jr. (LSU) Top 10 Pick, J. Johnson (Florida State) draft position over 9",0.057699999999999974,0.3077,0.25
 2022-04-23 23:31:29.790091,Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,0.050000000000000044,0.8,0.75
 2022-04-24 04:31:40.769971,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Andrew Booth Draft Position,OVer 26.5,0.04459999999999997,0.6875,0.6429
 2022-04-23 20:30:42.008851,NFL Specials - 2022 NFL Draft Team Specials - Cincinnati Bengals 1st Position Drafted,Cornerback,0.044499999999999984,0.2667,0.2222
 2022-04-23 21:30:44.520654,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Jacksonville Jaguars,Under 6.5,0.03090000000000004,0.6226,0.5917
 2022-04-24 00:30:51.224260,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,0.030699999999999998,0.0833,0.0526
-2022-04-23 17:31:23.148312,NFL Specials - 2022 NFL Draft Specials - Requested Specials,New York Jets select a WR in Round 1 or Round 2,0.023799999999999932,0.8571,0.8333
 2022-04-24 04:31:41.395351,NFL Specials - 2022 NFL Draft Team Specials - Detroit Lions 1st Position Drafted,Defensive Line/EDGE,0.023799999999999932,0.8571,0.8333
 2022-04-23 20:30:43.260193,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Necaxa,0.023200000000000002,0.0476,0.0244
 2022-04-23 20:30:43.405677,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Manchester City,0.02200000000000002,0.7143,0.6923
@@ -27,16 +24,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-23 20:30:41.936137,NFL Specials - 2022 NFL Draft Props - Total Number of Wide Receivers Drafted in Round 1,Over 5.5,0.012600000000000056,0.8,0.7874
 2022-04-23 20:30:41.903885,NFL Specials - 2022 NFL Draft Props - Total Number of Cornerbacks Drafted in Round 1,Over 4.5,0.012199999999999989,0.5122,0.5
 2022-04-23 21:30:44.531533,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Las Vegas Raiders,Under 8.5,0.011600000000000055,0.5238,0.5122
+2022-04-24 04:31:40.659521,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Desmond Ridder,0.011099999999999999,0.1111,0.1
 2022-04-24 02:31:06.827887,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Memphis Grizzlies,0.011099999999999999,0.1111,0.1
 2022-04-23 20:30:43.260193,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Cruz Azul,0.011099999999999999,0.1111,0.1
-2022-04-24 04:31:40.659521,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Desmond Ridder,0.011099999999999999,0.1111,0.1
 2022-04-24 02:31:06.798820,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Winning Conference,Western Conference,0.010699999999999932,0.5455,0.5348
 2022-04-23 21:30:44.531533,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Las Vegas Raiders,Over 8.5,-0.010099999999999998,0.5455,0.5556
-2022-04-23 17:31:21.997072,Boxing Lines - Isaac Lowe vs Nick Ball - To Win the Bout,Isaac Lowe,-0.010099999999999998,0.5816,0.5917
 2022-04-24 02:31:06.843381,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.010499999999999982,0.2,0.2105
 2022-04-24 02:31:06.798820,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Winning Conference,Eastern Conference,-0.01100000000000001,0.5238,0.5348
 2022-04-24 04:31:39.314643,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Memphis Grizzlies,-0.011099999999999999,0.1,0.1111
-2022-04-23 17:31:22.087580,Boxing Lines - Joshua Buatsi vs Richards Craig - To Win the Bout,Richards Craig,-0.01150000000000001,0.1905,0.202
 2022-04-23 21:30:45.200797,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.011700000000000016,0.2105,0.2222
 2022-04-24 02:31:06.843381,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.011899999999999994,0.2381,0.25
 2022-04-23 21:30:44.457222,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Atlanta Falcons,Over 5,-0.012199999999999989,0.4878,0.5
@@ -51,7 +46,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-23 20:30:43.260193,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Monterrey,-0.023799999999999988,0.1429,0.1667
 2022-04-24 04:31:40.769971,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Andrew Booth Draft Position,Under 26.5,-0.024500000000000022,0.3922,0.4167
 2022-04-24 00:30:51.215944,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Dallas Mavericks,-0.024800000000000003,0.0278,0.0526
-2022-04-23 17:31:21.972223,Boxing Lines - Tommy Fury vs Daniel Bocianski - To Win the Bout,Daniel Bocianski,-0.0257,0.0769,0.1026
 2022-04-23 20:30:43.260193,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Tigres UANL,-0.02779999999999999,0.2222,0.25
 2022-04-24 00:30:51.268052,NBL - NBL 2021/22 - Outright,Perth Wildcats,-0.028399999999999995,0.0625,0.0909
 2022-04-23 21:30:44.520654,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Jacksonville Jaguars,Over 6.5,-0.031799999999999995,0.4444,0.4762
@@ -60,5 +54,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-23 20:30:43.405677,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Liverpool,-0.04410000000000003,0.3333,0.3774
 2022-04-23 23:31:29.790091,Italy Serie A - Italy Serie A 2021/2022 - Outright,AC Milan,-0.04999999999999999,0.2,0.25
 2022-04-23 23:31:30.629579,League One - England League One 2021/22 - Outright,Wigan Athletic,-0.06600000000000006,0.8571,0.9231
-2022-04-23 17:31:22.990952,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Garrett Wilson Draft Position,Over 10.5,-0.06670000000000004,0.3333,0.4
 2022-04-24 02:31:06.843381,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Brooklyn Nets,-0.06770000000000001,0.0323,0.1
