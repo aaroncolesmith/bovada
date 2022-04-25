@@ -15,6 +15,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-25 05:31:24.848696,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Travon Walker,0.06230000000000002,0.4878,0.4255
 2022-04-25 10:30:56.411929,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,AC Milan,0.054800000000000015,0.2857,0.2309
 2022-04-25 10:30:56.441085,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Juventus,0.0524,0.9615,0.9091
+2022-04-25 11:30:51.818078,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.04930000000000001,0.3125,0.2632
 2022-04-25 05:31:25.723998,NFL Specials - 2022 NFL Draft Team Specials - Pittsburgh Steelers 1st Position Drafted,Quarterback,0.045499999999999985,0.5,0.4545
 2022-04-25 08:30:39.716303,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Marseille,0.04290000000000005,0.9,0.8571
 2022-04-25 08:30:38.991699,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,0.0417,0.125,0.0833
@@ -22,20 +23,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-25 08:30:38.977062,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.036199999999999996,0.1538,0.1176
 2022-04-25 05:31:25.411257,NFL Specials - 2022 NFL Draft Specials - Requested Specials,Travon Walker To Be 1st Overall; Malik Willis To Be The First QB Selected,0.03570000000000001,0.2857,0.25
 2022-04-25 03:31:24.132254,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 32 Pick,Zion Johnson,0.027800000000000047,0.7778,0.75
+2022-04-25 11:30:51.802914,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.02779999999999999,0.25,0.2222
 2022-04-25 03:31:24.035072,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Travon Walker,0.025499999999999967,0.4255,0.4
 2022-04-25 05:31:24.981109,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Travon Walker,0.0242,0.9333,0.9091
-2022-04-25 03:31:24.132254,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 32 Pick,Kyler Gordon,0.023799999999999988,0.5,0.4762
 2022-04-25 08:30:39.710252,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Martin Terrier,0.023799999999999988,0.1667,0.1429
+2022-04-25 03:31:24.132254,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 32 Pick,Kyler Gordon,0.023799999999999988,0.5,0.4762
 2022-04-25 05:31:25.360299,NFL Specials - 2022 NFL Draft Props - Total Number of Quarterbacks Drafted in Round 1,Under 3.5,0.022700000000000053,0.7727,0.75
 2022-04-25 08:30:38.977062,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.02250000000000002,0.2857,0.2632
 2022-04-25 10:30:56.464968,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,0.021999999999999964,0.3077,0.2857
-2022-04-25 03:31:24.132254,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 32 Pick,David Ojabo,0.02100000000000002,0.3846,0.3636
 2022-04-25 10:30:52.894020,Bundesliga - Bundesliga 2021/22 - Outright,ALBA Berlin,0.02100000000000002,0.3846,0.3636
+2022-04-25 03:31:24.132254,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 32 Pick,David Ojabo,0.02100000000000002,0.3846,0.3636
 2022-04-25 10:30:56.473093,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,0.020199999999999996,0.9091,0.8889
-2022-04-25 03:31:24.132254,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 32 Pick,Skyy Moore,0.019699999999999995,0.4545,0.4348
 2022-04-25 05:31:24.057478,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.019699999999999995,0.4545,0.4348
-2022-04-25 05:31:24.057478,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,New Orleans Pelicans,0.019499999999999997,0.0294,0.0099
+2022-04-25 03:31:24.132254,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 32 Pick,Skyy Moore,0.019699999999999995,0.4545,0.4348
 2022-04-25 10:30:56.502297,MLS - MLS Cup 2022 - Top Goalscorer,Jeremy Ebobisse,0.019499999999999997,0.0294,0.0099
+2022-04-25 05:31:24.057478,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,New Orleans Pelicans,0.019499999999999997,0.0294,0.0099
 2022-04-25 10:30:56.502297,MLS - MLS Cup 2022 - Top Goalscorer,Jesus Jimenez,0.0189,0.0385,0.0196
 2022-04-25 10:30:56.492084,MLS - MLS Cup 2022 - Outright,Los Angeles FC,0.01820000000000002,0.2,0.1818
 2022-04-25 10:30:57.160402,Premiership - Scottish Premiership 2021/22 - Outright,Celtic,0.018100000000000005,0.9412,0.9231
@@ -49,8 +51,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-25 08:30:38.991699,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Memphis Grizzlies,0.015100000000000002,0.1818,0.1667
 2022-04-25 05:31:25.411257,NFL Specials - 2022 NFL Draft Specials - Requested Specials,"Malik Willis First QB Selected; Garrett Wilson First WR Selected, Breece Hall First RB Selected",0.01469999999999999,0.25,0.2353
 2022-04-25 10:30:56.441085,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Atalanta,0.014099999999999998,0.0385,0.0244
-2022-04-25 03:31:24.042566,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Ahmad Gardner,0.013999999999999999,0.0909,0.0769
 2022-04-25 10:30:56.492084,MLS - MLS Cup 2022 - Outright,New York City FC,0.013999999999999999,0.0909,0.0769
+2022-04-25 03:31:24.042566,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Ahmad Gardner,0.013999999999999999,0.0909,0.0769
 2022-04-25 05:31:25.411257,NFL Specials - 2022 NFL Draft Specials - Requested Specials,Kenny Pickett First QB Selected; Garrett Wilson First WR Selected,0.0131,0.2353,0.2222
 2022-04-25 08:30:39.700603,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Monaco,0.012899999999999995,0.1667,0.1538
 2022-04-25 03:31:25.070059,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.011899999999999994,0.25,0.2381
@@ -60,6 +62,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-25 10:30:57.056563,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Darmstadt,0.011099999999999999,0.1111,0.1
 2022-04-25 03:31:25.059700,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.011099999999999999,0.1111,0.1
 2022-04-25 03:31:25.059700,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,0.010399999999999993,0.2326,0.2222
+2022-04-25 11:30:51.818078,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,0.0102,0.0769,0.0667
 2022-04-25 10:30:52.918940,Liga ACB - Liga ACB 2021/2022 - Outright,Manresa,-0.010100000000000001,0.0244,0.0345
 2022-04-25 08:30:38.991699,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Utah Jazz,-0.0102,0.0667,0.0769
 2022-04-25 03:31:24.193785,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Jameson Williams,-0.010699999999999987,0.3226,0.3333
@@ -68,23 +71,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-25 05:31:25.723998,NFL Specials - 2022 NFL Draft Team Specials - Pittsburgh Steelers 1st Position Drafted,Defensive Line/EDGE,-0.011700000000000016,0.2105,0.2222
 2022-04-25 05:31:24.848696,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Kayvon Thibodeaux,-0.0126,0.04,0.0526
 2022-04-25 10:30:56.502297,MLS - MLS Cup 2022 - Top Goalscorer,Carlos Vela,-0.012899999999999995,0.1538,0.1667
-2022-04-25 08:30:38.977062,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Philadelphia 76ers,-0.013999999999999999,0.0769,0.0909
 2022-04-25 08:30:38.388887,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Ahmad Gardner,-0.013999999999999999,0.0769,0.0909
+2022-04-25 08:30:38.977062,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Philadelphia 76ers,-0.013999999999999999,0.0769,0.0909
 2022-04-25 10:30:56.432800,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Spezia,-0.014099999999999998,0.0244,0.0385
+2022-04-25 11:30:51.818078,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,New Orleans Pelicans,-0.014099999999999998,0.0244,0.0385
+2022-04-25 11:30:51.818078,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Memphis Grizzlies,-0.015100000000000002,0.1667,0.1818
+2022-04-25 11:30:51.802914,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,-0.015400000000000025,0.3846,0.4
 2022-04-25 08:30:38.984852,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,-0.016699999999999993,0.4,0.4167
 2022-04-25 08:30:38.052952,Boxing Lines - Shakur Stevenson vs Oscar Valdez - To Win the Bout,Shakur Stevenson,-0.017900000000000027,0.8571,0.875
 2022-04-25 08:30:38.984852,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.01820000000000002,0.1818,0.2
 2022-04-25 08:30:38.388887,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Aidan Hutchinson,-0.018799999999999983,0.3448,0.3636
+2022-04-25 11:30:51.818078,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.019699999999999995,0.4348,0.4545
 2022-04-25 10:30:56.432800,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Venezia,-0.020299999999999985,0.9412,0.9615
 2022-04-25 05:31:25.360299,NFL Specials - 2022 NFL Draft Props - Total Number of Quarterbacks Drafted in Round 1,Over 3.5,-0.020799999999999985,0.3125,0.3333
 2022-04-25 10:30:56.464968,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Cádiz,-0.021699999999999997,0.4545,0.4762
-2022-04-25 10:30:56.411929,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Inter Milan,-0.022199999999999998,0.7778,0.8
 2022-04-25 10:30:56.399893,Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,-0.022199999999999998,0.7778,0.8
+2022-04-25 10:30:56.411929,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Inter Milan,-0.022199999999999998,0.7778,0.8
 2022-04-25 08:30:39.700603,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Strasbourg,-0.0236,0.0149,0.0385
 2022-04-25 10:30:56.464968,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,-0.023799999999999988,0.4762,0.5
 2022-04-25 05:31:24.848696,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Ikem Ekwonu,-0.024299999999999995,0.0526,0.0769
 2022-04-25 10:30:57.160402,Premiership - Scottish Premiership 2021/22 - Outright,Rangers FC,-0.024999999999999994,0.1,0.125
+2022-04-25 11:30:51.818078,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,-0.024999999999999994,0.1,0.125
 2022-04-25 05:31:24.023634,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,-0.026500000000000024,0.1818,0.2083
+2022-04-25 11:30:51.802914,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.02679999999999999,0.2857,0.3125
 2022-04-25 08:30:38.984852,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.02779999999999999,0.2222,0.25
 2022-04-25 08:30:38.977062,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,-0.027999999999999997,0.1538,0.1818
 2022-04-25 10:30:56.441085,Italy Serie A - Italy Serie A 2021/2022 - Top 4 Finish,Lazio,-0.028000000000000004,0.0196,0.0476
@@ -101,8 +110,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-25 08:30:39.700603,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Rennes,-0.04999999999999999,0.2,0.25
 2022-04-25 03:31:25.122194,NBL - NBL 2021/22 - Outright,Sydney Kings,-0.05130000000000001,0.3333,0.3846
 2022-04-25 10:30:56.432800,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Genoa,-0.05230000000000001,0.8889,0.9412
-2022-04-25 08:30:39.710252,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Kylian Mbappe,-0.05709999999999993,0.8,0.8571
 2022-04-25 03:31:24.433604,NFL Specials - 2022 NFL Draft Specials - Requested Specials,New York Jets select a WR in Round 1 or Round 2,-0.05709999999999993,0.8,0.8571
+2022-04-25 08:30:39.710252,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Kylian Mbappe,-0.05709999999999993,0.8,0.8571
 2022-04-25 03:31:24.193785,NFL Specials - 2022 NFL Draft Props - 1st WR Selected,Drake London,-0.057699999999999974,0.25,0.3077
 2022-04-25 08:30:38.388887,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Kayvon Thibodeaux,-0.05980000000000002,0.3846,0.4444
 2022-04-25 08:30:38.382702,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Travon Walker,-0.06230000000000002,0.4255,0.4878
