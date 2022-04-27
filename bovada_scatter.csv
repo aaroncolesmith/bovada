@@ -6,14 +6,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-26 15:32:49.910407,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 32 Pick,Quay Walker,0.13640000000000002,0.5,0.3636
 2022-04-26 15:32:49.988860,NFL Specials - 2022 NFL Draft Props - 1st Offensive Player Selected,Ikem Ekwonu,0.131,0.7143,0.5833
 2022-04-26 20:30:52.968371,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Malik Willis,Seattle Seahawks,0.1222,0.2222,0.1
-2022-04-26 15:32:49.936260,NFL Specials - 2022 NFL Draft - Top 2 Exact Order - Outright,1st I. Ekwonu/2nd A. Hutchinson,0.11909999999999998,0.1667,0.0476
 2022-04-26 20:30:52.954516,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Kenny Pickett,Atlanta Falcons,0.11909999999999998,0.1667,0.0476
+2022-04-26 15:32:49.936260,NFL Specials - 2022 NFL Draft - Top 2 Exact Order - Outright,1st I. Ekwonu/2nd A. Hutchinson,0.11909999999999998,0.1667,0.0476
 2022-04-26 15:32:49.872210,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 9 Overall Pick,Derek Stingley,0.11900000000000002,0.2857,0.1667
 2022-04-26 15:32:49.958642,NFL Specials - 2022 NFL Draft - Top 3 Exact Order - Outright,1st T. Walker / 2nd A. Hutchinson / 3rd D. Stingley,0.11529999999999999,0.1538,0.0385
 2022-04-26 15:32:49.817702,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 5 Overall Pick,Ikem Ekwonu,0.11359999999999998,0.3636,0.25
 2022-04-26 20:30:52.968371,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Malik Willis,Detroit Lions,0.1111,0.2222,0.1111
 2022-04-26 16:30:39.555284,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Evan Neal Draft Position,Over 5.5,0.10809999999999997,0.6429,0.5348
-2022-04-26 13:30:47.431542,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Western Conference Finals,GS Warriors v DAL Mavericks,0.10390000000000002,0.2857,0.1818
 2022-04-26 15:32:49.817702,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 5 Overall Pick,Charles Cross,0.10390000000000002,0.2857,0.1818
 2022-04-26 15:32:49.887648,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Jameson Williams,0.10109999999999997,0.5556,0.4545
 2022-04-26 15:32:49.922171,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Ikem Ekwonu,0.09800000000000009,0.7647,0.6667
@@ -22,8 +21,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-26 20:30:53.719393,Champions League - UEFA Champions League 2021/2022 - Outright,Manchester City,0.09099999999999997,0.5455,0.4545
 2022-04-26 15:32:50.000035,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Malik WIllis,0.08999999999999997,0.6552,0.5652
 2022-04-26 15:32:49.958642,NFL Specials - 2022 NFL Draft - Top 3 Exact Order - Outright,1st T. Walker / 2nd A. Hutchinson / 3rd K. Thibodeaux,0.08979999999999999,0.1667,0.0769
-2022-04-26 15:32:49.836174,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Ikem Ekwonu,0.0889,0.2222,0.1333
 2022-04-26 15:32:49.787478,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Kayvon Thibodeaux,0.0889,0.2,0.1111
+2022-04-26 15:32:49.836174,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Ikem Ekwonu,0.0889,0.2222,0.1333
 2022-04-26 22:30:57.022933,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Kenny Pickett,0.08330000000000001,0.25,0.1667
 2022-04-26 15:32:49.860475,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,Garrett Wilson,0.08330000000000001,0.25,0.1667
 2022-04-26 15:32:49.801818,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 4 Overall Pick,Jermaine Johnson,0.08330000000000001,0.25,0.1667
@@ -38,7 +37,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-27 00:32:38.425824,NFL Specials - 2022 NFL Draft Team Specials - Arizona Cardinals 1st Position Drafted,Offensive Line,0.06820000000000001,0.25,0.1818
 2022-04-27 00:32:38.152228,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Kaiir Elam Draft Position,Under 33.5,0.06789999999999996,0.5917,0.5238
 2022-04-26 20:30:52.968371,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Malik Willis,Carolina Panthers,0.0635,0.2857,0.2222
-2022-04-26 13:30:47.431542,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Western Conference Finals,DAL Mavericks v MEM Grizzlies,0.0629,0.1538,0.0909
 2022-04-26 15:32:49.910407,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 32 Pick,Matt Corral,0.057699999999999974,0.5455,0.4878
 2022-04-26 15:32:49.887648,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Derek Stingley,0.057699999999999974,0.75,0.6923
 2022-04-26 22:30:56.998362,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 4 Overall Pick,Evan Neal,0.0573,0.0769,0.0196
@@ -46,7 +44,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-26 15:32:49.922171,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Kayvon Thibodeaux,0.05709999999999993,0.8571,0.8
 2022-04-26 16:30:39.598928,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Jermaine Johnson Draft Position,Under 9.5,0.05689999999999995,0.5917,0.5348
 2022-04-26 20:30:52.968371,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Malik Willis,Atlanta Falcons,0.05550000000000002,0.2222,0.1667
-2022-04-26 13:30:47.425632,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Eastern Conference Finals,BOS Celtics v ATL Hawks,0.0542,0.0625,0.0083
 2022-04-26 15:32:49.776887,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Aidan Hutchinson,0.05130000000000001,0.6667,0.6154
 2022-04-26 15:32:49.872210,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 9 Overall Pick,Jordan Davis,0.050899999999999994,0.0909,0.04
 2022-04-26 16:30:39.576661,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - George Pickens Draft Position,Over 36.5,0.05059999999999998,0.5744,0.5238
@@ -65,29 +62,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-26 15:32:49.897995,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 3 Pick,Travon Walker,0.04169999999999996,0.9167,0.875
 2022-04-26 20:30:53.347020,NFL Specials - 2022 NFL Draft Team Specials - Tampa Bay Buccaneers 1st Position Drafted,Defensive Line/EDGE,0.04099999999999998,0.3077,0.2667
 2022-04-26 22:30:56.998362,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 4 Overall Pick,Aidan Hutchinson,0.0392,0.0588,0.0196
-2022-04-26 15:32:49.787478,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Derek Stingley,0.03889999999999999,0.1818,0.1429
 2022-04-26 15:32:49.801818,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 4 Overall Pick,Ikem Ekwonu,0.03889999999999999,0.1818,0.1429
+2022-04-26 15:32:49.787478,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Derek Stingley,0.03889999999999999,0.1818,0.1429
 2022-04-26 15:32:49.897995,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 3 Pick,Ikem Ekwonu,0.03710000000000002,0.3704,0.3333
+2022-04-27 02:30:49.676147,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Lewis Cine Draft Position,Under 34.5,0.03709999999999991,0.6667,0.6296
 2022-04-26 22:30:58.168635,NFL Specials - 2022 NFL Draft Team Specials - Houston Texans 1st Position Drafted,Offensive Line,0.03640000000000004,0.4,0.3636
-2022-04-26 15:32:49.922171,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Charles Cross,0.03570000000000001,0.2857,0.25
 2022-04-26 22:30:57.129726,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Derek Stingley,0.03570000000000001,0.2857,0.25
+2022-04-26 15:32:49.922171,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Charles Cross,0.03570000000000001,0.2857,0.25
 2022-04-26 15:32:49.849865,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 7 Overall Pick,Ahmad Gardner,0.03570000000000001,0.2857,0.25
-2022-04-26 13:30:47.425632,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Eastern Conference Finals,BOS Celtics v MIA Heat,0.0348,0.4348,0.4
+2022-04-27 02:30:49.348497,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 32 Pick,Lewis Cine,0.03480000000000005,0.5348,0.5
 2022-04-26 15:32:49.860475,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,Malik Willis,0.033399999999999985,0.1667,0.1333
 2022-04-26 15:32:49.860475,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,Drake London,0.033300000000000024,0.2,0.1667
-2022-04-26 15:32:49.787478,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Travon Walker,0.033300000000000024,0.2,0.1667
 2022-04-26 15:32:49.849865,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 7 Overall Pick,Charles Cross,0.033300000000000024,0.2,0.1667
+2022-04-26 15:32:49.787478,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Travon Walker,0.033300000000000024,0.2,0.1667
 2022-04-26 15:32:49.836174,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Garrett Wilson,0.033100000000000004,0.0625,0.0294
 2022-04-26 20:30:52.096083,NFL Specials - 2022 NFL Draft Props - 1st Offensive Lineman Selected,Ikem Ekwonu,0.030299999999999994,0.6667,0.6364
 2022-04-26 22:30:57.657390,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Lewis Cine Draft Position,Under 34.5,0.02960000000000007,0.6296,0.6
-2022-04-26 22:30:57.704178,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Quay Walker Draft Position,Under 32.5,0.028900000000000037,0.5744,0.5455
 2022-04-26 16:30:39.488764,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Bernhard Raimann Draft Position,Over 37.5,0.028900000000000037,0.5744,0.5455
 2022-04-26 22:30:57.666871,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Logan Hall Draft Position,Under 38.5,0.028900000000000037,0.5744,0.5455
+2022-04-26 22:30:57.704178,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Quay Walker Draft Position,Under 32.5,0.028900000000000037,0.5744,0.5455
 2022-04-26 22:30:56.998362,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 4 Overall Pick,Ahmad Gardner,0.028700000000000003,0.2105,0.1818
-2022-04-26 15:32:49.988860,NFL Specials - 2022 NFL Draft Props - 1st Offensive Player Selected,Garrett Wilson,0.028399999999999995,0.0909,0.0625
 2022-04-26 22:30:57.053435,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,Kyle Hamilton,0.028399999999999995,0.0909,0.0625
+2022-04-26 15:32:49.988860,NFL Specials - 2022 NFL Draft Props - 1st Offensive Player Selected,Garrett Wilson,0.028399999999999995,0.0909,0.0625
+2022-04-27 02:30:49.374915,NFL Specials - 2022 NFL Draft - Top 3 Exact Order - Outright,1st T. Walker / 2nd A. Hutchinson / 3rd D. Stingley,0.027999999999999997,0.1818,0.1538
 2022-04-26 20:30:53.285536,NFL Specials - 2022 NFL Draft Team Specials - New Orleans Saints 1st Position Drafted,Wide Receiver,0.02779999999999999,0.25,0.2222
-2022-04-26 13:30:47.425632,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Eastern Conference Finals,MIL Bucks v MIA Heat,0.02779999999999999,0.25,0.2222
 2022-04-26 15:32:49.922171,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Derek Stingley,0.02779999999999999,0.25,0.2222
 2022-04-26 15:32:48.716732,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Western Conference Finals,GS Warriors v PHO Suns,0.027500000000000024,0.3846,0.3571
 2022-04-26 20:30:50.748203,Boxing Lines - Shakur Stevenson vs Oscar Valdez - To Win the Bout,Oscar Valdez,0.026100000000000012,0.2,0.1739
@@ -95,39 +93,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-26 22:30:56.984551,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Aidan Hutchinson,0.025600000000000067,0.6923,0.6667
 2022-04-26 23:30:49.359378,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Derek Stingley Jr. Draft Position,Under 9.5,0.02510000000000001,0.7619,0.7368
 2022-04-26 20:30:51.055298,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.025099999999999983,0.2632,0.2381
-2022-04-26 13:30:47.425632,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Eastern Conference Finals,BOS Celtics v TOR Raptors,0.024,0.0323,0.0083
 2022-04-26 15:32:49.836174,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Ahmad Gardner,0.024,0.0625,0.0385
 2022-04-26 15:32:49.836174,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Jermaine Johnson,0.024,0.0625,0.0385
 2022-04-26 15:32:49.849865,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 7 Overall Pick,Garrett Wilson,0.024,0.0625,0.0385
 2022-04-26 20:30:52.330144,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Garrett Wilson Draft Position,Under 9.5,0.023800000000000043,0.5238,0.5
-2022-04-26 15:32:49.849865,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 7 Overall Pick,Evan Neal,0.023799999999999988,0.1667,0.1429
 2022-04-26 15:32:49.910407,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 32 Pick,Tyler Smith,0.023799999999999988,0.5,0.4762
-2022-04-26 22:30:57.306295,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Ahmad Gardner Draft Position,Under 5.5,0.023699999999999943,0.6154,0.5917
+2022-04-26 15:32:49.849865,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 7 Overall Pick,Evan Neal,0.023799999999999988,0.1667,0.1429
 2022-04-26 22:30:57.383451,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Breece Hall Draft Position,Under 39.5,0.023699999999999943,0.6154,0.5917
+2022-04-26 22:30:57.306295,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Ahmad Gardner Draft Position,Under 5.5,0.023699999999999943,0.6154,0.5917
+2022-04-27 02:30:49.698977,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Nakobe Dean Draft Position,Over 30.5,0.023699999999999943,0.6154,0.5917
+2022-04-27 02:30:49.640002,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Kaiir Elam Draft Position,Under 33.5,0.023699999999999943,0.6154,0.5917
 2022-04-26 16:30:39.695316,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Sam Howell Draft Position,Under 45.5,0.022699999999999998,0.4878,0.4651
 2022-04-26 22:30:57.811604,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Trey McBride Draft Position,Under 50.5,0.022600000000000064,0.5348,0.5122
 2022-04-26 15:32:49.958642,NFL Specials - 2022 NFL Draft - Top 3 Exact Order - Outright,1st T. Walker / 2nd A. Hutchinson / 3rd G. Wilson,0.022400000000000003,0.0323,0.0099
 2022-04-26 22:30:57.993713,NFL Specials - 2022 NFL Draft Specials - Requested Specials,Malik Willis & Kenny Pickett Both to be Drafted in Top 10 Picks,0.022199999999999998,0.2222,0.2
-2022-04-26 13:30:49.178861,NFL Specials - 2022 NFL Draft Specials - Requested Specials,Malik Willis & Kenny Pickett Both to be Drafted in Top 10 Picks,0.022199999999999998,0.2222,0.2
-2022-04-26 23:30:49.901018,NFL Specials - 2022 NFL Draft Specials - Requested Specials,Malik Willis & Kenny Pickett Both to be Drafted in Top 10 Picks,0.022199999999999998,0.2222,0.2
 2022-04-26 16:30:39.849902,NFL Specials - 2022 NFL Draft Specials - Requested Specials,Malik Willis & Kenny Pickett Both to be Drafted in Top 10 Picks,0.022199999999999998,0.2222,0.2
+2022-04-27 00:32:38.395004,NFL Specials - 2022 NFL Draft Specials - Requested Specials,Malik Willis & Kenny Pickett Both to be Drafted in Top 10 Picks,0.022199999999999998,0.2222,0.2
 2022-04-26 20:30:53.285536,NFL Specials - 2022 NFL Draft Team Specials - New Orleans Saints 1st Position Drafted,Offensive Line,0.021999999999999964,0.3077,0.2857
 2022-04-26 20:30:53.088668,NFL Specials - 2022 NFL Draft Team Specials - Cleveland Browns 1st Position Drafted,Wide Receiver,0.021999999999999964,0.3077,0.2857
+2022-04-27 02:30:49.357475,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Derek Stingley,0.021999999999999964,0.3077,0.2857
 2022-04-26 22:30:57.604108,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Kayvon Thibodeaux Draft Position,Over 4.5,0.021699999999999997,0.4762,0.4545
 2022-04-26 15:32:49.936260,NFL Specials - 2022 NFL Draft - Top 2 Exact Order - Outright,1st E. Neal/2nd K. Thibodeaux,0.021300000000000003,0.0323,0.011
 2022-04-26 22:30:57.022933,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Jameson Williams,0.02020000000000001,0.1111,0.0909
 2022-04-26 22:30:57.011374,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 5 Overall Pick,Malik Willis,0.019800000000000005,0.0476,0.0278
+2022-04-27 02:30:49.341270,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 3 Pick,Derek Stingley,0.019000000000000017,0.2857,0.2667
 2022-04-26 15:32:49.849865,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 7 Overall Pick,Drake London,0.0189,0.0385,0.0196
-2022-04-26 22:30:57.036398,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 7 Overall Pick,Malik Willis,0.0189,0.0385,0.0196
 2022-04-26 15:32:49.787478,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Garrett Wilson,0.0189,0.0385,0.0196
+2022-04-26 22:30:57.036398,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 7 Overall Pick,Malik Willis,0.0189,0.0385,0.0196
 2022-04-26 20:30:53.263496,NFL Specials - 2022 NFL Draft Team Specials - Minnesota Vikings 1st Position Drafted,Cornerback,0.01880000000000004,0.5744,0.5556
 2022-04-26 16:30:39.527334,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Derek Stingley Jr. Draft Position,Under 9.5,0.018399999999999972,0.7059,0.6875
 2022-04-26 22:30:57.319196,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Aidan Hutchinson Draft Position,Over 1.5,0.018199999999999994,0.8182,0.8
+2022-04-27 02:30:49.693325,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Matt Corral Draft Position,Over 33.5,0.018100000000000005,0.5833,0.5652
 2022-04-26 15:32:49.958642,NFL Specials - 2022 NFL Draft - Top 3 Exact Order - Outright,1st T. Walker / 2nd A. Hutchinson / 3rd E. Neal,0.018099999999999998,0.0769,0.0588
-2022-04-26 22:30:57.846183,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Tyler Linderbaum Draft Position,Over 27.5,0.017299999999999982,0.5917,0.5744
-2022-04-26 22:30:57.634128,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Kyle Hamilton Draft Position,Under 12.5,0.017299999999999982,0.5917,0.5744
 2022-04-26 22:30:57.695434,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Nakobe Dean Draft Position,Over 30.5,0.017299999999999982,0.5917,0.5744
 2022-04-26 22:30:57.869277,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Zion Johnson Draft Position,Under 24.5,0.017299999999999982,0.5917,0.5744
+2022-04-26 22:30:57.634128,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Kyle Hamilton Draft Position,Under 12.5,0.017299999999999982,0.5917,0.5744
+2022-04-26 22:30:57.846183,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Tyler Linderbaum Draft Position,Over 27.5,0.017299999999999982,0.5917,0.5744
 2022-04-26 22:30:57.096712,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 3 Pick,Derek Stingley,0.016699999999999993,0.2667,0.25
 2022-04-26 20:30:52.242739,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Derek Stingley Jr. Draft Position,Under 9.5,0.01629999999999998,0.7222,0.7059
 2022-04-26 22:30:57.065165,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 9 Overall Pick,Kenny Pickett,0.0157,0.0435,0.0278
@@ -135,92 +136,88 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-26 22:30:58.542913,Boxing Lines - Shakur Stevenson vs Oscar Valdez - To Win the Bout,Shakur Stevenson,0.015699999999999936,0.8824,0.8667
 2022-04-26 22:30:57.500606,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - George Karlaftis Draft Position,Over 22.5,0.01539999999999997,0.6154,0.6
 2022-04-26 15:32:49.836174,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Derek Stingley,0.015300000000000001,0.0476,0.0323
-2022-04-26 13:30:47.441845,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jayson Tatum,0.015100000000000002,0.1818,0.1667
+2022-04-27 02:30:49.436658,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Aidan Hutchinson Draft Position,Over 1.5,0.015100000000000002,0.8333,0.8182
 2022-04-26 15:32:49.860475,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,Derek Stingley,0.014899999999999997,0.0625,0.0476
 2022-04-26 22:30:57.434724,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Derek Stingley Jr. Draft Position,Under 9.5,0.014600000000000057,0.7368,0.7222
 2022-04-26 15:32:49.887648,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Chris Olave,0.014399999999999996,0.0769,0.0625
 2022-04-26 22:30:57.065165,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 9 Overall Pick,Jameson Williams,0.014099999999999994,0.0667,0.0526
 2022-04-26 15:32:49.836174,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Kayvon Thibodeaux,0.013999999999999999,0.0909,0.0769
 2022-04-26 22:30:57.944589,NFL Specials - 2022 NFL Draft Props - Total Number of Tight Ends Drafted in Round 1,Under 0.5,0.013900000000000023,0.8889,0.875
-2022-04-26 20:30:51.041336,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,0.013899999999999996,0.125,0.1111
 2022-04-26 15:32:49.872210,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 9 Overall Pick,Jermaine Johnson,0.013899999999999996,0.125,0.1111
-2022-04-26 20:30:52.968371,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Malik Willis,Philadelphia Eagles,0.0131,0.0476,0.0345
+2022-04-26 20:30:51.041336,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,0.013899999999999996,0.125,0.1111
 2022-04-26 20:30:52.968371,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Malik Willis,Houston Texans,0.0131,0.0476,0.0345
-2022-04-26 13:30:47.431542,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Western Conference Finals,MIN Timberwolves v DAL Mavericks,0.012700000000000003,0.0323,0.0196
+2022-04-26 20:30:52.968371,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Malik Willis,Philadelphia Eagles,0.0131,0.0476,0.0345
 2022-04-26 22:30:57.935303,NFL Specials - 2022 NFL Draft Props - Total Number of Safeties Drafted in Round 1,Over 1.5,0.012600000000000056,0.8,0.7874
 2022-04-26 20:30:52.662900,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Total Number of Pac-12 Players Drafted in Round 1,Under 4.5,0.012299999999999978,0.6552,0.6429
 2022-04-26 16:30:39.494594,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Boye Mafe Draft Position,Over 31.5,0.012199999999999989,0.5122,0.5
 2022-04-26 16:30:39.538120,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Devin Lloyd Draft Position,Under 19.5,0.011600000000000055,0.5238,0.5122
 2022-04-26 22:30:57.113813,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 32 Pick,Daxton Hill,0.011499999999999955,0.6667,0.6552
-2022-04-26 13:30:47.425632,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Eastern Conference Finals,TOR Raptors v MIL Bucks,0.0114,0.0164,0.005
 2022-04-26 22:30:57.036398,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 7 Overall Pick,Kyle Hamilton,0.011199999999999995,0.0435,0.0323
 2022-04-26 20:30:52.081229,NFL Specials - 2022 NFL Draft Props - 1st Cornerback Selected,Trent McDuffie,0.011199999999999995,0.0588,0.0476
 2022-04-26 22:30:58.527978,Boxing Lines - Liam Smith vs Jessie Vargas - To Win the Bout,Liam Smith,0.011099999999999999,0.7333,0.7222
 2022-04-26 22:30:57.491015,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Garrett Wilson Draft Position,Under 9.5,0.01100000000000001,0.5348,0.5238
 2022-04-26 20:30:52.106297,NFL Specials - 2022 NFL Draft Props - 1st RB Selected,Kyren Williams,0.010700000000000001,0.0385,0.0278
-2022-04-26 13:30:47.431542,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Western Conference Finals,MIN Timberwolves v PHO Suns,0.010700000000000001,0.0385,0.0278
 2022-04-26 15:32:49.872210,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 9 Overall Pick,Kyle Hamilton,0.010700000000000001,0.0385,0.0278
 2022-04-27 00:32:38.054977,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Derek Stingley Jr. Draft Position,Over 9.5,0.010699999999999987,0.3333,0.3226
 2022-04-26 15:32:49.817702,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 5 Overall Pick,Ahmad Gardner,0.010499999999999982,0.2105,0.2
 2022-04-26 22:30:57.022933,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Charles Cross,0.010499999999999982,0.2105,0.2
 2022-04-26 15:32:49.887648,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Treylon Burks,0.0102,0.0769,0.0667
 2022-04-26 22:31:00.406671,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,0.010099999999999998,0.4545,0.4444
-2022-04-26 20:30:53.719393,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,-0.010099999999999998,0.4444,0.4545
 2022-04-26 20:30:53.088668,NFL Specials - 2022 NFL Draft Team Specials - Cleveland Browns 1st Position Drafted,Safety,-0.010099999999999998,0.0952,0.1053
+2022-04-26 20:30:53.719393,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,-0.010099999999999998,0.4444,0.4545
 2022-04-26 15:32:49.887648,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Drake London,-0.010099999999999998,0.4444,0.4545
 2022-04-26 15:32:49.817702,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 5 Overall Pick,Jameson Williams,-0.010100000000000001,0.0244,0.0345
-2022-04-26 13:30:47.441845,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Joel Embiid,-0.0102,0.0667,0.0769
 2022-04-26 15:32:49.887648,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Desmond Ridder,-0.011199999999999995,0.0476,0.0588
 2022-04-26 16:30:39.677792,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Nakobe Dean Draft Position,Under 30.5,-0.011600000000000055,0.5122,0.5238
 2022-04-26 15:32:49.801818,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 4 Overall Pick,Kenny Pickett,-0.0118,0.0099,0.0217
 2022-04-27 00:32:38.054977,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Derek Stingley Jr. Draft Position,Under 9.5,-0.011900000000000022,0.75,0.7619
 2022-04-26 22:30:57.642922,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Kyler Gordon Draft Position,Over 32.5,-0.012199999999999989,0.5,0.5122
 2022-04-26 22:30:57.434724,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Derek Stingley Jr. Draft Position,Over 9.5,-0.012699999999999989,0.3509,0.3636
-2022-04-26 15:32:49.922171,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Trevor Penning,-0.012700000000000003,0.0196,0.0323
 2022-04-26 15:32:49.872210,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 9 Overall Pick,Devin Lloyd,-0.012700000000000003,0.0196,0.0323
-2022-04-26 15:32:49.849865,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 7 Overall Pick,Malik Willis,-0.012700000000000003,0.0196,0.0323
-2022-04-26 15:32:49.836174,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Trevor Penning,-0.012700000000000003,0.0196,0.0323
-2022-04-26 15:32:49.787478,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Kenny Pickett,-0.012700000000000003,0.0196,0.0323
 2022-04-26 15:32:49.776887,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Derek Stingley,-0.012700000000000003,0.0196,0.0323
+2022-04-26 15:32:49.787478,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Kenny Pickett,-0.012700000000000003,0.0196,0.0323
+2022-04-26 15:32:49.836174,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Trevor Penning,-0.012700000000000003,0.0196,0.0323
 2022-04-26 15:32:49.860475,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,Desmond Ridder,-0.012700000000000003,0.0196,0.0323
+2022-04-26 15:32:49.849865,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 7 Overall Pick,Malik Willis,-0.012700000000000003,0.0196,0.0323
+2022-04-26 15:32:49.922171,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Trevor Penning,-0.012700000000000003,0.0196,0.0323
 2022-04-26 22:30:57.935303,NFL Specials - 2022 NFL Draft Props - Total Number of Safeties Drafted in Round 1,Under 1.5,-0.012799999999999978,0.2857,0.2985
 2022-04-26 22:30:57.065165,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 9 Overall Pick,Ahmad Gardner,-0.0131,0.0345,0.0476
 2022-04-26 20:30:52.242739,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Derek Stingley Jr. Draft Position,Over 9.5,-0.013800000000000034,0.3636,0.3774
 2022-04-26 22:30:57.065165,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 9 Overall Pick,Jermaine Johnson,-0.013899999999999996,0.1111,0.125
 2022-04-26 15:32:49.872210,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 9 Overall Pick,Malik Willis,-0.013999999999999999,0.0769,0.0909
-2022-04-26 22:31:00.417288,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Mohamed Salah,-0.014099999999999998,0.0244,0.0385
 2022-04-26 15:32:49.817702,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 5 Overall Pick,Kyle Hamilton,-0.014099999999999998,0.0244,0.0385
-2022-04-26 20:30:52.954516,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Kenny Pickett,Washington Commanders,-0.014100000000000001,0.0385,0.0526
-2022-04-26 15:32:49.958642,NFL Specials - 2022 NFL Draft - Top 3 Exact Order - Outright,1st A. Hutchinson / 2nd T. Walker / 3rd D. Stingley,-0.014100000000000001,0.0385,0.0526
+2022-04-26 22:31:00.417288,Champions League - UEFA Champions League 2021/2022 - Top Goalscorer,Mohamed Salah,-0.014099999999999998,0.0244,0.0385
+2022-04-26 15:32:49.860475,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,Chris Olave,-0.014100000000000001,0.0385,0.0526
+2022-04-26 15:32:49.860475,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,Kenny Pickett,-0.014100000000000001,0.0385,0.0526
 2022-04-26 20:30:52.968371,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Malik Willis,Washington Commanders,-0.014100000000000001,0.0385,0.0526
 2022-04-26 15:32:49.936260,NFL Specials - 2022 NFL Draft - Top 2 Exact Order - Outright,1st T. Walker/2nd M. Willis,-0.014100000000000001,0.0385,0.0526
-2022-04-26 15:32:49.860475,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,Chris Olave,-0.014100000000000001,0.0385,0.0526
+2022-04-26 20:30:52.954516,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Kenny Pickett,Washington Commanders,-0.014100000000000001,0.0385,0.0526
+2022-04-26 15:32:49.958642,NFL Specials - 2022 NFL Draft - Top 3 Exact Order - Outright,1st A. Hutchinson / 2nd T. Walker / 3rd D. Stingley,-0.014100000000000001,0.0385,0.0526
 2022-04-26 15:32:49.764743,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 1 Overall Pick,Evan Neal,-0.014100000000000001,0.0385,0.0526
-2022-04-26 15:32:49.860475,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,Kenny Pickett,-0.014100000000000001,0.0385,0.0526
 2022-04-26 15:32:49.922171,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Jameson Williams,-0.014399999999999996,0.0625,0.0769
 2022-04-26 15:32:49.801818,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 4 Overall Pick,Jordan Davis,-0.0145,0.0099,0.0244
 2022-04-26 16:30:39.527334,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Derek Stingley Jr. Draft Position,Over 9.5,-0.01479999999999998,0.3774,0.3922
 2022-04-26 15:32:49.836174,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Kyle Hamilton,-0.014900000000000004,0.0196,0.0345
 2022-04-26 15:32:49.910407,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 32 Pick,Perrion Winfrey,-0.015100000000000002,0.1667,0.1818
-2022-04-26 15:32:49.801818,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 4 Overall Pick,Drake London,-0.015300000000000001,0.0323,0.0476
 2022-04-26 15:32:49.801818,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 4 Overall Pick,Jameson Williams,-0.015300000000000001,0.0323,0.0476
+2022-04-26 15:32:49.801818,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 4 Overall Pick,Drake London,-0.015300000000000001,0.0323,0.0476
 2022-04-26 22:30:57.604108,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Kayvon Thibodeaux Draft Position,Under 4.5,-0.01539999999999997,0.6,0.6154
 2022-04-26 15:32:49.910407,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 32 Pick,Breece Hall,-0.015400000000000025,0.3846,0.4
 2022-04-26 20:30:51.055298,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,-0.015400000000000025,0.3846,0.4
 2022-04-26 16:30:39.695316,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Sam Howell Draft Position,Over 45.5,-0.016100000000000003,0.5917,0.6078
 2022-04-26 15:32:49.910407,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 32 Pick,Jalen Pitre,-0.016699999999999993,0.25,0.2667
-2022-04-26 20:30:53.263496,NFL Specials - 2022 NFL Draft Team Specials - Minnesota Vikings 1st Position Drafted,Safety,-0.0179,0.125,0.1429
+2022-04-27 02:30:49.436658,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Aidan Hutchinson Draft Position,Under 1.5,-0.016699999999999993,0.25,0.2667
 2022-04-26 15:32:49.776887,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Ikem Ekwonu,-0.0179,0.0099,0.0278
+2022-04-26 20:30:53.263496,NFL Specials - 2022 NFL Draft Team Specials - Minnesota Vikings 1st Position Drafted,Safety,-0.0179,0.125,0.1429
 2022-04-26 15:32:49.872210,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 9 Overall Pick,Travon Walker,-0.0179,0.0099,0.0278
 2022-04-26 20:30:52.330144,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Garrett Wilson Draft Position,Over 9.5,-0.018100000000000005,0.5652,0.5833
 2022-04-26 15:32:49.887648,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Charles Cross,-0.018199999999999994,0.8,0.8182
-2022-04-26 13:30:47.425632,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Eastern Conference Finals,PHI 76ers v MIL Bucks,-0.01820000000000002,0.1818,0.2
 2022-04-26 22:30:58.542913,Boxing Lines - Shakur Stevenson vs Oscar Valdez - To Win the Bout,Oscar Valdez,-0.01820000000000002,0.1818,0.2
 2022-04-26 22:30:56.984551,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Travon Walker,-0.018599999999999978,0.1481,0.1667
 2022-04-26 22:30:57.811604,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Trey McBride Draft Position,Over 50.5,-0.01880000000000004,0.5556,0.5744
-2022-04-26 15:32:49.801818,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 4 Overall Pick,Kyle Hamilton,-0.0189,0.0196,0.0385
 2022-04-26 15:32:49.801818,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 4 Overall Pick,Aidan Hutchinson,-0.0189,0.0196,0.0385
 2022-04-26 15:32:49.860475,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,Treylon Burks,-0.0189,0.0196,0.0385
+2022-04-26 15:32:49.801818,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 4 Overall Pick,Kyle Hamilton,-0.0189,0.0196,0.0385
 2022-04-26 20:30:50.775751,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Saul 'Canelo' Alvarez,-0.018900000000000028,0.8214,0.8403
 2022-04-26 20:30:52.106297,NFL Specials - 2022 NFL Draft Props - 1st RB Selected,Breece Hall,-0.018999999999999906,0.7143,0.7333
 2022-04-26 22:30:57.319196,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Aidan Hutchinson Draft Position,Under 1.5,-0.019000000000000017,0.2667,0.2857
@@ -232,71 +229,74 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-26 15:32:49.817702,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 5 Overall Pick,Derek Stingley,-0.0203,0.0385,0.0588
 2022-04-26 15:32:49.936260,NFL Specials - 2022 NFL Draft - Top 2 Exact Order - Outright,1st A. Hutchinson/ 2nd J. Johnson,-0.0211,0.0033,0.0244
 2022-04-26 22:30:57.500606,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - George Karlaftis Draft Position,Under 22.5,-0.021699999999999997,0.4545,0.4762
-2022-04-27 00:32:38.395004,NFL Specials - 2022 NFL Draft Specials - Requested Specials,Malik Willis & Kenny Pickett Both to be Drafted in Top 10 Picks,-0.022199999999999998,0.2,0.2222
-2022-04-26 23:30:49.901018,NFL Specials - 2022 NFL Draft Specials - Requested Specials,Malik Willis & Kenny Pickett Both to be Drafted in Top 10 Picks,-0.022199999999999998,0.2,0.2222
 2022-04-26 20:30:52.943399,NFL Specials - 2022 NFL Draft Specials - Requested Specials,Malik Willis & Kenny Pickett Both to be Drafted in Top 10 Picks,-0.022199999999999998,0.2,0.2222
-2022-04-26 15:32:50.742217,NFL Specials - 2022 NFL Draft Specials - Requested Specials,Malik Willis & Kenny Pickett Both to be Drafted in Top 10 Picks,-0.022199999999999998,0.2,0.2222
 2022-04-26 20:30:50.748203,Boxing Lines - Shakur Stevenson vs Oscar Valdez - To Win the Bout,Shakur Stevenson,-0.022199999999999998,0.8667,0.8889
+2022-04-26 23:30:49.901018,NFL Specials - 2022 NFL Draft Specials - Requested Specials,Malik Willis & Kenny Pickett Both to be Drafted in Top 10 Picks,-0.022199999999999998,0.2,0.2222
+2022-04-27 00:32:38.395004,NFL Specials - 2022 NFL Draft Specials - Requested Specials,Malik Willis & Kenny Pickett Both to be Drafted in Top 10 Picks,-0.022199999999999998,0.2,0.2222
+2022-04-26 15:32:50.742217,NFL Specials - 2022 NFL Draft Specials - Requested Specials,Malik Willis & Kenny Pickett Both to be Drafted in Top 10 Picks,-0.022199999999999998,0.2,0.2222
+2022-04-26 15:32:49.776887,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Evan Neal,-0.022400000000000003,0.0099,0.0323
 2022-04-26 15:32:49.936260,NFL Specials - 2022 NFL Draft - Top 2 Exact Order - Outright,1st A. Hutchinson/ 2nd D. Ridder,-0.022400000000000003,0.002,0.0244
 2022-04-26 15:32:49.936260,NFL Specials - 2022 NFL Draft - Top 2 Exact Order - Outright,1st A. Hutchinson/ 2nd D. Stingley,-0.022400000000000003,0.0099,0.0323
-2022-04-26 15:32:49.776887,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Evan Neal,-0.022400000000000003,0.0099,0.0323
 2022-04-26 15:32:49.860475,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,Kayvon Thibodeaux,-0.02310000000000001,0.0769,0.1
-2022-04-26 22:30:57.036398,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 7 Overall Pick,Evan Neal,-0.023799999999999988,0.1429,0.1667
 2022-04-26 15:32:49.910407,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 32 Pick,Kyler Gordon,-0.023799999999999988,0.4762,0.5
+2022-04-26 22:30:57.036398,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 7 Overall Pick,Evan Neal,-0.023799999999999988,0.1429,0.1667
 2022-04-26 22:30:57.022933,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Evan Neal,-0.023799999999999988,0.1429,0.1667
+2022-04-27 02:30:49.693325,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Matt Corral Draft Position,Under 33.5,-0.023800000000000043,0.5,0.5238
 2022-04-26 15:32:49.849865,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 7 Overall Pick,Travon Walker,-0.023899999999999998,0.0196,0.0435
 2022-04-26 15:32:49.849865,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 7 Overall Pick,Tyler Linderbaum,-0.023899999999999998,0.0196,0.0435
 2022-04-26 15:32:49.849865,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 7 Overall Pick,Jameson Williams,-0.024,0.0385,0.0625
 2022-04-26 15:32:49.860475,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,Charles Cross,-0.024,0.0385,0.0625
 2022-04-26 15:32:49.872210,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 9 Overall Pick,Garrett Wilson,-0.024299999999999995,0.0526,0.0769
 2022-04-26 15:32:50.000035,NFL Specials - 2022 NFL Draft Props - 1st QB Selected,Matt Corral,-0.024299999999999995,0.0526,0.0769
-2022-04-26 22:30:57.634128,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Kyle Hamilton Draft Position,Over 12.5,-0.024399999999999977,0.4878,0.5122
-2022-04-26 22:30:57.695434,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Nakobe Dean Draft Position,Under 30.5,-0.024399999999999977,0.4878,0.5122
 2022-04-26 22:30:57.846183,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Tyler Linderbaum Draft Position,Under 27.5,-0.024399999999999977,0.4878,0.5122
+2022-04-26 22:30:57.634128,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Kyle Hamilton Draft Position,Over 12.5,-0.024399999999999977,0.4878,0.5122
 2022-04-26 22:30:57.869277,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Zion Johnson Draft Position,Over 24.5,-0.024399999999999977,0.4878,0.5122
+2022-04-26 22:30:57.695434,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Nakobe Dean Draft Position,Under 30.5,-0.024399999999999977,0.4878,0.5122
 2022-04-26 22:30:57.584560,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Jordan Davis Draft Position,Over 15.5,-0.024500000000000022,0.3922,0.4167
 2022-04-26 20:30:53.369869,NFL Specials - 2022 NFL Draft Team Specials - Washington Commanders 1st Position Drafted,Offensive Line,-0.025300000000000003,0.1176,0.1429
 2022-04-26 22:30:57.263923,NFL Specials - 2022 NFL Draft Props - 1st Cornerback Selected,Ahmad Gardner,-0.025600000000000067,0.6667,0.6923
-2022-04-26 15:32:49.787478,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Ikem Ekwonu,-0.02779999999999999,0.2222,0.25
-2022-04-26 20:30:52.954516,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Kenny Pickett,Pittsburgh Steelers,-0.02779999999999999,0.2222,0.25
 2022-04-26 15:32:49.872210,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 9 Overall Pick,Evan Neal,-0.02779999999999999,0.2222,0.25
+2022-04-26 20:30:52.954516,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Kenny Pickett,Pittsburgh Steelers,-0.02779999999999999,0.2222,0.25
+2022-04-26 15:32:49.787478,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Ikem Ekwonu,-0.02779999999999999,0.2222,0.25
 2022-04-26 22:30:57.022933,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Jermaine Johnson,-0.027999999999999997,0.0345,0.0625
-2022-04-26 15:32:49.836174,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Matt Corral,-0.028000000000000004,0.0196,0.0476
-2022-04-26 15:32:49.936260,NFL Specials - 2022 NFL Draft - Top 2 Exact Order - Outright,1st K. Thibodeaux/2nd A. Hutchinson,-0.028000000000000004,0.0196,0.0476
-2022-04-26 15:32:49.787478,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Malik Willis,-0.028000000000000004,0.0196,0.0476
 2022-04-26 15:32:49.860475,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,Ahmad Gardner,-0.028000000000000004,0.0196,0.0476
+2022-04-26 15:32:49.936260,NFL Specials - 2022 NFL Draft - Top 2 Exact Order - Outright,1st K. Thibodeaux/2nd A. Hutchinson,-0.028000000000000004,0.0196,0.0476
+2022-04-26 15:32:49.836174,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Matt Corral,-0.028000000000000004,0.0196,0.0476
 2022-04-26 15:32:49.872210,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 9 Overall Pick,Desmond Ridder,-0.028000000000000004,0.0196,0.0476
+2022-04-26 15:32:49.787478,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Malik Willis,-0.028000000000000004,0.0196,0.0476
 2022-04-26 15:32:49.817702,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 5 Overall Pick,Jermaine Johnson,-0.028199999999999996,0.0385,0.0667
 2022-04-26 15:32:49.958642,NFL Specials - 2022 NFL Draft - Top 3 Exact Order - Outright,1st A. Hutchinson / 2nd T. Walker / 3rd E. Neal,-0.0282,0.0244,0.0526
 2022-04-26 23:30:49.359378,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Derek Stingley Jr. Draft Position,Over 9.5,-0.028299999999999992,0.3226,0.3509
-2022-04-26 15:32:49.922171,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Drake London,-0.028399999999999995,0.0625,0.0909
 2022-04-26 15:32:49.860475,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,Kyle Hamilton,-0.028399999999999995,0.0625,0.0909
-2022-04-26 15:32:49.958642,NFL Specials - 2022 NFL Draft - Top 3 Exact Order - Outright,1st A. Hutchinson / 2nd T. Walker / 3rd I. Ekonwu,-0.029299999999999993,0.0476,0.0769
+2022-04-26 15:32:49.922171,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Drake London,-0.028399999999999995,0.0625,0.0909
 2022-04-26 15:32:49.860475,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,Jordan Davis,-0.029299999999999993,0.0476,0.0769
+2022-04-26 15:32:49.958642,NFL Specials - 2022 NFL Draft - Top 3 Exact Order - Outright,1st A. Hutchinson / 2nd T. Walker / 3rd I. Ekonwu,-0.029299999999999993,0.0476,0.0769
 2022-04-26 15:32:49.887648,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Garrett Wilson,-0.030299999999999994,0.6364,0.6667
 2022-04-26 15:32:49.936260,NFL Specials - 2022 NFL Draft - Top 2 Exact Order - Outright,1st A. Hutchinson/ 2nd K. Pickett,-0.0303,0.002,0.0323
 2022-04-26 15:32:49.936260,NFL Specials - 2022 NFL Draft - Top 2 Exact Order - Outright,1st A. Hutchinson/ 2nd K. Hamilton,-0.0303,0.002,0.0323
 2022-04-26 15:32:49.860475,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,George Karlaftis,-0.033,0.0196,0.0526
 2022-04-26 22:30:57.022933,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Garrett Wilson,-0.033100000000000004,0.0294,0.0625
-2022-04-26 22:30:57.306295,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Ahmad Gardner Draft Position,Over 5.5,-0.033299999999999996,0.4545,0.4878
+2022-04-27 02:30:49.640002,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Kaiir Elam Draft Position,Over 33.5,-0.033299999999999996,0.4545,0.4878
 2022-04-26 16:30:39.488764,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Bernhard Raimann Draft Position,Under 37.5,-0.033299999999999996,0.5122,0.5455
+2022-04-26 22:30:57.306295,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Ahmad Gardner Draft Position,Over 5.5,-0.033299999999999996,0.4545,0.4878
 2022-04-26 22:30:57.704178,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Quay Walker Draft Position,Over 32.5,-0.033299999999999996,0.5122,0.5455
+2022-04-27 02:30:49.698977,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Nakobe Dean Draft Position,Under 30.5,-0.033299999999999996,0.4545,0.4878
 2022-04-26 22:30:57.383451,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Breece Hall Draft Position,Over 39.5,-0.033299999999999996,0.4545,0.4878
 2022-04-26 22:30:57.666871,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Logan Hall Draft Position,Over 38.5,-0.033299999999999996,0.5122,0.5455
 2022-04-26 22:30:57.065165,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 9 Overall Pick,Trevor Penning,-0.03330000000000001,0.0667,0.1
-2022-04-26 15:32:49.922171,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Kyle Hamilton,-0.034100000000000005,0.0909,0.125
 2022-04-26 15:32:49.849865,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 7 Overall Pick,Kayvon Thibodeaux,-0.034100000000000005,0.0909,0.125
-2022-04-26 15:32:49.836174,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Charles Cross,-0.0353,0.2,0.2353
+2022-04-26 15:32:49.922171,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Kyle Hamilton,-0.034100000000000005,0.0909,0.125
+2022-04-27 02:30:49.676147,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Lewis Cine Draft Position,Over 34.5,-0.0348,0.4,0.4348
 2022-04-26 15:32:49.787478,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Ahmad Gardner,-0.0353,0.2,0.2353
+2022-04-26 15:32:49.836174,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Charles Cross,-0.0353,0.2,0.2353
 2022-04-26 15:32:49.860475,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,Travon Walker,-0.038099999999999995,0.0244,0.0625
 2022-04-26 15:32:49.872210,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 9 Overall Pick,Jameson Williams,-0.038299999999999994,0.0526,0.0909
-2022-04-26 13:30:47.431542,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Western Conference Finals,UTA Jazz v MEM Grizzlies,-0.0384,0.0385,0.0769
-2022-04-26 15:32:49.958642,NFL Specials - 2022 NFL Draft - Top 3 Exact Order - Outright,1st A. Hutchinson / 2nd T. Walker / 3rd A. Gardner,-0.0384,0.0385,0.0769
 2022-04-26 15:32:49.776887,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 2 Overall Pick,Malik Willis,-0.0384,0.0385,0.0769
+2022-04-26 15:32:49.958642,NFL Specials - 2022 NFL Draft - Top 3 Exact Order - Outright,1st A. Hutchinson / 2nd T. Walker / 3rd A. Gardner,-0.0384,0.0385,0.0769
 2022-04-26 15:32:49.958642,NFL Specials - 2022 NFL Draft - Top 3 Exact Order - Outright,1st T. Walker / 2nd A. Hutchinson / 3rd A. Gardner,-0.03889999999999999,0.1429,0.1818
 2022-04-26 15:32:49.836174,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 6 Overall Pick,Desmond Ridder,-0.0392,0.0196,0.0588
-2022-04-26 15:32:49.817702,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 5 Overall Pick,Evan Neal,-0.03950000000000001,0.2105,0.25
 2022-04-26 22:30:57.053435,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 8 Overall Pick,Garrett Wilson,-0.03950000000000001,0.2105,0.25
+2022-04-26 15:32:49.817702,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 5 Overall Pick,Evan Neal,-0.03950000000000001,0.2105,0.25
 2022-04-26 15:32:49.897995,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 3 Pick,Ahmad Gardner,-0.0398,0.2632,0.303
 2022-04-26 16:30:39.549867,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Drake London Draft Position,Over 10.5,-0.03980000000000006,0.6154,0.6552
 2022-04-26 22:30:57.657390,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Lewis Cine Draft Position,Over 34.5,-0.04139999999999999,0.4348,0.4762
@@ -309,7 +309,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-26 22:30:57.011374,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 5 Overall Pick,Evan Neal,-0.043800000000000006,0.1667,0.2105
 2022-04-26 15:32:49.849865,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 7 Overall Pick,Kyle Hamilton,-0.044599999999999994,0.0323,0.0769
 2022-04-26 15:32:49.801818,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 4 Overall Pick,Evan Neal,-0.047099999999999996,0.0196,0.0667
-2022-04-26 13:30:47.425632,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Eastern Conference Finals,BOS Celtics v PHI 76ers,-0.047599999999999976,0.2857,0.3333
 2022-04-26 15:32:49.897995,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 3 Pick,Evan Neal,-0.048099999999999976,0.2222,0.2703
 2022-04-26 15:32:49.897995,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 3 Pick,Kayvon Thibodeaux,-0.0484,0.4167,0.4651
 2022-04-26 15:32:49.801818,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 4 Overall Pick,Travon Walker,-0.048600000000000004,0.0625,0.1111
@@ -331,7 +330,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-26 20:30:53.285536,NFL Specials - 2022 NFL Draft Team Specials - New Orleans Saints 1st Position Drafted,Quarterback,-0.06670000000000004,0.3333,0.4
 2022-04-26 16:30:39.598928,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Jermaine Johnson Draft Position,Over 9.5,-0.06779999999999997,0.4878,0.5556
 2022-04-26 15:32:49.801818,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 4 Overall Pick,Ahmad Gardner,-0.06820000000000001,0.1818,0.25
-2022-04-26 13:30:47.431542,NBA Season Props - 2021/22 NBA Conference Finals - Possible Matchups - Western Conference Finals,UTA Jazz v GS Warriors,-0.0705,0.0833,0.1538
 2022-04-26 20:30:53.168677,NFL Specials - 2022 NFL Draft Team Specials - Houston Texans 1st Position Drafted,Offensive Line,-0.07120000000000004,0.3636,0.4348
 2022-04-26 15:32:49.787478,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Aidan Hutchinson,-0.07579999999999999,0.0909,0.1667
 2022-04-27 00:32:38.152228,NFL Specials - 2022 NFL Draft Props - 2022 NFL Draft - Kaiir Elam Draft Position,Over 33.5,-0.07740000000000002,0.4878,0.5652
@@ -346,8 +344,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-04-26 15:32:49.887648,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 10 Pick,Kyle Hamilton,-0.0922,0.3333,0.4255
 2022-04-26 15:32:49.936260,NFL Specials - 2022 NFL Draft - Top 2 Exact Order - Outright,1st A. Hutchinson/ 2nd K. Thibodeaux,-0.0948,0.25,0.3448
 2022-04-26 22:30:57.065165,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 9 Overall Pick,Derek Stingley,-0.10390000000000002,0.1818,0.2857
-2022-04-26 15:32:49.787478,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Evan Neal,-0.10910000000000002,0.0909,0.2
 2022-04-26 15:32:49.922171,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Top 5 Pick,Malik Willis,-0.10910000000000002,0.0909,0.2
+2022-04-26 15:32:49.787478,NFL Specials - 2022 NFL Draft Picks - 2022 NFL Draft - Number 3 Overall Pick,Evan Neal,-0.10910000000000002,0.0909,0.2
 2022-04-26 15:32:49.958642,NFL Specials - 2022 NFL Draft - Top 3 Exact Order - Outright,1st A. Hutchinson / 2nd K. Thibodeaux / 3rd T. Walker,-0.10910000000000002,0.0909,0.2
 2022-04-26 22:30:58.168635,NFL Specials - 2022 NFL Draft Team Specials - Houston Texans 1st Position Drafted,Defensive Line/EDGE,-0.11110000000000003,0.3333,0.4444
 2022-04-26 20:30:52.968371,NFL Specials - 2022 NFL Draft Specials - 2022 NFL Draft - Team to Draft Malik Willis,New Orleans Saints,-0.1167,0.1333,0.25
