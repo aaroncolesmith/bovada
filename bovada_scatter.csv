@@ -1,82 +1,114 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-05-01 12:30:39.885374,League Two - England League Two 2021/22 - Top 7 Finish,Swindon Town,0.2094999999999999,0.7333,0.5238
-2022-05-01 12:30:39.788447,England Championship - England Championship 21/22 - Top 6 Finish,Sheffield United,0.1904,0.8571,0.6667
+2022-05-02 00:32:33.827518,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Ayacucho FC,0.19720000000000001,0.2,0.0028
 2022-05-01 20:30:44.649137,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.14479999999999998,0.3448,0.2
-2022-05-01 12:30:39.878870,League Two - England League Two 2021/22 - Top 3 Finish,Bristol Rovers,0.10390000000000002,0.2857,0.1818
-2022-05-01 12:30:39.830193,Serie B - Italy Serie B 2021/22 - Outright,Monza,0.0956,0.125,0.0294
 2022-05-01 15:30:36.962751,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Ron DeSantis,0.08330000000000001,0.25,0.1667
-2022-05-01 12:30:39.873523,League Two - England League Two 2021/22 - To Be Promoted,Swindon Town,0.07500000000000001,0.2,0.125
-2022-05-01 12:30:39.873523,League Two - England League Two 2021/22 - To Be Promoted,Bristol Rovers,0.0746,0.4255,0.3509
-2022-05-01 12:30:39.773818,England Championship - England Championship 21/22 - To Be Promoted,Sheffield United,0.044499999999999984,0.2667,0.2222
+2022-05-02 00:32:32.459563,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.07450000000000001,0.5,0.4255
+2022-05-02 00:32:32.431098,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.06149999999999997,0.2941,0.2326
+2022-05-02 00:32:33.827518,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Everton Viña del Mar,0.0436,0.0476,0.004
 2022-05-01 18:31:21.250494,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,0.04269999999999999,0.1538,0.1111
 2022-05-01 20:30:44.638476,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Memphis Grizzlies,0.0397,0.1111,0.0714
 2022-05-01 20:30:44.809158,Box Office Specials - Character to Appear in Star Trek 4 - Proposition,George Kirk,0.03639999999999999,0.6364,0.6
 2022-05-01 20:30:44.649137,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.03420000000000001,0.1111,0.0769
-2022-05-01 12:30:39.873523,League Two - England League Two 2021/22 - To Be Promoted,Mansfield Town,0.03370000000000001,0.3846,0.3509
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Ceará,0.034100000000000005,0.125,0.0909
 2022-05-01 18:31:22.536169,Copa Libertadores - Copa Libertadores 2022 - Outright,Flamengo-RJ,0.03259999999999999,0.2326,0.2
-2022-05-01 12:30:39.773818,England Championship - England Championship 21/22 - To Be Promoted,Nottingham Forest,0.03179999999999994,0.5556,0.5238
 2022-05-01 14:31:45.604126,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Dodgers,0.028700000000000003,0.2105,0.1818
-2022-05-01 12:30:39.885374,League Two - England League Two 2021/22 - Top 7 Finish,Tranmere Rovers,0.028199999999999996,0.0667,0.0385
+2022-05-02 00:32:33.827518,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Ceará,0.028199999999999996,0.0667,0.0385
+2022-05-02 00:32:33.827518,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Atlético Lanús,0.028199999999999996,0.0667,0.0385
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Cavalcante Raphael Veiga (Palmeiras),0.028199999999999996,0.0667,0.0385
 2022-05-01 20:30:44.638476,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,0.027999999999999997,0.1818,0.1538
 2022-05-01 20:30:45.023034,Superhero Movie Specials - Will Tony Stark appear in 'Dr. Strange in the Multiverse of Madness'? - Outright,Yes,0.02779999999999999,0.25,0.2222
 2022-05-01 14:31:45.637556,MLB Futures - MLB 2022 American League East - Outright,New York Yankees,0.026500000000000024,0.3774,0.3509
 2022-05-01 22:30:40.429917,Champions League - UEFA Champions League 2021/2022 - Nationality of Winner,Spain,0.024999999999999994,0.125,0.1
+2022-05-02 00:32:33.827518,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Internacional,0.0245,0.0833,0.0588
 2022-05-01 15:30:36.848223,Boxing Lines - Gervonta Davis vs Rolando Romero - To Win the Bout,Gervonta Davis,0.0242,0.9333,0.9091
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Club Atlético Junior,0.0242,0.0909,0.0667
 2022-05-01 15:30:37.381403,MLB Futures - MLB 2022 American League East - Outright,Tampa Bay Rays,0.023800000000000016,0.1905,0.1667
-2022-05-01 12:30:39.878870,League Two - England League Two 2021/22 - Top 3 Finish,Mansfield Town,0.023799999999999988,0.1667,0.1429
 2022-05-01 15:30:37.753192,Superhero Movie Specials - Will Dr. Stange die in 'Dr. Strange In The Multiverse of Madness'? - Outright,No,0.022499999999999964,0.7368,0.7143
-2022-05-01 12:30:39.704081,MLS - MLS Cup 2022 - Outright,Austin FC,0.0203,0.0588,0.0385
 2022-05-01 20:30:45.011576,Superhero Movie Specials - Will Dr. Stange die in 'Dr. Strange In The Multiverse of Madness'? - Outright,Yes,0.019500000000000017,0.3704,0.3509
+2022-05-02 00:32:33.827518,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Club Atlético Junior,0.018200000000000004,0.0476,0.0294
 2022-05-01 14:31:45.661512,MLB Futures - MLB 2022 National League East - Outright,New York Mets,0.018100000000000005,0.5833,0.5652
-2022-05-01 12:30:39.780354,England Championship - England Championship 21/22 - Top 2 Finish,Bournemouth,0.016700000000000048,0.75,0.7333
+2022-05-02 00:32:33.827518,Copa Sudamericana - Copa Sudamericana 2022 - Outright,São Paulo,0.016700000000000007,0.1,0.0833
 2022-05-01 15:30:36.827248,Boxing Lines - Joshua Buatsi vs Richards Craig - To Win the Bout,Joshua Buatsi,0.015699999999999936,0.8824,0.8667
+2022-05-02 00:32:32.431098,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Philadelphia 76ers,0.015300000000000001,0.0476,0.0323
+2022-05-01 20:30:45.034912,Superhero Movie Specials - Will any of these Characters appear in 'Dr. Strange and the Mutliverse of Madness'? - Proposition,Ironman,0.015100000000000002,0.1818,0.1667
 2022-05-01 18:31:21.250494,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.015100000000000002,0.1818,0.1667
 2022-05-01 18:31:22.536169,Copa Libertadores - Copa Libertadores 2022 - Outright,Atlético Mineiro-MG,0.015100000000000002,0.1818,0.1667
-2022-05-01 20:30:45.034912,Superhero Movie Specials - Will any of these Characters appear in 'Dr. Strange and the Mutliverse of Madness'? - Proposition,Ironman,0.015100000000000002,0.1818,0.1667
 2022-05-01 14:31:45.604126,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Yankees,0.01440000000000001,0.1053,0.0909
 2022-05-01 18:31:22.536169,Copa Libertadores - Copa Libertadores 2022 - Outright,Corinthians-SP,0.014099999999999994,0.0667,0.0526
 2022-05-01 20:30:45.034912,Superhero Movie Specials - Will any of these Characters appear in 'Dr. Strange and the Mutliverse of Madness'? - Proposition,Captain America,0.013899999999999996,0.125,0.1111
+2022-05-02 00:32:32.543580,Boxing Lines - Parker Zach vs Demetrius Andrade - To Win the Bout,Parker Zach,0.013800000000000034,0.3774,0.3636
+2022-05-02 00:32:33.827518,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Barcelona SC,0.0131,0.0476,0.0345
 2022-05-01 14:31:45.629587,MLB Futures - MLB 2022 American League Central - Outright,Minnesota Twins,0.012699999999999989,0.3636,0.3509
-2022-05-01 12:30:39.704081,MLS - MLS Cup 2022 - Outright,New York Red Bulls,0.011199999999999995,0.0588,0.0476
+2022-05-02 00:32:32.445731,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.012299999999999978,0.3571,0.3448
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Metropolitanos,0.011699999999999999,0.0196,0.0079
 2022-05-01 15:30:37.381403,MLB Futures - MLB 2022 American League East - Outright,Toronto Blue Jays,0.011099999999999999,0.4762,0.4651
-2022-05-01 12:30:39.839864,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Djurgårdens IF,0.0102,0.0769,0.0667
 2022-05-01 14:31:45.653435,MLB Futures - MLB 2022 National League Central - Outright,Milwaukee Brewers,0.010099999999999998,0.6875,0.6774
 2022-05-01 15:30:37.395337,MLB Futures - MLB 2022 National League Central - Outright,Milwaukee Brewers,-0.010099999999999998,0.6774,0.6875
+2022-05-02 00:32:33.827518,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Independiente Medellin,-0.010100000000000001,0.0244,0.0345
 2022-05-01 14:31:45.637556,MLB Futures - MLB 2022 American League East - Outright,Toronto Blue Jays,-0.011099999999999999,0.4651,0.4762
 2022-05-01 18:31:22.536169,Copa Libertadores - Copa Libertadores 2022 - Outright,América FC-MG,-0.011699999999999999,0.0079,0.0196
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Wellington Paulista do Nascimiento (America MG),-0.011699999999999999,0.0079,0.0196
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Guimaraes Artur (Bragantino),-0.0121,0.0028,0.0149
 2022-05-01 15:30:37.374610,MLB Futures - MLB 2022 American League Central - Outright,Minnesota Twins,-0.012699999999999989,0.3509,0.3636
+2022-05-02 00:32:32.431098,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.012899999999999995,0.1538,0.1667
+2022-05-02 00:32:32.431098,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.012899999999999995,0.1538,0.1667
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,9 de Octubre,-0.013600000000000001,0.0013,0.0149
 2022-05-01 18:31:22.536169,Copa Libertadores - Copa Libertadores 2022 - Outright,Boca Juniors,-0.014099999999999994,0.0526,0.0667
 2022-05-01 15:30:37.351582,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Yankees,-0.01440000000000001,0.0909,0.1053
-2022-05-01 12:30:39.704081,MLS - MLS Cup 2022 - Outright,DC United,-0.014499999999999999,0.0149,0.0294
+2022-05-02 00:32:33.827518,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Banfield,-0.014499999999999999,0.0149,0.0294
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Jorge Recalde (Olimpia Asuncion),-0.014499999999999999,0.0149,0.0294
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Jonathan Bauman (Independiente del Valle),-0.014599999999999998,0.005,0.0196
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Fernando Zampedri (Universidad Catolica),-0.014599999999999998,0.005,0.0196
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Ruben Betancout (Penarol),-0.014599999999999998,0.005,0.0196
+2022-05-02 00:32:33.827518,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Defensa y Justicia,-0.014900000000000004,0.0196,0.0345
 2022-05-01 20:30:44.638476,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.015100000000000002,0.1667,0.1818
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Antofagasta,-0.0156,0.004,0.0196
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,River Plate Montevideo,-0.0165,0.0079,0.0244
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Aluisio Junior Moraes (Corinthians),-0.0165,0.0079,0.0244
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Derlis Gonzalez (Olimpia Asuncion),-0.0165,0.0079,0.0244
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Robert Moreles (Cerro Porteno),-0.0165,0.0079,0.0244
 2022-05-01 15:30:37.402057,MLB Futures - MLB 2022 National League East - Outright,New York Mets,-0.018100000000000005,0.5652,0.5833
-2022-05-01 12:30:39.773818,England Championship - England Championship 21/22 - To Be Promoted,Luton Town,-0.01820000000000002,0.1818,0.2
+2022-05-02 00:32:33.827518,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Fluminense,-0.019099999999999992,0.0476,0.0667
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Independiente Medellin,-0.019099999999999992,0.0476,0.0667
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Everton Viña del Mar,-0.019499999999999997,0.0099,0.0294
 2022-05-01 15:30:37.753192,Superhero Movie Specials - Will Dr. Stange die in 'Dr. Strange In The Multiverse of Madness'? - Outright,Yes,-0.019500000000000017,0.3509,0.3704
-2022-05-01 12:30:39.885374,League Two - England League Two 2021/22 - Top 7 Finish,Mansfield Town,-0.020199999999999996,0.8889,0.9091
-2022-05-01 12:30:39.885374,League Two - England League Two 2021/22 - Top 7 Finish,Salford City,-0.02020000000000001,0.0909,0.1111
-2022-05-01 12:30:39.873523,League Two - England League Two 2021/22 - To Be Promoted,Port Vale,-0.021699999999999997,0.4545,0.4762
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Unión de Santa Fe,-0.0203,0.0385,0.0588
+2022-05-02 00:32:32.445731,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,-0.020799999999999985,0.3125,0.3333
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Montevideo Wanderers,-0.022400000000000003,0.002,0.0244
 2022-05-01 20:30:45.011576,Superhero Movie Specials - Will Dr. Stange die in 'Dr. Strange In The Multiverse of Madness'? - Outright,No,-0.022499999999999964,0.7143,0.7368
-2022-05-01 12:30:39.704081,MLS - MLS Cup 2022 - Outright,LA Galaxy,-0.02310000000000001,0.0769,0.1
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Guilherme Pedro (Flamengo),-0.0236,0.0149,0.0385
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Oscar Cardozo (Libertad Asuncion),-0.0236,0.0149,0.0385
 2022-05-01 20:30:45.023034,Superhero Movie Specials - Will Tony Stark appear in 'Dr. Strange in the Multiverse of Madness'? - Outright,No,-0.023799999999999932,0.8333,0.8571
 2022-05-01 14:31:45.637556,MLB Futures - MLB 2022 American League East - Outright,Tampa Bay Rays,-0.023800000000000016,0.1667,0.1905
 2022-05-01 20:30:44.638476,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.023800000000000016,0.2326,0.2564
-2022-05-01 12:30:39.780354,England Championship - England Championship 21/22 - Top 2 Finish,Nottingham Forest,-0.02560000000000001,0.3077,0.3333
 2022-05-01 15:30:37.381403,MLB Futures - MLB 2022 American League East - Outright,New York Yankees,-0.026500000000000024,0.3509,0.3774
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Rony da Silva (Palmeiras),-0.027800000000000005,0.0833,0.1111
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Colcenti Eduardo Sasha (Atletico Mineiro),-0.028000000000000004,0.0196,0.0476
 2022-05-01 15:30:37.351582,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Dodgers,-0.028700000000000003,0.1818,0.2105
 2022-05-01 15:30:36.848223,Boxing Lines - Gervonta Davis vs Rolando Romero - To Win the Bout,Rolando Romero,-0.028799999999999992,0.125,0.1538
-2022-05-01 12:30:39.873523,League Two - England League Two 2021/22 - To Be Promoted,Northampton Town,-0.03259999999999996,0.6226,0.6552
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Atlético Goianiense,-0.030699999999999998,0.0526,0.0833
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Giorgian De Arrascaeta (Flamengo),-0.03219999999999999,0.0345,0.0667
 2022-05-01 20:30:44.638476,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.033300000000000024,0.1667,0.2
-2022-05-01 12:30:39.878870,League Two - England League Two 2021/22 - Top 3 Finish,Port Vale,-0.03409999999999999,0.2326,0.2667
-2022-05-01 12:30:39.830193,Serie B - Italy Serie B 2021/22 - Outright,Lecce,-0.03410000000000002,0.875,0.9091
 2022-05-01 20:30:44.809158,Box Office Specials - Character to Appear in Star Trek 4 - Proposition,Ambassador Sarek,-0.0348,0.4,0.4348
-2022-05-01 12:30:39.788447,England Championship - England Championship 21/22 - Top 6 Finish,Millwall,-0.037700000000000004,0.0099,0.0476
-2022-05-01 12:30:39.773818,England Championship - England Championship 21/22 - To Be Promoted,Huddersfield Town,-0.04040000000000002,0.1818,0.2222
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Racing Club,-0.042899999999999994,0.1,0.1429
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Cuiabá,-0.043899999999999995,0.0149,0.0588
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Internacional,-0.04620000000000002,0.1538,0.2
 2022-05-01 20:30:44.809158,Box Office Specials - Character to Appear in Star Trek 4 - Proposition,Lieutenant Saavik,-0.047599999999999976,0.2857,0.3333
 2022-05-01 18:31:21.250494,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.04999999999999999,0.2,0.25
-2022-05-01 12:30:39.830193,Serie B - Italy Serie B 2021/22 - Outright,Cremonese,-0.052000000000000005,0.0909,0.1429
-2022-05-01 12:30:39.788447,England Championship - England Championship 21/22 - Top 6 Finish,Luton Town,-0.0524,0.9091,0.9615
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Barcelona SC,-0.052300000000000006,0.0588,0.1111
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Krug Roger Guedes (Corinthians),-0.05249999999999999,0.0244,0.0769
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Banfield,-0.0539,0.0294,0.0833
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Liga de Quito,-0.0585,0.0526,0.1111
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Gabriel Almeida (Flamengo),-0.0635,0.2222,0.2857
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Bruno Henrique Pinto (Flamengo),-0.06620000000000001,0.0588,0.125
 2022-05-01 20:30:44.649137,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.06670000000000004,0.3333,0.4
-2022-05-01 12:30:39.878870,League Two - England League Two 2021/22 - Top 3 Finish,Northampton Town,-0.06930000000000003,0.4545,0.5238
+2022-05-02 00:32:32.459563,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Memphis Grizzlies,-0.0705,0.0833,0.1538
+2022-05-02 00:32:32.431098,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Memphis Grizzlies,-0.0726,0.0385,0.1111
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Defensa y Justicia,-0.0865,0.0385,0.125
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Santos,-0.09999999999999999,0.0667,0.1667
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,São Paulo,-0.10390000000000002,0.1818,0.2857
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Independiente,-0.1151,0.0667,0.1818
 2022-05-01 20:30:44.649137,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,-0.12120000000000003,0.3333,0.4545
-2022-05-01 12:30:39.873523,League Two - England League Two 2021/22 - To Be Promoted,Sutton Utd,-0.1453,0.0769,0.2222
-2022-05-01 12:30:39.885374,League Two - England League Two 2021/22 - Top 7 Finish,Sutton Utd,-0.3654,0.3846,0.75
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Julian Alvarez (River Plate),-0.14120000000000002,0.0588,0.2
+2022-05-02 00:32:33.835151,Copa Sudamericana - Copa Sudamericana 2022 - To Reach the Final,Fluminense,-0.15910000000000002,0.0909,0.25
+2022-05-02 00:32:33.814396,Copa Libertadores - Copa Libertadores 2022 - Top Goalscorer,Hulk (Atletico Mineiro),-0.16670000000000001,0.0833,0.25
