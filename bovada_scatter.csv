@@ -9,8 +9,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-02 12:30:46.172996,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Betis,0.0889,0.2222,0.1333
 2022-05-02 12:30:46.097764,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Kylian Mbappe,0.08410000000000006,0.9412,0.8571
 2022-05-02 12:30:46.160936,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Sevilla,0.08330000000000004,0.75,0.6667
-2022-05-02 19:31:10.317399,NFL Specials - Where will Jimmy Garoppolo Play Game 1 of the 2022/2023 NFL Season? - Outright,Houston Texans,0.0762,0.1429,0.0667
 2022-05-02 12:30:46.194825,MLS - MLS Cup 2022 - Top Goalscorer,Sebastian Driussi,0.0762,0.1429,0.0667
+2022-05-02 19:31:10.317399,NFL Specials - Where will Jimmy Garoppolo Play Game 1 of the 2022/2023 NFL Season? - Outright,Houston Texans,0.0762,0.1429,0.0667
 2022-05-02 12:30:46.166843,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,0.06929999999999997,0.5455,0.4762
 2022-05-02 12:30:46.092046,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Monaco,0.06590000000000001,0.2326,0.1667
 2022-05-02 12:30:46.103730,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Monaco,0.0595,0.5833,0.5238
@@ -28,11 +28,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-02 12:30:46.139215,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,AC Milan,0.027700000000000058,0.5833,0.5556
 2022-05-02 14:31:03.672304,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Outright,Republican,0.026700000000000057,0.9091,0.8824
 2022-05-02 13:30:46.136882,Eredivisie - Eredivisie 2021/2022 - Outright,Ajax,0.023699999999999943,0.9852,0.9615
+2022-05-02 21:31:00.896771,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.022699999999999998,0.2247,0.202
 2022-05-02 12:30:46.166843,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Levante,0.018900000000000028,0.9804,0.9615
 2022-05-02 12:30:46.160936,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Real Betis,0.0189,0.0385,0.0196
 2022-05-02 19:31:09.600454,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,0.01820000000000002,0.2,0.1818
-2022-05-02 11:31:03.298657,MLB Futures - MLB 2022 National League East - Outright,New York Mets,0.018100000000000005,0.5833,0.5652
 2022-05-02 13:30:44.581956,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.018100000000000005,0.4348,0.4167
+2022-05-02 11:31:03.298657,MLB Futures - MLB 2022 National League East - Outright,New York Mets,0.018100000000000005,0.5833,0.5652
 2022-05-02 19:31:10.317399,NFL Specials - Where will Jimmy Garoppolo Play Game 1 of the 2022/2023 NFL Season? - Outright,Carolina Panthers,0.016699999999999993,0.2667,0.25
 2022-05-02 11:31:03.281586,MLB Futures - MLB 2022 American League West - Outright,Houston Astros,0.016699999999999937,0.6,0.5833
 2022-05-02 10:31:08.352651,Bundesliga - Bundesliga 2021/22 - Outright,ALBA Berlin,0.015400000000000025,0.4,0.3846
@@ -40,9 +41,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-02 11:31:03.288162,MLB Futures - MLB 2022 National League Central - Outright,Milwaukee Brewers,0.014900000000000024,0.6923,0.6774
 2022-05-02 11:31:03.261298,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Tampa Bay Rays,0.014899999999999997,0.0625,0.0476
 2022-05-02 10:31:08.428894,A1 - Greece A1 2021/22 - Outright,Kolossos Rhodes,0.014099999999999998,0.0385,0.0244
+2022-05-02 21:31:01.609049,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Offensive Rookie of the Year,Skyy Moore,0.013999999999999999,0.0909,0.0769
 2022-05-02 14:31:03.542305,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win 2023 NCAA DI Men's Basketball Tournament,Houston,0.013999999999999999,0.0909,0.0769
-2022-05-02 19:31:11.425841,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Monterrey,0.013899999999999996,0.125,0.1111
 2022-05-02 14:31:03.564895,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.013899999999999996,0.2222,0.2083
+2022-05-02 19:31:11.425841,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Monterrey,0.013899999999999996,0.125,0.1111
 2022-05-02 10:31:08.322420,Japan B League - Japan League B1 2021/22 - Outright,Okinawa Ryukyu,0.013600000000000001,0.3077,0.2941
 2022-05-02 13:30:44.567957,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.012899999999999995,0.1667,0.1538
 2022-05-02 11:31:03.268297,MLB Futures - MLB 2022 American League Central - Outright,Minnesota Twins,0.012699999999999989,0.3636,0.3509
@@ -57,8 +59,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-02 12:30:46.187164,MLS - MLS Cup 2022 - Outright,LA Galaxy,-0.0102,0.0667,0.0769
 2022-05-02 10:31:08.242365,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.010899999999999993,0.1429,0.1538
 2022-05-02 12:30:46.160936,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Real Sociedad,-0.0109,0.004,0.0149
-2022-05-02 12:30:46.187164,MLS - MLS Cup 2022 - Outright,Portland Timbers,-0.011199999999999995,0.0476,0.0588
 2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Luka Doncic,-0.011199999999999995,0.0476,0.0588
+2022-05-02 12:30:46.187164,MLS - MLS Cup 2022 - Outright,Portland Timbers,-0.011199999999999995,0.0476,0.0588
 2022-05-02 11:31:03.274874,MLB Futures - MLB 2022 American League East - Outright,New York Yankees,-0.011899999999999966,0.339,0.3509
 2022-05-02 11:31:03.268297,MLB Futures - MLB 2022 American League Central - Outright,Cleveland Guardians,-0.011899999999999994,0.0714,0.0833
 2022-05-02 10:31:08.322420,Japan B League - Japan League B1 2021/22 - Outright,Chiba Jets Funabashi,-0.011899999999999994,0.2381,0.25
@@ -74,8 +76,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-02 12:30:46.194825,MLS - MLS Cup 2022 - Top Goalscorer,Hany Mukhtar,-0.014099999999999998,0.0294,0.0435
 2022-05-02 12:30:46.817868,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Diogo Jota,-0.0145,0.0099,0.0244
 2022-05-02 12:30:46.194825,MLS - MLS Cup 2022 - Top Goalscorer,Adam Buska,-0.014900000000000004,0.0196,0.0345
-2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Tyler Herro,-0.014900000000000004,0.0196,0.0345
 2022-05-02 12:30:46.194825,MLS - MLS Cup 2022 - Top Goalscorer,Michael Estrada,-0.014900000000000004,0.0196,0.0345
+2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Tyler Herro,-0.014900000000000004,0.0196,0.0345
 2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Ja Morant,-0.015300000000000001,0.0435,0.0588
 2022-05-02 12:30:46.172996,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Villarreal,-0.0156,0.004,0.0196
 2022-05-02 13:30:44.581956,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,-0.01759999999999999,0.1,0.1176
