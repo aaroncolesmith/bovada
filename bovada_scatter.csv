@@ -8,18 +8,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-02 22:30:55.333156,Professional Baseball - NPB 2022 - Outright,Tokyo Yakult Swallows,0.025300000000000003,0.1429,0.1176
 2022-05-02 22:30:56.482245,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,0.023800000000000043,0.5238,0.5
 2022-05-02 21:31:00.896771,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.022699999999999998,0.2247,0.202
+2022-05-03 02:30:53.136506,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.019699999999999995,0.4545,0.4348
 2022-05-02 19:31:09.600454,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,0.01820000000000002,0.2,0.1818
 2022-05-02 22:30:55.333156,Professional Baseball - NPB 2022 - Outright,Orix Buffaloes,0.0179,0.1429,0.125
 2022-05-02 22:30:55.028739,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Tenerife,0.016699999999999993,0.4167,0.4
 2022-05-02 19:31:10.317399,NFL Specials - Where will Jimmy Garoppolo Play Game 1 of the 2022/2023 NFL Season? - Outright,Carolina Panthers,0.016699999999999993,0.2667,0.25
 2022-05-03 00:30:41.887082,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.015100000000000002,0.1818,0.1667
-2022-05-02 14:31:03.542305,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win 2023 NCAA DI Men's Basketball Tournament,Houston,0.013999999999999999,0.0909,0.0769
 2022-05-02 21:31:01.609049,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Offensive Rookie of the Year,Skyy Moore,0.013999999999999999,0.0909,0.0769
+2022-05-02 14:31:03.542305,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win 2023 NCAA DI Men's Basketball Tournament,Houston,0.013999999999999999,0.0909,0.0769
 2022-05-02 14:31:03.564895,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.013899999999999996,0.2222,0.2083
 2022-05-02 19:31:11.425841,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Monterrey,0.013899999999999996,0.125,0.1111
 2022-05-03 01:31:16.823778,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.013300000000000034,0.3704,0.3571
-2022-05-02 19:31:09.610683,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.012299999999999978,0.3571,0.3448
+2022-05-03 02:30:53.114443,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.01319999999999999,0.2632,0.25
 2022-05-03 00:30:41.896147,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.012299999999999978,0.3571,0.3448
+2022-05-02 19:31:09.610683,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.012299999999999978,0.3571,0.3448
 2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jaren Jackson Jr.,0.012100000000000001,0.0244,0.0123
 2022-05-02 14:31:03.980905,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Offensive Rookie of the Year,Skyy Moore,0.0102,0.0769,0.0667
 2022-05-03 01:31:16.823778,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.011099999999999999,0.1,0.1111
@@ -29,6 +31,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Tyler Herro,-0.014900000000000004,0.0196,0.0345
 2022-05-03 01:31:16.811521,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.015100000000000002,0.1667,0.1818
 2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Ja Morant,-0.015300000000000001,0.0435,0.0588
+2022-05-03 02:30:53.136506,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,-0.016700000000000007,0.0833,0.1
 2022-05-02 14:31:04.036171,CFL - Odds to win 109th (2022) Grey Cup - Outright,Winnipeg Blue Bombers,-0.019000000000000017,0.2667,0.2857
 2022-05-02 19:31:09.792363,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.020199999999999996,0.202,0.2222
 2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jaylen Brown,-0.0203,0.0323,0.0526
