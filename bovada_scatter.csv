@@ -13,12 +13,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-03 10:31:12.053680,League Two - England League Two 2021/22 - Top 7 Finish,Swindon Town,0.06670000000000009,0.8,0.7333
 2022-05-03 10:31:12.084476,Superettan - Swedish Superettan 2022 - Outright,Skövde AIK,0.0616,0.0833,0.0217
 2022-05-03 10:31:12.282577,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,West Ham United,0.052000000000000046,0.9091,0.8571
+2022-05-03 19:30:51.952018,Champions League - UEFA Champions League 2021/2022 - Outright,Manchester City,0.045499999999999985,0.5,0.4545
 2022-05-03 10:31:12.084476,Superettan - Swedish Superettan 2022 - Outright,Trelleborgs FF,0.0448,0.0833,0.0385
 2022-05-03 10:31:11.723786,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,0.04169999999999996,0.875,0.8333
 2022-05-03 10:31:12.302790,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Arsenal,0.03710000000000002,0.6923,0.6552
 2022-05-03 13:30:52.566839,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Son-Heung Min,0.03420000000000001,0.1111,0.0769
 2022-05-03 10:31:12.084476,Superettan - Swedish Superettan 2022 - Outright,IK Brage,0.027700000000000002,0.0833,0.0556
 2022-05-03 13:30:51.663400,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.023799999999999988,0.3571,0.3333
+2022-05-03 19:30:51.952018,Champions League - UEFA Champions League 2021/2022 - Outright,Villarreal,0.0236,0.0385,0.0149
 2022-05-03 10:31:12.042691,League Two - England League Two 2021/22 - To Be Promoted,Sutton Utd,0.02310000000000001,0.1,0.0769
 2022-05-03 10:31:12.042691,League Two - England League Two 2021/22 - To Be Promoted,Swindon Town,0.022199999999999998,0.2222,0.2
 2022-05-03 13:30:51.670663,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.021699999999999997,0.4762,0.4545
@@ -45,6 +47,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-03 13:30:52.573371,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Everton,-0.018799999999999983,0.3448,0.3636
 2022-05-03 10:31:12.084476,Superettan - Swedish Superettan 2022 - Outright,Örgryte IS,-0.022400000000000003,0.0099,0.0323
 2022-05-03 13:30:51.645065,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Luka Doncic,-0.023200000000000002,0.0244,0.0476
+2022-05-03 19:30:51.952018,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,-0.023800000000000043,0.5,0.5238
 2022-05-03 10:31:12.302790,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Tottenham Hotspur,-0.025499999999999967,0.4,0.4255
 2022-05-03 13:30:50.599638,Professional Baseball - NPB 2022 - Outright,Chiba Lotte Marines,-0.03420000000000001,0.0769,0.1111
 2022-05-03 10:31:12.042691,League Two - England League Two 2021/22 - To Be Promoted,Mansfield Town,-0.05130000000000001,0.3333,0.3846
