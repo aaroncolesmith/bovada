@@ -1,105 +1,42 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-05-02 13:30:46.099860,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Schalke 04,0.3697,0.6364,0.2667
-2022-05-02 13:30:46.090183,Superligaen - Denmark Superligaen 2021/22 - Outright,FC Copenhagen,0.15560000000000007,0.8889,0.7333
-2022-05-02 12:30:46.145015,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Ciro Immobile,0.15239999999999998,0.9524,0.8
-2022-05-02 13:30:46.099860,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Darmstadt,0.1111,0.2222,0.1111
-2022-05-02 12:30:46.092046,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Rennes,0.10769999999999996,0.3077,0.2
-2022-05-02 12:30:46.194825,MLS - MLS Cup 2022 - Top Goalscorer,Jesus Jimenez,0.10439999999999999,0.1429,0.0385
-2022-05-02 12:30:46.150837,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Cagliari,0.10109999999999997,0.5455,0.4444
-2022-05-02 12:30:46.172996,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Betis,0.0889,0.2222,0.1333
-2022-05-02 12:30:46.097764,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Kylian Mbappe,0.08410000000000006,0.9412,0.8571
-2022-05-02 12:30:46.160936,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Sevilla,0.08330000000000004,0.75,0.6667
-2022-05-02 12:30:46.194825,MLS - MLS Cup 2022 - Top Goalscorer,Sebastian Driussi,0.0762,0.1429,0.0667
 2022-05-02 19:31:10.317399,NFL Specials - Where will Jimmy Garoppolo Play Game 1 of the 2022/2023 NFL Season? - Outright,Houston Texans,0.0762,0.1429,0.0667
-2022-05-02 12:30:46.166843,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Granada,0.06929999999999997,0.5455,0.4762
-2022-05-02 12:30:46.092046,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Monaco,0.06590000000000001,0.2326,0.1667
-2022-05-02 12:30:46.103730,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Monaco,0.0595,0.5833,0.5238
-2022-05-02 12:30:46.166843,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,0.055900000000000005,0.3636,0.3077
-2022-05-02 12:30:46.504651,Premiership - Scottish Premiership 2021/22 - Outright,Celtic,0.05479999999999996,0.996,0.9412
-2022-05-02 12:30:46.132937,Italy Serie A - Italy Serie A 2021/2022 - Outright,AC Milan,0.05449999999999999,0.6,0.5455
-2022-05-02 12:30:46.150837,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Genoa,0.05230000000000001,0.9412,0.8889
 2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,0.04999999999999999,0.25,0.2
 2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Giannis Antetokounmpo,0.04909999999999999,0.1667,0.1176
-2022-05-02 12:30:46.103730,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Nice,0.042899999999999994,0.1429,0.1
-2022-05-02 12:30:46.817868,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Son-Heung Min,0.0384,0.0769,0.0385
 2022-05-02 14:31:03.665250,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Republican,0.03810000000000002,0.8,0.7619
 2022-05-02 22:30:55.333156,Professional Baseball - NPB 2022 - Outright,Saitama Seibu Lions,0.030199999999999998,0.0625,0.0323
-2022-05-02 12:30:46.139215,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,AC Milan,0.027700000000000058,0.5833,0.5556
 2022-05-02 14:31:03.672304,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Outright,Republican,0.026700000000000057,0.9091,0.8824
 2022-05-02 22:30:55.333156,Professional Baseball - NPB 2022 - Outright,Tokyo Yakult Swallows,0.025300000000000003,0.1429,0.1176
 2022-05-02 22:30:56.482245,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,0.023800000000000043,0.5238,0.5
-2022-05-02 13:30:46.136882,Eredivisie - Eredivisie 2021/2022 - Outright,Ajax,0.023699999999999943,0.9852,0.9615
 2022-05-02 21:31:00.896771,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.022699999999999998,0.2247,0.202
-2022-05-02 12:30:46.166843,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Levante,0.018900000000000028,0.9804,0.9615
-2022-05-02 12:30:46.160936,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Real Betis,0.0189,0.0385,0.0196
 2022-05-02 19:31:09.600454,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,0.01820000000000002,0.2,0.1818
-2022-05-02 13:30:44.581956,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.018100000000000005,0.4348,0.4167
 2022-05-02 22:30:55.333156,Professional Baseball - NPB 2022 - Outright,Orix Buffaloes,0.0179,0.1429,0.125
-2022-05-02 19:31:10.317399,NFL Specials - Where will Jimmy Garoppolo Play Game 1 of the 2022/2023 NFL Season? - Outright,Carolina Panthers,0.016699999999999993,0.2667,0.25
 2022-05-02 22:30:55.028739,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Tenerife,0.016699999999999993,0.4167,0.4
+2022-05-02 19:31:10.317399,NFL Specials - Where will Jimmy Garoppolo Play Game 1 of the 2022/2023 NFL Season? - Outright,Carolina Panthers,0.016699999999999993,0.2667,0.25
 2022-05-03 00:30:41.887082,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.015100000000000002,0.1818,0.1667
-2022-05-02 21:31:01.609049,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Offensive Rookie of the Year,Skyy Moore,0.013999999999999999,0.0909,0.0769
 2022-05-02 14:31:03.542305,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win 2023 NCAA DI Men's Basketball Tournament,Houston,0.013999999999999999,0.0909,0.0769
-2022-05-02 19:31:11.425841,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Monterrey,0.013899999999999996,0.125,0.1111
+2022-05-02 21:31:01.609049,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Offensive Rookie of the Year,Skyy Moore,0.013999999999999999,0.0909,0.0769
 2022-05-02 14:31:03.564895,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.013899999999999996,0.2222,0.2083
-2022-05-02 13:30:44.567957,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.012899999999999995,0.1667,0.1538
-2022-05-03 00:30:41.896147,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.012299999999999978,0.3571,0.3448
+2022-05-02 19:31:11.425841,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Monterrey,0.013899999999999996,0.125,0.1111
+2022-05-03 01:31:16.823778,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.013300000000000034,0.3704,0.3571
 2022-05-02 19:31:09.610683,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.012299999999999978,0.3571,0.3448
+2022-05-03 00:30:41.896147,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.012299999999999978,0.3571,0.3448
 2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jaren Jackson Jr.,0.012100000000000001,0.0244,0.0123
-2022-05-02 13:30:44.575077,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.01150000000000001,0.3448,0.3333
-2022-05-02 12:30:46.512960,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Dundee FC,0.011199999999999988,0.9524,0.9412
 2022-05-02 14:31:03.980905,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Offensive Rookie of the Year,Skyy Moore,0.0102,0.0769,0.0667
-2022-05-02 12:30:46.187164,MLS - MLS Cup 2022 - Outright,LA Galaxy,-0.0102,0.0667,0.0769
-2022-05-02 12:30:46.160936,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Real Sociedad,-0.0109,0.004,0.0149
-2022-05-02 12:30:46.187164,MLS - MLS Cup 2022 - Outright,Portland Timbers,-0.011199999999999995,0.0476,0.0588
+2022-05-03 01:31:16.823778,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.011099999999999999,0.1,0.1111
 2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Luka Doncic,-0.011199999999999995,0.0476,0.0588
-2022-05-02 12:30:46.139215,Italy Serie A - Italy Serie A 2021/2022 - Winner without Juventus,Inter Milan,-0.012199999999999989,0.5,0.5122
-2022-05-02 13:30:44.575077,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.012299999999999978,0.3448,0.3571
-2022-05-02 12:30:46.092046,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Strasbourg,-0.0129,0.002,0.0149
-2022-05-02 12:30:46.103730,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Lens,-0.0129,0.002,0.0149
-2022-05-02 12:30:46.817868,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Sadio Mane,-0.013,0.0066,0.0196
 2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jimmy Butler,-0.013899999999999996,0.1111,0.125
 2022-05-02 19:31:11.425841,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,FC Puebla,-0.013999999999999999,0.0769,0.0909
-2022-05-02 12:30:46.194825,MLS - MLS Cup 2022 - Top Goalscorer,Hany Mukhtar,-0.014099999999999998,0.0294,0.0435
-2022-05-02 12:30:46.817868,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Diogo Jota,-0.0145,0.0099,0.0244
-2022-05-02 12:30:46.194825,MLS - MLS Cup 2022 - Top Goalscorer,Michael Estrada,-0.014900000000000004,0.0196,0.0345
 2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Tyler Herro,-0.014900000000000004,0.0196,0.0345
-2022-05-02 12:30:46.194825,MLS - MLS Cup 2022 - Top Goalscorer,Adam Buska,-0.014900000000000004,0.0196,0.0345
+2022-05-03 01:31:16.811521,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.015100000000000002,0.1667,0.1818
 2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Ja Morant,-0.015300000000000001,0.0435,0.0588
-2022-05-02 12:30:46.172996,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Villarreal,-0.0156,0.004,0.0196
-2022-05-02 13:30:44.581956,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,-0.01759999999999999,0.1,0.1176
-2022-05-02 12:30:46.187164,MLS - MLS Cup 2022 - Outright,Seattle Sounders,-0.018099999999999998,0.0588,0.0769
-2022-05-02 12:30:45.114419,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.01899999999999999,0.2083,0.2273
 2022-05-02 14:31:04.036171,CFL - Odds to win 109th (2022) Grey Cup - Outright,Winnipeg Blue Bombers,-0.019000000000000017,0.2667,0.2857
 2022-05-02 19:31:09.792363,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.020199999999999996,0.202,0.2222
 2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jaylen Brown,-0.0203,0.0323,0.0526
 2022-05-02 22:30:55.028739,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Ricoh Manresa,-0.02260000000000001,0.3774,0.4
-2022-05-02 12:30:46.103730,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Strasbourg,-0.023200000000000002,0.0244,0.0476
 2022-05-02 14:31:04.036171,CFL - Odds to win 109th (2022) Grey Cup - Outright,Calgary Stampeders,-0.023799999999999988,0.1429,0.1667
 2022-05-02 19:31:10.317399,NFL Specials - Where will Jimmy Garoppolo Play Game 1 of the 2022/2023 NFL Season? - Outright,Seattle Seahawks,-0.02779999999999999,0.2222,0.25
 2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Deandre Ayton,-0.028000000000000004,0.0196,0.0476
-2022-05-02 13:30:46.136882,Eredivisie - Eredivisie 2021/2022 - Outright,PSV Eindhoven,-0.029299999999999993,0.0476,0.0769
 2022-05-02 14:31:03.672304,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Outright,Democratic,-0.03140000000000001,0.1538,0.1852
-2022-05-02 12:30:46.194825,MLS - MLS Cup 2022 - Top Goalscorer,Karol Swiderski,-0.03270000000000001,0.0149,0.0476
 2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Marcus Smart,-0.0335,0.0141,0.0476
-2022-05-02 12:30:46.097764,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Wissam Ben Yedder,-0.03420000000000001,0.0769,0.1111
 2022-05-02 14:31:03.665250,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Democratic,-0.0363,0.2667,0.303
-2022-05-02 13:30:46.099860,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,St. Pauli,-0.0456,0.002,0.0476
-2022-05-02 12:30:46.817868,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Mohamed Salah,-0.04710000000000003,0.9333,0.9804
-2022-05-02 12:30:46.132937,Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,-0.04760000000000003,0.4762,0.5238
-2022-05-02 12:30:46.194825,MLS - MLS Cup 2022 - Top Goalscorer,Jesus Ferreira,-0.048100000000000004,0.0769,0.125
-2022-05-02 12:30:46.194825,MLS - MLS Cup 2022 - Top Goalscorer,Carlos Vela,-0.05379999999999999,0.1,0.1538
 2022-05-02 14:31:03.400558,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jayson Tatum,-0.05710000000000001,0.1429,0.2
-2022-05-02 12:30:46.097764,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Martin Terrier,-0.066,0.0769,0.1429
-2022-05-02 12:30:46.166843,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Cádiz,-0.06990000000000002,0.3846,0.4545
-2022-05-02 12:30:46.504651,Premiership - Scottish Premiership 2021/22 - Outright,Rangers FC,-0.0756,0.0244,0.1
-2022-05-02 12:30:46.172996,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,-0.07579999999999998,0.8333,0.9091
-2022-05-02 12:30:46.166843,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Alavés,-0.08410000000000006,0.8571,0.9412
-2022-05-02 12:30:46.160936,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Atlético Madrid,-0.09230000000000005,0.3077,0.4
-2022-05-02 12:30:46.103730,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Marseille,-0.09999999999999998,0.8,0.9
-2022-05-02 12:30:46.150837,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Salernitana,-0.11110000000000009,0.6667,0.7778
-2022-05-02 12:30:46.150837,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Sampdoria,-0.1127,0.0123,0.125
-2022-05-02 13:30:46.090183,Superligaen - Denmark Superligaen 2021/22 - Outright,FC Midtjylland,-0.1515,0.1818,0.3333
-2022-05-02 12:30:46.145015,Italy Serie A - Italy Serie A 2021/2022 - Top Goalscorer,Dusan Vlahovic,-0.1667,0.1,0.2667
-2022-05-02 12:30:46.092046,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Marseille,-0.19440000000000002,0.5556,0.75
-2022-05-02 13:30:46.099860,2. Bundesliga - 2. Bundesliga 2021/22 - Outright Winner,Werder Bremen,-0.39999999999999997,0.2667,0.6667
