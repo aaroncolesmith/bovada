@@ -7,6 +7,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-03 21:31:04.151251,A-League - Australia A-League 2021/2022 - Grand Final Winner,Melbourne Victory,0.02779999999999999,0.25,0.2222
 2022-05-03 21:31:03.480916,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,0.023800000000000043,0.5238,0.5
 2022-05-03 13:30:51.663400,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.023799999999999988,0.3571,0.3333
+2022-05-03 23:30:41.581831,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,0.023799999999999988,0.1667,0.1429
 2022-05-03 19:30:51.952018,Champions League - UEFA Champions League 2021/2022 - Outright,Villarreal,0.0236,0.0385,0.0149
 2022-05-03 13:30:51.670663,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.021699999999999997,0.4762,0.4545
 2022-05-03 16:31:34.364126,Boxing Lines - Joshua Buatsi vs Richards Craig - To Win the Bout,Joshua Buatsi,0.020299999999999985,0.8824,0.8621
@@ -14,8 +15,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-03 15:30:57.766887,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.01419999999999999,0.3846,0.3704
 2022-05-03 21:31:03.480916,Champions League - UEFA Champions League 2021/2022 - Outright,Real Madrid,0.011099999999999999,0.1111,0.1
 2022-05-03 13:30:52.573371,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,0.010099999999999998,0.4545,0.4444
-2022-05-03 13:30:50.599638,Professional Baseball - NPB 2022 - Outright,Hiroshima Toyo Carp,-0.010899999999999993,0.1429,0.1538
 2022-05-03 15:30:57.759968,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.010899999999999993,0.1429,0.1538
+2022-05-03 13:30:50.599638,Professional Baseball - NPB 2022 - Outright,Hiroshima Toyo Carp,-0.010899999999999993,0.1429,0.1538
 2022-05-03 13:30:51.670663,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.0116,0.4762,0.4878
 2022-05-03 13:30:51.663400,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.011899999999999994,0.0714,0.0833
 2022-05-03 13:30:51.663400,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.01419999999999999,0.3704,0.3846
