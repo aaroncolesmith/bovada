@@ -1,33 +1,57 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-05-02 19:31:10.317399,NFL Specials - Where will Jimmy Garoppolo Play Game 1 of the 2022/2023 NFL Season? - Outright,Houston Texans,0.0762,0.1429,0.0667
-2022-05-02 22:30:55.333156,Professional Baseball - NPB 2022 - Outright,Saitama Seibu Lions,0.030199999999999998,0.0625,0.0323
-2022-05-02 22:30:55.333156,Professional Baseball - NPB 2022 - Outright,Tokyo Yakult Swallows,0.025300000000000003,0.1429,0.1176
-2022-05-02 22:30:56.482245,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,0.023800000000000043,0.5238,0.5
+2022-05-03 10:31:12.292987,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,0.2222,0.4444,0.2222
+2022-05-03 10:31:12.047549,League Two - England League Two 2021/22 - Top 3 Finish,Northampton Town,0.18189999999999995,0.6364,0.4545
+2022-05-03 10:31:12.042691,League Two - England League Two 2021/22 - To Be Promoted,Northampton Town,0.11069999999999991,0.7333,0.6226
+2022-05-03 10:31:12.084476,Superettan - Swedish Superettan 2022 - Outright,Halmstads BK,0.10150000000000003,0.4348,0.3333
+2022-05-03 10:31:12.047549,League Two - England League Two 2021/22 - Top 3 Finish,Bristol Rovers,0.09889999999999999,0.3846,0.2857
+2022-05-03 10:31:12.042691,League Two - England League Two 2021/22 - To Be Promoted,Bristol Rovers,0.07450000000000001,0.5,0.4255
+2022-05-03 10:31:12.053680,League Two - England League Two 2021/22 - Top 7 Finish,Mansfield Town,0.0726,0.9615,0.8889
+2022-05-03 10:31:12.053680,League Two - England League Two 2021/22 - Top 7 Finish,Sutton Utd,0.06990000000000002,0.4545,0.3846
+2022-05-03 10:31:12.053680,League Two - England League Two 2021/22 - Top 7 Finish,Swindon Town,0.06670000000000009,0.8,0.7333
+2022-05-03 10:31:12.084476,Superettan - Swedish Superettan 2022 - Outright,Skövde AIK,0.0616,0.0833,0.0217
+2022-05-03 10:31:12.282577,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,West Ham United,0.052000000000000046,0.9091,0.8571
+2022-05-03 10:31:12.084476,Superettan - Swedish Superettan 2022 - Outright,Trelleborgs FF,0.0448,0.0833,0.0385
+2022-05-03 10:31:11.723786,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,0.04169999999999996,0.875,0.8333
+2022-05-03 10:31:12.302790,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Arsenal,0.03710000000000002,0.6923,0.6552
+2022-05-03 10:31:12.084476,Superettan - Swedish Superettan 2022 - Outright,IK Brage,0.027700000000000002,0.0833,0.0556
 2022-05-03 04:30:43.665596,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Democratic,0.023799999999999988,0.5,0.4762
-2022-05-02 21:31:00.896771,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,0.022699999999999998,0.2247,0.202
+2022-05-03 10:31:12.042691,League Two - England League Two 2021/22 - To Be Promoted,Sutton Utd,0.02310000000000001,0.1,0.0769
+2022-05-03 10:31:12.042691,League Two - England League Two 2021/22 - To Be Promoted,Swindon Town,0.022199999999999998,0.2222,0.2
+2022-05-03 10:31:11.719002,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,0.02100000000000002,0.3846,0.3636
 2022-05-03 02:30:53.136506,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.019699999999999995,0.4545,0.4348
 2022-05-03 05:30:50.692240,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win 2023 NCAA DI Men's Basketball Tournament,Creighton,0.019099999999999995,0.0435,0.0244
-2022-05-02 19:31:09.600454,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,0.01820000000000002,0.2,0.1818
-2022-05-02 22:30:55.333156,Professional Baseball - NPB 2022 - Outright,Orix Buffaloes,0.0179,0.1429,0.125
-2022-05-02 22:30:55.028739,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Tenerife,0.016699999999999993,0.4167,0.4
-2022-05-02 19:31:10.317399,NFL Specials - Where will Jimmy Garoppolo Play Game 1 of the 2022/2023 NFL Season? - Outright,Carolina Panthers,0.016699999999999993,0.2667,0.25
+2022-05-03 10:31:11.723786,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Sevilla,0.018900000000000028,0.9804,0.9615
+2022-05-03 10:31:12.298197,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Watford,0.016699999999999993,0.2667,0.25
+2022-05-03 10:31:12.084476,Superettan - Swedish Superettan 2022 - Outright,Utsiktens,0.015299999999999998,0.037,0.0217
 2022-05-03 00:30:41.887082,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.015100000000000002,0.1818,0.1667
 2022-05-03 06:31:20.476725,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.01419999999999999,0.3846,0.3704
-2022-05-02 21:31:01.609049,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Offensive Rookie of the Year,Skyy Moore,0.013999999999999999,0.0909,0.0769
-2022-05-02 19:31:11.425841,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Monterrey,0.013899999999999996,0.125,0.1111
 2022-05-03 01:31:16.823778,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.013300000000000034,0.3704,0.3571
 2022-05-03 02:30:53.114443,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.01319999999999999,0.2632,0.25
+2022-05-03 10:31:12.292987,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Southampton,0.0129,0.0149,0.002
 2022-05-03 00:30:41.896147,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.012299999999999978,0.3571,0.3448
-2022-05-02 19:31:09.610683,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.012299999999999978,0.3571,0.3448
+2022-05-03 10:31:10.363184,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Saul 'Canelo' Alvarez,0.01090000000000002,0.8571,0.8462
 2022-05-03 06:31:20.464460,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,0.010899999999999993,0.1538,0.1429
 2022-05-03 01:31:16.823778,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.011099999999999999,0.1,0.1111
 2022-05-03 03:30:44.267527,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.012199999999999989,0.4878,0.5
-2022-05-02 19:31:11.425841,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,FC Puebla,-0.013999999999999999,0.0769,0.0909
+2022-05-03 10:31:11.714288,Spain La Liga - Spain La Liga 2021/22 - Winner without Barcelona & Real Madrid,Real Betis,-0.014099999999999998,0.0244,0.0385
+2022-05-03 10:31:10.363184,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.014200000000000018,0.2105,0.2247
 2022-05-03 01:31:16.811521,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.015100000000000002,0.1667,0.1818
 2022-05-03 02:30:53.136506,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,-0.016700000000000007,0.0833,0.1
-2022-05-02 19:31:09.792363,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.020199999999999996,0.202,0.2222
+2022-05-03 10:31:12.084476,Superettan - Swedish Superettan 2022 - Outright,Brommapojkarna,-0.017099999999999997,0.0385,0.0556
+2022-05-03 10:31:12.298197,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Norwich City,-0.018199999999999994,0.8,0.8182
 2022-05-03 04:30:43.665596,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Republican,-0.02079999999999993,0.5348,0.5556
-2022-05-02 22:30:55.028739,FIBA Champions League - FIBA Champions League 2021/22 - Outright,Ricoh Manresa,-0.02260000000000001,0.3774,0.4
+2022-05-03 10:31:12.084476,Superettan - Swedish Superettan 2022 - Outright,Örgryte IS,-0.022400000000000003,0.0099,0.0323
 2022-05-03 06:31:20.476725,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.023799999999999988,0.3333,0.3571
-2022-05-02 19:31:10.317399,NFL Specials - Where will Jimmy Garoppolo Play Game 1 of the 2022/2023 NFL Season? - Outright,Seattle Seahawks,-0.02779999999999999,0.2222,0.25
+2022-05-03 10:31:12.302790,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Tottenham Hotspur,-0.025499999999999967,0.4,0.4255
 2022-05-03 06:31:20.464460,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,-0.033300000000000024,0.1667,0.2
+2022-05-03 10:31:12.042691,League Two - England League Two 2021/22 - To Be Promoted,Mansfield Town,-0.05130000000000001,0.3333,0.3846
+2022-05-03 10:31:12.282577,England Premier League Season 2021/2022 - England Premier League 2021/22 - Winner without The Big Six,Wolverhampton Wanderers,-0.05559999999999998,0.1111,0.1667
+2022-05-03 10:31:11.723786,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Real Betis,-0.06840000000000002,0.1538,0.2222
+2022-05-03 10:31:12.292987,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,-0.07690000000000002,0.3077,0.3846
+2022-05-03 10:31:12.084476,Superettan - Swedish Superettan 2022 - Outright,Norrby IF,-0.0777,0.0556,0.1333
+2022-05-03 10:31:12.053680,League Two - England League Two 2021/22 - Top 7 Finish,Port Vale,-0.10440000000000005,0.8571,0.9615
+2022-05-03 10:31:12.047549,League Two - England League Two 2021/22 - Top 3 Finish,Mansfield Town,-0.1079,0.0588,0.1667
+2022-05-03 10:31:12.084476,Superettan - Swedish Superettan 2022 - Outright,Örebro SK,-0.11039999999999998,0.0714,0.1818
+2022-05-03 10:31:12.292987,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Everton,-0.16020000000000006,0.3636,0.5238
+2022-05-03 10:31:12.042691,League Two - England League Two 2021/22 - To Be Promoted,Port Vale,-0.1688,0.2857,0.4545
+2022-05-03 10:31:12.047549,League Two - England League Two 2021/22 - Top 3 Finish,Port Vale,-0.2082,0.0244,0.2326
