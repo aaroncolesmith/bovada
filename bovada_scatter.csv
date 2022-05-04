@@ -6,13 +6,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-04 16:30:51.583656,England Championship - England Championship 21/22 - To Be Promoted,Millwall,0.0274,0.0294,0.002
 2022-05-04 16:30:51.104258,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Bucks to beat Suns,0.024,0.0625,0.0385
 2022-05-04 16:30:51.104258,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Suns to beat Bucks,0.0238,0.0714,0.0476
+2022-05-04 17:31:03.127685,CFL - Odds to win 109th (2022) Grey Cup - Outright,Calgary Stampeders,0.023799999999999988,0.1667,0.1429
 2022-05-04 11:32:36.169882,Euro Cup - Euro Cup 2021/22 - Winner,Valencia,0.02360000000000001,0.4082,0.3846
 2022-05-04 07:33:12.723558,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Philadelphia Eagles,Over 8.5,0.020299999999999985,0.6429,0.6226
+2022-05-04 17:31:03.127685,CFL - Odds to win 109th (2022) Grey Cup - Outright,Winnipeg Blue Bombers,0.019000000000000017,0.2857,0.2667
 2022-05-04 16:30:51.583656,England Championship - England Championship 21/22 - To Be Promoted,Huddersfield Town,0.01820000000000002,0.2,0.1818
 2022-05-04 16:30:51.590705,England Championship - England Championship 21/22 - Top 6 Finish,Sheffield United,0.017900000000000027,0.875,0.8571
 2022-05-04 07:33:12.696361,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New Orleans Saints,Over 7.5,0.015800000000000036,0.6825,0.6667
-2022-05-04 07:33:12.714475,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Jets,Over 5.5,0.01539999999999997,0.6154,0.6
 2022-05-04 07:33:12.550431,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Chicago Bears,Under 7,0.01539999999999997,0.6154,0.6
+2022-05-04 07:33:12.714475,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Jets,Over 5.5,0.01539999999999997,0.6154,0.6
 2022-05-04 07:33:12.522822,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Baltimore Ravens,Over 9.5,0.01539999999999997,0.6154,0.6
 2022-05-04 12:31:39.963604,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.015100000000000002,0.1818,0.1667
 2022-05-04 16:30:51.104258,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Heat to beat Suns,0.014399999999999996,0.0769,0.0625
@@ -23,18 +25,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-04 16:30:51.104258,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Warriors to beat Bucks,0.012499999999999997,0.0625,0.05
 2022-05-04 12:31:39.987459,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.012199999999999989,0.5,0.4878
 2022-05-04 11:32:36.192935,LNB Pro A - LNB Pro A 2021/22 - Outright,Le Mans,-0.010100000000000001,0.0244,0.0345
+2022-05-04 17:31:01.651006,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win 2023 NCAA DI Men's Basketball Tournament,Arkansas,-0.0102,0.0667,0.0769
+2022-05-04 07:33:12.550431,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Chicago Bears,Over 7,-0.010599999999999998,0.4545,0.4651
 2022-05-04 16:30:51.104258,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Celtics to beat Mavericks,-0.010599999999999998,0.0164,0.027
 2022-05-04 07:33:12.714475,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Jets,Under 5.5,-0.010599999999999998,0.4545,0.4651
 2022-05-04 07:33:12.522822,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Baltimore Ravens,Under 9.5,-0.010599999999999998,0.4545,0.4651
-2022-05-04 07:33:12.550431,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Chicago Bears,Over 7,-0.010599999999999998,0.4545,0.4651
+2022-05-04 17:31:02.564682,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.011899999999999994,0.2381,0.25
 2022-05-04 07:33:13.176842,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,-0.012199999999999989,0.4878,0.5
 2022-05-04 16:30:51.104258,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Warriors to beat Celtics,-0.013999999999999999,0.0769,0.0909
 2022-05-04 11:32:36.239472,LKL - LKL 2021/22 - Outright,Rytas,-0.01469999999999999,0.2353,0.25
-2022-05-04 07:33:13.148373,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.015100000000000002,0.1667,0.1818
 2022-05-04 16:30:51.583656,England Championship - England Championship 21/22 - To Be Promoted,Luton Town,-0.015100000000000002,0.1667,0.1818
+2022-05-04 07:33:13.148373,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.015100000000000002,0.1667,0.1818
 2022-05-04 07:33:12.696361,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New Orleans Saints,Under 7.5,-0.015400000000000025,0.3846,0.4
 2022-05-04 07:33:12.450223,Professional Baseball - NPB 2022 - Outright,Hiroshima Toyo Carp,-0.0179,0.125,0.1429
 2022-05-04 07:33:12.723558,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Philadelphia Eagles,Under 8.5,-0.018900000000000028,0.4255,0.4444
+2022-05-04 17:31:01.651006,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win 2023 NCAA DI Men's Basketball Tournament,Houston,-0.01949999999999999,0.0714,0.0909
 2022-05-04 12:31:39.987459,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.025499999999999967,0.4,0.4255
 2022-05-04 11:32:36.169882,Euro Cup - Euro Cup 2021/22 - Winner,Virtus Bologna,-0.05960000000000004,0.3571,0.4167
 2022-05-04 16:30:51.590705,England Championship - England Championship 21/22 - Top 6 Finish,Luton Town,-0.07579999999999998,0.8333,0.9091
