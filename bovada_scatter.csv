@@ -1,5 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-05-04 21:30:45.037067,Champions League - UEFA Champions League 2021/2022 - Outright,Real Madrid,0.26359999999999995,0.3636,0.1
 2022-05-04 11:32:36.169882,Euro Cup - Euro Cup 2021/22 - Winner,Bursaspor,0.1901,0.3077,0.1176
+2022-05-04 21:30:45.037067,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,0.13639999999999997,0.6364,0.5
 2022-05-04 20:31:37.848413,Champions League - UEFA Champions League 2021/2022 - Outright,Manchester City,0.05559999999999998,0.5,0.4444
 2022-05-04 16:30:51.590705,England Championship - England Championship 21/22 - Top 6 Finish,Middlesbrough,0.030299999999999994,0.3636,0.3333
 2022-05-04 16:30:51.590705,England Championship - England Championship 21/22 - Top 6 Finish,Millwall,0.0286,0.0385,0.0099
@@ -37,3 +39,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-04 11:32:36.169882,Euro Cup - Euro Cup 2021/22 - Winner,Virtus Bologna,-0.05960000000000004,0.3571,0.4167
 2022-05-04 16:30:51.590705,England Championship - England Championship 21/22 - Top 6 Finish,Luton Town,-0.07579999999999998,0.8333,0.9091
 2022-05-04 16:30:51.583656,England Championship - England Championship 21/22 - To Be Promoted,Nottingham Forest,-0.17819999999999997,0.3774,0.5556
+2022-05-04 21:30:45.037067,Champions League - UEFA Champions League 2021/2022 - Outright,Manchester City,-0.42310000000000003,0.0769,0.5
