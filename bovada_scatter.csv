@@ -19,13 +19,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-04 16:30:51.583656,England Championship - England Championship 21/22 - To Be Promoted,Huddersfield Town,0.01820000000000002,0.2,0.1818
 2022-05-04 16:30:51.590705,England Championship - England Championship 21/22 - Top 6 Finish,Sheffield United,0.017900000000000027,0.875,0.8571
 2022-05-04 20:31:38.096870,A-League - Australia A-League 2021/2022 - Grand Final Winner,Melbourne Victory,0.016699999999999993,0.2667,0.25
-2022-05-04 12:31:39.963604,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.015100000000000002,0.1818,0.1667
 2022-05-04 20:31:36.474111,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Joe Biden,0.015100000000000002,0.1818,0.1667
 2022-05-04 16:30:51.104258,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Heat to beat Suns,0.014399999999999996,0.0769,0.0625
 2022-05-04 16:30:51.104258,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Suns to beat Heat,0.013899999999999996,0.125,0.1111
 2022-05-04 16:30:51.104258,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Bucks to beat Warriors,0.0131,0.0476,0.0345
 2022-05-04 16:30:51.104258,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Warriors to beat Bucks,0.012499999999999997,0.0625,0.05
-2022-05-04 12:31:39.987459,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,0.012199999999999989,0.5,0.4878
 2022-05-04 17:31:01.651006,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win 2023 NCAA DI Men's Basketball Tournament,Arkansas,-0.0102,0.0667,0.0769
 2022-05-04 16:30:51.104258,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Celtics to beat Mavericks,-0.010599999999999998,0.0164,0.027
 2022-05-05 00:30:46.099295,Euroleague - Euroleague 2021/22 - Winner,Anadolu Efes,-0.011099999999999999,0.2667,0.2778
@@ -40,7 +38,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-04 17:31:01.651006,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win 2023 NCAA DI Men's Basketball Tournament,Houston,-0.01949999999999999,0.0714,0.0909
 2022-05-05 00:30:46.117686,Japan B League - Japan League B1 2021/22 - Outright,Okinawa Ryukyu,-0.021999999999999964,0.2857,0.3077
 2022-05-04 20:31:37.848413,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,-0.023800000000000043,0.5,0.5238
-2022-05-04 12:31:39.987459,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,-0.025499999999999967,0.4,0.4255
 2022-05-04 20:31:38.096870,A-League - Australia A-League 2021/2022 - Grand Final Winner,Melbourne City,-0.044399999999999995,0.4,0.4444
 2022-05-04 16:30:51.590705,England Championship - England Championship 21/22 - Top 6 Finish,Luton Town,-0.07579999999999998,0.8333,0.9091
 2022-05-04 16:30:51.583656,England Championship - England Championship 21/22 - To Be Promoted,Nottingham Forest,-0.17819999999999997,0.3774,0.5556
