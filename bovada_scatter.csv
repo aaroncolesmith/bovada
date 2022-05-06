@@ -6,6 +6,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-06 09:32:45.534765,Allsvenskan - Swedish Allsvenskan 2022 - Outright,AIK,0.04620000000000002,0.2,0.1538
 2022-05-06 13:30:52.561968,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Jalen Tait,0.03259999999999996,0.6552,0.6226
 2022-05-06 03:30:46.004626,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Jets,Over 5.5,0.02750000000000008,0.6429,0.6154
+2022-05-06 14:31:04.627125,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Manuer A Matet,0.026600000000000013,0.4348,0.4082
 2022-05-06 04:31:30.992958,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Arsenal,0.02200000000000002,0.7143,0.6923
 2022-05-06 07:32:40.710444,MLB Futures - MLB 2022 American League Central - Outright,Minnesota Twins,0.02100000000000002,0.3846,0.3636
 2022-05-06 13:30:54.302632,MLB Specials - How Many Times Will a Batter be Hit By a Pitch From May 9  to May 31 - Outright,Under 271.5,0.02079999999999993,0.5556,0.5348
@@ -31,6 +32,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-06 07:32:40.738464,MLB Futures - MLB 2022 National League East - Outright,Atlanta Braves,-0.021999999999999964,0.2857,0.3077
 2022-05-06 07:32:40.687199,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Dodgers,-0.022199999999999998,0.2,0.2222
 2022-05-06 13:30:54.302632,MLB Specials - How Many Times Will a Batter be Hit By a Pitch From May 9  to May 31 - Outright,Over 271.5,-0.022600000000000064,0.5122,0.5348
+2022-05-06 14:31:04.627125,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Jalen Tait,-0.025599999999999956,0.6296,0.6552
 2022-05-06 07:32:40.695622,MLB Futures - MLB 2022 Amercian League - Outright,New York Yankees,-0.02779999999999999,0.2222,0.25
 2022-05-06 03:30:46.004626,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Jets,Under 5.5,-0.029000000000000026,0.4255,0.4545
 2022-05-06 04:31:29.901454,Europa League - UEFA Europa League 2021/22 - Outright,Eintracht Frankfurt,-0.03090000000000004,0.5917,0.6226
