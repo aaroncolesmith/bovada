@@ -1,20 +1,22 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-05-06 10:30:58.739232,League One - England League One 2021/22 - To Be Promoted,Wycombe,0.1846,0.3846,0.2
+2022-05-06 10:30:58.441724,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Cagliari,0.09089999999999998,0.6364,0.5455
+2022-05-06 10:30:58.441724,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Venezia,0.06169999999999998,0.995,0.9333
 2022-05-06 03:30:45.841014,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Arizona Cardinals,Under 9,0.05689999999999995,0.5917,0.5348
 2022-05-06 09:32:45.534765,Allsvenskan - Swedish Allsvenskan 2022 - Outright,AIK,0.04620000000000002,0.2,0.1538
 2022-05-06 03:30:46.004626,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Jets,Over 5.5,0.02750000000000008,0.6429,0.6154
 2022-05-06 04:31:30.992958,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Arsenal,0.02200000000000002,0.7143,0.6923
 2022-05-06 07:32:40.710444,MLB Futures - MLB 2022 American League Central - Outright,Minnesota Twins,0.02100000000000002,0.3846,0.3636
 2022-05-06 04:31:29.901454,Europa League - UEFA Europa League 2021/22 - Outright,Rangers,0.019699999999999995,0.4545,0.4348
-2022-05-05 22:30:44.350336,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,0.018900000000000028,0.4444,0.4255
 2022-05-06 07:32:40.724300,MLB Futures - MLB 2022 American League West - Outright,Los Angeles Angels,0.015400000000000025,0.2857,0.2703
 2022-05-06 09:32:45.534765,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Djurgårdens IF,0.013999999999999999,0.0909,0.0769
 2022-05-06 04:31:29.718167,Boxing Lines - Gervonta Davis vs Rolando Romero - To Win the Bout,Rolando Romero,0.012899999999999995,0.1379,0.125
 2022-05-06 09:32:45.534765,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,-0.010399999999999993,0.2222,0.2326
 2022-05-06 08:30:55.933840,MLB Futures - MLB 2022 National League - Outright,New York Mets,-0.010499999999999982,0.2,0.2105
 2022-05-06 04:31:29.598307,Boxing Lines - Shakhram Giyasov vs Christian Gomez Duran - To Win the Bout,Christian Gomez Duran,-0.010599999999999998,0.2597,0.2703
+2022-05-06 10:30:56.672625,Boxing Lines - Ryan Rozicki vs Yamil Peralta - To Win the Bout,Ryan Rozicki,-0.0121,0.7937,0.8058
 2022-05-06 07:32:40.717399,MLB Futures - MLB 2022 American League East - Outright,Tampa Bay Rays,-0.012899999999999995,0.1538,0.1667
 2022-05-06 07:32:40.695622,MLB Futures - MLB 2022 Amercian League - Outright,Toronto Blue Jays,-0.0131,0.2222,0.2353
-2022-05-05 22:30:44.350336,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,-0.014099999999999998,0.0294,0.0435
 2022-05-06 07:32:40.687199,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Atlanta Braves,-0.014399999999999996,0.0625,0.0769
 2022-05-06 07:32:40.745458,MLB Futures - MLB 2022 National League West - Outright,San Francisco Giants,-0.01999999999999999,0.1905,0.2105
 2022-05-06 07:32:40.738464,MLB Futures - MLB 2022 National League East - Outright,Atlanta Braves,-0.021999999999999964,0.2857,0.3077
@@ -26,3 +28,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-06 07:32:40.724300,MLB Futures - MLB 2022 American League West - Outright,Seattle Mariners,-0.04999999999999999,0.2,0.25
 2022-05-06 09:32:45.534765,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,-0.05559999999999998,0.5,0.5556
 2022-05-06 03:30:45.841014,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Arizona Cardinals,Over 9,-0.05860000000000004,0.4762,0.5348
+2022-05-06 10:30:58.441724,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Salernitana,-0.14289999999999992,0.5238,0.6667
+2022-05-06 10:30:58.739232,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,-0.19480000000000003,0.0909,0.2857
