@@ -1,10 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-05-06 10:30:58.739232,League One - England League One 2021/22 - To Be Promoted,Wycombe,0.1846,0.3846,0.2
 2022-05-06 18:31:57.343481,Stranger Things Specials - Characters to Appear in Stranger Things Season 4 - Outright,Lonnie Byers,0.11430000000000001,0.4,0.2857
-2022-05-06 10:30:58.441724,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Cagliari,0.09089999999999998,0.6364,0.5455
 2022-05-06 18:31:57.343481,Stranger Things Specials - Characters to Appear in Stranger Things Season 4 - Outright,Suzie,0.06669999999999998,0.6667,0.6
-2022-05-06 10:30:58.441724,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Venezia,0.06169999999999998,0.995,0.9333
-2022-05-06 09:32:45.534765,Allsvenskan - Swedish Allsvenskan 2022 - Outright,AIK,0.04620000000000002,0.2,0.1538
 2022-05-06 21:30:40.473076,NCAA Football Specials - 2022-2023 Wins - Tennessee,Over 8,0.043399999999999994,0.5556,0.5122
 2022-05-06 13:30:52.561968,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Jalen Tait,0.03259999999999996,0.6552,0.6226
 2022-05-06 19:30:46.088565,CFL - Odds to win 109th (2022) Grey Cup - Outright,Ottawa Redblacks,0.028399999999999995,0.0909,0.0625
@@ -16,26 +12,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-06 13:30:53.599282,NBA Specials - Will Steve Nash be fired before next season starts? - Outright,Yes,0.02020000000000001,0.1111,0.0909
 2022-05-06 18:31:56.078820,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Jalen Tait,0.019499999999999962,0.6491,0.6296
 2022-05-06 18:31:57.706527,TV Specials - Characters to appear in the Friday Night Lights reboot - Proposition,Vince Howard,0.0189,0.0385,0.0196
+2022-05-06 23:30:58.730070,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Manuer A Matet,0.018100000000000005,0.4348,0.4167
 2022-05-06 19:30:46.088565,CFL - Odds to win 109th (2022) Grey Cup - Outright,Saskatchewan Roughriders,0.0179,0.1429,0.125
-2022-05-06 15:32:57.125404,BKFC 25 - Joshua Sanchez vs Levi Costa - To Win the Bout,Levi Costa,0.016100000000000003,0.6078,0.5917
 2022-05-06 15:32:57.108040,BKFC 25 - Henry Williams vs Sterling Lenz - To Win the Bout,Henry Williams,0.016100000000000003,0.6078,0.5917
+2022-05-06 15:32:57.125404,BKFC 25 - Joshua Sanchez vs Levi Costa - To Win the Bout,Levi Costa,0.016100000000000003,0.6078,0.5917
 2022-05-06 20:31:10.695361,BKFC 25 - Henry Williams vs Sterling Lenz - To Win the Bout,Henry Williams,0.014800000000000035,0.6226,0.6078
-2022-05-06 13:30:53.571876,NBA Specials - Where will James Harden play next season? - Outright,Field,0.013999999999999999,0.0909,0.0769
 2022-05-06 18:31:57.706527,TV Specials - Characters to appear in the Friday Night Lights reboot - Proposition,Landry Clarke,0.013999999999999999,0.0909,0.0769
-2022-05-06 09:32:45.534765,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Djurgårdens IF,0.013999999999999999,0.0909,0.0769
+2022-05-06 13:30:53.571876,NBA Specials - Where will James Harden play next season? - Outright,Field,0.013999999999999999,0.0909,0.0769
 2022-05-06 13:30:53.228500,NFL Specials - Will a Top 10 Pick win Offensive Rookie Of The Year - Outright,No,0.013700000000000045,0.7436,0.7299
 2022-05-06 18:31:55.988286,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Outright,Democratic,0.012899999999999995,0.1667,0.1538
 2022-05-06 19:30:44.872625,Boxing Lines - Joselito Velazquez vs Jose Soto - To Win the Bout,Jose Soto,0.012499999999999983,0.2105,0.198
 2022-05-06 18:31:55.956741,Political Specials - Who will win the 2022 Georgia Republican gubernatorial nomination? - Outright,David Perdue,0.011099999999999999,0.1111,0.1
 2022-05-06 20:31:10.695361,BKFC 25 - Henry Williams vs Sterling Lenz - To Win the Bout,Sterling Lenz,-0.010099999999999998,0.4444,0.4545
-2022-05-06 09:32:45.534765,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,-0.010399999999999993,0.2222,0.2326
-2022-05-06 10:30:56.672625,Boxing Lines - Ryan Rozicki vs Yamil Peralta - To Win the Bout,Ryan Rozicki,-0.0121,0.7937,0.8058
 2022-05-06 13:30:53.228500,NFL Specials - Will a Top 10 Pick win Offensive Rookie Of The Year - Outright,Yes,-0.012299999999999978,0.3448,0.3571
 2022-05-06 18:31:55.956741,Political Specials - Who will win the 2022 Georgia Republican gubernatorial nomination? - Outright,Brian Kemp,-0.014000000000000012,0.9091,0.9231
 2022-05-06 13:30:53.219157,NFL Specials - How Many Rookie Qbs Will Start Week 1 of the 2022/2023 NFL Season? - Outright,Over 0.5,-0.014800000000000035,0.6078,0.6226
 2022-05-06 19:30:44.872625,Boxing Lines - Joselito Velazquez vs Jose Soto - To Win the Bout,Joselito Velazquez,-0.017900000000000027,0.8571,0.875
 2022-05-06 18:31:56.078820,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Manuer A Matet,-0.018100000000000005,0.4167,0.4348
 2022-05-06 13:30:53.599282,NBA Specials - Will Steve Nash be fired before next season starts? - Outright,No,-0.018900000000000028,0.9615,0.9804
+2022-05-06 23:30:58.730070,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Jalen Tait,-0.019499999999999962,0.6296,0.6491
 2022-05-06 15:32:57.140538,BKFC 25 - Art Parker vs Warren Thompson - To Win the Bout,Art Parker,-0.02079999999999993,0.5348,0.5556
 2022-05-06 19:30:44.978854,BKFC 25 - Arnold Adams vs Dillon Cleckler - To Win the Bout,Arnold Adams,-0.02169999999999994,0.5238,0.5455
 2022-05-06 15:32:57.125404,BKFC 25 - Joshua Sanchez vs Levi Costa - To Win the Bout,Joshua Sanchez,-0.021699999999999997,0.4545,0.4762
@@ -45,6 +40,3 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-06 14:31:04.627125,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Jalen Tait,-0.025599999999999956,0.6296,0.6552
 2022-05-06 13:30:52.561968,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Manuer A Matet,-0.03620000000000001,0.4082,0.4444
 2022-05-06 21:30:40.473076,NCAA Football Specials - 2022-2023 Wins - Tennessee,Under 8,-0.043399999999999994,0.5122,0.5556
-2022-05-06 09:32:45.534765,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,-0.05559999999999998,0.5,0.5556
-2022-05-06 10:30:58.441724,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Salernitana,-0.14289999999999992,0.5238,0.6667
-2022-05-06 10:30:58.739232,League One - England League One 2021/22 - To Be Promoted,Milton Keynes Dons,-0.19480000000000003,0.0909,0.2857
