@@ -23,8 +23,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-07 16:30:37.777496,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Democratic,0.019000000000000017,0.2857,0.2667
 2022-05-07 13:31:00.537372,MLB Specials - How Many Times Will a Batter be Hit By a Pitch From May 9  to May 31 - Outright,Under 271.5,0.01880000000000004,0.5744,0.5556
 2022-05-07 13:30:59.208500,Japan B League - Japan League B1 2021/22 - Outright,Tochigi Brex,0.016700000000000007,0.1,0.0833
-2022-05-07 09:31:50.958094,League One - England League One 2021/22 - To Be Promoted,Wycombe,0.015400000000000025,0.4,0.3846
 2022-05-07 09:31:50.725846,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Cádiz,0.015400000000000025,0.4,0.3846
+2022-05-07 09:31:50.958094,League One - England League One 2021/22 - To Be Promoted,Wycombe,0.015400000000000025,0.4,0.3846
 2022-05-07 15:31:15.258822,Boxing Lines - Shakhram Giyasov vs Christian Gomez Duran - To Win the Bout,Christian Gomez Duran,0.015400000000000025,0.2857,0.2703
 2022-05-07 16:30:38.466064,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Joel Embiid,0.014900000000000004,0.0345,0.0196
 2022-05-07 13:30:59.165827,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.01319999999999999,0.2632,0.25
@@ -40,6 +40,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-07 13:30:59.177995,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,-0.014399999999999996,0.0625,0.0769
 2022-05-07 09:31:50.661809,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Strasbourg,-0.0145,0.0099,0.0244
 2022-05-07 07:31:12.381944,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Jalen Tait,-0.014800000000000035,0.6078,0.6226
+2022-05-07 19:30:50.298773,Boxing Lines - Shakhram Giyasov vs Christian Gomez Duran - To Win the Bout,Christian Gomez Duran,-0.015400000000000025,0.2703,0.2857
 2022-05-07 15:31:15.258822,Boxing Lines - Shakhram Giyasov vs Christian Gomez Duran - To Win the Bout,Shakhram Giyasov,-0.015899999999999914,0.7778,0.7937
 2022-05-07 16:30:37.777496,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Republican,-0.017400000000000082,0.7826,0.8
 2022-05-07 16:30:38.466064,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Giannis Antetokounmpo,-0.0179,0.125,0.1429
