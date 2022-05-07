@@ -1,37 +1,24 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-05-06 18:31:57.343481,Stranger Things Specials - Characters to Appear in Stranger Things Season 4 - Outright,Lonnie Byers,0.11430000000000001,0.4,0.2857
 2022-05-07 03:31:11.969501,Star Wars Specials - Will any of these characters appear in 'Ahsoka' on Disney+ - Outright,Hera Syndulla,0.09999999999999998,0.5,0.4
 2022-05-07 03:31:11.969501,Star Wars Specials - Will any of these characters appear in 'Ahsoka' on Disney+ - Outright,Chopper,0.07789999999999997,0.3636,0.2857
-2022-05-06 18:31:57.343481,Stranger Things Specials - Characters to Appear in Stranger Things Season 4 - Outright,Suzie,0.06669999999999998,0.6667,0.6
 2022-05-07 03:31:11.969501,Star Wars Specials - Will any of these characters appear in 'Ahsoka' on Disney+ - Outright,Captain Rex,0.050000000000000044,0.8,0.75
 2022-05-06 21:30:40.473076,NCAA Football Specials - 2022-2023 Wins - Tennessee,Over 8,0.043399999999999994,0.5556,0.5122
 2022-05-07 03:31:12.464269,Champions League - UEFA Champions League 2021/2022 - Outright,Real Madrid,0.038000000000000034,0.4348,0.3968
-2022-05-06 19:30:46.088565,CFL - Odds to win 109th (2022) Grey Cup - Outright,Ottawa Redblacks,0.028399999999999995,0.0909,0.0625
 2022-05-07 04:32:56.893347,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Feyenoord,0.023899999999999977,0.4587,0.4348
 2022-05-07 03:31:11.589199,NFL Specials - How Many Rookie Qbs Will Start Week 1 of the 2022/2023 NFL Season? - Outright,Under 0.5,0.022699999999999998,0.4878,0.4651
-2022-05-06 19:30:44.978854,BKFC 25 - Arnold Adams vs Dillon Cleckler - To Win the Bout,Dillon Cleckler,0.02169999999999994,0.5455,0.5238
-2022-05-06 18:31:56.078820,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Jalen Tait,0.019499999999999962,0.6491,0.6296
-2022-05-06 18:31:57.706527,TV Specials - Characters to appear in the Friday Night Lights reboot - Proposition,Vince Howard,0.0189,0.0385,0.0196
 2022-05-06 23:30:58.730070,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Manuer A Matet,0.018100000000000005,0.4348,0.4167
-2022-05-06 19:30:46.088565,CFL - Odds to win 109th (2022) Grey Cup - Outright,Saskatchewan Roughriders,0.0179,0.1429,0.125
 2022-05-06 20:31:10.695361,BKFC 25 - Henry Williams vs Sterling Lenz - To Win the Bout,Henry Williams,0.014800000000000035,0.6226,0.6078
-2022-05-06 18:31:57.706527,TV Specials - Characters to appear in the Friday Night Lights reboot - Proposition,Landry Clarke,0.013999999999999999,0.0909,0.0769
 2022-05-07 00:30:39.802661,LKL - LKL 2021/22 - Outright,Rytas,0.0131,0.2353,0.2222
-2022-05-06 18:31:55.988286,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Outright,Democratic,0.012899999999999995,0.1667,0.1538
-2022-05-06 19:30:44.872625,Boxing Lines - Joselito Velazquez vs Jose Soto - To Win the Bout,Jose Soto,0.012499999999999983,0.2105,0.198
-2022-05-06 18:31:55.956741,Political Specials - Who will win the 2022 Georgia Republican gubernatorial nomination? - Outright,David Perdue,0.011099999999999999,0.1111,0.1
+2022-05-07 07:31:12.381944,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Manuer A Matet,0.010099999999999998,0.4545,0.4444
 2022-05-07 03:31:12.384566,Europa League - UEFA Europa League 2021/22 - Outright,Rangers,-0.010099999999999998,0.4444,0.4545
-2022-05-07 03:31:12.464269,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,-0.010099999999999998,0.639,0.6491
 2022-05-06 20:31:10.695361,BKFC 25 - Henry Williams vs Sterling Lenz - To Win the Bout,Sterling Lenz,-0.010099999999999998,0.4444,0.4545
+2022-05-07 03:31:12.464269,Champions League - UEFA Champions League 2021/2022 - Outright,Liverpool,-0.010099999999999998,0.639,0.6491
+2022-05-07 07:31:12.479497,Boxing Lines - Dmitry Bivol vs Saul 'Canelo' Alvarez - To Win the Bout,Dmitry Bivol,-0.010499999999999982,0.2,0.2105
 2022-05-07 03:31:11.602207,NFL Specials - Will a Top 10 Pick win Offensive Rookie Of The Year - Outright,Yes,-0.01150000000000001,0.3333,0.3448
 2022-05-07 03:31:11.969501,Star Wars Specials - Will any of these characters appear in 'Ahsoka' on Disney+ - Outright,Moff Gideon,-0.012899999999999995,0.1538,0.1667
-2022-05-06 18:31:55.956741,Political Specials - Who will win the 2022 Georgia Republican gubernatorial nomination? - Outright,Brian Kemp,-0.014000000000000012,0.9091,0.9231
+2022-05-07 07:31:12.381944,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Jalen Tait,-0.014800000000000035,0.6078,0.6226
 2022-05-07 03:31:11.589199,NFL Specials - How Many Rookie Qbs Will Start Week 1 of the 2022/2023 NFL Season? - Outright,Over 0.5,-0.016100000000000003,0.5917,0.6078
-2022-05-06 19:30:44.872625,Boxing Lines - Joselito Velazquez vs Jose Soto - To Win the Bout,Joselito Velazquez,-0.017900000000000027,0.8571,0.875
-2022-05-06 18:31:56.078820,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Manuer A Matet,-0.018100000000000005,0.4167,0.4348
 2022-05-06 23:30:58.730070,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Jalen Tait,-0.019499999999999962,0.6296,0.6491
-2022-05-06 19:30:44.978854,BKFC 25 - Arnold Adams vs Dillon Cleckler - To Win the Bout,Arnold Adams,-0.02169999999999994,0.5238,0.5455
 2022-05-07 04:32:56.893347,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Roma,-0.02180000000000004,0.6078,0.6296
-2022-05-06 19:30:46.088565,CFL - Odds to win 109th (2022) Grey Cup - Outright,Calgary Stampeders,-0.023799999999999988,0.1429,0.1667
 2022-05-07 03:31:11.969501,Star Wars Specials - Will any of these characters appear in 'Ahsoka' on Disney+ - Outright,Sabe,-0.030299999999999994,0.3333,0.3636
 2022-05-06 21:30:40.473076,NCAA Football Specials - 2022-2023 Wins - Tennessee,Under 8,-0.043399999999999994,0.5122,0.5556
