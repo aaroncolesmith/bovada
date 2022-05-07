@@ -20,6 +20,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-06 18:31:57.706527,TV Specials - Characters to appear in the Friday Night Lights reboot - Proposition,Landry Clarke,0.013999999999999999,0.0909,0.0769
 2022-05-06 13:30:53.571876,NBA Specials - Where will James Harden play next season? - Outright,Field,0.013999999999999999,0.0909,0.0769
 2022-05-06 13:30:53.228500,NFL Specials - Will a Top 10 Pick win Offensive Rookie Of The Year - Outright,No,0.013700000000000045,0.7436,0.7299
+2022-05-07 00:30:39.802661,LKL - LKL 2021/22 - Outright,Rytas,0.0131,0.2353,0.2222
 2022-05-06 18:31:55.988286,Political Specials - Which Party will win the House in the 2022 Midterm Election? - Outright,Democratic,0.012899999999999995,0.1667,0.1538
 2022-05-06 19:30:44.872625,Boxing Lines - Joselito Velazquez vs Jose Soto - To Win the Bout,Jose Soto,0.012499999999999983,0.2105,0.198
 2022-05-06 18:31:55.956741,Political Specials - Who will win the 2022 Georgia Republican gubernatorial nomination? - Outright,David Perdue,0.011099999999999999,0.1111,0.1
@@ -33,8 +34,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-06 23:30:58.730070,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Jalen Tait,-0.019499999999999962,0.6296,0.6491
 2022-05-06 15:32:57.140538,BKFC 25 - Art Parker vs Warren Thompson - To Win the Bout,Art Parker,-0.02079999999999993,0.5348,0.5556
 2022-05-06 19:30:44.978854,BKFC 25 - Arnold Adams vs Dillon Cleckler - To Win the Bout,Arnold Adams,-0.02169999999999994,0.5238,0.5455
-2022-05-06 15:32:57.125404,BKFC 25 - Joshua Sanchez vs Levi Costa - To Win the Bout,Joshua Sanchez,-0.021699999999999997,0.4545,0.4762
 2022-05-06 15:32:57.108040,BKFC 25 - Henry Williams vs Sterling Lenz - To Win the Bout,Sterling Lenz,-0.021699999999999997,0.4545,0.4762
+2022-05-06 15:32:57.125404,BKFC 25 - Joshua Sanchez vs Levi Costa - To Win the Bout,Joshua Sanchez,-0.021699999999999997,0.4545,0.4762
 2022-05-06 13:30:54.302632,MLB Specials - How Many Times Will a Batter be Hit By a Pitch From May 9  to May 31 - Outright,Over 271.5,-0.022600000000000064,0.5122,0.5348
 2022-05-06 19:30:46.088565,CFL - Odds to win 109th (2022) Grey Cup - Outright,Calgary Stampeders,-0.023799999999999988,0.1429,0.1667
 2022-05-06 14:31:04.627125,Boxing Lines - Jalen Tait vs Manuer A Matet - To Win the Bout,Jalen Tait,-0.025599999999999956,0.6296,0.6552
