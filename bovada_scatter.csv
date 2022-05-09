@@ -28,7 +28,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-09 13:33:38.746441,NBA Season Props - 2021/22 Stage of Elimination - Miami Heat,Lose in the Conference Finals,0.0816,0.3846,0.303
 2022-05-09 11:30:53.463313,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Atlético Madrid,0.0786,0.9877,0.9091
 2022-05-09 09:32:40.916327,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Cagliari,0.07790000000000008,0.7143,0.6364
-2022-05-09 04:32:05.404270,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.07579999999999999,0.1667,0.0909
 2022-05-09 09:32:41.260448,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Arsenal,0.0635,0.7778,0.7143
 2022-05-09 13:33:38.735588,NBA Season Props - 2021/22 Stage of Elimination - Golden State Warriors,Win the NBA Championship,0.063,0.3333,0.2703
 2022-05-09 09:32:40.899546,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,RB Leipzig,0.06209999999999993,0.9852,0.9231
@@ -38,6 +37,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-09 13:33:38.766929,NBA Season Props - 2021/22 Stage of Elimination - Phoenix Suns,Lose in the NBA Finals,0.04849999999999999,0.1818,0.1333
 2022-05-09 09:32:41.248115,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,0.045499999999999985,0.5,0.4545
 2022-05-09 11:30:53.655399,League One - England League One 2021/22 - To Be Promoted,Wycombe,0.044399999999999995,0.4444,0.4
+2022-05-09 17:30:49.767129,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,George Kirby,0.0427,0.0526,0.0099
 2022-05-09 08:31:03.924847,England Championship - England Championship 21/22 - To Be Promoted,Sheffield United,0.04099999999999998,0.3077,0.2667
 2022-05-09 12:30:45.230998,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,MacKenzie Gore,0.0406,0.1739,0.1333
 2022-05-09 13:33:38.735588,NBA Season Props - 2021/22 Stage of Elimination - Golden State Warriors,Lose in the NBA Finals,0.04040000000000002,0.2222,0.1818
@@ -54,10 +54,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-09 11:30:51.191512,Japan B League - Japan League B1 2021/22 - Outright,Akita Northern Happinets,0.024600000000000004,0.0345,0.0099
 2022-05-09 13:33:38.746441,NBA Season Props - 2021/22 Stage of Elimination - Miami Heat,Lose in the NBA Finals,0.023799999999999988,0.1667,0.1429
 2022-05-09 11:30:53.499189,MLS - MLS Cup 2022 - Top Goalscorer,Jesus Ferreira,0.02310000000000001,0.1,0.0769
-2022-05-09 11:30:53.484982,MLS - MLS Cup 2022 - Outright,Los Angeles FC,0.022199999999999998,0.2222,0.2
 2022-05-09 08:31:03.924847,England Championship - England Championship 21/22 - To Be Promoted,Huddersfield Town,0.022199999999999998,0.2222,0.2
-2022-05-09 11:30:51.191512,Japan B League - Japan League B1 2021/22 - Outright,Kawasaki Brave Thunders,0.022199999999999998,0.2222,0.2
+2022-05-09 11:30:53.484982,MLS - MLS Cup 2022 - Outright,Los Angeles FC,0.022199999999999998,0.2222,0.2
 2022-05-09 09:32:41.241979,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Son-Heung Min,0.022199999999999998,0.1333,0.1111
+2022-05-09 11:30:51.191512,Japan B League - Japan League B1 2021/22 - Outright,Kawasaki Brave Thunders,0.022199999999999998,0.2222,0.2
 2022-05-09 07:30:49.292803,MLB Futures - MLB 2022 American League East - Outright,New York Yankees,0.021699999999999997,0.4762,0.4545
 2022-05-09 11:30:52.182989,NCAA Football Specials - 2022-2023 Wins - Florida,Over 7,0.02079999999999993,0.5556,0.5348
 2022-05-09 13:33:38.782858,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Possible Matchups,Bucks - Suns,0.02049999999999999,0.1538,0.1333
@@ -91,18 +91,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-09 11:30:51.233168,Serie A - Serie A 2021/22 - Outright,Derthona Basket Tortona,0.010100000000000001,0.0345,0.0244
 2022-05-09 09:32:41.241979,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Mohamed Salah,-0.010199999999999987,0.9231,0.9333
 2022-05-09 09:32:40.884184,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Martin Terrier,-0.0102,0.0667,0.0769
-2022-05-09 07:30:49.327965,MLB Futures - MLB 2022 National League West - Outright,San Diego Padres,-0.010499999999999982,0.2,0.2105
 2022-05-09 12:30:45.206706,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Jeremy Pena,-0.010499999999999982,0.2,0.2105
+2022-05-09 07:30:49.327965,MLB Futures - MLB 2022 National League West - Outright,San Diego Padres,-0.010499999999999982,0.2,0.2105
 2022-05-09 08:31:02.494981,Boxing Lines - Joshua Buatsi vs Richards Craig - To Win the Bout,Richards Craig,-0.010499999999999982,0.2,0.2105
 2022-05-09 07:30:49.301401,MLB Futures - MLB 2022 American League West - Outright,Seattle Mariners,-0.010899999999999993,0.1429,0.1538
-2022-05-09 11:30:53.484982,MLS - MLS Cup 2022 - Outright,Seattle Sounders,-0.011199999999999995,0.0476,0.0588
 2022-05-09 07:30:49.283698,MLB Futures - MLB 2022 American League Central - Outright,Detroit Tigers,-0.011199999999999995,0.0476,0.0588
+2022-05-09 11:30:53.484982,MLS - MLS Cup 2022 - Outright,Seattle Sounders,-0.011199999999999995,0.0476,0.0588
 2022-05-09 13:33:38.782858,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Possible Matchups,Heat - Grizzlies,-0.0114,0.0149,0.0263
 2022-05-09 07:30:49.265300,MLB Futures - MLB 2022 Amercian League - Outright,Toronto Blue Jays,-0.011700000000000016,0.2105,0.2222
 2022-05-09 06:30:55.729129,Boxing Lines - Jermall Charlo vs Brian Carlos Castano - To Win the Bout,Brian Carlos Castano,-0.012299999999999978,0.4132,0.4255
 2022-05-09 11:30:53.629234,Eredivisie - Eredivisie 2021/2022 - Outright,PSV Eindhoven,-0.0131,0.0345,0.0476
 2022-05-09 07:30:47.903302,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,-0.01319999999999999,0.25,0.2632
-2022-05-09 04:32:05.404270,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.013300000000000034,0.3571,0.3704
 2022-05-09 13:33:38.776982,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Heat to beat Warriors,-0.014399999999999996,0.0625,0.0769
 2022-05-09 09:32:39.642530,Boxing Lines - David Benavidez vs David Lemieux - To Win the Bout,David Lemieux,-0.01440000000000001,0.0909,0.1053
 2022-05-09 09:32:41.260448,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Chelsea,-0.014499999999999957,0.9756,0.9901
@@ -148,7 +147,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-09 13:33:38.776982,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Suns to beat Heat,-0.0625,0.0625,0.125
 2022-05-09 13:33:38.741054,NBA Season Props - 2021/22 Stage of Elimination - Memphis Grizzlies,Lose in the NBA Finals,-0.0655,0.0345,0.1
 2022-05-09 13:33:38.741054,NBA Season Props - 2021/22 Stage of Elimination - Memphis Grizzlies,Lose in the Conference Finals,-0.07069999999999999,0.1111,0.1818
-2022-05-09 04:32:05.404270,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.07190000000000002,0.2985,0.3704
 2022-05-09 13:33:38.730036,NBA Season Props - 2021/22 Stage of Elimination - Boston Celtics,Win the NBA Championship,-0.08330000000000001,0.125,0.2083
 2022-05-09 13:33:38.730036,NBA Season Props - 2021/22 Stage of Elimination - Boston Celtics,Lose in the Conference Finals,-0.10390000000000002,0.1818,0.2857
 2022-05-09 09:32:41.260448,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Tottenham Hotspur,-0.11430000000000001,0.2857,0.4
