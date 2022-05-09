@@ -1,63 +1,86 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-05-09 09:32:41.279516,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Leicester City,0.41669999999999996,0.6667,0.25
+2022-05-09 09:32:41.285957,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Everton,0.40590000000000004,0.9615,0.5556
+2022-05-09 09:32:41.248115,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Burnley,0.21610000000000007,0.5238,0.3077
+2022-05-09 09:32:40.878174,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Marseille,0.19049999999999995,0.6667,0.4762
+2022-05-09 09:32:41.279516,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Newcastle United,0.17089999999999994,0.9709,0.8
+2022-05-09 09:32:41.279516,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Brentford,0.12470000000000003,0.9709,0.8462
+2022-05-09 09:32:40.909559,Italy Serie A - Italy Serie A 2021/2022 - Outright,AC Milan,0.11109999999999998,0.6667,0.5556
+2022-05-09 09:32:40.890206,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Marseille,0.09719999999999995,0.875,0.7778
+2022-05-09 09:32:40.916327,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Cagliari,0.07790000000000008,0.7143,0.6364
 2022-05-09 04:32:05.404270,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Philadelphia 76ers,0.07579999999999999,0.1667,0.0909
-2022-05-08 20:32:00.670844,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.045499999999999985,0.5,0.4545
+2022-05-09 09:32:41.260448,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Arsenal,0.0635,0.7778,0.7143
+2022-05-09 09:32:40.899546,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,RB Leipzig,0.06209999999999993,0.9852,0.9231
+2022-05-09 09:32:41.266668,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Manchester United,0.05709999999999993,0.8571,0.8
+2022-05-09 09:32:41.248115,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,0.045499999999999985,0.5,0.4545
 2022-05-09 08:31:03.924847,England Championship - England Championship 21/22 - To Be Promoted,Sheffield United,0.04099999999999998,0.3077,0.2667
 2022-05-08 22:30:51.524241,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Memphis Grizzlies,0.0343,0.1176,0.0833
-2022-05-08 20:32:02.622815,Copa Libertadores - Copa Libertadores 2022 - Outright,Atlético Mineiro-MG,0.028700000000000003,0.2105,0.1818
+2022-05-09 09:32:41.295543,England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Kevin De Bruyne,0.028799999999999992,0.1538,0.125
 2022-05-09 07:30:48.003654,Boxing Lines - Harry Garside vs Layton McFerran - To Win the Bout,Harry Garside,0.026700000000000057,0.9091,0.8824
-2022-05-08 20:32:02.637430,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Racing Club,0.024299999999999995,0.0769,0.0526
+2022-05-09 09:32:41.241979,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Son-Heung Min,0.022199999999999998,0.1333,0.1111
 2022-05-09 08:31:03.924847,England Championship - England Championship 21/22 - To Be Promoted,Huddersfield Town,0.022199999999999998,0.2222,0.2
 2022-05-09 07:30:49.292803,MLB Futures - MLB 2022 American League East - Outright,New York Yankees,0.021699999999999997,0.4762,0.4545
 2022-05-08 22:30:51.509901,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Dallas Mavericks,0.0203,0.0526,0.0323
-2022-05-08 20:32:02.637430,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Santos,0.0203,0.0588,0.0385
 2022-05-09 00:32:46.694710,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.019600000000000006,0.3226,0.303
 2022-05-09 03:31:12.326111,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Philadelphia 76ers,0.019099999999999992,0.0667,0.0476
-2022-05-08 20:32:02.637430,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Liga de Quito,0.018200000000000004,0.0476,0.0294
+2022-05-09 09:32:41.254264,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Norwich City,0.018199999999999994,0.8182,0.8
 2022-05-09 07:30:48.010880,Boxing Lines - Nikita Tszyu vs Mason Smith - To Win the Bout,Nikita Tszyu,0.018100000000000005,0.9655,0.9474
 2022-05-08 22:30:51.509901,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.017299999999999982,0.303,0.2857
 2022-05-09 01:31:09.892874,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,0.016700000000000007,0.1,0.0833
 2022-05-09 07:30:49.301401,MLB Futures - MLB 2022 American League West - Outright,Houston Astros,0.01539999999999997,0.6154,0.6
-2022-05-08 20:32:02.622815,Copa Libertadores - Copa Libertadores 2022 - Outright,Estudiantes La Plata,0.015300000000000001,0.0588,0.0435
+2022-05-09 09:32:41.295543,England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Mohamed Salah,0.015100000000000002,0.8333,0.8182
 2022-05-09 08:31:03.924847,England Championship - England Championship 21/22 - To Be Promoted,Luton Town,0.015100000000000002,0.1818,0.1667
-2022-05-08 20:32:02.622815,Copa Libertadores - Copa Libertadores 2022 - Outright,Palmeiras-SP,0.015100000000000002,0.1818,0.1667
-2022-05-08 20:32:00.670844,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,0.014399999999999996,0.0769,0.0625
+2022-05-09 09:32:41.279516,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Wolverhampton Wanderers,0.014099999999999998,0.0385,0.0244
 2022-05-09 07:30:47.911111,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,0.013300000000000034,0.3704,0.3571
 2022-05-09 07:30:49.265300,MLB Futures - MLB 2022 Amercian League - Outright,Houston Astros,0.012899999999999995,0.1667,0.1538
 2022-05-09 06:30:54.516529,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.012199999999999989,0.5122,0.5
-2022-05-08 20:32:02.637430,Copa Sudamericana - Copa Sudamericana 2022 - Outright,FBC Melgar,0.012100000000000001,0.0244,0.0123
-2022-05-08 20:32:02.637430,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Unión La Calera,0.012100000000000001,0.0244,0.0123
 2022-05-09 07:30:47.918859,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.011600000000000055,0.5238,0.5122
 2022-05-09 06:30:55.746981,Boxing Lines - Joshua Buatsi vs Richards Craig - To Win the Bout,Richards Craig,0.01150000000000001,0.202,0.1905
 2022-05-09 06:30:54.516529,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,0.011099999999999999,0.1111,0.1
 2022-05-09 07:30:47.903302,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.010699999999999987,0.3333,0.3226
-2022-05-08 21:30:59.756835,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.010099999999999998,0.3226,0.3125
-2022-05-09 08:31:02.494981,Boxing Lines - Joshua Buatsi vs Richards Craig - To Win the Bout,Richards Craig,-0.010499999999999982,0.2,0.2105
+2022-05-09 09:32:41.241979,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Mohamed Salah,-0.010199999999999987,0.9231,0.9333
+2022-05-09 09:32:40.884184,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Martin Terrier,-0.0102,0.0667,0.0769
 2022-05-09 07:30:49.327965,MLB Futures - MLB 2022 National League West - Outright,San Diego Padres,-0.010499999999999982,0.2,0.2105
+2022-05-09 08:31:02.494981,Boxing Lines - Joshua Buatsi vs Richards Craig - To Win the Bout,Richards Craig,-0.010499999999999982,0.2,0.2105
 2022-05-09 07:30:49.301401,MLB Futures - MLB 2022 American League West - Outright,Seattle Mariners,-0.010899999999999993,0.1429,0.1538
-2022-05-08 20:32:02.637430,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Banfield,-0.0109,0.004,0.0149
 2022-05-09 07:30:49.283698,MLB Futures - MLB 2022 American League Central - Outright,Detroit Tigers,-0.011199999999999995,0.0476,0.0588
 2022-05-09 07:30:49.265300,MLB Futures - MLB 2022 Amercian League - Outright,Toronto Blue Jays,-0.011700000000000016,0.2105,0.2222
 2022-05-09 06:30:55.729129,Boxing Lines - Jermall Charlo vs Brian Carlos Castano - To Win the Bout,Brian Carlos Castano,-0.012299999999999978,0.4132,0.4255
-2022-05-08 20:32:02.637430,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Barcelona SC,-0.0131,0.0345,0.0476
 2022-05-09 07:30:47.903302,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,-0.01319999999999999,0.25,0.2632
 2022-05-09 04:32:05.404270,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.013300000000000034,0.3571,0.3704
-2022-05-08 20:32:02.622815,Copa Libertadores - Copa Libertadores 2022 - Outright,Athletico Paranaense-PR,-0.014099999999999998,0.0244,0.0385
+2022-05-09 09:32:39.642530,Boxing Lines - David Benavidez vs David Lemieux - To Win the Bout,David Lemieux,-0.01440000000000001,0.0909,0.1053
+2022-05-09 09:32:41.260448,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Chelsea,-0.014499999999999957,0.9756,0.9901
+2022-05-09 09:32:41.241979,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Cristiano Ronaldo,-0.014499999999999999,0.0149,0.0294
 2022-05-09 00:32:46.694710,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,-0.014600000000000002,0.2632,0.2778
 2022-05-09 07:30:49.292803,MLB Futures - MLB 2022 American League East - Outright,Tampa Bay Rays,-0.015100000000000002,0.1667,0.1818
 2022-05-09 06:30:55.746981,Boxing Lines - Joshua Buatsi vs Richards Craig - To Win the Bout,Joshua Buatsi,-0.015699999999999936,0.8667,0.8824
+2022-05-09 09:32:41.254264,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Watford,-0.016699999999999993,0.25,0.2667
 2022-05-09 07:30:49.310220,MLB Futures - MLB 2022 National League Central - Outright,Milwaukee Brewers,-0.016700000000000048,0.7333,0.75
 2022-05-09 07:30:49.301401,MLB Futures - MLB 2022 American League West - Outright,Los Angeles Angels,-0.017600000000000005,0.3333,0.3509
 2022-05-09 07:30:49.292803,MLB Futures - MLB 2022 American League East - Outright,Toronto Blue Jays,-0.018100000000000005,0.4167,0.4348
 2022-05-09 07:30:49.274680,MLB Futures - MLB 2022 National League - Outright,New York Mets,-0.01820000000000002,0.1818,0.2
-2022-05-08 20:32:02.622815,Copa Libertadores - Copa Libertadores 2022 - Outright,Independiente del Valle,-0.019600000000000003,0.0149,0.0345
-2022-05-08 20:32:00.649041,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,-0.020799999999999985,0.3125,0.3333
 2022-05-09 07:30:48.010880,Boxing Lines - Nikita Tszyu vs Mason Smith - To Win the Bout,Mason Smith,-0.024800000000000003,0.0833,0.1081
 2022-05-09 07:30:48.003654,Boxing Lines - Harry Garside vs Layton McFerran - To Win the Bout,Layton McFerran,-0.027999999999999997,0.1538,0.1818
 2022-05-09 03:31:12.326111,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.028799999999999992,0.125,0.1538
+2022-05-09 09:32:41.295543,England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Harry Kane,-0.0294,0.0294,0.0588
+2022-05-09 09:32:40.890206,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Rennes,-0.031799999999999995,0.4444,0.4762
+2022-05-09 09:32:41.266668,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,Wolverhampton Wanderers,-0.0319,0.0066,0.0385
+2022-05-09 09:32:40.890206,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Monaco,-0.035699999999999954,0.7143,0.75
 2022-05-08 22:30:51.524241,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,-0.0378,0.4167,0.4545
-2022-05-08 20:32:02.637430,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Everton Viña del Mar,-0.042600000000000006,0.005,0.0476
+2022-05-09 09:32:40.916327,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Genoa,-0.044399999999999995,0.8889,0.9333
+2022-05-09 09:32:41.266668,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,-0.044499999999999984,0.2222,0.2667
 2022-05-08 22:30:51.509901,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,-0.044800000000000006,0.2778,0.3226
-2022-05-08 20:32:00.670844,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Phoenix Suns,-0.045499999999999985,0.4545,0.5
+2022-05-09 09:32:40.916327,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Salernitana,-0.04760000000000003,0.4762,0.5238
+2022-05-09 09:32:40.878174,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Rennes,-0.05080000000000001,0.1818,0.2326
 2022-05-09 01:31:09.892874,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Memphis Grizzlies,-0.0509,0.0667,0.1176
 2022-05-09 04:32:05.404270,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.07190000000000002,0.2985,0.3704
-2022-05-08 20:32:02.637430,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Ayacucho FC,-0.198,0.002,0.2
+2022-05-09 09:32:41.260448,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Tottenham Hotspur,-0.11430000000000001,0.2857,0.4
+2022-05-09 09:32:40.878174,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Monaco,-0.1179,0.2667,0.3846
+2022-05-09 09:32:41.285957,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Burnley,-0.13670000000000004,0.5556,0.6923
+2022-05-09 09:32:40.909559,Italy Serie A - Italy Serie A 2021/2022 - Outright,Inter Milan,-0.13920000000000005,0.3846,0.5238
+2022-05-09 09:32:41.279516,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Aston Villa,-0.18180000000000007,0.6364,0.8182
+2022-05-09 09:32:41.279516,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Crystal Palace,-0.18180000000000007,0.6364,0.8182
+2022-05-09 09:32:40.899546,Germany Bundesliga - German Bundesliga 2021/22 - Top 4 Finish,Freiburg,-0.2024,0.0476,0.25
+2022-05-09 09:32:41.285957,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Stay Up,Leeds United,-0.2628999999999999,0.5833,0.8462
+2022-05-09 09:32:41.248115,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Everton,-0.2679,0.0769,0.3448
+2022-05-09 09:32:41.279516,England Premier League Season 2021/2022 - England Premier League 2021/22 - Bottom 10 Finish,Brighton & Hove Albion,-0.5111000000000001,0.2667,0.7778
