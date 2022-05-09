@@ -20,6 +20,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-09 09:32:41.248115,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,0.045499999999999985,0.5,0.4545
 2022-05-09 11:30:53.655399,League One - England League One 2021/22 - To Be Promoted,Wycombe,0.044399999999999995,0.4444,0.4
 2022-05-09 08:31:03.924847,England Championship - England Championship 21/22 - To Be Promoted,Sheffield United,0.04099999999999998,0.3077,0.2667
+2022-05-09 12:30:45.230998,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,MacKenzie Gore,0.0406,0.1739,0.1333
 2022-05-09 11:30:53.452940,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Levante,0.02969999999999995,0.9709,0.9412
 2022-05-09 09:32:41.295543,England Premier League Season 2021/2022 - England Premier League 2021/22 - PFA Player of the Year,Kevin De Bruyne,0.028799999999999992,0.1538,0.125
 2022-05-09 11:30:52.038889,NFL Specials - Will a Top 10 Pick win Offensive Rookie Of The Year - Outright,No,0.027800000000000047,0.7778,0.75
@@ -35,6 +36,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-09 11:30:52.182989,NCAA Football Specials - 2022-2023 Wins - Florida,Over 7,0.02079999999999993,0.5556,0.5348
 2022-05-09 00:32:46.694710,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.019600000000000006,0.3226,0.303
 2022-05-09 03:31:12.326111,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Philadelphia 76ers,0.019099999999999992,0.0667,0.0476
+2022-05-09 12:30:45.206706,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Bobby Witt Jr,0.01820000000000002,0.2,0.1818
+2022-05-09 12:30:45.206706,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Julio Rodriguez,0.01820000000000002,0.2,0.1818
 2022-05-09 09:32:41.254264,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Finish Bottom,Norwich City,0.018199999999999994,0.8182,0.8
 2022-05-09 07:30:48.010880,Boxing Lines - Nikita Tszyu vs Mason Smith - To Win the Bout,Nikita Tszyu,0.018100000000000005,0.9655,0.9474
 2022-05-09 01:31:09.892874,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Dallas Mavericks,0.016700000000000007,0.1,0.0833
@@ -55,6 +58,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-09 09:32:41.241979,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Mohamed Salah,-0.010199999999999987,0.9231,0.9333
 2022-05-09 09:32:40.884184,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Martin Terrier,-0.0102,0.0667,0.0769
 2022-05-09 08:31:02.494981,Boxing Lines - Joshua Buatsi vs Richards Craig - To Win the Bout,Richards Craig,-0.010499999999999982,0.2,0.2105
+2022-05-09 12:30:45.206706,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Jeremy Pena,-0.010499999999999982,0.2,0.2105
 2022-05-09 07:30:49.327965,MLB Futures - MLB 2022 National League West - Outright,San Diego Padres,-0.010499999999999982,0.2,0.2105
 2022-05-09 07:30:49.301401,MLB Futures - MLB 2022 American League West - Outright,Seattle Mariners,-0.010899999999999993,0.1429,0.1538
 2022-05-09 11:30:53.484982,MLS - MLS Cup 2022 - Outright,Seattle Sounders,-0.011199999999999995,0.0476,0.0588
