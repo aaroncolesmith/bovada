@@ -5,6 +5,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-10 11:30:56.993056,Premiership - Scottish Premiership 2021/22 - To Finish Bottom,Dundee FC,0.046599999999999975,0.999,0.9524
 2022-05-10 11:30:57.051099,Superettan - Swedish Superettan 2022 - Outright,Halmstads BK,0.045499999999999985,0.5,0.4545
 2022-05-10 06:30:48.717616,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.033299999999999996,0.5455,0.5122
+2022-05-10 17:32:04.589208,Boxing Lines - Angel Acosta vs Janiel Rivera - To Win the Bout,Angel Acosta,0.028200000000000003,0.9615,0.9333
 2022-05-10 14:31:18.310037,Boxing Lines - francis chua vs Hironori Mishiro - To Win the Bout,Hironori Mishiro,0.024500000000000077,0.9412,0.9167
 2022-05-10 12:31:06.654389,MLB Futures - MLB 2022 American League West - Outright,Los Angeles Angels,0.023799999999999988,0.3571,0.3333
 2022-05-10 11:30:57.051099,Superettan - Swedish Superettan 2022 - Outright,Östers IF,0.022199999999999998,0.2222,0.2
@@ -29,6 +30,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-10 08:30:51.438282,Boxing Lines - Paul Gallen vs Kris Terzievski - To Win the Bout,Kris Terzievski,-0.018100000000000005,0.4167,0.4348
 2022-05-10 12:31:06.773588,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Hunter Greene,-0.019800000000000005,0.0278,0.0476
 2022-05-10 06:30:48.702171,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,-0.021399999999999975,0.2564,0.2778
+2022-05-10 17:32:04.589208,Boxing Lines - Angel Acosta vs Janiel Rivera - To Win the Bout,Janiel Rivera,-0.023400000000000004,0.0909,0.1143
 2022-05-10 06:30:48.702171,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Memphis Grizzlies,-0.0236,0.0149,0.0385
 2022-05-10 11:30:57.051099,Superettan - Swedish Superettan 2022 - Outright,Skövde AIK,-0.027700000000000002,0.0556,0.0833
 2022-05-10 11:30:57.051099,Superettan - Swedish Superettan 2022 - Outright,Trelleborgs FF,-0.0347,0.0278,0.0625
