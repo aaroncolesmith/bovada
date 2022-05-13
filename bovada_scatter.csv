@@ -17,14 +17,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-12 14:31:03.496117,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Devin Booker,0.022199999999999998,0.2222,0.2
 2022-05-12 14:31:05.238243,NFL Specials - 2023 NFL Draft - 1st Overall Pick - Outright,Paris Johnson,0.0208,0.0833,0.0625
 2022-05-12 14:31:05.822170,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Chelsea,0.020399999999999974,0.996,0.9756
-2022-05-12 16:30:46.533904,Boxing Lines - William Zepeda vs Rene Alvarado - To Win the Bout,William Zepeda,0.019100000000000006,0.9524,0.9333
 2022-05-12 22:31:19.593426,Boxing Lines - Victor Morales Jr vs Alberto Torres - To Win the Bout,Victor Morales Jr,0.019100000000000006,0.9524,0.9333
+2022-05-12 16:30:46.533904,Boxing Lines - William Zepeda vs Rene Alvarado - To Win the Bout,William Zepeda,0.019100000000000006,0.9524,0.9333
 2022-05-12 16:30:46.518753,Boxing Lines - Kevin Gonzalez vs Emanuel Rivera - To Win the Bout,Kevin Gonzalez,0.018900000000000028,0.9804,0.9615
 2022-05-12 14:31:04.170184,MLB Futures - MLB 2022 American League East - Outright,New York Yankees,0.018100000000000005,0.5833,0.5652
 2022-05-12 14:31:05.238243,NFL Specials - 2023 NFL Draft - 1st Overall Pick - Outright,Hendon Hooker,0.012999999999999998,0.0294,0.0164
 2022-05-12 14:31:03.722337,Boxing Lines - Nathaniel Collins vs Jacob Robinson - To Win the Bout,Nathaniel Collins,0.012899999999999912,0.8462,0.8333
 2022-05-12 14:31:03.765548,Boxing Lines - Badou Jack vs Hany Atiyo - To Win the Bout,Hany Atiyo,0.012499999999999997,0.0625,0.05
 2022-05-12 15:30:45.952633,BKFC Fight Night: Omaha - Alonso Martinez vs Adalberto Serrano - To Win the Bout,Alonso Martinez,0.012400000000000078,0.8182,0.8058
+2022-05-13 02:30:52.671029,Boxing Lines - Delfine Persoon vs Elhem Mekhaled - To Win the Bout,Delfine Persoon,0.012299999999999978,0.8305,0.8182
 2022-05-12 14:31:05.245864,NFL Specials - How Many Rookie Qbs Will Start Week 1 of the 2022/2023 NFL Season? - Outright,Under 0.5,0.012199999999999989,0.5,0.4878
 2022-05-12 14:31:05.238243,NFL Specials - 2023 NFL Draft - 1st Overall Pick - Outright,CJ Stroud,0.01150000000000001,0.3448,0.3333
 2022-05-12 14:31:05.238243,NFL Specials - 2023 NFL Draft - 1st Overall Pick - Outright,Jaxon Smith-Njigba,0.011199999999999995,0.0588,0.0476
@@ -42,6 +43,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-12 16:30:46.568146,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Tervel Pulev,-0.01100000000000001,0.5238,0.5348
 2022-05-12 14:31:04.209221,MLB Futures - MLB 2022 National League East - Outright,Philadelphia Phillies,-0.011099999999999999,0.1,0.1111
 2022-05-12 23:30:57.841065,Boxing Lines - Naoya Inoue vs Nonito Donaire - To Win the Bout,Nonito Donaire,-0.011700000000000016,0.2105,0.2222
+2022-05-13 02:30:52.671029,Boxing Lines - Delfine Persoon vs Elhem Mekhaled - To Win the Bout,Elhem Mekhaled,-0.011899999999999994,0.2381,0.25
 2022-05-12 16:30:46.483158,Boxing Lines - Badou Jack vs Hany Atiyo - To Win the Bout,Hany Atiyo,-0.012499999999999997,0.05,0.0625
 2022-05-13 01:32:46.901356,Boxing Lines - Ryan Ford vs Bilal Laggoune - To Win the Bout,Ryan Ford,-0.0131,0.2899,0.303
 2022-05-12 14:31:03.496117,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,-0.01319999999999999,0.25,0.2632
