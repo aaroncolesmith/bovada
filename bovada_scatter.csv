@@ -1,21 +1,24 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-05-13 01:32:48.083513,NFL Specials - Where will Baker Mayfield Play Game 1 of the 2022/2023 NFL Season? - Outright,Houston Texans,0.1167,0.25,0.1333
 2022-05-12 14:31:05.816134,England Premier League Season 2021/2022 - England Premier League 2021/22 - To Be Relegated,Leeds United,0.0988,0.6226,0.5238
 2022-05-12 15:30:46.019432,BKFC Fight Night: Omaha - Dakota Cochrane vs Josh Dyer - To Win the Bout,Dakota Cochrane,0.07309999999999994,0.7222,0.6491
 2022-05-12 14:31:04.209221,MLB Futures - MLB 2022 National League East - Outright,Atlanta Braves,0.07189999999999996,0.2941,0.2222
 2022-05-12 14:31:03.496117,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Giannis Antetokounmpo,0.07069999999999999,0.1818,0.1111
 2022-05-12 14:31:04.182663,MLB Futures - MLB 2022 American League West - Outright,Houston Astros,0.056700000000000084,0.6721,0.6154
 2022-05-12 14:31:05.809839,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top Goalscorer,Son-Heung Min,0.049100000000000005,0.2309,0.1818
+2022-05-13 01:32:47.827913,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Jets,Under 5.5,0.03620000000000001,0.4444,0.4082
 2022-05-12 14:31:05.238243,NFL Specials - 2023 NFL Draft - 1st Overall Pick - Outright,Phil Jurkovec,0.0344,0.0588,0.0244
 2022-05-12 21:30:54.892241,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Denver Broncos,Under 10,0.033299999999999996,0.5455,0.5122
 2022-05-12 23:30:57.986563,BKFC Fight Night: Omaha - Dakota Cochrane vs Josh Dyer - To Win the Bout,Josh Dyer,0.03260000000000002,0.3774,0.3448
+2022-05-13 01:32:48.083513,NFL Specials - Where will Baker Mayfield Play Game 1 of the 2022/2023 NFL Season? - Outright,Seattle Seahawks,0.029299999999999993,0.2857,0.2564
 2022-05-12 14:31:05.238243,NFL Specials - 2023 NFL Draft - 1st Overall Pick - Outright,Will Levis,0.029299999999999993,0.0769,0.0476
 2022-05-12 14:31:04.157071,MLB Futures - MLB 2022 American League Central - Outright,Cleveland Guardians,0.0267,0.1176,0.0909
 2022-05-12 14:31:03.840650,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Tervel Pulev,0.022600000000000064,0.5348,0.5122
 2022-05-12 14:31:03.496117,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Devin Booker,0.022199999999999998,0.2222,0.2
 2022-05-12 14:31:05.238243,NFL Specials - 2023 NFL Draft - 1st Overall Pick - Outright,Paris Johnson,0.0208,0.0833,0.0625
 2022-05-12 14:31:05.822170,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 4 Finish,Chelsea,0.020399999999999974,0.996,0.9756
-2022-05-12 22:31:19.593426,Boxing Lines - Victor Morales Jr vs Alberto Torres - To Win the Bout,Victor Morales Jr,0.019100000000000006,0.9524,0.9333
 2022-05-12 16:30:46.533904,Boxing Lines - William Zepeda vs Rene Alvarado - To Win the Bout,William Zepeda,0.019100000000000006,0.9524,0.9333
+2022-05-12 22:31:19.593426,Boxing Lines - Victor Morales Jr vs Alberto Torres - To Win the Bout,Victor Morales Jr,0.019100000000000006,0.9524,0.9333
 2022-05-12 16:30:46.518753,Boxing Lines - Kevin Gonzalez vs Emanuel Rivera - To Win the Bout,Kevin Gonzalez,0.018900000000000028,0.9804,0.9615
 2022-05-12 14:31:04.170184,MLB Futures - MLB 2022 American League East - Outright,New York Yankees,0.018100000000000005,0.5833,0.5652
 2022-05-12 14:31:05.238243,NFL Specials - 2023 NFL Draft - 1st Overall Pick - Outright,Hendon Hooker,0.012999999999999998,0.0294,0.0164
@@ -26,17 +29,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-12 14:31:05.238243,NFL Specials - 2023 NFL Draft - 1st Overall Pick - Outright,CJ Stroud,0.01150000000000001,0.3448,0.3333
 2022-05-12 14:31:05.238243,NFL Specials - 2023 NFL Draft - 1st Overall Pick - Outright,Jaxon Smith-Njigba,0.011199999999999995,0.0588,0.0476
 2022-05-12 23:30:57.755226,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Tervel Pulev,0.01100000000000001,0.5348,0.5238
+2022-05-13 01:32:47.816527,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Giants,Over 7,0.01100000000000001,0.5348,0.5238
 2022-05-12 23:30:57.537050,Boxing Lines - Nathaniel Collins vs Jacob Robinson - To Win the Bout,Nathaniel Collins,0.01090000000000002,0.8571,0.8462
 2022-05-12 16:30:46.568146,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Sergey Kovalev,0.010699999999999932,0.5455,0.5348
 2022-05-12 14:31:04.222717,MLB Futures - MLB 2022 National League West - Outright,San Diego Padres,0.010499999999999982,0.2105,0.2
 2022-05-12 14:31:04.157071,MLB Futures - MLB 2022 American League Central - Outright,Chicago White Sox,-0.010099999999999998,0.5455,0.5556
 2022-05-12 23:30:57.801881,Boxing Lines - Gervonta Davis vs Rolando Romero - To Win the Bout,Gervonta Davis,-0.010199999999999987,0.9231,0.9333
+2022-05-13 01:32:46.827424,Boxing Lines - Nathaniel Collins vs Jacob Robinson - To Win the Bout,Jacob Robinson,-0.010499999999999982,0.2,0.2105
+2022-05-13 01:32:47.816527,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Giants,Under 7,-0.010699999999999932,0.5348,0.5455
 2022-05-12 14:31:05.238243,NFL Specials - 2023 NFL Draft - 1st Overall Pick - Outright,Bryce Young,-0.010699999999999987,0.3226,0.3333
 2022-05-12 23:30:57.814361,Boxing Lines - Stephen Fulton vs Daniel Roman - To Win the Bout,Stephen Fulton,-0.01090000000000002,0.8462,0.8571
 2022-05-12 16:30:46.568146,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Tervel Pulev,-0.01100000000000001,0.5238,0.5348
 2022-05-12 14:31:04.209221,MLB Futures - MLB 2022 National League East - Outright,Philadelphia Phillies,-0.011099999999999999,0.1,0.1111
 2022-05-12 23:30:57.841065,Boxing Lines - Naoya Inoue vs Nonito Donaire - To Win the Bout,Nonito Donaire,-0.011700000000000016,0.2105,0.2222
 2022-05-12 16:30:46.483158,Boxing Lines - Badou Jack vs Hany Atiyo - To Win the Bout,Hany Atiyo,-0.012499999999999997,0.05,0.0625
+2022-05-13 01:32:46.901356,Boxing Lines - Ryan Ford vs Bilal Laggoune - To Win the Bout,Ryan Ford,-0.0131,0.2899,0.303
 2022-05-12 14:31:03.496117,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,-0.01319999999999999,0.25,0.2632
 2022-05-12 15:30:45.952633,BKFC Fight Night: Omaha - Alonso Martinez vs Adalberto Serrano - To Win the Bout,Adalberto Serrano,-0.01319999999999999,0.25,0.2632
 2022-05-12 14:31:03.736526,Boxing Lines - Harlem Eubank vs Sean Dodd - To Win the Bout,Sean Dodd,-0.013899999999999996,0.129,0.1429
@@ -44,6 +51,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-12 14:31:04.222717,MLB Futures - MLB 2022 National League West - Outright,Colorado Rockies,-0.0145,0.0099,0.0244
 2022-05-12 14:31:05.238243,NFL Specials - 2023 NFL Draft - 1st Overall Pick - Outright,Will Anderson,-0.01469999999999999,0.2353,0.25
 2022-05-12 23:30:57.742527,Boxing Lines - Jermell Charlo vs Brian Carlos Castano - To Win the Bout,Jermell Charlo,-0.014900000000000024,0.6774,0.6923
+2022-05-13 01:32:48.083513,NFL Specials - Where will Baker Mayfield Play Game 1 of the 2022/2023 NFL Season? - Outright,Carolina Panthers,-0.016699999999999993,0.25,0.2667
 2022-05-12 14:31:04.157071,MLB Futures - MLB 2022 American League Central - Outright,Kansas City Royals,-0.0168,0.0217,0.0385
 2022-05-12 14:31:03.722337,Boxing Lines - Nathaniel Collins vs Jacob Robinson - To Win the Bout,Jacob Robinson,-0.01680000000000001,0.2105,0.2273
 2022-05-12 23:30:57.451554,Boxing Lines - Angel Acosta vs Janiel Rivera - To Win the Bout,Angel Acosta,-0.020299999999999985,0.9412,0.9615
@@ -52,6 +60,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-12 14:31:04.209221,MLB Futures - MLB 2022 National League East - Outright,Miami Marlins,-0.029299999999999993,0.0476,0.0769
 2022-05-12 14:31:05.238243,NFL Specials - 2023 NFL Draft - 1st Overall Pick - Outright,Tanner McKee,-0.031200000000000002,0.0164,0.0476
 2022-05-12 21:30:54.892241,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Denver Broncos,Over 10,-0.03179999999999994,0.5238,0.5556
+2022-05-13 01:32:48.083513,NFL Specials - Where will Baker Mayfield Play Game 1 of the 2022/2023 NFL Season? - Outright,Cleveland Browns,-0.032299999999999995,0.6552,0.6875
+2022-05-13 01:32:47.827913,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Jets,Over 5.5,-0.03259999999999996,0.6226,0.6552
 2022-05-12 14:31:04.170184,MLB Futures - MLB 2022 American League East - Outright,Toronto Blue Jays,-0.033399999999999985,0.3175,0.3509
 2022-05-12 14:31:05.829517,England Premier League Season 2021/2022 - England Premier League 2021/22 - Not To Finish in the Top 4,Chelsea,-0.0344,0.0244,0.0588
 2022-05-12 23:30:57.986563,BKFC Fight Night: Omaha - Dakota Cochrane vs Josh Dyer - To Win the Bout,Dakota Cochrane,-0.03469999999999995,0.6875,0.7222
