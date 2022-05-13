@@ -31,7 +31,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-13 06:30:47.305114,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Sergey Kovalev,0.02079999999999993,0.5556,0.5348
 2022-05-13 04:31:10.783844,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Green Bay Packers,Under 11,0.02079999999999993,0.5556,0.5348
 2022-05-13 07:30:44.370717,NBA Specials - Where will James Harden play next season? - James Harden Next Franchise?,Field,0.02020000000000001,0.1111,0.0909
-2022-05-12 22:31:19.593426,Boxing Lines - Victor Morales Jr vs Alberto Torres - To Win the Bout,Victor Morales Jr,0.019100000000000006,0.9524,0.9333
 2022-05-13 07:30:47.213966,Spain La Liga - Spain La Liga 2021/22 - To Be Relegated,Mallorca,0.016700000000000048,0.75,0.7333
 2022-05-13 06:30:45.728914,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Buffalo Bills,Over 11.5,0.01539999999999997,0.6154,0.6
 2022-05-13 08:30:54.661518,England Premier League Season 2021/2022 - England Premier League 2021/22 - Top 6 Finish,West Ham United,0.0131,0.2353,0.2222
@@ -40,36 +39,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-13 06:30:47.680477,MLB Futures - MLB 2022 National League - Outright,San Francisco Giants,0.011900000000000008,0.0952,0.0833
 2022-05-13 03:30:52.222723,Boxing Lines - Delfine Persoon vs Elhem Mekhaled - To Win the Bout,Elhem Mekhaled,0.011899999999999994,0.25,0.2381
 2022-05-13 04:31:10.844757,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Los Angeles Rams,Under 10.5,0.011600000000000055,0.5238,0.5122
-2022-05-13 09:30:52.955991,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Tervel Pulev,0.011600000000000055,0.5238,0.5122
-2022-05-13 07:30:44.802924,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Tervel Pulev,0.011600000000000055,0.5238,0.5122
 2022-05-13 06:30:45.787739,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Detroit Lions,Over 6.5,0.011600000000000055,0.5238,0.5122
-2022-05-12 23:30:57.755226,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Tervel Pulev,0.01100000000000001,0.5348,0.5238
-2022-05-13 01:32:47.816527,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Giants,Over 7,0.01100000000000001,0.5348,0.5238
+2022-05-13 07:30:44.802924,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Tervel Pulev,0.011600000000000055,0.5238,0.5122
+2022-05-13 09:30:52.955991,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Tervel Pulev,0.011600000000000055,0.5238,0.5122
 2022-05-13 06:30:47.113093,Boxing Lines - Linus Udofia vs Denzel Bentley - To Win the Bout,Linus Udofia,0.01100000000000001,0.5348,0.5238
+2022-05-12 23:30:57.755226,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Tervel Pulev,0.01100000000000001,0.5348,0.5238
 2022-05-13 06:30:45.763345,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Cincinnati Bengals,Over 10,0.01100000000000001,0.5348,0.5238
+2022-05-13 01:32:47.816527,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Giants,Over 7,0.01100000000000001,0.5348,0.5238
 2022-05-12 23:30:57.537050,Boxing Lines - Nathaniel Collins vs Jacob Robinson - To Win the Bout,Nathaniel Collins,0.01090000000000002,0.8571,0.8462
 2022-05-13 07:30:47.306142,Europa League - UEFA Europa League 2021/22 - Outright,Rangers,0.010099999999999998,0.4545,0.4444
 2022-05-13 08:30:52.466574,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Sergey Kovalev,0.010099999999999998,0.5556,0.5455
-2022-05-13 06:30:45.720931,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Baltimore Ravens,Under 9.5,-0.010099999999999998,0.4444,0.4545
 2022-05-13 07:30:47.476402,Superettan - Swedish Superettan 2022 - Outright,Skövde AIK,-0.010099999999999998,0.0455,0.0556
 2022-05-13 07:30:44.802924,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Sergey Kovalev,-0.010099999999999998,0.5455,0.5556
-2022-05-13 06:30:45.787739,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Detroit Lions,Under 6.5,-0.010099999999999998,0.5455,0.5556
+2022-05-13 06:30:45.720931,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Baltimore Ravens,Under 9.5,-0.010099999999999998,0.4444,0.4545
 2022-05-13 04:31:10.844757,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Los Angeles Rams,Over 10.5,-0.010099999999999998,0.5455,0.5556
+2022-05-13 06:30:45.787739,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Detroit Lions,Under 6.5,-0.010099999999999998,0.5455,0.5556
 2022-05-12 23:30:57.801881,Boxing Lines - Gervonta Davis vs Rolando Romero - To Win the Bout,Gervonta Davis,-0.010199999999999987,0.9231,0.9333
-2022-05-13 06:30:47.634342,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Atlanta Braves,-0.0102,0.0667,0.0769
 2022-05-13 03:30:51.164241,NFL Specials - Where will Baker Mayfield Play Game 1 of the 2022/2023 NFL Season? - Outright,Detroit Lions,-0.0102,0.0667,0.0769
+2022-05-13 06:30:47.634342,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Atlanta Braves,-0.0102,0.0667,0.0769
 2022-05-13 01:32:46.827424,Boxing Lines - Nathaniel Collins vs Jacob Robinson - To Win the Bout,Jacob Robinson,-0.010499999999999982,0.2,0.2105
 2022-05-13 06:30:45.728914,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Buffalo Bills,Under 11.5,-0.010599999999999998,0.4545,0.4651
-2022-05-13 06:30:45.763345,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Cincinnati Bengals,Under 10,-0.010699999999999932,0.5348,0.5455
-2022-05-13 01:32:47.816527,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Giants,Under 7,-0.010699999999999932,0.5348,0.5455
 2022-05-13 06:30:47.113093,Boxing Lines - Linus Udofia vs Denzel Bentley - To Win the Bout,Denzel Bentley,-0.010699999999999932,0.5348,0.5455
+2022-05-13 01:32:47.816527,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Giants,Under 7,-0.010699999999999932,0.5348,0.5455
+2022-05-13 06:30:45.763345,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Cincinnati Bengals,Under 10,-0.010699999999999932,0.5348,0.5455
 2022-05-13 08:30:52.365766,Boxing Lines - Tony Yoka vs Martin Bakole - To Win the Bout,Martin Bakole,-0.010800000000000004,0.2273,0.2381
 2022-05-12 23:30:57.814361,Boxing Lines - Stephen Fulton vs Daniel Roman - To Win the Bout,Stephen Fulton,-0.01090000000000002,0.8462,0.8571
 2022-05-13 08:30:52.466574,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Tervel Pulev,-0.011600000000000055,0.5122,0.5238
-2022-05-12 23:30:57.841065,Boxing Lines - Naoya Inoue vs Nonito Donaire - To Win the Bout,Nonito Donaire,-0.011700000000000016,0.2105,0.2222
 2022-05-13 06:30:47.680477,MLB Futures - MLB 2022 National League - Outright,New York Mets,-0.011700000000000016,0.2105,0.2222
-2022-05-13 05:31:05.257695,Boxing Lines - Delfine Persoon vs Elhem Mekhaled - To Win the Bout,Elhem Mekhaled,-0.011899999999999994,0.2381,0.25
+2022-05-12 23:30:57.841065,Boxing Lines - Naoya Inoue vs Nonito Donaire - To Win the Bout,Nonito Donaire,-0.011700000000000016,0.2105,0.2222
 2022-05-13 02:30:52.671029,Boxing Lines - Delfine Persoon vs Elhem Mekhaled - To Win the Bout,Elhem Mekhaled,-0.011899999999999994,0.2381,0.25
+2022-05-13 05:31:05.257695,Boxing Lines - Delfine Persoon vs Elhem Mekhaled - To Win the Bout,Elhem Mekhaled,-0.011899999999999994,0.2381,0.25
 2022-05-13 06:30:45.831892,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Las Vegas Raiders,Under 8.5,-0.012199999999999989,0.5,0.5122
 2022-05-13 06:30:45.862126,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Minnesota Vikings,Under 9,-0.012199999999999989,0.5,0.5122
 2022-05-13 03:30:52.222723,Boxing Lines - Delfine Persoon vs Elhem Mekhaled - To Win the Bout,Delfine Persoon,-0.012299999999999978,0.8182,0.8305
@@ -78,7 +77,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-13 07:30:47.425741,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Djurgårdens IF,-0.013999999999999999,0.0769,0.0909
 2022-05-13 07:30:47.476402,Superettan - Swedish Superettan 2022 - Outright,Norrby IF,-0.014099999999999998,0.0244,0.0385
 2022-05-13 09:30:52.955991,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Sergey Kovalev,-0.01429999999999998,0.5413,0.5556
-2022-05-12 22:31:19.593426,Boxing Lines - Victor Morales Jr vs Alberto Torres - To Win the Bout,Alberto Torres,-0.014299999999999993,0.1,0.1143
 2022-05-13 07:30:47.223439,Spain La Liga - Spain La Liga 2021/22 - Top 4 Finish,Sevilla,-0.014599999999999946,0.9804,0.995
 2022-05-12 23:30:57.742527,Boxing Lines - Jermell Charlo vs Brian Carlos Castano - To Win the Bout,Jermell Charlo,-0.014900000000000024,0.6774,0.6923
 2022-05-13 01:32:48.083513,NFL Specials - Where will Baker Mayfield Play Game 1 of the 2022/2023 NFL Season? - Outright,Carolina Panthers,-0.016699999999999993,0.25,0.2667
