@@ -14,8 +14,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-13 02:30:52.671029,Boxing Lines - Delfine Persoon vs Elhem Mekhaled - To Win the Bout,Delfine Persoon,0.012299999999999978,0.8305,0.8182
 2022-05-13 03:30:52.222723,Boxing Lines - Delfine Persoon vs Elhem Mekhaled - To Win the Bout,Elhem Mekhaled,0.011899999999999994,0.25,0.2381
 2022-05-13 04:31:10.844757,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Los Angeles Rams,Under 10.5,0.011600000000000055,0.5238,0.5122
-2022-05-13 01:32:47.816527,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Giants,Over 7,0.01100000000000001,0.5348,0.5238
 2022-05-12 23:30:57.755226,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Tervel Pulev,0.01100000000000001,0.5348,0.5238
+2022-05-13 01:32:47.816527,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Giants,Over 7,0.01100000000000001,0.5348,0.5238
 2022-05-12 23:30:57.537050,Boxing Lines - Nathaniel Collins vs Jacob Robinson - To Win the Bout,Nathaniel Collins,0.01090000000000002,0.8571,0.8462
 2022-05-13 04:31:10.844757,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Los Angeles Rams,Over 10.5,-0.010099999999999998,0.5455,0.5556
 2022-05-12 23:30:57.801881,Boxing Lines - Gervonta Davis vs Rolando Romero - To Win the Bout,Gervonta Davis,-0.010199999999999987,0.9231,0.9333
@@ -24,6 +24,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-13 01:32:47.816527,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Giants,Under 7,-0.010699999999999932,0.5348,0.5455
 2022-05-12 23:30:57.814361,Boxing Lines - Stephen Fulton vs Daniel Roman - To Win the Bout,Stephen Fulton,-0.01090000000000002,0.8462,0.8571
 2022-05-12 23:30:57.841065,Boxing Lines - Naoya Inoue vs Nonito Donaire - To Win the Bout,Nonito Donaire,-0.011700000000000016,0.2105,0.2222
+2022-05-13 05:31:05.257695,Boxing Lines - Delfine Persoon vs Elhem Mekhaled - To Win the Bout,Elhem Mekhaled,-0.011899999999999994,0.2381,0.25
 2022-05-13 02:30:52.671029,Boxing Lines - Delfine Persoon vs Elhem Mekhaled - To Win the Bout,Elhem Mekhaled,-0.011899999999999994,0.2381,0.25
 2022-05-13 03:30:52.222723,Boxing Lines - Delfine Persoon vs Elhem Mekhaled - To Win the Bout,Delfine Persoon,-0.012299999999999978,0.8182,0.8305
 2022-05-13 01:32:46.901356,Boxing Lines - Ryan Ford vs Bilal Laggoune - To Win the Bout,Ryan Ford,-0.0131,0.2899,0.303
