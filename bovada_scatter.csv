@@ -2,72 +2,99 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-14 09:31:07.011266,Eredivisie - Eredivisie 2021/2022 - To Be Relegated,Willem II,0.38089999999999996,0.8571,0.4762
 2022-05-14 06:30:50.702379,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,0.20950000000000002,0.4,0.1905
 2022-05-14 09:31:06.495062,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Monaco,0.14279999999999993,0.8571,0.7143
+2022-05-14 13:30:44.828785,NBA Season Props - 2021/22 NBA Conference Finals - Exact Result - Western Conference,Golden State Warriors beat Dallas Mavericks,0.13240000000000002,0.25,0.1176
 2022-05-14 06:30:49.932505,Juno Awards - Juno Awards 2022 - Album of the Year - Outright,"Justin Bieber, Justice",0.12079999999999996,0.5556,0.4348
 2022-05-14 08:30:57.499391,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Monaco,0.1179,0.3846,0.2667
+2022-05-14 13:30:44.815876,NBA Season Props - 2021/22 NBA Conference Finals - Exact Result - Eastern Conference,Miami Heat beat Boston Celtics,0.11109999999999998,0.3333,0.2222
+2022-05-14 13:30:44.815876,NBA Season Props - 2021/22 NBA Conference Finals - Exact Result - Eastern Conference,Boston Celtics beat Miami Heat,0.1068,0.3846,0.2778
 2022-05-14 06:30:50.688388,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,0.0905,0.1905,0.1
 2022-05-14 09:31:06.495062,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Marseille,0.07740000000000002,0.9524,0.875
 2022-05-14 09:31:06.495062,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Nice,0.0705,0.1538,0.0833
+2022-05-14 13:30:44.828785,NBA Season Props - 2021/22 NBA Conference Finals - Exact Result - Western Conference,Phoenix Suns beat Golden State Warriors,0.06670000000000004,0.4,0.3333
+2022-05-14 13:30:44.828785,NBA Season Props - 2021/22 NBA Conference Finals - Exact Result - Western Conference,Dallas Mavericks beat Golden State Warriors,0.061500000000000006,0.1,0.0385
 2022-05-14 06:30:50.717854,NBA Futures - 2022 NBA Western Conference - 2022 Western Conference - Conference Winner,Golden State Warriors,0.05449999999999999,0.6,0.5455
+2022-05-14 13:30:44.828785,NBA Season Props - 2021/22 NBA Conference Finals - Exact Result - Western Conference,Golden State Warriors beat Phoenix Suns,0.05409999999999998,0.3571,0.303
 2022-05-14 08:30:57.499391,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Rennes,0.05080000000000001,0.2326,0.1818
+2022-05-14 13:30:44.845510,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Warriors to beat Heat,0.04909999999999999,0.1667,0.1176
 2022-05-14 07:34:50.959894,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New Orleans Saints,Over 8,0.03959999999999997,0.5744,0.5348
+2022-05-14 13:30:44.864499,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jayson Tatum,0.037599999999999995,0.1429,0.1053
 2022-05-14 07:34:51.330400,NFL Futures - 2022/2023 Division Winner - NFC East - NFC East Winner,Philadelphia Eagles,0.03710000000000002,0.3448,0.3077
+2022-05-14 13:30:44.864499,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,0.03570000000000001,0.2857,0.25
+2022-05-14 13:30:44.864499,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jordan Poole,0.0334,0.0769,0.0435
 2022-05-14 07:34:51.305867,NFL Futures - 2022/2023 Division Winner - AFC South - AFC South Winner,Indianapolis Colts,0.03179999999999994,0.5556,0.5238
 2022-05-14 07:34:51.398179,NFL Futures - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Philadelphia Eagles,0.030699999999999998,0.0833,0.0526
 2022-05-14 06:30:50.688388,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.030299999999999994,0.3636,0.3333
 2022-05-14 09:31:06.944784,England Championship - England Championship 21/22 - To Be Promoted,Huddersfield Town,0.02779999999999999,0.25,0.2222
+2022-05-14 13:30:44.885140,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.02779999999999999,0.25,0.2222
 2022-05-14 10:30:50.228660,Boxing Lines - Ellis Zorro vs James Farrell - To Win the Bout,Ellis Zorro,0.02739999999999998,0.7333,0.7059
 2022-05-14 12:31:04.528292,Boxing Lines - David Benavidez vs David Lemieux - To Win the Bout,David Lemieux,0.0267,0.1176,0.0909
-2022-05-14 08:30:56.978993,Eurovision Song Contest - Eurovision 2022  - Eurovision 2022,Ukraine,0.025600000000000067,0.6923,0.6667
+2022-05-14 13:30:44.845510,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Heat to beat Warriors,0.0267,0.1176,0.0909
 2022-05-14 08:30:57.499391,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Marseille,0.025600000000000067,0.6923,0.6667
+2022-05-14 13:30:43.792837,Eurovision Song Contest - Eurovision 2022  - Eurovision 2022,Ukraine,0.025600000000000067,0.6923,0.6667
+2022-05-14 08:30:56.978993,Eurovision Song Contest - Eurovision 2022  - Eurovision 2022,Ukraine,0.025600000000000067,0.6923,0.6667
 2022-05-14 01:31:39.771114,Japan B League - Japan League B1 2021/22 - Outright,Okinawa Ryukyu,0.02560000000000001,0.3333,0.3077
 2022-05-14 07:34:51.367389,NFL Futures - 2022/2023 Division Winner - NFC West - NFC West Winner,San Francisco 49ers,0.02560000000000001,0.3704,0.3448
 2022-05-14 07:34:50.389516,MLB Futures - MLB 2022 American League East - Outright,New York Yankees,0.024499999999999966,0.6078,0.5833
+2022-05-14 13:30:44.864499,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jaylen Brown,0.023200000000000002,0.0476,0.0244
 2022-05-14 01:31:40.356841,Professional Baseball - NPB 2022 - Outright,Rakuten Golden Eagles,0.022199999999999998,0.2222,0.2
 2022-05-14 08:30:56.251451,Boxing Lines - Kubrat Pulev vs Jerry Forrest - To Win the Bout,Jerry Forrest,0.021999999999999964,0.3077,0.2857
 2022-05-14 08:30:56.035753,Super Ligi - Turkey BSL 2021/22 - Outright,Fenerbahce,0.021999999999999964,0.3077,0.2857
 2022-05-14 07:34:50.413419,MLB Futures - MLB 2022 National League Central - Outright,Milwaukee Brewers,0.021100000000000008,0.7647,0.7436
 2022-05-14 08:30:55.998187,Bundesliga - Bundesliga 2021/22 - Outright,ALBA Berlin,0.020699999999999996,0.4651,0.4444
+2022-05-14 13:30:44.864499,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Klay Thompson,0.018099999999999998,0.0526,0.0345
+2022-05-14 13:30:44.845510,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Heat to beat Mavericks,0.017400000000000002,0.0323,0.0149
 2022-05-14 08:30:55.998187,Bundesliga - Bundesliga 2021/22 - Outright,Telekom Baskets Bonn,0.016700000000000007,0.1,0.0833
-2022-05-14 08:30:56.017788,LKL - LKL 2021/22 - Outright,Rytas,0.016699999999999993,0.2667,0.25
 2022-05-14 11:31:19.412550,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Boston Celtics,0.016699999999999993,0.4167,0.4
+2022-05-14 08:30:56.017788,LKL - LKL 2021/22 - Outright,Rytas,0.016699999999999993,0.2667,0.25
 2022-05-14 09:31:02.390715,Boxing Lines - Kevin Gonzalez vs Emanuel Rivera - To Win the Bout,Emanuel Rivera,0.016600000000000004,0.0833,0.0667
 2022-05-14 01:31:39.771114,Japan B League - Japan League B1 2021/22 - Outright,Kawasaki Brave Thunders,0.015899999999999997,0.2381,0.2222
 2022-05-14 01:31:39.771114,Japan B League - Japan League B1 2021/22 - Outright,Chiba Jets Funabashi,0.015899999999999997,0.2381,0.2222
 2022-05-14 08:30:56.035753,Super Ligi - Turkey BSL 2021/22 - Outright,Pinar Karsiyaka,0.014499999999999999,0.0294,0.0149
+2022-05-14 13:30:44.864499,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Deandre Ayton,0.014400000000000003,0.0323,0.0179
 2022-05-14 08:30:57.505724,France Ligue 1 - France Ligue 1 2021/2022 - Top Goalscorer,Kylian Mbappe,0.014100000000000001,0.9756,0.9615
 2022-05-14 01:31:40.356841,Professional Baseball - NPB 2022 - Outright,Chunichi Dragons,0.013999999999999999,0.0909,0.0769
 2022-05-14 01:31:40.356841,Professional Baseball - NPB 2022 - Outright,Hiroshima Toyo Carp,0.013899999999999996,0.125,0.1111
+2022-05-14 13:30:44.815876,NBA Season Props - 2021/22 NBA Conference Finals - Exact Result - Eastern Conference,Milwaukee Bucks beat Miami Heat,0.013899999999999996,0.2222,0.2083
+2022-05-14 13:30:44.864499,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Bam Adebayo,0.0131,0.0476,0.0345
 2022-05-14 07:34:51.355099,NFL Futures - 2022/2023 Division Winner - NFC South - NFC South Winner,New Orleans Saints,0.0131,0.2353,0.2222
-2022-05-14 08:30:57.499391,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Nice,0.013,0.0196,0.0066
+2022-05-14 13:30:44.864499,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Draymond Green,0.0131,0.0476,0.0345
 2022-05-14 09:31:06.495062,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Strasbourg,0.013,0.0196,0.0066
+2022-05-14 08:30:57.499391,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Nice,0.013,0.0196,0.0066
 2022-05-14 11:31:19.270906,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Tervel Pulev,0.012199999999999989,0.5122,0.5
+2022-05-14 13:30:44.845510,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Mavericks to beat Heat,0.0118,0.0217,0.0099
 2022-05-14 07:34:51.281090,NFL Futures - 2022/2023 Division Winner - AFC East - AFC East Winner,Buffalo Bills,0.011499999999999955,0.6667,0.6552
+2022-05-14 13:30:44.845510,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Celtics to beat Mavericks,0.011399999999999997,0.0278,0.0164
 2022-05-14 07:34:50.424890,MLB Futures - MLB 2022 National League East - Outright,Philadelphia Phillies,0.011099999999999999,0.1111,0.1
 2022-05-14 09:31:02.295127,Boxing Lines - Sheldon McDonald vs Ryan Cotterell - To Win the Bout,Sheldon McDonald,0.010599999999999998,0.4651,0.4545
 2022-05-14 07:34:50.401100,MLB Futures - MLB 2022 American League West - Outright,Houston Astros,0.010399999999999965,0.6825,0.6721
 2022-05-14 10:30:50.543506,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Minnesota Twins,0.010100000000000001,0.0345,0.0244
 2022-05-14 07:34:51.367389,NFL Futures - 2022/2023 Division Winner - NFC West - NFC West Winner,Los Angeles Rams,-0.010099999999999998,0.4444,0.4545
-2022-05-14 03:30:49.929607,Boxing Lines - Marlon Tapales vs Jose Estrella - To Win the Bout,Jose Estrella,-0.0102,0.0667,0.0769
 2022-05-14 07:34:51.355099,NFL Futures - 2022/2023 Division Winner - NFC South - NFC South Winner,Carolina Panthers,-0.0102,0.0667,0.0769
+2022-05-14 03:30:49.929607,Boxing Lines - Marlon Tapales vs Jose Estrella - To Win the Bout,Jose Estrella,-0.0102,0.0667,0.0769
 2022-05-14 07:34:50.355079,MLB Futures - MLB 2022 Amercian League - Outright,Toronto Blue Jays,-0.010499999999999982,0.2,0.2105
 2022-05-14 10:30:50.252001,Boxing Lines - Sheldon McDonald vs Ryan Cotterell - To Win the Bout,Sheldon McDonald,-0.010599999999999998,0.4545,0.4651
 2022-05-14 07:34:51.422796,NFL Futures - SUPER BOWL 57 (2023) - Odds to Win - SUPER BOWL 57 (2023) - Odds to Win,Arizona Cardinals,-0.010700000000000001,0.0278,0.0385
 2022-05-14 08:30:56.978993,Eurovision Song Contest - Eurovision 2022  - Eurovision 2022,Sweden,-0.010899999999999993,0.1429,0.1538
 2022-05-14 08:30:55.998187,Bundesliga - Bundesliga 2021/22 - Outright,Bayern Munich,-0.011099999999999999,0.4651,0.4762
+2022-05-14 13:30:44.845510,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Suns to beat Bucks,-0.011199999999999995,0.0476,0.0588
+2022-05-14 13:30:44.845510,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Bucks to beat Suns,-0.011500000000000003,0.0385,0.05
 2022-05-14 11:31:19.412550,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.0116,0.4762,0.4878
-2022-05-14 08:30:55.998187,Bundesliga - Bundesliga 2021/22 - Outright,Brose Bamberg,-0.012100000000000001,0.0123,0.0244
+2022-05-14 13:30:44.845510,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Celtics to beat Suns,-0.011899999999999994,0.0714,0.0833
 2022-05-14 08:30:55.998187,Bundesliga - Bundesliga 2021/22 - Outright,BV Chemnitz 99,-0.012100000000000001,0.0123,0.0244
+2022-05-14 08:30:55.998187,Bundesliga - Bundesliga 2021/22 - Outright,Brose Bamberg,-0.012100000000000001,0.0123,0.0244
+2022-05-14 03:30:50.020845,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Tervel Pulev,-0.012199999999999989,0.5,0.5122
 2022-05-14 07:34:50.986684,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Philadelphia Eagles,Under 9,-0.012199999999999989,0.5,0.5122
 2022-05-14 07:34:50.941834,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Minnesota Vikings,Under 9,-0.012199999999999989,0.4878,0.5
-2022-05-14 03:30:50.020845,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Tervel Pulev,-0.012199999999999989,0.5,0.5122
 2022-05-14 06:30:50.702379,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.012199999999999989,0.4878,0.5
 2022-05-14 08:30:56.978993,Eurovision Song Contest - Eurovision 2022  - Eurovision 2022,United Kingdom,-0.012299999999999991,0.1053,0.1176
 2022-05-14 07:34:50.389516,MLB Futures - MLB 2022 American League East - Outright,Tampa Bay Rays,-0.012899999999999995,0.1538,0.1667
 2022-05-14 06:30:50.688388,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,-0.0131,0.2222,0.2353
 2022-05-14 07:34:51.342965,NFL Futures - 2022/2023 Division Winner - NFC North - NFC North Winner,Green Bay Packers,-0.013299999999999979,0.6296,0.6429
 2022-05-14 07:34:51.318382,NFL Futures - 2022/2023 Division Winner - AFC West - AFC West Winner,Kansas City Chiefs,-0.013800000000000034,0.3636,0.3774
-2022-05-14 07:34:51.398179,NFL Futures - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Dallas Cowboys,-0.01759999999999999,0.1,0.1176
+2022-05-14 13:30:44.845510,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Suns to beat Celtics,-0.01440000000000001,0.0909,0.1053
+2022-05-14 13:30:44.815876,NBA Season Props - 2021/22 NBA Conference Finals - Exact Result - Eastern Conference,Miami Heat beat Milwaukee Bucks,-0.015100000000000002,0.1667,0.1818
 2022-05-14 01:31:39.771114,Japan B League - Japan League B1 2021/22 - Outright,Alvark Tokyo,-0.01759999999999999,0.1,0.1176
+2022-05-14 07:34:51.398179,NFL Futures - 2022/2023 NFC Championship - Odds to win - NFC Conference Winner,Dallas Cowboys,-0.01759999999999999,0.1,0.1176
 2022-05-14 01:31:39.771114,Japan B League - Japan League B1 2021/22 - Outright,Nagoya Diamond Dolphins,-0.018099999999999998,0.0588,0.0769
 2022-05-14 07:34:51.380833,NFL Futures - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,New England Patriots,-0.018099999999999998,0.0345,0.0526
 2022-05-14 06:30:50.688388,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.01820000000000002,0.1818,0.2
@@ -86,8 +113,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-14 08:30:56.017788,LKL - LKL 2021/22 - Outright,Zalgiris,-0.025999999999999912,0.7143,0.7403
 2022-05-14 09:31:06.944784,England Championship - England Championship 21/22 - To Be Promoted,Luton Town,-0.027999999999999997,0.1538,0.1818
 2022-05-14 07:34:51.330400,NFL Futures - 2022/2023 Division Winner - NFC East - NFC East Winner,Dallas Cowboys,-0.031799999999999995,0.4444,0.4762
-2022-05-14 06:30:49.932505,Juno Awards - Juno Awards 2022 - Album of the Year - Outright,"JP Saxe, Dangerous Levels of Introspection",-0.033300000000000024,0.1667,0.2
 2022-05-14 07:34:51.281090,NFL Futures - 2022/2023 Division Winner - AFC East - AFC East Winner,New England Patriots,-0.033300000000000024,0.1667,0.2
+2022-05-14 06:30:49.932505,Juno Awards - Juno Awards 2022 - Album of the Year - Outright,"JP Saxe, Dangerous Levels of Introspection",-0.033300000000000024,0.1667,0.2
 2022-05-14 06:30:49.932505,Juno Awards - Juno Awards 2022 - Album of the Year - Outright,"Tate McRae, Too Young to Be Sad",-0.033300000000000024,0.1667,0.2
 2022-05-14 07:34:51.367389,NFL Futures - 2022/2023 Division Winner - NFC West - NFC West Winner,Arizona Cardinals,-0.0353,0.2,0.2353
 2022-05-14 07:34:51.305867,NFL Futures - 2022/2023 Division Winner - AFC South - AFC South Winner,Tennessee Titans,-0.03640000000000004,0.3636,0.4
@@ -95,6 +122,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-14 07:34:50.959894,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New Orleans Saints,Under 8,-0.04700000000000004,0.4878,0.5348
 2022-05-14 06:30:49.932505,Juno Awards - Juno Awards 2022 - Album of the Year - Outright,"Charlotte Cardin, Phoenix",-0.0562,0.2105,0.2667
 2022-05-14 09:31:07.011266,Eredivisie - Eredivisie 2021/2022 - To Be Relegated,Fortuna Sittard,-0.07450000000000001,0.4255,0.5
+2022-05-14 13:30:44.864499,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Giannis Antetokounmpo,-0.07500000000000001,0.125,0.2
 2022-05-14 06:30:50.688388,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Milwaukee Bucks,-0.0909,0.0909,0.1818
 2022-05-14 06:30:50.702379,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Milwaukee Bucks,-0.2,0.2,0.4
 2022-05-14 09:31:07.011266,Eredivisie - Eredivisie 2021/2022 - To Be Relegated,Sparta Rotterdam,-0.20450000000000002,0.25,0.4545
