@@ -10,9 +10,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-14 13:30:44.864499,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,0.03570000000000001,0.2857,0.25
 2022-05-14 13:30:44.864499,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jordan Poole,0.0334,0.0769,0.0435
 2022-05-14 13:30:44.885140,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Phoenix Suns,0.02779999999999999,0.25,0.2222
-2022-05-14 10:30:50.228660,Boxing Lines - Ellis Zorro vs James Farrell - To Win the Bout,Ellis Zorro,0.02739999999999998,0.7333,0.7059
-2022-05-14 13:30:44.845510,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Heat to beat Warriors,0.0267,0.1176,0.0909
 2022-05-14 12:31:04.528292,Boxing Lines - David Benavidez vs David Lemieux - To Win the Bout,David Lemieux,0.0267,0.1176,0.0909
+2022-05-14 13:30:44.845510,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Heat to beat Warriors,0.0267,0.1176,0.0909
 2022-05-14 13:30:43.792837,Eurovision Song Contest - Eurovision 2022  - Eurovision 2022,Ukraine,0.025600000000000067,0.6923,0.6667
 2022-05-14 16:31:22.107020,Boxing Lines - Ricky Reeves vs Anees Taj - To Win the Bout,Ricky Reeves,0.024399999999999977,0.5122,0.4878
 2022-05-14 16:31:22.342108,Boxing Lines - Jermell Charlo vs Brian Carlos Castano - To Win the Bout,Brian Carlos Castano,0.02360000000000001,0.4082,0.3846
@@ -26,15 +25,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-14 16:31:22.342108,Boxing Lines - Jermell Charlo vs Brian Carlos Castano - To Win the Bout,Jermell Charlo,0.014900000000000024,0.6923,0.6774
 2022-05-14 13:30:44.864499,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Deandre Ayton,0.014400000000000003,0.0323,0.0179
 2022-05-14 13:30:44.815876,NBA Season Props - 2021/22 NBA Conference Finals - Exact Result - Eastern Conference,Milwaukee Bucks beat Miami Heat,0.013899999999999996,0.2222,0.2083
-2022-05-14 13:30:44.864499,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Draymond Green,0.0131,0.0476,0.0345
 2022-05-14 13:30:44.864499,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Bam Adebayo,0.0131,0.0476,0.0345
+2022-05-14 13:30:44.864499,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Draymond Green,0.0131,0.0476,0.0345
 2022-05-14 11:31:19.270906,Boxing Lines - Sergey Kovalev vs Tervel Pulev - To Win the Bout,Tervel Pulev,0.012199999999999989,0.5122,0.5
 2022-05-14 19:31:32.019136,Boxing Lines - Tony Yoka vs Martin Bakole - To Win the Bout,Martin Bakole,0.011899999999999994,0.25,0.2381
 2022-05-14 13:30:44.845510,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Mavericks to beat Heat,0.0118,0.0217,0.0099
 2022-05-14 13:30:44.845510,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Celtics to beat Mavericks,0.011399999999999997,0.0278,0.0164
 2022-05-14 20:30:47.825290,Boxing Lines - Marlon Tapales vs Jose Estrella - To Win the Bout,Jose Estrella,0.0102,0.0769,0.0667
-2022-05-14 10:30:50.543506,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Minnesota Twins,0.010100000000000001,0.0345,0.0244
-2022-05-14 10:30:50.252001,Boxing Lines - Sheldon McDonald vs Ryan Cotterell - To Win the Bout,Sheldon McDonald,-0.010599999999999998,0.4545,0.4651
 2022-05-14 13:30:44.845510,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Suns to beat Bucks,-0.011199999999999995,0.0476,0.0588
 2022-05-14 13:30:44.845510,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Bucks to beat Suns,-0.011500000000000003,0.0385,0.05
 2022-05-14 11:31:19.412550,NBA Futures - 2022 NBA Eastern Conference - 2022 Eastern Conference - Conference Winner,Miami Heat,-0.0116,0.4762,0.4878
@@ -46,7 +43,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-14 16:31:22.107020,Boxing Lines - Ricky Reeves vs Anees Taj - To Win the Bout,Anees Taj,-0.01880000000000004,0.5556,0.5744
 2022-05-14 12:31:04.528292,Boxing Lines - David Benavidez vs David Lemieux - To Win the Bout,David Benavidez,-0.020299999999999985,0.9412,0.9615
 2022-05-14 19:31:32.019136,Boxing Lines - Tony Yoka vs Martin Bakole - To Win the Bout,Tony Yoka,-0.02210000000000001,0.8182,0.8403
-2022-05-14 10:30:50.228660,Boxing Lines - Ellis Zorro vs James Farrell - To Win the Bout,James Farrell,-0.023799999999999988,0.3333,0.3571
 2022-05-14 17:31:27.989060,Boxing Lines - Ellis Zorro vs James Farrell - To Win the Bout,James Farrell,-0.02560000000000001,0.3077,0.3333
 2022-05-14 15:31:53.027938,Professional Baseball - NPB 2022 - Outright,Yomiuri Giants,-0.03889999999999999,0.1429,0.1818
 2022-05-14 17:31:28.325890,Boxing Lines - Jermell Charlo vs Brian Carlos Castano - To Win the Bout,Brian Carlos Castano,-0.03920000000000001,0.369,0.4082
