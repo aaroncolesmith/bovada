@@ -6,6 +6,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-13 19:31:02.744948,BKFC Fight Night: Omaha - Dakota Cochrane vs Josh Dyer - To Win the Bout,Josh Dyer,0.03510000000000002,0.3922,0.3571
 2022-05-13 16:34:49.352922,BKFC Fight Night: Omaha - Dakota Cochrane vs Josh Dyer - To Win the Bout,Dakota Cochrane,0.03379999999999994,0.7059,0.6721
 2022-05-13 20:31:00.255470,BKFC Fight Night: Omaha - Sean Wilson vs Rocky Long - To Win the Bout,Sean Wilson,0.03169999999999995,0.8095,0.7778
+2022-05-13 23:35:09.666763,BKFC Fight Night: Omaha - Cody Land vs Will Shutt - To Win the Bout,Cody Land,0.029899999999999927,0.7222,0.6923
 2022-05-13 16:34:48.444485,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Calgary Stampeders,0.025300000000000003,0.1429,0.1176
 2022-05-13 20:31:00.230857,BKFC Fight Night: Omaha - Carlos Trinidad vs Tyler Jacques - To Win the Bout,Carlos Trinidad,0.021700000000000053,0.7778,0.7561
 2022-05-13 19:31:02.588569,Boxing Lines - Linus Udofia vs Denzel Bentley - To Win the Bout,Linus Udofia,0.02079999999999993,0.5556,0.5348
@@ -21,7 +22,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-13 16:34:49.340992,BKFC Fight Night: Omaha - Cody Land vs Will Shutt - To Win the Bout,Will Shutt,0.013300000000000034,0.3704,0.3571
 2022-05-13 16:34:49.288052,BKFC Fight Night: Omaha - Sean Wilson vs Rocky Long - To Win the Bout,Sean Wilson,0.0131,0.7778,0.7647
 2022-05-13 20:31:00.212572,BKFC Fight Night: Omaha - Charlie Dubray vs Emeka Ifekandu - To Win the Bout,Charlie Dubray,0.012700000000000045,0.6491,0.6364
-2022-05-13 11:30:56.329253,Boxing Lines - Badou Jack vs Hany Atiyo - To Win the Bout,Hany Atiyo,0.012499999999999997,0.0625,0.05
+2022-05-13 23:35:09.621513,BKFC Fight Night: Omaha - Carlos Trinidad vs Tyler Jacques - To Win the Bout,Carlos Trinidad,0.011699999999999933,0.7895,0.7778
 2022-05-13 17:32:12.655811,Boxing Lines - Hannah Rankin vs Alejandra Ayala - To Win the Bout,Hannah Rankin,0.011099999999999999,0.9,0.8889
 2022-05-13 13:30:59.859859,Boxing Lines - Brad Pauls vs Ryan Kelly - To Win the Bout,Ryan Kelly,0.011099999999999999,0.241,0.2299
 2022-05-13 13:31:01.540917,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jimmy Butler,0.010899999999999993,0.1538,0.1429
@@ -42,6 +43,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-13 13:30:59.859859,Boxing Lines - Brad Pauls vs Ryan Kelly - To Win the Bout,Brad Pauls,-0.020100000000000007,0.8261,0.8462
 2022-05-13 16:34:48.840838,Boxing Lines - Mary Romero vs Maria Cecchi - To Win the Bout,Maria Cecchi,-0.02360000000000001,0.3846,0.4082
 2022-05-13 16:34:48.444485,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Toronto Argonauts,-0.023799999999999988,0.1429,0.1667
+2022-05-13 23:35:09.666763,BKFC Fight Night: Omaha - Cody Land vs Will Shutt - To Win the Bout,Will Shutt,-0.02560000000000001,0.3448,0.3704
 2022-05-13 20:31:00.255470,BKFC Fight Night: Omaha - Sean Wilson vs Rocky Long - To Win the Bout,Rocky Long,-0.026000000000000023,0.2597,0.2857
 2022-05-13 19:31:02.744948,BKFC Fight Night: Omaha - Dakota Cochrane vs Josh Dyer - To Win the Bout,Dakota Cochrane,-0.03379999999999994,0.6721,0.7059
 2022-05-13 16:34:49.352922,BKFC Fight Night: Omaha - Dakota Cochrane vs Josh Dyer - To Win the Bout,Josh Dyer,-0.03510000000000002,0.3571,0.3922
