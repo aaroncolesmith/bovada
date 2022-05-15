@@ -1,8 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-15 09:30:51.866335,France Ligue 1 - France Ligue 1 2021/2022 - Winner without Paris Saint-Germain,Monaco,0.24500000000000005,0.6296,0.3846
 2022-05-15 09:30:52.040119,England Championship - England Championship 21/22 - To Be Promoted,Nottingham Forest,0.21539999999999998,0.6,0.3846
-2022-05-15 10:30:47.675954,MLS - MLS Cup 2022 - Top Goalscorer,Jesus Ferreira,0.1,0.2,0.1
 2022-05-15 09:30:51.875691,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Rennes,0.1,0.2667,0.1667
+2022-05-15 10:30:47.675954,MLS - MLS Cup 2022 - Top Goalscorer,Jesus Ferreira,0.1,0.2,0.1
 2022-05-15 09:30:52.137664,League Two - England League Two 2021/22 - To Be Promoted,Mansfield Town,0.09689999999999999,0.3636,0.2667
 2022-05-15 09:30:52.106364,Allsvenskan - Swedish Allsvenskan 2022 - Outright,AIK,0.07789999999999997,0.3636,0.2857
 2022-05-15 09:30:51.875691,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Monaco,0.07620000000000005,0.9333,0.8571
@@ -17,23 +17,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-15 01:30:45.709190,LKL - LKL 2021/22 - Outright,Rytas,0.04099999999999998,0.3077,0.2667
 2022-05-15 10:30:47.675954,MLS - MLS Cup 2022 - Top Goalscorer,Diego Rubio,0.028199999999999996,0.0667,0.0385
 2022-05-15 04:32:33.192558,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Seattle Seahawks,Over 5.5,0.026499999999999968,0.5917,0.5652
-2022-05-15 04:32:33.141022,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Minnesota Vikings,Under 9,0.024399999999999977,0.5122,0.4878
 2022-05-15 04:32:33.179852,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Pittsburgh Steelers,Under 7.5,0.024399999999999977,0.5122,0.4878
+2022-05-15 04:32:33.141022,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Minnesota Vikings,Under 9,0.024399999999999977,0.5122,0.4878
 2022-05-15 09:30:51.901538,Italy Serie A - Italy Serie A 2021/2022 - To Be Relegated,Salernitana,0.023799999999999988,0.5,0.4762
-2022-05-15 04:32:33.012215,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Arizona Cardinals,Under 9,0.023699999999999943,0.6154,0.5917
 2022-05-15 05:31:44.713389,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Atlanta Falcons,Under 5,0.023699999999999943,0.6154,0.5917
+2022-05-15 04:32:33.012215,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Arizona Cardinals,Under 9,0.023699999999999943,0.6154,0.5917
 2022-05-15 10:30:47.675954,MLS - MLS Cup 2022 - Top Goalscorer,Valentin Castellanos,0.02310000000000001,0.1,0.0769
-2022-05-15 10:30:47.663073,MLS - MLS Cup 2022 - Outright,FC Dallas,0.0203,0.0588,0.0385
 2022-05-15 01:30:46.223581,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Jahmyr Gibbs,0.0203,0.0526,0.0323
+2022-05-15 10:30:47.663073,MLS - MLS Cup 2022 - Outright,FC Dallas,0.0203,0.0588,0.0385
 2022-05-15 10:30:47.663073,MLS - MLS Cup 2022 - Outright,FC Cincinnati,0.019499999999999997,0.0294,0.0099
-2022-05-15 10:30:47.663073,MLS - MLS Cup 2022 - Outright,Portland Timbers,0.019099999999999992,0.0667,0.0476
 2022-05-15 10:30:47.675954,MLS - MLS Cup 2022 - Top Goalscorer,Ola Kamara,0.019099999999999992,0.0667,0.0476
+2022-05-15 10:30:47.663073,MLS - MLS Cup 2022 - Outright,Portland Timbers,0.019099999999999992,0.0667,0.0476
 2022-05-15 01:30:45.414713,Boxing Lines - Gilberto Ramirez vs Dominic Boesel - To Win the Bout,Gilberto Ramirez,0.018900000000000028,0.9804,0.9615
 2022-05-15 10:30:47.675954,MLS - MLS Cup 2022 - Top Goalscorer,Gyasi Zardes,0.0189,0.0385,0.0196
 2022-05-15 09:30:52.106364,Allsvenskan - Swedish Allsvenskan 2022 - Outright,BK Häcken,0.018200000000000004,0.0476,0.0294
 2022-05-15 08:31:18.792248,Boxing Lines - Joshua Buatsi vs Richards Craig - To Win the Bout,Richards Craig,0.018100000000000005,0.2222,0.2041
-2022-05-15 04:32:33.154915,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New Orleans Saints,Over 8,0.017299999999999982,0.5917,0.5744
 2022-05-15 04:32:33.213612,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Washington Commanders,Over 7.5,0.017299999999999982,0.5917,0.5744
+2022-05-15 04:32:33.154915,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New Orleans Saints,Over 8,0.017299999999999982,0.5917,0.5744
 2022-05-15 09:30:52.137664,League Two - England League Two 2021/22 - To Be Promoted,Port Vale,0.013600000000000001,0.3077,0.2941
 2022-05-15 04:32:33.085015,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Houston Texans,Over 4.5,0.011600000000000055,0.5238,0.5122
 2022-05-15 10:30:47.663073,MLS - MLS Cup 2022 - Outright,Orlando City,0.011199999999999995,0.0588,0.0476
@@ -50,8 +50,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-15 09:30:52.106364,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Mjällby AIF,-0.013,0.0066,0.0196
 2022-05-15 01:30:45.414713,Boxing Lines - Gilberto Ramirez vs Dominic Boesel - To Win the Bout,Dominic Boesel,-0.013999999999999999,0.0769,0.0909
 2022-05-15 10:30:47.663073,MLS - MLS Cup 2022 - Outright,Toronto FC,-0.014099999999999998,0.0244,0.0385
-2022-05-15 04:32:33.179852,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Pittsburgh Steelers,Over 7.5,-0.01880000000000004,0.5556,0.5744
 2022-05-15 04:32:33.141022,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Minnesota Vikings,Over 9,-0.01880000000000004,0.5556,0.5744
+2022-05-15 04:32:33.179852,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Pittsburgh Steelers,Over 7.5,-0.01880000000000004,0.5556,0.5744
 2022-05-15 08:31:18.792248,Boxing Lines - Joshua Buatsi vs Richards Craig - To Win the Bout,Joshua Buatsi,-0.020500000000000074,0.8462,0.8667
 2022-05-15 04:32:33.012215,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Arizona Cardinals,Over 9,-0.021699999999999997,0.4545,0.4762
 2022-05-15 05:31:44.713389,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Atlanta Falcons,Over 5,-0.021699999999999997,0.4545,0.4762
@@ -59,6 +59,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-15 04:32:33.192558,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Seattle Seahawks,Under 5.5,-0.023799999999999988,0.4762,0.5
 2022-05-15 10:30:47.675954,MLS - MLS Cup 2022 - Top Goalscorer,Javier Hernandez,-0.024999999999999994,0.1,0.125
 2022-05-15 09:30:51.875691,France Ligue 1 - France Ligue 1 2021/2022 - Top 3 Finish,Marseille,-0.029299999999999993,0.9231,0.9524
+2022-05-15 10:30:47.675954,MLS - MLS Cup 2022 - Top Goalscorer,Sebastian Driussi,-0.031799999999999995,0.1111,0.1429
 2022-05-15 10:30:47.675954,MLS - MLS Cup 2022 - Top Goalscorer,Jesus Jimenez,-0.031799999999999995,0.1111,0.1429
 2022-05-15 01:30:45.690474,Japan B League - Japan League B1 2021/22 - Outright,Nagoya Diamond Dolphins,-0.0392,0.0196,0.0588
 2022-05-15 10:30:47.663073,MLS - MLS Cup 2022 - Outright,Los Angeles FC,-0.04040000000000002,0.1818,0.2222
