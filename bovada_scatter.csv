@@ -13,12 +13,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-15 05:31:44.713389,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Atlanta Falcons,Under 5,0.023699999999999943,0.6154,0.5917
 2022-05-15 01:30:46.223581,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Jahmyr Gibbs,0.0203,0.0526,0.0323
 2022-05-15 01:30:45.414713,Boxing Lines - Gilberto Ramirez vs Dominic Boesel - To Win the Bout,Gilberto Ramirez,0.018900000000000028,0.9804,0.9615
+2022-05-15 08:31:18.792248,Boxing Lines - Joshua Buatsi vs Richards Craig - To Win the Bout,Richards Craig,0.018100000000000005,0.2222,0.2041
 2022-05-15 04:32:33.154915,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New Orleans Saints,Over 8,0.017299999999999982,0.5917,0.5744
 2022-05-15 04:32:33.213612,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Washington Commanders,Over 7.5,0.017299999999999982,0.5917,0.5744
-2022-05-14 19:31:32.019136,Boxing Lines - Tony Yoka vs Martin Bakole - To Win the Bout,Martin Bakole,0.011899999999999994,0.25,0.2381
 2022-05-15 04:32:33.085015,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Houston Texans,Over 4.5,0.011600000000000055,0.5238,0.5122
 2022-05-15 04:32:33.105802,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Kansas City Chiefs,Under 10.5,0.01100000000000001,0.5348,0.5238
-2022-05-14 20:30:47.825290,Boxing Lines - Marlon Tapales vs Jose Estrella - To Win the Bout,Jose Estrella,0.0102,0.0769,0.0667
 2022-05-15 05:31:44.718911,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Baltimore Ravens,Under 9.5,0.010099999999999998,0.4545,0.4444
 2022-05-15 04:32:33.085015,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Houston Texans,Under 4.5,-0.010099999999999998,0.5455,0.5556
 2022-05-15 04:32:33.105802,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Kansas City Chiefs,Over 10.5,-0.010699999999999932,0.5348,0.5455
@@ -29,9 +28,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-15 01:30:45.414713,Boxing Lines - Gilberto Ramirez vs Dominic Boesel - To Win the Bout,Dominic Boesel,-0.013999999999999999,0.0769,0.0909
 2022-05-15 04:32:33.141022,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Minnesota Vikings,Over 9,-0.01880000000000004,0.5556,0.5744
 2022-05-15 04:32:33.179852,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Pittsburgh Steelers,Over 7.5,-0.01880000000000004,0.5556,0.5744
+2022-05-15 08:31:18.792248,Boxing Lines - Joshua Buatsi vs Richards Craig - To Win the Bout,Joshua Buatsi,-0.020500000000000074,0.8462,0.8667
 2022-05-15 05:31:44.713389,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Atlanta Falcons,Over 5,-0.021699999999999997,0.4545,0.4762
 2022-05-15 04:32:33.012215,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Arizona Cardinals,Over 9,-0.021699999999999997,0.4545,0.4762
-2022-05-14 19:31:32.019136,Boxing Lines - Tony Yoka vs Martin Bakole - To Win the Bout,Tony Yoka,-0.02210000000000001,0.8182,0.8403
 2022-05-15 04:32:33.192558,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Seattle Seahawks,Under 5.5,-0.023799999999999988,0.4762,0.5
 2022-05-15 01:30:45.690474,Japan B League - Japan League B1 2021/22 - Outright,Nagoya Diamond Dolphins,-0.0392,0.0196,0.0588
 2022-05-15 04:32:33.134122,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Miami Dolphins,Over 9,-0.043399999999999994,0.5122,0.5556
