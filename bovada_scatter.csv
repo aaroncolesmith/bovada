@@ -3,6 +3,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-17 22:31:16.790525,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Liverpool,0.05679999999999999,0.1818,0.125
 2022-05-17 19:34:37.497621,MLB Futures - MLB 2022 American League West - ALW Winner,Houston Astros,0.05679999999999996,0.7059,0.6491
 2022-05-17 18:32:05.394542,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,0.043800000000000006,0.2105,0.1667
+2022-05-17 23:32:34.560323,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.04040000000000002,0.2222,0.1818
 2022-05-17 18:32:04.600489,The Walking Dead - How many Walkers will be killed in the final 8 episodes of The Walking Dead Season 11? - Outright,200+,0.034100000000000005,0.125,0.0909
 2022-05-17 18:32:05.394542,MLB Futures - MLB 2022 Amercian League - AL Winner,New York Yankees,0.031399999999999983,0.2667,0.2353
 2022-05-17 14:30:56.793994,Boxing Lines - Kerman Lejarraga vs James Metcalf - To Win the Bout,Kerman Lejarraga,0.030299999999999994,0.6667,0.6364
@@ -29,16 +30,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-17 18:32:05.291814,NCAA Football Specials - 2022-2023 Wins - Georgia ,Under 11.5,-0.0121,0.7101,0.7222
 2022-05-17 18:32:04.600489,The Walking Dead - How many Walkers will be killed in the final 8 episodes of The Walking Dead Season 11? - Outright,101-125,-0.012899999999999995,0.1538,0.1667
 2022-05-17 18:32:05.394542,MLB Futures - MLB 2022 Amercian League - AL Winner,Seattle Mariners,-0.0131,0.0345,0.0476
-2022-05-17 19:34:38.313773,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Ottawa Redblacks,-0.013999999999999999,0.0769,0.0909
 2022-05-17 19:34:37.497621,MLB Futures - MLB 2022 American League West - ALW Winner,Seattle Mariners,-0.013999999999999999,0.0769,0.0909
+2022-05-17 19:34:38.313773,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Ottawa Redblacks,-0.013999999999999999,0.0769,0.0909
 2022-05-17 12:31:05.507732,Europa League - UEFA Europa League 2021/22 - Outright,Rangers,-0.014600000000000002,0.4505,0.4651
 2022-05-17 19:34:37.869562,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Nikki Haley,-0.016700000000000007,0.0833,0.1
+2022-05-17 23:32:34.560323,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.018100000000000005,0.4167,0.4348
 2022-05-17 19:34:37.859297,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Alexandria Ocasio-Cortez,-0.018200000000000004,0.0294,0.0476
 2022-05-17 22:31:13.974363,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Winning Conference,Western Conference,-0.01970000000000005,0.5455,0.5652
 2022-05-17 13:30:59.046859,Video Game Specials - Which city will Grand Theft Auto 6 be based on? - Outright,London,-0.023799999999999988,0.1429,0.1667
 2022-05-17 19:34:38.313773,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Calgary Stampeders,-0.025300000000000003,0.1176,0.1429
 2022-05-17 14:30:56.793994,Boxing Lines - Kerman Lejarraga vs James Metcalf - To Win the Bout,James Metcalf,-0.025499999999999967,0.4,0.4255
 2022-05-17 19:34:37.505778,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,-0.028500000000000025,0.2941,0.3226
+2022-05-17 23:32:34.560323,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.032299999999999995,0.3125,0.3448
 2022-05-17 19:34:37.859297,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Kamala Harris,-0.03259999999999999,0.2,0.2326
 2022-05-17 19:34:37.521507,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,-0.03469999999999995,0.6875,0.7222
 2022-05-17 19:34:38.313773,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Winnipeg Blue Bombers,-0.03570000000000001,0.25,0.2857
