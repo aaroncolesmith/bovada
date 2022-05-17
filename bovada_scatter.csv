@@ -1,5 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-05-17 03:32:10.249635,LKL - LKL 2021/22 - Outright,Panevezio Lietkabelis,0.0596,0.1429,0.0833
 2022-05-17 14:30:56.793994,Boxing Lines - Kerman Lejarraga vs James Metcalf - To Win the Bout,Kerman Lejarraga,0.030299999999999994,0.6667,0.6364
 2022-05-17 09:31:20.281155,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Djurgårdens IF,0.02310000000000001,0.1,0.0769
 2022-05-17 12:31:05.507732,Europa League - UEFA Europa League 2021/22 - Outright,Eintracht Frankfurt,0.013499999999999956,0.5968,0.5833
@@ -11,8 +10,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-17 14:30:56.793994,Boxing Lines - Kerman Lejarraga vs James Metcalf - To Win the Bout,James Metcalf,-0.025499999999999967,0.4,0.4255
 2022-05-17 09:31:20.281155,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,-0.03640000000000004,0.3636,0.4
 2022-05-17 08:30:43.795498,England Championship - England Championship 21/22 - To Be Promoted,Huddersfield Town,-0.044399999999999995,0.4,0.4444
-2022-05-17 14:30:56.063384,Business Propositions - What will be the next big US restaurant to open in Canada - Proposition,Steak 'n Shake,-0.0635,0.2222,0.2857
 2022-05-17 14:30:56.063384,Business Propositions - What will be the next big US restaurant to open in Canada - Proposition,Bojangles,-0.0635,0.2222,0.2857
+2022-05-17 14:30:56.063384,Business Propositions - What will be the next big US restaurant to open in Canada - Proposition,Steak 'n Shake,-0.0635,0.2222,0.2857
 2022-05-17 13:30:59.046859,Video Game Specials - Which city will Grand Theft Auto 6 be based on? - Outright,Miami,-0.09999999999999998,0.4,0.5
 2022-05-17 13:30:59.046859,Video Game Specials - Which city will Grand Theft Auto 6 be based on? - Outright,New York,-0.11430000000000001,0.2857,0.4
 2022-05-17 14:30:56.063384,Business Propositions - What will be the next big US restaurant to open in Canada - Proposition,Shake Shack,-0.11900000000000002,0.1667,0.2857
