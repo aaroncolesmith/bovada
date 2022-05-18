@@ -5,18 +5,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-18 10:30:45.411431,MLB Futures - MLB 2022 Player Awards - American League MVP,Shohei Ohtani,0.0726,0.3226,0.25
 2022-05-18 10:30:45.411431,MLB Futures - MLB 2022 Player Awards - American League MVP,Aaron Judge,0.06669999999999998,0.1667,0.1
 2022-05-18 00:31:23.626196,NBA Specials - 2022 NBA Draft - 1st Overall Pick,Chet Holmgren,0.05980000000000002,0.4444,0.3846
-2022-05-17 22:31:16.790525,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Liverpool,0.05679999999999999,0.1818,0.125
 2022-05-18 07:32:56.307838,England Championship - England Championship 21/22 - To Be Promoted,Nottingham Forest,0.05280000000000007,0.6528,0.6
 2022-05-18 09:31:29.612713,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.044499999999999984,0.2667,0.2222
-2022-05-17 23:32:34.560323,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.04040000000000002,0.2222,0.1818
 2022-05-18 00:31:24.062755,KBO League - KBO League 2022 - Outright,Samsung Lions,0.03420000000000001,0.1111,0.0769
-2022-05-17 22:31:13.974363,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Winning Conference,Eastern Conference,0.023800000000000043,0.5238,0.5
 2022-05-18 10:30:44.947152,Boxing Lines - Stephen Fulton vs Daniel Roman - To Win the Bout,Stephen Fulton,0.020500000000000074,0.8667,0.8462
 2022-05-18 10:30:45.411431,MLB Futures - MLB 2022 Player Awards - American League MVP,Byron Buxton,0.02020000000000001,0.1111,0.0909
 2022-05-18 07:32:53.272907,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.019699999999999995,0.4545,0.4348
 2022-05-18 00:31:23.383221,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.018100000000000005,0.4348,0.4167
 2022-05-18 00:31:24.062755,KBO League - KBO League 2022 - Outright,Kia Tigers,0.016600000000000004,0.0833,0.0667
 2022-05-18 00:31:24.062755,KBO League - KBO League 2022 - Outright,LG Twins,0.013899999999999996,0.125,0.1111
+2022-05-18 11:33:19.559406,LKL - LKL 2021/22 - Outright,Rytas,0.013600000000000001,0.3077,0.2941
 2022-05-18 08:31:31.375280,Boxing Lines - Naoya Inoue vs Nonito Donaire - To Win the Bout,Nonito Donaire,0.012499999999999983,0.2105,0.198
 2022-05-18 09:31:28.961006,Boxing Lines - Stephen Fulton vs Daniel Roman - To Win the Bout,Daniel Roman,0.011700000000000016,0.2222,0.2105
 2022-05-18 10:30:45.411431,MLB Futures - MLB 2022 Player Awards - American League MVP,Carlos Correa,0.011200000000000002,0.0244,0.0132
@@ -24,12 +22,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-18 07:32:53.962851,Boxing Lines - David Benavidez vs David Lemieux - To Win the Bout,David Benavidez,0.011199999999999988,0.9524,0.9412
 2022-05-18 07:32:56.068603,Europa League - UEFA Europa League 2021/22 - Outright,Eintracht Frankfurt,0.01100000000000001,0.6078,0.5968
 2022-05-18 07:32:54.022049,Boxing Lines - Stephen Fulton vs Daniel Roman - To Win the Bout,Stephen Fulton,0.01090000000000002,0.8571,0.8462
+2022-05-18 11:33:19.559406,LKL - LKL 2021/22 - Outright,Panevezio Lietkabelis,0.010899999999999993,0.1538,0.1429
 2022-05-18 10:30:45.411431,MLB Futures - MLB 2022 Player Awards - American League MVP,Yordan Álvarez,0.010700000000000001,0.0385,0.0278
 2022-05-18 09:31:28.947605,Boxing Lines - Gervonta Davis vs Rolando Romero - To Win the Bout,Gervonta Davis,0.010199999999999987,0.9333,0.9231
 2022-05-18 09:31:29.612713,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.010099999999999998,0.4444,0.4545
 2022-05-18 05:33:16.039807,NBA Specials - 2022 NBA Draft - 1st Overall Pick,Jabari Smith,-0.010099999999999998,0.5455,0.5556
-2022-05-18 08:31:31.341406,Boxing Lines - Gervonta Davis vs Rolando Romero - To Win the Bout,Gervonta Davis,-0.010199999999999987,0.9231,0.9333
 2022-05-18 10:30:44.915775,Boxing Lines - Zhanibek Alimkhanuly vs Danny Dignum - To Win the Bout,Zhanibek Alimkhanuly,-0.010199999999999987,0.9231,0.9333
+2022-05-18 08:31:31.341406,Boxing Lines - Gervonta Davis vs Rolando Romero - To Win the Bout,Gervonta Davis,-0.010199999999999987,0.9231,0.9333
 2022-05-18 07:32:53.942903,Boxing Lines - Joshua Buatsi vs Richards Craig - To Win the Bout,Richards Craig,-0.010499999999999982,0.2,0.2105
 2022-05-18 07:32:53.272907,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Dallas Mavericks,-0.010899999999999993,0.1429,0.1538
 2022-05-18 09:31:28.961006,Boxing Lines - Stephen Fulton vs Daniel Roman - To Win the Bout,Stephen Fulton,-0.01090000000000002,0.8462,0.8571
@@ -38,16 +37,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-18 03:32:35.969016,NBA Specials - 2022 NBA Draft - 1st Overall Pick,Jaden Ivey,-0.014099999999999998,0.0294,0.0435
 2022-05-18 10:30:44.947152,Boxing Lines - Stephen Fulton vs Daniel Roman - To Win the Bout,Daniel Roman,-0.016000000000000014,0.2062,0.2222
 2022-05-18 07:32:53.272907,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.01629999999999998,0.2778,0.2941
-2022-05-17 23:32:34.560323,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.018100000000000005,0.4167,0.4348
 2022-05-18 00:31:23.383221,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.018400000000000027,0.2941,0.3125
 2022-05-18 10:30:44.811918,Boxing Lines - Joshua Frankham vs Des Newton - To Win the Bout,Joshua Frankham,-0.01969999999999994,0.9655,0.9852
-2022-05-17 22:31:13.974363,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Winning Conference,Western Conference,-0.01970000000000005,0.5455,0.5652
 2022-05-18 10:30:45.411431,MLB Futures - MLB 2022 Player Awards - American League MVP,Jose Ramirez,-0.0242,0.0667,0.0909
 2022-05-18 00:31:24.062755,KBO League - KBO League 2022 - Outright,Lotte Giants,-0.024999999999999994,0.1,0.125
 2022-05-18 09:31:29.612713,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.02779999999999999,0.25,0.2778
-2022-05-17 23:32:34.560323,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.032299999999999995,0.3125,0.3448
-2022-05-17 22:31:16.790525,England Premier League Season 2021/2022 - England Premier League 2021/22 - Outright,Manchester City,-0.04810000000000003,0.875,0.9231
 2022-05-18 00:31:23.626196,NBA Specials - 2022 NBA Draft - 1st Overall Pick,Paolo Banchero,-0.04999999999999999,0.2,0.25
 2022-05-18 10:30:45.411431,MLB Futures - MLB 2022 Player Awards - American League MVP,Vladimir Guerrero Jr,-0.05679999999999999,0.125,0.1818
 2022-05-18 00:31:23.626196,NBA Specials - 2022 NBA Draft - 1st Overall Pick,Jabari Smith,-0.05870000000000003,0.4651,0.5238
 2022-05-18 03:32:35.969016,NBA Specials - 2022 NBA Draft - 1st Overall Pick,Chet Holmgren,-0.08080000000000004,0.3636,0.4444
+2022-05-18 11:33:19.559406,LKL - LKL 2021/22 - Outright,Zalgiris,-0.0917,0.6226,0.7143
