@@ -1,48 +1,38 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-18 23:30:56.967523,LNB Pro A - LNB Pro A 2021/22 - Outright,ASVEL Lyon-Villeurbanne,0.09740000000000004,0.4545,0.3571
-2022-05-18 20:31:12.914430,NBA Specials - Where will DeAndre Ayton play next season? - DeAndre Ayton Next Franchise?,Indiana Pacers,0.0898,0.1333,0.0435
-2022-05-18 20:31:12.914430,NBA Specials - Where will DeAndre Ayton play next season? - DeAndre Ayton Next Franchise?,Detroit Pistons,0.08979999999999999,0.1667,0.0769
-2022-05-18 20:31:12.914430,NBA Specials - Where will DeAndre Ayton play next season? - DeAndre Ayton Next Franchise?,Charlotte Hornets,0.06180000000000001,0.1053,0.0435
-2022-05-18 20:31:12.914430,NBA Specials - Where will DeAndre Ayton play next season? - DeAndre Ayton Next Franchise?,San Antonio Spurs,0.0577,0.1053,0.0476
 2022-05-19 05:32:15.144852,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.057699999999999974,0.5122,0.4545
 2022-05-19 07:31:34.581885,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,0.05070000000000002,0.3448,0.2941
-2022-05-18 20:31:12.914430,NBA Specials - Where will DeAndre Ayton play next season? - DeAndre Ayton Next Franchise?,Houston Rockets,0.047099999999999996,0.0667,0.0196
 2022-05-19 07:31:34.529239,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,0.036900000000000044,0.7143,0.6774
 2022-05-19 07:31:34.424607,MLB Futures - MLB 2022 Amercian League - AL Winner,Los Angeles Angels,0.033299999999999996,0.1333,0.1
 2022-05-19 05:32:12.835363,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Houston Texans,Over 4.5,0.03179999999999994,0.5556,0.5238
 2022-05-19 07:31:34.607839,MLB Futures - MLB 2022 National League East - NLE Winner,Philadelphia Phillies,0.028799999999999992,0.1538,0.125
 2022-05-18 21:31:28.310897,NBA Specials - Where will DeAndre Ayton play next season? - DeAndre Ayton Next Franchise?,Charlotte Hornets,0.027999999999999997,0.1333,0.1053
-2022-05-19 05:32:12.959577,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Las Vegas Raiders,Over 8.5,0.026499999999999968,0.5917,0.5652
 2022-05-19 05:32:13.249670,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Philadelphia Eagles,Over 9,0.026499999999999968,0.5917,0.5652
+2022-05-19 05:32:12.959577,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Las Vegas Raiders,Over 8.5,0.026499999999999968,0.5917,0.5652
 2022-05-19 01:30:52.403659,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.019699999999999995,0.4545,0.4348
 2022-05-18 23:30:55.083483,Boxing Lines - Meng Fanlong vs Jean Pascal - To Win the Bout,Meng Fanlong,0.018999999999999906,0.7333,0.7143
-2022-05-18 20:31:13.460606,Boxing Lines - Chantelle Cameron vs Victoria Noelia Bustos - To Win the Bout,Chantelle Cameron,0.018900000000000028,0.9804,0.9615
-2022-05-18 20:31:13.448711,Boxing Lines - Alen Babic vs Adam Balski - To Win the Bout,Alen Babic,0.018900000000000028,0.8403,0.8214
 2022-05-19 05:32:12.724849,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Dallas Cowboys,Under 10.5,0.017299999999999982,0.5917,0.5744
 2022-05-18 21:31:28.310897,NBA Specials - Where will DeAndre Ayton play next season? - DeAndre Ayton Next Franchise?,New York Knicks,0.014099999999999998,0.0385,0.0244
-2022-05-18 23:30:56.990506,Bundesliga - Bundesliga 2021/22 - Outright,MHP Riesen Ludwigsburg,0.013999999999999999,0.0909,0.0769
 2022-05-18 23:30:57.050560,Super Ligi - Turkey BSL 2021/22 - Outright,Galatasaray SK,0.013999999999999999,0.0909,0.0769
+2022-05-18 23:30:56.990506,Bundesliga - Bundesliga 2021/22 - Outright,MHP Riesen Ludwigsburg,0.013999999999999999,0.0909,0.0769
 2022-05-18 23:30:57.050560,Super Ligi - Turkey BSL 2021/22 - Outright,Darüssafaka Dogus,0.0102,0.0769,0.0667
 2022-05-19 07:31:34.396872,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Atlanta Braves,0.0102,0.0769,0.0667
 2022-05-19 05:32:16.918873,Boxing Lines - Ellie Scotney vs Maria Cecilia Roman - To Win the Bout,Ellie Scotney,0.010099999999999998,0.8889,0.8788
-2022-05-19 07:31:34.396872,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Houston Astros,-0.011099999999999999,0.1,0.1111
 2022-05-19 05:32:13.150731,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New Orleans Saints,Under 8,-0.011099999999999999,0.4651,0.4762
+2022-05-19 07:31:34.396872,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Houston Astros,-0.011099999999999999,0.1,0.1111
 2022-05-19 05:32:12.724849,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Dallas Cowboys,Over 10.5,-0.0116,0.4762,0.4878
-2022-05-18 20:31:13.401051,Boxing Lines - Brad Foster vs Ionut Baluta - To Win the Bout,Ionut Baluta,-0.012199999999999989,0.4878,0.5
 2022-05-19 05:32:14.923466,NCAA Football Specials - 2022-2023 Wins - Tennessee,Under 8,-0.012199999999999989,0.5,0.5122
 2022-05-19 07:31:34.460109,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,-0.012299999999999991,0.1053,0.1176
-2022-05-19 05:32:13.820564,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Toronto Argonauts,-0.012899999999999995,0.1538,0.1667
 2022-05-19 07:31:34.460109,MLB Futures - MLB 2022 National League - NL Winner,Milwaukee Brewers,-0.012899999999999995,0.1538,0.1667
 2022-05-19 05:32:13.820564,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Hamilton Tiger-Cats,-0.012899999999999995,0.1538,0.1667
+2022-05-19 05:32:13.820564,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Toronto Argonauts,-0.012899999999999995,0.1538,0.1667
 2022-05-18 23:30:56.990506,Bundesliga - Bundesliga 2021/22 - Outright,Ratiopharm Ulm,-0.014499999999999999,0.0149,0.0294
 2022-05-19 05:32:13.820564,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Winnipeg Blue Bombers,-0.01469999999999999,0.2353,0.25
 2022-05-18 23:30:57.050560,Super Ligi - Turkey BSL 2021/22 - Outright,Anadolu Efes,-0.014800000000000035,0.6078,0.6226
-2022-05-18 20:31:12.914430,NBA Specials - Where will DeAndre Ayton play next season? - DeAndre Ayton Next Franchise?,Golden State Warriors,-0.0157,0.0278,0.0435
 2022-05-19 07:31:34.424607,MLB Futures - MLB 2022 Amercian League - AL Winner,Toronto Blue Jays,-0.016600000000000004,0.1739,0.1905
 2022-05-19 05:32:15.144852,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.016699999999999993,0.25,0.2667
 2022-05-19 05:32:13.820564,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Montreal Alouettes,-0.01759999999999999,0.1,0.1176
 2022-05-19 01:30:52.153643,Boxing Lines - Meng Fanlong vs Jean Pascal - To Win the Bout,Meng Fanlong,-0.018999999999999906,0.7143,0.7333
-2022-05-18 20:31:13.448711,Boxing Lines - Alen Babic vs Adam Balski - To Win the Bout,Adam Balski,-0.019600000000000006,0.2273,0.2469
 2022-05-19 05:32:13.820564,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Saskatchewan Roughriders,-0.020100000000000007,0.1538,0.1739
 2022-05-19 07:31:34.529239,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,-0.021100000000000008,0.2353,0.2564
 2022-05-19 05:32:12.959577,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Las Vegas Raiders,Under 8.5,-0.023799999999999988,0.4762,0.5
@@ -59,4 +49,3 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-19 07:31:34.529239,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,-0.043899999999999995,0.1379,0.1818
 2022-05-19 07:31:34.581885,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,-0.044500000000000095,0.7333,0.7778
 2022-05-18 23:30:56.967523,LNB Pro A - LNB Pro A 2021/22 - Outright,Monaco,-0.05299999999999999,0.4348,0.4878
-2022-05-18 20:31:12.914430,NBA Specials - Where will DeAndre Ayton play next season? - DeAndre Ayton Next Franchise?,Phoenix Suns,-0.5804,0.3571,0.9375
