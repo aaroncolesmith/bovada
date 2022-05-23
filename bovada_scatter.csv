@@ -16,9 +16,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-22 19:32:46.172873,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Luka Doncic,0.0238,0.0714,0.0476
 2022-05-22 19:32:47.366157,MLS - MLS Cup 2022 - Top Goalscorer,Carlos Vela,0.02020000000000001,0.1111,0.0909
 2022-05-22 19:32:45.912665,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,0.018999999999999906,0.7333,0.7143
-2022-05-22 19:32:45.821468,MLB Futures - MLB 2022 Amercian League - AL Winner,Minnesota Twins,0.018099999999999998,0.0769,0.0588
 2022-05-22 19:32:45.838235,MLB Futures - MLB 2022 National League - NL Winner,Philadelphia Phillies,0.018099999999999998,0.0769,0.0588
-2022-05-23 00:48:17.445111,Copa Libertadores - Copa Libertadores 2022 - Outright,Flamengo-RJ,0.0174,0.25,0.2326
+2022-05-22 19:32:45.821468,MLB Futures - MLB 2022 Amercian League - AL Winner,Minnesota Twins,0.018099999999999998,0.0769,0.0588
+2022-05-23 01:30:26.413724,Copa Libertadores - Copa Libertadores 2022 - Outright,Flamengo-RJ,0.0174,0.25,0.2326
 2022-05-22 19:32:46.159329,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Mavericks to beat Heat,0.014099999999999998,0.0385,0.0244
 2022-05-22 19:32:45.821468,MLB Futures - MLB 2022 Amercian League - AL Winner,Los Angeles Angels,0.012299999999999991,0.1176,0.1053
 2022-05-22 19:32:45.821468,MLB Futures - MLB 2022 Amercian League - AL Winner,Seattle Mariners,0.011199999999999995,0.0435,0.0323
@@ -30,21 +30,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-22 19:32:45.821468,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,-0.010499999999999982,0.2,0.2105
 2022-05-22 19:32:46.159329,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Mavericks to beat Celtics,-0.010700000000000001,0.0278,0.0385
 2022-05-22 19:32:45.821468,MLB Futures - MLB 2022 Amercian League - AL Winner,New York Yankees,-0.011099999999999999,0.2667,0.2778
-2022-05-23 00:48:17.483740,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Unión La Calera,-0.012100000000000001,0.0123,0.0244
-2022-05-23 00:48:17.483740,Copa Sudamericana - Copa Sudamericana 2022 - Outright,FBC Melgar,-0.012100000000000001,0.0123,0.0244
+2022-05-23 01:30:23.259017,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,Devin Haney,-0.011499999999999955,0.6552,0.6667
+2022-05-23 01:30:26.449940,Copa Sudamericana - Copa Sudamericana 2022 - Outright,FBC Melgar,-0.012100000000000001,0.0123,0.0244
+2022-05-23 01:30:26.449940,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Unión La Calera,-0.012100000000000001,0.0123,0.0244
 2022-05-22 19:32:45.838235,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,-0.012299999999999991,0.1053,0.1176
 2022-05-22 19:32:45.821468,MLB Futures - MLB 2022 Amercian League - AL Winner,Tampa Bay Rays,-0.01440000000000001,0.0909,0.1053
 2022-05-22 19:32:45.900084,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,-0.01469999999999999,0.2353,0.25
-2022-05-23 00:48:17.483740,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Barcelona SC,-0.014900000000000004,0.0196,0.0345
+2022-05-23 01:30:26.449940,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Barcelona SC,-0.014900000000000004,0.0196,0.0345
 2022-05-22 19:32:45.838235,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,-0.015899999999999997,0.0952,0.1111
 2022-05-22 19:32:45.624241,Boxing Lines - Gervonta Davis vs Rolando Romero - To Win the Bout,Gervonta Davis,-0.01660000000000006,0.9167,0.9333
 2022-05-22 19:32:45.912665,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,-0.022199999999999998,0.2,0.2222
 2022-05-22 19:32:45.900084,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,-0.023799999999999932,0.6429,0.6667
-2022-05-22 19:32:46.159329,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Celtics to beat Mavericks,-0.026899999999999993,0.05,0.0769
 2022-05-22 19:32:46.172873,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jaylen Brown,-0.026899999999999993,0.05,0.0769
+2022-05-22 19:32:46.159329,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Celtics to beat Mavericks,-0.026899999999999993,0.05,0.0769
 2022-05-22 23:32:46.871386,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Pachuca,-0.027700000000000002,0.4167,0.4444
 2022-05-22 19:32:45.875236,MLB Futures - MLB 2022 American League West - ALW Winner,Houston Astros,-0.03080000000000005,0.6875,0.7183
-2022-05-23 00:48:17.483740,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Fluminense,-0.037700000000000004,0.0099,0.0476
+2022-05-23 01:30:26.449940,Copa Sudamericana - Copa Sudamericana 2022 - Outright,Fluminense,-0.037700000000000004,0.0099,0.0476
 2022-05-22 19:32:46.187404,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.037800000000000056,0.5455,0.5833
 2022-05-22 22:31:09.356297,Political Specials - Who will win the 2022 Georgia Republican gubernatorial nomination? - Outright,David Perdue,-0.060000000000000005,0.04,0.1
 2022-05-22 19:32:46.172873,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Marcus Smart,-0.0605,0.0164,0.0769
