@@ -9,7 +9,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-23 20:30:46.137583,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.025499999999999967,0.4255,0.4
 2022-05-23 20:30:46.190365,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,0.024799999999999933,0.7895,0.7647
 2022-05-23 20:30:46.204997,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,0.024399999999999977,0.2597,0.2353
-2022-05-23 18:30:48.698436,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Donald Trump,0.023800000000000043,0.5238,0.5
 2022-05-24 00:32:20.775202,Boxing Lines - Naoya Inoue vs Nonito Donaire - To Win the Bout,Nonito Donaire,0.022199999999999998,0.2222,0.2
 2022-05-23 20:30:47.421038,NCAA Football Specials - 2022-2023 Wins - Texas ,Under 9,0.02079999999999993,0.5556,0.5348
 2022-05-23 19:30:42.743453,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Offensive Rookie of the Year,Alec Pierce,0.019100000000000002,0.0323,0.0132
@@ -25,7 +24,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-23 19:30:41.588511,Boxing Lines - Gervonta Davis vs Rolando Romero - To Win the Bout,Rolando Romero,-0.010200000000000015,0.1379,0.1481
 2022-05-24 03:31:06.984601,NBA Specials - 2022 NBA Draft - 1st Overall Pick,Jabari Smith,-0.012199999999999989,0.5,0.5122
 2022-05-23 20:30:46.154530,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,-0.0131,0.2222,0.2353
-2022-05-23 18:30:48.652252,Political Specials - Who will win the Democratic nomination in the TX-28 House election? - Outright,Jessica Cisneros,-0.01539999999999997,0.6,0.6154
 2022-05-23 20:30:46.123322,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,-0.01579999999999998,0.3175,0.3333
 2022-05-23 20:30:46.123322,MLB Futures - MLB 2022 National League - NL Winner,Philadelphia Phillies,-0.018099999999999998,0.0588,0.0769
 2022-05-24 00:32:20.061666,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,Atlas FC,-0.018100000000000005,0.4167,0.4348
@@ -39,7 +37,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-23 20:30:47.421038,NCAA Football Specials - 2022-2023 Wins - Texas ,Over 9,-0.022600000000000064,0.5122,0.5348
 2022-05-23 20:30:46.175215,MLB Futures - MLB 2022 American League West - ALW Winner,Seattle Mariners,-0.0232,0.0435,0.0667
 2022-05-23 20:30:46.137583,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,-0.027800000000000005,0.0833,0.1111
-2022-05-23 18:30:48.652252,Political Specials - Who will win the Democratic nomination in the TX-28 House election? - Outright,Henry Cuellar,-0.0348,0.4,0.4348
 2022-05-23 20:30:46.175215,MLB Futures - MLB 2022 American League West - ALW Winner,Los Angeles Angels,-0.04490000000000005,0.2941,0.339
 2022-05-24 02:30:48.927830,NBA Specials - 2022 NBA Draft - 1st Overall Pick,Jabari Smith,-0.05300000000000005,0.5122,0.5652
 2022-05-23 20:30:46.219238,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,-0.06139999999999998,0.1053,0.1667
