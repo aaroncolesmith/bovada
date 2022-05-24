@@ -23,14 +23,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-24 17:31:20.181740,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Hamilton Tiger-Cats,0.012899999999999995,0.1667,0.1538
 2022-05-24 19:31:09.590264,NFL Futures - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Kansas City Chiefs,0.010899999999999993,0.1538,0.1429
 2022-05-24 17:31:20.157385,CFL - 2022 - Odds to Win - West Division - Outright,Winnipeg Blue Bombers,0.010099999999999998,0.4545,0.4444
-2022-05-24 18:30:39.435359,NFL Futures - 2022/2023 Division Winner - AFC South - AFC South Winner,Indianapolis Colts,-0.010099999999999998,0.5455,0.5556
-2022-05-24 17:31:21.343409,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,-0.010099999999999998,0.0952,0.1053
 2022-05-24 17:31:21.229003,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.010099999999999998,0.5455,0.5556
+2022-05-24 17:31:21.343409,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,-0.010099999999999998,0.0952,0.1053
+2022-05-24 18:30:39.435359,NFL Futures - 2022/2023 Division Winner - AFC South - AFC South Winner,Indianapolis Colts,-0.010099999999999998,0.5455,0.5556
 2022-05-24 17:31:21.172598,MLB Futures - MLB 2022 Amercian League - AL Winner,Minnesota Twins,-0.0102,0.0667,0.0769
 2022-05-24 17:31:21.303181,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,-0.011699999999999933,0.7778,0.7895
 2022-05-24 18:30:39.132191,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Minnesota Vikings,Under 9,-0.012199999999999989,0.5,0.5122
-2022-05-24 21:30:39.843381,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Cillian Murphy,-0.013999999999999999,0.0769,0.0909
 2022-05-24 21:30:40.034472,Video Game Specials - Which city will Grand Theft Auto 6 be based on? - Outright,Chicago,-0.013999999999999999,0.0769,0.0909
+2022-05-24 21:30:39.843381,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Cillian Murphy,-0.013999999999999999,0.0769,0.0909
 2022-05-24 16:32:21.317365,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Bam Adebayo,-0.015300000000000001,0.0323,0.0476
 2022-05-24 17:31:20.157385,CFL - 2022 - Odds to Win - West Division - Outright,Calgary Stampeders,-0.016699999999999993,0.25,0.2667
 2022-05-24 17:31:21.172598,MLB Futures - MLB 2022 Amercian League - AL Winner,Los Angeles Angels,-0.01759999999999999,0.1,0.1176
@@ -44,6 +44,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-24 21:30:39.816105,Business Propositions - What will be the next big US restaurant to open in Canada - Proposition,Portillo's,-0.023799999999999988,0.1429,0.1667
 2022-05-24 12:30:17.455806,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.023799999999999988,0.1429,0.1667
 2022-05-24 21:30:40.034472,Video Game Specials - Which city will Grand Theft Auto 6 be based on? - Outright,Los Angeles,-0.02779999999999999,0.2222,0.25
+2022-05-24 22:30:40.171152,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Joe Smith Jr,-0.027999999999999997,0.1538,0.1818
 2022-05-24 17:31:20.181740,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,British Columbia Lions,-0.02850000000000001,0.0667,0.0952
 2022-05-24 15:31:25.264220,Boxing Lines - Eduardo Ramirez vs Luis Melendez - To Win the Bout,Luis Melendez,-0.031700000000000006,0.25,0.2817
 2022-05-24 16:32:21.292358,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Heat to beat Warriors,-0.04040000000000002,0.1818,0.2222
