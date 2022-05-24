@@ -3,6 +3,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-24 00:32:20.061666,Liga MX - Clausura - Liga MX Clausura 2022  - Outright,CF Pachuca,0.2324,0.6491,0.4167
 2022-05-23 20:30:46.219238,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,0.07400000000000001,0.274,0.2
 2022-05-23 20:30:46.175215,MLB Futures - MLB 2022 American League West - ALW Winner,Houston Astros,0.0625,0.75,0.6875
+2022-05-24 02:30:48.927830,NBA Specials - 2022 NBA Draft - 1st Overall Pick,Chet Holmgren,0.0595,0.4762,0.4167
 2022-05-23 15:30:40.470442,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Warriors to beat Celtics,0.0476,0.2857,0.2381
 2022-05-23 15:30:40.470442,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Warriors to beat Heat,0.04459999999999997,0.3571,0.3125
 2022-05-23 15:30:40.484332,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jimmy Butler,0.04040000000000002,0.2222,0.1818
@@ -25,7 +26,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-24 00:32:18.830156,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Baltimore Ravens,0.014900000000000024,0.3226,0.3077
 2022-05-23 15:30:40.484332,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Klay Thompson,0.014399999999999996,0.0769,0.0625
 2022-05-23 20:30:46.154530,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,0.013599999999999945,0.7059,0.6923
-2022-05-23 14:30:43.444437,Champions League - UEFA Champions League 2021/2022 - Outright,Real Madrid,0.012699999999999989,0.4049,0.3922
 2022-05-24 00:32:18.891727,NFL Futures - 2022/2023 Division Winner - NFC North - NFC North Winner,Detroit Lions,0.010099999999999998,0.1053,0.0952
 2022-05-23 19:30:41.588511,Boxing Lines - Gervonta Davis vs Rolando Romero - To Win the Bout,Rolando Romero,-0.010200000000000015,0.1379,0.1481
 2022-05-23 15:30:40.484332,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Kyle Lowry,-0.0108,0.0033,0.0141
@@ -55,6 +55,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-23 20:30:46.175215,MLB Futures - MLB 2022 American League West - ALW Winner,Los Angeles Angels,-0.04490000000000005,0.2941,0.339
 2022-05-23 15:30:40.484332,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Luka Doncic,-0.047,0.0244,0.0714
 2022-05-23 15:30:40.470442,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Heat to beat Mavericks,-0.0502,0.0123,0.0625
+2022-05-24 02:30:48.927830,NBA Specials - 2022 NBA Draft - 1st Overall Pick,Jabari Smith,-0.05300000000000005,0.5122,0.5652
 2022-05-23 20:30:46.219238,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,-0.06139999999999998,0.1053,0.1667
 2022-05-23 20:30:46.204997,MLB Futures - MLB 2022 National League East - NLE Winner,Philadelphia Phillies,-0.0642,0.1176,0.1818
+2022-05-24 02:30:48.927830,NBA Specials - 2022 NBA Draft - 1st Overall Pick,Paolo Banchero,-0.07930000000000001,0.1429,0.2222
 2022-05-23 20:30:46.061202,NBA Specials - 2022 NBA Draft - 1st Overall Pick,Paolo Banchero,-0.1778,0.2222,0.4
