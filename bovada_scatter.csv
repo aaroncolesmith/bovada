@@ -6,6 +6,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-24 19:31:09.506636,NFL Futures - 2022/2023 Division Winner - NFC East - NFC East Winner,Philadelphia Eagles,0.03260000000000002,0.3774,0.3448
 2022-05-24 21:30:40.034472,Video Game Specials - Which city will Grand Theft Auto 6 be based on? - Outright,Miami,0.031799999999999995,0.4762,0.4444
 2022-05-24 21:30:39.843381,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Richard Madden,0.0267,0.1176,0.0909
+2022-05-25 07:30:41.771484,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Roma,0.024499999999999966,0.6078,0.5833
 2022-05-25 03:31:10.842002,Professional Baseball - NPB 2022 - Outright,Yomiuri Giants,0.023799999999999988,0.1667,0.1429
 2022-05-25 04:30:17.199301,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.023799999999999988,0.1667,0.1429
 2022-05-24 19:31:07.957145,Superhero Movie Specials - How many times will Groot say 'I am Groot' during Thor: Love and Thunder - Outright,5,0.021999999999999964,0.3077,0.2857
@@ -21,12 +22,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-24 19:31:07.942243,Superhero Movie Specials - How many planets wil Thor Travel to in Thor: Love and Thunder - Proposition,3,-0.019000000000000017,0.2667,0.2857
 2022-05-25 03:31:10.238977,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,-0.019699999999999995,0.4348,0.4545
 2022-05-25 03:31:10.284398,Serie A - Serie A 2021/22 - Outright,Olimpia Milano,-0.019699999999999995,0.4348,0.4545
-2022-05-24 21:30:39.843381,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Aiden Turner,-0.02020000000000001,0.0909,0.1111
 2022-05-25 03:31:10.842002,Professional Baseball - NPB 2022 - Outright,Saitama Seibu Lions,-0.02020000000000001,0.0909,0.1111
 2022-05-24 19:31:09.506636,NFL Futures - 2022/2023 Division Winner - NFC East - NFC East Winner,New York Giants,-0.02020000000000001,0.0909,0.1111
+2022-05-24 21:30:39.843381,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Aiden Turner,-0.02020000000000001,0.0909,0.1111
 2022-05-24 21:30:39.816105,Business Propositions - What will be the next big US restaurant to open in Canada - Proposition,Portillo's,-0.023799999999999988,0.1429,0.1667
 2022-05-25 03:31:10.842002,Professional Baseball - NPB 2022 - Outright,Chunichi Dragons,-0.0242,0.0667,0.0909
 2022-05-25 03:31:10.284398,Serie A - Serie A 2021/22 - Outright,Dinamo Sassari,-0.024299999999999995,0.0526,0.0769
+2022-05-25 07:30:41.771484,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Feyenoord,-0.026500000000000024,0.4386,0.4651
 2022-05-24 21:30:40.034472,Video Game Specials - Which city will Grand Theft Auto 6 be based on? - Outright,Los Angeles,-0.02779999999999999,0.2222,0.25
 2022-05-24 22:30:40.171152,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Joe Smith Jr,-0.027999999999999997,0.1538,0.1818
 2022-05-25 04:30:17.199301,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.02960000000000007,0.6,0.6296
