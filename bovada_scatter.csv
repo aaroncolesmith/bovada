@@ -6,8 +6,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-25 13:30:45.343993,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jaylen Brown,0.030199999999999998,0.0625,0.0323
 2022-05-25 08:30:51.673589,Liga ACB - Liga ACB 2021/2022 - Outright,Baskonia,0.028199999999999996,0.0667,0.0385
 2022-05-25 07:30:41.771484,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Roma,0.024499999999999966,0.6078,0.5833
-2022-05-25 04:30:17.199301,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.023799999999999988,0.1667,0.1429
 2022-05-25 03:31:10.842002,Professional Baseball - NPB 2022 - Outright,Yomiuri Giants,0.023799999999999988,0.1667,0.1429
+2022-05-25 04:30:17.199301,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.023799999999999988,0.1667,0.1429
 2022-05-25 08:30:51.673589,Liga ACB - Liga ACB 2021/2022 - Outright,Real Madrid BC,0.021999999999999964,0.3077,0.2857
 2022-05-25 03:31:10.842002,Professional Baseball - NPB 2022 - Outright,Chiba Lotte Marines,0.0203,0.0588,0.0385
 2022-05-25 13:30:45.330347,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Heat to beat Warriors,0.01820000000000002,0.2,0.1818
@@ -17,6 +17,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-25 08:30:51.714995,A1 - Greece A1 2021/22 - Outright,Promitheas Patras,0.014099999999999998,0.0435,0.0294
 2022-05-25 13:30:45.359852,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.012899999999999995,0.1667,0.1538
 2022-05-25 03:31:10.238977,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Luka Doncic,0.012700000000000003,0.0323,0.0196
+2022-05-25 14:31:22.794023,Boxing Lines - Ali Eren Demirezen vs Kevin Johnson - To Win the Bout,Kevin Johnson,0.011099999999999999,0.1111,0.1
 2022-05-25 08:30:52.140976,Boxing Lines - Viktor Vykhryst vs Toni Thes - To Win the Bout,Toni Thes,0.0102,0.0769,0.0667
 2022-05-25 12:30:14.620197,Boxing Lines - Gervonta Davis vs Rolando Romero - To Win the Bout,Rolando Romero,-0.010200000000000015,0.1379,0.1481
 2022-05-25 03:31:10.842002,Professional Baseball - NPB 2022 - Outright,Orix Buffaloes,-0.011099999999999999,0.1,0.1111
