@@ -2,11 +2,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-25 08:30:51.608088,Japan B League - Japan League B1 2021/22 - Outright,Tochigi Brex,0.16670000000000001,0.4167,0.25
 2022-05-25 08:30:51.608088,Japan B League - Japan League B1 2021/22 - Outright,Okinawa Ryukyu,0.08779999999999999,0.6226,0.5348
 2022-05-25 08:30:51.690659,Super Ligi - Turkey BSL 2021/22 - Outright,Fenerbahce,0.05790000000000001,0.3704,0.3125
-2022-05-25 00:30:17.289317,Boxing Lines - Mahmoud Charr vs Michael Wallisch - To Win the Bout,Michael Wallisch,0.03420000000000001,0.2564,0.2222
 2022-05-25 08:30:51.673589,Liga ACB - Liga ACB 2021/2022 - Outright,Baskonia,0.028199999999999996,0.0667,0.0385
 2022-05-25 07:30:41.771484,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Roma,0.024499999999999966,0.6078,0.5833
-2022-05-25 03:31:10.842002,Professional Baseball - NPB 2022 - Outright,Yomiuri Giants,0.023799999999999988,0.1667,0.1429
 2022-05-25 04:30:17.199301,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.023799999999999988,0.1667,0.1429
+2022-05-25 03:31:10.842002,Professional Baseball - NPB 2022 - Outright,Yomiuri Giants,0.023799999999999988,0.1667,0.1429
 2022-05-25 08:30:51.673589,Liga ACB - Liga ACB 2021/2022 - Outright,Real Madrid BC,0.021999999999999964,0.3077,0.2857
 2022-05-25 03:31:10.842002,Professional Baseball - NPB 2022 - Outright,Chiba Lotte Marines,0.0203,0.0588,0.0385
 2022-05-25 04:30:17.199301,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Dallas Mavericks,0.0181,0.0345,0.0164
@@ -14,9 +13,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-25 08:30:51.714995,A1 - Greece A1 2021/22 - Outright,Promitheas Patras,0.014099999999999998,0.0435,0.0294
 2022-05-25 03:31:10.238977,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Luka Doncic,0.012700000000000003,0.0323,0.0196
 2022-05-25 08:30:52.140976,Boxing Lines - Viktor Vykhryst vs Toni Thes - To Win the Bout,Toni Thes,0.0102,0.0769,0.0667
+2022-05-25 12:30:14.620197,Boxing Lines - Gervonta Davis vs Rolando Romero - To Win the Bout,Rolando Romero,-0.010200000000000015,0.1379,0.1481
 2022-05-25 03:31:10.842002,Professional Baseball - NPB 2022 - Outright,Orix Buffaloes,-0.011099999999999999,0.1,0.1111
 2022-05-25 08:30:51.593151,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.012899999999999995,0.1538,0.1667
-2022-05-25 00:30:17.265975,Boxing Lines - Ali Eren Demirezen vs Kevin Johnson - To Win the Bout,Kevin Johnson,-0.01759999999999999,0.1,0.1176
 2022-05-25 08:30:51.714995,A1 - Greece A1 2021/22 - Outright,AEK Athens,-0.0189,0.0196,0.0385
 2022-05-25 03:31:10.238977,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,-0.019699999999999995,0.4348,0.4545
 2022-05-25 03:31:10.284398,Serie A - Serie A 2021/22 - Outright,Olimpia Milano,-0.019699999999999995,0.4348,0.4545
@@ -28,5 +27,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-25 03:31:10.284398,Serie A - Serie A 2021/22 - Outright,Dinamo Sassari,-0.024299999999999995,0.0526,0.0769
 2022-05-25 07:30:41.771484,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Feyenoord,-0.026500000000000024,0.4386,0.4651
 2022-05-25 04:30:17.199301,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.02960000000000007,0.6,0.6296
-2022-05-25 00:30:17.289317,Boxing Lines - Mahmoud Charr vs Michael Wallisch - To Win the Bout,Mahmoud Charr,-0.04399999999999993,0.8131,0.8571
 2022-05-25 08:30:51.690659,Super Ligi - Turkey BSL 2021/22 - Outright,Darüssafaka Dogus,-0.0475,0.0294,0.0769
