@@ -1,8 +1,10 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,The Leader,0.23330000000000004,0.4,0.1667
 2022-05-25 08:30:51.608088,Japan B League - Japan League B1 2021/22 - Outright,Tochigi Brex,0.16670000000000001,0.4167,0.25
-2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Man-Bull,0.13489999999999996,0.6,0.4651
 2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Baron Blood,0.13489999999999996,0.6,0.4651
+2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Man-Bull,0.13489999999999996,0.6,0.4651
+2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Porcupine,0.13489999999999996,0.6,0.4651
+2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Skaar,0.13489999999999996,0.6,0.4651
 2022-05-25 08:30:51.608088,Japan B League - Japan League B1 2021/22 - Outright,Okinawa Ryukyu,0.08779999999999999,0.6226,0.5348
 2022-05-25 15:30:47.656499,Superhero Movie Specials - Will Any Of These Characters Appear In Marvel's 'Black Panther: Wakanda Forever' - Proposition,Namora,0.07790000000000008,0.7143,0.6364
 2022-05-25 08:30:51.690659,Super Ligi - Turkey BSL 2021/22 - Outright,Fenerbahce,0.05790000000000001,0.3704,0.3125
@@ -24,10 +26,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-25 08:30:51.714995,A1 - Greece A1 2021/22 - Outright,AEK Athens,-0.0189,0.0196,0.0385
 2022-05-25 13:30:45.343993,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jayson Tatum,-0.019000000000000017,0.2667,0.2857
 2022-05-25 08:30:51.673589,Liga ACB - Liga ACB 2021/2022 - Outright,Barcelona,-0.02200000000000002,0.6923,0.7143
+2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Red She-Hulk,-0.023799999999999988,0.1429,0.1667
+2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Behemoth,-0.023799999999999988,0.1429,0.1667
+2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Clockwise,-0.023799999999999988,0.1429,0.1667
+2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Thundra,-0.023799999999999988,0.1429,0.1667
 2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Ruby Thursday,-0.023799999999999988,0.1429,0.1667
+2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Red Hulk,-0.023799999999999988,0.1429,0.1667
 2022-05-25 08:30:51.690659,Super Ligi - Turkey BSL 2021/22 - Outright,Galatasaray SK,-0.0242,0.0667,0.0909
 2022-05-25 08:30:51.673589,Liga ACB - Liga ACB 2021/2022 - Outright,Valencia,-0.024299999999999995,0.0345,0.0588
 2022-05-25 07:30:41.771484,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Feyenoord,-0.026500000000000024,0.4386,0.4651
 2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Absorbing Man,-0.03489999999999999,0.4651,0.5
+2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Mister Immortal,-0.03489999999999999,0.4651,0.5
+2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Jazinda,-0.03489999999999999,0.4651,0.5
 2022-05-25 13:30:45.343993,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jimmy Butler,-0.04169999999999999,0.125,0.1667
 2022-05-25 08:30:51.690659,Super Ligi - Turkey BSL 2021/22 - Outright,Darüssafaka Dogus,-0.0475,0.0294,0.0769
+2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Mallory Book,-0.04760000000000009,0.6667,0.7143
+2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Jill Stevens,-0.04760000000000009,0.6667,0.7143
