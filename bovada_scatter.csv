@@ -56,15 +56,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-26 14:30:52.566063,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Celtics to beat Mavericks,0.010600000000000002,0.0323,0.0217
 2022-05-26 06:30:59.488914,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Philadelphia Phillies,0.010100000000000001,0.0345,0.0244
 2022-05-26 12:31:11.941507,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Under $130,000,000",0.010099999999999998,0.4545,0.4444
+2022-05-26 16:30:53.574613,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,-0.010099999999999998,0.4444,0.4545
 2022-05-26 05:30:41.186968,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Baltimore Ravens,Under 9.5,-0.010099999999999998,0.4444,0.4545
 2022-05-26 12:31:12.225862,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Philadelphia Phillies,-0.010100000000000001,0.0244,0.0345
 2022-05-26 06:30:59.488914,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Yankees,-0.010899999999999993,0.1429,0.1538
-2022-05-26 05:30:41.360530,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New Orleans Saints,Under 8,-0.011099999999999999,0.4651,0.4762
 2022-05-26 05:30:41.239867,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Dallas Cowboys,Over 10.5,-0.011099999999999999,0.4651,0.4762
+2022-05-26 05:30:41.360530,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New Orleans Saints,Under 8,-0.011099999999999999,0.4651,0.4762
 2022-05-26 11:30:39.599830,TV Specials - Squid Game Special - Will Seong Gi-Hun win a second Squid Game in Quid Game Season 2? - Outright,Yes,-0.011600000000000055,0.5122,0.5238
 2022-05-26 05:30:41.534075,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Georgia,-0.011700000000000016,0.2105,0.2222
-2022-05-26 05:30:42.090922,NCAA Football Specials - 2022-2023 Wins - Kentucky,Under 8,-0.012199999999999989,0.5,0.5122
 2022-05-26 05:30:41.273859,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Houston Texans,Under 4.5,-0.012199999999999989,0.5,0.5122
+2022-05-26 05:30:42.090922,NCAA Football Specials - 2022-2023 Wins - Kentucky,Under 8,-0.012199999999999989,0.5,0.5122
 2022-05-26 05:30:42.220569,NCAA Football Specials - 2022-2023 Wins - Texas A&M ,Under 9,-0.012199999999999989,0.5,0.5122
 2022-05-26 14:30:52.529832,NCAA Football Specials - 2022-2023 Wins - Texas A&M ,Under 9,-0.012199999999999989,0.4878,0.5
 2022-05-26 06:30:59.488914,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Tampa Bay Rays,-0.0131,0.0345,0.0476
@@ -80,20 +81,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-26 12:31:12.334865,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,-0.020299999999999985,0.25,0.2703
 2022-05-26 10:31:26.598841,Celebrity Boxing - Nick Saban vs Jimbo Fisher - Proposition,Jimbo Fisher,-0.02080000000000004,0.6667,0.6875
 2022-05-26 10:31:26.956994,"TV Specials - Squid Game Special - WIll Red Light, Green Light be players in Squid Game Season 2? - Outright",Yes,-0.02169999999999994,0.5238,0.5455
-2022-05-26 12:31:12.278873,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.021699999999999997,0.4545,0.4762
 2022-05-26 15:30:45.929217,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,-0.021699999999999997,0.4545,0.4762
+2022-05-26 12:31:12.278873,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.021699999999999997,0.4545,0.4762
 2022-05-26 12:31:12.240695,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,-0.022199999999999998,0.2,0.2222
 2022-05-26 11:30:39.427520,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Idris Elba,-0.022199999999999998,0.2,0.2222
 2022-05-26 11:30:39.372872,Box Office Specials - Opening Weekend Domestic Box Office Gross - Avatar: The Way of Water - Proposition,"Over $100,000,000",-0.023799999999999932,0.6429,0.6667
 2022-05-26 11:30:39.646136,Video Game Specials - Which city will Grand Theft Auto 6 be based on? - Outright,Rio de Janeiro,-0.023799999999999988,0.1429,0.1667
 2022-05-26 11:30:39.586048,TV Specials - Squid Game Special - Will Seong Gi-Hun die in Squid Game Season 2/ - Outright,Yes,-0.023800000000000043,0.5,0.5238
-2022-05-26 05:30:41.222355,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Chicago Bears,Over 6.5,-0.023800000000000043,0.5,0.5238
 2022-05-26 11:30:39.573817,"TV Specials - Squid Game Special - WIll Red Light, Green Light be players in Squid Game Season 2? - Outright",Yes,-0.023800000000000043,0.5,0.5238
+2022-05-26 05:30:41.222355,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Chicago Bears,Over 6.5,-0.023800000000000043,0.5,0.5238
 2022-05-26 11:30:39.925530,LNB Pro A - LNB Pro A 2021/22 - Outright,Limoges CSP,-0.024299999999999995,0.0345,0.0588
 2022-05-26 14:30:52.400305,NCAA Football Specials - 2022-2023 Wins - Florida,Under 7,-0.024399999999999977,0.4878,0.5122
 2022-05-26 15:30:45.929217,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Bam Adebayo,-0.0244,0.0079,0.0323
-2022-05-26 11:30:39.444652,Superhero Movie Specials - How many planets wil Thor Travel to in Thor: Love and Thunder - Proposition,5,-0.029600000000000015,0.3704,0.4
 2022-05-26 11:30:39.444652,Superhero Movie Specials - How many planets wil Thor Travel to in Thor: Love and Thunder - Proposition,4,-0.029600000000000015,0.3704,0.4
+2022-05-26 11:30:39.444652,Superhero Movie Specials - How many planets wil Thor Travel to in Thor: Love and Thunder - Proposition,5,-0.029600000000000015,0.3704,0.4
 2022-05-26 11:30:39.533764,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Magna,-0.030299999999999994,0.3333,0.3636
 2022-05-26 11:30:39.385870,Box Office Specials - Opening Weekend Domestic Box Office Gross - Black Adam - Proposition,"Over $65,000,000",-0.033299999999999996,0.5122,0.5455
 2022-05-26 11:30:39.546476,The Walking Dead - How many Walkers will be killed in the final 8 episodes of The Walking Dead Season 11? - Outright,26-50,-0.03570000000000001,0.25,0.2857
