@@ -7,13 +7,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-26 10:31:26.569318,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Over $130,000,000",0.09089999999999998,0.6364,0.5455
 2022-05-26 13:30:58.931746,Superettan - Swedish Superettan 2022 - Outright,Östers IF,0.09029999999999999,0.1429,0.0526
 2022-05-26 11:30:39.533764,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Rosita,0.08330000000000001,0.25,0.1667
-2022-05-26 11:30:39.503559,Superhero Movie Specials - Will Any Of These Characters Appear In Marvel's 'Black Panther: Wakanda Forever' - Proposition,Attuma,0.06670000000000004,0.4,0.3333
 2022-05-26 11:30:39.358210,Business Propositions - What will be the next big US restaurant to open in Canada - Proposition,Sonic,0.06670000000000004,0.4,0.3333
+2022-05-26 11:30:39.503559,Superhero Movie Specials - Will Any Of These Characters Appear In Marvel's 'Black Panther: Wakanda Forever' - Proposition,Attuma,0.06670000000000004,0.4,0.3333
 2022-05-26 14:30:50.412868,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Man-Bull,0.06669999999999998,0.6667,0.6
 2022-05-26 14:30:50.412868,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Porcupine,0.06669999999999998,0.6667,0.6
 2022-05-26 14:30:50.412868,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Skaar,0.06669999999999998,0.6667,0.6
 2022-05-26 11:30:39.925530,LNB Pro A - LNB Pro A 2021/22 - Outright,Dijon,0.0635,0.1111,0.0476
 2022-05-26 11:30:39.626109,TV Specials - How many Creatures/Monsters will Geralt Kill in Season 3 of the Witcher on Netflix? - Outright,21+,0.05710000000000001,0.2,0.1429
+2022-05-26 19:41:05.975299,NFL Specials - Where will Colin Kaepernick Play Game 1 of the 2022/2023 NFL Season? - Proposition,Not On Active Roster For Week 1,0.05709999999999993,0.8571,0.8
 2022-05-26 11:30:39.457115,Superhero Movie Specials - How many times will Groot say 'I am Groot' during Thor: Love and Thunder - Outright,6+,0.05559999999999998,0.5,0.4444
 2022-05-26 10:31:26.512255,Box Office Specials - Opening Weekend Domestic Box Office Gross - Avatar: The Way of Water - Proposition,"Over $100,000,000",0.05130000000000001,0.6667,0.6154
 2022-05-26 12:31:12.307337,MLB Futures - MLB 2022 American League West - ALW Winner,Los Angeles Angels,0.05070000000000002,0.3448,0.2941
@@ -33,6 +34,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-26 12:31:12.240695,MLB Futures - MLB 2022 Amercian League - AL Winner,Minnesota Twins,0.0242,0.0909,0.0667
 2022-05-26 10:31:26.940557,TV Specials - Homelander Kill Count for Season 3 of The Boys on Amazon - Proposition,100+,0.023800000000000043,0.5238,0.5
 2022-05-26 12:31:12.255107,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,0.023799999999999988,0.1667,0.1429
+2022-05-26 19:41:07.227788,Boxing Lines - Joshua John vs Mark McKeown - To Win the Bout,Mark McKeown,0.020500000000000074,0.8667,0.8462
 2022-05-26 10:31:26.956994,"TV Specials - Squid Game Special - WIll Red Light, Green Light be players in Squid Game Season 2? - Outright",No,0.01970000000000005,0.5652,0.5455
 2022-05-26 12:31:12.240695,MLB Futures - MLB 2022 Amercian League - AL Winner,Tampa Bay Rays,0.019699999999999995,0.125,0.1053
 2022-05-26 11:30:39.397581,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Under $130,000,000",0.018900000000000028,0.4444,0.4255
@@ -46,8 +48,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-26 11:30:39.483350,Superhero Movie Specials - Who will be cast as the next Superman in the DCU after Henry Cavill? - Outright,Tom Welling,0.0145,0.0244,0.0099
 2022-05-26 12:31:12.255107,MLB Futures - MLB 2022 National League - NL Winner,San Francisco,0.013999999999999999,0.0909,0.0769
 2022-05-26 12:31:12.240695,MLB Futures - MLB 2022 Amercian League - AL Winner,Cleveland Guardians,0.013699999999999999,0.0278,0.0141
+2022-05-26 19:41:07.337866,Boxing Lines - Erislandy Lara vs Gary O'Sullivan - To Win the Bout,Erislandy Lara,0.0131,0.9655,0.9524
 2022-05-26 12:31:12.225862,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Tampa Bay Rays,0.0131,0.0476,0.0345
 2022-05-26 11:30:39.613160,TV Specials - Will Tom Holland appear in Euphoria Season 3? - Outright,Yes,0.012899999999999995,0.1667,0.1538
+2022-05-26 19:41:07.193499,Boxing Lines - morgan jones vs Gerome Warburton - To Win the Bout,Morgan Jones,0.012700000000000045,0.6491,0.6364
 2022-05-26 15:30:45.929217,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Marcus Smart,0.012700000000000003,0.0323,0.0196
 2022-05-26 12:31:12.278873,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,0.01100000000000001,0.5348,0.5238
 2022-05-26 12:31:12.225862,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Yankees,0.010899999999999993,0.1538,0.1429
@@ -64,17 +68,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-26 12:31:12.294013,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,-0.014800000000000035,0.6667,0.6815
 2022-05-26 15:30:44.095219,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Ron DeSantis,-0.016699999999999993,0.25,0.2667
 2022-05-26 10:31:26.940557,TV Specials - Homelander Kill Count for Season 3 of The Boys on Amazon - Proposition,51-75,-0.016699999999999993,0.25,0.2667
+2022-05-26 19:41:07.337866,Boxing Lines - Erislandy Lara vs Gary O'Sullivan - To Win the Bout,Gary O'Sullivan,-0.016700000000000007,0.0833,0.1
 2022-05-26 12:31:12.334865,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,-0.020299999999999985,0.25,0.2703
 2022-05-26 10:31:26.598841,Celebrity Boxing - Nick Saban vs Jimbo Fisher - Proposition,Jimbo Fisher,-0.02080000000000004,0.6667,0.6875
 2022-05-26 10:31:26.956994,"TV Specials - Squid Game Special - WIll Red Light, Green Light be players in Squid Game Season 2? - Outright",Yes,-0.02169999999999994,0.5238,0.5455
-2022-05-26 12:31:12.278873,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.021699999999999997,0.4545,0.4762
 2022-05-26 15:30:45.929217,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,-0.021699999999999997,0.4545,0.4762
+2022-05-26 12:31:12.278873,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.021699999999999997,0.4545,0.4762
+2022-05-26 19:41:07.227788,Boxing Lines - Joshua John vs Mark McKeown - To Win the Bout,Joshua John,-0.022199999999999998,0.2,0.2222
 2022-05-26 12:31:12.240695,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,-0.022199999999999998,0.2,0.2222
 2022-05-26 11:30:39.427520,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Idris Elba,-0.022199999999999998,0.2,0.2222
 2022-05-26 11:30:39.372872,Box Office Specials - Opening Weekend Domestic Box Office Gross - Avatar: The Way of Water - Proposition,"Over $100,000,000",-0.023799999999999932,0.6429,0.6667
 2022-05-26 11:30:39.646136,Video Game Specials - Which city will Grand Theft Auto 6 be based on? - Outright,Rio de Janeiro,-0.023799999999999988,0.1429,0.1667
-2022-05-26 11:30:39.586048,TV Specials - Squid Game Special - Will Seong Gi-Hun die in Squid Game Season 2/ - Outright,Yes,-0.023800000000000043,0.5,0.5238
 2022-05-26 11:30:39.573817,"TV Specials - Squid Game Special - WIll Red Light, Green Light be players in Squid Game Season 2? - Outright",Yes,-0.023800000000000043,0.5,0.5238
+2022-05-26 11:30:39.586048,TV Specials - Squid Game Special - Will Seong Gi-Hun die in Squid Game Season 2/ - Outright,Yes,-0.023800000000000043,0.5,0.5238
 2022-05-26 11:30:39.925530,LNB Pro A - LNB Pro A 2021/22 - Outright,Limoges CSP,-0.024299999999999995,0.0345,0.0588
 2022-05-26 14:30:52.400305,NCAA Football Specials - 2022-2023 Wins - Florida,Under 7,-0.024399999999999977,0.4878,0.5122
 2022-05-26 15:30:45.929217,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Bam Adebayo,-0.0244,0.0079,0.0323
@@ -88,10 +94,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-26 14:30:50.599222,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Republican,-0.04169999999999996,0.75,0.7917
 2022-05-26 11:30:39.561902,TV Specials - Homelander Kill Count for Season 3 of The Boys on Amazon - Proposition,0-25,-0.04910000000000003,0.3509,0.4
 2022-05-26 12:31:12.307337,MLB Futures - MLB 2022 American League West - ALW Winner,Houston Astros,-0.0504,0.7143,0.7647
-2022-05-26 10:31:26.512255,Box Office Specials - Opening Weekend Domestic Box Office Gross - Avatar: The Way of Water - Proposition,"Under $100,000,000",-0.05449999999999999,0.4,0.4545
 2022-05-26 11:30:39.925530,LNB Pro A - LNB Pro A 2021/22 - Outright,ASVEL Lyon-Villeurbanne,-0.05449999999999999,0.4,0.4545
-2022-05-26 11:30:39.358210,Business Propositions - What will be the next big US restaurant to open in Canada - Proposition,Bojangles,-0.05550000000000002,0.1667,0.2222
+2022-05-26 10:31:26.512255,Box Office Specials - Opening Weekend Domestic Box Office Gross - Avatar: The Way of Water - Proposition,"Under $100,000,000",-0.05449999999999999,0.4,0.4545
 2022-05-26 11:30:39.358210,Business Propositions - What will be the next big US restaurant to open in Canada - Proposition,Steak 'n Shake,-0.05550000000000002,0.1667,0.2222
+2022-05-26 11:30:39.358210,Business Propositions - What will be the next big US restaurant to open in Canada - Proposition,Bojangles,-0.05550000000000002,0.1667,0.2222
 2022-05-26 13:30:58.931746,Superettan - Swedish Superettan 2022 - Outright,AFC Eskilstuna,-0.05859999999999999,0.0323,0.0909
 2022-05-26 13:30:58.931746,Superettan - Swedish Superettan 2022 - Outright,Trelleborgs FF,-0.062299999999999994,0.0286,0.0909
 2022-05-26 11:30:39.517198,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Mallory Book,-0.06669999999999998,0.6,0.6667
@@ -100,8 +106,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-26 13:30:58.931746,Superettan - Swedish Superettan 2022 - Outright,Brommapojkarna,-0.075,0.05,0.125
 2022-05-26 11:30:39.646136,Video Game Specials - Which city will Grand Theft Auto 6 be based on? - Outright,Miami,-0.07619999999999999,0.4,0.4762
 2022-05-26 11:30:39.925530,LNB Pro A - LNB Pro A 2021/22 - Outright,Monaco,-0.07770000000000005,0.3571,0.4348
-2022-05-26 11:30:39.533764,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Luke,-0.0857,0.2,0.2857
 2022-05-26 11:30:39.533764,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Aaron,-0.0857,0.2,0.2857
+2022-05-26 11:30:39.533764,The Walking Dead - First Character to Die in the final 8 Episodes of The Walking Dead Season 11 - Outright,Luke,-0.0857,0.2,0.2857
 2022-05-26 15:30:45.929217,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jimmy Butler,-0.0927,0.0323,0.125
 2022-05-26 11:30:39.503559,Superhero Movie Specials - Will Any Of These Characters Appear In Marvel's 'Black Panther: Wakanda Forever' - Proposition,Storm,-0.09999999999999998,0.4,0.5
 2022-05-26 11:30:39.470179,Superhero Movie Specials - Will Any Of These Characters Appear In Marvel's 'Thor: Love and Thunder' - Outright,Lady Loki,-0.10390000000000002,0.1818,0.2857
