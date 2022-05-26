@@ -1,9 +1,10 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,The Leader,0.23330000000000004,0.4,0.1667
-2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Man-Bull,0.13489999999999996,0.6,0.4651
 2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Skaar,0.13489999999999996,0.6,0.4651
 2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Porcupine,0.13489999999999996,0.6,0.4651
+2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Man-Bull,0.13489999999999996,0.6,0.4651
 2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Baron Blood,0.13489999999999996,0.6,0.4651
+2022-05-26 03:30:43.494294,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,0.11110000000000003,0.4444,0.3333
 2022-05-25 15:30:47.656499,Superhero Movie Specials - Will Any Of These Characters Appear In Marvel's 'Black Panther: Wakanda Forever' - Proposition,Namora,0.07790000000000008,0.7143,0.6364
 2022-05-25 21:30:45.707751,Box Office Specials - Opening Weekend Domestic Box Office Gross - Avatar: The Way of Water - Proposition,"Over $100,000,000",0.06989999999999996,0.6154,0.5455
 2022-05-25 18:31:37.090912,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.031799999999999995,0.4762,0.4444
@@ -12,7 +13,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-25 18:31:38.168769,UEFA Europa Conference League - UEFA Europa Conference League - Outright,Feyenoord,0.019500000000000017,0.4505,0.431
 2022-05-25 18:31:37.157446,MLB Futures - MLB 2022 American League West - ALW Winner,Houston Astros,0.014700000000000046,0.7647,0.75
 2022-05-25 18:31:37.192352,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,0.011699999999999933,0.7895,0.7778
-2022-05-25 14:31:22.794023,Boxing Lines - Ali Eren Demirezen vs Kevin Johnson - To Win the Bout,Kevin Johnson,0.011099999999999999,0.1111,0.1
 2022-05-25 18:31:37.126871,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,0.010899999999999993,0.1538,0.1429
 2022-05-25 18:31:37.063941,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,0.01040000000000002,0.3279,0.3175
 2022-05-25 18:31:37.258367,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,-0.011099999999999999,0.2667,0.2778
@@ -23,15 +23,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-25 18:31:37.126871,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,-0.020000000000000018,0.6815,0.7015
 2022-05-25 18:31:37.090912,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.02169999999999994,0.5238,0.5455
 2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Behemoth,-0.023799999999999988,0.1429,0.1667
-2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Clockwise,-0.023799999999999988,0.1429,0.1667
-2022-05-25 19:31:00.090672,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.023799999999999988,0.1429,0.1667
 2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Red Hulk,-0.023799999999999988,0.1429,0.1667
 2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Red She-Hulk,-0.023799999999999988,0.1429,0.1667
 2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Ruby Thursday,-0.023799999999999988,0.1429,0.1667
 2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Thundra,-0.023799999999999988,0.1429,0.1667
+2022-05-25 19:31:00.090672,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.023799999999999988,0.1429,0.1667
+2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Clockwise,-0.023799999999999988,0.1429,0.1667
 2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Jazinda,-0.03489999999999999,0.4651,0.5
 2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Mister Immortal,-0.03489999999999999,0.4651,0.5
 2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Absorbing Man,-0.03489999999999999,0.4651,0.5
 2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Jill Stevens,-0.04760000000000009,0.6667,0.7143
 2022-05-25 16:31:16.590213,Superhero Movie Specials - Will Any Of These Characters Appear In Season 1 of Marvel's 'She-Hulk: Attorney at Law'  - Proposition,Mallory Book,-0.04760000000000009,0.6667,0.7143
+2022-05-26 03:30:43.494294,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,-0.09029999999999999,0.0526,0.1429
 2022-05-25 21:30:45.707751,Box Office Specials - Opening Weekend Domestic Box Office Gross - Avatar: The Way of Water - Proposition,"Under $100,000,000",-0.09099999999999997,0.4545,0.5455
