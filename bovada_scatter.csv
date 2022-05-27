@@ -23,14 +23,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-27 11:31:17.256231,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Celtics to beat Warriors,0.019699999999999995,0.4545,0.4348
 2022-05-27 15:30:47.747077,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,0.018999999999999906,0.7333,0.7143
 2022-05-27 07:40:37.976691,Boxing Lines - Joshua John vs Mark McKeown - To Win the Bout,Joshua John,0.0174,0.2174,0.2
-2022-05-27 05:32:19.229065,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.01539999999999997,0.6154,0.6
 2022-05-27 15:30:47.276030,Boxing Lines - Joshua John vs Mark McKeown - To Win the Bout,Joshua John,0.01369999999999999,0.241,0.2273
 2022-05-27 10:30:52.890383,NFL Specials - Where will Colin Kaepernick Play Game 1 of the 2022/2023 NFL Season? - Proposition,Las Vegas Raiders,0.0131,0.2353,0.2222
 2022-05-27 10:30:52.023891,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Minnesota Twins,0.0131,0.0476,0.0345
 2022-05-27 11:31:17.467187,Liga ACB - Liga ACB 2021/2022 - Outright,Joventut,0.0131,0.0476,0.0345
+2022-05-27 11:31:19.009219,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Chicago Bears,Over 6.5,0.012199999999999989,0.5122,0.5
 2022-05-27 12:30:20.656576,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Minnesota Vikings,Under 9,0.012199999999999989,0.5122,0.5
 2022-05-27 11:31:18.992665,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Carolina Panthers,Under 5.5,0.012199999999999989,0.5122,0.5
-2022-05-27 11:31:19.009219,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Chicago Bears,Over 6.5,0.012199999999999989,0.5122,0.5
 2022-05-27 12:30:20.646903,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Miami Dolphins,Under 9,0.011600000000000055,0.5238,0.5122
 2022-05-27 12:30:20.535913,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Denver Broncos,Over 10,0.01100000000000001,0.5348,0.5238
 2022-05-27 12:30:20.771329,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Tampa Bay Buccaneers,Under 11.5,0.010699999999999932,0.5455,0.5348
@@ -42,8 +41,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-27 13:31:26.346838,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Russell Wilson,-0.0102,0.0667,0.0769
 2022-05-27 07:40:38.696103,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Buffalo Bills,Under 11.5,-0.010599999999999998,0.4545,0.4651
 2022-05-27 12:30:20.535913,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Denver Broncos,Under 10,-0.010699999999999932,0.5348,0.5455
-2022-05-27 12:30:20.771329,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Tampa Bay Buccaneers,Over 11.5,-0.01100000000000001,0.5238,0.5348
 2022-05-27 12:30:20.562254,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Green Bay Packers,Over 11,-0.01100000000000001,0.5238,0.5348
+2022-05-27 12:30:20.771329,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Tampa Bay Buccaneers,Over 11.5,-0.01100000000000001,0.5238,0.5348
 2022-05-27 07:40:38.883864,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Detroit Lions,Under 6.5,-0.011600000000000055,0.5122,0.5238
 2022-05-27 12:30:20.726176,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Philadelphia Eagles,Under 9.5,-0.011600000000000055,0.5122,0.5238
 2022-05-27 11:31:18.497408,Boxing Lines - Gervonta Davis vs Rolando Romero - To Win the Bout,Gervonta Davis,-0.011699999999999933,0.905,0.9167
