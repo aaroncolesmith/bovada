@@ -2,6 +2,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-26 19:41:05.975299,NFL Specials - Where will Colin Kaepernick Play Game 1 of the 2022/2023 NFL Season? - Proposition,Not On Active Roster For Week 1,0.05709999999999993,0.8571,0.8
 2022-05-27 03:30:48.350173,NFL Specials - Where will Colin Kaepernick Play Game 1 of the 2022/2023 NFL Season? - Proposition,Not On Active Roster For Week 1,0.052000000000000046,0.9091,0.8571
 2022-05-26 21:30:45.358757,Video Game Specials - Which city will Grand Theft Auto 6 be based on? - Outright,Miami,0.044399999999999995,0.4444,0.4
+2022-05-27 06:31:28.622916,Boxing Lines - Joshua John vs Mark McKeown - To Win the Bout,Joshua John,0.02729999999999999,0.2273,0.2
+2022-05-27 06:31:32.097527,NFL Futures - 2022/2023 Division Winner - AFC East - AFC East Winner,Buffalo Bills,0.025600000000000067,0.6923,0.6667
 2022-05-26 21:30:45.396420,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,0.020699999999999996,0.4651,0.4444
 2022-05-26 19:41:07.227788,Boxing Lines - Joshua John vs Mark McKeown - To Win the Bout,Mark McKeown,0.020500000000000074,0.8667,0.8462
 2022-05-27 03:30:48.121018,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Defensive Rookie of the Year,Troy Andersen,0.019499999999999997,0.0294,0.0099
@@ -13,16 +15,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-26 21:30:45.056604,Box Office Specials - Opening Weekend Domestic Box Office Gross - Avatar: The Way of Water - Proposition,"Over $100,000,000",0.012299999999999978,0.6552,0.6429
 2022-05-26 21:30:45.382125,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Warriors to beat Celtics,0.01100000000000001,0.5348,0.5238
 2022-05-27 01:31:25.951161,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Joe Smith Jr,0.010899999999999993,0.1538,0.1429
+2022-05-27 06:31:31.382177,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Offensive Rookie of the Year,Jalen Tolbert,0.010600000000000002,0.0323,0.0217
+2022-05-27 06:31:30.724425,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Detroit Lions,Over 6.5,0.010099999999999998,0.5556,0.5455
 2022-05-27 03:30:47.543619,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,0.010099999999999998,0.4545,0.4444
+2022-05-27 06:31:30.605819,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Buffalo Bills,Under 11.5,-0.010599999999999998,0.4545,0.4651
 2022-05-27 00:31:24.847739,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Joe Smith Jr,-0.010899999999999993,0.1429,0.1538
+2022-05-27 06:31:30.724425,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Detroit Lions,Under 6.5,-0.011600000000000055,0.5122,0.5238
 2022-05-27 03:30:48.350173,NFL Specials - Where will Colin Kaepernick Play Game 1 of the 2022/2023 NFL Season? - Proposition,Seattle Seahawks,-0.011900000000000008,0.0833,0.0952
 2022-05-26 21:30:45.396420,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jayson Tatum,-0.013300000000000034,0.3571,0.3704
-2022-05-27 03:30:48.350173,NFL Specials - Where will Colin Kaepernick Play Game 1 of the 2022/2023 NFL Season? - Proposition,Carolina Panthers,-0.014100000000000001,0.0385,0.0526
 2022-05-27 03:30:48.350173,NFL Specials - Where will Colin Kaepernick Play Game 1 of the 2022/2023 NFL Season? - Proposition,Detroit Lions,-0.014100000000000001,0.0385,0.0526
+2022-05-27 03:30:48.350173,NFL Specials - Where will Colin Kaepernick Play Game 1 of the 2022/2023 NFL Season? - Proposition,Carolina Panthers,-0.014100000000000001,0.0385,0.0526
 2022-05-27 03:30:47.543619,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.01539999999999997,0.6,0.6154
 2022-05-26 19:41:07.337866,Boxing Lines - Erislandy Lara vs Gary O'Sullivan - To Win the Bout,Gary O'Sullivan,-0.016700000000000007,0.0833,0.1
+2022-05-27 06:31:32.097527,NFL Futures - 2022/2023 Division Winner - AFC East - AFC East Winner,Miami Dolphins,-0.01820000000000002,0.1818,0.2
 2022-05-26 21:30:45.094880,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Under $130,000,000",-0.019699999999999995,0.4348,0.4545
 2022-05-26 19:41:07.227788,Boxing Lines - Joshua John vs Mark McKeown - To Win the Bout,Joshua John,-0.022199999999999998,0.2,0.2222
+2022-05-27 06:31:28.622916,Boxing Lines - Joshua John vs Mark McKeown - To Win the Bout,Mark McKeown,-0.02639999999999998,0.8403,0.8667
 2022-05-27 03:30:48.350173,NFL Specials - Where will Colin Kaepernick Play Game 1 of the 2022/2023 NFL Season? - Proposition,Las Vegas Raiders,-0.02779999999999999,0.2222,0.25
 2022-05-27 04:31:34.151005,Boxing Lines - Christian Hammer vs Drazan Janjanin - To Win the Bout,Drazan Janjanin,-0.0294,0.0294,0.0588
 2022-05-26 19:41:05.975299,NFL Specials - Where will Colin Kaepernick Play Game 1 of the 2022/2023 NFL Season? - Proposition,Las Vegas Raiders,-0.057699999999999974,0.25,0.3077
