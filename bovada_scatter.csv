@@ -25,12 +25,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-27 07:40:37.976691,Boxing Lines - Joshua John vs Mark McKeown - To Win the Bout,Joshua John,0.0174,0.2174,0.2
 2022-05-27 05:32:19.229065,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.01539999999999997,0.6154,0.6
 2022-05-27 15:30:47.276030,Boxing Lines - Joshua John vs Mark McKeown - To Win the Bout,Joshua John,0.01369999999999999,0.241,0.2273
-2022-05-27 11:31:17.467187,Liga ACB - Liga ACB 2021/2022 - Outright,Joventut,0.0131,0.0476,0.0345
-2022-05-27 10:30:52.023891,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Minnesota Twins,0.0131,0.0476,0.0345
 2022-05-27 10:30:52.890383,NFL Specials - Where will Colin Kaepernick Play Game 1 of the 2022/2023 NFL Season? - Proposition,Las Vegas Raiders,0.0131,0.2353,0.2222
+2022-05-27 10:30:52.023891,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Minnesota Twins,0.0131,0.0476,0.0345
+2022-05-27 11:31:17.467187,Liga ACB - Liga ACB 2021/2022 - Outright,Joventut,0.0131,0.0476,0.0345
 2022-05-27 12:30:20.656576,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Minnesota Vikings,Under 9,0.012199999999999989,0.5122,0.5
-2022-05-27 11:31:19.009219,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Chicago Bears,Over 6.5,0.012199999999999989,0.5122,0.5
 2022-05-27 11:31:18.992665,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Carolina Panthers,Under 5.5,0.012199999999999989,0.5122,0.5
+2022-05-27 11:31:19.009219,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Chicago Bears,Over 6.5,0.012199999999999989,0.5122,0.5
 2022-05-27 12:30:20.646903,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Miami Dolphins,Under 9,0.011600000000000055,0.5238,0.5122
 2022-05-27 12:30:20.535913,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Denver Broncos,Over 10,0.01100000000000001,0.5348,0.5238
 2022-05-27 12:30:20.771329,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Tampa Bay Buccaneers,Under 11.5,0.010699999999999932,0.5455,0.5348
@@ -44,8 +44,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-27 12:30:20.535913,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Denver Broncos,Under 10,-0.010699999999999932,0.5348,0.5455
 2022-05-27 12:30:20.771329,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Tampa Bay Buccaneers,Over 11.5,-0.01100000000000001,0.5238,0.5348
 2022-05-27 12:30:20.562254,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Green Bay Packers,Over 11,-0.01100000000000001,0.5238,0.5348
-2022-05-27 12:30:20.726176,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Philadelphia Eagles,Under 9.5,-0.011600000000000055,0.5122,0.5238
 2022-05-27 07:40:38.883864,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Detroit Lions,Under 6.5,-0.011600000000000055,0.5122,0.5238
+2022-05-27 12:30:20.726176,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Philadelphia Eagles,Under 9.5,-0.011600000000000055,0.5122,0.5238
 2022-05-27 11:31:18.497408,Boxing Lines - Gervonta Davis vs Rolando Romero - To Win the Bout,Gervonta Davis,-0.011699999999999933,0.905,0.9167
 2022-05-27 15:30:47.347696,Boxing Lines - Morgan Jones vs Gerome Warburton - To Win the Bout,Morgan Jones,-0.012700000000000045,0.6364,0.6491
 2022-05-27 07:40:36.846395,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Andrew Wiggins,-0.014100000000000001,0.0385,0.0526
@@ -53,17 +53,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-27 11:31:17.467187,Liga ACB - Liga ACB 2021/2022 - Outright,Tenerife,-0.014499999999999999,0.0149,0.0294
 2022-05-27 07:40:36.922713,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,-0.01539999999999997,0.6,0.6154
 2022-05-27 11:31:17.639035,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Republican,-0.016700000000000048,0.7333,0.75
+2022-05-27 17:30:19.946509,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.018100000000000005,0.4167,0.4348
 2022-05-27 07:40:40.041160,NFL Futures - 2022/2023 Division Winner - AFC East - AFC East Winner,Miami Dolphins,-0.01820000000000002,0.1818,0.2
 2022-05-27 12:30:20.627283,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Los Angeles Chargers,Over 10,-0.01880000000000004,0.5556,0.5744
 2022-05-27 07:40:36.922713,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.019699999999999995,0.4348,0.4545
 2022-05-27 11:31:17.256231,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Warriors to beat Celtics,-0.01970000000000005,0.5455,0.5652
 2022-05-27 10:30:55.156137,Champions League Final - Player Stats - Player Total Shots On Target - Player Shots On Target - Karim Benzema,Over 1.5,-0.021699999999999997,0.4545,0.4762
+2022-05-27 17:30:19.824621,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Winning Conference,Eastern Conference,-0.021699999999999997,0.4545,0.4762
 2022-05-27 11:31:17.270078,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Winning Conference,Eastern Conference,-0.023799999999999988,0.4762,0.5
 2022-05-27 07:40:37.976691,Boxing Lines - Joshua John vs Mark McKeown - To Win the Bout,Mark McKeown,-0.02639999999999998,0.8403,0.8667
 2022-05-27 10:30:52.023891,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Yankees,-0.028799999999999992,0.125,0.1538
-2022-05-27 04:31:34.151005,Boxing Lines - Christian Hammer vs Drazan Janjanin - To Win the Bout,Drazan Janjanin,-0.0294,0.0294,0.0588
-2022-05-27 12:30:20.786949,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Tennessee Titans,Under 9.5,-0.03610000000000002,0.5556,0.5917
 2022-05-27 12:30:20.747018,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - San Francisco 49ers,Under 10,-0.03610000000000002,0.5556,0.5917
+2022-05-27 12:30:20.786949,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Tennessee Titans,Under 9.5,-0.03610000000000002,0.5556,0.5917
+2022-05-27 17:30:19.809892,NBA Season Props - 2021/22 NBA Finals Props - 2022 NBA Finals - Exact Outcome - Teams,Celtics to beat Warriors,-0.0378,0.4167,0.4545
 2022-05-27 11:31:18.918495,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Arizona Cardinals,Under 9,-0.044399999999999995,0.5556,0.6
 2022-05-27 11:31:18.936929,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Atlanta Falcons,Under 4.5,-0.05300000000000005,0.5122,0.5652
 2022-05-27 11:31:17.491665,Super Ligi - Turkey BSL 2021/22 - Outright,Fenerbahce,-0.06270000000000003,0.3077,0.3704
