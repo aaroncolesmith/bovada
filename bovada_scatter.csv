@@ -5,18 +5,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-28 04:31:24.076180,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP - Stephen Curry Vs Field,Stephen Curry,0.03489999999999999,0.5,0.4651
 2022-05-28 04:31:24.062127,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,0.03489999999999999,0.5,0.4651
 2022-05-28 04:31:24.098992,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.02960000000000007,0.6296,0.6
+2022-05-28 07:31:15.546375,MLB Futures - MLB 2022 Amercian League - AL Winner,Seattle Mariners,0.025599999999999998,0.0435,0.0179
 2022-05-28 01:30:39.502867,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,0.018100000000000005,0.4348,0.4167
+2022-05-28 07:31:15.511259,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Yankees,0.0179,0.1429,0.125
+2022-05-28 07:31:15.546375,MLB Futures - MLB 2022 Amercian League - AL Winner,New York Yankees,0.016699999999999993,0.2667,0.25
 2022-05-28 04:31:24.062127,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Bam Adebayo,0.0145,0.0244,0.0099
+2022-05-28 07:31:15.577378,MLB Futures - MLB 2022 National League - NL Winner,Philadelphia Phillies,0.014399999999999996,0.0769,0.0625
 2022-05-28 01:30:39.502867,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.014100000000000001,0.0526,0.0385
+2022-05-28 07:31:15.511259,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Philadelphia Phillies,0.014099999999999998,0.0385,0.0244
 2022-05-28 05:31:09.524505,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Over $130,000,000",0.013299999999999979,0.6429,0.6296
 2022-05-28 02:30:46.060678,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Georgia,0.011700000000000016,0.2222,0.2105
 2022-05-28 05:31:09.472537,Box Office Specials - Opening Weekend Domestic Box Office Gross - Avatar: The Way of Water - Proposition,"Over $100,000,000",0.011499999999999955,0.6667,0.6552
+2022-05-28 07:31:15.577378,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,0.011099999999999999,0.339,0.3279
+2022-05-28 07:31:15.546375,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,0.010499999999999982,0.2105,0.2
 2022-05-27 20:30:23.911028,KBO League - KBO League 2022 - Outright,SSG Landers,0.010099999999999998,0.4545,0.4444
+2022-05-28 07:31:15.603400,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.010099999999999998,0.4444,0.4545
 2022-05-28 00:30:46.365945,Boxing Lines - Jake Tinklin vs Lloyd Germain - To Win the Bout,Jake Tinklin,-0.011300000000000088,0.6183,0.6296
+2022-05-28 07:31:22.577573,Champions League Final - Player Stats - Player Total Shots - Player Shots - Vinicius Junior,Under 1.5,-0.012199999999999989,0.5,0.5122
+2022-05-28 07:31:15.511259,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Minnesota Twins,-0.0131,0.0345,0.0476
+2022-05-28 07:31:22.028085,Champions League Final - Player Stats - Player Total Shots - To Have 3 Or More Shots,Mohamed Salah,-0.013799999999999923,0.6226,0.6364
 2022-05-28 02:30:46.089090,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Bijan Robinson,-0.014100000000000001,0.0385,0.0526
+2022-05-28 07:31:22.028085,Champions League Final - Player Stats - Player Total Shots - To Have 3 Or More Shots,Karim Benzema,-0.016699999999999937,0.5833,0.6
+2022-05-28 07:31:15.577378,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,-0.018099999999999998,0.0588,0.0769
+2022-05-28 07:31:21.985154,Champions League Final - Player Stats - Player Total Shots - To Have 2 Or More Shots,Mohamed Salah,-0.018100000000000005,0.9231,0.9412
 2022-05-28 05:31:09.524505,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Under $130,000,000",-0.018100000000000005,0.4167,0.4348
+2022-05-28 07:31:21.985154,Champions League Final - Player Stats - Player Total Shots - To Have 2 Or More Shots,Luis Diaz,-0.023799999999999932,0.8333,0.8571
+2022-05-28 07:31:15.546375,MLB Futures - MLB 2022 Amercian League - AL Winner,Tampa Bay Rays,-0.024999999999999994,0.1,0.125
 2022-05-28 02:30:46.089090,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,CJ Stroud,-0.047599999999999976,0.2857,0.3333
 2022-05-28 04:31:24.062127,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jaylen Brown,-0.048600000000000004,0.0625,0.1111
+2022-05-28 07:31:15.577378,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,-0.04909999999999999,0.1176,0.1667
 2022-05-28 02:30:45.495977,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.06440000000000001,0.3704,0.4348
 2022-05-28 04:31:24.098992,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.10370000000000001,0.2667,0.3704
 2022-05-28 04:31:24.062127,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jayson Tatum,-0.17529999999999998,0.1818,0.3571
