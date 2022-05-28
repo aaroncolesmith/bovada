@@ -3,9 +3,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-28 02:30:45.495977,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.0585,0.1111,0.0526
 2022-05-28 04:31:24.098992,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.05559999999999998,0.1667,0.1111
 2022-05-28 08:40:16.323265,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,0.04760000000000009,0.7143,0.6667
+2022-05-28 09:32:20.439958,Political Specials - 2022 Texas Gubernatorial Election - Odds to Win - Outright,Greg Abbott,0.04270000000000007,0.8889,0.8462
 2022-05-28 08:40:16.415267,MLB Futures - MLB 2022 National League East - NLE Winner,Philadelphia Phillies,0.04269999999999999,0.1538,0.1111
 2022-05-28 04:31:24.076180,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP - Stephen Curry Vs Field,Stephen Curry,0.03489999999999999,0.5,0.4651
 2022-05-28 04:31:24.062127,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,0.03489999999999999,0.5,0.4651
+2022-05-28 09:32:20.439958,Political Specials - 2022 Texas Gubernatorial Election - Odds to Win - Outright,Beto O'Rourke,0.033399999999999985,0.1667,0.1333
 2022-05-28 08:40:16.382515,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,0.03270000000000001,0.3226,0.2899
 2022-05-28 04:31:24.098992,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.02960000000000007,0.6296,0.6
 2022-05-28 07:31:15.546375,MLB Futures - MLB 2022 Amercian League - AL Winner,Seattle Mariners,0.025599999999999998,0.0435,0.0179
@@ -22,6 +24,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-28 05:31:09.524505,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Over $130,000,000",0.013299999999999979,0.6429,0.6296
 2022-05-28 02:30:46.060678,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Georgia,0.011700000000000016,0.2222,0.2105
 2022-05-28 05:31:09.472537,Box Office Specials - Opening Weekend Domestic Box Office Gross - Avatar: The Way of Water - Proposition,"Over $100,000,000",0.011499999999999955,0.6667,0.6552
+2022-05-28 09:32:21.250448,Boxing Lines - Joshua John vs Mark McKeown - To Win the Bout,Joshua John,0.011300000000000004,0.2439,0.2326
 2022-05-28 07:31:15.577378,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,0.011099999999999999,0.339,0.3279
 2022-05-28 07:31:15.546375,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,0.010499999999999982,0.2105,0.2
 2022-05-28 07:31:15.603400,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.010099999999999998,0.4444,0.4545
@@ -34,8 +37,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-28 07:31:22.028085,Champions League Final - Player Stats - Player Total Shots - To Have 3 Or More Shots,Karim Benzema,-0.016699999999999937,0.5833,0.6
 2022-05-28 08:40:16.443501,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,-0.016699999999999993,0.25,0.2667
 2022-05-28 07:31:15.577378,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,-0.018099999999999998,0.0588,0.0769
-2022-05-28 07:31:21.985154,Champions League Final - Player Stats - Player Total Shots - To Have 2 Or More Shots,Mohamed Salah,-0.018100000000000005,0.9231,0.9412
 2022-05-28 05:31:09.524505,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Under $130,000,000",-0.018100000000000005,0.4167,0.4348
+2022-05-28 07:31:21.985154,Champions League Final - Player Stats - Player Total Shots - To Have 2 Or More Shots,Mohamed Salah,-0.018100000000000005,0.9231,0.9412
+2022-05-28 08:40:16.602657,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Republican,-0.018999999999999906,0.7143,0.7333
 2022-05-28 08:40:16.323265,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,-0.022199999999999998,0.2,0.2222
 2022-05-28 07:31:21.985154,Champions League Final - Player Stats - Player Total Shots - To Have 2 Or More Shots,Luis Diaz,-0.023799999999999932,0.8333,0.8571
 2022-05-28 07:31:15.546375,MLB Futures - MLB 2022 Amercian League - AL Winner,Tampa Bay Rays,-0.024999999999999994,0.1,0.125
