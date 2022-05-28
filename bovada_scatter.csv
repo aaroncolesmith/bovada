@@ -3,15 +3,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-28 13:30:17.638561,LKL - LKL 2021/22 - Outright,Panevezio Lietkabelis,0.28929999999999995,0.6667,0.3774
 2022-05-28 04:31:24.062127,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jimmy Butler,0.13729999999999998,0.1667,0.0294
 2022-05-28 11:33:11.731715,Super Ligi - Turkey BSL 2021/22 - Outright,Galatasaray SK,0.08410000000000001,0.1429,0.0588
-2022-05-28 02:30:45.495977,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.0585,0.1111,0.0526
 2022-05-28 04:31:24.098992,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.05559999999999998,0.1667,0.1111
 2022-05-28 08:40:16.323265,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,0.04760000000000009,0.7143,0.6667
 2022-05-28 11:33:11.440529,LNB Pro A - LNB Pro A 2021/22 - Outright,Monaco,0.04290000000000005,0.4,0.3571
 2022-05-28 09:32:20.439958,Political Specials - 2022 Texas Gubernatorial Election - Odds to Win - Outright,Greg Abbott,0.04270000000000007,0.8889,0.8462
 2022-05-28 08:40:16.415267,MLB Futures - MLB 2022 National League East - NLE Winner,Philadelphia Phillies,0.04269999999999999,0.1538,0.1111
+2022-05-28 04:31:24.062127,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,0.03489999999999999,0.5,0.4651
 2022-05-28 04:31:24.076180,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP - Stephen Curry Vs Field,Stephen Curry,0.03489999999999999,0.5,0.4651
 2022-05-28 11:33:11.490579,Bundesliga - Bundesliga 2021/22 - Outright,ALBA Berlin,0.03489999999999999,0.5,0.4651
-2022-05-28 04:31:24.062127,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Stephen Curry,0.03489999999999999,0.5,0.4651
 2022-05-28 11:33:11.440529,LNB Pro A - LNB Pro A 2021/22 - Outright,ASVEL Lyon-Villeurbanne,0.0348,0.4348,0.4
 2022-05-28 11:33:10.338019,Boxing Lines - Mahmoud Charr vs Nikola Milacic - To Win the Bout,Mahmoud Charr,0.03420000000000001,0.9231,0.8889
 2022-05-28 09:32:20.439958,Political Specials - 2022 Texas Gubernatorial Election - Odds to Win - Outright,Beto O'Rourke,0.033399999999999985,0.1667,0.1333
@@ -19,21 +18,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-28 11:33:11.731715,Super Ligi - Turkey BSL 2021/22 - Outright,Fenerbahce,0.03130000000000005,0.339,0.3077
 2022-05-28 04:31:24.098992,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Golden State Warriors,0.02960000000000007,0.6296,0.6
 2022-05-28 07:31:15.546375,MLB Futures - MLB 2022 Amercian League - AL Winner,Seattle Mariners,0.025599999999999998,0.0435,0.0179
+2022-05-28 14:31:25.392269,Champions League Final - Player Stats - Player Total Shots - Player Shots - Karim Benzema,Over 2.5,0.024499999999999966,0.6078,0.5833
+2022-05-28 14:31:25.269071,Champions League Final - Player Stats - Player Total Shots - To Have 3 Or More Shots,Karim Benzema,0.024499999999999966,0.6078,0.5833
+2022-05-28 14:31:21.696234,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Over $130,000,000",0.023799999999999932,0.6667,0.6429
+2022-05-28 13:30:19.350912,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Republican,0.022499999999999964,0.7368,0.7143
 2022-05-28 08:40:16.443501,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,0.020100000000000007,0.75,0.7299
 2022-05-28 08:40:16.351949,MLB Futures - MLB 2022 American League West - ALW Winner,Houston Astros,0.018999999999999906,0.7333,0.7143
 2022-05-28 11:33:11.551925,Serie A - Serie A 2021/22 - Outright,Virtus Bologna,0.01880000000000004,0.5744,0.5556
 2022-05-28 11:33:10.513737,Boxing Lines - Jesus Alejandro Ramos vs Luke SantaMaria - To Win the Bout,Luke SantaMaria,0.018599999999999978,0.1667,0.1481
-2022-05-28 01:30:39.502867,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,0.018100000000000005,0.4348,0.4167
 2022-05-28 07:31:15.511259,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Yankees,0.0179,0.1429,0.125
 2022-05-28 08:40:16.602657,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Democratic,0.017600000000000005,0.3509,0.3333
 2022-05-28 07:31:15.546375,MLB Futures - MLB 2022 Amercian League - AL Winner,New York Yankees,0.016699999999999993,0.2667,0.25
 2022-05-28 13:30:20.533633,Boxing Lines - Jesus Alejandro Ramos vs Luke SantaMaria - To Win the Bout,Jesus Alejandro Ramos,0.016699999999999937,0.9167,0.9
 2022-05-28 04:31:24.062127,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Bam Adebayo,0.0145,0.0244,0.0099
 2022-05-28 07:31:15.577378,MLB Futures - MLB 2022 National League - NL Winner,Philadelphia Phillies,0.014399999999999996,0.0769,0.0625
-2022-05-28 01:30:39.502867,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Miami Heat,0.014100000000000001,0.0526,0.0385
 2022-05-28 07:31:15.511259,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Philadelphia Phillies,0.014099999999999998,0.0385,0.0244
 2022-05-28 05:31:09.524505,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Over $130,000,000",0.013299999999999979,0.6429,0.6296
-2022-05-28 02:30:46.060678,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,Georgia,0.011700000000000016,0.2222,0.2105
 2022-05-28 05:31:09.472537,Box Office Specials - Opening Weekend Domestic Box Office Gross - Avatar: The Way of Water - Proposition,"Over $100,000,000",0.011499999999999955,0.6667,0.6552
 2022-05-28 09:32:21.250448,Boxing Lines - Joshua John vs Mark McKeown - To Win the Bout,Joshua John,0.011300000000000004,0.2439,0.2326
 2022-05-28 07:31:15.577378,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,0.011099999999999999,0.339,0.3279
@@ -48,18 +48,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-28 07:31:15.511259,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Minnesota Twins,-0.0131,0.0345,0.0476
 2022-05-28 07:31:22.028085,Champions League Final - Player Stats - Player Total Shots - To Have 3 Or More Shots,Mohamed Salah,-0.013799999999999923,0.6226,0.6364
 2022-05-28 11:33:11.551925,Serie A - Serie A 2021/22 - Outright,Derthona Basket Tortona,-0.014100000000000001,0.0385,0.0526
-2022-05-28 02:30:46.089090,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,Bijan Robinson,-0.014100000000000001,0.0385,0.0526
-2022-05-28 13:30:19.892697,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Ron DeSantis,-0.01469999999999999,0.2353,0.25
 2022-05-28 08:40:16.415267,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,-0.01469999999999999,0.2353,0.25
+2022-05-28 13:30:19.892697,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Ron DeSantis,-0.01469999999999999,0.2353,0.25
 2022-05-28 11:33:11.782756,A1 - Greece A1 2021/22 - Outright,Promitheas Patras,-0.015300000000000001,0.0323,0.0476
 2022-05-28 11:33:10.604985,Boxing Lines - Gervonta Davis vs Rolando Romero - To Win the Bout,Gervonta Davis,-0.016100000000000003,0.8889,0.905
 2022-05-28 07:31:22.028085,Champions League Final - Player Stats - Player Total Shots - To Have 3 Or More Shots,Karim Benzema,-0.016699999999999937,0.5833,0.6
 2022-05-28 08:40:16.443501,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,-0.016699999999999993,0.25,0.2667
+2022-05-28 14:31:21.696234,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Under $130,000,000",-0.016699999999999993,0.4,0.4167
 2022-05-28 07:31:15.577378,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,-0.018099999999999998,0.0588,0.0769
 2022-05-28 07:31:21.985154,Champions League Final - Player Stats - Player Total Shots - To Have 2 Or More Shots,Mohamed Salah,-0.018100000000000005,0.9231,0.9412
 2022-05-28 05:31:09.524505,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Under $130,000,000",-0.018100000000000005,0.4167,0.4348
 2022-05-28 08:40:16.602657,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Republican,-0.018999999999999906,0.7143,0.7333
 2022-05-28 11:33:11.440529,LNB Pro A - LNB Pro A 2021/22 - Outright,Dijon,-0.02020000000000001,0.0909,0.1111
+2022-05-28 14:31:25.392269,Champions League Final - Player Stats - Player Total Shots - Player Shots - Karim Benzema,Under 2.5,-0.02210000000000001,0.4587,0.4808
 2022-05-28 08:40:16.323265,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,-0.022199999999999998,0.2,0.2222
 2022-05-28 13:30:19.350912,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Democratic,-0.022999999999999965,0.3279,0.3509
 2022-05-28 07:31:21.985154,Champions League Final - Player Stats - Player Total Shots - To Have 2 Or More Shots,Luis Diaz,-0.023799999999999932,0.8333,0.8571
@@ -75,10 +76,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-28 08:40:16.382515,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,-0.03949999999999998,0.75,0.7895
 2022-05-28 11:33:11.490579,Bundesliga - Bundesliga 2021/22 - Outright,Bayern Munich,-0.04139999999999999,0.4348,0.4762
 2022-05-28 11:33:11.440529,LNB Pro A - LNB Pro A 2021/22 - Outright,EB Pau Orthez,-0.04329999999999999,0.0476,0.0909
-2022-05-28 02:30:46.089090,College Season Props - Odds to win 2022 Heisman Trophy - Heisman Trophy Winner,CJ Stroud,-0.047599999999999976,0.2857,0.3333
 2022-05-28 04:31:24.062127,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jaylen Brown,-0.048600000000000004,0.0625,0.1111
 2022-05-28 07:31:15.577378,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,-0.04909999999999999,0.1176,0.1667
-2022-05-28 02:30:45.495977,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.06440000000000001,0.3704,0.4348
 2022-05-28 04:31:24.098992,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.10370000000000001,0.2667,0.3704
 2022-05-28 11:33:11.731715,Super Ligi - Turkey BSL 2021/22 - Outright,Anadolu Efes,-0.12119999999999997,0.5455,0.6667
 2022-05-28 04:31:24.062127,NBA Season Props - 2021/22 NBA Finals Awards - NBA 2022 Finals MVP,Jayson Tatum,-0.17529999999999998,0.1818,0.3571
