@@ -24,8 +24,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-30 09:30:39.218191,Allsvenskan - Swedish Allsvenskan 2022 - Outright,IF Elfsborg,0.0321,0.0909,0.0588
 2022-05-30 05:32:05.366192,MLB Futures - MLB 2022 American League West - ALW Winner,Houston Astros,0.031400000000000095,0.7647,0.7333
 2022-05-30 12:30:38.331958,Serie A - Serie A 2021/22 - Outright,Olimpia Milano,0.030299999999999994,0.4651,0.4348
-2022-05-30 13:34:52.119587,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,São Paulo,0.0294,0.0588,0.0294
 2022-05-30 12:30:38.373280,Liga ACB - Liga ACB 2021/2022 - Outright,Valencia,0.0294,0.0588,0.0294
+2022-05-30 13:34:52.119587,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,São Paulo,0.0294,0.0588,0.0294
 2022-05-30 13:34:52.132623,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Santos,0.028799999999999992,0.1538,0.125
 2022-05-30 05:32:05.484540,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,0.027800000000000047,0.7778,0.75
 2022-05-30 04:30:36.345142,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Artur Beterbiev,0.026700000000000057,0.9091,0.8824
@@ -45,21 +45,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-30 11:31:01.159234,LNB Pro A - LNB Pro A 2021/22 - Outright,ASVEL Lyon-Villeurbanne,0.010599999999999998,0.4651,0.4545
 2022-05-30 13:34:52.145810,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Botafogo,0.0102,0.0769,0.0667
 2022-05-30 05:32:05.306957,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.010099999999999998,0.4545,0.4444
-2022-05-30 05:32:10.158444,NCAA Football Specials - 2022-2023 Wins - Kansas,Under 2.5,-0.01100000000000001,0.5238,0.5348
+2022-05-30 14:31:03.800510,NFL Specials - Where will Colin Kaepernick Play Game 1 of the 2022/2023 NFL Season? - Proposition,Detroit Lions,-0.010700000000000001,0.0278,0.0385
+2022-05-30 14:31:03.800510,NFL Specials - Where will Colin Kaepernick Play Game 1 of the 2022/2023 NFL Season? - Proposition,Carolina Panthers,-0.010700000000000001,0.0278,0.0385
 2022-05-30 05:32:05.306957,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.01100000000000001,0.5238,0.5348
+2022-05-30 05:32:10.158444,NCAA Football Specials - 2022-2023 Wins - Kansas,Under 2.5,-0.01100000000000001,0.5238,0.5348
 2022-05-30 05:32:05.205416,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Angels,-0.011199999999999995,0.0476,0.0588
 2022-05-30 14:31:01.828328,NBA Specials - Where will Kevin Durant play next season? - Proposition,Memphis Grizzlies,-0.011199999999999995,0.0476,0.0588
-2022-05-30 13:34:52.119587,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Fortaleza,-0.0116,0.0033,0.0149
 2022-05-30 05:32:10.107500,NCAA Football Specials - 2022-2023 Wins - Florida,Under 7,-0.0116,0.4762,0.4878
+2022-05-30 13:34:52.119587,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Fortaleza,-0.0116,0.0033,0.0149
 2022-05-30 05:32:10.084801,NCAA Football Specials - 2022-2023 Wins - Clemson ,Over 10.5,-0.012199999999999989,0.5,0.5122
 2022-05-30 05:32:05.337406,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,-0.013599999999999945,0.6923,0.7059
 2022-05-30 13:34:52.132623,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Goiás,-0.013799999999999923,0.6226,0.6364
 2022-05-30 13:34:52.132623,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,RB Bragantino,-0.013999999999999999,0.0769,0.0909
-2022-05-30 05:32:05.274447,MLB Futures - MLB 2022 National League - NL Winner,Philadelphia Phillies,-0.014099999999999994,0.0526,0.0667
 2022-05-30 14:31:01.828328,NBA Specials - Where will Kevin Durant play next season? - Proposition,Golden State Warriors,-0.014099999999999994,0.0526,0.0667
+2022-05-30 05:32:05.274447,MLB Futures - MLB 2022 National League - NL Winner,Philadelphia Phillies,-0.014099999999999994,0.0526,0.0667
 2022-05-30 14:31:01.828328,NBA Specials - Where will Kevin Durant play next season? - Proposition,Boston Celtics,-0.014099999999999994,0.0526,0.0667
-2022-05-30 05:32:05.244518,MLB Futures - MLB 2022 Amercian League - AL Winner,Seattle Mariners,-0.014099999999999998,0.0294,0.0435
 2022-05-30 13:34:52.119587,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Fluminense,-0.014099999999999998,0.0244,0.0385
+2022-05-30 05:32:05.244518,MLB Futures - MLB 2022 Amercian League - AL Winner,Seattle Mariners,-0.014099999999999998,0.0294,0.0435
 2022-05-30 12:30:38.331958,Serie A - Serie A 2021/22 - Outright,Dinamo Sassari,-0.014100000000000001,0.0385,0.0526
 2022-05-30 13:34:52.119587,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,RB Bragantino,-0.014499999999999999,0.0149,0.0294
 2022-05-30 13:34:52.162761,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 6 Finish,Juventude,-0.014900000000000004,0.0196,0.0345
@@ -71,8 +73,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-30 12:30:38.373280,Liga ACB - Liga ACB 2021/2022 - Outright,Joventut,-0.019800000000000005,0.0278,0.0476
 2022-05-30 05:32:05.337406,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,-0.02049999999999999,0.1333,0.1538
 2022-05-30 12:30:38.389509,Super Ligi - Turkey BSL 2021/22 - Outright,Galatasaray SK,-0.02049999999999999,0.1333,0.1538
-2022-05-30 05:32:05.274447,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,-0.022199999999999998,0.3226,0.3448
 2022-05-30 05:32:05.274447,MLB Futures - MLB 2022 National League - NL Winner,New York Mets,-0.022199999999999998,0.2,0.2222
+2022-05-30 05:32:05.274447,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,-0.022199999999999998,0.3226,0.3448
 2022-05-30 05:32:10.455552,NCAA Football Specials - 2022-2023 Wins - Texas Tech ,Over 6,-0.023800000000000043,0.5,0.5238
 2022-05-30 13:34:52.132623,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,São Paulo,-0.023899999999999998,0.0196,0.0435
 2022-05-30 13:34:52.145810,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,RB Bragantino,-0.024999999999999994,0.1,0.125
@@ -98,8 +100,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-30 05:32:05.418783,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,-0.055900000000000005,0.2667,0.3226
 2022-05-30 13:34:52.132623,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Athletico Paranaense,-0.056400000000000006,0.0769,0.1333
 2022-05-30 13:34:52.119587,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Flamengo,-0.06519999999999998,0.2857,0.3509
-2022-05-30 13:34:52.145810,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Atlético Mineiro,-0.06669999999999998,0.8333,0.9
 2022-05-30 09:30:39.218191,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,-0.06669999999999998,0.2,0.2667
+2022-05-30 13:34:52.145810,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Atlético Mineiro,-0.06669999999999998,0.8333,0.9
 2022-05-30 13:34:52.119587,Brasileirao Série A - Brasileirao Serie A 2022 Season - Outright,Atlético Mineiro,-0.06670000000000004,0.3333,0.4
 2022-05-30 13:34:52.145810,Brasileirao Série A - Brasileirao Serie A 2022 Season - Top 4 Finish,Corinthians,-0.06929999999999997,0.4762,0.5455
 2022-05-30 13:34:52.132623,Brasileirao Série A - Brasileirao Serie A 2022 Season - To Be Relegated,Botafogo,-0.07579999999999999,0.0909,0.1667
