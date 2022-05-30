@@ -1,7 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-30 05:32:05.418783,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,0.050000000000000044,0.8,0.75
 2022-05-30 04:30:36.154059,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Over $130,000,000",0.04179999999999995,0.7561,0.7143
+2022-05-30 09:30:39.218191,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,0.03570000000000001,0.2857,0.25
 2022-05-30 05:32:05.337406,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,0.03559999999999999,0.2439,0.2083
+2022-05-30 09:30:39.218191,Allsvenskan - Swedish Allsvenskan 2022 - Outright,IF Elfsborg,0.0321,0.0909,0.0588
 2022-05-30 05:32:05.366192,MLB Futures - MLB 2022 American League West - ALW Winner,Houston Astros,0.031400000000000095,0.7647,0.7333
 2022-05-30 05:32:05.484540,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,0.027800000000000047,0.7778,0.75
 2022-05-30 04:30:36.345142,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Artur Beterbiev,0.026700000000000057,0.9091,0.8824
@@ -41,3 +43,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-30 04:30:36.154059,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Under $130,000,000",-0.04249999999999998,0.3279,0.3704
 2022-05-30 05:32:05.457370,MLB Futures - MLB 2022 National League East - NLE Winner,Philadelphia Phillies,-0.04269999999999999,0.1111,0.1538
 2022-05-30 05:32:05.418783,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,-0.055900000000000005,0.2667,0.3226
+2022-05-30 09:30:39.218191,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,-0.06669999999999998,0.2,0.2667
