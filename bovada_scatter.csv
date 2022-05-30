@@ -1,8 +1,10 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-30 05:32:05.418783,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,0.050000000000000044,0.8,0.75
 2022-05-30 04:30:36.154059,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Over $130,000,000",0.04179999999999995,0.7561,0.7143
+2022-05-30 11:31:01.167748,Bundesliga - Bundesliga 2021/22 - Outright,Bayern Munich,0.04139999999999999,0.4762,0.4348
 2022-05-30 09:30:39.218191,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Malmö FF,0.03570000000000001,0.2857,0.25
 2022-05-30 05:32:05.337406,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,0.03559999999999999,0.2439,0.2083
+2022-05-30 11:31:01.167748,Bundesliga - Bundesliga 2021/22 - Outright,ALBA Berlin,0.03480000000000005,0.5348,0.5
 2022-05-30 09:30:39.218191,Allsvenskan - Swedish Allsvenskan 2022 - Outright,IF Elfsborg,0.0321,0.0909,0.0588
 2022-05-30 05:32:05.366192,MLB Futures - MLB 2022 American League West - ALW Winner,Houston Astros,0.031400000000000095,0.7647,0.7333
 2022-05-30 05:32:05.484540,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,0.027800000000000047,0.7778,0.75
@@ -19,11 +21,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-30 05:32:05.457370,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,0.0131,0.2353,0.2222
 2022-05-30 05:32:05.244518,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,0.011700000000000016,0.2222,0.2105
 2022-05-30 05:32:10.158444,NCAA Football Specials - 2022-2023 Wins - Kansas,Over 2.5,0.010699999999999932,0.5455,0.5348
+2022-05-30 11:31:01.159234,LNB Pro A - LNB Pro A 2021/22 - Outright,ASVEL Lyon-Villeurbanne,0.010599999999999998,0.4651,0.4545
 2022-05-30 05:32:05.306957,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.010099999999999998,0.4545,0.4444
 2022-05-30 00:31:19.989154,NFL Futures - 2022/2023 Division Winner - AFC South - AFC South Winner,Indianapolis Colts,0.010099999999999998,0.5556,0.5455
 2022-05-30 00:31:22.512628,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.010299999999999976,0.2564,0.2667
-2022-05-30 05:32:05.306957,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.01100000000000001,0.5238,0.5348
 2022-05-30 05:32:10.158444,NCAA Football Specials - 2022-2023 Wins - Kansas,Under 2.5,-0.01100000000000001,0.5238,0.5348
+2022-05-30 05:32:05.306957,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.01100000000000001,0.5238,0.5348
 2022-05-30 05:32:05.205416,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Angels,-0.011199999999999995,0.0476,0.0588
 2022-05-30 05:32:10.107500,NCAA Football Specials - 2022-2023 Wins - Florida,Under 7,-0.0116,0.4762,0.4878
 2022-05-30 05:32:10.084801,NCAA Football Specials - 2022-2023 Wins - Clemson ,Over 10.5,-0.012199999999999989,0.5,0.5122
@@ -37,8 +40,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-30 05:32:05.274447,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,-0.022199999999999998,0.3226,0.3448
 2022-05-30 05:32:10.455552,NCAA Football Specials - 2022-2023 Wins - Texas Tech ,Over 6,-0.023800000000000043,0.5,0.5238
 2022-05-30 05:32:05.484540,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,-0.02779999999999999,0.2222,0.25
+2022-05-30 11:31:01.167748,Bundesliga - Bundesliga 2021/22 - Outright,MHP Riesen Ludwigsburg,-0.0282,0.0244,0.0526
 2022-05-30 05:32:05.366192,MLB Futures - MLB 2022 American League West - ALW Winner,Los Angeles Angels,-0.04099999999999998,0.2667,0.3077
 2022-05-30 04:30:36.154059,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Under $130,000,000",-0.04249999999999998,0.3279,0.3704
 2022-05-30 05:32:05.457370,MLB Futures - MLB 2022 National League East - NLE Winner,Philadelphia Phillies,-0.04269999999999999,0.1111,0.1538
+2022-05-30 11:31:01.167748,Bundesliga - Bundesliga 2021/22 - Outright,Telekom Baskets Bonn,-0.04440000000000001,0.0667,0.1111
 2022-05-30 05:32:05.418783,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,-0.055900000000000005,0.2667,0.3226
 2022-05-30 09:30:39.218191,Allsvenskan - Swedish Allsvenskan 2022 - Outright,Hammarby IF,-0.06669999999999998,0.2,0.2667
