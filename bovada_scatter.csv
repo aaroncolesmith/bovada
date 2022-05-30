@@ -8,7 +8,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-30 05:32:05.484540,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,0.027800000000000047,0.7778,0.75
 2022-05-30 04:30:36.345142,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Artur Beterbiev,0.026700000000000057,0.9091,0.8824
 2022-05-30 05:32:05.457370,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,0.02200000000000002,0.7143,0.6923
-2022-05-29 21:40:52.359401,Boxing Lines - Stephen Fulton vs Daniel Roman - To Win the Bout,Stephen Fulton,0.020500000000000074,0.8667,0.8462
 2022-05-30 05:32:10.455552,NCAA Football Specials - 2022-2023 Wins - Texas Tech ,Under 6,0.01970000000000005,0.5652,0.5455
 2022-05-30 05:32:10.107500,NCAA Football Specials - 2022-2023 Wins - Florida,Over 7,0.017299999999999982,0.5917,0.5744
 2022-05-30 05:32:05.274447,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,0.015899999999999997,0.1111,0.0952
@@ -23,12 +22,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-30 05:32:05.306957,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.010099999999999998,0.4545,0.4444
 2022-05-30 00:31:19.989154,NFL Futures - 2022/2023 Division Winner - AFC South - AFC South Winner,Indianapolis Colts,0.010099999999999998,0.5556,0.5455
 2022-05-30 00:31:22.512628,NBA Futures - 2022 NBA Championship - 2022 Championship Winner,Boston Celtics,-0.010299999999999976,0.2564,0.2667
-2022-05-30 05:32:10.158444,NCAA Football Specials - 2022-2023 Wins - Kansas,Under 2.5,-0.01100000000000001,0.5238,0.5348
 2022-05-30 05:32:05.306957,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.01100000000000001,0.5238,0.5348
+2022-05-30 05:32:10.158444,NCAA Football Specials - 2022-2023 Wins - Kansas,Under 2.5,-0.01100000000000001,0.5238,0.5348
 2022-05-30 05:32:05.205416,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Angels,-0.011199999999999995,0.0476,0.0588
 2022-05-30 05:32:10.107500,NCAA Football Specials - 2022-2023 Wins - Florida,Under 7,-0.0116,0.4762,0.4878
 2022-05-30 05:32:10.084801,NCAA Football Specials - 2022-2023 Wins - Clemson ,Over 10.5,-0.012199999999999989,0.5,0.5122
-2022-05-29 21:40:52.359401,Boxing Lines - Stephen Fulton vs Daniel Roman - To Win the Bout,Daniel Roman,-0.012799999999999978,0.2,0.2128
 2022-05-30 05:32:05.337406,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,-0.013599999999999945,0.6923,0.7059
 2022-05-30 05:32:05.274447,MLB Futures - MLB 2022 National League - NL Winner,Philadelphia Phillies,-0.014099999999999994,0.0526,0.0667
 2022-05-30 05:32:05.244518,MLB Futures - MLB 2022 Amercian League - AL Winner,Seattle Mariners,-0.014099999999999998,0.0294,0.0435
