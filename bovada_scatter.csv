@@ -3,27 +3,51 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-31 11:30:37.760719,Liga ACB - Liga ACB 2021/2022 - Outright,Baskonia,0.044599999999999994,0.0769,0.0323
 2022-05-31 11:30:37.734529,Bundesliga - Bundesliga 2021/22 - Outright,Bayern Munich,0.035999999999999976,0.5122,0.4762
 2022-05-31 12:30:47.769937,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Democratic,0.035699999999999954,0.3636,0.3279
+2022-05-31 19:30:41.212296,MLB Futures - MLB 2022 American League West - ALW Winner,Los Angeles Angels,0.034399999999999986,0.2941,0.2597
+2022-05-31 19:30:41.203554,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,0.033399999999999985,0.1667,0.1333
 2022-05-31 11:30:39.125680,Superettan - Swedish Superettan 2022 - Outright,IK Brage,0.031799999999999995,0.1429,0.1111
 2022-05-31 12:30:47.842315,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Joe Biden,0.029199999999999948,0.3571,0.3279
+2022-05-31 19:30:41.242742,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,0.0267,0.1176,0.0909
+2022-05-31 19:30:41.231516,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,0.02440000000000009,0.7647,0.7403
 2022-05-31 11:30:37.743905,Serie A - Serie A 2021/22 - Outright,Olimpia Milano,0.022699999999999998,0.4878,0.4651
+2022-05-31 19:30:41.022281,CFL Season Props - 2022 - Regular Season Wins - Edmonton Elks - Proposition,Over 6.5,0.02079999999999993,0.5556,0.5348
 2022-05-31 11:30:37.734529,Bundesliga - Bundesliga 2021/22 - Outright,ALBA Berlin,0.02079999999999993,0.5556,0.5348
+2022-05-31 19:30:41.231516,MLB Futures - MLB 2022 National League East - NLE Winner,Miami Marlins,0.019099999999999995,0.0435,0.0244
 2022-05-31 11:30:39.125680,Superettan - Swedish Superettan 2022 - Outright,Brommapojkarna,0.016699999999999993,0.0667,0.05
 2022-05-31 11:30:39.125680,Superettan - Swedish Superettan 2022 - Outright,AFC Eskilstuna,0.015300000000000001,0.0476,0.0323
+2022-05-31 19:30:41.242742,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,0.0131,0.2353,0.2222
 2022-05-31 12:30:47.859798,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Donald Trump,0.011600000000000055,0.5238,0.5122
+2022-05-31 19:30:40.999742,CFL Season Props - 2022 - Regular Season Wins - Saskatchewan Roughriders - Proposition,Under 9.5,0.0116,0.4878,0.4762
 2022-05-31 12:30:47.859798,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Nikki Haley,0.0102,0.0769,0.0667
+2022-05-31 19:30:40.986643,CFL Season Props - 2022 - Regular Season Wins - Winnipeg Blue Bombers - Proposition,Over 11.5,0.010099999999999998,0.5556,0.5455
+2022-05-31 19:30:40.960814,CFL Season Props - 2022 - Regular Season Wins - Hamilton Tiger-Cats - Proposition,Under 10.5,0.010099999999999998,0.5556,0.5455
+2022-05-31 19:30:41.030744,CFL Season Props - 2022 - Regular Season Wins - Toronto Argonauts - Proposition,Over 9.5,0.010099999999999998,0.5556,0.5455
+2022-05-31 19:30:40.973511,CFL Season Props - 2022 - Regular Season Wins - Ottawa Redblacks - Proposition,Over 7.5,0.010099999999999998,0.5556,0.5455
 2022-05-31 10:30:44.291806,Boxing Lines - Stephen Fulton vs Daniel Roman - To Win the Bout,Daniel Roman,-0.010099999999999998,0.1961,0.2062
+2022-05-31 19:30:41.163929,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Yankees,-0.010899999999999993,0.1429,0.1538
 2022-05-31 11:30:39.125680,Superettan - Swedish Superettan 2022 - Outright,Utsiktens,-0.011500000000000003,0.0385,0.05
+2022-05-31 19:30:40.960814,CFL Season Props - 2022 - Regular Season Wins - Hamilton Tiger-Cats - Proposition,Over 10.5,-0.011600000000000055,0.5122,0.5238
+2022-05-31 19:30:40.986643,CFL Season Props - 2022 - Regular Season Wins - Winnipeg Blue Bombers - Proposition,Under 11.5,-0.011600000000000055,0.5122,0.5238
+2022-05-31 19:30:41.030744,CFL Season Props - 2022 - Regular Season Wins - Toronto Argonauts - Proposition,Under 9.5,-0.011600000000000055,0.5122,0.5238
+2022-05-31 19:30:40.973511,CFL Season Props - 2022 - Regular Season Wins - Ottawa Redblacks - Proposition,Under 7.5,-0.011600000000000055,0.5122,0.5238
 2022-05-31 11:30:37.725529,LNB Pro A - LNB Pro A 2021/22 - Outright,Dijon,-0.013999999999999999,0.0769,0.0909
 2022-05-31 11:30:37.777421,A1 - Greece A1 2021/22 - Outright,Promitheas Patras,-0.014900000000000004,0.0196,0.0345
 2022-05-31 11:30:39.125680,Superettan - Swedish Superettan 2022 - Outright,Norrby IF,-0.015,0.005,0.02
 2022-05-31 11:30:39.125680,Superettan - Swedish Superettan 2022 - Outright,Örebro SK,-0.016600000000000004,0.0667,0.0833
+2022-05-31 19:30:40.999742,CFL Season Props - 2022 - Regular Season Wins - Saskatchewan Roughriders - Proposition,Over 9.5,-0.017299999999999982,0.5744,0.5917
 2022-05-31 11:30:39.041450,MLS - MLS Cup 2022 - Top Goalscorer,Sebastian Driussi,-0.0179,0.125,0.1429
 2022-05-31 11:30:39.033513,MLS - MLS Cup 2022 - Outright,Austin FC,-0.018099999999999998,0.0588,0.0769
+2022-05-31 19:30:41.193817,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.020699999999999996,0.4444,0.4651
 2022-05-31 11:30:37.760719,Liga ACB - Liga ACB 2021/2022 - Outright,Barcelona,-0.02200000000000002,0.6923,0.7143
+2022-05-31 19:30:41.022281,CFL Season Props - 2022 - Regular Season Wins - Edmonton Elks - Proposition,Under 6.5,-0.022600000000000064,0.5122,0.5348
 2022-05-31 11:30:37.725529,LNB Pro A - LNB Pro A 2021/22 - Outright,EB Pau Orthez,-0.02310000000000001,0.0769,0.1
 2022-05-31 11:30:39.041450,MLS - MLS Cup 2022 - Top Goalscorer,Jesus Ferreira,-0.023799999999999988,0.1429,0.1667
 2022-05-31 11:30:39.125680,Superettan - Swedish Superettan 2022 - Outright,Skövde AIK,-0.024,0.0385,0.0625
 2022-05-31 11:30:37.743905,Serie A - Serie A 2021/22 - Outright,Dinamo Sassari,-0.0253,0.0132,0.0385
 2022-05-31 12:30:47.842315,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Field,-0.026700000000000057,0.7101,0.7368
 2022-05-31 12:30:47.769937,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Republican,-0.03090000000000004,0.7059,0.7368
+2022-05-31 19:30:41.203554,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,-0.03749999999999998,0.2222,0.2597
+2022-05-31 19:30:41.212296,MLB Futures - MLB 2022 American League West - ALW Winner,Houston Astros,-0.03949999999999998,0.75,0.7895
+2022-05-31 19:30:41.231516,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,-0.04999999999999999,0.2,0.25
 2022-05-31 11:30:37.734529,Bundesliga - Bundesliga 2021/22 - Outright,Telekom Baskets Bonn,-0.05349999999999999,0.0132,0.0667
+2022-05-31 19:30:41.242742,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,-0.05620000000000003,0.7333,0.7895
