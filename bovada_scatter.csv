@@ -2,15 +2,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-31 11:30:37.725529,LNB Pro A - LNB Pro A 2021/22 - Outright,Monaco,0.0595,0.4762,0.4167
 2022-05-31 11:30:37.760719,Liga ACB - Liga ACB 2021/2022 - Outright,Baskonia,0.044599999999999994,0.0769,0.0323
 2022-05-31 11:30:37.734529,Bundesliga - Bundesliga 2021/22 - Outright,Bayern Munich,0.035999999999999976,0.5122,0.4762
-2022-05-31 05:30:41.524866,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,0.03590000000000004,0.7692,0.7333
 2022-05-31 12:30:47.769937,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Democratic,0.035699999999999954,0.3636,0.3279
 2022-05-31 11:30:39.125680,Superettan - Swedish Superettan 2022 - Outright,IK Brage,0.031799999999999995,0.1429,0.1111
 2022-05-31 12:30:47.842315,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Joe Biden,0.029199999999999948,0.3571,0.3279
-2022-05-31 05:30:41.468605,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Field,0.026700000000000057,0.7368,0.7101
 2022-05-31 11:30:37.743905,Serie A - Serie A 2021/22 - Outright,Olimpia Milano,0.022699999999999998,0.4878,0.4651
-2022-05-31 05:30:41.450240,2022 Gubernatorial Elections - Michigan - Michigan winner,Democrats,0.02079999999999993,0.5556,0.5348
 2022-05-31 11:30:37.734529,Bundesliga - Bundesliga 2021/22 - Outright,ALBA Berlin,0.02079999999999993,0.5556,0.5348
-2022-05-31 05:30:41.433590,2022 Gubernatorial Elections - Kansas - Kansas winner,Republicans,0.02079999999999993,0.5556,0.5348
 2022-05-31 11:30:39.125680,Superettan - Swedish Superettan 2022 - Outright,Brommapojkarna,0.016699999999999993,0.0667,0.05
 2022-05-31 11:30:39.125680,Superettan - Swedish Superettan 2022 - Outright,AFC Eskilstuna,0.015300000000000001,0.0476,0.0323
 2022-05-31 12:30:47.859798,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Donald Trump,0.011600000000000055,0.5238,0.5122
@@ -24,14 +20,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-05-31 11:30:39.041450,MLS - MLS Cup 2022 - Top Goalscorer,Sebastian Driussi,-0.0179,0.125,0.1429
 2022-05-31 11:30:39.033513,MLS - MLS Cup 2022 - Outright,Austin FC,-0.018099999999999998,0.0588,0.0769
 2022-05-31 11:30:37.760719,Liga ACB - Liga ACB 2021/2022 - Outright,Barcelona,-0.02200000000000002,0.6923,0.7143
-2022-05-31 05:30:41.450240,2022 Gubernatorial Elections - Michigan - Michigan winner,Republicans,-0.022600000000000064,0.5122,0.5348
-2022-05-31 05:30:41.433590,2022 Gubernatorial Elections - Kansas - Kansas winner,Democrats,-0.022600000000000064,0.5122,0.5348
 2022-05-31 11:30:37.725529,LNB Pro A - LNB Pro A 2021/22 - Outright,EB Pau Orthez,-0.02310000000000001,0.0769,0.1
 2022-05-31 11:30:39.041450,MLS - MLS Cup 2022 - Top Goalscorer,Jesus Ferreira,-0.023799999999999988,0.1429,0.1667
 2022-05-31 11:30:39.125680,Superettan - Swedish Superettan 2022 - Outright,Skövde AIK,-0.024,0.0385,0.0625
 2022-05-31 11:30:37.743905,Serie A - Serie A 2021/22 - Outright,Dinamo Sassari,-0.0253,0.0132,0.0385
 2022-05-31 12:30:47.842315,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Field,-0.026700000000000057,0.7101,0.7368
-2022-05-31 05:30:41.468605,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Joe Biden,-0.029199999999999948,0.3279,0.3571
-2022-05-31 05:30:41.524866,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Jair Bolsonaro,-0.030299999999999994,0.3333,0.3636
 2022-05-31 12:30:47.769937,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Republican,-0.03090000000000004,0.7059,0.7368
 2022-05-31 11:30:37.734529,Bundesliga - Bundesliga 2021/22 - Outright,Telekom Baskets Bonn,-0.05349999999999999,0.0132,0.0667
