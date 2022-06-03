@@ -1,39 +1,27 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-06-02 16:31:08.165657,NBA Specials - Paolo Banchero Draft Speicals - Will Paolo Banchero be Drafted by OKlahoma City Thunder and Play his first NBA Game for THunder?,No,0.8722,0.9722,0.1
 2022-06-02 19:30:45.691506,2022 Gubernatorial Elections - Kansas - Kansas winner,Republicans,0.19440000000000002,0.75,0.5556
 2022-06-02 20:30:41.381706,MLB Futures - MLB 2022 American League West - ALW Winner,Houston Astros,0.09030000000000005,0.8403,0.75
 2022-06-02 18:31:03.065481,MLB Specials - Next Manager to Permanently Leave Post - Outright,Joe Girardi (PHI),0.08150000000000002,0.2353,0.1538
 2022-06-02 19:30:45.728357,2022 Gubernatorial Elections - Nevada - Nevada winner,Democrats,0.06519999999999998,0.5,0.4348
-2022-06-02 16:31:08.523449,College Baseball - CWS 2022 - Corvallis Regional Winner - Proposition,Oregon State,0.06519999999999992,0.6,0.5348
 2022-06-02 20:30:41.374015,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,0.0635,0.2857,0.2222
 2022-06-02 19:30:45.716182,2022 Gubernatorial Elections - Michigan - Michigan winner,Democrats,0.05740000000000001,0.6226,0.5652
 2022-06-02 18:31:02.920544,The Walking Dead - How many Walkers will be killed in the final 8 episodes of The Walking Dead Season 11? - Outright,200+,0.05550000000000002,0.2222,0.1667
 2022-06-02 20:30:41.396708,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,0.05349999999999999,0.8182,0.7647
 2022-06-02 20:30:41.404436,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,0.044500000000000095,0.7778,0.7333
-2022-06-02 16:31:08.649841,College Baseball - CWS 2022 - Stanford Regional Winner - Proposition,Stanford,0.0393,0.6226,0.5833
 2022-06-02 19:30:45.704128,2022 Gubernatorial Elections - Maryland - Maryland winner,Democrats,0.03810000000000002,0.8,0.7619
 2022-06-02 22:30:58.906395,Boxing Lines - Mathieu Germain vs Misael Cabrera Urias - To Win the Bout,Mathieu Germain,0.03710000000000002,0.6923,0.6552
-2022-06-02 16:31:08.543361,College Baseball - CWS 2022 - Gainesville Regional Winner - Proposition,Oklahoma,0.03369999999999995,0.3077,0.274
-2022-06-02 16:31:09.195472,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Jonathan,0.033300000000000024,0.2,0.1667
-2022-06-02 16:31:09.195472,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Steve,0.033300000000000024,0.2,0.1667
-2022-06-02 16:31:08.434690,College Baseball - CWS 2022 - Chapel Hill Regional Winner - Proposition,North Carolina,0.023799999999999988,0.5,0.4762
-2022-06-02 22:30:59.412551,Professional Baseball - NPB 2022 - Outright,Fukuoka SoftBank Hawks,0.022199999999999998,0.2222,0.2
 2022-06-02 20:30:41.359223,MLB Futures - MLB 2022 National League - NL Winner,New York Mets,0.022199999999999998,0.2222,0.2
+2022-06-02 22:30:59.412551,Professional Baseball - NPB 2022 - Outright,Fukuoka SoftBank Hawks,0.022199999999999998,0.2222,0.2
 2022-06-02 19:30:45.768441,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Beto O'Rourke,0.022099999999999998,0.0385,0.0164
-2022-06-02 16:31:08.483500,College Baseball - CWS 2022 - College Station Regional Winner - Proposition,Texas A&M,0.021699999999999997,0.4762,0.4545
 2022-06-02 20:30:41.366646,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.020699999999999996,0.4651,0.4444
-2022-06-02 16:31:08.389965,College Baseball - CWS 2022 - Austin Regional Winner - Proposition,Texas,0.01970000000000005,0.5652,0.5455
 2022-06-03 02:31:37.945515,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,Devin Haney,0.019499999999999962,0.6491,0.6296
-2022-06-02 16:31:06.109789,Boxing Lines - Hemi Ahio vs Christian Ndzie Tsoye - To Win the Bout,Christian Ndzie Tsoye,0.019299999999999998,0.1026,0.0833
 2022-06-02 19:30:45.797837,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Republican,0.018100000000000005,0.5833,0.5652
 2022-06-02 19:30:45.785108,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Ron DeSantis,0.0174,0.25,0.2326
 2022-06-02 20:30:41.359223,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,0.016600000000000004,0.0833,0.0667
 2022-06-02 19:30:45.785108,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Mike Pence,0.016600000000000004,0.0833,0.0667
 2022-06-02 20:30:41.389242,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,0.01629999999999998,0.2941,0.2778
 2022-06-02 20:30:41.598285,Boxing Lines - Mathieu Germain vs Misael Cabrera Urias - To Win the Bout,Misael Cabrera Urias,0.014500000000000013,0.4082,0.3937
-2022-06-02 16:31:09.195472,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Robin,0.013999999999999999,0.0909,0.0769
 2022-06-02 19:30:45.832890,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,0.0131,0.7778,0.7647
-2022-06-02 16:31:08.503201,College Baseball - CWS 2022 - Coral Gables Regional Winner - Proposition,Arizona,0.011700000000000016,0.2222,0.2105
 2022-06-03 04:30:52.515704,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Gonzaga,0.011099999999999999,0.1111,0.1
 2022-06-02 22:30:58.917523,Boxing Lines - Mazlum Akdeniz vs Juan Antonio Rodriguez - To Win the Bout,Juan Antonio Rodriguez,-0.010099999999999998,0.3125,0.3226
 2022-06-02 18:31:03.065481,MLB Specials - Next Manager to Permanently Leave Post - Outright,Bud Black (COL),-0.0102,0.0667,0.0769
@@ -42,30 +30,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-02 20:30:41.389242,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,-0.010500000000000065,0.7895,0.8
 2022-06-02 20:30:41.605912,Boxing Lines - Mazlum Akdeniz vs Juan Antonio Rodriguez - To Win the Bout,Juan Antonio Rodriguez,-0.010699999999999987,0.3226,0.3333
 2022-06-02 18:31:02.920544,The Walking Dead - How many Walkers will be killed in the final 8 episodes of The Walking Dead Season 11? - Outright,126-150,-0.011099999999999999,0.1,0.1111
-2022-06-02 20:30:41.381706,MLB Futures - MLB 2022 American League West - ALW Winner,Seattle Mariners,-0.011199999999999995,0.0323,0.0435
 2022-06-02 20:30:41.359223,MLB Futures - MLB 2022 National League - NL Winner,Philadelphia Phillies,-0.011199999999999995,0.0476,0.0588
+2022-06-02 20:30:41.381706,MLB Futures - MLB 2022 American League West - ALW Winner,Seattle Mariners,-0.011199999999999995,0.0323,0.0435
 2022-06-02 20:30:41.404436,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,-0.0131,0.2222,0.2353
 2022-06-02 20:30:41.342936,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Minnesota Twins,-0.014099999999999998,0.0244,0.0385
-2022-06-02 16:31:08.389965,College Baseball - CWS 2022 - Austin Regional Winner - Proposition,Louisiana Tech,-0.01469999999999999,0.2353,0.25
 2022-06-02 19:30:45.815641,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Joe Biden,-0.015100000000000002,0.1667,0.1818
 2022-06-02 20:30:41.359223,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,-0.01579999999999998,0.3175,0.3333
 2022-06-02 20:30:41.598285,Boxing Lines - Mathieu Germain vs Misael Cabrera Urias - To Win the Bout,Mathieu Germain,-0.016900000000000026,0.6552,0.6721
 2022-06-02 20:30:41.404436,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,-0.01759999999999999,0.1,0.1176
-2022-06-02 16:31:08.523449,College Baseball - CWS 2022 - Corvallis Regional Winner - Proposition,San Diego,-0.01820000000000002,0.1818,0.2
-2022-06-02 16:31:06.048504,Boxing Lines - David Morrell vs Kalvin Henderson - To Win the Bout,David Morrell,-0.018900000000000028,0.9615,0.9804
 2022-06-02 18:31:02.920544,The Walking Dead - How many Walkers will be killed in the final 8 episodes of The Walking Dead Season 11? - Outright,76-100,-0.019000000000000017,0.2667,0.2857
 2022-06-02 17:32:49.949823,Boxing Lines - Hemi Ahio vs Christian Ndzie Tsoye - To Win the Bout,Hemi Ahio,-0.01979999999999993,0.9524,0.9722
 2022-06-02 18:31:03.065481,MLB Specials - Next Manager to Permanently Leave Post - Outright,Dave Martinez (WAS),-0.02020000000000001,0.0909,0.1111
 2022-06-02 18:31:02.920544,The Walking Dead - How many Walkers will be killed in the final 8 episodes of The Walking Dead Season 11? - Outright,101-125,-0.02049999999999999,0.1333,0.1538
-2022-06-02 16:31:08.543361,College Baseball - CWS 2022 - Gainesville Regional Winner - Proposition,Florida,-0.021699999999999997,0.4545,0.4762
 2022-06-02 20:30:41.351118,MLB Futures - MLB 2022 Amercian League - AL Winner,Tampa Bay Rays,-0.02239999999999999,0.0952,0.1176
 2022-06-02 20:30:41.366646,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.022600000000000064,0.5122,0.5348
-2022-06-02 16:31:08.523449,College Baseball - CWS 2022 - Corvallis Regional Winner - Proposition,Vanderbilt,-0.023799999999999988,0.3333,0.3571
 2022-06-02 22:30:59.412551,Professional Baseball - NPB 2022 - Outright,Yomiuri Giants,-0.023799999999999988,0.1429,0.1667
-2022-06-02 16:31:08.503201,College Baseball - CWS 2022 - Coral Gables Regional Winner - Proposition,Miami Florida,-0.023800000000000043,0.5,0.5238
 2022-06-02 20:30:41.396708,MLB Futures - MLB 2022 National League East - NLE Winner,Miami Marlins,-0.023899999999999998,0.0196,0.0435
 2022-06-02 20:30:41.396708,MLB Futures - MLB 2022 National League East - NLE Winner,Philadelphia Phillies,-0.0242,0.0667,0.0909
-2022-06-02 16:31:08.434690,College Baseball - CWS 2022 - Chapel Hill Regional Winner - Proposition,Georgia,-0.0348,0.4,0.4348
 2022-06-02 19:30:45.651690,Political Specials - 2022 Texas Gubernatorial Election - Odds to Win - Outright,Beto O'Rourke,-0.037000000000000005,0.1852,0.2222
 2022-06-02 22:30:58.906395,Boxing Lines - Mathieu Germain vs Misael Cabrera Urias - To Win the Bout,Misael Cabrera Urias,-0.0378,0.3704,0.4082
 2022-06-02 20:30:41.374015,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,-0.04909999999999999,0.1176,0.1667
