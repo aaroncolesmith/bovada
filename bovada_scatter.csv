@@ -1,36 +1,32 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-03 16:31:09.645560,NBA Specials - Where will Zach LaVine play Game 1 Next Season 2022/23 - Outright,Chicago Bulls,0.16660000000000008,0.8333,0.6667
-2022-06-03 09:30:51.040049,LKL - LKL 2021/22 - Outright,Rytas,0.16589999999999994,0.7403,0.5744
 2022-06-03 15:30:54.234422,TV Specials - How many Creatures/Monsters will Geralt Kill in Season 3 of the Witcher on Netflix? - Outright,21+,0.04999999999999999,0.25,0.2
 2022-06-03 15:30:54.168419,The Walking Dead - How many Walkers will be killed in the final 8 episodes of The Walking Dead Season 11? - Outright,1-25,0.04440000000000001,0.1111,0.0667
 2022-06-03 15:30:55.595331,NFL Specials - Which Broadcaster will Drew Brees work for next? - Brees' Next Job?,"Any NFL Team (Player, Coach or Front Office)",0.028000000000000004,0.0476,0.0196
 2022-06-03 15:30:54.299806,Boxing Lines - Gamal Yafai vs Sean Cairns - To Win the Bout,Gamal Yafai,0.024599999999999955,0.9901,0.9655
 2022-06-03 15:30:54.277707,Boxing Lines - Monique Bux vs Ester Koneca - To Win the Bout,Monique Bux,0.024599999999999955,0.9901,0.9655
 2022-06-03 12:30:54.342140,Liga ACB - Liga ACB 2021/2022 - Outright,Real Madrid BC,0.014900000000000024,0.3226,0.3077
-2022-06-03 09:30:50.229486,Boxing Lines - Tony Rashid vs Mark Anthony Geraldo - To Win the Bout,Tony Rashid,0.014800000000000035,0.6226,0.6078
 2022-06-03 11:30:52.937851,Boxing Lines - Trevor Bryan vs Daniel Dubois - To Win the Bout,Daniel Dubois,0.014000000000000012,0.9231,0.9091
 2022-06-03 16:31:10.559060,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,0.011699999999999933,0.7895,0.7778
 2022-06-03 12:30:54.271348,LNB Pro A - LNB Pro A 2021/22 - Outright,Monaco,0.0116,0.4878,0.4762
+2022-06-03 16:31:10.436337,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.011099999999999999,0.1111,0.1
 2022-06-03 12:30:54.271348,LNB Pro A - LNB Pro A 2021/22 - Outright,ASVEL Lyon-Villeurbanne,0.011099999999999999,0.4762,0.4651
 2022-06-03 16:31:10.559060,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,0.011099999999999999,0.1111,0.1
-2022-06-03 16:31:10.436337,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.011099999999999999,0.1111,0.1
 2022-06-03 16:31:10.509165,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,0.010500000000000065,0.8,0.7895
 2022-06-03 16:31:10.534883,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,0.010499999999999982,0.2105,0.2
-2022-06-03 09:30:50.229486,Boxing Lines - Tony Rashid vs Mark Anthony Geraldo - To Win the Bout,Mark Anthony Geraldo,-0.010099999999999998,0.4444,0.4545
-2022-06-03 12:30:54.271348,LNB Pro A - LNB Pro A 2021/22 - Outright,EB Pau Orthez,-0.0102,0.0667,0.0769
 2022-06-03 12:30:54.271348,LNB Pro A - LNB Pro A 2021/22 - Outright,Dijon,-0.0102,0.0667,0.0769
+2022-06-03 12:30:54.271348,LNB Pro A - LNB Pro A 2021/22 - Outright,EB Pau Orthez,-0.0102,0.0667,0.0769
 2022-06-03 15:30:55.581918,NFL Specials - Aaron Donald to retire before the new season? - Retirement? ,Yes,-0.010499999999999982,0.2,0.2105
 2022-06-03 16:31:10.436337,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.010599999999999998,0.4545,0.4651
 2022-06-03 16:31:09.645560,NBA Specials - Where will Zach LaVine play Game 1 Next Season 2022/23 - Outright,Portland Trail Blazers,-0.011099999999999999,0.1,0.1111
 2022-06-03 12:30:54.342140,Liga ACB - Liga ACB 2021/2022 - Outright,Baskonia,-0.014099999999999994,0.0526,0.0667
 2022-06-03 16:31:09.645560,NBA Specials - Where will Zach LaVine play Game 1 Next Season 2022/23 - Outright,Miami Heat,-0.014399999999999996,0.0625,0.0769
 2022-06-03 16:31:10.534883,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,-0.018199999999999994,0.8,0.8182
-2022-06-03 16:31:10.483918,MLB Futures - MLB 2022 American League West - ALW Winner,Los Angeles Angels,-0.022199999999999998,0.2,0.2222
 2022-06-03 16:31:10.559060,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,-0.022199999999999998,0.2,0.2222
+2022-06-03 16:31:10.483918,MLB Futures - MLB 2022 American League West - ALW Winner,Los Angeles Angels,-0.022199999999999998,0.2,0.2222
 2022-06-03 15:30:54.168419,The Walking Dead - How many Walkers will be killed in the final 8 episodes of The Walking Dead Season 11? - Outright,26-50,-0.022199999999999998,0.2,0.2222
 2022-06-03 15:30:54.168419,The Walking Dead - How many Walkers will be killed in the final 8 episodes of The Walking Dead Season 11? - Outright,51-75,-0.02560000000000001,0.3077,0.3333
 2022-06-03 15:30:54.250725,Video Game Specials - Which city will Grand Theft Auto 6 be based on? - Outright,Boston,-0.028399999999999995,0.0625,0.0909
-2022-06-03 16:31:09.645560,NBA Specials - Where will Zach LaVine play Game 1 Next Season 2022/23 - Outright,Los Angeles Lakers,-0.033300000000000024,0.1667,0.2
 2022-06-03 16:31:09.645560,NBA Specials - Where will Zach LaVine play Game 1 Next Season 2022/23 - Outright,San Antonio Spurs,-0.033300000000000024,0.1667,0.2
+2022-06-03 16:31:09.645560,NBA Specials - Where will Zach LaVine play Game 1 Next Season 2022/23 - Outright,Los Angeles Lakers,-0.033300000000000024,0.1667,0.2
 2022-06-03 15:30:54.234422,TV Specials - How many Creatures/Monsters will Geralt Kill in Season 3 of the Witcher on Netflix? - Outright,1-5,-0.047599999999999976,0.2857,0.3333
-2022-06-03 09:30:51.040049,LKL - LKL 2021/22 - Outright,Panevezio Lietkabelis,-0.1753,0.3125,0.4878
