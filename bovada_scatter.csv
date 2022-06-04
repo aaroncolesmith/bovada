@@ -9,12 +9,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-04 14:30:17.176873,College Baseball - CWS 2022 - Stanford Regional Winner - Proposition,Texas State,0.11109999999999998,0.3333,0.2222
 2022-06-04 14:30:17.019915,College Baseball - CWS 2022 - Gainesville Regional Winner - Proposition,Oklahoma,0.10900000000000004,0.4167,0.3077
 2022-06-04 14:30:16.777653,College Baseball - CWS 2022 - Auburn Regional Winner - Proposition,Florida State,0.10590000000000005,0.4,0.2941
-2022-06-04 14:30:16.882939,College Baseball - CWS 2022 - Chapel Hill Regional Winner - Proposition,North Carolina,0.09999999999999998,0.6,0.5
 2022-06-04 14:30:16.777653,College Baseball - CWS 2022 - Auburn Regional Winner - Proposition,Auburn,0.09999999999999998,0.5,0.4
+2022-06-04 14:30:16.882939,College Baseball - CWS 2022 - Chapel Hill Regional Winner - Proposition,North Carolina,0.09999999999999998,0.6,0.5
 2022-06-04 14:30:16.829512,College Baseball - CWS 2022 - Austin Regional Winner - Proposition,Texas,0.08999999999999997,0.6552,0.5652
 2022-06-04 14:30:16.931158,College Baseball - CWS 2022 - College Park Regional Winner - Proposition,Connecticut,0.0849,0.2667,0.1818
-2022-06-04 14:30:17.198836,College Baseball - CWS 2022 - Stillwater Regional Winner - Proposition,Arkansas,0.07619999999999999,0.4762,0.4
 2022-06-04 14:30:17.198836,College Baseball - CWS 2022 - Stillwater Regional Winner - Proposition,Oklahoma State,0.07619999999999999,0.4762,0.4
+2022-06-04 14:30:17.198836,College Baseball - CWS 2022 - Stillwater Regional Winner - Proposition,Arkansas,0.07619999999999999,0.4762,0.4
 2022-06-04 14:30:16.931158,College Baseball - CWS 2022 - College Park Regional Winner - Proposition,Maryland,0.0711,0.4878,0.4167
 2022-06-04 14:30:16.882939,College Baseball - CWS 2022 - Chapel Hill Regional Winner - Proposition,VCU,0.06840000000000002,0.2222,0.1538
 2022-06-04 14:30:16.683305,College Baseball - CWS 2022 - Knoxville Regional Winner - Proposition,Campbell,0.066,0.1429,0.0769
@@ -39,6 +39,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,Oregon State,0.01759999999999999,0.1176,0.1
 2022-06-04 14:30:10.947501,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,George Kambosos Jr,0.016199999999999992,0.4329,0.4167
 2022-06-04 14:30:10.947501,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,Devin Haney,0.015700000000000047,0.6296,0.6139
+2022-06-04 17:30:22.096186,Boxing Lines - Andrew Moloney vs Alexander Espinoza - To Win the Bout,Alexander Espinoza,0.015700000000000006,0.1333,0.1176
 2022-06-04 13:31:06.086647,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Joe Biden,0.015100000000000002,0.1818,0.1667
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,Texas,0.014399999999999996,0.0769,0.0625
 2022-06-04 09:30:21.763259,Liga ACB - Liga ACB 2021/2022 - Outright,Barcelona,0.013599999999999945,0.7059,0.6923
@@ -52,6 +53,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-04 09:30:21.873882,A1 - Greece A1 2021/22 - Outright,Panathinaikos,0.01050000000000001,0.1923,0.1818
 2022-06-04 11:30:46.829267,Boxing Lines - Naoya Inoue vs Nonito Donaire - To Win the Bout,Nonito Donaire,0.010499999999999982,0.2105,0.2
 2022-06-04 10:30:54.439402,Boxing Lines - Hughie Fury vs Michael Hunter - To Win the Bout,Hughie Fury,-0.010099999999999998,0.5455,0.5556
+2022-06-04 17:30:22.096186,Boxing Lines - Andrew Moloney vs Alexander Espinoza - To Win the Bout,Andrew Moloney,-0.010199999999999987,0.9231,0.9333
+2022-06-04 17:30:22.298192,Boxing Lines - Jason Moloney vs Aston Palicte - To Win the Bout,Jason Moloney,-0.011099999999999999,0.8889,0.9
 2022-06-04 11:30:46.721820,Boxing Lines - Kenichi Ogawa vs Joe Cordina - To Win the Bout,Joe Cordina,-0.011300000000000088,0.6183,0.6296
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,Vanderbilt,-0.011399999999999997,0.0164,0.0278
 2022-06-04 13:31:06.015236,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Donald Trump,-0.011600000000000055,0.5122,0.5238
