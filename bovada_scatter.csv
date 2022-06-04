@@ -9,12 +9,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-04 14:30:17.176873,College Baseball - CWS 2022 - Stanford Regional Winner - Proposition,Texas State,0.11109999999999998,0.3333,0.2222
 2022-06-04 14:30:17.019915,College Baseball - CWS 2022 - Gainesville Regional Winner - Proposition,Oklahoma,0.10900000000000004,0.4167,0.3077
 2022-06-04 14:30:16.777653,College Baseball - CWS 2022 - Auburn Regional Winner - Proposition,Florida State,0.10590000000000005,0.4,0.2941
-2022-06-04 14:30:16.777653,College Baseball - CWS 2022 - Auburn Regional Winner - Proposition,Auburn,0.09999999999999998,0.5,0.4
 2022-06-04 14:30:16.882939,College Baseball - CWS 2022 - Chapel Hill Regional Winner - Proposition,North Carolina,0.09999999999999998,0.6,0.5
+2022-06-04 14:30:16.777653,College Baseball - CWS 2022 - Auburn Regional Winner - Proposition,Auburn,0.09999999999999998,0.5,0.4
 2022-06-04 14:30:16.829512,College Baseball - CWS 2022 - Austin Regional Winner - Proposition,Texas,0.08999999999999997,0.6552,0.5652
 2022-06-04 14:30:16.931158,College Baseball - CWS 2022 - College Park Regional Winner - Proposition,Connecticut,0.0849,0.2667,0.1818
-2022-06-04 14:30:17.198836,College Baseball - CWS 2022 - Stillwater Regional Winner - Proposition,Oklahoma State,0.07619999999999999,0.4762,0.4
 2022-06-04 14:30:17.198836,College Baseball - CWS 2022 - Stillwater Regional Winner - Proposition,Arkansas,0.07619999999999999,0.4762,0.4
+2022-06-04 14:30:17.198836,College Baseball - CWS 2022 - Stillwater Regional Winner - Proposition,Oklahoma State,0.07619999999999999,0.4762,0.4
 2022-06-04 14:30:16.931158,College Baseball - CWS 2022 - College Park Regional Winner - Proposition,Maryland,0.0711,0.4878,0.4167
 2022-06-04 14:30:16.882939,College Baseball - CWS 2022 - Chapel Hill Regional Winner - Proposition,VCU,0.06840000000000002,0.2222,0.1538
 2022-06-04 14:30:16.683305,College Baseball - CWS 2022 - Knoxville Regional Winner - Proposition,Campbell,0.066,0.1429,0.0769
@@ -29,10 +29,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,Virginia Tech,0.038299999999999994,0.0909,0.0526
 2022-06-04 14:30:16.683305,College Baseball - CWS 2022 - Knoxville Regional Winner - Proposition,Tennessee,0.03620000000000001,0.8824,0.8462
 2022-06-04 14:30:17.176873,College Baseball - CWS 2022 - Stanford Regional Winner - Proposition,Stanford,0.03259999999999996,0.6552,0.6226
+2022-06-04 18:30:55.009610,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,Devin Haney,0.030299999999999994,0.6667,0.6364
 2022-06-04 14:30:17.152202,College Baseball - CWS 2022 - Hattiesburg Regional Winner - Proposition,Southern Mississippi,0.027700000000000002,0.4444,0.4167
 2022-06-04 09:30:21.561994,LNB Pro A - LNB Pro A 2021/22 - Outright,ASVEL Lyon-Villeurbanne,0.023799999999999988,0.5,0.4762
 2022-06-04 13:31:06.351712,Superhero Movie Specials - Who will be cast as the next Superman in the DCU after Henry Cavill? - Outright,Tom Welling,0.023200000000000002,0.0476,0.0244
 2022-06-04 09:30:21.262852,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.022199999999999998,0.1333,0.1111
+2022-06-04 18:30:54.850960,Boxing Lines - David Papot vs Ahmed El Mousaoui - To Win the Bout,Ahmed El Mousaoui,0.021799999999999986,0.3922,0.3704
 2022-06-04 09:30:21.262852,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.021699999999999997,0.4762,0.4545
 2022-06-04 15:30:52.711468,Boxing Lines - Elie Konki vs Loic Tajan - To Win the Bout,Elie Konki,0.020199999999999996,0.9091,0.8889
 2022-06-04 15:30:55.104638,FIFA World Cup Futures - FIFA World Cup 2022 - To Reach the Final,Germany,0.01820000000000002,0.2,0.1818
@@ -71,6 +73,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,LSU,-0.014100000000000001,0.0385,0.0526
 2022-06-04 13:31:04.984428,Boxing Lines - David Morrell vs Kalvin Henderson - To Win the Bout,David Morrell,-0.014100000000000001,0.9474,0.9615
 2022-06-04 14:30:17.516912,England Premier League - English Premier League 2022/23 - Top 6 Finish,Leicester City,-0.015100000000000002,0.1667,0.1818
+2022-06-04 18:30:54.850960,Boxing Lines - David Papot vs Ahmed El Mousaoui - To Win the Bout,David Papot,-0.01539999999999997,0.6721,0.6875
 2022-06-04 11:30:46.639639,Boxing Lines - Gamal Yafai vs Sean Cairns - To Win the Bout,Gamal Yafai,-0.017900000000000027,0.9722,0.9901
 2022-06-04 13:31:06.046822,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Republican,-0.018100000000000005,0.5652,0.5833
 2022-06-04 14:30:16.882939,College Baseball - CWS 2022 - Chapel Hill Regional Winner - Proposition,Hofstra,-0.019100000000000002,0.0132,0.0323
@@ -82,6 +85,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-04 13:31:05.831646,2022 Gubernatorial Elections - Kansas - Kansas winner,Democrats,-0.030299999999999994,0.303,0.3333
 2022-06-04 14:30:17.516912,England Premier League - English Premier League 2022/23 - Top 6 Finish,Aston Villa,-0.033399999999999985,0.1333,0.1667
 2022-06-04 13:31:05.017410,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,Devin Haney,-0.03520000000000001,0.6139,0.6491
+2022-06-04 18:30:55.009610,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,George Kambosos Jr,-0.03939999999999999,0.3861,0.4255
 2022-06-04 13:31:06.227165,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Aiden Turner,-0.04329999999999999,0.0476,0.0909
 2022-06-04 09:30:21.262852,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.047099999999999975,0.4651,0.5122
 2022-06-04 09:30:21.561994,LNB Pro A - LNB Pro A 2021/22 - Outright,Dijon,-0.047099999999999996,0.0196,0.0667
