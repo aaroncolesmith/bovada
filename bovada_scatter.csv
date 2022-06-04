@@ -13,8 +13,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-04 14:30:16.777653,College Baseball - CWS 2022 - Auburn Regional Winner - Proposition,Auburn,0.09999999999999998,0.5,0.4
 2022-06-04 14:30:16.829512,College Baseball - CWS 2022 - Austin Regional Winner - Proposition,Texas,0.08999999999999997,0.6552,0.5652
 2022-06-04 14:30:16.931158,College Baseball - CWS 2022 - College Park Regional Winner - Proposition,Connecticut,0.0849,0.2667,0.1818
-2022-06-04 14:30:17.198836,College Baseball - CWS 2022 - Stillwater Regional Winner - Proposition,Oklahoma State,0.07619999999999999,0.4762,0.4
 2022-06-04 14:30:17.198836,College Baseball - CWS 2022 - Stillwater Regional Winner - Proposition,Arkansas,0.07619999999999999,0.4762,0.4
+2022-06-04 14:30:17.198836,College Baseball - CWS 2022 - Stillwater Regional Winner - Proposition,Oklahoma State,0.07619999999999999,0.4762,0.4
 2022-06-04 14:30:16.931158,College Baseball - CWS 2022 - College Park Regional Winner - Proposition,Maryland,0.0711,0.4878,0.4167
 2022-06-04 14:30:16.882939,College Baseball - CWS 2022 - Chapel Hill Regional Winner - Proposition,VCU,0.06840000000000002,0.2222,0.1538
 2022-06-04 14:30:16.683305,College Baseball - CWS 2022 - Knoxville Regional Winner - Proposition,Campbell,0.066,0.1429,0.0769
@@ -72,6 +72,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-04 13:31:06.046822,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Republican,-0.018100000000000005,0.5652,0.5833
 2022-06-04 14:30:16.882939,College Baseball - CWS 2022 - Chapel Hill Regional Winner - Proposition,Hofstra,-0.019100000000000002,0.0132,0.0323
 2022-06-04 11:30:46.657144,Boxing Lines - Monique Bux vs Ester Koneca - To Win the Bout,Monique Bux,-0.019199999999999995,0.9709,0.9901
+2022-06-04 16:30:58.935838,Boxing Lines - Elie Konki vs Loic Tajan - To Win the Bout,Elie Konki,-0.020199999999999996,0.8889,0.9091
 2022-06-04 14:30:17.516912,England Premier League - English Premier League 2022/23 - Top 6 Finish,Newcastle United,-0.021999999999999964,0.2857,0.3077
 2022-06-04 14:30:17.516912,England Premier League - English Premier League 2022/23 - Top 6 Finish,Tottenham Hotspur,-0.022199999999999998,0.7778,0.8
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,UCLA,-0.024499999999999997,0.0033,0.0278
