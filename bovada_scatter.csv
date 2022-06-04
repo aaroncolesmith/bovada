@@ -24,20 +24,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-04 14:30:16.991240,College Baseball - CWS 2022 - Corvallis Regional Winner - Proposition,Oregon State,0.04910000000000003,0.6491,0.6
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,Stanford,0.048100000000000004,0.125,0.0769
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,Tennessee,0.047599999999999976,0.3333,0.2857
-2022-06-04 09:30:21.561994,LNB Pro A - LNB Pro A 2021/22 - Outright,Monaco,0.04700000000000004,0.5348,0.4878
 2022-06-04 13:31:06.880208,MLB Specials - Where will Juan Soto play after trade deadline? - Outright,San Francisco Giants,0.04329999999999999,0.0909,0.0476
 2022-06-04 14:30:16.991240,College Baseball - CWS 2022 - Corvallis Regional Winner - Proposition,San Diego,0.04040000000000002,0.2222,0.1818
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,Virginia Tech,0.038299999999999994,0.0909,0.0526
 2022-06-04 14:30:16.683305,College Baseball - CWS 2022 - Knoxville Regional Winner - Proposition,Tennessee,0.03620000000000001,0.8824,0.8462
 2022-06-04 14:30:17.176873,College Baseball - CWS 2022 - Stanford Regional Winner - Proposition,Stanford,0.03259999999999996,0.6552,0.6226
 2022-06-04 18:30:55.009610,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,Devin Haney,0.030299999999999994,0.6667,0.6364
+2022-06-04 21:30:22.777692,Boxing Lines - Jason Moloney vs Aston Palicte - To Win the Bout,Jason Moloney,0.027799999999999936,0.9167,0.8889
 2022-06-04 14:30:17.152202,College Baseball - CWS 2022 - Hattiesburg Regional Winner - Proposition,Southern Mississippi,0.027700000000000002,0.4444,0.4167
 2022-06-04 20:31:33.675187,Boxing Lines - Andrew Moloney vs Alexander Espinoza - To Win the Bout,Andrew Moloney,0.02429999999999999,0.9474,0.9231
-2022-06-04 09:30:21.561994,LNB Pro A - LNB Pro A 2021/22 - Outright,ASVEL Lyon-Villeurbanne,0.023799999999999988,0.5,0.4762
 2022-06-04 13:31:06.351712,Superhero Movie Specials - Who will be cast as the next Superman in the DCU after Henry Cavill? - Outright,Tom Welling,0.023200000000000002,0.0476,0.0244
-2022-06-04 09:30:21.262852,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.022199999999999998,0.1333,0.1111
 2022-06-04 18:30:54.850960,Boxing Lines - David Papot vs Ahmed El Mousaoui - To Win the Bout,Ahmed El Mousaoui,0.021799999999999986,0.3922,0.3704
-2022-06-04 09:30:21.262852,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.021699999999999997,0.4762,0.4545
+2022-06-04 21:30:22.633329,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,Devin Haney,0.02080000000000004,0.6875,0.6667
 2022-06-04 15:30:52.711468,Boxing Lines - Elie Konki vs Loic Tajan - To Win the Bout,Elie Konki,0.020199999999999996,0.9091,0.8889
 2022-06-04 15:30:55.104638,FIFA World Cup Futures - FIFA World Cup 2022 - To Reach the Final,Germany,0.01820000000000002,0.2,0.1818
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,Oregon State,0.01759999999999999,0.1176,0.1
@@ -46,20 +44,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-04 17:30:22.096186,Boxing Lines - Andrew Moloney vs Alexander Espinoza - To Win the Bout,Alexander Espinoza,0.015700000000000006,0.1333,0.1176
 2022-06-04 13:31:06.086647,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Joe Biden,0.015100000000000002,0.1818,0.1667
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,Texas,0.014399999999999996,0.0769,0.0625
-2022-06-04 09:30:21.763259,Liga ACB - Liga ACB 2021/2022 - Outright,Barcelona,0.013599999999999945,0.7059,0.6923
 2022-06-04 13:31:05.831646,2022 Gubernatorial Elections - Kansas - Kansas winner,Republicans,0.011900000000000022,0.7619,0.75
 2022-06-04 10:30:54.439402,Boxing Lines - Hughie Fury vs Michael Hunter - To Win the Bout,Michael Hunter,0.011600000000000055,0.5238,0.5122
 2022-06-04 13:31:06.046822,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Democratic,0.0116,0.4878,0.4762
 2022-06-04 14:30:10.853399,Boxing Lines - Kenichi Ogawa vs Joe Cordina - To Win the Bout,Joe Cordina,0.011300000000000088,0.6296,0.6183
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,Oklahoma,0.011200000000000002,0.0244,0.0132
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,North Carolina,0.010700000000000001,0.0385,0.0278
-2022-06-04 09:30:21.873882,A1 - Greece A1 2021/22 - Outright,Panathinaikos,0.01050000000000001,0.1923,0.1818
+2022-06-04 21:30:25.470001,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Baltimore Ravens,0.010699999999999987,0.3333,0.3226
 2022-06-04 11:30:46.829267,Boxing Lines - Naoya Inoue vs Nonito Donaire - To Win the Bout,Nonito Donaire,0.010499999999999982,0.2105,0.2
 2022-06-04 10:30:54.439402,Boxing Lines - Hughie Fury vs Michael Hunter - To Win the Bout,Hughie Fury,-0.010099999999999998,0.5455,0.5556
 2022-06-04 17:30:22.096186,Boxing Lines - Andrew Moloney vs Alexander Espinoza - To Win the Bout,Andrew Moloney,-0.010199999999999987,0.9231,0.9333
+2022-06-04 21:30:22.777692,Boxing Lines - Jason Moloney vs Aston Palicte - To Win the Bout,Aston Palicte,-0.010899999999999993,0.1429,0.1538
 2022-06-04 17:30:22.298192,Boxing Lines - Jason Moloney vs Aston Palicte - To Win the Bout,Jason Moloney,-0.011099999999999999,0.8889,0.9
 2022-06-04 11:30:46.721820,Boxing Lines - Kenichi Ogawa vs Joe Cordina - To Win the Bout,Joe Cordina,-0.011300000000000088,0.6183,0.6296
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,Vanderbilt,-0.011399999999999997,0.0164,0.0278
+2022-06-04 21:30:25.470001,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Cleveland Browns,-0.01150000000000001,0.3333,0.3448
 2022-06-04 13:31:06.015236,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Donald Trump,-0.011600000000000055,0.5122,0.5238
 2022-06-04 11:30:46.904202,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Artur Beterbiev,-0.011699999999999933,0.905,0.9167
 2022-06-04 11:30:46.793643,Boxing Lines - Junior Fa vs Lucas Browne - To Win the Bout,Lucas Browne,-0.011700000000000002,0.0909,0.1026
@@ -67,10 +66,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,Wake Forest,-0.012100000000000001,0.0123,0.0244
 2022-06-04 11:30:46.890490,Boxing Lines - Jermall Charlo vs Maciej Sulecki - To Win the Bout,Jermall Charlo,-0.012600000000000056,0.9286,0.9412
 2022-06-04 15:30:52.711468,Boxing Lines - Elie Konki vs Loic Tajan - To Win the Bout,Loic Tajan,-0.012899999999999995,0.1538,0.1667
-2022-06-04 09:30:21.873882,A1 - Greece A1 2021/22 - Outright,Larisa,-0.013400000000000002,0.011,0.0244
 2022-06-04 14:30:17.516912,England Premier League - English Premier League 2022/23 - Top 6 Finish,Wolverhampton Wanderers,-0.013999999999999999,0.0769,0.0909
 2022-06-04 11:30:46.872283,Boxing Lines - Trevor Bryan vs Daniel Dubois - To Win the Bout,Daniel Dubois,-0.014000000000000012,0.9091,0.9231
-2022-06-04 09:30:21.561994,LNB Pro A - LNB Pro A 2021/22 - Outright,EB Pau Orthez,-0.014099999999999994,0.0526,0.0667
 2022-06-04 13:31:04.984428,Boxing Lines - David Morrell vs Kalvin Henderson - To Win the Bout,David Morrell,-0.014100000000000001,0.9474,0.9615
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,LSU,-0.014100000000000001,0.0385,0.0526
 2022-06-04 14:30:17.516912,England Premier League - English Premier League 2022/23 - Top 6 Finish,Leicester City,-0.015100000000000002,0.1667,0.1818
@@ -82,17 +79,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-04 16:30:58.935838,Boxing Lines - Elie Konki vs Loic Tajan - To Win the Bout,Elie Konki,-0.020199999999999996,0.8889,0.9091
 2022-06-04 14:30:17.516912,England Premier League - English Premier League 2022/23 - Top 6 Finish,Newcastle United,-0.021999999999999964,0.2857,0.3077
 2022-06-04 14:30:17.516912,England Premier League - English Premier League 2022/23 - Top 6 Finish,Tottenham Hotspur,-0.022199999999999998,0.7778,0.8
-2022-06-04 20:31:32.894970,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Max,-0.0242,0.0667,0.0909
-2022-06-04 20:31:32.894970,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Mike,-0.0242,0.0667,0.0909
 2022-06-04 20:31:32.894970,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Robin,-0.0242,0.0667,0.0909
+2022-06-04 20:31:32.894970,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Mike,-0.0242,0.0667,0.0909
+2022-06-04 20:31:32.894970,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Max,-0.0242,0.0667,0.0909
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,UCLA,-0.024499999999999997,0.0033,0.0278
 2022-06-04 13:31:05.831646,2022 Gubernatorial Elections - Kansas - Kansas winner,Democrats,-0.030299999999999994,0.303,0.3333
 2022-06-04 14:30:17.516912,England Premier League - English Premier League 2022/23 - Top 6 Finish,Aston Villa,-0.033399999999999985,0.1333,0.1667
 2022-06-04 13:31:05.017410,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,Devin Haney,-0.03520000000000001,0.6139,0.6491
 2022-06-04 18:30:55.009610,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,George Kambosos Jr,-0.03939999999999999,0.3861,0.4255
 2022-06-04 13:31:06.227165,James Bond Specials - Who will be cast as the next James Bond after Daniel Craig? - Outright,Aiden Turner,-0.04329999999999999,0.0476,0.0909
-2022-06-04 09:30:21.262852,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.047099999999999975,0.4651,0.5122
-2022-06-04 09:30:21.561994,LNB Pro A - LNB Pro A 2021/22 - Outright,Dijon,-0.047099999999999996,0.0196,0.0667
 2022-06-04 14:30:17.152202,College Baseball - CWS 2022 - Hattiesburg Regional Winner - Proposition,Kennesaw State,-0.048100000000000004,0.0769,0.125
 2022-06-04 14:30:17.198836,College Baseball - CWS 2022 - Stillwater Regional Winner - Proposition,Missouri State,-0.0491,0.0278,0.0769
 2022-06-04 14:30:16.829512,College Baseball - CWS 2022 - Austin Regional Winner - Proposition,Air Force,-0.0503,0.0164,0.0667
