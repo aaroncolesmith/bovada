@@ -5,6 +5,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-03 15:30:55.595331,NFL Specials - Which Broadcaster will Drew Brees work for next? - Brees' Next Job?,"Any NFL Team (Player, Coach or Front Office)",0.028000000000000004,0.0476,0.0196
 2022-06-03 15:30:54.299806,Boxing Lines - Gamal Yafai vs Sean Cairns - To Win the Bout,Gamal Yafai,0.024599999999999955,0.9901,0.9655
 2022-06-03 15:30:54.277707,Boxing Lines - Monique Bux vs Ester Koneca - To Win the Bout,Monique Bux,0.024599999999999955,0.9901,0.9655
+2022-06-04 01:30:22.210617,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,George Kambosos Jr,0.017299999999999982,0.4255,0.4082
 2022-06-04 00:31:07.125547,Super Ligi - Turkey BSL 2021/22 - Outright,Galatasaray SK,0.013999999999999999,0.0909,0.0769
 2022-06-03 16:31:10.559060,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,0.011699999999999933,0.7895,0.7778
 2022-06-03 16:31:10.559060,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,0.011099999999999999,0.1111,0.1
@@ -17,9 +18,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-03 16:31:09.645560,NBA Specials - Where will Zach LaVine play Game 1 Next Season 2022/23 - Outright,Miami Heat,-0.014399999999999996,0.0625,0.0769
 2022-06-04 00:31:06.578350,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,Devin Haney,-0.01749999999999996,0.6377,0.6552
 2022-06-03 16:31:10.534883,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,-0.018199999999999994,0.8,0.8182
+2022-06-03 16:31:10.483918,MLB Futures - MLB 2022 American League West - ALW Winner,Los Angeles Angels,-0.022199999999999998,0.2,0.2222
 2022-06-03 16:31:10.559060,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,-0.022199999999999998,0.2,0.2222
 2022-06-03 15:30:54.168419,The Walking Dead - How many Walkers will be killed in the final 8 episodes of The Walking Dead Season 11? - Outright,26-50,-0.022199999999999998,0.2,0.2222
-2022-06-03 16:31:10.483918,MLB Futures - MLB 2022 American League West - ALW Winner,Los Angeles Angels,-0.022199999999999998,0.2,0.2222
 2022-06-03 15:30:54.168419,The Walking Dead - How many Walkers will be killed in the final 8 episodes of The Walking Dead Season 11? - Outright,51-75,-0.02560000000000001,0.3077,0.3333
 2022-06-03 15:30:54.250725,Video Game Specials - Which city will Grand Theft Auto 6 be based on? - Outright,Boston,-0.028399999999999995,0.0625,0.0909
 2022-06-03 16:31:09.645560,NBA Specials - Where will Zach LaVine play Game 1 Next Season 2022/23 - Outright,San Antonio Spurs,-0.033300000000000024,0.1667,0.2
