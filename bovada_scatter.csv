@@ -9,12 +9,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-04 14:30:17.176873,College Baseball - CWS 2022 - Stanford Regional Winner - Proposition,Texas State,0.11109999999999998,0.3333,0.2222
 2022-06-04 14:30:17.019915,College Baseball - CWS 2022 - Gainesville Regional Winner - Proposition,Oklahoma,0.10900000000000004,0.4167,0.3077
 2022-06-04 14:30:16.777653,College Baseball - CWS 2022 - Auburn Regional Winner - Proposition,Florida State,0.10590000000000005,0.4,0.2941
-2022-06-04 14:30:16.777653,College Baseball - CWS 2022 - Auburn Regional Winner - Proposition,Auburn,0.09999999999999998,0.5,0.4
 2022-06-04 14:30:16.882939,College Baseball - CWS 2022 - Chapel Hill Regional Winner - Proposition,North Carolina,0.09999999999999998,0.6,0.5
+2022-06-04 14:30:16.777653,College Baseball - CWS 2022 - Auburn Regional Winner - Proposition,Auburn,0.09999999999999998,0.5,0.4
 2022-06-04 14:30:16.829512,College Baseball - CWS 2022 - Austin Regional Winner - Proposition,Texas,0.08999999999999997,0.6552,0.5652
 2022-06-04 14:30:16.931158,College Baseball - CWS 2022 - College Park Regional Winner - Proposition,Connecticut,0.0849,0.2667,0.1818
-2022-06-04 14:30:17.198836,College Baseball - CWS 2022 - Stillwater Regional Winner - Proposition,Arkansas,0.07619999999999999,0.4762,0.4
 2022-06-04 14:30:17.198836,College Baseball - CWS 2022 - Stillwater Regional Winner - Proposition,Oklahoma State,0.07619999999999999,0.4762,0.4
+2022-06-04 14:30:17.198836,College Baseball - CWS 2022 - Stillwater Regional Winner - Proposition,Arkansas,0.07619999999999999,0.4762,0.4
 2022-06-04 14:30:16.931158,College Baseball - CWS 2022 - College Park Regional Winner - Proposition,Maryland,0.0711,0.4878,0.4167
 2022-06-04 14:30:16.882939,College Baseball - CWS 2022 - Chapel Hill Regional Winner - Proposition,VCU,0.06840000000000002,0.2222,0.1538
 2022-06-04 14:30:16.683305,College Baseball - CWS 2022 - Knoxville Regional Winner - Proposition,Campbell,0.066,0.1429,0.0769
@@ -34,6 +34,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-04 13:31:06.351712,Superhero Movie Specials - Who will be cast as the next Superman in the DCU after Henry Cavill? - Outright,Tom Welling,0.023200000000000002,0.0476,0.0244
 2022-06-04 09:30:21.262852,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.022199999999999998,0.1333,0.1111
 2022-06-04 09:30:21.262852,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.021699999999999997,0.4762,0.4545
+2022-06-04 15:30:52.711468,Boxing Lines - Elie Konki vs Loic Tajan - To Win the Bout,Elie Konki,0.020199999999999996,0.9091,0.8889
+2022-06-04 15:30:55.104638,FIFA World Cup Futures - FIFA World Cup 2022 - To Reach the Final,Germany,0.01820000000000002,0.2,0.1818
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,Oregon State,0.01759999999999999,0.1176,0.1
 2022-06-04 14:30:10.947501,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,George Kambosos Jr,0.016199999999999992,0.4329,0.4167
 2022-06-04 14:30:10.947501,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,Devin Haney,0.015700000000000047,0.6296,0.6139
@@ -58,6 +60,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-04 14:30:17.516912,England Premier League - English Premier League 2022/23 - Top 6 Finish,West Ham United,-0.011700000000000016,0.2105,0.2222
 2022-06-04 14:30:16.588453,College Baseball - 2022 College World Series - Odds to Win - Outright,Wake Forest,-0.012100000000000001,0.0123,0.0244
 2022-06-04 11:30:46.890490,Boxing Lines - Jermall Charlo vs Maciej Sulecki - To Win the Bout,Jermall Charlo,-0.012600000000000056,0.9286,0.9412
+2022-06-04 15:30:52.711468,Boxing Lines - Elie Konki vs Loic Tajan - To Win the Bout,Loic Tajan,-0.012899999999999995,0.1538,0.1667
 2022-06-04 09:30:21.873882,A1 - Greece A1 2021/22 - Outright,Larisa,-0.013400000000000002,0.011,0.0244
 2022-06-04 14:30:17.516912,England Premier League - English Premier League 2022/23 - Top 6 Finish,Wolverhampton Wanderers,-0.013999999999999999,0.0769,0.0909
 2022-06-04 11:30:46.872283,Boxing Lines - Trevor Bryan vs Daniel Dubois - To Win the Bout,Daniel Dubois,-0.014000000000000012,0.9091,0.9231
