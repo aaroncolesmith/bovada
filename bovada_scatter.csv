@@ -1,18 +1,15 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-06-04 22:30:51.303162,KBO League - KBO League 2022 - Outright,Kiwoom Heroes,0.04169999999999999,0.1667,0.125
-2022-06-04 22:30:51.303162,KBO League - KBO League 2022 - Outright,Kia Tigers,0.031799999999999995,0.1429,0.1111
 2022-06-05 00:30:48.527412,Boxing Lines - Jason Moloney vs Aston Palicte - To Win the Bout,Jason Moloney,0.03070000000000006,0.9474,0.9167
-2022-06-04 22:30:50.729611,Boxing Lines - Alfredo Santiago vs Karl Dargan - To Win the Bout,Alfredo Santiago,0.029000000000000026,0.4545,0.4255
 2022-06-05 01:30:40.308723,Liga ACB - Liga ACB 2021/2022 - Outright,Real Madrid BC,0.028299999999999992,0.3509,0.3226
 2022-06-05 04:30:55.955074,CFL Season Props - 2022 - Regular Season Wins - Calgary Stampeders - Proposition,Under 9.5,0.024399999999999977,0.5122,0.4878
+2022-06-05 11:30:50.697839,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Las Vegas Raiders,Over 8.5,0.023699999999999943,0.6154,0.5917
 2022-06-05 08:30:50.569719,Boxing Lines - Andy Hiraoka vs Shun Akaiwa - To Win the Bout,Shun Akaiwa,0.02310000000000001,0.1,0.0769
 2022-06-05 00:30:48.573773,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,George Kambosos Jr,0.021199999999999997,0.4,0.3788
 2022-06-05 01:30:40.275038,LNB Pro A - LNB Pro A 2021/22 - Outright,Monaco,0.02079999999999993,0.5556,0.5348
 2022-06-05 09:30:59.861229,Bundesliga - Bundesliga 2021/22 - Outright,ALBA Berlin,0.01880000000000004,0.5744,0.5556
-2022-06-04 22:30:51.326261,Professional Baseball - NPB 2022 - Outright,Tokyo Yakult Swallows,0.01820000000000002,0.2,0.1818
 2022-06-05 00:30:48.549581,Boxing Lines - Junior Fa vs Lucas Browne - To Win the Bout,Junior Fa,0.018100000000000005,0.9655,0.9474
-2022-06-05 06:30:56.170731,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Minnesota Vikings,Over 9,0.017299999999999982,0.5917,0.5744
 2022-06-05 06:30:56.093809,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Houston Texans,Over 4.5,0.017299999999999982,0.5917,0.5744
+2022-06-05 06:30:56.170731,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Minnesota Vikings,Over 9,0.017299999999999982,0.5917,0.5744
 2022-06-05 01:30:39.567988,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,George Kambosos Jr,0.016699999999999993,0.4167,0.4
 2022-06-05 04:30:54.079487,"TV Specials - Squid Game Special - WIll Red Light, Green Light be players in Squid Game Season 2? - Outright",No,0.016699999999999937,0.6,0.5833
 2022-06-05 06:30:56.036767,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Chicago Bears,Under 6.5,0.01539999999999997,0.6154,0.6
@@ -22,33 +19,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-05 04:30:54.845260,NBA Specials - Paolo Banchero Draft Speicals - Paolo Banchero to be Drafted By Oklahoma City Thunder ,Yes,0.013899999999999996,0.125,0.1111
 2022-06-05 04:30:54.856905,NBA Specials - Paolo Banchero Draft Speicals - Will Paolo Banchero be Drafted by OKlahoma City Thunder and Play his first NBA Game for THunder?,Yes,0.011099999999999999,0.1111,0.1
 2022-06-05 10:30:20.242617,Boxing Lines - Naoya Inoue vs Nonito Donaire - To Win the Bout,Nonito Donaire,0.010300000000000004,0.2083,0.198
-2022-06-04 22:30:50.753724,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,Devin Haney,-0.010099999999999998,0.6774,0.6875
 2022-06-05 06:30:56.336857,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Aaron Rodgers,-0.0102,0.0667,0.0769
 2022-06-05 06:30:56.036767,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Chicago Bears,Over 6.5,-0.010599999999999998,0.4545,0.4651
 2022-06-05 04:30:54.856905,NBA Specials - Paolo Banchero Draft Speicals - Will Paolo Banchero be Drafted by OKlahoma City Thunder and Play his first NBA Game for THunder?,No,-0.010699999999999932,0.9615,0.9722
 2022-06-05 00:30:48.573773,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,Devin Haney,-0.010700000000000043,0.6667,0.6774
-2022-06-05 06:30:56.336857,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Justin Herbert,-0.011099999999999999,0.1,0.1111
-2022-06-04 22:30:51.326261,Professional Baseball - NPB 2022 - Outright,Hiroshima Toyo Carp,-0.011099999999999999,0.1,0.1111
 2022-06-05 06:30:56.179910,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New England Patriots,Under 8.5,-0.011099999999999999,0.4651,0.4762
-2022-06-04 22:30:51.303162,KBO League - KBO League 2022 - Outright,Lotte Giants,-0.011199999999999995,0.0476,0.0588
+2022-06-05 06:30:56.336857,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Regular Season MVP,Justin Herbert,-0.011099999999999999,0.1,0.1111
 2022-06-05 06:30:56.093809,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Houston Texans,Under 4.5,-0.0116,0.4762,0.4878
 2022-06-05 06:30:56.170731,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Minnesota Vikings,Under 9,-0.0116,0.4762,0.4878
 2022-06-05 06:30:56.075416,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Detroit Lions,Under 6.5,-0.012199999999999989,0.4878,0.5
-2022-06-04 22:30:51.326261,Professional Baseball - NPB 2022 - Outright,Chiba Lotte Marines,-0.014899999999999997,0.0476,0.0625
 2022-06-05 06:30:54.684496,Boxing Lines - Naoya Inoue vs Nonito Donaire - To Win the Bout,Nonito Donaire,-0.01629999999999998,0.1942,0.2105
 2022-06-05 01:30:39.567988,Boxing Lines - George Kambosos Jr vs Devin Haney - To Win the Bout,Devin Haney,-0.01759999999999995,0.6491,0.6667
 2022-06-05 00:30:48.618314,Boxing Lines - Takuma Inoue vs Gakuya Furuhashi - To Win the Bout,Takuma Inoue,-0.017900000000000027,0.871,0.8889
 2022-06-05 00:30:48.562568,Boxing Lines - Stephen Fulton vs Daniel Roman - To Win the Bout,Daniel Roman,-0.01820000000000002,0.1818,0.2
 2022-06-05 04:30:55.955074,CFL Season Props - 2022 - Regular Season Wins - Calgary Stampeders - Proposition,Over 9.5,-0.01880000000000004,0.5556,0.5744
-2022-06-04 22:30:51.326261,Professional Baseball - NPB 2022 - Outright,Chunichi Dragons,-0.019099999999999992,0.0476,0.0667
 2022-06-05 04:30:54.845260,NBA Specials - Paolo Banchero Draft Speicals - Paolo Banchero to be Drafted By Oklahoma City Thunder ,No,-0.020299999999999985,0.9412,0.9615
-2022-06-04 22:30:51.326261,Professional Baseball - NPB 2022 - Outright,Rakuten Golden Eagles,-0.022199999999999998,0.2,0.2222
+2022-06-05 11:30:50.697839,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Las Vegas Raiders,Under 8.5,-0.021699999999999997,0.4545,0.4762
 2022-06-05 04:30:54.079487,"TV Specials - Squid Game Special - WIll Red Light, Green Light be players in Squid Game Season 2? - Outright",Yes,-0.023799999999999988,0.4762,0.5
-2022-06-04 22:30:50.707901,Boxing Lines - Andrew Moloney vs Alexander Espinoza - To Win the Bout,Andrew Moloney,-0.02429999999999999,0.9231,0.9474
-2022-06-04 22:30:51.303162,KBO League - KBO League 2022 - Outright,Doosan Bears,-0.024999999999999994,0.1,0.125
-2022-06-04 22:30:51.303162,KBO League - KBO League 2022 - Outright,Samsung Lions,-0.027800000000000005,0.0833,0.1111
 2022-06-05 08:30:50.569719,Boxing Lines - Andy Hiraoka vs Shun Akaiwa - To Win the Bout,Andy Hiraoka,-0.028000000000000025,0.9524,0.9804
-2022-06-04 22:30:50.729611,Boxing Lines - Alfredo Santiago vs Karl Dargan - To Win the Bout,Karl Dargan,-0.02859999999999996,0.6078,0.6364
 2022-06-05 00:30:48.527412,Boxing Lines - Jason Moloney vs Aston Palicte - To Win the Bout,Aston Palicte,-0.031799999999999995,0.1111,0.1429
 2022-06-05 01:30:40.308723,Liga ACB - Liga ACB 2021/2022 - Outright,Baskonia,-0.033,0.0196,0.0526
 2022-06-05 01:30:40.275038,LNB Pro A - LNB Pro A 2021/22 - Outright,EB Pau Orthez,-0.0347,0.0179,0.0526
