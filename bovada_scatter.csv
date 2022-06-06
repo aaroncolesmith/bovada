@@ -1,19 +1,36 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-05 18:30:40.136936,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Republican,0.04410000000000003,0.75,0.7059
 2022-06-05 19:30:23.156413,Liga ACB - Liga ACB 2021/2022 - Outright,Joventut,0.038099999999999995,0.0625,0.0244
+2022-06-06 01:32:24.192821,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Arizona Cardinals,Under 9,0.03479999999999994,0.6,0.5652
+2022-06-06 01:32:24.989885,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Tennessee Titans,Over 9.5,0.031799999999999995,0.4762,0.4444
 2022-06-05 21:30:42.331331,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,0.02939999999999998,0.7015,0.6721
+2022-06-06 01:32:24.928446,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Seattle Seahawks,Over 5.5,0.026499999999999968,0.5917,0.5652
+2022-06-06 01:32:21.396784,Boxing Lines - Naoya Inoue vs Nonito Donaire - To Win the Bout,Nonito Donaire,0.022299999999999986,0.2128,0.1905
 2022-06-05 21:30:42.363433,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,0.022199999999999998,0.2222,0.2
 2022-06-05 13:36:24.229489,MLS - MLS Cup 2022 - Outright,LA Galaxy,0.014100000000000001,0.0526,0.0385
 2022-06-05 13:36:20.984388,Boxing Lines - Andy Hiraoka vs Shun Akaiwa - To Win the Bout,Shun Akaiwa,0.013999999999999999,0.0909,0.0769
 2022-06-05 19:30:23.156413,Liga ACB - Liga ACB 2021/2022 - Outright,Real Madrid BC,0.012699999999999989,0.3636,0.3509
 2022-06-05 21:30:42.355637,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,0.011700000000000016,0.2222,0.2105
 2022-06-05 21:30:42.323407,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,0.011099999999999999,0.4762,0.4651
+2022-06-06 01:32:25.118222,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Defensive Rookie of the Year,Quay Walker,0.011099999999999999,0.1111,0.1
+2022-06-06 01:32:24.857155,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Pittsburgh Steelers,Under 7.5,0.01100000000000001,0.5348,0.5238
+2022-06-06 01:32:24.394069,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Denver Broncos,Over 10,0.010699999999999932,0.5455,0.5348
 2022-06-05 21:30:42.355637,MLB Futures - MLB 2022 National League East - NLE Winner,Philadelphia Phillies,0.0102,0.0769,0.0667
+2022-06-06 01:32:25.118222,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Defensive Rookie of the Year,George Karlaftis,-0.0102,0.0667,0.0769
+2022-06-06 01:32:24.857155,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Pittsburgh Steelers,Over 7.5,-0.010699999999999932,0.5348,0.5455
+2022-06-06 01:32:24.394069,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Denver Broncos,Under 10,-0.01100000000000001,0.5238,0.5348
+2022-06-06 01:32:25.118222,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Defensive Rookie of the Year,Ahmad Gardner,-0.011099999999999999,0.1,0.1111
 2022-06-05 13:36:22.949036,MLB Specials - Where will Juan Soto play after trade deadline? - Outright,Los Angeles Dodgers,-0.011199999999999995,0.0476,0.0588
+2022-06-06 01:32:25.118222,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Defensive Rookie of the Year,Kyle Hamilton,-0.013899999999999996,0.1111,0.125
+2022-06-06 01:32:25.118222,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Defensive Rookie of the Year,Nakobe Dean,-0.013999999999999999,0.0769,0.0909
 2022-06-05 21:30:42.323407,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,-0.015700000000000006,0.1176,0.1333
 2022-06-06 00:31:55.977713,Boxing Lines - Naoya Inoue vs Nonito Donaire - To Win the Bout,Nonito Donaire,-0.01999999999999999,0.1905,0.2105
 2022-06-05 21:30:42.363433,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,-0.02210000000000001,0.7674,0.7895
 2022-06-05 21:30:42.355637,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,-0.022199999999999998,0.7778,0.8
+2022-06-06 01:32:25.157799,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Offensive Rookie of the Year,Jalen Tolbert,-0.0232,0.0435,0.0667
+2022-06-06 01:32:24.928446,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Seattle Seahawks,Under 5.5,-0.023799999999999988,0.4762,0.5
+2022-06-06 01:32:24.989885,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Tennessee Titans,Under 9.5,-0.03090000000000004,0.5917,0.6226
+2022-06-06 01:32:24.192821,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Arizona Cardinals,Over 9,-0.03489999999999999,0.4651,0.5
 2022-06-05 21:30:42.331331,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,-0.03570000000000001,0.25,0.2857
 2022-06-05 18:30:40.136936,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Democratic,-0.05109999999999998,0.3125,0.3636
 2022-06-05 19:30:23.156413,Liga ACB - Liga ACB 2021/2022 - Outright,Barcelona,-0.06299999999999994,0.6429,0.7059
