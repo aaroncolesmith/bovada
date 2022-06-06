@@ -1,5 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-06 15:31:24.953881,College Baseball - CWS 2022 - Coral Gables Regional Winner - Proposition,Ole Miss,0.3556,0.8,0.4444
+2022-06-06 16:31:01.907854,LKL - LKL 2021/22 - Outright,Rytas,0.23060000000000003,0.9709,0.7403
 2022-06-06 15:31:24.953881,College Baseball - CWS 2022 - Coral Gables Regional Winner - Proposition,Arizona,0.08330000000000001,0.25,0.1667
 2022-06-06 15:31:24.792459,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,0.07789999999999997,0.3636,0.2857
 2022-06-06 06:31:02.558044,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Steve,0.05960000000000004,0.4167,0.3571
@@ -8,6 +9,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-06 15:31:24.772465,MLB Futures - MLB 2022 American League West - ALW Winner,Houston Astros,0.04270000000000007,0.8889,0.8462
 2022-06-06 15:31:24.729353,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,0.035999999999999976,0.5122,0.4762
 2022-06-06 15:31:24.941541,College Baseball - 2022 College World Series - Odds to Win - Outright,Virginia Tech,0.034100000000000005,0.125,0.0909
+2022-06-06 16:31:01.393622,Boxing Lines - Takuma Inoue vs Gakuya Furuhashi - To Win the Bout,Takuma Inoue,0.029000000000000026,0.9,0.871
 2022-06-06 15:31:24.833933,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,0.02779999999999999,0.25,0.2222
 2022-06-06 06:31:03.763277,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Mets,0.022199999999999998,0.1333,0.1111
 2022-06-06 15:31:24.772465,MLB Futures - MLB 2022 American League West - ALW Winner,Seattle Mariners,0.0203,0.0588,0.0385
@@ -17,6 +19,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-06 15:31:24.678340,MLB Futures - MLB 2022 Amercian League - AL Winner,Boston Red Sox,0.014899999999999997,0.0625,0.0476
 2022-06-06 15:31:24.678340,MLB Futures - MLB 2022 Amercian League - AL Winner,Minnesota Twins,0.013999999999999999,0.0909,0.0769
 2022-06-06 15:31:24.816146,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,0.0131,0.2353,0.2222
+2022-06-06 16:31:02.332777,College Baseball - 2022 College World Series - Odds to Win - Outright,Southern Mississippi,0.012700000000000003,0.0323,0.0196
+2022-06-06 16:31:02.332777,College Baseball - 2022 College World Series - Odds to Win - Outright,Ole Mississippi,0.012100000000000001,0.0244,0.0123
 2022-06-06 15:31:24.816146,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,0.011699999999999933,0.7895,0.7778
 2022-06-06 15:31:24.941541,College Baseball - 2022 College World Series - Odds to Win - Outright,Tennessee,0.01150000000000001,0.3448,0.3333
 2022-06-06 15:31:24.659108,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Yankees,0.010899999999999993,0.1538,0.1429
@@ -25,12 +29,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-06 15:31:24.816146,MLB Futures - MLB 2022 National League East - NLE Winner,Philadelphia Phillies,-0.0102,0.0667,0.0769
 2022-06-06 15:31:24.729353,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.011099999999999999,0.4651,0.4762
 2022-06-06 15:31:24.659108,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Angels,-0.011199999999999995,0.0323,0.0435
+2022-06-06 16:31:01.476831,Boxing Lines - Hughie Fury vs Michael Hunter - To Win the Bout,Hughie Fury,-0.012800000000000034,0.5327,0.5455
+2022-06-06 16:31:02.332777,College Baseball - 2022 College World Series - Odds to Win - Outright,Arkansas,-0.014099999999999998,0.0244,0.0385
 2022-06-06 15:31:24.659108,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Mets,-0.015700000000000006,0.1176,0.1333
 2022-06-06 15:31:24.698303,MLB Futures - MLB 2022 National League - NL Winner,Milwaukee Brewers,-0.020100000000000007,0.1538,0.1739
 2022-06-06 08:31:26.520422,Boxing Lines - Naoya Inoue vs Nonito Donaire - To Win the Bout,Naoya Inoue,-0.02310000000000001,0.8519,0.875
 2022-06-06 15:31:24.678340,MLB Futures - MLB 2022 Amercian League - AL Winner,Los Angeles Angels,-0.02310000000000001,0.0769,0.1
 2022-06-06 15:31:24.833933,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,-0.03059999999999996,0.7368,0.7674
-2022-06-06 15:31:24.941541,College Baseball - 2022 College World Series - Odds to Win - Outright,Oregon State,-0.0343,0.0833,0.1176
 2022-06-06 15:31:24.754147,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,-0.0343,0.0833,0.1176
+2022-06-06 15:31:24.941541,College Baseball - 2022 College World Series - Odds to Win - Outright,Oregon State,-0.0343,0.0833,0.1176
 2022-06-06 15:31:24.772465,MLB Futures - MLB 2022 American League West - ALW Winner,Los Angeles Angels,-0.05710000000000001,0.1429,0.2
 2022-06-06 15:31:24.792459,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,-0.07400000000000007,0.726,0.8
+2022-06-06 16:31:01.907854,LKL - LKL 2021/22 - Outright,Panevezio Lietkabelis,-0.2356,0.0769,0.3125
