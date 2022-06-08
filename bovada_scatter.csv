@@ -7,19 +7,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-07 22:30:50.060304,Boxing Lines - Trevor Bryan vs Daniel Dubois - To Win the Bout,Daniel Dubois,0.0242,0.9333,0.9091
 2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,North Carolina,0.024,0.0625,0.0385
 2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,Texas A&M,0.0203,0.0588,0.0385
-2022-06-07 19:31:04.752092,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Winnipeg Blue Bombers,0.019000000000000017,0.2857,0.2667
 2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,Oklahoma,0.0189,0.0385,0.0196
-2022-06-07 19:31:05.465500,CFL Season Props - 2022 - Regular Season Wins - Calgary Stampeders - Proposition,Over 9.5,0.01880000000000004,0.5744,0.5556
 2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,East Carolina,0.0179,0.0278,0.0099
 2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,Oregon State,0.016700000000000007,0.1,0.0833
-2022-06-07 19:31:06.372484,Boxing Lines - Chris Kongo vs Sebastian Formella - To Win the Bout,Sebastian Formella,0.01579999999999998,0.2597,0.2439
 2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,Southern Mississippi,0.015300000000000001,0.0476,0.0323
 2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,Connecticut,0.0138,0.0217,0.0079
-2022-06-07 20:30:45.863177,Boxing Lines - Ijaz Ahmed vs Quaise Khademi - To Win the Bout,Quaise Khademi,0.012700000000000045,0.6491,0.6364
 2022-06-08 05:30:55.869426,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Esteban Bermudez,0.012499999999999983,0.2105,0.198
 2022-06-08 06:30:51.133977,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Esteban Bermudez,0.011700000000000016,0.2222,0.2105
 2022-06-08 06:30:52.108381,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Baltimore Ravens,0.01150000000000001,0.3448,0.3333
-2022-06-07 20:30:45.806952,Boxing Lines - Muhammad Ali vs Brayan Mairena - To Win the Bout,Brayan Mairena,0.0102,0.0769,0.0667
 2022-06-08 06:30:51.714221,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Indianapolis Colts,Over 10,0.010099999999999998,0.5556,0.5455
 2022-06-08 06:30:51.802537,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New Orleans Saints,Over 8.5,0.010099999999999998,0.5556,0.5455
 2022-06-08 06:30:51.747834,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Las Vegas Raiders,Under 8.5,-0.010099999999999998,0.4444,0.4545
@@ -30,14 +25,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-08 00:30:50.150947,Boxing Lines - Edgar Berlanga vs Roamer Alexis Angulo - To Win the Bout,Edgar Berlanga,-0.011099999999999999,0.7222,0.7333
 2022-06-08 06:30:51.714221,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Indianapolis Colts,Under 10,-0.011600000000000055,0.5122,0.5238
 2022-06-08 06:30:51.802537,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New Orleans Saints,Under 8.5,-0.011600000000000055,0.5122,0.5238
-2022-06-07 19:31:06.372484,Boxing Lines - Chris Kongo vs Sebastian Formella - To Win the Bout,Chris Kongo,-0.011900000000000022,0.8095,0.8214
 2022-06-08 06:30:51.627095,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Carolina Panthers,Under 5.5,-0.012199999999999989,0.5,0.5122
 2022-06-08 06:30:51.644288,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Cincinnati Bengals,Over 10.5,-0.012199999999999989,0.5,0.5122
-2022-06-07 20:30:45.852960,Boxing Lines - Germaine Brown vs Zak Chelli - To Win the Bout,Germaine Brown,-0.0126,0.4525,0.4651
 2022-06-08 05:30:55.993121,Boxing Lines - Ijaz Ahmed vs Quaise Khademi - To Win the Bout,Ijaz Ahmed,-0.013500000000000012,0.4032,0.4167
 2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,Virginia Tech,-0.013899999999999996,0.1111,0.125
-2022-06-07 20:30:45.889538,Boxing Lines - Richard Riakporhe vs Fabio Turchi - To Win the Bout,Fabio Turchi,-0.013899999999999996,0.16,0.1739
 2022-06-08 05:30:56.011440,Boxing Lines - Marc Leach vs Liam Davies - To Win the Bout,Liam Davies,-0.014900000000000024,0.3077,0.3226
 2022-06-08 05:30:55.869426,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Hiroto Kyoguchi,-0.017900000000000027,0.8571,0.875
 2022-06-08 05:30:55.982668,Boxing Lines - Chris Kongo vs Sebastian Formella - To Win the Bout,Sebastian Formella,-0.02159999999999998,0.2381,0.2597
-2022-06-07 19:31:05.465500,CFL Season Props - 2022 - Regular Season Wins - Calgary Stampeders - Proposition,Under 9.5,-0.024399999999999977,0.4878,0.5122
