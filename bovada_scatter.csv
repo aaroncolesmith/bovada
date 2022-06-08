@@ -1,17 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-07 23:30:56.783516,Bundesliga - Bundesliga 2021/22 - Outright,Telekom Baskets Bonn,0.07220000000000001,0.1,0.0278
-2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,Tennessee,0.05520000000000003,0.4,0.3448
-2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,Arkansas,0.038099999999999995,0.0625,0.0244
-2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,Ole Mississippi,0.0344,0.0588,0.0244
+2022-06-08 10:31:24.651662,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Hiroto Kyoguchi,0.028800000000000048,0.875,0.8462
 2022-06-07 23:30:56.783516,Bundesliga - Bundesliga 2021/22 - Outright,ALBA Berlin,0.025599999999999956,0.6,0.5744
-2022-06-07 22:30:50.060304,Boxing Lines - Trevor Bryan vs Daniel Dubois - To Win the Bout,Daniel Dubois,0.0242,0.9333,0.9091
-2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,North Carolina,0.024,0.0625,0.0385
-2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,Texas A&M,0.0203,0.0588,0.0385
-2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,Oklahoma,0.0189,0.0385,0.0196
-2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,East Carolina,0.0179,0.0278,0.0099
-2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,Oregon State,0.016700000000000007,0.1,0.0833
-2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,Southern Mississippi,0.015300000000000001,0.0476,0.0323
-2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,Connecticut,0.0138,0.0217,0.0079
 2022-06-08 05:30:55.869426,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Esteban Bermudez,0.012499999999999983,0.2105,0.198
 2022-06-08 06:30:51.133977,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Esteban Bermudez,0.011700000000000016,0.2222,0.2105
 2022-06-08 06:30:52.108381,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Baltimore Ravens,0.01150000000000001,0.3448,0.3333
@@ -20,6 +10,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-08 06:30:51.714221,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Indianapolis Colts,Over 10,0.010099999999999998,0.5556,0.5455
 2022-06-08 06:30:51.747834,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Las Vegas Raiders,Under 8.5,-0.010099999999999998,0.4444,0.4545
 2022-06-08 01:32:09.039475,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Esteban Bermudez,-0.010300000000000004,0.198,0.2083
+2022-06-08 09:30:42.323177,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Republican,-0.010300000000000087,0.7333,0.7436
 2022-06-08 06:30:52.108381,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Cleveland Browns,-0.010699999999999987,0.3226,0.3333
 2022-06-08 00:30:50.150947,Boxing Lines - Edgar Berlanga vs Roamer Alexis Angulo - To Win the Bout,Roamer Alexis Angulo,-0.010699999999999987,0.3226,0.3333
 2022-06-08 06:30:51.133977,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Hiroto Kyoguchi,-0.01090000000000002,0.8462,0.8571
@@ -29,7 +20,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-08 06:30:51.627095,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Carolina Panthers,Under 5.5,-0.012199999999999989,0.5,0.5122
 2022-06-08 06:30:51.644288,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Cincinnati Bengals,Over 10.5,-0.012199999999999989,0.5,0.5122
 2022-06-08 05:30:55.993121,Boxing Lines - Ijaz Ahmed vs Quaise Khademi - To Win the Bout,Ijaz Ahmed,-0.013500000000000012,0.4032,0.4167
-2022-06-07 21:30:52.810054,College Baseball - 2022 College World Series - Odds to Win - Outright,Virginia Tech,-0.013899999999999996,0.1111,0.125
 2022-06-08 05:30:56.011440,Boxing Lines - Marc Leach vs Liam Davies - To Win the Bout,Liam Davies,-0.014900000000000024,0.3077,0.3226
 2022-06-08 05:30:55.869426,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Hiroto Kyoguchi,-0.017900000000000027,0.8571,0.875
 2022-06-08 05:30:55.982668,Boxing Lines - Chris Kongo vs Sebastian Formella - To Win the Bout,Sebastian Formella,-0.02159999999999998,0.2381,0.2597
+2022-06-08 10:31:24.651662,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Esteban Bermudez,-0.031700000000000006,0.1905,0.2222
