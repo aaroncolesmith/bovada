@@ -10,6 +10,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-08 11:31:36.967616,Boxing Lines - Edgar Berlanga vs Roamer Alexis Angulo - To Win the Bout,Edgar Berlanga,0.018100000000000005,0.7403,0.7222
 2022-06-08 11:31:38.128190,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,San Diego Padres,0.018099999999999998,0.0769,0.0588
 2022-06-08 11:31:36.798664,Boxing Lines - Viddal Riley vs Jone Volau - To Win the Bout,Jone Volau,0.016600000000000004,0.0833,0.0667
+2022-06-08 14:31:36.082712,Boxing Lines - Marc Leach vs Liam Davies - To Win the Bout,Marc Leach,0.014700000000000046,0.7647,0.75
 2022-06-08 11:31:38.144830,MLB Futures - MLB 2022 Amercian League - AL Winner,Tampa Bay Rays,0.01440000000000001,0.1053,0.0909
 2022-06-08 11:31:38.144830,MLB Futures - MLB 2022 Amercian League - AL Winner,Minnesota Twins,0.014399999999999996,0.0769,0.0625
 2022-06-08 11:31:38.128190,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Milwaukee Brewers,0.013999999999999999,0.0909,0.0769
@@ -24,7 +25,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-08 06:30:51.802537,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New Orleans Saints,Over 8.5,0.010099999999999998,0.5556,0.5455
 2022-06-08 06:30:51.714221,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Indianapolis Colts,Over 10,0.010099999999999998,0.5556,0.5455
 2022-06-08 06:30:51.747834,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Las Vegas Raiders,Under 8.5,-0.010099999999999998,0.4444,0.4545
-2022-06-08 01:32:09.039475,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Esteban Bermudez,-0.010300000000000004,0.198,0.2083
 2022-06-08 09:30:42.323177,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Republican,-0.010300000000000087,0.7333,0.7436
 2022-06-08 06:30:52.108381,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Cleveland Browns,-0.010699999999999987,0.3226,0.3333
 2022-06-08 06:30:51.133977,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Hiroto Kyoguchi,-0.01090000000000002,0.8462,0.8571
