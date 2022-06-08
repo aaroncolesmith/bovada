@@ -18,14 +18,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-08 11:31:36.744518,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Esteban Bermudez,0.013600000000000001,0.2041,0.1905
 2022-06-08 15:30:54.372730,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Esteban Bermudez,0.013300000000000006,0.2174,0.2041
 2022-06-08 11:31:38.292202,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,0.01319999999999999,0.75,0.7368
-2022-06-08 05:30:55.869426,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Esteban Bermudez,0.012499999999999983,0.2105,0.198
 2022-06-08 06:30:51.133977,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Esteban Bermudez,0.011700000000000016,0.2222,0.2105
 2022-06-08 06:30:52.108381,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Baltimore Ravens,0.01150000000000001,0.3448,0.3333
 2022-06-08 11:31:38.224927,MLB Futures - MLB 2022 American League West - ALW Winner,Los Angeles Angels,0.010899999999999993,0.1538,0.1429
 2022-06-08 11:31:38.128190,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,St. Louis Cardinals,0.010700000000000001,0.0385,0.0278
 2022-06-08 09:30:42.323177,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Democratic,0.010699999999999987,0.3333,0.3226
-2022-06-08 06:30:51.714221,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Indianapolis Colts,Over 10,0.010099999999999998,0.5556,0.5455
 2022-06-08 06:30:51.802537,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New Orleans Saints,Over 8.5,0.010099999999999998,0.5556,0.5455
+2022-06-08 06:30:51.714221,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Indianapolis Colts,Over 10,0.010099999999999998,0.5556,0.5455
 2022-06-08 06:30:51.747834,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Las Vegas Raiders,Under 8.5,-0.010099999999999998,0.4444,0.4545
 2022-06-08 09:30:42.323177,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Republican,-0.010300000000000087,0.7333,0.7436
 2022-06-08 06:30:52.108381,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Cleveland Browns,-0.010699999999999987,0.3226,0.3333
@@ -34,21 +33,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-08 11:31:38.224927,MLB Futures - MLB 2022 American League West - ALW Winner,Seattle Mariners,-0.011199999999999995,0.0476,0.0588
 2022-06-08 06:30:51.802537,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New Orleans Saints,Under 8.5,-0.011600000000000055,0.5122,0.5238
 2022-06-08 06:30:51.714221,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Indianapolis Colts,Under 10,-0.011600000000000055,0.5122,0.5238
-2022-06-08 06:30:51.644288,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Cincinnati Bengals,Over 10.5,-0.012199999999999989,0.5,0.5122
 2022-06-08 06:30:51.627095,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Carolina Panthers,Under 5.5,-0.012199999999999989,0.5,0.5122
+2022-06-08 06:30:51.644288,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Cincinnati Bengals,Over 10.5,-0.012199999999999989,0.5,0.5122
 2022-06-08 11:31:38.144830,MLB Futures - MLB 2022 Amercian League - AL Winner,New York Yankees,-0.012799999999999978,0.2857,0.2985
-2022-06-08 05:30:55.993121,Boxing Lines - Ijaz Ahmed vs Quaise Khademi - To Win the Bout,Ijaz Ahmed,-0.013500000000000012,0.4032,0.4167
 2022-06-08 15:30:54.433352,Boxing Lines - Ebonie Jones vs Bec Connolly - To Win the Bout,Bec Connolly,-0.013899999999999996,0.129,0.1429
 2022-06-08 11:31:38.166904,MLB Futures - MLB 2022 National League - NL Winner,Atlanta Braves,-0.013899999999999996,0.1111,0.125
-2022-06-08 05:30:56.011440,Boxing Lines - Marc Leach vs Liam Davies - To Win the Bout,Liam Davies,-0.014900000000000024,0.3077,0.3226
 2022-06-08 16:31:54.276500,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Esteban Bermudez,-0.015399999999999997,0.202,0.2174
 2022-06-08 13:30:54.970224,Boxing Lines - Chris Kongo vs Sebastian Formella - To Win the Bout,Sebastian Formella,-0.015500000000000014,0.2198,0.2353
 2022-06-08 11:31:38.128190,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Houston Astros,-0.015700000000000006,0.1176,0.1333
 2022-06-08 11:31:38.292202,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,-0.015899999999999997,0.0952,0.1111
-2022-06-08 05:30:55.869426,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Hiroto Kyoguchi,-0.017900000000000027,0.8571,0.875
 2022-06-08 12:30:55.152005,Boxing Lines - Germaine Brown vs Zak Chelli - To Win the Bout,Zak Chelli,-0.020199999999999996,0.5798,0.6
 2022-06-08 11:31:36.798664,Boxing Lines - Viddal Riley vs Jone Volau - To Win the Bout,Viddal Riley,-0.021299999999999986,0.9655,0.9868
-2022-06-08 05:30:55.982668,Boxing Lines - Chris Kongo vs Sebastian Formella - To Win the Bout,Sebastian Formella,-0.02159999999999998,0.2381,0.2597
 2022-06-08 11:31:38.144830,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,-0.030999999999999972,0.2222,0.2532
 2022-06-08 10:31:24.651662,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Esteban Bermudez,-0.031700000000000006,0.1905,0.2222
 2022-06-08 11:31:38.272052,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,-0.0353,0.2,0.2353
