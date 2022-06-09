@@ -1,6 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-08 15:30:54.506961,Boxing Lines - Germaine Brown vs Zak Chelli - To Win the Bout,Germaine Brown,0.029100000000000015,0.4878,0.4587
-2022-06-08 10:31:24.651662,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Hiroto Kyoguchi,0.028800000000000048,0.875,0.8462
 2022-06-08 11:31:38.272052,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,0.02870000000000006,0.8182,0.7895
 2022-06-08 11:31:38.166904,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,0.025300000000000003,0.1429,0.1176
 2022-06-08 11:31:38.248924,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,0.02400000000000002,0.75,0.726
@@ -33,5 +32,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-08 12:30:55.152005,Boxing Lines - Germaine Brown vs Zak Chelli - To Win the Bout,Zak Chelli,-0.020199999999999996,0.5798,0.6
 2022-06-08 11:31:36.798664,Boxing Lines - Viddal Riley vs Jone Volau - To Win the Bout,Viddal Riley,-0.021299999999999986,0.9655,0.9868
 2022-06-08 11:31:38.144830,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,-0.030999999999999972,0.2222,0.2532
-2022-06-08 10:31:24.651662,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Esteban Bermudez,-0.031700000000000006,0.1905,0.2222
 2022-06-08 11:31:38.272052,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,-0.0353,0.2,0.2353
