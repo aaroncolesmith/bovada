@@ -5,60 +5,77 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-09 14:32:05.364478,NBA Specials - Where will Donovan Mitchell play next season? - Proposition,Utah Jazz,0.14279999999999993,0.8571,0.7143
 2022-06-09 14:32:05.583721,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Jeremy Pena,0.09039999999999998,0.3571,0.2667
 2022-06-09 17:31:42.211117,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Seiya Suzuki,0.07930000000000001,0.2222,0.1429
+2022-06-09 21:31:39.788252,2022 Gubernatorial Elections - Nevada - Nevada winner,Republicans,0.06440000000000001,0.6296,0.5652
+2022-06-09 21:31:39.729567,2022 Gubernatorial Elections - Arizona - Arizona winner,Democrats,0.052200000000000024,0.4444,0.3922
 2022-06-09 11:32:45.775203,Liga ACB - Liga ACB 2021/2022 - Outright,Barcelona,0.0494,0.6923,0.6429
+2022-06-09 21:31:39.765341,2022 Gubernatorial Elections - Maryland - Maryland winner,Democrats,0.04619999999999991,0.8462,0.8
 2022-06-09 17:31:42.830215,NBA Specials - Where will DeAndre Ayton play next season? - DeAndre Ayton Next Franchise?,Charlotte Hornets,0.03420000000000001,0.1111,0.0769
 2022-06-09 17:31:42.830215,NBA Specials - Where will DeAndre Ayton play next season? - DeAndre Ayton Next Franchise?,Phoenix Suns,0.033300000000000024,0.2,0.1667
+2022-06-09 21:31:39.776469,2022 Gubernatorial Elections - Michigan - Michigan winner,Democrats,0.03259999999999996,0.6552,0.6226
+2022-06-09 21:31:41.081463,NBA Specials - Where will OG Anunoby play Game 1 next Season? - Outright,Utah Jazz,0.028399999999999995,0.0909,0.0625
 2022-06-09 17:31:41.457943,"Stranger Things Specials - How Many Nosebleeds Will Eleven Have In Season 4, Volume 2 - Proposition","Over 1,5",0.02729999999999999,0.8,0.7727
+2022-06-09 21:31:39.741652,2022 Gubernatorial Elections - Florida - Florida winner,Republicans,0.0242,0.9333,0.9091
 2022-06-09 17:31:41.420193,"Stranger Things Specials - Will Eleven and Hopper Reunite In Season 4, Volume 2 - Proposition",Yes,0.023799999999999932,0.7674,0.7436
 2022-06-09 18:31:21.718763,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Will,0.02310000000000001,0.1,0.0769
+2022-06-09 21:31:39.884447,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,0.022199999999999998,0.8,0.7778
 2022-06-09 13:30:44.411550,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Baltimore Ravens,Over 10,0.02079999999999993,0.5556,0.5348
-2022-06-09 09:30:55.723172,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Esteban Bermudez,0.020199999999999996,0.2353,0.2151
 2022-06-09 18:31:23.043140,Boxing Lines - Meiirim Nursultanov vs Sebastian Horacio Papeschi - To Win the Bout,Meiirim Nursultanov,0.018100000000000005,0.9412,0.9231
 2022-06-09 14:32:05.614433,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Edward Cabrera,0.0179,0.0278,0.0099
 2022-06-09 17:31:42.211117,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Nolan Gorman,0.016699999999999993,0.2667,0.25
+2022-06-09 21:31:39.752796,2022 Gubernatorial Elections - Kansas - Kansas winner,Republicans,0.015900000000000025,0.7778,0.7619
 2022-06-09 17:31:41.348341,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Over $155,000,000",0.015599999999999947,0.7299,0.7143
 2022-06-09 15:45:31.136607,Boxing Lines - Viddal Riley vs Jone Volau - To Win the Bout,Viddal Riley,0.014900000000000024,0.9804,0.9655
 2022-06-09 14:32:05.583721,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Adley Rutschman,0.014899999999999997,0.0625,0.0476
+2022-06-09 21:31:41.081463,NBA Specials - Where will OG Anunoby play Game 1 next Season? - Outright,Phoenix Suns,0.014399999999999996,0.0769,0.0625
 2022-06-09 17:31:41.606581,The Walking Dead - How many Walkers will be killed in the final 8 episodes of The Walking Dead Season 11? - Outright,176-200,0.013999999999999999,0.0909,0.0769
 2022-06-09 17:31:41.606581,The Walking Dead - How many Walkers will be killed in the final 8 episodes of The Walking Dead Season 11? - Outright,1-25,0.013899999999999996,0.125,0.1111
 2022-06-09 15:45:31.560972,Boxing Lines - Oscar Duarte Jurado vs Mark Bernaldez - To Win the Bout,Oscar Duarte Jurado,0.0131,0.9655,0.9524
 2022-06-09 14:32:05.614433,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Matthew Liberatore,0.011699999999999999,0.0196,0.0079
+2022-06-09 21:31:41.849315,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Cincinnati Bengals,0.01150000000000001,0.3448,0.3333
 2022-06-09 15:45:31.492331,Boxing Lines - Richard Riakporhe vs Fabio Turchi - To Win the Bout,Richard Riakporhe,0.011099999999999999,0.9,0.8889
 2022-06-09 10:30:51.047657,Boxing Lines - Trevor Bryan vs Daniel Dubois - To Win the Bout,Daniel Dubois,-0.010199999999999987,0.9231,0.9333
 2022-06-09 15:45:31.244261,Boxing Lines - Muhammad Ali vs Brayan Mairena - To Win the Bout,Brayan Mairena,-0.0102,0.0667,0.0769
-2022-06-09 10:30:51.047657,Boxing Lines - Trevor Bryan vs Daniel Dubois - To Win the Bout,Trevor Bryan,-0.010700000000000001,0.1143,0.125
 2022-06-09 14:32:05.614433,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Hunter Greene,-0.010700000000000001,0.0278,0.0385
+2022-06-09 10:30:51.047657,Boxing Lines - Trevor Bryan vs Daniel Dubois - To Win the Bout,Trevor Bryan,-0.010700000000000001,0.1143,0.125
 2022-06-09 14:32:05.364478,NBA Specials - Where will Donovan Mitchell play next season? - Proposition,Charlotte Hornets,-0.011199999999999995,0.0476,0.0588
 2022-06-09 11:32:45.399718,Boxing Lines - Viddal Riley vs Jone Volau - To Win the Bout,Jone Volau,-0.011899999999999994,0.0714,0.0833
 2022-06-09 10:30:50.783934,Boxing Lines - Meiirim Nursultanov vs Sebastian Horacio Papeschi - To Win the Bout,Sebastian Horacio Papeschi,-0.0121,0.1212,0.1333
 2022-06-09 13:30:44.442260,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Carolina Panthers,Under 5.5,-0.012199999999999989,0.4878,0.5
-2022-06-09 14:32:05.614433,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Max Meyer,-0.012700000000000003,0.0196,0.0323
-2022-06-09 14:32:05.583721,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Reid Detmers,-0.012700000000000003,0.0196,0.0323
 2022-06-09 14:32:05.583721,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,George Kirby,-0.012700000000000003,0.0196,0.0323
+2022-06-09 14:32:05.583721,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Reid Detmers,-0.012700000000000003,0.0196,0.0323
+2022-06-09 14:32:05.614433,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Max Meyer,-0.012700000000000003,0.0196,0.0323
 2022-06-09 17:31:41.348341,Box Office Specials - Opening Weekend Domestic Box Office Gross - Thor: Love and Thunder - Proposition,"Under $155,000,000",-0.013300000000000034,0.3571,0.3704
-2022-06-09 18:31:21.718763,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Max,-0.014099999999999994,0.0526,0.0667
+2022-06-09 21:31:41.081463,NBA Specials - Where will OG Anunoby play Game 1 next Season? - Outright,Minnesota Timberwolves,-0.013999999999999999,0.0769,0.0909
 2022-06-09 18:31:21.718763,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Mike,-0.014099999999999994,0.0526,0.0667
+2022-06-09 18:31:21.718763,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Max,-0.014099999999999994,0.0526,0.0667
 2022-06-09 14:32:05.364478,NBA Specials - Where will Donovan Mitchell play next season? - Proposition,Cleveland Cavaliers,-0.014099999999999994,0.0526,0.0667
 2022-06-09 14:32:05.614433,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Bryson Stott,-0.0145,0.0099,0.0244
 2022-06-09 14:32:02.463743,Boxing Lines - Ijaz Ahmed vs Quaise Khademi - To Win the Bout,Ijaz Ahmed,-0.014500000000000013,0.3937,0.4082
 2022-06-09 15:45:31.560972,Boxing Lines - Oscar Duarte Jurado vs Mark Bernaldez - To Win the Bout,Mark Bernaldez,-0.016700000000000007,0.0833,0.1
 2022-06-09 14:32:05.614433,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Ryan Pepiot,-0.0179,0.0099,0.0278
 2022-06-09 14:32:05.614433,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Seth Beer,-0.0179,0.0099,0.0278
+2022-06-09 21:31:39.741652,2022 Gubernatorial Elections - Florida - Florida winner,Democrats,-0.0179,0.125,0.1429
+2022-06-09 21:31:41.081463,NBA Specials - Where will OG Anunoby play Game 1 next Season? - Outright,Toronto Raptors,-0.020199999999999996,0.8889,0.9091
 2022-06-09 15:45:31.061407,Boxing Lines - Shannon Ryan vs Gemma Ruegg - To Win the Bout,Gemma Ruegg,-0.02020000000000001,0.0909,0.1111
 2022-06-09 14:32:05.614433,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Nick Lodolo,-0.0206,0.0179,0.0385
-2022-06-09 14:32:05.614433,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Joey Bart,-0.022400000000000003,0.0099,0.0323
 2022-06-09 14:32:05.614433,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,CJ Abrams,-0.022400000000000003,0.0099,0.0323
 2022-06-09 13:30:44.411550,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Baltimore Ravens,Under 10,-0.022600000000000064,0.5122,0.5348
 2022-06-09 14:32:05.583721,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Bobby Witt Jr,-0.024999999999999994,0.1,0.125
+2022-06-09 21:31:39.752796,2022 Gubernatorial Elections - Kansas - Kansas winner,Democrats,-0.0252,0.2778,0.303
+2022-06-09 21:31:39.776469,2022 Gubernatorial Elections - Michigan - Michigan winner,Republicans,-0.025499999999999967,0.4,0.4255
+2022-06-09 21:31:39.884447,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Jair Bolsonaro,-0.02560000000000001,0.3077,0.3333
 2022-06-09 17:31:41.457943,"Stranger Things Specials - How Many Nosebleeds Will Eleven Have In Season 4, Volume 2 - Proposition",Under 1.5,-0.02679999999999999,0.2857,0.3125
 2022-06-09 17:31:41.420193,"Stranger Things Specials - Will Eleven and Hopper Reunite In Season 4, Volume 2 - Proposition",No,-0.02729999999999999,0.3175,0.3448
+2022-06-09 14:32:05.614433,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Joey Bart,-0.0286,0.0099,0.0385
+2022-06-09 21:31:39.765341,2022 Gubernatorial Elections - Maryland - Maryland winner,Republicans,-0.03950000000000001,0.2105,0.25
 2022-06-09 11:32:45.775203,Liga ACB - Liga ACB 2021/2022 - Outright,Joventut,-0.0408,0.0217,0.0625
-2022-06-09 09:30:55.723172,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Hiroto Kyoguchi,-0.04169999999999996,0.8333,0.875
 2022-06-09 14:32:05.583721,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Spencer Torkelson,-0.04239999999999999,0.0345,0.0769
 2022-06-09 14:32:05.364478,NBA Specials - Where will Donovan Mitchell play next season? - Proposition,New York Knicks,-0.04240000000000001,0.0909,0.1333
 2022-06-09 14:32:05.583721,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Steven Kwan,-0.047099999999999996,0.0196,0.0667
+2022-06-09 21:31:39.729567,2022 Gubernatorial Elections - Arizona - Arizona winner,Republicans,-0.05130000000000001,0.6154,0.6667
 2022-06-09 14:32:05.364478,NBA Specials - Where will Donovan Mitchell play next season? - Proposition,Miami Heat,-0.05559999999999998,0.1111,0.1667
 2022-06-09 14:32:05.614433,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Juan Yepez,-0.065,0.0526,0.1176
+2022-06-09 21:31:39.788252,2022 Gubernatorial Elections - Nevada - Nevada winner,Democrats,-0.07450000000000001,0.4255,0.5
 2022-06-09 14:32:05.583721,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Joe Ryan,-0.0804,0.0625,0.1429
 2022-06-09 17:31:41.606581,The Walking Dead - How many Walkers will be killed in the final 8 episodes of The Walking Dead Season 11? - Outright,51-75,-0.10769999999999996,0.2,0.3077
 2022-06-09 14:32:05.614433,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Seiya Suzuki,-0.45709999999999995,0.1429,0.6
