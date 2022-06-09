@@ -9,6 +9,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-09 06:30:56.031386,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Dodgers,0.022199999999999998,0.2222,0.2
 2022-06-08 21:31:03.985973,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Joe Smith Jr,0.018599999999999978,0.1667,0.1481
 2022-06-09 00:31:28.145134,NBA Specials - Where will DeAndre Ayton play next season? - DeAndre Ayton Next Franchise?,Oklahoma City Thunder,0.018099999999999998,0.0769,0.0588
+2022-06-09 07:31:18.363199,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,0.01739999999999997,0.7674,0.75
+2022-06-09 07:31:18.363199,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,0.016699999999999993,0.2667,0.25
 2022-06-09 06:30:56.066269,MLB Futures - MLB 2022 National League - NL Winner,Los Angeles Dodgers,0.01579999999999998,0.3333,0.3175
 2022-06-09 06:30:56.031386,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Yankees,0.015100000000000002,0.1818,0.1667
 2022-06-09 06:30:56.066269,MLB Futures - MLB 2022 National League - NL Winner,Philadelphia Phillies,0.014899999999999997,0.0625,0.0476
@@ -30,6 +32,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-09 06:30:56.080781,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.020699999999999996,0.4444,0.4651
 2022-06-09 06:30:56.031386,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Tampa Bay Rays,-0.024,0.0385,0.0625
 2022-06-09 06:30:56.066269,MLB Futures - MLB 2022 National League - NL Winner,San Diego Padres,-0.025300000000000003,0.1176,0.1429
+2022-06-09 07:31:18.363199,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,-0.03270000000000001,0.0625,0.0952
 2022-06-09 00:31:28.145134,NBA Specials - Where will DeAndre Ayton play next season? - DeAndre Ayton Next Franchise?,Chicago Bulls,-0.0373,0.0294,0.0667
 2022-06-09 06:30:56.150840,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,-0.04039999999999999,0.7778,0.8182
 2022-06-09 00:31:28.145134,NBA Specials - Where will DeAndre Ayton play next season? - DeAndre Ayton Next Franchise?,Orlando Magic,-0.04650000000000001,0.0588,0.1053
