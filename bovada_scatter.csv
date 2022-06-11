@@ -11,8 +11,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-11 13:43:37.050777,College Baseball - Hattiesburg Super Regional Winner - Series Winner,Southern Mississippi,0.03959999999999997,0.5744,0.5348
 2022-06-11 16:31:14.506479,BKFC Fight Night: Jackson 2 - Martin Brown vs Robbie Peralta - To Win the Bout,Martin Brown,0.036900000000000044,0.7143,0.6774
 2022-06-11 10:31:59.234114,NFL Futures - 2022/2023 Division Winner - AFC West - AFC West Winner,Kansas City Chiefs,0.03640000000000004,0.4,0.3636
-2022-06-11 10:31:58.724695,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Tennessee Titans,Over 9.5,0.035999999999999976,0.5122,0.4762
 2022-06-11 10:31:58.693030,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Seattle Seahawks,Under 5.5,0.035999999999999976,0.5122,0.4762
+2022-06-11 10:31:58.724695,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Tennessee Titans,Over 9.5,0.035999999999999976,0.5122,0.4762
 2022-06-11 10:31:59.339659,NFL Futures - 2022/2023 Division Winner - NFC West - NFC West Winner,Arizona Cardinals,0.0353,0.2353,0.2
 2022-06-11 10:31:59.257383,NFL Futures - 2022/2023 Division Winner - NFC East - NFC East Winner,New York Giants,0.034100000000000005,0.125,0.0909
 2022-06-11 10:31:59.166048,NFL Futures - 2022/2023 Division Winner - AFC East - AFC East Winner,New England Patriots,0.033300000000000024,0.2,0.1667
@@ -27,8 +27,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-11 13:43:37.073551,College Baseball - Hattiesburg Super Regional Winner - Total Games,Over 2.5,0.023699999999999943,0.6154,0.5917
 2022-06-11 12:32:19.210045,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Kamala Harris,0.02310000000000001,0.1,0.0769
 2022-06-11 10:31:59.190765,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Pittsburgh Steelers,0.022000000000000006,0.1053,0.0833
-2022-06-11 10:31:58.400618,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Houston Texans,Under 5,0.02169999999999994,0.5455,0.5238
+2022-06-11 19:30:47.851504,Boxing Lines - Ijaz Ahmed vs Quaise Khademi - To Win the Bout,Quaise Khademi,0.02180000000000004,0.6721,0.6503
 2022-06-11 10:31:58.612768,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Giants,Over 7,0.02169999999999994,0.5455,0.5238
+2022-06-11 10:31:58.400618,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Houston Texans,Under 5,0.02169999999999994,0.5455,0.5238
 2022-06-11 11:30:53.796503,Boxing Lines - Marc Leach vs Liam Davies - To Win the Bout,Liam Davies,0.021299999999999986,0.303,0.2817
 2022-06-11 16:31:15.163487,The Walking Dead - How many Walkers will be killed in the final 8 episodes of The Walking Dead Season 11? - Outright,176-200,0.02020000000000001,0.1111,0.0909
 2022-06-11 13:43:36.854864,College Baseball - 2022 College World Series - Odds to Win - Outright,East Carolina,0.019800000000000005,0.0476,0.0278
@@ -43,6 +44,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-11 10:31:59.310303,NFL Futures - 2022/2023 Division Winner - NFC South - NFC South Winner,Tampa Bay Buccaneers,0.014700000000000046,0.7647,0.75
 2022-06-11 17:31:30.936190,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Max,0.014099999999999994,0.0667,0.0526
 2022-06-11 13:43:36.854864,College Baseball - 2022 College World Series - Odds to Win - Outright,Virginia Tech,0.013899999999999996,0.125,0.1111
+2022-06-11 19:30:47.862774,Boxing Lines - Marc Leach vs Liam Davies - To Win the Bout,Liam Davies,0.0131,0.303,0.2899
 2022-06-11 10:31:58.708370,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Tampa Bay Buccaneers,Over 11.5,0.012199999999999989,0.5122,0.5
 2022-06-11 13:43:37.180046,College Baseball - Stanford Super Regional Winner - Total Games,Over 2.5,0.0116,0.4878,0.4762
 2022-06-11 17:31:35.103781,NCAAF - 2022 SEC Championship - Odds to Win - Outright,Texas A&M,0.0102,0.0769,0.0667
@@ -50,8 +52,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-11 13:43:36.854864,College Baseball - 2022 College World Series - Odds to Win - Outright,Louisville,-0.011199999999999995,0.0323,0.0435
 2022-06-11 12:32:19.157871,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Democratic,-0.0116,0.4762,0.4878
 2022-06-11 10:31:58.316310,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Dallas Cowboys,Under 10,-0.011600000000000055,0.5122,0.5238
-2022-06-11 13:43:36.901910,College Baseball - Chapel Hill Super Regional Winner - Total Games,Under 2.5,-0.012199999999999989,0.5,0.5122
 2022-06-11 12:32:19.128912,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Donald Trump,-0.012199999999999989,0.5,0.5122
+2022-06-11 13:43:36.901910,College Baseball - Chapel Hill Super Regional Winner - Total Games,Under 2.5,-0.012199999999999989,0.5,0.5122
 2022-06-11 16:31:13.977077,Boxing Lines - Marc Leach vs Liam Davies - To Win the Bout,Liam Davies,-0.0131,0.2899,0.303
 2022-06-11 10:31:59.310303,NFL Futures - 2022/2023 Division Winner - NFC South - NFC South Winner,New Orleans Saints,-0.0131,0.2222,0.2353
 2022-06-11 10:31:59.234114,NFL Futures - 2022/2023 Division Winner - AFC West - AFC West Winner,Los Angeles Chargers,-0.013600000000000001,0.2941,0.3077
@@ -61,11 +63,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-11 10:31:59.257383,NFL Futures - 2022/2023 Division Winner - NFC East - NFC East Winner,Washington Football Team,-0.015100000000000002,0.1667,0.1818
 2022-06-11 13:43:36.854864,College Baseball - 2022 College World Series - Odds to Win - Outright,Southern Mississippi,-0.015300000000000001,0.0323,0.0476
 2022-06-11 13:43:36.854864,College Baseball - 2022 College World Series - Odds to Win - Outright,Tennessee,-0.015400000000000025,0.3846,0.4
-2022-06-11 12:32:19.082730,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Joe Biden,-0.017600000000000005,0.3333,0.3509
+2022-06-11 19:30:47.851504,Boxing Lines - Ijaz Ahmed vs Quaise Khademi - To Win the Bout,Ijaz Ahmed,-0.01649999999999996,0.3788,0.3953
 2022-06-11 12:32:19.046966,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Joe Biden,-0.017600000000000005,0.3333,0.3509
+2022-06-11 12:32:19.082730,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Joe Biden,-0.017600000000000005,0.3333,0.3509
 2022-06-11 12:32:18.752928,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Republican,-0.018999999999999906,0.7143,0.7333
-2022-06-11 16:31:14.469860,BKFC Fight Night: Jackson 2 - Quentin Henry vs Sawyer Depee - To Win the Bout,Sawyer Depee,-0.020799999999999985,0.3125,0.3333
 2022-06-11 16:31:14.363215,BKFC Fight Night: Jackson 2 - Tyler Sammis vs Phil Ramer - To Win the Bout,Phil Ramer,-0.020799999999999985,0.3125,0.3333
+2022-06-11 16:31:14.469860,BKFC Fight Night: Jackson 2 - Quentin Henry vs Sawyer Depee - To Win the Bout,Sawyer Depee,-0.020799999999999985,0.3125,0.3333
 2022-06-11 10:31:58.400618,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Houston Texans,Over 5,-0.02169999999999994,0.5238,0.5455
 2022-06-11 10:31:58.612768,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Giants,Under 7,-0.02169999999999994,0.5238,0.5455
 2022-06-11 12:32:19.210045,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - Winner,Joe Biden,-0.021799999999999986,0.16,0.1818
@@ -79,8 +82,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-11 10:31:58.724695,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Tennessee Titans,Under 9.5,-0.03610000000000002,0.5556,0.5917
 2022-06-11 10:31:58.693030,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Seattle Seahawks,Over 5.5,-0.03610000000000002,0.5556,0.5917
 2022-06-11 13:43:37.103923,College Baseball - Corvallis Super Regional Winner - Series Winner,Auburn,-0.03620000000000001,0.4082,0.4444
-2022-06-11 13:43:37.050777,College Baseball - Hattiesburg Super Regional Winner - Series Winner,Ole Miss,-0.043399999999999994,0.5122,0.5556
 2022-06-11 10:31:59.212318,NFL Futures - 2022/2023 Division Winner - AFC South - AFC South Winner,Indianapolis Colts,-0.043399999999999994,0.5122,0.5556
+2022-06-11 13:43:37.050777,College Baseball - Hattiesburg Super Regional Winner - Series Winner,Ole Miss,-0.043399999999999994,0.5122,0.5556
 2022-06-11 10:31:59.257383,NFL Futures - 2022/2023 Division Winner - NFC East - NFC East Winner,Philadelphia Eagles,-0.04910000000000003,0.3509,0.4
 2022-06-11 10:31:59.166048,NFL Futures - 2022/2023 Division Winner - AFC East - AFC East Winner,Buffalo Bills,-0.0494,0.6429,0.6923
 2022-06-11 10:31:59.190765,NFL Futures - 2022/2023 Division Winner - AFC North - AFC North Winner,Cleveland Browns,-0.054300000000000015,0.2632,0.3175
