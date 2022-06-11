@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2022-06-10 23:32:09.799233,Super Ligi - Turkey BSL 2021/22 - Outright,Fenerbahce,0.37450000000000006,0.8,0.4255
 2022-06-10 12:43:54.144407,NBA Specials - Where will Donovan Mitchell play next season? - Proposition,Miami Heat,0.1389,0.25,0.1111
 2022-06-10 14:34:15.490356,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,0.0673,0.2778,0.2105
 2022-06-10 16:30:51.633158,Boxing Lines - Jorge David Castaneda vs Eduardo Hernandez - To Win the Bout,Eduardo Hernandez,0.036699999999999955,0.7222,0.6855
@@ -14,6 +15,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-10 14:34:15.147940,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,0.021100000000000008,0.2564,0.2353
 2022-06-10 14:34:15.436526,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,0.02100000000000002,0.3846,0.3636
 2022-06-10 14:34:16.346794,College Baseball - Hattiesburg Super Regional Winner - Series Winner,Ole Miss,0.02079999999999993,0.5556,0.5348
+2022-06-10 23:32:11.021880,Boxing Lines - Raphael Akpejiori vs Terrell James Woods - To Win the Bout,Terrell James Woods,0.020100000000000007,0.1739,0.1538
 2022-06-10 14:34:15.880207,College Baseball - Greenville Super Regional Winner - Series Winner,Texas,0.01880000000000004,0.6552,0.6364
 2022-06-10 14:34:15.081585,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Atlanta Braves,0.018099999999999998,0.0769,0.0588
 2022-06-10 14:34:15.259645,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.0179,0.1429,0.125
@@ -23,21 +25,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-10 14:34:15.204726,MLB Futures - MLB 2022 National League - NL Winner,San Francisco Giants,0.014399999999999996,0.0769,0.0625
 2022-06-10 14:34:15.081585,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,San Diego Padres,0.014399999999999996,0.0769,0.0625
 2022-06-10 16:30:51.652376,Boxing Lines - Bakhodir Jalolov vs Jack Mulowayi - To Win the Bout,Jack Mulowayi,0.013999999999999999,0.0909,0.0769
+2022-06-10 23:32:10.410233,Boxing Lines - Jorge David Castaneda vs Eduardo Hernandez - To Win the Bout,Eduardo Hernandez,0.013599999999999945,0.7059,0.6923
 2022-06-10 14:34:20.343380,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Calgary Stampeders,0.012899999999999995,0.1667,0.1538
 2022-06-10 14:34:15.147940,MLB Futures - MLB 2022 Amercian League - AL Winner,New York Yankees,0.012799999999999978,0.2985,0.2857
 2022-06-10 17:32:51.824271,Boxing Lines - Mayerlin Rivas vs Karina Fernandez - To Win the Bout,Mayerlin Rivas,0.011900000000000022,0.8214,0.8095
 2022-06-10 14:34:15.147940,MLB Futures - MLB 2022 Amercian League - AL Winner,Toronto Blue Jays,0.011899999999999994,0.1905,0.1786
+2022-06-10 23:32:10.350825,Boxing Lines - Mayerlin Rivas vs Karina Fernandez - To Win the Bout,Karina Fernandez,0.011099999999999999,0.241,0.2299
 2022-06-10 16:30:51.863210,Boxing Lines - Carlos Caraballo Rodriguez vs Victor Santillan - To Win the Bout,Victor Santillan,-0.010099999999999998,0.3125,0.3226
 2022-06-10 14:34:15.081585,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Milwaukee Brewers,-0.0102,0.0667,0.0769
 2022-06-10 14:34:15.259645,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,-0.010599999999999998,0.4545,0.4651
 2022-06-10 12:43:56.666433,Boxing Lines - Bekman Soylybayev vs Tomas Rojas - To Win the Bout,Tomas Rojas,-0.010700000000000001,0.1143,0.125
-2022-06-10 14:34:15.204726,MLB Futures - MLB 2022 National League - NL Winner,Milwaukee Brewers,-0.010899999999999993,0.1429,0.1538
 2022-06-10 14:34:20.343380,CFL - Odds to win 109th (2022) Grey Cup - Grey Cup Winner,Toronto Argonauts,-0.010899999999999993,0.1429,0.1538
+2022-06-10 14:34:15.204726,MLB Futures - MLB 2022 National League - NL Winner,Milwaukee Brewers,-0.010899999999999993,0.1429,0.1538
 2022-06-10 14:34:15.971650,College Baseball - Blacksburg Super Regional Winner - Series Winner,Virginia Tech,-0.011499999999999955,0.6552,0.6667
 2022-06-10 16:30:51.633158,Boxing Lines - Jorge David Castaneda vs Eduardo Hernandez - To Win the Bout,Jorge David Castaneda,-0.012299999999999978,0.3448,0.3571
 2022-06-10 12:43:56.589463,Boxing Lines - Hiroto Kyoguchi vs Esteban Bermudez - To Win the Bout,Esteban Bermudez,-0.012499999999999983,0.2174,0.2299
 2022-06-10 17:32:51.824271,Boxing Lines - Mayerlin Rivas vs Karina Fernandez - To Win the Bout,Karina Fernandez,-0.012799999999999978,0.2469,0.2597
 2022-06-10 14:34:15.204726,MLB Futures - MLB 2022 National League - NL Winner,New York Mets,-0.0131,0.2222,0.2353
+2022-06-10 23:32:10.410233,Boxing Lines - Jorge David Castaneda vs Eduardo Hernandez - To Win the Bout,Jorge David Castaneda,-0.013300000000000034,0.3571,0.3704
 2022-06-10 14:34:15.081585,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,New York Mets,-0.013899999999999996,0.1111,0.125
 2022-06-10 21:31:15.488735,Boxing Lines - Bakhodir Jalolov vs Jack Mulowayi - To Win the Bout,Jack Mulowayi,-0.013999999999999999,0.0769,0.0909
 2022-06-10 16:30:51.621909,Boxing Lines - Mayerlin Rivas vs Karina Fernandez - To Win the Bout,Karina Fernandez,-0.014300000000000035,0.2597,0.274
@@ -49,15 +54,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-10 14:34:15.013800,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Nolan Gorman,-0.016699999999999993,0.25,0.2667
 2022-06-10 20:31:14.252821,Boxing Lines - Mayerlin Rivas vs Karina Fernandez - To Win the Bout,Karina Fernandez,-0.017000000000000015,0.2299,0.2469
 2022-06-10 14:34:15.880207,College Baseball - Greenville Super Regional Winner - Series Winner,East Carolina,-0.017299999999999982,0.4082,0.4255
-2022-06-10 14:34:15.147940,MLB Futures - MLB 2022 Amercian League - AL Winner,Chicago White Sox,-0.02020000000000001,0.0909,0.1111
 2022-06-10 14:34:15.315506,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,-0.02020000000000001,0.0909,0.1111
+2022-06-10 14:34:15.147940,MLB Futures - MLB 2022 Amercian League - AL Winner,Chicago White Sox,-0.02020000000000001,0.0909,0.1111
 2022-06-10 14:34:16.993134,Boxing Lines - Jorge David Castaneda vs Eduardo Hernandez - To Win the Bout,Eduardo Hernandez,-0.020399999999999974,0.6855,0.7059
 2022-06-10 14:34:16.346794,College Baseball - Hattiesburg Super Regional Winner - Series Winner,Southern Mississippi,-0.02079999999999993,0.5348,0.5556
 2022-06-10 14:34:15.259645,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.024399999999999977,0.4878,0.5122
 2022-06-10 17:32:51.861238,Boxing Lines - Jorge David Castaneda vs Eduardo Hernandez - To Win the Bout,Eduardo Hernandez,-0.029899999999999927,0.6923,0.7222
 2022-06-10 14:34:16.052547,College Baseball - Knoxville Super Regional Winner - Series Winner,Notre Dame,-0.031399999999999983,0.2353,0.2667
 2022-06-10 14:34:15.081585,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Dodgers,-0.031700000000000006,0.1905,0.2222
+2022-06-10 23:32:11.021880,Boxing Lines - Raphael Akpejiori vs Terrell James Woods - To Win the Bout,Raphael Akpejiori,-0.03420000000000001,0.8889,0.9231
 2022-06-10 14:34:15.381648,MLB Futures - MLB 2022 American League West - ALW Winner,Los Angeles Angels,-0.04849999999999999,0.1053,0.1538
 2022-06-10 14:34:15.537866,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,-0.05180000000000007,0.726,0.7778
 2022-06-10 14:34:15.490356,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,-0.07010000000000005,0.7299,0.8
 2022-06-10 14:34:15.013800,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Seiya Suzuki,-0.07930000000000001,0.1429,0.2222
+2022-06-10 23:32:09.799233,Super Ligi - Turkey BSL 2021/22 - Outright,Anadolu Efes,-0.37260000000000004,0.25,0.6226
