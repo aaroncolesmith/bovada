@@ -10,8 +10,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-11 13:43:37.050777,College Baseball - Hattiesburg Super Regional Winner - Series Winner,Southern Mississippi,0.03959999999999997,0.5744,0.5348
 2022-06-11 10:31:59.234114,NFL Futures - 2022/2023 Division Winner - AFC West - AFC West Winner,Kansas City Chiefs,0.03640000000000004,0.4,0.3636
 2022-06-11 04:31:19.723037,CFL Season Props - 2022 - Regular Season Wins - Edmonton Elks - Proposition,Over 6.5,0.03610000000000002,0.5917,0.5556
-2022-06-11 10:31:58.693030,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Seattle Seahawks,Under 5.5,0.035999999999999976,0.5122,0.4762
 2022-06-11 10:31:58.724695,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Tennessee Titans,Over 9.5,0.035999999999999976,0.5122,0.4762
+2022-06-11 10:31:58.693030,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Seattle Seahawks,Under 5.5,0.035999999999999976,0.5122,0.4762
 2022-06-11 10:31:59.339659,NFL Futures - 2022/2023 Division Winner - NFC West - NFC West Winner,Arizona Cardinals,0.0353,0.2353,0.2
 2022-06-11 10:31:59.257383,NFL Futures - 2022/2023 Division Winner - NFC East - NFC East Winner,New York Giants,0.034100000000000005,0.125,0.0909
 2022-06-11 10:31:59.166048,NFL Futures - 2022/2023 Division Winner - AFC East - AFC East Winner,New England Patriots,0.033300000000000024,0.2,0.1667
@@ -28,7 +28,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-11 10:31:58.612768,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New York Giants,Over 7,0.02169999999999994,0.5455,0.5238
 2022-06-11 10:31:58.400618,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Houston Texans,Under 5,0.02169999999999994,0.5455,0.5238
 2022-06-11 11:30:53.796503,Boxing Lines - Marc Leach vs Liam Davies - To Win the Bout,Liam Davies,0.021299999999999986,0.303,0.2817
-2022-06-11 02:31:28.346828,Boxing Lines - Raphael Akpejiori vs Terrell James Woods - To Win the Bout,Raphael Akpejiori,0.020199999999999996,0.9091,0.8889
 2022-06-11 13:43:36.854864,College Baseball - 2022 College World Series - Odds to Win - Outright,East Carolina,0.019800000000000005,0.0476,0.0278
 2022-06-11 12:32:19.046966,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Field,0.018999999999999906,0.7333,0.7143
 2022-06-11 12:32:19.253384,Brazilian Politics - 2022 Brazilian Presidential Election - Winner,Lula da Silva,0.018199999999999994,0.8182,0.8
@@ -43,9 +42,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-11 13:43:36.854864,College Baseball - 2022 College World Series - Odds to Win - Outright,Louisville,-0.011199999999999995,0.0323,0.0435
 2022-06-11 12:32:19.157871,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Outright,Democratic,-0.0116,0.4762,0.4878
 2022-06-11 10:31:58.316310,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Dallas Cowboys,Under 10,-0.011600000000000055,0.5122,0.5238
-2022-06-11 13:43:36.901910,College Baseball - Chapel Hill Super Regional Winner - Total Games,Under 2.5,-0.012199999999999989,0.5,0.5122
 2022-06-11 12:32:19.128912,US Presidential Election 2024 - US Presidential Election 2024 - Republican Candidate - Winner,Donald Trump,-0.012199999999999989,0.5,0.5122
-2022-06-11 02:31:28.346828,Boxing Lines - Raphael Akpejiori vs Terrell James Woods - To Win the Bout,Terrell James Woods,-0.012899999999999995,0.1538,0.1667
+2022-06-11 13:43:36.901910,College Baseball - Chapel Hill Super Regional Winner - Total Games,Under 2.5,-0.012199999999999989,0.5,0.5122
 2022-06-11 10:31:59.310303,NFL Futures - 2022/2023 Division Winner - NFC South - NFC South Winner,New Orleans Saints,-0.0131,0.2222,0.2353
 2022-06-11 10:31:59.234114,NFL Futures - 2022/2023 Division Winner - AFC West - AFC West Winner,Los Angeles Chargers,-0.013600000000000001,0.2941,0.3077
 2022-06-11 13:43:36.854864,College Baseball - 2022 College World Series - Odds to Win - Outright,Auburn,-0.014100000000000001,0.0385,0.0526
@@ -54,7 +52,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-11 10:31:59.257383,NFL Futures - 2022/2023 Division Winner - NFC East - NFC East Winner,Washington Football Team,-0.015100000000000002,0.1667,0.1818
 2022-06-11 13:43:36.854864,College Baseball - 2022 College World Series - Odds to Win - Outright,Southern Mississippi,-0.015300000000000001,0.0323,0.0476
 2022-06-11 13:43:36.854864,College Baseball - 2022 College World Series - Odds to Win - Outright,Tennessee,-0.015400000000000025,0.3846,0.4
-2022-06-11 02:31:27.662568,Boxing Lines - Bakhodir Jalolov vs Jack Mulowayi - To Win the Bout,Jack Mulowayi,-0.016600000000000004,0.0667,0.0833
 2022-06-11 12:32:19.082730,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Winner,Joe Biden,-0.017600000000000005,0.3333,0.3509
 2022-06-11 12:32:19.046966,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Candidate - Outright,Joe Biden,-0.017600000000000005,0.3333,0.3509
 2022-06-11 12:32:18.752928,Political Specials - Which Party will control the Senate after the 2022 Midterm Election? - Outright,Republican,-0.018999999999999906,0.7143,0.7333
