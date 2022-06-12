@@ -2,6 +2,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-11 16:31:14.844927,Stranger Things Specials - Characters to Die in Season 4 of Stranger Things? - Proposition,Steve,0.06520000000000004,0.5652,0.5
 2022-06-11 23:45:23.890697,Boxing Lines - Edgar Berlanga vs Roamer Alexis Angulo - To Win the Bout,Roamer Alexis Angulo,0.05080000000000001,0.3175,0.2667
 2022-06-11 21:31:14.308119,NBA Specials - Where will DeAndre Ayton play next season? - DeAndre Ayton Next Franchise?,Phoenix Suns,0.04999999999999999,0.25,0.2
+2022-06-12 03:42:45.307295,Boxing Lines - Edgar Berlanga vs Roamer Alexis Angulo - To Win the Bout,Edgar Berlanga,0.04619999999999991,0.8462,0.8
 2022-06-11 16:31:14.506479,BKFC Fight Night: Jackson 2 - Martin Brown vs Robbie Peralta - To Win the Bout,Martin Brown,0.036900000000000044,0.7143,0.6774
 2022-06-11 22:31:40.822064,Boxing Lines - Edgar Berlanga vs Roamer Alexis Angulo - To Win the Bout,Edgar Berlanga,0.0353,0.8,0.7647
 2022-06-12 02:31:35.201448,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,USC,0.030199999999999998,0.0625,0.0323
@@ -29,4 +30,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-11 20:30:48.588175,BKFC Fight Night: Jackson 2 - Tyler Sammis vs Phil Ramer - To Win the Bout,Phil Ramer,-0.02679999999999999,0.2857,0.3125
 2022-06-11 16:31:14.506479,BKFC Fight Night: Jackson 2 - Martin Brown vs Robbie Peralta - To Win the Bout,Robbie Peralta,-0.03370000000000001,0.3509,0.3846
 2022-06-11 22:31:40.822064,Boxing Lines - Edgar Berlanga vs Roamer Alexis Angulo - To Win the Bout,Roamer Alexis Angulo,-0.0363,0.2667,0.303
+2022-06-12 03:42:45.307295,Boxing Lines - Edgar Berlanga vs Roamer Alexis Angulo - To Win the Bout,Roamer Alexis Angulo,-0.044499999999999984,0.2222,0.2667
 2022-06-12 00:49:11.696765,Boxing Lines - Edgar Berlanga vs Roamer Alexis Angulo - To Win the Bout,Roamer Alexis Angulo,-0.05080000000000001,0.2667,0.3175
