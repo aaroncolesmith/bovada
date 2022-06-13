@@ -22,6 +22,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-13 01:30:40.086589,TV Specials - Will Tom Holland appear in Euphoria Season 3? - Outright,No,0.02310000000000001,0.9231,0.9
 2022-06-13 00:31:28.612312,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Buffalo Bills,Under 12,0.022600000000000064,0.5348,0.5122
 2022-06-13 02:30:55.092584,NBA Specials - NBA 2022 Number 2 Overall Pick - Proposition,Jaden Ivey,0.022400000000000003,0.0323,0.0099
+2022-06-13 08:31:27.820884,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Joe Smith Jr,0.018599999999999978,0.1667,0.1481
 2022-06-13 02:30:55.135501,NBA Specials - NBA 2022 Number 5 Overall Pick - Proposition,A.J. Griffin,0.018200000000000004,0.0476,0.0294
 2022-06-13 01:30:39.916191,Superhero Movie Specials - Will Any Of These Characters Appear In Marvel's 'Black Panther: Wakanda Forever' - Proposition,Namor McKenzie,0.018100000000000005,0.9231,0.905
 2022-06-13 02:30:55.120954,NBA Specials - NBA 2022 Number 4 Overall Pick - Proposition,Chet Holmgren,0.017800000000000003,0.0244,0.0066
@@ -29,8 +30,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-13 02:30:55.106312,NBA Specials - NBA 2022 Number 3 Overall Pick - Proposition,Jabari Smith,0.015300000000000001,0.0476,0.0323
 2022-06-12 23:30:46.432407,NFL Futures - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Baltimore Ravens,0.013999999999999999,0.0909,0.0769
 2022-06-12 23:30:46.362420,NFL Futures - 2022/2023 Division Winner - AFC West - AFC West Winner,Los Angeles Chargers,0.013600000000000001,0.3077,0.2941
-2022-06-13 02:30:55.135501,NBA Specials - NBA 2022 Number 5 Overall Pick - Proposition,Jeremy Sochan,0.0114,0.0164,0.005
 2022-06-13 02:30:55.135501,NBA Specials - NBA 2022 Number 5 Overall Pick - Proposition,Chet Holmgren,0.0114,0.0164,0.005
+2022-06-13 02:30:55.135501,NBA Specials - NBA 2022 Number 5 Overall Pick - Proposition,Jeremy Sochan,0.0114,0.0164,0.005
 2022-06-13 00:31:28.790526,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New England Patriots,Under 8.5,0.011099999999999999,0.4762,0.4651
 2022-06-13 03:30:40.801934,NBA Specials - NBA 2022 Number 4 Overall Pick - Proposition,Keegan Murray,0.010499999999999982,0.2105,0.2
 2022-06-12 23:30:44.657941,LNB Pro A - LNB Pro A 2021/22 - Outright,Monaco,0.010099999999999998,0.5556,0.5455
