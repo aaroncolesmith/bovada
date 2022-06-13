@@ -18,7 +18,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-13 13:32:01.757337,England Premier League - English Premier League 2022/23 - Outright,Tottenham Hotspur,0.0203,0.0588,0.0385
 2022-06-13 12:31:13.786728,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Joe Smith Jr,0.020100000000000007,0.1739,0.1538
 2022-06-13 19:31:17.524616,NCAAF - 2022 SEC Championship - Odds to Win - Outright,Alabama,0.01970000000000005,0.5652,0.5455
-2022-06-13 08:31:27.820884,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Joe Smith Jr,0.018599999999999978,0.1667,0.1481
 2022-06-13 19:31:17.524616,NCAAF - 2022 SEC Championship - Odds to Win - Outright,Georgia,0.017299999999999982,0.4255,0.4082
 2022-06-13 09:31:24.798242,Boxing Lines - Hughie Fury vs Michael Hunter - To Win the Bout,Hughie Fury,0.017199999999999993,0.5455,0.5283
 2022-06-13 14:31:47.781016,MLB Futures - MLB 2022 American League West - ALW Winner,Houston Astros,0.01660000000000006,0.9333,0.9167
@@ -31,14 +30,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-13 12:31:15.236279,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Sandy Alcantara,0.010499999999999982,0.2105,0.2
 2022-06-13 14:31:47.680844,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,0.010299999999999976,0.2667,0.2564
 2022-06-13 16:30:46.112609,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Kansas,0.0102,0.0769,0.0667
-2022-06-13 14:31:47.781016,MLB Futures - MLB 2022 American League West - ALW Winner,Los Angeles Angels,-0.010099999999999998,0.0952,0.1053
 2022-06-13 19:31:17.460025,NCAAF - 2022 Big Ten Championship - Odds to Win - Outright,Ohio State,-0.010099999999999998,0.6774,0.6875
+2022-06-13 14:31:47.781016,MLB Futures - MLB 2022 American League West - ALW Winner,Los Angeles Angels,-0.010099999999999998,0.0952,0.1053
 2022-06-13 12:31:15.236279,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Corbin Burnes,-0.010499999999999982,0.2,0.2105
 2022-06-13 19:31:17.440190,NCAAF - 2022 Big 12 Championship - Odds to Win - Outright,Baylor,-0.010899999999999993,0.1429,0.1538
 2022-06-13 14:31:47.651015,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Angels,-0.0115,0.0179,0.0294
 2022-06-13 09:31:24.766683,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Joe Smith Jr,-0.012899999999999995,0.1538,0.1667
-2022-06-13 12:31:15.236279,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Max Fried,-0.013999999999999999,0.0769,0.0909
 2022-06-13 14:31:47.758815,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,-0.013999999999999999,0.0769,0.0909
+2022-06-13 12:31:15.236279,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Max Fried,-0.013999999999999999,0.0769,0.0909
 2022-06-13 19:31:17.524616,NCAAF - 2022 SEC Championship - Odds to Win - Outright,Texas A&M,-0.014399999999999996,0.0625,0.0769
 2022-06-13 19:31:17.487418,NCAAF - 2022 Pac-12 Championship - Odds to Win - Outright,Oregon,-0.014600000000000002,0.2632,0.2778
 2022-06-13 19:31:17.487418,NCAAF - 2022 Pac-12 Championship - Odds to Win - Outright,Utah,-0.014600000000000002,0.2632,0.2778
