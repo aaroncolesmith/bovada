@@ -1,39 +1,20 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-06-12 18:31:39.136408,MLB Futures - MLB 2022 Player Awards - American League MVP,Aaron Judge,0.2984,0.4651,0.1667
-2022-06-12 18:31:39.234286,MLB Futures - MLB 2022 Player Awards - National League MVP ,Mookie Betts,0.2191,0.2667,0.0476
-2022-06-12 18:31:39.234286,MLB Futures - MLB 2022 Player Awards - National League MVP ,Paul Goldschmidt,0.1909,0.2105,0.0196
 2022-06-13 02:30:55.135501,NBA Specials - NBA 2022 Number 5 Overall Pick - Proposition,Keegan Murray,0.16809999999999997,0.5455,0.3774
-2022-06-12 18:31:39.203661,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Sandy Alcantara,0.1524,0.2,0.0476
-2022-06-12 18:31:39.082538,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Shane McClanahan,0.1196,0.2105,0.0909
 2022-06-13 02:30:55.092584,NBA Specials - NBA 2022 Number 2 Overall Pick - Proposition,Paolo Banchero,0.10910000000000002,0.2,0.0909
-2022-06-12 18:31:39.203661,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Joe Musgrove,0.10419999999999999,0.1667,0.0625
 2022-06-13 02:30:55.120954,NBA Specials - NBA 2022 Number 4 Overall Pick - Proposition,Jaden Ivey,0.10040000000000004,0.7778,0.6774
 2022-06-13 02:30:55.079081,NBA Specials - NBA 2022 Number 1 Overall Pick - Proposition,Chet Holmgren,0.09799999999999998,0.3333,0.2353
 2022-06-13 02:30:55.135501,NBA Specials - NBA 2022 Number 5 Overall Pick - Proposition,Dyson Daniels,0.09029999999999999,0.1429,0.0526
 2022-06-13 02:30:55.106312,NBA Specials - NBA 2022 Number 3 Overall Pick - Proposition,Chet Holmgren,0.07239999999999999,0.125,0.0526
-2022-06-12 18:31:39.261359,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Seiya Suzuki,0.0676,0.2105,0.1429
 2022-06-13 02:30:55.135501,NBA Specials - NBA 2022 Number 5 Overall Pick - Proposition,Jaden Ivey,0.0635,0.2857,0.2222
-2022-06-12 18:31:39.203661,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Zack Wheeler,0.05859999999999999,0.0909,0.0323
-2022-06-12 18:31:39.234286,MLB Futures - MLB 2022 Player Awards - National League MVP ,Pete Alonso,0.0577,0.1053,0.0476
-2022-06-12 18:31:39.203661,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Corbin Burnes,0.0567,0.2105,0.1538
 2022-06-13 01:30:39.916191,Superhero Movie Specials - Will Any Of These Characters Appear In Marvel's 'Black Panther: Wakanda Forever' - Proposition,Namora,0.05489999999999995,0.7692,0.7143
 2022-06-13 02:30:55.106312,NBA Specials - NBA 2022 Number 3 Overall Pick - Proposition,Jaden Ivey,0.0509,0.1176,0.0667
 2022-06-13 02:30:55.120954,NBA Specials - NBA 2022 Number 4 Overall Pick - Proposition,Dyson Daniels,0.0474,0.0909,0.0435
 2022-06-13 02:30:55.120954,NBA Specials - NBA 2022 Number 4 Overall Pick - Proposition,Keegan Murray,0.04620000000000002,0.2,0.1538
 2022-06-13 02:30:55.092584,NBA Specials - NBA 2022 Number 2 Overall Pick - Proposition,Jabari Smith,0.044499999999999984,0.2667,0.2222
 2022-06-12 20:32:05.438835,MLB Futures - MLB 2022 National League Central - NLC Winner,St. Louis Cardinals,0.04089999999999999,0.4255,0.3846
-2022-06-12 18:31:39.082538,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Alek Manoah,0.0407,0.1176,0.0769
 2022-06-12 21:30:40.816566,Video Game Specials - Which city will Grand Theft Auto 6 be based on? - Outright,Tokyo,0.0384,0.0769,0.0385
-2022-06-12 18:31:39.082538,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Justin Verlander,0.033300000000000024,0.2,0.1667
-2022-06-12 18:31:39.136408,MLB Futures - MLB 2022 Player Awards - American League MVP,Rafael Devers,0.030199999999999998,0.0625,0.0323
 2022-06-13 02:30:55.120954,NBA Specials - NBA 2022 Number 4 Overall Pick - Proposition,Paolo Banchero,0.030199999999999998,0.0625,0.0323
-2022-06-12 18:31:39.171933,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Joe Ryan,0.028399999999999995,0.0909,0.0625
-2022-06-12 18:31:39.203661,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Max Fried,0.028399999999999995,0.0909,0.0625
-2022-06-12 18:31:39.082538,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Nestor Cortes,0.0267,0.1176,0.0909
 2022-06-12 23:30:46.374818,NFL Futures - 2022/2023 Division Winner - NFC East - NFC East Winner,Philadelphia Eagles,0.026500000000000024,0.3774,0.3509
-2022-06-12 18:31:39.082538,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Luis Garcia,0.0253,0.0385,0.0132
-2022-06-12 18:31:39.261359,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Juan Yepez,0.024299999999999995,0.0769,0.0526
-2022-06-12 18:31:39.136408,MLB Futures - MLB 2022 Player Awards - American League MVP,Jose Ramirez,0.0242,0.0909,0.0667
 2022-06-13 02:30:55.079081,NBA Specials - NBA 2022 Number 1 Overall Pick - Proposition,Paolo Banchero,0.024,0.0625,0.0385
 2022-06-13 00:31:28.950749,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Defensive Rookie of the Year,Kayvon Thibodeaux,0.023799999999999988,0.1667,0.1429
 2022-06-13 02:30:55.135501,NBA Specials - NBA 2022 Number 5 Overall Pick - Proposition,Paolo Banchero,0.0233,0.0385,0.0152
@@ -46,74 +27,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-13 02:30:55.120954,NBA Specials - NBA 2022 Number 4 Overall Pick - Proposition,Chet Holmgren,0.017800000000000003,0.0244,0.0066
 2022-06-13 02:30:55.135501,NBA Specials - NBA 2022 Number 5 Overall Pick - Proposition,Jalen Duren,0.017100000000000004,0.0323,0.0152
 2022-06-13 02:30:55.106312,NBA Specials - NBA 2022 Number 3 Overall Pick - Proposition,Jabari Smith,0.015300000000000001,0.0476,0.0323
-2022-06-12 18:31:39.203661,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Zac Gallen,0.014899999999999997,0.0625,0.0476
-2022-06-12 18:31:39.261359,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Alek Thomas,0.014399999999999996,0.0769,0.0625
-2022-06-12 18:31:39.171933,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Steven Kwan,0.014099999999999998,0.0385,0.0244
 2022-06-12 23:30:46.432407,NFL Futures - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Baltimore Ravens,0.013999999999999999,0.0909,0.0769
 2022-06-12 23:30:46.362420,NFL Futures - 2022/2023 Division Winner - AFC West - AFC West Winner,Los Angeles Chargers,0.013600000000000001,0.3077,0.2941
-2022-06-12 18:31:39.171933,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Spencer Torkelson,0.0131,0.0476,0.0345
-2022-06-12 18:31:39.082538,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Tarik Skubal,0.012700000000000003,0.0323,0.0196
 2022-06-13 02:30:55.135501,NBA Specials - NBA 2022 Number 5 Overall Pick - Proposition,Jeremy Sochan,0.0114,0.0164,0.005
 2022-06-13 02:30:55.135501,NBA Specials - NBA 2022 Number 5 Overall Pick - Proposition,Chet Holmgren,0.0114,0.0164,0.005
-2022-06-12 18:31:39.171933,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Bobby Witt Jr,0.011099999999999999,0.1111,0.1
 2022-06-13 00:31:28.790526,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New England Patriots,Under 8.5,0.011099999999999999,0.4762,0.4651
 2022-06-13 03:30:40.801934,NBA Specials - NBA 2022 Number 4 Overall Pick - Proposition,Keegan Murray,0.010499999999999982,0.2105,0.2
 2022-06-12 23:30:44.657941,LNB Pro A - LNB Pro A 2021/22 - Outright,Monaco,0.010099999999999998,0.5556,0.5455
-2022-06-12 18:31:38.059369,NCAAF - 2022 Big Ten Championship - Odds to Win - Outright,Ohio State,0.010099999999999998,0.6875,0.6774
-2022-06-12 18:31:39.234286,MLB Futures - MLB 2022 Player Awards - National League MVP ,Christian Yelich,-0.010300000000000002,0.0141,0.0244
-2022-06-12 18:31:39.234286,MLB Futures - MLB 2022 Player Awards - National League MVP ,Max Muncy,-0.0104,0.0028,0.0132
 2022-06-12 23:30:46.374818,NFL Futures - 2022/2023 Division Winner - NFC East - NFC East Winner,Dallas Cowboys,-0.010599999999999998,0.4545,0.4651
-2022-06-12 18:31:39.234286,MLB Futures - MLB 2022 Player Awards - National League MVP ,Austin Riley,-0.010600000000000002,0.0217,0.0323
-2022-06-12 18:31:39.203661,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Chris Bassitt,-0.010600000000000002,0.0217,0.0323
-2022-06-12 18:31:37.969281,NCAAF - 2022 ACC Championship - Odds to Win - Outright,Miami Florida,-0.010899999999999993,0.1429,0.1538
-2022-06-12 18:31:39.261359,MLB Futures - MLB 2022 Player Awards - National League Rookie of the Year,Oneil Cruz,-0.011199999999999995,0.0323,0.0435
-2022-06-12 18:31:39.171933,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Grayson Rodriguez,-0.011200000000000002,0.0132,0.0244
-2022-06-12 18:31:39.136408,MLB Futures - MLB 2022 Player Awards - American League MVP,Taylor Ward,-0.011699999999999999,0.0079,0.0196
 2022-06-13 01:30:39.369050,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Joe Smith Jr,-0.011899999999999994,0.1481,0.16
-2022-06-12 18:31:39.234286,MLB Futures - MLB 2022 Player Awards - National League MVP ,Ozzie Albies,-0.013,0.0066,0.0196
 2022-06-13 03:30:40.801934,NBA Specials - NBA 2022 Number 4 Overall Pick - Proposition,Jaden Ivey,-0.0131,0.7647,0.7778
 2022-06-12 23:30:46.374818,NFL Futures - 2022/2023 Division Winner - NFC East - NFC East Winner,New York Giants,-0.013899999999999996,0.1111,0.125
 2022-06-12 23:30:46.432407,NFL Futures - 2022/2023 AFC Championship - Odds to win - AFC Conference Winner,Cleveland Browns,-0.013999999999999999,0.0769,0.0909
-2022-06-12 18:31:39.203661,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Pablo Lopez,-0.013999999999999999,0.0769,0.0909
-2022-06-12 18:31:39.136408,MLB Futures - MLB 2022 Player Awards - American League MVP,Carlos Correa,-0.0145,0.0099,0.0244
-2022-06-12 18:31:39.082538,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Robbie Ray,-0.0145,0.0099,0.0244
-2022-06-12 18:31:39.203661,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Tylor Megill,-0.0145,0.0099,0.0244
-2022-06-12 18:31:39.082538,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Yusei Kikuchi,-0.0151,0.0066,0.0217
-2022-06-12 18:31:39.136408,MLB Futures - MLB 2022 Player Awards - American League MVP,Mike Trout,-0.015100000000000002,0.1667,0.1818
 2022-06-13 02:30:55.120954,NBA Specials - NBA 2022 Number 4 Overall Pick - Proposition,A.J. Griffin,-0.0159,0.0164,0.0323
 2022-06-12 20:32:05.356947,MLB Futures - MLB 2022 National League - NL Winner,Milwaukee Brewers,-0.0179,0.125,0.1429
-2022-06-12 18:31:39.203661,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Walker Buehler,-0.01830000000000001,0.0769,0.0952
 2022-06-12 21:30:40.816566,Video Game Specials - Which city will Grand Theft Auto 6 be based on? - Outright,New York,-0.019000000000000017,0.2667,0.2857
-2022-06-12 18:31:38.187351,NCAAF - 2022 SEC Championship - Odds to Win - Outright,Alabama,-0.01970000000000005,0.5455,0.5652
-2022-06-12 18:31:39.203661,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Brandon Woodruff,-0.019800000000000005,0.0278,0.0476
-2022-06-12 18:31:39.203661,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Clayton Kershaw,-0.019800000000000005,0.0278,0.0476
-2022-06-12 18:31:39.203661,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Josh Hader,-0.019800000000000005,0.0278,0.0476
 2022-06-13 00:31:28.612312,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Buffalo Bills,Over 12,-0.02079999999999993,0.5348,0.5556
-2022-06-12 18:31:38.008541,NCAAF - 2022 Big 12 Championship - Odds to Win - Outright,Oklahoma,-0.021799999999999986,0.3704,0.3922
-2022-06-12 18:31:39.082538,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Noah Syndergaard,-0.022400000000000003,0.0099,0.0323
-2022-06-12 18:31:39.136408,MLB Futures - MLB 2022 Player Awards - American League MVP,Luis Robert,-0.023200000000000002,0.0244,0.0476
 2022-06-13 01:30:40.086589,TV Specials - Will Tom Holland appear in Euphoria Season 3? - Outright,Yes,-0.023799999999999988,0.1429,0.1667
 2022-06-12 23:30:44.657941,LNB Pro A - LNB Pro A 2021/22 - Outright,ASVEL Lyon-Villeurbanne,-0.023800000000000043,0.5,0.5238
-2022-06-12 18:31:39.082538,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Jose Berrios,-0.0244,0.0079,0.0323
-2022-06-12 18:31:39.234286,MLB Futures - MLB 2022 Player Awards - National League MVP ,Francisco Lindor,-0.024800000000000003,0.0278,0.0526
-2022-06-12 18:31:39.234286,MLB Futures - MLB 2022 Player Awards - National League MVP ,Matt Olson,-0.0253,0.0132,0.0385
-2022-06-12 18:31:39.082538,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Jordan Romano,-0.025900000000000003,0.0217,0.0476
-2022-06-12 18:31:39.136408,MLB Futures - MLB 2022 Player Awards - American League MVP,Wander Franco,-0.025900000000000003,0.0217,0.0476
-2022-06-12 18:31:38.008541,NCAAF - 2022 Big 12 Championship - Odds to Win - Outright,Oklahoma State,-0.027999999999999997,0.1538,0.1818
-2022-06-12 18:31:39.203661,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Logan Webb,-0.028000000000000004,0.0196,0.0476
-2022-06-12 18:31:39.082538,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Logan Gilbert,-0.030199999999999998,0.0323,0.0625
 2022-06-12 20:32:05.438835,MLB Futures - MLB 2022 National League Central - NLC Winner,Milwaukee Brewers,-0.03480000000000005,0.6667,0.7015
-2022-06-12 18:31:39.082538,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Dylan Cease,-0.042800000000000005,0.0625,0.1053
-2022-06-12 18:31:39.234286,MLB Futures - MLB 2022 Player Awards - National League MVP ,Freddie Freeman,-0.04329999999999999,0.0476,0.0909
-2022-06-12 18:31:39.082538,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Shohei Ohtani,-0.04329999999999999,0.0476,0.0909
 2022-06-13 02:30:55.092584,NBA Specials - NBA 2022 Number 2 Overall Pick - Proposition,Chet Holmgren,-0.044500000000000095,0.7333,0.7778
-2022-06-12 18:31:39.234286,MLB Futures - MLB 2022 Player Awards - National League MVP ,Ronald Acuna Jr..,-0.048600000000000004,0.0625,0.1111
 2022-06-13 02:30:55.135501,NBA Specials - NBA 2022 Number 5 Overall Pick - Proposition,Shaedon Sharpe,-0.054800000000000015,0.3226,0.3774
-2022-06-12 18:31:39.234286,MLB Futures - MLB 2022 Player Awards - National League MVP ,Juan Soto,-0.0635,0.0476,0.1111
-2022-06-12 18:31:39.136408,MLB Futures - MLB 2022 Player Awards - American League MVP,Byron Buxton,-0.0635,0.0476,0.1111
-2022-06-12 18:31:39.082538,MLB Futures - MLB 2022 Player Awards - American League Cy Young Award,Kevin Gausman,-0.07069999999999999,0.1111,0.1818
-2022-06-12 18:31:39.136408,MLB Futures - MLB 2022 Player Awards - American League MVP,Vladimir Guerrero Jr,-0.0774,0.0476,0.125
-2022-06-12 18:31:39.203661,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Carlos Rodon,-0.08979999999999999,0.0769,0.1667
-2022-06-12 18:31:39.234286,MLB Futures - MLB 2022 Player Awards - National League MVP ,Nolan Arenado,-0.10619999999999999,0.0476,0.1538
 2022-06-13 02:30:55.079081,NBA Specials - NBA 2022 Number 1 Overall Pick - Proposition,Jabari Smith,-0.12380000000000002,0.7333,0.8571
-2022-06-12 18:31:39.203661,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Max Scherzer,-0.1522,0.0217,0.1739
