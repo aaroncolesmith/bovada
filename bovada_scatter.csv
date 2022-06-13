@@ -11,6 +11,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-13 02:30:55.120954,NBA Specials - NBA 2022 Number 4 Overall Pick - Proposition,Dyson Daniels,0.0474,0.0909,0.0435
 2022-06-13 02:30:55.120954,NBA Specials - NBA 2022 Number 4 Overall Pick - Proposition,Keegan Murray,0.04620000000000002,0.2,0.1538
 2022-06-13 02:30:55.092584,NBA Specials - NBA 2022 Number 2 Overall Pick - Proposition,Jabari Smith,0.044499999999999984,0.2667,0.2222
+2022-06-13 12:31:15.219106,MLB Futures - MLB 2022 Player Awards - American League Rookie of the Year,Julio Rodriguez,0.030299999999999994,0.4651,0.4348
 2022-06-13 02:30:55.120954,NBA Specials - NBA 2022 Number 4 Overall Pick - Proposition,Paolo Banchero,0.030199999999999998,0.0625,0.0323
 2022-06-13 02:30:55.079081,NBA Specials - NBA 2022 Number 1 Overall Pick - Proposition,Paolo Banchero,0.024,0.0625,0.0385
 2022-06-13 00:31:28.950749,NFL Season Props - NFL 2022/23 Awards - 2022/23 - Defensive Rookie of the Year,Kayvon Thibodeaux,0.023799999999999988,0.1667,0.1429
@@ -19,6 +20,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-13 01:30:40.086589,TV Specials - Will Tom Holland appear in Euphoria Season 3? - Outright,No,0.02310000000000001,0.9231,0.9
 2022-06-13 00:31:28.612312,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Buffalo Bills,Under 12,0.022600000000000064,0.5348,0.5122
 2022-06-13 02:30:55.092584,NBA Specials - NBA 2022 Number 2 Overall Pick - Proposition,Jaden Ivey,0.022400000000000003,0.0323,0.0099
+2022-06-13 12:31:13.786728,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Joe Smith Jr,0.020100000000000007,0.1739,0.1538
 2022-06-13 08:31:27.820884,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Joe Smith Jr,0.018599999999999978,0.1667,0.1481
 2022-06-13 02:30:55.135501,NBA Specials - NBA 2022 Number 5 Overall Pick - Proposition,A.J. Griffin,0.018200000000000004,0.0476,0.0294
 2022-06-13 01:30:39.916191,Superhero Movie Specials - Will Any Of These Characters Appear In Marvel's 'Black Panther: Wakanda Forever' - Proposition,Namor McKenzie,0.018100000000000005,0.9231,0.905
@@ -31,10 +33,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2022-06-13 09:31:29.197022,MLS - MLS Cup 2022 - Outright,New England Revolution,0.011199999999999995,0.0588,0.0476
 2022-06-13 00:31:28.790526,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - New England Patriots,Under 8.5,0.011099999999999999,0.4762,0.4651
 2022-06-13 03:30:40.801934,NBA Specials - NBA 2022 Number 4 Overall Pick - Proposition,Keegan Murray,0.010499999999999982,0.2105,0.2
+2022-06-13 12:31:15.236279,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Sandy Alcantara,0.010499999999999982,0.2105,0.2
+2022-06-13 12:31:15.236279,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Corbin Burnes,-0.010499999999999982,0.2,0.2105
 2022-06-13 01:30:39.369050,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Joe Smith Jr,-0.011899999999999994,0.1481,0.16
 2022-06-13 09:31:24.766683,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Joe Smith Jr,-0.012899999999999995,0.1538,0.1667
 2022-06-13 03:30:40.801934,NBA Specials - NBA 2022 Number 4 Overall Pick - Proposition,Jaden Ivey,-0.0131,0.7647,0.7778
+2022-06-13 12:31:15.236279,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Max Fried,-0.013999999999999999,0.0769,0.0909
+2022-06-13 12:31:15.236279,MLB Futures - MLB 2022 Player Awards - National League Cy Young Award,Zac Gallen,-0.014899999999999997,0.0476,0.0625
 2022-06-13 02:30:55.120954,NBA Specials - NBA 2022 Number 4 Overall Pick - Proposition,A.J. Griffin,-0.0159,0.0164,0.0323
+2022-06-13 12:31:13.786728,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Artur Beterbiev,-0.020199999999999996,0.8889,0.9091
 2022-06-13 00:31:28.612312,NFL Season Props - NFL 2022-2023 Regular Season Win Totals - Buffalo Bills,Over 12,-0.02079999999999993,0.5348,0.5556
 2022-06-13 01:30:40.086589,TV Specials - Will Tom Holland appear in Euphoria Season 3? - Outright,Yes,-0.023799999999999988,0.1429,0.1667
 2022-06-13 02:30:55.092584,NBA Specials - NBA 2022 Number 2 Overall Pick - Proposition,Chet Holmgren,-0.044500000000000095,0.7333,0.7778
