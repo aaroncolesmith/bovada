@@ -1,45 +1,20 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2022-06-13 14:31:47.987505,College Baseball - 2022 College World Series - Odds to Win - Outright,Texas,0.17870000000000003,0.2222,0.0435
-2022-06-13 14:31:47.987505,College Baseball - 2022 College World Series - Odds to Win - Outright,Notre Dame,0.0756,0.1,0.0244
-2022-06-13 14:31:47.987505,College Baseball - 2022 College World Series - Odds to Win - Outright,Texas A&M,0.0588,0.1176,0.0588
-2022-06-13 14:31:47.987505,College Baseball - 2022 College World Series - Odds to Win - Outright,Ole Mississippi,0.05859999999999999,0.0909,0.0323
-2022-06-13 14:31:47.987505,College Baseball - 2022 College World Series - Odds to Win - Outright,Arkansas,0.0577,0.1053,0.0476
-2022-06-13 14:31:47.852011,MLB Futures - MLB 2022 National League West - NLW Winner,San Francisco Giants,0.04240000000000001,0.1333,0.0909
-2022-06-13 14:31:47.987505,College Baseball - 2022 College World Series - Odds to Win - Outright,Oregon State,0.04169999999999999,0.1667,0.125
-2022-06-13 14:31:47.758815,MLB Futures - MLB 2022 American League East - ALE Winner,New York Yankees,0.03949999999999998,0.7895,0.75
-2022-06-13 14:31:47.987505,College Baseball - 2022 College World Series - Odds to Win - Outright,Oklahoma,0.037500000000000006,0.1,0.0625
 2022-06-13 19:31:14.986819,NBA Specials - NBA 2022 Number 1 Overall Pick - Proposition,Chet Holmgren,0.03640000000000004,0.4,0.3636
-2022-06-13 14:31:47.738618,MLB Futures - MLB 2022 American League Central - ALC Winner,Minnesota Twins,0.033299999999999996,0.4878,0.4545
 2022-06-13 15:32:31.049996,NBA Specials - NBA 2022 Number 1 Overall Pick - Proposition,Chet Holmgren,0.030299999999999994,0.3636,0.3333
 2022-06-13 19:31:15.243757,Boxing Lines - Brian Duran vs Braedon Tovey - To Win the Bout,Brian Duran,0.026499999999999968,0.7826,0.7561
-2022-06-13 14:31:47.831293,MLB Futures - MLB 2022 National League East - NLE Winner,Atlanta Braves,0.0252,0.303,0.2778
-2022-06-13 14:31:47.738618,MLB Futures - MLB 2022 American League Central - ALC Winner,Cleveland Guardians,0.023799999999999988,0.1667,0.1429
-2022-06-13 13:32:01.757337,England Premier League - English Premier League 2022/23 - Outright,Tottenham Hotspur,0.0203,0.0588,0.0385
 2022-06-13 19:31:17.524616,NCAAF - 2022 SEC Championship - Odds to Win - Outright,Alabama,0.01970000000000005,0.5652,0.5455
 2022-06-13 19:31:17.524616,NCAAF - 2022 SEC Championship - Odds to Win - Outright,Georgia,0.017299999999999982,0.4255,0.4082
-2022-06-13 14:31:47.781016,MLB Futures - MLB 2022 American League West - ALW Winner,Houston Astros,0.01660000000000006,0.9333,0.9167
-2022-06-13 14:31:47.987505,College Baseball - 2022 College World Series - Odds to Win - Outright,Stanford,0.015100000000000002,0.1818,0.1667
-2022-06-13 14:31:47.711449,MLB Futures - MLB 2022 National League - NL Winner,St. Louis Cardinals,0.014399999999999996,0.0769,0.0625
 2022-06-13 19:31:17.440190,NCAAF - 2022 Big 12 Championship - Odds to Win - Outright,Oklahoma,0.01419999999999999,0.3846,0.3704
-2022-06-13 14:31:47.852011,MLB Futures - MLB 2022 National League West - NLW Winner,San Diego Padres,0.012399999999999967,0.2941,0.2817
 2022-06-13 19:31:17.418678,NCAAF - 2022 ACC Championship - Odds to Win - Outright,Miami Florida,0.010899999999999993,0.1538,0.1429
-2022-06-13 14:31:47.680844,MLB Futures - MLB 2022 Amercian League - AL Winner,Houston Astros,0.010299999999999976,0.2667,0.2564
 2022-06-13 16:30:46.112609,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Kansas,0.0102,0.0769,0.0667
 2022-06-13 19:31:17.460025,NCAAF - 2022 Big Ten Championship - Odds to Win - Outright,Ohio State,-0.010099999999999998,0.6774,0.6875
-2022-06-13 14:31:47.781016,MLB Futures - MLB 2022 American League West - ALW Winner,Los Angeles Angels,-0.010099999999999998,0.0952,0.1053
 2022-06-13 19:31:17.440190,NCAAF - 2022 Big 12 Championship - Odds to Win - Outright,Baylor,-0.010899999999999993,0.1429,0.1538
-2022-06-13 14:31:47.651015,MLB Futures - MLB 2022 World Series - 2022 World Series Winner,Los Angeles Angels,-0.0115,0.0179,0.0294
-2022-06-13 14:31:47.758815,MLB Futures - MLB 2022 American League East - ALE Winner,Tampa Bay Rays,-0.013999999999999999,0.0769,0.0909
 2022-06-13 19:31:17.524616,NCAAF - 2022 SEC Championship - Odds to Win - Outright,Texas A&M,-0.014399999999999996,0.0625,0.0769
-2022-06-13 19:31:17.487418,NCAAF - 2022 Pac-12 Championship - Odds to Win - Outright,Utah,-0.014600000000000002,0.2632,0.2778
 2022-06-13 19:31:17.487418,NCAAF - 2022 Pac-12 Championship - Odds to Win - Outright,Oregon,-0.014600000000000002,0.2632,0.2778
+2022-06-13 19:31:17.487418,NCAAF - 2022 Pac-12 Championship - Odds to Win - Outright,Utah,-0.014600000000000002,0.2632,0.2778
 2022-06-13 19:31:17.418678,NCAAF - 2022 ACC Championship - Odds to Win - Outright,NC State,-0.015899999999999997,0.0952,0.1111
 2022-06-13 15:32:31.049996,NBA Specials - NBA 2022 Number 1 Overall Pick - Proposition,Jabari Smith,-0.018999999999999906,0.7143,0.7333
-2022-06-13 14:31:47.831293,MLB Futures - MLB 2022 National League East - NLE Winner,New York Mets,-0.01980000000000004,0.7101,0.7299
 2022-06-13 17:30:50.998915,Boxing Lines - Artur Beterbiev vs Joe Smith Jr - To Win the Bout,Joe Smith Jr,-0.020100000000000007,0.1538,0.1739
 2022-06-13 16:30:46.112609,College Basketball - 2023 NCAA DI Men's Basketball Tournament - Odds to win,Gonzaga,-0.02020000000000001,0.0909,0.1111
-2022-06-13 14:31:47.758815,MLB Futures - MLB 2022 American League East - ALE Winner,Toronto Blue Jays,-0.024800000000000016,0.2105,0.2353
 2022-06-13 19:31:15.243757,Boxing Lines - Brian Duran vs Braedon Tovey - To Win the Bout,Braedon Tovey,-0.025999999999999968,0.2817,0.3077
 2022-06-13 19:31:17.576595,NCAAF - 2022-2023 NCAA Championship Winner - NCAA Champion,USC,-0.030199999999999998,0.0323,0.0625
-2022-06-13 14:31:47.852011,MLB Futures - MLB 2022 National League West - NLW Winner,Los Angeles Dodgers,-0.04859999999999998,0.6774,0.726
-2022-06-13 14:31:47.738618,MLB Futures - MLB 2022 American League Central - ALC Winner,Chicago White Sox,-0.05299999999999999,0.4348,0.4878
