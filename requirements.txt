@@ -7,4 +7,4 @@ st-annotated-text==1.0.1
 boto==2.49.0
 boto3==1.11.9
 botocore==1.14.9
-numpy==1.18.1
+numpy==1.22.0
